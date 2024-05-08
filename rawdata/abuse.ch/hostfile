@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-08 10:06:17 UTC                        #
+# Last updated: 2024-05-08 11:16:22 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	teachabletutorials.com
 127.0.0.1	cn1.cdngw.com
 127.0.0.1	waytowealth.org
 127.0.0.1	seadrill.top
@@ -12297,4 +12298,4 @@
 127.0.0.1	siliconerumble.com
 127.0.0.1	adfincolniclo.com
 127.0.0.1	botnet.ngocronglau.xyz
-# Number of entries: 12291
+# Number of entries: 12292
