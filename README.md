@@ -1,4 +1,4 @@
-# searchfeeds
+# Public Threat Intel Feeds
 
 
 ```
@@ -12,5 +12,5 @@ You can run a cron to get fresh data
 Make sure to change /path/ to your path
 ```
 crontab -e
-0 * * * * cd /path/searchfeeds && ./download.sh
+0 * * * * cd /path-to-repository && ./download.sh
 ```
