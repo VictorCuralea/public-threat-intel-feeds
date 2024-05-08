@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-08 17:50:38 UTC                        #
+# Last updated: 2024-05-08 20:39:42 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	beamazyn.com
+127.0.0.1	service-izlolzm0-1318382624.gz.tencentapigw.com.cn
 127.0.0.1	debtavailable.com
 127.0.0.1	cnc.nperm.net
 127.0.0.1	poor-indians-tax-me.icu
@@ -12269,4 +12271,4 @@
 127.0.0.1	static.106.47.140.128.clients.your-server.de
 127.0.0.1	static.107.185.243.136.clients.your-server.de
 127.0.0.1	www.159-65-168-135.cprapid.com
-# Number of entries: 12263
+# Number of entries: 12265
