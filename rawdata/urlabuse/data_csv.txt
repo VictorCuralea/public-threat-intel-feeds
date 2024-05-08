@@ -6,9 +6,15 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-05-08 18:00:02 UTC
+# UPDATE: 2024-05-08 19:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+126601, 2024-05-08 18:38:13, 2024-05-08 18:38:13, phishing, ba439af53077202a4c0f7dae1c2fa857, http://uaii-7rl.pages.dev
+126600, 2024-05-08 18:28:14, 2024-05-08 18:28:14, phishing, 7a525005386de3e6b374017bb7e87b8e, http://launchpadlpx-xyz.pages.dev
+126599, 2024-05-08 18:26:12, 2024-05-08 18:26:12, phishing, 9b0e0c2ee5b8c48ad4d9784bd35f8ad7, http://harjegdiscweoksjhudhquters1.pages.dev
+126598, 2024-05-08 18:06:16, 2024-05-08 18:06:16, phishing, e02b22f8bc0ba16536c4930d35ab13ce, https://siokaloka.blogspot.com/
+126597, 2024-05-08 18:04:15, 2024-05-08 18:04:15, phishing, 484ac669c2eee54233c2a41baff3be47, https://championslots.su/old/
+126596, 2024-05-08 18:04:14, 2024-05-08 18:04:14, phishing, a2af55f49d77f2a2951530dbde1625c1, http://nodechains-tradecurve.pages.dev
 126595, 2024-05-08 17:56:10, 2024-05-08 17:56:10, phishing, db25b389ce33ed3775d650ab234de151, http://nbf-cs0.pages.dev
 126594, 2024-05-08 17:54:12, 2024-05-08 17:54:12, phishing, 06095526dbd06e09f03cc2477abaf1eb, http://ahinmakdhaewa03.pages.dev
 126593, 2024-05-08 17:24:16, 2024-05-08 17:24:16, phishing, 4fe18168523bd21395e37b4a659c87d7, http://rensordynacreated.pages.dev
@@ -503,9 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 126104, 2024-05-08 09:25:38, 2024-05-08 09:25:38, malware, 0e241de2ad8e4409bab0c3ad1bf26afb, http://49.13.229.86/84bad7132df89fd7/sqlite3.dll
 126103, 2024-05-08 09:25:37, 2024-05-08 09:25:37, malware, fe1663523d2f48e68afd08d8aeef5ec2, http://49.13.229.86/84bad7132df89fd7/msvcp140.dll
 126102, 2024-05-08 09:25:29, 2024-05-08 09:25:29, malware, fd74a3da667540b78189b7d2ddf61032, http://45.163.18.139:18478/.i
-126101, 2024-05-08 09:25:26, 2024-05-08 09:25:26, malware, 3960a345e7b340948dfc364bf71bbea7, http://45.163.18.138:18478/.i
-126100, 2024-05-08 09:25:23, 2024-05-08 09:25:23, malware, 887209efc941428786d18dfccc4a6ba0, http://45.163.18.137:18478/.i
-126099, 2024-05-08 09:25:20, 2024-05-08 09:25:20, malware, a0327a7aa7f24ff798cb5f66861b19a4, http://45.163.18.136:18478/.i
-126098, 2024-05-08 09:25:16, 2024-05-08 09:25:16, malware, 77ebe15e6a884634ba70ffb633f8c40c, http://42.235.152.248:35587/i
-126097, 2024-05-08 09:25:14, 2024-05-08 09:25:14, malware, 443f11635ea24a03b1ef616bf35ebb9b, http://42.227.196.110:50499/bin.sh
-126096, 2024-05-08 09:25:12, 2024-05-08 09:25:12, malware, b0e87db3b9ec4469a6845b249b519a9d, http://42.226.73.189:33052/bin.sh
