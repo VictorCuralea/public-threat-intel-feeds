@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-05-08 12:00:01 UTC
+# UPDATE: 2024-05-08 13:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+126272, 2024-05-08 12:44:13, 2024-05-08 12:44:13, phishing, 44a0b5d23304b2615ea91a466829c2d4, http://validationserverauthinticationrequiredservice02.pages.dev
+126271, 2024-05-08 12:24:12, 2024-05-08 12:24:12, phishing, 2ebcb2776e10b82327f09539377ba2c2, http://grouptelegram18.pages.dev
+126270, 2024-05-08 12:20:13, 2024-05-08 12:20:13, phishing, 2bb8fb0e72e3387d739d85bc3b56a2c8, http://2222bsfowefh2.pages.dev
+126269, 2024-05-08 12:20:12, 2024-05-08 12:20:12, phishing, b5ae454cfc3052ef0939b53be83e06ca, http://jhgfdewqazxcvb65432123456789ijmko0987654eszxcfxzaqwsdcxzxc.pages.dev
 126268, 2024-05-08 11:44:13, 2024-05-08 11:44:13, phishing, cae45d4a25aecd195e60a01864c23184, http://2vdwkg22eyds22.pages.dev
 126267, 2024-05-08 11:40:12, 2024-05-08 11:40:12, phishing, 915d81ecf11bbe261edd8c7c1751a825, http://telegram18plus.pages.dev
 126266, 2024-05-08 11:32:13, 2024-05-08 11:32:13, phishing, 6ea4e4efb41b7473c7cade86f6a20f60, http://qpzjd.pages.dev
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 125775, 2024-05-08 01:23:31, 2024-05-08 01:23:31, malware, 4eafba616e4d461db8bf4ea09724c5d5, http://27.215.209.198:58963/bin.sh
 125774, 2024-05-08 01:23:30, 2024-05-08 01:23:30, malware, 4f3f5201c6004767ae673f9de2d00d1b, http://27.213.130.227:52162/bin.sh
 125773, 2024-05-08 01:23:28, 2024-05-08 01:23:28, malware, 4f4a529301d24924925f09b157ac7c78, http://27.209.152.62:34028/Mozi.m
-125772, 2024-05-08 01:23:25, 2024-05-08 01:23:25, malware, 67aab88fb3e14b35bddc5fa3de66fcae, http://222.140.194.83:52153/bin.sh
-125771, 2024-05-08 01:23:25, 2024-05-08 01:23:25, malware, 8bd9dab619d8451b8fb4da88cc9e6401, http://222.139.229.176:36845/bin.sh
-125770, 2024-05-08 01:23:24, 2024-05-08 01:23:24, malware, ff04d19890574790bde6d14edc0accbf, http://222.138.219.151:50409/bin.sh
-125769, 2024-05-08 01:23:23, 2024-05-08 01:23:23, malware, 5405a240e49f4084bd78af3a477a3cff, http://222.134.173.212:41658/bin.sh
