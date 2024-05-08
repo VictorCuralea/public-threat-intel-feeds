@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-08 12:49:28 UTC                        #
+# Last updated: 2024-05-08 14:32:44 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	listwisconsin.com
 127.0.0.1	service-b0kt7bkd-1307485220.cd.tencentapigw.com
 127.0.0.1	teachabletutorials.com
 127.0.0.1	cn1.cdngw.com
@@ -12263,4 +12264,4 @@
 127.0.0.1	305friend.caesarsgroup.top
 127.0.0.1	zang1.almashreaq.top
 127.0.0.1	homeservicetreking.com
-# Number of entries: 12257
+# Number of entries: 12258
