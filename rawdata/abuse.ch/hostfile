@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-08 15:54:04 UTC                        #
+# Last updated: 2024-05-08 16:50:07 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	cnc.nperm.net
+127.0.0.1	poor-indians-tax-me.icu
+127.0.0.1	scan.nperm.net
 127.0.0.1	voicelesson.org
 127.0.0.1	superkart.duckdns.org
 127.0.0.1	getintothe.duckdns.org
@@ -12266,6 +12269,4 @@
 127.0.0.1	static.107.185.243.136.clients.your-server.de
 127.0.0.1	www.159-65-168-135.cprapid.com
 127.0.0.1	305friend.caesarsgroup.top
-127.0.0.1	zang1.almashreaq.top
-127.0.0.1	homeservicetreking.com
-# Number of entries: 12262
+# Number of entries: 12263
