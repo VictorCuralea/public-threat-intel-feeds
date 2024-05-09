@@ -6,9 +6,14 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-05-09 18:00:02 UTC
+# UPDATE: 2024-05-09 19:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+127454, 2024-05-09 18:56:10, 2024-05-09 18:56:10, phishing, b70bfe9847cf6e1fe98abb169c2a0f17, http://sd3saweg2.pages.dev
+127453, 2024-05-09 18:52:13, 2024-05-09 18:52:13, phishing, 9294c14d58ad7236d7dc693a7f1986d6, http://lansingisyoung-28l.pages.dev
+127452, 2024-05-09 18:38:15, 2024-05-09 18:38:15, phishing, 6922e4e894bf087ccba2a09adf80bd39, http://emeraldupgrades.pages.dev
+127451, 2024-05-09 18:26:11, 2024-05-09 18:26:11, phishing, 0c43c2a029a4c762b6273119352d756b, http://ikiyolui2.pages.dev
+127450, 2024-05-09 18:22:11, 2024-05-09 18:22:11, phishing, 71cdfb5c38f79880f158dc2f0f46f4bc, http://s6tdxsw2.pages.dev
 127449, 2024-05-09 17:28:12, 2024-05-09 17:28:12, phishing, 676e31fd876389b47703b49235adbcef, http://sdgadfhsdfhh.wiki
 127448, 2024-05-09 17:26:17, 2024-05-09 17:26:17, phishing, a0d9805b2ed4d59568752470b853060a, http://perceptivesuperdogefil.pages.dev
 127447, 2024-05-09 17:24:13, 2024-05-09 17:24:13, malware, 6c0bda6074874f29a1b13a8d7fb23b24, http://88.204.148.90:33849/Mozi.m
@@ -504,8 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 126957, 2024-05-09 05:23:05, 2024-05-09 05:23:05, malware, a3eed6cf193e4fd4a462d389159f8758, http://182.117.40.222:38144/i
 126956, 2024-05-09 05:23:04, 2024-05-09 05:23:04, malware, 308162776ac84521832aea28790159c9, http://182.116.50.81:33204/i
 126955, 2024-05-09 05:23:03, 2024-05-09 05:23:03, malware, b5b8ae57df2a481c975ce2fc5cae2cf8, http://182.116.12.99:40699/i
-126954, 2024-05-09 05:23:02, 2024-05-09 05:23:02, malware, aedf65739e28446588e621455c751939, http://175.31.169.95:39076/bin.sh
-126953, 2024-05-09 05:23:01, 2024-05-09 05:23:01, malware, 1c4e08319a0246eebf020c1281eb0739, http://125.47.66.110:60636/i
-126952, 2024-05-09 05:23:00, 2024-05-09 05:23:00, malware, c372e0e0f7884df586bdcef4a18fc0ac, http://125.44.32.72:51725/
-126951, 2024-05-09 05:22:59, 2024-05-09 05:22:59, malware, f66d6c5706c0458295ce021b71b20cb0, http://125.43.253.193:58946/i
-126950, 2024-05-09 05:22:58, 2024-05-09 05:22:58, malware, 381380ed156d40389773597bbfb0f767, http://125.43.224.16:55260/

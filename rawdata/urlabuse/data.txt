@@ -6,8 +6,13 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-05-09 18:00:02 UTC
+# UPDATE: 2024-05-09 19:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 127454, "url": "http://sd3saweg2.pages.dev", "discovery": "2024-05-09 18:56:10", "added": "2024-05-09 18:56:10", "target": "Amazon", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "b70bfe9847cf6e1fe98abb169c2a0f17"}
+{"id": 127453, "url": "http://lansingisyoung-28l.pages.dev", "discovery": "2024-05-09 18:52:13", "added": "2024-05-09 18:52:13", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "9294c14d58ad7236d7dc693a7f1986d6"}
+{"id": 127452, "url": "http://emeraldupgrades.pages.dev", "discovery": "2024-05-09 18:38:15", "added": "2024-05-09 18:38:15", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "6922e4e894bf087ccba2a09adf80bd39"}
+{"id": 127451, "url": "http://ikiyolui2.pages.dev", "discovery": "2024-05-09 18:26:11", "added": "2024-05-09 18:26:11", "target": "Amazon", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "0c43c2a029a4c762b6273119352d756b"}
+{"id": 127450, "url": "http://s6tdxsw2.pages.dev", "discovery": "2024-05-09 18:22:11", "added": "2024-05-09 18:22:11", "target": "Amazon", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "71cdfb5c38f79880f158dc2f0f46f4bc"}
 {"id": 127449, "url": "http://sdgadfhsdfhh.wiki", "discovery": "2024-05-09 17:28:12", "added": "2024-05-09 17:28:12", "target": "TR-GOV", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "676e31fd876389b47703b49235adbcef"}
 {"id": 127448, "url": "http://perceptivesuperdogefil.pages.dev", "discovery": "2024-05-09 17:26:17", "added": "2024-05-09 17:26:17", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "a0d9805b2ed4d59568752470b853060a"}
 {"id": 127447, "url": "http://88.204.148.90:33849/Mozi.m", "discovery": "2024-05-09 17:24:13", "added": "2024-05-09 17:24:13", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "6c0bda6074874f29a1b13a8d7fb23b24"}
@@ -503,8 +508,3 @@
 {"id": 126957, "url": "http://182.117.40.222:38144/i", "discovery": "2024-05-09 05:23:05", "added": "2024-05-09 05:23:05", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "a3eed6cf193e4fd4a462d389159f8758"}
 {"id": 126956, "url": "http://182.116.50.81:33204/i", "discovery": "2024-05-09 05:23:04", "added": "2024-05-09 05:23:04", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "308162776ac84521832aea28790159c9"}
 {"id": 126955, "url": "http://182.116.12.99:40699/i", "discovery": "2024-05-09 05:23:03", "added": "2024-05-09 05:23:03", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "b5b8ae57df2a481c975ce2fc5cae2cf8"}
-{"id": 126954, "url": "http://175.31.169.95:39076/bin.sh", "discovery": "2024-05-09 05:23:02", "added": "2024-05-09 05:23:02", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "aedf65739e28446588e621455c751939"}
-{"id": 126953, "url": "http://125.47.66.110:60636/i", "discovery": "2024-05-09 05:23:01", "added": "2024-05-09 05:23:01", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "1c4e08319a0246eebf020c1281eb0739"}
-{"id": 126952, "url": "http://125.44.32.72:51725/", "discovery": "2024-05-09 05:23:00", "added": "2024-05-09 05:23:00", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "c372e0e0f7884df586bdcef4a18fc0ac"}
-{"id": 126951, "url": "http://125.43.253.193:58946/i", "discovery": "2024-05-09 05:22:59", "added": "2024-05-09 05:22:59", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "f66d6c5706c0458295ce021b71b20cb0"}
-{"id": 126950, "url": "http://125.43.224.16:55260/", "discovery": "2024-05-09 05:22:58", "added": "2024-05-09 05:22:58", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "381380ed156d40389773597bbfb0f767"}
