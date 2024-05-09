@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-08 21:09:22 UTC                        #
+# Last updated: 2024-05-09 05:52:20 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	minuoddos.top
 127.0.0.1	53473cm.easyswap.space
 127.0.0.1	beamazyn.com
 127.0.0.1	service-izlolzm0-1318382624.gz.tencentapigw.com.cn
@@ -12257,4 +12258,4 @@
 127.0.0.1	a.osslog.com
 127.0.0.1	ns2.163microsoft.com
 127.0.0.1	ns1.163microsoft.com
-# Number of entries: 12251
+# Number of entries: 12252
