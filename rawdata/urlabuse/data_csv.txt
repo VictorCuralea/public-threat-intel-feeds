@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-05-09 00:00:02 UTC
+# UPDATE: 2024-05-09 01:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+126809, 2024-05-09 00:32:13, 2024-05-09 00:32:13, phishing, 489cafac25546ac67aeb1da4f6b1e215, http://rangerscloterane.pages.dev
+126808, 2024-05-09 00:24:17, 2024-05-09 00:24:17, phishing, 814a53a262aea11b714427ff30b01a9e, http://imtoek.com
+126807, 2024-05-09 00:22:18, 2024-05-09 00:22:18, phishing, b580f457381256cc12d26e82028a9cc4, http://imtokoo.com
+126806, 2024-05-09 00:14:13, 2024-05-09 00:14:13, phishing, f444267653bbe0373116682dacbe1b30, http://1ijy.pages.dev
 126805, 2024-05-08 23:48:17, 2024-05-08 23:48:17, phishing, 220ecb77d8b098455b40bcf2b86b184a, http://dexdappsconnect.pages.dev
 126804, 2024-05-08 23:22:44, 2024-05-08 23:22:44, malware, 976ab79099574df494a022ba82d85212, http://78.153.140.96/kinsing2
 126803, 2024-05-08 23:22:42, 2024-05-08 23:22:42, malware, e803c99e6eba420b99b61ade4b352229, http://61.53.199.187:46490/Mozi.m
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 126312, 2024-05-08 13:24:00, 2024-05-08 13:24:00, malware, 70ab8d6db4e240d494d947f483f7441d, http://61.0.209.232:34294/bin.sh
 126311, 2024-05-08 13:23:33, 2024-05-08 13:23:33, malware, e3369569270245c28b2e238e40f10088, http://59.92.179.20:57475/i
 126310, 2024-05-08 13:23:30, 2024-05-08 13:23:30, malware, 271b265bba4244fa8705a3bec2f57593, http://42.236.221.163:51360/Mozi.m
-126309, 2024-05-08 13:23:28, 2024-05-08 13:23:28, malware, e283ce8ef299428c85ba77b7ebbb3047, http://42.236.221.163:51360/bin.sh
-126308, 2024-05-08 13:23:05, 2024-05-08 13:23:05, malware, 985c57d9bed14071840b7035d7f187ea, http://42.234.221.208:40153/Mozi.m
-126307, 2024-05-08 13:22:53, 2024-05-08 13:22:53, malware, e5e6f639552f4d5689ed336cbed4076a, http://39.87.73.210:36972/Mozi.m
-126306, 2024-05-08 13:22:51, 2024-05-08 13:22:51, malware, 408a4d6295f54356b4d8eee0da982d77, http://27.215.85.173:34108/bin.sh
