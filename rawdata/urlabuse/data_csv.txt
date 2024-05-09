@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-05-09 02:00:01 UTC
+# UPDATE: 2024-05-09 03:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+126852, 2024-05-09 02:48:10, 2024-05-09 02:48:10, phishing, 10b0dfa679ca87a8d27ef6d665063054, http://srt4essew1.pages.dev
 126851, 2024-05-09 01:44:12, 2024-05-09 01:44:12, phishing, 483cb573a00689c19fa154cd2d411238, http://retrw4tw5.pages.dev
 126850, 2024-05-09 01:21:18, 2024-05-09 01:21:18, malware, 0cf47a5a6f1b4d08805a0a685539d6d6, http://59.95.0.207:52440/i
 126849, 2024-05-09 01:21:17, 2024-05-09 01:21:17, malware, 5a959655db64486f90dcd5c2d6569645, http://59.93.26.226:54965/Mozi.m
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 126355, 2024-05-08 14:05:28, 2024-05-08 14:05:28, hacked, a043c0ab405e3d7bf5ec35f5be896068, https://hub.appandwebdevelopment.com/
 126354, 2024-05-08 14:05:26, 2024-05-08 14:05:26, hacked, dadcfdaf039846562affda65af44d5dc, https://laravelbackend.appandweb.com.au/
 126353, 2024-05-08 14:05:22, 2024-05-08 14:05:22, hacked, 25016f889a156e49b1d94ae0c90f97e6, https://frontend.appandweb.com.au/
-126352, 2024-05-08 14:05:20, 2024-05-08 14:05:20, hacked, 0fffa6ad4629874c508a8ea656ddd32f, https://www.sealtz.org/
