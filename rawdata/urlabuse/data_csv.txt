@@ -6,9 +6,23 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-05-09 14:00:01 UTC
+# UPDATE: 2024-05-09 15:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+127331, 2024-05-09 14:50:34, 2024-05-09 14:50:34, phishing, 3774aa951e9256110053829f75fce9a3, https://btinternetccoonnectt.weeblysite.com/
+127330, 2024-05-09 14:46:11, 2024-05-09 14:46:11, phishing, efbb2db30ed4047b3256949e2afc16c9, http://rr24sw421.pages.dev
+127329, 2024-05-09 14:36:13, 2024-05-09 14:36:13, phishing, 7e1f9e21973b7bdfb0ed0ef2578c1ccd, http://srhersds3.pages.dev
+127328, 2024-05-09 14:34:13, 2024-05-09 14:34:13, phishing, 595af3376ff059512c7c427adfe1a012, http://sfhe5rdbe1.pages.dev
+127327, 2024-05-09 14:30:13, 2024-05-09 14:30:13, phishing, 7ceea77b9a9ca031a8b9615dae59be16, http://ryjfhrwh1.pages.dev
+127326, 2024-05-09 14:12:17, 2024-05-09 14:12:17, phishing, c0727e8e7547c23bc4ecd2da5b4703e8, http://dexfilchartsuperdoge.pages.dev
+127325, 2024-05-09 14:02:27, 2024-05-09 14:02:27, hacked, d006a33a7ed0adbbb9abaa04f24c431d, https://www.websitedesignanddevelopment.in/
+127324, 2024-05-09 14:02:25, 2024-05-09 14:02:25, hacked, b463d80703f4314105eb87233aec2a5a, https://mediaworldbpr.com
+127323, 2024-05-09 14:02:24, 2024-05-09 14:02:24, hacked, 313adf75222b58a192f0b36504458f7b, https://www.mintsour.com/
+127322, 2024-05-09 14:02:23, 2024-05-09 14:02:23, hacked, 608d5d239d3195b2a29e32fbef4d49fa, https://roknalamanh.com/
+127321, 2024-05-09 14:02:16, 2024-05-09 14:02:16, hacked, f992d10906bf3544037240fc581e4102, http://amirs.outofofficecoffee.co.uk/
+127320, 2024-05-09 14:02:15, 2024-05-09 14:02:15, hacked, f2b9c6ff50857cfd8fb9af19381943e8, https://www.crazycubestrujillo.com/
+127319, 2024-05-09 14:02:14, 2024-05-09 14:02:14, hacked, 423110b3555a0d774efe786b52c58e89, http://upload.bloggingheads.tv/upload/files/index1.html
+127318, 2024-05-09 14:02:13, 2024-05-09 14:02:13, hacked, b1198c9c89f699b0d80372b9ab126e41, https://alicante.com.tr/
 127317, 2024-05-09 13:42:13, 2024-05-09 13:42:13, phishing, 87f6e7a0297cc013afb55dcb1b7b7462, http://lvfwfilwee10.pages.dev
 127316, 2024-05-09 13:23:19, 2024-05-09 13:23:19, malware, ee94850d49c14998934361543086f22d, http://61.53.85.198:55823/i
 127315, 2024-05-09 13:23:18, 2024-05-09 13:23:18, malware, 11ff4fe3297c4b25a881f81be267075e, http://61.53.120.92:41682/
@@ -495,17 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 126834, 2024-05-09 01:20:41, 2024-05-09 01:20:41, malware, 9516080e9a9149afb18f8b473efe2904, http://125.43.253.193:58946/Mozi.m
 126833, 2024-05-09 01:20:40, 2024-05-09 01:20:40, malware, 0bbad8bdc0e34ab2996727ee3d8d26b9, http://119.189.215.124:40397/i
 126832, 2024-05-09 01:20:39, 2024-05-09 01:20:39, malware, be5caabf382c45c6bbed2fb41dfd980a, http://117.222.254.211:42860/bin.sh
-126831, 2024-05-09 01:20:37, 2024-05-09 01:20:37, malware, d9cda33830ef4d269e2bd4084bde3530, http://117.222.195.242:47627/Mozi.m
-126830, 2024-05-09 01:20:09, 2024-05-09 01:20:09, malware, a7be447e19284425a509ad4999de826f, http://115.58.168.30:33282/bin.sh
-126829, 2024-05-09 01:20:08, 2024-05-09 01:20:08, malware, cd68a9a69ec84eebabc0f95bd1b3c0e4, http://115.56.182.52:40170/bin.sh
-126828, 2024-05-09 01:20:06, 2024-05-09 01:20:06, malware, fb91ec5d4808486699bca23e8d4e49c0, http://115.55.235.102:58894/bin.sh
-126827, 2024-05-09 01:20:05, 2024-05-09 01:20:05, malware, 818b3457d8ad47bc8c2136c98d8f04a0, http://115.51.28.98:60392/i
-126826, 2024-05-09 01:20:04, 2024-05-09 01:20:04, malware, 8179d33aca434cf2a4dde414618554d3, http://115.51.28.98:60392/bin.sh
-126825, 2024-05-09 01:20:03, 2024-05-09 01:20:03, malware, a899a8ffbcb240fe9a3f8797670c2608, http://115.50.70.186:59452/
-126824, 2024-05-09 01:14:14, 2024-05-09 01:14:14, phishing, 62d51fd5ef9897cea4b4ef0c5a525fb3, http://srewer2a1.pages.dev
-126823, 2024-05-09 01:06:10, 2024-05-09 01:06:10, phishing, 254ed65f50ec6d7f44723b393fbc3b01, http://rteety35aa2.pages.dev
-126822, 2024-05-09 01:02:14, 2024-05-09 01:02:14, phishing, 87039b23d1f0e67f56157b2fd069556e, https://zhukov.github.io/webogram/#/login
-126821, 2024-05-09 01:01:36, 2024-05-09 01:01:36, phishing, 5106df260b04ad211d1c133eef3aa8f2, http://busy-e75.pages.dev/robots.txt
-126820, 2024-05-09 01:01:16, 2024-05-09 01:01:16, phishing, 449a6d52e1a02705f6e30bd2c593063f, http://files.emailmeform.com/2235490/lQ4P8AnH/aafhjthurshfhjsjs.html
-126819, 2024-05-09 01:01:14, 2024-05-09 01:01:14, phishing, 3895b579cd784c0709dc6d1b2d31cac5, https://notifyhubss.net/41a43b03au34a94c25la184a3dcl83e9e910.html__;!!oepyz6q!_kirtjw-n6i2mzefyogwusunh_tmn2ogzbodhlwjjk-ste4vlqnlbndy1smjqdlf35_mpu_dozg-reskw45mcpk39a$/
-126818, 2024-05-09 01:01:11, 2024-05-09 01:01:11, phishing, 407684c0715863a18b0edcba322466b5, http://gwenet.org/office
