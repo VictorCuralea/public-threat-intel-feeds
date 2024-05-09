@@ -6,9 +6,20 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-05-09 12:00:01 UTC
+# UPDATE: 2024-05-09 13:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+127261, 2024-05-09 12:56:14, 2024-05-09 12:56:14, phishing, 8d1de35ee592c9d717c52ec6776e8254, http://tme.id88141.cc
+127260, 2024-05-09 12:54:13, 2024-05-09 12:54:13, phishing, 8a01edde3fd58d48fcaba0f12d316479, http://tme.id93296.cc
+127259, 2024-05-09 12:49:20, 2024-05-09 12:34:15, phishing, a50011f77f763f8097c4b8c270c50c34, https://sojepice.spp.io/
+127258, 2024-05-09 12:49:05, 2024-05-09 12:26:17, phishing, 1e3f5d8bb4c03f8840a54e49a8175d04, https://billgunn1.wixsite.com/my-site
+127257, 2024-05-09 12:48:53, 2024-05-09 12:26:17, phishing, b7a7d4e395251902fcb796510a9e9319, https://lucyball131.wixsite.com/my-site
+127256, 2024-05-09 12:48:43, 2024-05-09 12:24:15, phishing, 7a1253b475f5ec5e051242948b10dfc1, https://btvh-109688.square.site/
+127255, 2024-05-09 12:48:14, 2024-05-09 12:48:14, phishing, ee70e258d10968a087c57e3a2ad16c4d, http://bitservepoactive.pages.dev
+127254, 2024-05-09 12:44:12, 2024-05-09 12:44:12, phishing, cab6d5fe81ea7ae30350de72eb3c206d, http://pp2cskndwsnej22.pages.dev
+127253, 2024-05-09 12:40:13, 2024-05-09 12:40:13, phishing, be0a9c9ab51c7bffe6da68159531c838, http://frvs.pages.dev
+127252, 2024-05-09 12:32:13, 2024-05-09 12:32:13, phishing, e588730696758adfff84a52e412dd31c, https://mofit-app.com/SBB/index/
+127251, 2024-05-09 12:32:11, 2024-05-09 12:32:11, phishing, c841494f983f611e5c1c55d01067f4be, https://cloudflare-ipfs.com/ipfs/bafybeicrfyfzskk5r5hqhgzghdwcmaax6rxk3wmbycuigd7weugntfo2eu/chap.html/#example@example.org
 127250, 2024-05-09 11:57:36, 2024-05-09 11:57:36, phishing, cc97103bff3d2fafb505f3c81bcbb7ed, https://willpaton1.wixsite.com/btinc089
 127249, 2024-05-09 11:57:23, 2024-05-09 11:48:13, phishing, 14f596475b41b9d80ef522ae3d40b460, https://link.gallery/bt1
 127248, 2024-05-09 11:57:03, 2024-05-09 11:57:03, phishing, b5d0eb7202f0a61e1c488cb66176b559, https://remboursement-compte.com/
@@ -498,14 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 126764, 2024-05-08 23:21:01, 2024-05-08 23:21:01, malware, 8e12c2e63c6549e699a7ebd37218ee19, http://117.204.199.94:47930/Mozi.m
 126763, 2024-05-08 23:20:59, 2024-05-08 23:20:59, malware, 94f4d6239a9d4663877c822c0fdf75ca, http://117.204.197.108:53430/i
 126762, 2024-05-08 23:20:56, 2024-05-08 23:20:56, malware, f31dbeb46a3348818c23fb709dc32db9, http://117.204.195.141:43435/Mozi.m
-126761, 2024-05-08 23:20:54, 2024-05-08 23:20:54, malware, 978d478eb39847c2b59437fd6d3e148d, http://117.204.193.196:43648/i
-126760, 2024-05-08 23:20:44, 2024-05-08 23:20:44, malware, f3dc3393502046a38678e23a3ee45633, http://115.61.119.168:52976/i
-126759, 2024-05-08 23:20:43, 2024-05-08 23:20:43, malware, bcef2d06415e432da07658492ec7021f, http://115.58.148.152:53647/i
-126758, 2024-05-08 23:20:32, 2024-05-08 23:20:32, malware, 5ac81bf8ea31489581f9697cfc8d9b1c, http://115.54.186.93:50247/i
-126757, 2024-05-08 23:20:31, 2024-05-08 23:20:31, malware, 67a07f6c80204e2199a66d515dadccca, http://115.51.105.0:49447/Mozi.m
-126756, 2024-05-08 23:20:30, 2024-05-08 23:20:30, malware, 379c7e1002734802bdb634fb68465146, http://112.249.126.26:38463/i
-126755, 2024-05-08 23:06:11, 2024-05-08 23:06:11, phishing, b7f734713dabe90eec2c1e9af3320e74, http://jhhfyhtr2.pages.dev
-126754, 2024-05-08 22:30:11, 2024-05-08 22:30:11, phishing, 059a00fd7ee66acef5c25d5b0d0c106d, http://yijfgyiusdhhvwerxokvenre4.pages.dev
-126753, 2024-05-08 22:18:19, 2024-05-08 22:18:19, phishing, 759130403922c4b3a6237e530340b86b, http://fastdevmigrathxvzqm.pro
-126752, 2024-05-08 22:18:19, 2024-05-08 22:18:19, phishing, 44eddb43bd20a09c28c613cbb168a57a, http://fastdevmigrathxvzqn.pro
-126751, 2024-05-08 22:16:14, 2024-05-08 22:16:14, phishing, b3af0f64481a368bd90b079c44a4c60c, http://fastdevmigrathxqnzv.pro

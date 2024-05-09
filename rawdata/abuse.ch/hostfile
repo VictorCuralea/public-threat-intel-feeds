@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-09 11:48:49 UTC                        #
+# Last updated: 2024-05-09 12:52:24 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	www.hathawaya.xyz
+127.0.0.1	www.dq.sched.vip-dk.tdnsvod1.cn
 127.0.0.1	consultantinsurance.net
 127.0.0.1	minuoddos.top
 127.0.0.1	53473cm.easyswap.space
@@ -12248,4 +12250,4 @@
 127.0.0.1	ec2-3-86-72-244.compute-1.amazonaws.com
 127.0.0.1	jonathanbonnici.com
 127.0.0.1	rxalp.direct.quickconnect.to
-# Number of entries: 12242
+# Number of entries: 12244
