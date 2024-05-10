@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-10 08:17:27 UTC                        #
+# Last updated: 2024-05-10 10:41:50 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	madamwebb.duckdns.org
+127.0.0.1	kammies.co.za
+127.0.0.1	dhgnegociosinmobiliarios.com
+127.0.0.1	cdn-carbonat.kimcuonghoanmy.shop
 127.0.0.1	workspacin.cloud
 127.0.0.1	qaliharsit.tech
 127.0.0.1	levantain.ddns.net
@@ -12218,8 +12222,4 @@
 127.0.0.1	microsoft.updatestore.live
 127.0.0.1	service-lj2mtzly-1318135905.gz.apigw.tencentcs.com
 127.0.0.1	n0tion.link
-127.0.0.1	ns1.siegemachine.cn
-127.0.0.1	ns2.siegemachine.cn
-127.0.0.1	dnslog.twittermisc.com
-127.0.0.1	service-bzbl2uq7-1312255927.bj.apigw.tencentcs.com
 # Number of entries: 12216
