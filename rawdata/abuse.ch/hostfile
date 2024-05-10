@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-10 12:51:14 UTC                        #
+# Last updated: 2024-05-10 13:07:38 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	edulinkr.com
 127.0.0.1	service-ac5ca85o-1314199502.gz.tencentapigw.com.cn
 127.0.0.1	wpscheckmembers.vip
 127.0.0.1	service-3vkzoky0-1312172028.gz.tencentapigw.com.cn
@@ -12224,4 +12225,4 @@
 127.0.0.1	ec2-35-178-199-73.eu-west-2.compute.amazonaws.com
 127.0.0.1	ec2-34-232-77-201.compute-1.amazonaws.com
 127.0.0.1	microsoft.updatestore.live
-# Number of entries: 12218
+# Number of entries: 12219
