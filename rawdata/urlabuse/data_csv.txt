@@ -6,9 +6,15 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-05-10 02:00:01 UTC
+# UPDATE: 2024-05-10 03:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+127713, 2024-05-10 02:52:24, 2024-05-10 02:52:24, phishing, 139d3ae0761749edddb13b06fa738f0b, http://amz-group4.vip
+127712, 2024-05-10 02:52:22, 2024-05-10 02:52:22, phishing, 06a35b4aa3a814f00f4d73d8ff41b8b8, http://amz-group6.vip
+127711, 2024-05-10 02:52:19, 2024-05-10 02:52:19, phishing, dd0f43bb9a245ab6036279e6273d6d94, http://uniswiftathbit.pages.dev
+127710, 2024-05-10 02:50:15, 2024-05-10 02:50:15, phishing, 469ab1fbcd88d63a2153e89198e448de, http://amz-group5.vip
+127709, 2024-05-10 02:28:11, 2024-05-10 02:28:11, phishing, f1c7677ad973b1b68be5da8cde9ce6ba, http://microsoft365.pages.dev
+127708, 2024-05-10 02:22:13, 2024-05-10 02:22:13, phishing, 2ed948f4859874f7e013f06252c97f2e, http://jss.pages.dev
 127707, 2024-05-10 01:58:13, 2024-05-10 01:58:13, phishing, 4978d5711b01d658e2b8fd6628782221, http://fghjkn.pages.dev
 127706, 2024-05-10 01:42:13, 2024-05-10 01:42:13, phishing, 5cc6ebc15b5c8ca530c472860f63d15a, http://telegram-ivan-8is.pages.dev
 127705, 2024-05-10 01:24:10, 2024-05-10 01:24:10, phishing, a0596fcf05dcfffefef3a912d2e75b54, http://despointmos.pages.dev
@@ -503,9 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 127216, 2024-05-09 11:24:04, 2024-05-09 11:24:04, malware, 452c852835364ded9f8e83f4e5b1fb0c, http://201.210.94.109:60726/bin.sh
 127215, 2024-05-09 11:23:47, 2024-05-09 11:23:47, malware, 4cf2ca720aa7424eb4ed7adb6ad0ae7b, http://190.205.199.78:33933/Mozi.m
 127214, 2024-05-09 11:23:40, 2024-05-09 11:23:40, malware, fe563e579dd7451ba0421699ff411376, http://182.124.207.196:53020/i
-127213, 2024-05-09 11:23:39, 2024-05-09 11:23:39, malware, 2f5f6ef956ed4969aa204ce4458f83d3, http://182.121.14.185:47284/i
-127212, 2024-05-09 11:23:38, 2024-05-09 11:23:38, malware, 902bd8de074f41d8bc9daa49e286b748, http://182.119.178.175:58724/bin.sh
-127211, 2024-05-09 11:23:37, 2024-05-09 11:23:37, malware, 1ece8a3c3e304106bc19b3aedcc3d724, http://182.117.28.107:59137/i
-127210, 2024-05-09 11:23:36, 2024-05-09 11:23:36, malware, 16289e0c1d1c475fb5268262f14ebfcf, http://182.117.28.107:59137/bin.sh
-127209, 2024-05-09 11:23:35, 2024-05-09 11:23:35, malware, ce6ffc5026554c53b96723461d48e1db, http://182.116.5.96:46351/Mozi.m
-127208, 2024-05-09 11:23:34, 2024-05-09 11:23:34, malware, 040452863fe04f88a8d753eb9d43a06d, http://182.116.120.100:37631/i
