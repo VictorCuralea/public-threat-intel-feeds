@@ -6,9 +6,15 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-05-10 20:00:02 UTC
+# UPDATE: 2024-05-10 21:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+128522, 2024-05-10 20:44:13, 2024-05-10 20:44:13, phishing, 13314da5202efd97fe4e10e331198469, http://pbmmd.pages.dev
+128521, 2024-05-10 20:38:14, 2024-05-10 20:38:14, phishing, ea6012ede2c3eea2b6f07595a0ef4e7c, http://degrainio.pages.dev
+128520, 2024-05-10 20:14:13, 2024-05-10 20:14:13, phishing, f46da0c149e1045d18f3586c2603aeb6, http://fractional-app.pages.dev
+128519, 2024-05-10 20:12:11, 2024-05-10 20:12:11, phishing, 553cfb8efa9a106406bd2907fb6c4794, http://register-0n-18sex-groupfree.pages.dev
+128518, 2024-05-10 20:06:15, 2024-05-10 20:06:15, phishing, 620699629d449eb1a6f18e7e5cf8cf5b, http://neraboti13.pages.dev
+128517, 2024-05-10 20:06:15, 2024-05-10 20:06:15, phishing, 34cf7e4f41cc5523a689c3aed22ed7b0, http://neraboti13.pages.dev
 128516, 2024-05-10 19:24:35, 2024-05-10 19:24:35, malware, 2682ed48a5c141a9ade6bdd39eacfd3c, http://93.181.211.108:42404/Mozi.m
 128515, 2024-05-10 19:24:34, 2024-05-10 19:24:34, malware, 3cccd8feea2547bb9e2d1a8dc1522ffd, http://61.53.10.92:40057/
 128514, 2024-05-10 19:24:33, 2024-05-10 19:24:33, malware, 89bf7ef7a1e648de835f01aab144af55, http://59.92.217.223:48018/Mozi.m
@@ -503,9 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 128025, 2024-05-10 09:23:35, 2024-05-10 09:23:35, malware, 5f393048096f40999c626fecec833bd3, http://75.32.190.166:56856/Mozi.m
 128024, 2024-05-10 09:23:34, 2024-05-10 09:23:34, malware, 0f6a4329094f47759b0bc16c473b7820, http://61.54.70.244:36041/i
 128023, 2024-05-10 09:23:33, 2024-05-10 09:23:33, malware, 89ca54f9a20349d9af50c13c4a86b476, http://61.53.117.98:48754/
-128022, 2024-05-10 09:23:31, 2024-05-10 09:23:31, malware, 394397d8ca1e4e5cba8937f573ec544d, http://61.52.3.123:49781/bin.sh
-128021, 2024-05-10 09:23:30, 2024-05-10 09:23:30, malware, 6e6f1c17026d4fc5962545c2f7427b5e, http://59.97.122.156:54831/i
-128020, 2024-05-10 09:23:11, 2024-05-10 09:23:11, malware, e7f0c4705f7b4090bf119d05bd7902ad, http://59.89.71.34:44943/i
-128019, 2024-05-10 09:22:55, 2024-05-10 09:22:55, malware, 48cf87b03792421fb7604e918ea6c615, http://59.89.236.152:33794/bin.sh
-128018, 2024-05-10 09:22:17, 2024-05-10 09:22:17, malware, 79e7ae7c59a94fdebaf1448f0cfc13ab, http://59.182.255.93:34890/Mozi.a
-128017, 2024-05-10 09:22:16, 2024-05-10 09:22:16, malware, 8459a183228649c6a5179c85d5d85390, http://45.11.92.124/7afaed7668e0d78c/vcruntime140.dll
