@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-05-10 12:00:01 UTC
+# UPDATE: 2024-05-10 13:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+128175, 2024-05-10 12:44:18, 2024-05-10 12:44:18, phishing, f97f66a0f862a3e76a6769162ff615ce, https://ci53120.tw1.ru/sff/
+128174, 2024-05-10 12:08:12, 2024-05-10 12:08:12, phishing, 2b8902eae2d859e5e49ede9b9eeb403e, http://probaproba-8kf.pages.dev
+128173, 2024-05-10 12:04:17, 2024-05-10 12:04:17, phishing, e606b4b58851fe8cbe9c85da8408c0f3, http://ladedefred.pages.dev
 128172, 2024-05-10 11:27:41, 2024-05-10 11:27:41, malware, 56f8a7df146545648216aecea10181dc, http://senpaiontop.nl/x86
 128171, 2024-05-10 11:27:40, 2024-05-10 11:27:40, malware, e9dd876ad5024cdaae4261a2d1bf5799, http://senpaiontop.nl/spc
 128170, 2024-05-10 11:27:40, 2024-05-10 11:27:40, malware, 5b64cb093bd741b7ad8f17d993b925c0, http://senpaiontop.nl/sh4
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 127678, 2024-05-10 01:21:57, 2024-05-10 01:21:57, malware, 2326e7950da349c7a59b71494fa14a8f, http://119.164.112.101:41430/i
 127677, 2024-05-10 01:21:56, 2024-05-10 01:21:56, malware, c74b162f77ea42359ae1e819b71dd854, http://119.164.112.101:41430/bin.sh
 127676, 2024-05-10 01:21:50, 2024-05-10 01:21:50, malware, e532da7b66ee4e87b8763987a242c64d, http://117.222.251.100:53625/i
-127675, 2024-05-10 01:21:49, 2024-05-10 01:21:49, malware, c57275f3f8934edc81e72bafd8a9a12d, http://117.214.12.204:44871/Mozi.m
-127674, 2024-05-10 01:21:47, 2024-05-10 01:21:47, malware, d861f57044ba4d07a06a1f112ef3baf5, http://117.213.86.226:41535/Mozi.m
-127673, 2024-05-10 01:21:38, 2024-05-10 01:21:38, malware, 349b204c2aa04fd7bc4c67feb06eb606, http://117.212.161.234:56472/i
