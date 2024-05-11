@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-05-11 06:00:02 UTC
+# UPDATE: 2024-05-11 07:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+128884, 2024-05-11 06:30:11, 2024-05-11 06:30:11, phishing, c8521978272056f48d4bee2ded15a5a8, http://ywgjb.pages.dev
+128883, 2024-05-11 06:30:10, 2024-05-11 06:30:10, phishing, df62431915ebc6b58ede3478daefdf9c, http://ywgjb.pages.dev
+128882, 2024-05-11 06:16:10, 2024-05-11 06:16:10, phishing, 9f2087eaa28005e3fd355ca00cae3533, http://agdunadgdge02.pages.dev
+128881, 2024-05-11 06:06:13, 2024-05-11 06:06:13, phishing, 4608c02c4abb8b13b5845453f354299b, http://ghsfgyowkunoeweijacziajhd03.pages.dev
 128880, 2024-05-11 05:48:16, 2024-05-11 05:48:16, phishing, f490df5fce2b3faddd78168c6016ba28, http://telegram-v.org
 128879, 2024-05-11 05:38:15, 2024-05-11 05:38:15, phishing, 0baba22123ef3a2c48816a6201ff3f83, http://track-u-p-s.com
 128878, 2024-05-11 05:32:14, 2024-05-11 05:32:14, phishing, 79bebb3c171cd614007392cff9764dba, http://nhh-97z.pages.dev
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 128387, 2024-05-10 15:23:04, 2024-05-10 15:23:04, malware, 579ab18f861e4e33a4e9a4a54b052247, http://42.224.85.219:57312/bin.sh
 128386, 2024-05-10 15:23:03, 2024-05-10 15:23:03, malware, 37353bd7232f49358405d83a042b397c, http://24.121.20.254:39004/
 128385, 2024-05-10 15:23:02, 2024-05-10 15:23:02, malware, 6a40987624a54faa97b1056b97740d43, http://222.141.80.213:39898/Mozi.m
-128384, 2024-05-10 15:23:01, 2024-05-10 15:23:01, malware, 203f3bed749f4abbaf4e01510670a1de, http://222.140.229.145:50844/i
-128383, 2024-05-10 15:23:00, 2024-05-10 15:23:00, malware, 2d353e556e50400fbb1cdaffaf6383c0, http://222.138.238.100:58698/bin.sh
-128382, 2024-05-10 15:22:59, 2024-05-10 15:22:59, malware, 64c25ab3a14c481fa506452ca7276721, http://219.157.255.196:37320/Mozi.m
-128381, 2024-05-10 15:22:58, 2024-05-10 15:22:58, malware, 43cf6a00565342789df7a9826cd5c96a, http://201.220.155.206:52503/Mozi.a
