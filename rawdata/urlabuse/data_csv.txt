@@ -6,9 +6,14 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-05-11 18:00:01 UTC
+# UPDATE: 2024-05-11 19:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+129339, 2024-05-11 18:54:12, 2024-05-11 18:54:12, phishing, 8b369c930a4aadfb19e5a58b5bbf0bae, http://uswasmcidofhebesoudsvue01.pages.dev
+129338, 2024-05-11 18:42:10, 2024-05-11 18:42:10, phishing, d3b0416973a001f39ad809a61e0a3507, http://maliyestrgov5444.com
+129337, 2024-05-11 18:40:12, 2024-05-11 18:40:12, phishing, 4d6e5f51147051aae0fa2d7864ef067e, http://mail.maliyestrgov5443.com
+129336, 2024-05-11 18:24:13, 2024-05-11 18:24:13, phishing, 090f5fa9f0b0c0637dc325a9ea766e20, http://omurc.pages.dev
+129335, 2024-05-11 18:22:10, 2024-05-11 18:22:10, phishing, 1940256cd7aeaa05e099c110ed799482, http://xdtgdre1.pages.dev
 129334, 2024-05-11 17:38:25, 2024-05-11 17:38:25, phishing, 5690efc1d8f082b7ef8e328265277097, https://jamalaoka.blogspot.com/
 129333, 2024-05-11 17:38:15, 2024-05-11 17:38:15, phishing, 2347bbdaf6429b55b72679210916139f, https://sowalaka.blogspot.com/
 129332, 2024-05-11 17:38:15, 2024-05-11 17:38:15, phishing, 3a7d75bda57bc82001ce2daed90f719a, https://see.dvw.mybluehost.me/php/login.php
@@ -504,8 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 128842, 2024-05-11 05:21:54, 2024-05-11 05:21:54, malware, 114b1774d1764f2eb1a4d0bafe101442, http://182.124.28.236:44724/bin.sh
 128841, 2024-05-11 05:21:53, 2024-05-11 05:21:53, malware, 22104a5349e84395a6807ea0d442199d, http://182.117.68.84:36574/bin.sh
 128840, 2024-05-11 05:21:52, 2024-05-11 05:21:52, malware, 5df62b9a45e34d388c89057453370da7, http://182.117.50.152:33780/i
-128839, 2024-05-11 05:21:51, 2024-05-11 05:21:51, malware, 3cc02ac517994d3eb06f653976d9a8cd, http://182.117.50.152:33780/bin.sh
-128838, 2024-05-11 05:21:50, 2024-05-11 05:21:50, malware, 9bd6e98158af44689c633e789ca84ad2, http://182.117.31.56:42844/bin.sh
-128837, 2024-05-11 05:21:49, 2024-05-11 05:21:49, malware, 4ceecc65662149b59a67d1aa4c8e3225, http://182.116.112.80:51890/i
-128836, 2024-05-11 05:21:48, 2024-05-11 05:21:48, malware, 29386f9b6cd54188af258723d6076649, http://182.113.27.141:41139/i
-128835, 2024-05-11 05:21:46, 2024-05-11 05:21:46, malware, 31372ec9c47d4d60a37fd91481276245, http://182.113.210.241:45971/i
