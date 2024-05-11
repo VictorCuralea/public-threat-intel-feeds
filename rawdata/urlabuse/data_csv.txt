@@ -6,9 +6,18 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-05-11 20:00:01 UTC
+# UPDATE: 2024-05-11 21:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+129401, 2024-05-11 20:52:13, 2024-05-11 20:52:13, phishing, ba1ac84bc6724009755fc8c20f6dad7e, http://ghsfgyowkunoeweijacziajhd01.pages.dev
+129400, 2024-05-11 20:46:13, 2024-05-11 20:46:13, phishing, 12df5ee7003b16878d2d05b033c35100, http://worker-twilight-water-3ea6.ledrazilte.workers.dev
+129399, 2024-05-11 20:36:15, 2024-05-11 20:36:15, phishing, e5fc162dc2c5065566a23125408a17ac, http://use2.pages.dev
+129398, 2024-05-11 20:30:11, 2024-05-11 20:30:11, phishing, b6093604505b0485d86c878454d40c76, http://srvrmailsso-r657regesr.pages.dev
+129397, 2024-05-11 20:30:11, 2024-05-11 20:30:11, phishing, bbc03dd5511d5907990f64f87702be7e, http://gsuteyyxtgjsfokerucasdhjxg04.pages.dev
+129396, 2024-05-11 20:28:12, 2024-05-11 20:28:12, phishing, f3a6675677df74d14eaeccf1262ea16f, http://marttinsdomaindevolopentstratagescomputerservice2.pages.dev
+129395, 2024-05-11 20:26:12, 2024-05-11 20:26:12, phishing, 13ad4dcfa2e85e6680bd52a19c9ee1e6, http://nemsegastrefutomehaser03.pages.dev
+129394, 2024-05-11 20:20:10, 2024-05-11 20:20:10, phishing, 326fd6c997bc89cf5283885e7c871083, http://sjdfoeusoednhskiuovescenisu03.pages.dev
+129393, 2024-05-11 20:00:10, 2024-05-11 20:00:10, phishing, 8e51ff77a936ffb13598dfaa0936289f, http://hostingservervalidationserverauthinticationrequired2.pages.dev
 129392, 2024-05-11 19:40:15, 2024-05-11 19:40:15, phishing, 3a5ea51c60e565016c4b7c73e0b1869a, http://fractional-apps.pages.dev
 129391, 2024-05-11 19:36:11, 2024-05-11 19:36:11, phishing, d4723cd35de3ad8bbfa1ff64da7cf0e7, http://qwerw22.pages.dev
 129390, 2024-05-11 19:25:19, 2024-05-11 19:25:19, malware, bc268534864f46c29702d05b4757cca2, http://newdomain.africa/miraint.mpsl
@@ -500,12 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 128904, 2024-05-11 07:22:39, 2024-05-11 07:22:39, malware, 043b1eadc6d84ad3bc74a3e83f4ab317, http://117.254.103.230:36456/bin.sh
 128903, 2024-05-11 07:22:38, 2024-05-11 07:22:38, malware, 126683a204f4424dbe4d59356000f5e4, http://117.253.108.242:49429/Mozi.m
 128902, 2024-05-11 07:22:36, 2024-05-11 07:22:36, malware, 49f823288e21411dad8b18bf462d4a76, http://117.243.183.148:48902/i
-128901, 2024-05-11 07:22:21, 2024-05-11 07:22:21, malware, b8c06ad3d54242cabacbbaf7bd5efbd8, http://117.220.145.71:43782/i
-128900, 2024-05-11 07:22:20, 2024-05-11 07:22:20, malware, 794f013a7edb49d19c88bf7892a150e3, http://117.219.112.182:58187/Mozi.m
-128899, 2024-05-11 07:22:18, 2024-05-11 07:22:18, malware, c402d518c5d945dbbac9ecf860c163b8, http://117.216.244.166:54821/Mozi.m
-128898, 2024-05-11 07:22:12, 2024-05-11 07:22:12, phishing, f75d6d3595b89f27531b03ae0743c397, http://okerosincvjaoetcsfhxogjh02.pages.dev
-128897, 2024-05-11 07:21:49, 2024-05-11 07:21:49, malware, 24b0423a96a14519bf79750cec5f8a95, http://117.212.175.7:38984/i
-128896, 2024-05-11 07:21:48, 2024-05-11 07:21:48, malware, 8e1579af28da4946862bd36e302e0ceb, http://117.211.209.158:41202/i
-128895, 2024-05-11 07:20:59, 2024-05-11 07:20:59, malware, 81d8109faef14c828acc7252de7decd1, http://117.204.196.130:40342/Mozi.m
-128894, 2024-05-11 07:20:57, 2024-05-11 07:20:57, malware, de5a544536b749caae52008e2f6556e6, http://117.200.181.155:52891/bin.sh
-128893, 2024-05-11 07:20:55, 2024-05-11 07:20:55, malware, 4aedb9366fcf41aebe4922eb1b854330, http://117.199.13.183:57616/Mozi.m
