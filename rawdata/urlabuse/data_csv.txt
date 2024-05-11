@@ -6,9 +6,14 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-05-11 00:00:02 UTC
+# UPDATE: 2024-05-11 01:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+128650, 2024-05-11 00:52:12, 2024-05-11 00:52:12, phishing, 244ce7b75af9f54c5334ccfe254917b3, http://fixmainchainvalidate.pages.dev
+128649, 2024-05-11 00:20:15, 2024-05-11 00:20:15, phishing, bc8b21cae8ea2cdc66cb26af422c8b63, http://aidoge-dapps.pages.dev
+128648, 2024-05-11 00:12:15, 2024-05-11 00:12:15, phishing, 133e0b71cb3e88e9abccf307650fb55f, http://hfb-bzp.pages.dev
+128647, 2024-05-11 00:02:15, 2024-05-11 00:02:15, phishing, 6aff82ef56f5c6d0d1fdbcc54d7d861b, http://mookycoindapps.pages.dev
+128646, 2024-05-11 00:00:17, 2024-05-11 00:00:17, phishing, 2a3bc8e4c30b3041ee977885d681aace, http://stararcaboardflex.pages.dev
 128645, 2024-05-10 23:58:13, 2024-05-10 23:58:13, phishing, 064d2ba85b492ca9cd07ef1d3aaa50e1, http://nxh.pages.dev
 128644, 2024-05-10 23:42:14, 2024-05-10 23:42:14, phishing, 03544c1c367509661b51bfb3ddfdac9e, http://rfmainchains.pages.dev
 128643, 2024-05-10 23:38:14, 2024-05-10 23:38:14, phishing, 3897a1bfb4fd41050f733072b7264f06, http://cxsszwedsaq234rghu7654efu9ijo0olkmbvcdessawdffdertgfdswedx.pages.dev
@@ -504,8 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 128153, 2024-05-10 11:26:20, 2024-05-10 11:26:20, malware, 98d1b64692f347629f4e21d82480ffc5, http://42.227.206.168:45965/bin.sh
 128152, 2024-05-10 11:26:19, 2024-05-10 11:26:19, malware, 236b08111cbe461b92205c424000c072, http://42.227.202.182:40890/bin.sh
 128151, 2024-05-10 11:26:18, 2024-05-10 11:26:18, malware, 56160c28d0fe4b5182f52186d29d6095, http://42.227.200.9:45724/i
-128150, 2024-05-10 11:26:16, 2024-05-10 11:26:16, malware, 6560b04e2b1c49689b15b58f27277f0a, http://42.227.200.9:45724/bin.sh
-128149, 2024-05-10 11:25:53, 2024-05-10 11:25:53, malware, adda830248594e21a5156f7fac3e016d, http://39.74.189.148:43032/i
-128148, 2024-05-10 11:25:52, 2024-05-10 11:25:52, malware, 6ff9b8cf424d48388ea0a17e2aedb492, http://39.74.189.148:43032/bin.sh
-128147, 2024-05-10 11:25:50, 2024-05-10 11:25:50, malware, bc96a8284dce4516af368d0b6b53260f, http://27.215.81.196:44380/Mozi.m
-128146, 2024-05-10 11:25:49, 2024-05-10 11:25:49, malware, 81902d70c02548f8b443a9e580ba1475, http://222.141.141.59:46034/i
