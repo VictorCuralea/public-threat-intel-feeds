@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-11 07:09:24 UTC                        #
+# Last updated: 2024-05-11 12:25:36 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	krampus-executor.org
+127.0.0.1	higomanga.info
 127.0.0.1	anikvan.com
 127.0.0.1	boriz400.com
 127.0.0.1	illoskanawer.com
@@ -12186,12 +12188,4 @@
 127.0.0.1	adse.fartit.com
 127.0.0.1	cnf.faqserv.com
 127.0.0.1	iirir.vizvaz.com
-127.0.0.1	juliet543.myvnc.com
-127.0.0.1	india987.serveblog.net
-127.0.0.1	pegapombo.serveftp.com
-127.0.0.1	modularecenturion.blogdns.com
-127.0.0.1	modularkyoto.gotdns.com
-127.0.0.1	ripcurliogfa.myvnc.com
-127.0.0.1	robertgoldlabel.dyndns-office.com
-127.0.0.1	rolexnuevocnt.is-slick.com
-# Number of entries: 12188
+# Number of entries: 12182
