@@ -6,9 +6,21 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-05-11 02:00:01 UTC
+# UPDATE: 2024-05-11 03:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+128734, 2024-05-11 02:56:12, 2024-05-11 02:56:12, phishing, 3f7f961c8773b4a881722bccf82fc561, http://wesyfusjosavcnsiosdnzcewdgs02.pages.dev
+128733, 2024-05-11 02:50:11, 2024-05-11 02:50:11, phishing, 3854af85cd593230088a729842fb5b50, http://ucffgc3.pages.dev
+128732, 2024-05-11 02:50:11, 2024-05-11 02:50:11, phishing, 45c4586f20336711a7e1f7a01cfa1a23, http://ucffgc3.pages.dev
+128731, 2024-05-11 02:44:13, 2024-05-11 02:44:13, phishing, 4b798b3bacf18158b65e2c384e35b4a2, http://gtyygvtf.pages.dev
+128730, 2024-05-11 02:38:11, 2024-05-11 02:38:11, phishing, ebaca34e22e700a5dac35488f93190a9, http://ghsfgyowkunoeweijacziajhd3.pages.dev
+128729, 2024-05-11 02:34:12, 2024-05-11 02:34:12, phishing, d2d26483f37c6d2d9a4e2ade80348a94, http://yeoisgdoiuhdysidaryjewsg02.pages.dev
+128728, 2024-05-11 02:26:10, 2024-05-11 02:26:10, phishing, 16f60580d44d54a1b0af443604646966, http://newmailwedomailautomatedsupportedservicesmails04.pages.dev
+128727, 2024-05-11 02:22:11, 2024-05-11 02:22:11, phishing, 0162faba5234c5afde163c90b70dc49f, http://arabbasiastarfzz.pages.dev
+128726, 2024-05-11 02:18:15, 2024-05-11 02:18:15, phishing, 335f1eae0cc199d03195e380865c5596, http://onedrive-proxy.lm379.workers.dev
+128725, 2024-05-11 02:12:11, 2024-05-11 02:12:11, phishing, 59b5ce681c44817f29401c236708ca31, http://cknkk.pages.dev
+128724, 2024-05-11 02:10:11, 2024-05-11 02:10:11, phishing, bc88540e7d09b1385d7c9918e636c0ec, http://1gbk.pages.dev
+128723, 2024-05-11 02:06:12, 2024-05-11 02:06:12, phishing, 6d30290e4aa03302a19db153d9717cde, http://5kgb.pages.dev
 128722, 2024-05-11 01:30:13, 2024-05-11 01:30:13, phishing, b5ef15d84089d7634ed72bac27eb5cdd, http://gratasuphomujaecoprinsehu04.pages.dev
 128721, 2024-05-11 01:28:15, 2024-05-11 01:28:15, phishing, eaaf5a6282b0e5fb021fc3cc4704ea31, http://worker-small-mouse-f856.jerryglvan.workers.dev
 128720, 2024-05-11 01:24:53, 2024-05-11 01:24:53, malware, 259a37dcce4b423195693feb8ebc7c80, http://61.53.237.76:36399/i
@@ -497,15 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 128237, 2024-05-10 13:23:16, 2024-05-10 13:23:16, malware, c326f4d131674b92a2f414a3b8ea0b17, http://senpaiontop.nl/arm5
 128236, 2024-05-10 13:23:15, 2024-05-10 13:23:15, malware, 2c07d5dac82c477daefdedf48bf7288f, http://92.154.92.135:49912/Mozi.m
 128235, 2024-05-10 13:23:15, 2024-05-10 13:23:15, malware, c024cf01113c48ce907738d1abe1db48, http://61.53.117.98:48754/Mozi.m
-128234, 2024-05-10 13:23:14, 2024-05-10 13:23:14, malware, aa40ca431c634fc3babc0d55efc32b54, http://59.97.121.120:47259/bin.sh
-128233, 2024-05-10 13:23:12, 2024-05-10 13:23:12, malware, 30ecbcff645647f49745b522ef59fc9f, http://59.92.194.220:41138/i
-128232, 2024-05-10 13:23:09, 2024-05-10 13:23:09, malware, be2aa48aa67946ae940280368959550c, http://42.235.189.156:39035/i
-128231, 2024-05-10 13:23:08, 2024-05-10 13:23:08, malware, a7b0ce2391ab486088bd8057fc28718e, http://42.235.189.156:39035/bin.sh
-128230, 2024-05-10 13:23:07, 2024-05-10 13:23:07, malware, 006b29fee4a54333a38a5d6f4e25410e, http://42.234.217.150:34036/bin.sh
-128229, 2024-05-10 13:23:06, 2024-05-10 13:23:06, malware, bcab1e7ce18549eba14ebcf146c8990e, http://42.233.94.164:40616/i
-128228, 2024-05-10 13:23:05, 2024-05-10 13:23:05, malware, a94637ea4cc541d4ae950c4a0bd805e6, http://42.233.94.164:40616/bin.sh
-128227, 2024-05-10 13:23:03, 2024-05-10 13:23:03, malware, 53416749575c41b9a0dfb6977cb70006, http://42.231.65.144:55255/i
-128226, 2024-05-10 13:23:02, 2024-05-10 13:23:02, malware, 1a10a25cccc2414f9a44f28a4ab1126a, http://42.231.65.144:55255/bin.sh
-128225, 2024-05-10 13:23:00, 2024-05-10 13:23:00, malware, 1382ea5d537e49ccaee4dd03a02dd56f, http://42.231.37.69:52962/bin.sh
-128224, 2024-05-10 13:22:58, 2024-05-10 13:22:58, malware, 5195e798331a402d85467459b1225c53, http://42.224.108.110:52257/bin.sh
-128223, 2024-05-10 13:22:57, 2024-05-10 13:22:57, malware, ba5418638d924961811d88cbe6dc1418, http://37.53.41.222:53788/Mozi.m
