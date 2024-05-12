@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-11 22:47:30 UTC                        #
+# Last updated: 2024-05-12 08:45:44 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	study-window.gl.at.ply.gg
 127.0.0.1	service-1bsjckga-1252578700.gz.tencentapigw.com.cn
 127.0.0.1	action-winds.cfd
 127.0.0.1	microstar.cfd
@@ -12185,4 +12186,4 @@
 127.0.0.1	nt1.227api.com
 127.0.0.1	test.blueteam.asia
 127.0.0.1	www1.canadaeast.cloudapp.azure.com
-# Number of entries: 12179
+# Number of entries: 12180
