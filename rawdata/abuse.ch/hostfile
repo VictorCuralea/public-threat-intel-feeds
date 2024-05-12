@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-12 14:52:47 UTC                        #
+# Last updated: 2024-05-12 18:37:27 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	homebrew.cx
 127.0.0.1	kindupdates.com
 127.0.0.1	js.mitigize.com
 127.0.0.1	www.chiante1ecom.com
@@ -12170,4 +12171,4 @@
 127.0.0.1	longlakeweb.com
 127.0.0.1	download.windowsupdate.mom
 127.0.0.1	jedi.piupiu.top
-# Number of entries: 12164
+# Number of entries: 12165

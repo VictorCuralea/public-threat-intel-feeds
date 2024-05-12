@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-05-12 18:00:01 UTC
+# UPDATE: 2024-05-12 19:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+130251, 2024-05-12 18:52:13, 2024-05-12 18:52:13, phishing, 6f1d02995fc9015d260e304fe06cf764, http://gsgtrhshs12.pages.dev
+130250, 2024-05-12 18:24:11, 2024-05-12 18:24:11, phishing, d3f7e68dd54f08adcd324bea2badd1e6, http://ersdfjrs.pages.dev
+130249, 2024-05-12 18:12:13, 2024-05-12 18:12:13, phishing, 282ad7e485414ade7b4a300d999ed7e4, http://decentralizednodes-digitoads.pages.dev
 130248, 2024-05-12 17:40:14, 2024-05-12 17:40:14, phishing, 46ea22f46abf7601699ef746aa816c19, http://6y7s4x47.pages.dev
 130247, 2024-05-12 17:32:17, 2024-05-12 17:32:17, phishing, 1d03cc2b000c1836f1bd87fd3312bb79, http://usps-streoppa.com
 130246, 2024-05-12 17:25:08, 2024-05-12 17:25:08, malware, 679a3f6e95ba44f19be88702f5f8601d, http://61.53.90.119:41682/Mozi.m
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 129754, 2024-05-12 05:24:48, 2024-05-12 05:24:48, malware, aab63951302a4916af0a52c2fa4ae981, http://59.92.47.90:52736/bin.sh
 129753, 2024-05-12 05:24:16, 2024-05-12 05:24:16, malware, 90bc8eff2c914c17a423e1832f8ba733, http://59.184.78.171:44410/bin.sh
 129752, 2024-05-12 05:24:15, 2024-05-12 05:24:15, malware, 0f9979069ea6451798f281c188b9025d, http://59.182.80.83:37089/i
-129751, 2024-05-12 05:24:04, 2024-05-12 05:24:04, malware, 8c15ecb56bd34c09994a12eee13f416d, http://42.234.137.220:49007/Mozi.m
-129750, 2024-05-12 05:24:03, 2024-05-12 05:24:03, malware, c9fe834533704f3f8bb206b176966d26, http://42.234.103.131:55650/i
-129749, 2024-05-12 05:24:02, 2024-05-12 05:24:02, malware, 6a942fa7ade948b6b73c2baed0383c6f, http://42.232.213.199:46985/bin.sh
