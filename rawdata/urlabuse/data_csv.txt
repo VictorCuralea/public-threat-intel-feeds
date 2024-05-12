@@ -6,9 +6,24 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-05-12 14:00:01 UTC
+# UPDATE: 2024-05-12 15:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+130117, 2024-05-12 14:52:14, 2024-05-12 14:52:14, phishing, 228c43f0a19643e046ec2c106a939897, http://pancdn.xiaochen.workers.dev
+130116, 2024-05-12 14:52:12, 2024-05-12 14:52:12, phishing, 3073a387ebb56301b4f1effccb2b8e4f, http://hnwg61kern1.pages.dev
+130115, 2024-05-12 14:44:53, 2024-05-12 14:44:53, phishing, 9466c37577575b1e8996f661653e660b, https://coffeycj.wixsite.com/e5srcyuiuweruyqiwkje
+130114, 2024-05-12 14:44:40, 2024-05-12 14:36:16, phishing, f022cf5a1e67bd8b0654ac2504f25dd3, https://www.cakeresume.com/s--cqphOhxyUb17JkwzRIAl0g--/ewretsdauyijnkef-ceyqtwuyhjefjsdu
+130113, 2024-05-12 14:44:26, 2024-05-12 14:44:26, phishing, 8ddb68eee96cf96f1f55a42c10da9b45, https://btcmali.weebly.com
+130112, 2024-05-12 14:44:11, 2024-05-12 14:44:11, phishing, 5b17ac0de81f7dfa0f6821ddb5bccfa0, http://xdfcrt.pages.dev
+130111, 2024-05-12 14:44:00, 2024-05-12 14:30:12, phishing, 689bc978fea528b89af62ed9263e86c4, https://btcom.simdif.com/
+130110, 2024-05-12 14:43:51, 2024-05-12 13:36:14, phishing, 67f7f5fb42c13d17e5ffdf95e8f4be90, https://cloudflare-ipfs.com/ipfs/QmbN7JzecB7DXUbKywNEL9AerZXcyWJGHrZuXJdfEdy2Ed#example@example.org
+130109, 2024-05-12 14:43:41, 2024-05-12 13:30:15, phishing, 885119b8fb277682dc24f4e3b76c04c0, https://cloudflare-ipfs.com/ipfs/QmQ1qJ9hrvtqg6bjtN1ZECvQThe8NfHmqBDk8d72DCjjKB#example@example.org
+130108, 2024-05-12 14:42:10, 2024-05-12 14:42:10, phishing, b921aa74ac7135624b8b5233f43cbad6, http://ahinmakdhaway03.pages.dev
+130107, 2024-05-12 14:26:14, 2024-05-12 14:26:14, phishing, af52eca0f91bfdda9941aeb775eacb5b, http://mergerdapps.pages.dev
+130106, 2024-05-12 14:20:12, 2024-05-12 14:20:12, phishing, f5b854f9be286edb655966d562f035b2, http://windsor-va.pages.dev
+130105, 2024-05-12 14:06:15, 2024-05-12 14:06:15, phishing, 5316ad566283d9bf570869e02403628e, http://rcav.pages.dev
+130104, 2024-05-12 14:04:14, 2024-05-12 14:04:14, phishing, e9e32230d8c0f954d02b4e5f6be7bb0b, http://appeal.shawonga.com
+130103, 2024-05-12 14:02:13, 2024-05-12 14:02:13, phishing, 269c9c77384a8ea5d78b281f90d3ce2c, http://guideforcommunity.my.id
 130102, 2024-05-12 13:40:13, 2024-05-12 13:40:13, phishing, 1fdcf9689b95945951f94a75fa6030f4, http://5n8qxuoop0jgk1w.pages.dev
 130101, 2024-05-12 13:26:11, 2024-05-12 13:26:11, phishing, 4d427b4a5a1b827fd82ef6aac1466035, http://qwert2-amq.pages.dev
 130100, 2024-05-12 13:24:27, 2024-05-12 13:24:27, malware, ec6e0c3467804bfd86213819adc0edcd, http://61.52.33.56:54377/Mozi.m
@@ -494,18 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 129620, 2024-05-12 03:20:40, 2024-05-12 03:20:40, malware, c6273545aeed4c909063ce99fa0c5587, http://115.56.167.143:34143/bin.sh
 129619, 2024-05-12 03:20:19, 2024-05-12 03:20:19, malware, 583e441ea05447b08dfb478cc3d21ebd, http://115.50.222.9:41159/bin.sh
 129618, 2024-05-12 03:20:10, 2024-05-12 03:20:10, malware, 61f502a924344eb2a29ffa0be28dfc1c, http://115.48.147.170:35445/Mozi.m
-129617, 2024-05-12 03:20:09, 2024-05-12 03:20:09, malware, 06f60a3183834dd8a4da4f7611a8c4d2, http://115.207.161.39:40772/Mozi.m
-129616, 2024-05-12 03:20:04, 2024-05-12 03:20:04, malware, f021d621be534b6ea81dd867e5ca6ec6, http://112.248.245.125:57351/bin.sh
-129615, 2024-05-12 03:16:11, 2024-05-12 03:16:11, phishing, ca8c5faf5f8f8b8e8b0ed01df97240cd, http://tg3.pages.dev
-129614, 2024-05-12 02:24:13, 2024-05-12 02:24:13, phishing, c017815814ab260ba0e21fef273c00b2, http://jkghjkhjkhjk.pages.dev
-129613, 2024-05-12 02:06:10, 2024-05-12 02:06:10, phishing, 4f9be985e810be95264e6b01d814f8ea, http://sjdfoeusoednhskiuovescenisu04.pages.dev
-129612, 2024-05-12 01:28:13, 2024-05-12 01:28:13, phishing, 8c8bfb3b7f33e500fadad2fc73b2dd4b, http://facebookappeal.my.id
-129611, 2024-05-12 01:28:11, 2024-05-12 01:28:11, phishing, 1aa56951911198fe8122930f545fdfae, http://qwer2-308.pages.dev
-129610, 2024-05-12 01:22:52, 2024-05-12 01:22:52, malware, 16819600949f41df9d15e8191c8daa6d, http://94.156.8.169/static/Aqua.x86
-129609, 2024-05-12 01:22:52, 2024-05-12 01:22:52, malware, 9fa2147f76db424596e8179a6ae0f981, http://94.156.8.169/static/Aqua.mpsl
-129608, 2024-05-12 01:22:51, 2024-05-12 01:22:51, malware, ced462dad6c845b8b0dce3ce02272cf5, http://94.156.8.169/static/Aqua.mips
-129607, 2024-05-12 01:22:31, 2024-05-12 01:22:31, malware, 7875a02d278f47b3accf9c2bd9ed4484, http://59.97.119.217:48771/i
-129606, 2024-05-12 01:22:22, 2024-05-12 01:22:22, malware, b146ba2c34c14144980a13729228489d, http://59.93.188.60:50001/Mozi.m
-129605, 2024-05-12 01:22:20, 2024-05-12 01:22:20, malware, fa4906417de841c1b4a5e6746b160484, http://59.93.182.55:56792/bin.sh
-129604, 2024-05-12 01:22:19, 2024-05-12 01:22:19, malware, 255ca507509244c6a207f589a0a8f714, http://59.93.181.68:58692/i
-129603, 2024-05-12 01:22:11, 2024-05-12 01:22:11, phishing, 2be21e425cd88e81ce8700ee995e9756, http://gsuteyyxtgjsfokerucasdhjxg02.pages.dev
