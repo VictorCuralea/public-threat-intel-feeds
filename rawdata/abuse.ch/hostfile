@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-12 10:34:25 UTC                        #
+# Last updated: 2024-05-12 12:54:42 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	js.mitigize.com
+127.0.0.1	www.chiante1ecom.com
 127.0.0.1	prideconstituiiosjk.shop
 127.0.0.1	smallelementyjdui.shop
 127.0.0.1	appetitesallooonsj.shop
@@ -12193,4 +12195,4 @@
 127.0.0.1	mail.159-65-168-135.cprapid.com
 127.0.0.1	ec2-18-198-246-147.eu-central-1.compute.amazonaws.com
 127.0.0.1	showmoreresultonliner.com
-# Number of entries: 12187
+# Number of entries: 12189
