@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-13 08:29:22 UTC                        #
+# Last updated: 2024-05-13 09:38:22 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	yuanruicn.top
 127.0.0.1	frck.xyz
 127.0.0.1	frdk.xyz
 127.0.0.1	frfk.xyz
@@ -12173,5 +12174,4 @@
 127.0.0.1	storageapis.gotdns.ch
 127.0.0.1	longlakeweb.com
 127.0.0.1	download.windowsupdate.mom
-127.0.0.1	jedi.piupiu.top
 # Number of entries: 12168
