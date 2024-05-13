@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-13 12:53:01 UTC                        #
+# Last updated: 2024-05-13 13:44:51 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	twinks234.duckdns.org
+127.0.0.1	voip.analytics-edges.com
 127.0.0.1	newsarena.sbs
 127.0.0.1	chinamobilie.com
 127.0.0.1	edgeupdate.office365update.cn
@@ -12168,11 +12170,4 @@
 127.0.0.1	clearcracksoft.xyz
 127.0.0.1	cleansoft.xyz
 127.0.0.1	dl.tehranuniversity.website
-127.0.0.1	ns5006633.ip-51-79-230.net
-127.0.0.1	ec2-52-204-111-102.compute-1.amazonaws.com
-127.0.0.1	vps-243c526b.vps.ovh.net
-127.0.0.1	www.chromewebkit.com
-127.0.0.1	ec2-35-178-203-77.eu-west-2.compute.amazonaws.com
-127.0.0.1	microsoft.net.linkpc.net
-127.0.0.1	storageapis.gotdns.ch
-# Number of entries: 12169
+# Number of entries: 12164
