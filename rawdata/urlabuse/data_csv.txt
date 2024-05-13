@@ -6,9 +6,23 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-05-13 08:00:01 UTC
+# UPDATE: 2024-05-13 09:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+130745, 2024-05-13 08:41:29, 2024-05-13 08:30:13, phishing, 5e506c5a170649af209780352588ca14, https://www.cakeresume.com/s--KJPNhNG1KS07IbWf5ebZ6w--/lkszyhxtdrfagujhsk-rtytuaisjklkws
+130744, 2024-05-13 08:41:06, 2024-05-13 08:41:06, phishing, cd782b8bae5d703091318dfebca9e7d1, https://home0221.weebly.com
+130743, 2024-05-13 08:40:53, 2024-05-13 08:26:13, phishing, 46fe2b7951369482ae7e52095a00fa0a, https://apptuts.bio/thanks-for-using-bt
+130742, 2024-05-13 08:39:59, 2024-05-13 08:16:15, phishing, feba6a76bb0936e5af4bc60221d837fd, https://www.powr.io/popup/i/38262638#page
+130741, 2024-05-13 08:39:30, 2024-05-13 08:39:30, phishing, 06735c245a3d158c25e7980b243a670e, https://blank-template-0-14399.grwebsite.com
+130740, 2024-05-13 08:39:13, 2024-05-13 08:12:17, phishing, ea20cf7711a1d281751122affa04d5df, https://whimsical.com/bt-internet-6GLSw1EM5es2HJKJ4N9yqK
+130739, 2024-05-13 08:38:32, 2024-05-13 08:38:32, phishing, e94565ca2e0bf14a66494176353ae09f, https://travefy.com/f/6kw9rqrqszqara6ueesa5a44kybtjdbs/full?q=1397266
+130738, 2024-05-13 08:38:11, 2024-05-13 08:12:13, phishing, 123adb65a1fe8e6c2289b2912d0472ec, https://travefy.com/discover/uyifwanlfwhr-qetyuyiujkwaehjsd-6grt2mq3narq
+130737, 2024-05-13 08:37:05, 2024-05-13 08:37:05, phishing, 6b10d342aa90b489f63ec315c7fbbfae, https://travefy.com/f/6kw9rqrqszqara6ueesa5a44kybtjdbs
+130736, 2024-05-13 08:36:39, 2024-05-13 08:10:15, phishing, 0ea4dcc711647f448a29e3125a86a9d6, https://www.cakeresume.com/s--sh0oxBCNpOPV_w6fpgiEyQ--/rytweuyiop-5768i8o9poaks
+130735, 2024-05-13 08:28:13, 2024-05-13 08:28:13, phishing, 0713fcad044e1fbdb8976021217d3127, http://4-2-aul.pages.dev
+130734, 2024-05-13 08:12:11, 2024-05-13 08:12:11, phishing, 34a9e400416f872476743ff181b492c0, http://sdec13.pages.dev
+130733, 2024-05-13 08:02:12, 2024-05-13 08:02:12, phishing, ecfa853b673af440a94ca904168e9ba9, http://drgc.pages.dev
+130732, 2024-05-13 08:00:07, 2024-05-13 07:32:33, phishing, faf2a24fa18b042f6e39e2b44ca71c69, https://n8cx4zzdxie6.browser-renew-system.sbs/support_case_ID/#2073315758
 130731, 2024-05-13 07:59:53, None, phishing, 5f8899f09a7c3b69f49c85632e35ff82, https://innovapk.com/home/?N1938444816
 130730, 2024-05-13 07:59:35, 2024-05-13 07:32:26, phishing, a5cd14dab1c8e170ed3bc91a5bc58e4f, https://dapper-belekoy-846028.netlify.app/appeal_case_id/#5966690885
 130729, 2024-05-13 07:59:24, 2024-05-13 07:32:26, phishing, 0041c105425538d2c6ae6a87abe8eb92, https://deluxe-lamington-914034.netlify.app/appeal_case_id/#3103661936
@@ -495,17 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 130248, 2024-05-12 17:40:14, 2024-05-12 17:40:14, phishing, 46ea22f46abf7601699ef746aa816c19, http://6y7s4x47.pages.dev
 130247, 2024-05-12 17:32:17, 2024-05-12 17:32:17, phishing, 1d03cc2b000c1836f1bd87fd3312bb79, http://usps-streoppa.com
 130246, 2024-05-12 17:25:08, 2024-05-12 17:25:08, malware, 679a3f6e95ba44f19be88702f5f8601d, http://61.53.90.119:41682/Mozi.m
-130245, 2024-05-12 17:25:06, 2024-05-12 17:25:06, malware, 9fe7fc5d10764a6797816d8392fdabcb, http://61.53.90.119:41682/
-130244, 2024-05-12 17:25:05, 2024-05-12 17:25:05, malware, 360b3f1cdd1a46298058d6708ea37744, http://61.52.53.136:48460/i
-130243, 2024-05-12 17:25:04, 2024-05-12 17:25:04, malware, ca9481d32f5840e4ad3c93690f5baa13, http://61.52.38.170:52755/
-130242, 2024-05-12 17:25:03, 2024-05-12 17:25:03, malware, 8a29bda73e854cf4a547a18302e23bb9, http://59.89.65.46:57078/i
-130241, 2024-05-12 17:24:41, 2024-05-12 17:24:41, malware, 40d6ce57d4f54acea4290646a2be1f6b, http://42.238.242.239:40440/i
-130240, 2024-05-12 17:24:40, 2024-05-12 17:24:40, malware, 753907d8fae847968a10d113875f35a9, http://42.235.183.145:49338/
-130239, 2024-05-12 17:24:39, 2024-05-12 17:24:39, malware, a1f5a0ca45ff4fb3b372885bd543fb47, http://42.231.254.158:36582/bin.sh
-130238, 2024-05-12 17:24:38, 2024-05-12 17:24:38, malware, 1ca2ebce9b1a41b2ab8461abbd45dcc3, http://42.230.217.79:49252/
-130237, 2024-05-12 17:24:37, 2024-05-12 17:24:37, malware, 2800af0590784a4cac3cf4169be08c2f, http://42.224.115.225:51920/i
-130236, 2024-05-12 17:24:36, 2024-05-12 17:24:36, malware, 9c1a252f717142b38f2f5c45a64461d3, http://42.224.115.225:51920/
-130235, 2024-05-12 17:24:25, 2024-05-12 17:24:25, malware, 2174c61018dd4ebf9cb8fa962ae4b687, http://27.215.176.132:36994/bin.sh
-130234, 2024-05-12 17:24:24, 2024-05-12 17:24:24, malware, d6fa3f8ee86f4e78a012d1eadbbdbcac, http://27.207.186.24:34566/bin.sh
-130233, 2024-05-12 17:24:23, 2024-05-12 17:24:23, malware, c7b775fe598546bba4d31c376d457820, http://222.139.192.149:60551/Mozi.m
-130232, 2024-05-12 17:24:22, 2024-05-12 17:24:22, malware, 665eb38d71144e5a8082c77c23d31e8d, http://222.139.107.243:52880/i
