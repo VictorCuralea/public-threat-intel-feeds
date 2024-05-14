@@ -1,12 +1,17 @@
 ################################################################
 # ThreatFox IOCs: recent SHA256 hashes - CSV format            #
-# Last updated: 2024-05-13 16:34:32 UTC                        #
+# Last updated: 2024-05-14 06:41:56 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
 # "first_seen_utc","ioc_id","ioc_value","ioc_type","threat_type","fk_malware","malware_alias","malware_printable","last_seen_utc","confidence_level","reference","tags","anonymous","reporter"
+"2024-05-14 06:41:56", "1270561", "d7d7472ae765c96d33ec8e6251cddd59d3f93bd8d9be96f7311726e842337e61", "sha256_hash", "payload", "apk.spynote", "CypherRat", "SpyNote", "", "100", "", "None", "0", "NDA0E"
+"2024-05-14 06:41:55", "1270562", "8a91bf9ba1250e5f0977384101f5ff3c1d7dc121e7ed304e2580bac1082b7d61", "sha256_hash", "payload", "apk.spynote", "CypherRat", "SpyNote", "", "100", "", "None", "0", "NDA0E"
+"2024-05-14 06:41:55", "1270563", "6008975dfd2aaa07fcb307b12d0c8a273aa6f4882749e29bac1f29e26a035c8f", "sha256_hash", "payload", "apk.spynote", "CypherRat", "SpyNote", "", "100", "", "None", "0", "NDA0E"
+"2024-05-14 06:41:55", "1270564", "078cebddba654c215c01f04900987a34233bddbcc26696e1417b5d3cc6e90e35", "sha256_hash", "payload", "apk.spynote", "CypherRat", "SpyNote", "", "100", "", "None", "0", "NDA0E"
+"2024-05-14 06:41:54", "1270565", "3276943dafdd603863aaf4b33a6ea3569dba91b1fac81b6bb4b454ffbe99e936", "sha256_hash", "payload", "apk.spynote", "CypherRat", "SpyNote", "", "100", "", "None", "0", "NDA0E"
 "2024-05-13 16:34:32", "1270553", "f73c2ff7df05fca90c08e6ac7a30b97f56a5f62ddc1aed09e0970dc416f995aa", "sha256_hash", "payload", "win.smokeloader", "Dofoil,Sharik,Smoke,Smoke Loader", "SmokeLoader", "", "95", "None", "None", "0", "Grim"
 "2024-05-13 16:34:28", "1270550", "434b1a9bd966d204eef1f4cddb7b73a91ebc5aaf4ac9b4ddd999c6444d92eb61", "sha256_hash", "payload", "win.stealc", "None", "Stealc", "", "95", "None", "None", "0", "Grim"
 "2024-05-13 16:34:25", "1270547", "19784b0f660db383733278a64f417fd94efb5b8cb271c01b93fd57c84585d38c", "sha256_hash", "payload", "win.zgrat", "None", "zgRAT", "", "95", "None", "None", "0", "Grim"
@@ -117,4 +122,4 @@
 "2024-05-12 18:29:40", "1269910", "a65dc9cbe71f0efde3fd50729cf5576bfb4c870329eed8f90dcd0fc1b9aa97ba", "sha256_hash", "payload", "win.redline_stealer", "RECORDSTEALER", "RedLine Stealer", "", "95", "None", "None", "0", "Grim"
 "2024-05-12 18:29:37", "1269907", "94e42c4fee044a71b982054b06a77bc335aaf1e542f66422a75de3ea207dd77a", "sha256_hash", "payload", "win.dcrat", "DarkCrystal RAT", "DCRat", "", "95", "None", "None", "0", "Grim"
 "2024-05-12 18:29:34", "1269904", "061791f02d5061d3c989aa874fa4bf4bb19c45a3101eb292e8754c392c9214a2", "sha256_hash", "payload", "win.troystealer", "None", "troystealer", "", "95", "None", "None", "0", "Grim"
-# Number of entries: 110
+# Number of entries: 115

@@ -1,11 +1,17 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-13 17:22:50 UTC                        #
+# Last updated: 2024-05-14 06:42:10 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	zkfileshost.com
+127.0.0.1	wasabiwallet.is
+127.0.0.1	strutitinca.ro
+127.0.0.1	o.tpc.ngrok.io
+127.0.0.1	capty.nut.cc
+127.0.0.1	vacation-nails.gl.at.ply.gg
 127.0.0.1	premiumsystemshk.com
 127.0.0.1	www.premiumsystemshk.com
 127.0.0.1	de-engines.gl.at.ply.gg
@@ -12164,6 +12170,4 @@
 127.0.0.1	service-k046gp6x-1252319062.bj.apigw.tencentcs.com
 127.0.0.1	netskope0.azureedge.net
 127.0.0.1	service-2w198e2r-1308639534.sh.apigw.tencentcs.com
-127.0.0.1	muphantom.online
-127.0.0.1	us3.localto.net
-# Number of entries: 12160
+# Number of entries: 12164
