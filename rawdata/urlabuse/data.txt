@@ -6,8 +6,15 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-05-14 00:00:02 UTC
+# UPDATE: 2024-05-14 01:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 131417, "url": "http://b2530.top", "discovery": "2024-05-14 00:52:15", "added": "2024-05-14 00:52:15", "target": "Telegram", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "126cdefe744243a7762862c7368cedc2"}
+{"id": 131416, "url": "http://somedomainvalidationserverauthinticationrequireds3.pages.dev", "discovery": "2024-05-14 00:52:11", "added": "2024-05-14 00:52:11", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "edde645019e3c71de8455ee5a2fdb0fd"}
+{"id": 131415, "url": "http://webmail.option.com.br", "discovery": "2024-05-14 00:48:20", "added": "2024-05-14 00:48:20", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "b63aef30fab4e7681f6cc0b2f9398b78"}
+{"id": 131414, "url": "http://jhbjhoui3r.pages.dev", "discovery": "2024-05-14 00:48:13", "added": "2024-05-14 00:48:13", "target": "Amazon", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "4a1072fbd4dfaee5495df2a52c750bd1"}
+{"id": 131413, "url": "http://stcyenyixx.cn", "discovery": "2024-05-14 00:46:25", "added": "2024-05-14 00:46:25", "target": "imToken", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "b518986f2162c0a997327730e1e0e483"}
+{"id": 131412, "url": "http://bjhrdx.cn", "discovery": "2024-05-14 00:46:25", "added": "2024-05-14 00:46:25", "target": "imToken", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "8681643d9fc99d5ee681c1aaf5a9e0b0"}
+{"id": 131411, "url": "http://nfj2.pages.dev", "discovery": "2024-05-14 00:08:12", "added": "2024-05-14 00:08:12", "target": "Yahoo!", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "341892e38e40a7a71834d9271333b07e"}
 {"id": 131410, "url": "https://sbbswisspasskonto.sviluppo.host/ch/", "discovery": "2024-05-13 23:43:59", "added": "2024-05-13 23:43:59", "target": "SwissPass", "reporter": "urlabuse", "AbuseType": "phishing", "UUID": "acb7fea7d211ed788de12c8926bada4f"}
 {"id": 131409, "url": "https://ng-wdl.com/", "discovery": "2024-05-13 22:03:44", "added": "2024-05-13 23:43:46", "target": "SwissPass", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "7ef42882b42abe728b3921c9de749e3d"}
 {"id": 131408, "url": "https://chlogin-zd-eiam.blogspot.com/", "discovery": "2024-05-13 21:56:15", "added": "2024-05-13 23:42:42", "target": "CH-GOV", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "38e3d34742f59fdbd99ffe714a469dfa"}
@@ -129,7 +136,6 @@
 {"id": 131292, "url": "http://115.49.2.150:47892/Mozi.m", "discovery": "2024-05-13 21:20:05", "added": "2024-05-13 21:20:05", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "f1911dbc13f04c28a05cd4800184c974"}
 {"id": 131291, "url": "http://115.48.4.86:34036/bin.sh", "discovery": "2024-05-13 21:20:04", "added": "2024-05-13 21:20:04", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "eb7d19251d654afbbc4fa58b7d13b091"}
 {"id": 131290, "url": "http://115.48.144.163:48386/Mozi.m", "discovery": "2024-05-13 21:20:03", "added": "2024-05-13 21:20:03", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "4ce46e29c9ab4abab4cad3876395212e"}
-{"id": 131289, "url": "http://caneraincfolder.pages.dev", "discovery": "2024-05-13 20:56:12", "added": "2024-05-13 20:56:12", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "0f1ec226a362918db78ddef890f43800"}
 {"id": 131288, "url": "http://caneraincfolder.pages.dev", "discovery": "2024-05-13 20:56:12", "added": "2024-05-13 20:56:12", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "f96eef7e11153f410c6e10386c2100d7"}
 {"id": 131287, "url": "http://ecuhbygf2gmi.pages.dev", "discovery": "2024-05-13 20:48:12", "added": "2024-05-13 20:48:12", "target": "Amazon", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "9ae38c953cc997b655161b727bf52ae9"}
 {"id": 131286, "url": "http://fulldirectcoverbet.pages.dev", "discovery": "2024-05-13 20:30:14", "added": "2024-05-13 20:30:14", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "2f99d4b2f730db26ea5dd0170bb63fcc"}
@@ -502,9 +508,3 @@
 {"id": 130919, "url": "http://uaqap.com", "discovery": "2024-05-13 12:56:24", "added": "2024-05-13 12:56:24", "target": "USPS", "reporter": "lruray", "AbuseType": "phishing", "UUID": "74782a416f19d3a869a78a5e6dc0bfae"}
 {"id": 130918, "url": "http://uaqau.com", "discovery": "2024-05-13 12:56:22", "added": "2024-05-13 12:56:22", "target": "USPS", "reporter": "lruray", "AbuseType": "phishing", "UUID": "13fd4c57b983b1607a73f9def6031f2e"}
 {"id": 130917, "url": "http://uaqae.com", "discovery": "2024-05-13 12:56:14", "added": "2024-05-13 12:56:14", "target": "USPS", "reporter": "lruray", "AbuseType": "phishing", "UUID": "c81f6e9352aed8dd1feb9af83f5c5cde"}
-{"id": 130916, "url": "http://uaqas.com", "discovery": "2024-05-13 12:56:14", "added": "2024-05-13 12:56:14", "target": "USPS", "reporter": "lruray", "AbuseType": "phishing", "UUID": "afa812cfa0ab4892a6a0288fd277b872"}
-{"id": 130915, "url": "http://uaqay.com", "discovery": "2024-05-13 12:54:15", "added": "2024-05-13 12:54:15", "target": "USPS", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "69b9e52e9f94ca130f383eb383ae0f07"}
-{"id": 130914, "url": "http://acsd9.pages.dev", "discovery": "2024-05-13 12:44:11", "added": "2024-05-13 12:44:11", "target": "Amazon", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "46cac80538252d5b16ad0823b1d18d87"}
-{"id": 130913, "url": "https://59.229.205.92.host.secureserver.net/meine.swisscom9772/", "discovery": "2024-05-13 12:42:13", "added": "2024-05-13 12:42:13", "target": "Netflix", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "7c8c4b6f0e3ed85fb27ca5741e865e7e"}
-{"id": 130912, "url": "https://webmaremma.clickacumba.com/url/ver/647514802/2675395/a6b99ab1e4e0d4ee1444bdb369ff825e", "discovery": "2024-05-13 12:34:16", "added": "2024-05-13 12:40:55", "target": "SwissPass", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "06ebb0145a430bf14ff0060bcfbd0ce0"}
-{"id": 130911, "url": "https://swiss-passapp.web.app", "discovery": "2024-05-13 12:39:45", "added": "2024-05-13 12:39:45", "target": "SwissPass", "reporter": "urlabuse", "AbuseType": "phishing", "UUID": "3ff0a53b9c02927509216b77998690a3"}
