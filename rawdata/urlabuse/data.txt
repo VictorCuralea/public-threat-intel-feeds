@@ -6,8 +6,10 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-05-14 02:00:02 UTC
+# UPDATE: 2024-05-14 03:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 131489, "url": "http://lzlwj.pages.dev", "discovery": "2024-05-14 02:56:14", "added": "2024-05-14 02:56:14", "target": "Amazon", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "bb473bf6f9e244d874f86b0871f1920b"}
+{"id": 131488, "url": "http://smartprotocol.pages.dev", "discovery": "2024-05-14 02:54:17", "added": "2024-05-14 02:54:17", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "3347a32fad731cc85e1847171dad59f5"}
 {"id": 131487, "url": "http://91.222.78.56:59853/Mozi.m", "discovery": "2024-05-14 01:24:02", "added": "2024-05-14 01:24:02", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "84435ec5e3834582b9aa428cc1ee7e8c"}
 {"id": 131486, "url": "http://81.235.157.102:48164/Mozi.a", "discovery": "2024-05-14 01:24:02", "added": "2024-05-14 01:24:02", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "ac78abaa04f34b3f9b35ab78956ff7dd"}
 {"id": 131485, "url": "http://61.0.221.82:47627/mozi.m", "discovery": "2024-05-14 01:23:52", "added": "2024-05-14 01:23:52", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "39fc769a3c884fc9985ecdd7b52bc2dc"}
@@ -506,5 +508,3 @@
 {"id": 130991, "url": "http://gethvr.pages.dev", "discovery": "2024-05-13 14:44:13", "added": "2024-05-13 14:44:13", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "7d930ce459f251a599af835ee56f12ff"}
 {"id": 130990, "url": "http://ioprkldefnterodkljcjkdjtr4oytesjcknvf.pages.dev", "discovery": "2024-05-13 14:36:10", "added": "2024-05-13 14:36:10", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "405e001f3bd56e888b8febfb8874399e"}
 {"id": 130989, "url": "http://rujerky.online", "discovery": "2024-05-13 14:34:12", "added": "2024-05-13 14:34:12", "target": "Telegram", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "e3ddc933cc6b107c1263687b15d8800c"}
-{"id": 130988, "url": "http://telegram-sexnaughty18.pages.dev", "discovery": "2024-05-13 14:26:13", "added": "2024-05-13 14:26:13", "target": "Telegram", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "ead20ddea540ff0eda38d0e923ddff8f"}
-{"id": 130987, "url": "http://ck-ed-gelpskonmic-1857193888.pages.dev", "discovery": "2024-05-13 14:24:27", "added": "2024-05-13 14:24:27", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "68668db2e010bec6dbd708ed96ba7841"}
