@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-14 12:52:17 UTC                        #
+# Last updated: 2024-05-14 17:51:25 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	vsj888.shop
+127.0.0.1	ns.jakithebest.ru
 127.0.0.1	service-kj4ef32e-1252578700.gz.tencentapigw.com.cn
 127.0.0.1	gov.vsj888.shop
 127.0.0.1	www.jumpsrever.top
@@ -12171,4 +12173,4 @@
 127.0.0.1	service-3s2hxn8v-1308639534.sh.apigw.tencentcs.com
 127.0.0.1	rockpython.xyz
 127.0.0.1	www.theokanegroup.com
-# Number of entries: 12165
+# Number of entries: 12167
