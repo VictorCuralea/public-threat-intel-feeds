@@ -1,11 +1,24 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-15 19:32:29 UTC                        #
+# Last updated: 2024-05-15 21:47:59 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	utd-corts.com
+127.0.0.1	utd-forts.com
+127.0.0.1	utm-adrooz.com
+127.0.0.1	utm-adschuk.com
+127.0.0.1	utm-advrez.com
+127.0.0.1	utm-drmka.com
+127.0.0.1	utm-fukap.com
+127.0.0.1	utm-msh.com
+127.0.0.1	utm-adsname.com
+127.0.0.1	utm-adschuk.com
+127.0.0.1	utm-adsgoogle.com
+127.0.0.1	utm-advrez.com
+127.0.0.1	cdn-inform.com
 127.0.0.1	ace.cmicro.xyz
 127.0.0.1	arista-onelogein.com
 127.0.0.1	character-acquisitions.gl.at.ply.gg
@@ -12162,4 +12175,4 @@
 127.0.0.1	8sjimonstersboonkonline.com
 127.0.0.1	campaign.dchalegal.com
 127.0.0.1	hardcorearrpa.viewdns.net
-# Number of entries: 12156
+# Number of entries: 12169
