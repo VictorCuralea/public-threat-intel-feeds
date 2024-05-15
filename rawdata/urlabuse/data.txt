@@ -6,8 +6,16 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-05-15 12:00:01 UTC
+# UPDATE: 2024-05-15 13:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 132600, "url": "http://urfsb.com", "discovery": "2024-05-15 12:58:16", "added": "2024-05-15 12:58:16", "target": "USPS", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "b85cd0b6742c7ca50ae7d549b0110262"}
+{"id": 132599, "url": "http://manta2-ben.pages.dev", "discovery": "2024-05-15 12:56:15", "added": "2024-05-15 12:56:15", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "052b9b9f153792930dc3b1f7502ac63a"}
+{"id": 132598, "url": "http://urfae.com", "discovery": "2024-05-15 12:46:13", "added": "2024-05-15 12:46:13", "target": "USPS", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "acb72233ae9254f0c951f0fd544352dd"}
+{"id": 132597, "url": "http://mail.maliyeistrgov-tr4318.com", "discovery": "2024-05-15 12:46:11", "added": "2024-05-15 12:46:11", "target": "TR-GOV", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "6c3c616523034905f20a4350c5f0ccc2"}
+{"id": 132596, "url": "http://urfsg.com", "discovery": "2024-05-15 12:44:13", "added": "2024-05-15 12:44:13", "target": "USPS", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "e19498bd8e8bb4f7ef30d8094d5407e8"}
+{"id": 132595, "url": "http://urfsn.com", "discovery": "2024-05-15 12:42:15", "added": "2024-05-15 12:42:15", "target": "USPS", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "d6915a663384a411aaf1651fcc4713c7"}
+{"id": 132594, "url": "http://pooh-moneydapps.pages.dev", "discovery": "2024-05-15 12:30:13", "added": "2024-05-15 12:30:13", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "49e1068d62d2a5336f00fa0b0a8e802c"}
+{"id": 132593, "url": "http://shibarium-dao.pages.dev", "discovery": "2024-05-15 12:04:13", "added": "2024-05-15 12:04:13", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "7046581f41e75ab3940a468f04bdf87c"}
 {"id": 132592, "url": "http://urfap.com", "discovery": "2024-05-15 11:44:14", "added": "2024-05-15 11:44:14", "target": "USPS", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "788bbdda634588c9762a64bad8804828"}
 {"id": 132591, "url": "http://b.pp508.icu", "discovery": "2024-05-15 11:30:18", "added": "2024-05-15 11:30:18", "target": "Whatsapp", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "8a8eb0498e892311637a52fb3b458491"}
 {"id": 132590, "url": "http://vosdroits-sante.info", "discovery": "2024-05-15 11:30:15", "added": "2024-05-15 11:30:15", "target": "FR-GOV", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "52dd9bb7641e477f59f813c2e890951c"}
@@ -500,11 +508,3 @@
 {"id": 132103, "url": "https://www.pimsgoc.com/en01.html", "discovery": "2024-05-14 22:10:02", "added": "2024-05-14 22:10:02", "target": "DPD", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "8e8d8fdfbf9e6c162a8003f878332e09"}
 {"id": 132102, "url": "https://sbbch.wpengine.com/v3/", "discovery": "2024-05-14 22:08:40", "added": "2024-05-14 22:08:40", "target": "SwissPass", "reporter": "lruray", "AbuseType": "phishing", "UUID": "13778ee6b7c2bf0881f11ec0a5a99230"}
 {"id": 132101, "url": "https://cmu.lbn.mybluehost.me/wp-admin/one/one/", "discovery": "2024-05-14 22:08:35", "added": "2024-05-14 22:08:35", "target": "one", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "c0fee52732fcc9b71aed9fed3fe27289"}
-{"id": 132100, "url": "https://kerroum-groupe.com/testing", "discovery": "2024-05-14 22:08:26", "added": "2024-05-14 22:08:26", "target": "one", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "a53cc532309fcab2cb56eea4a04b1a0a"}
-{"id": 132099, "url": "https://0.232.205.92.host.secureserver.net/", "discovery": "2024-05-14 22:08:25", "added": "2024-05-14 22:08:25", "target": "Netflix", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "fd5478d344ceb0b5b799e35fc91aadac"}
-{"id": 132098, "url": "https://jayjapolako.blogspot.com/", "discovery": "2024-05-14 22:08:16", "added": "2024-05-14 22:08:16", "target": "SwissPass", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "01112b781b100ddf797ead29b31ae040"}
-{"id": 132097, "url": "https://sbbch.wpenginepowered.com/v3/", "discovery": "2024-05-14 22:06:38", "added": "2024-05-14 22:06:38", "target": "SwissPass", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "7d393eab153f1c7c14da3c87e5acf452"}
-{"id": 132096, "url": "http://telemsam.fit/teletsma.fit/teletsma.fit/web", "discovery": "2024-05-14 22:04:38", "added": "2024-05-14 22:04:38", "target": "Telegram", "reporter": "lruray", "AbuseType": "phishing", "UUID": "537875f889acd80f7e535b4f31a74513"}
-{"id": 132095, "url": "http://pub-c19badcd56014ec4b424873f4656be42.r2.dev/passwordverifications.html", "discovery": "2024-05-14 22:04:26", "added": "2024-05-14 22:04:26", "target": "Microsoft", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "8083d15c0fe25a471961950447bddb94"}
-{"id": 132094, "url": "http://visionschools.org/en.html", "discovery": "2024-05-14 22:04:19", "added": "2024-05-14 22:04:19", "target": "DPD", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "16f86db04c33b576efb9b8131289b32f"}
-{"id": 132093, "url": "http://mbmgetaway.com/en01.html", "discovery": "2024-05-14 22:04:18", "added": "2024-05-14 22:04:18", "target": "DPD", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "cebd6ea9006cc304a40de4f85f19cee1"}
