@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-15 07:26:59 UTC                        #
+# Last updated: 2024-05-15 13:16:29 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	dns.beenewsdream.net
 127.0.0.1	forgreatestgoal.site
 127.0.0.1	cnc.zaloweb.ink
 127.0.0.1	venomm.ddns.net
@@ -12171,4 +12172,4 @@
 127.0.0.1	33095-2.whserv.de
 127.0.0.1	autoconfig.33095-2.whserv.de
 127.0.0.1	7desktop.com
-# Number of entries: 12165
+# Number of entries: 12166
