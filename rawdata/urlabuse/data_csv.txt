@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-05-15 02:00:01 UTC
+# UPDATE: 2024-05-15 03:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+132190, 2024-05-15 02:58:14, 2024-05-15 02:58:14, phishing, 93ff959a512daa46150477593b79308c, http://bdg.pages.dev
+132189, 2024-05-15 02:38:14, 2024-05-15 02:38:14, phishing, 127457b87a3c2c2ad21825d6e528cef3, http://vhu.pages.dev
+132188, 2024-05-15 02:18:12, 2024-05-15 02:18:12, phishing, dfe73f04f8a29e4670f95276a20d81ae, http://enabler-rgw.pages.dev
 132187, 2024-05-15 01:21:46, 2024-05-15 01:21:46, malware, e8779753e7fd47beaccd02de90382b0e, http://61.54.42.22:47200/i
 132186, 2024-05-15 01:21:45, 2024-05-15 01:21:45, malware, d7f06b79b6034ec0a706b9abaa5c60bc, http://61.54.42.22:47200/bin.sh
 132185, 2024-05-15 01:21:44, 2024-05-15 01:21:44, malware, f4c30c60f6684a32890cdd498a6317c7, http://61.53.95.126:37671/i
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 131693, 2024-05-14 08:39:41, 2024-05-14 08:34:44, phishing, cef905af8c417f0bd6c48367c2c96d5a, https://pub-f5b5a0a5c4f44146b773047e9ea0beb1.r2.dev/x.htm?MTcxNDY5MjYzMA==MTcxNDY5MjYyNQ=MTcxNDY5MjYzME1UY3hORFk1TWpZeU5R&zXIZdWQRQ4C0o3FuDMbNFyogyM69OVeu9A64518-sfmaxgen-pgx--ifxInfo-isxyahoo.com.twsf-1MC4x
 131692, 2024-05-14 08:39:25, 2024-05-14 08:33:08, phishing, 3a81926540c6baf2ee2167a119765c4a, https://tinyurl.com/539uc4yh?zXIZdWQRQ4C0o3FuDMbNFyogyM69OVeu9A64518-sfmaxgen-pgx--ifxInfo-isxyahoo.com.twsf-1MC4x
 131691, 2024-05-14 08:38:59, 2024-05-14 08:38:59, phishing, 598c149d435924ee9239e70e708f1081, https://oilxo.weeblysite.com/
-131690, 2024-05-14 08:38:40, 2024-05-14 08:38:40, phishing, 8de0d9ff6eb00d839ce66a67dea1add1, https://mybtauth85loginasaxp.wixsite.com/bt-internetid-ry5iy7
-131689, 2024-05-14 08:38:30, 2024-05-14 08:32:14, phishing, 54820255a303b7416f790392936cc8c8, https://flow.page/bt-idauthverify23index
-131688, 2024-05-14 08:38:17, 2024-05-14 08:30:15, phishing, 5778dbce9386f4391757e290442f06de, https://babaker10.wixsite.com/my-site

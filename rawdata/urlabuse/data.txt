@@ -6,8 +6,11 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-05-15 02:00:01 UTC
+# UPDATE: 2024-05-15 03:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 132190, "url": "http://bdg.pages.dev", "discovery": "2024-05-15 02:58:14", "added": "2024-05-15 02:58:14", "target": "Yahoo!", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "93ff959a512daa46150477593b79308c"}
+{"id": 132189, "url": "http://vhu.pages.dev", "discovery": "2024-05-15 02:38:14", "added": "2024-05-15 02:38:14", "target": "Yahoo!", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "127457b87a3c2c2ad21825d6e528cef3"}
+{"id": 132188, "url": "http://enabler-rgw.pages.dev", "discovery": "2024-05-15 02:18:12", "added": "2024-05-15 02:18:12", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "dfe73f04f8a29e4670f95276a20d81ae"}
 {"id": 132187, "url": "http://61.54.42.22:47200/i", "discovery": "2024-05-15 01:21:46", "added": "2024-05-15 01:21:46", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "e8779753e7fd47beaccd02de90382b0e"}
 {"id": 132186, "url": "http://61.54.42.22:47200/bin.sh", "discovery": "2024-05-15 01:21:45", "added": "2024-05-15 01:21:45", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "d7f06b79b6034ec0a706b9abaa5c60bc"}
 {"id": 132185, "url": "http://61.53.95.126:37671/i", "discovery": "2024-05-15 01:21:44", "added": "2024-05-15 01:21:44", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "f4c30c60f6684a32890cdd498a6317c7"}
@@ -505,6 +508,3 @@
 {"id": 131693, "url": "https://pub-f5b5a0a5c4f44146b773047e9ea0beb1.r2.dev/x.htm?MTcxNDY5MjYzMA==MTcxNDY5MjYyNQ=MTcxNDY5MjYzME1UY3hORFk1TWpZeU5R&zXIZdWQRQ4C0o3FuDMbNFyogyM69OVeu9A64518-sfmaxgen-pgx--ifxInfo-isxyahoo.com.twsf-1MC4x", "discovery": "2024-05-14 08:34:44", "added": "2024-05-14 08:39:41", "target": "Generic Phishing", "reporter": "anonymous", "AbuseType": "phishing", "UUID": "cef905af8c417f0bd6c48367c2c96d5a"}
 {"id": 131692, "url": "https://tinyurl.com/539uc4yh?zXIZdWQRQ4C0o3FuDMbNFyogyM69OVeu9A64518-sfmaxgen-pgx--ifxInfo-isxyahoo.com.twsf-1MC4x", "discovery": "2024-05-14 08:33:08", "added": "2024-05-14 08:39:25", "target": "Generic Phishing", "reporter": "anonymous", "AbuseType": "phishing", "UUID": "3a81926540c6baf2ee2167a119765c4a"}
 {"id": 131691, "url": "https://oilxo.weeblysite.com/", "discovery": "2024-05-14 08:38:59", "added": "2024-05-14 08:38:59", "target": "BT", "reporter": "urlabuse", "AbuseType": "phishing", "UUID": "598c149d435924ee9239e70e708f1081"}
-{"id": 131690, "url": "https://mybtauth85loginasaxp.wixsite.com/bt-internetid-ry5iy7", "discovery": "2024-05-14 08:38:40", "added": "2024-05-14 08:38:40", "target": "BT", "reporter": "urlabuse", "AbuseType": "phishing", "UUID": "8de0d9ff6eb00d839ce66a67dea1add1"}
-{"id": 131689, "url": "https://flow.page/bt-idauthverify23index", "discovery": "2024-05-14 08:32:14", "added": "2024-05-14 08:38:30", "target": "BT", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "54820255a303b7416f790392936cc8c8"}
-{"id": 131688, "url": "https://babaker10.wixsite.com/my-site", "discovery": "2024-05-14 08:30:15", "added": "2024-05-14 08:38:17", "target": "BT", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "5778dbce9386f4391757e290442f06de"}
