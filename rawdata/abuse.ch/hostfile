@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-15 13:16:29 UTC                        #
+# Last updated: 2024-05-15 15:34:58 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	service-k2snyjb7-1326503875.bj.tencentapigw.com.cn
+127.0.0.1	service-a7h4x98o-1257783886.gz.tencentapigw.com.cn
 127.0.0.1	dns.beenewsdream.net
 127.0.0.1	forgreatestgoal.site
 127.0.0.1	cnc.zaloweb.ink
@@ -12162,14 +12164,4 @@
 127.0.0.1	drnull.pkmqazreza.workers.dev
 127.0.0.1	pkmqazreza.workers.dev
 127.0.0.1	ctrdfg.cloud
-127.0.0.1	ec2-54-237-14-58.compute-1.amazonaws.com
-127.0.0.1	ms17-010.win-x86.zip
-127.0.0.1	192-46-232-181.ip.linodeusercontent.com
-127.0.0.1	ec2-44-200-80-224.compute-1.amazonaws.com
-127.0.0.1	vpn.manuelsterner.de
-127.0.0.1	ip-89-38-135-11-82867.vps.hosted-by-mvps.net
-127.0.0.1	lamp.manuelsterner.de
-127.0.0.1	33095-2.whserv.de
-127.0.0.1	autoconfig.33095-2.whserv.de
-127.0.0.1	7desktop.com
-# Number of entries: 12166
+# Number of entries: 12158
