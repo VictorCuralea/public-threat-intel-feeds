@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-14 22:16:41 UTC                        #
+# Last updated: 2024-05-15 07:26:59 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	forgreatestgoal.site
+127.0.0.1	cnc.zaloweb.ink
+127.0.0.1	venomm.ddns.net
+127.0.0.1	okilometros.duckdns.org
 127.0.0.1	www.checktimes.top
 127.0.0.1	flexiblemaria.com
 127.0.0.1	franccoisfreres.com
@@ -12176,4 +12180,4 @@
 127.0.0.1	service-3s2hxn8v-1308639534.sh.apigw.tencentcs.com
 127.0.0.1	rockpython.xyz
 127.0.0.1	www.theokanegroup.com
-# Number of entries: 12170
+# Number of entries: 12174
