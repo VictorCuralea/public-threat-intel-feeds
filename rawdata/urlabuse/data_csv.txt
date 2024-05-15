@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-05-15 00:00:01 UTC
+# UPDATE: 2024-05-15 01:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+132159, 2024-05-15 00:18:15, 2024-05-15 00:18:15, phishing, d70b3aec3acae3a2e19990a57a98ecec, http://stardefyloomfil.pages.dev
 132158, 2024-05-14 23:24:41, 2024-05-14 23:24:41, malware, be1531e8cc3c4c5c8eb8fe06a8a4b468, http://90.151.32.197:50783/bin.sh
 132157, 2024-05-14 23:24:41, 2024-05-14 23:24:41, malware, d3e17db19ec344f4a0727494cbd80932, http://61.53.74.162:57217/i
 132156, 2024-05-14 23:24:40, 2024-05-14 23:24:40, malware, 7153a63a4951449cbf0af2d5a00d1aae, http://61.53.74.162:57217/bin.sh
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 131662, 2024-05-14 07:22:19, 2024-05-14 07:22:19, malware, 8901827a1a384b68aac76b166e866993, http://39.71.188.75:34140/i
 131661, 2024-05-14 07:22:18, 2024-05-14 07:22:18, malware, 9563a995bfc04384bdcda384b89393be, http://27.215.211.76:52753/Mozi.m
 131660, 2024-05-14 07:22:17, 2024-05-14 07:22:17, malware, adf6edbdfbcc4eb0b6762feb6703807c, http://27.213.195.59:34867/bin.sh
-131659, 2024-05-14 07:22:16, 2024-05-14 07:22:16, malware, 748989e0b7c3491ca804e0db276f61cf, http://222.142.252.92:59458/Mozi.m
