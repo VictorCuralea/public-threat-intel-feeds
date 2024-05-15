@@ -6,9 +6,16 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-05-15 18:00:01 UTC
+# UPDATE: 2024-05-15 19:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+132875, 2024-05-15 18:54:13, 2024-05-15 18:54:13, phishing, 473873db30fa58f957a05b4539249045, http://surfcopdf.pages.dev
+132874, 2024-05-15 18:54:13, 2024-05-15 18:54:13, phishing, 32188c1c40d55924d6a4c92511b15641, http://crptofixserver.pages.dev
+132873, 2024-05-15 18:42:11, 2024-05-15 18:42:11, phishing, c2a6b9a845a61f74e3c30affcd642710, http://supportinghostingvalidationserverauthinticationrequired02.pages.dev
+132872, 2024-05-15 18:26:15, 2024-05-15 18:26:15, phishing, 449f2187d4fe83e576638f54f71e719a, http://cryptofixserver.pages.dev
+132871, 2024-05-15 18:24:12, 2024-05-15 18:24:12, phishing, 8000566fdea52afbfc21d19cde844382, http://arabassiastarzicontest.pages.dev
+132870, 2024-05-15 18:08:12, 2024-05-15 18:08:12, phishing, 45d517a947650b7c0b16ceecc318289e, http://oyiluv.pages.dev
+132869, 2024-05-15 18:06:10, 2024-05-15 18:06:10, phishing, 0b6c7dd25c2a03fad6d6f4bfa5f00c25, http://utr1.pages.dev
 132868, 2024-05-15 17:40:13, 2024-05-15 17:40:13, phishing, 90ee71379580b7a032f3543f92d94c83, http://bencoindapps.pages.dev
 132867, 2024-05-15 17:40:11, 2024-05-15 17:40:11, phishing, 080c899122ed6b2c8067c91e5d502be5, http://arabassiastarzfcontest.pages.dev
 132866, 2024-05-15 17:30:15, 2024-05-15 17:30:15, phishing, 32da5877937510bc8bad72b4e05011b1, http://mainchianxfx.pages.dev
@@ -502,10 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 132378, 2024-05-15 09:03:33, 2024-05-15 09:03:33, malware, b9822b049891400fadbabcc4a63cc730, http://117.194.220.163:46618/i
 132377, 2024-05-15 09:03:32, 2024-05-15 09:03:32, malware, aa61f97fb98e43cbb47ffa1a0195e9ac, http://117.194.161.184:40019/i
 132376, 2024-05-15 09:03:30, 2024-05-15 09:03:30, malware, d6cf6ff7a85a4fe68bac339a55ccfa89, http://115.55.252.121:43887/bin.sh
-132375, 2024-05-15 09:03:30, 2024-05-15 09:03:30, malware, 46b44618072b4be987d71ae80843dc5d, http://115.55.193.30:41355/i
-132374, 2024-05-15 09:03:29, 2024-05-15 09:03:29, malware, 50ce52fae0dc4d72a985adcd225814b4, http://115.55.193.30:41355/bin.sh
-132373, 2024-05-15 09:03:28, 2024-05-15 09:03:28, malware, 883fc48d03e0498887f1c974d8dbe97b, http://115.55.180.142:51795/Mozi.m
-132372, 2024-05-15 09:03:27, 2024-05-15 09:03:27, malware, 5367c01edf8742599b803c16cfc2e2d1, http://115.53.245.9:45000/bin.sh
-132371, 2024-05-15 09:03:26, 2024-05-15 09:03:26, malware, 951a78332ac5486aa8d9cb50f3bd84fd, http://115.50.223.74:41159/bin.sh
-132370, 2024-05-15 09:03:25, 2024-05-15 09:03:25, malware, ded76c42bce0405ab92e4b202ae08a8f, http://115.50.172.102:41569/mozi.m
-132369, 2024-05-15 09:03:24, 2024-05-15 09:03:24, malware, dc28491f4e924e818e83573d4b9bc9ec, http://115.50.172.102:41569/bin.sh
