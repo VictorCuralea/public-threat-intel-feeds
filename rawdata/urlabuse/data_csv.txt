@@ -6,9 +6,23 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-05-15 11:00:01 UTC
+# UPDATE: 2024-05-15 12:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+132592, 2024-05-15 11:44:14, 2024-05-15 11:44:14, phishing, 788bbdda634588c9762a64bad8804828, http://urfap.com
+132591, 2024-05-15 11:30:18, 2024-05-15 11:30:18, phishing, 8a8eb0498e892311637a52fb3b458491, http://b.pp508.icu
+132590, 2024-05-15 11:30:15, 2024-05-15 11:30:15, phishing, 52dd9bb7641e477f59f813c2e890951c, http://vosdroits-sante.info
+132589, 2024-05-15 11:22:21, 2024-05-15 11:22:21, malware, b4d296cc9c914946ac1a11333d968fac, http://59.173.68.81:55461/bin.sh
+132588, 2024-05-15 11:22:18, 2024-05-15 11:22:18, malware, 3ca705e6e1a94a97985c57b6777448e1, http://42.229.158.221:52880/i
+132587, 2024-05-15 11:22:17, 2024-05-15 11:22:17, malware, abb980a9b5d74faa999c69f0d161cd0f, http://42.224.235.10:41755/bin.sh
+132586, 2024-05-15 11:22:16, 2024-05-15 11:22:16, malware, c3d4154d2a8740f79b897f975bc855d1, http://39.74.86.251:43579/Mozi.m
+132585, 2024-05-15 11:22:15, 2024-05-15 11:22:15, malware, b58fa80f207e43e89e1c007186551b9e, http://223.151.74.152:42241/i
+132584, 2024-05-15 11:20:34, 2024-05-15 11:20:34, malware, ccdae3972047406c8b000d1bfaf646bd, http://117.220.24.61:51792/bin.sh
+132583, 2024-05-15 11:20:10, 2024-05-15 11:20:10, malware, 9b5e02bdb70e4213b45a8f694279d4b4, http://115.55.9.175:35717/i
+132582, 2024-05-15 11:13:08, 2024-05-15 11:00:16, phishing, 8716e4c153aca40567e362a68a5406d0, https://zdfgh.w3spaces.com/saved-from-Tryit-2023-12-14.html
+132581, 2024-05-15 11:12:36, 2024-05-15 11:12:36, phishing, 4c1785998d135058588a1179785c8d1c, https://blank-template-6-05.grwebsite.co.uk
+132580, 2024-05-15 11:12:17, 2024-05-15 11:12:17, phishing, d5e0085555b7a28932397551e116501e, http://fbq.pages.dev
+132579, 2024-05-15 11:12:14, 2024-05-15 10:18:17, phishing, 5179cf01840b256816adf506e3e459ac, https://grwebsitecouk.w3spaces.com/
 132578, 2024-05-15 10:45:10, 2024-05-15 10:45:10, phishing, e72eb7894ed798d684d17d2c49800ef4, http://urfsm.com
 132577, 2024-05-15 10:43:51, 2024-05-15 10:43:51, phishing, 67ebf45c23c1d530a72de7cf374180c8, http://urfaf.com
 132576, 2024-05-15 10:38:11, 2024-05-15 10:38:11, phishing, fb4f6e4916d5dde044b9df7abb75e55c, http://gtuhpcojvq.pages.dev
@@ -495,17 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 132095, 2024-05-14 22:04:26, 2024-05-14 22:04:26, phishing, 8083d15c0fe25a471961950447bddb94, http://pub-c19badcd56014ec4b424873f4656be42.r2.dev/passwordverifications.html
 132094, 2024-05-14 22:04:19, 2024-05-14 22:04:19, phishing, 16f86db04c33b576efb9b8131289b32f, http://visionschools.org/en.html
 132093, 2024-05-14 22:04:18, 2024-05-14 22:04:18, phishing, cebd6ea9006cc304a40de4f85f19cee1, http://mbmgetaway.com/en01.html
-132092, 2024-05-14 22:04:06, 2024-05-14 22:04:06, phishing, 59585f1ca13f85341bb8684ddd9b94a5, https://cloudflare-ipfs.com/ipfs/QmaYaRtru2HtbHhUvZepcUGXtziidU5dmACCQ7rHY11x37
-132091, 2024-05-14 22:03:59, 2024-05-14 22:03:59, phishing, a14e70bddeddbcab88d6732ad93ace5f, https://docsend.com/view/rp3rameeneb7q8i5
-132090, 2024-05-14 22:03:47, 2024-05-14 22:03:47, phishing, b4ae3744ec1c5565da7b871aad700b7e, https://notifyhubss.net/41a43b03au34a94c25la184a3dcl83e9e910.html__;!!OepYZ6Q!_KiRTJW-n6i2mzEfYogwUSunh_tMN2ogZBOdhLWjjK-Ste4VlqnlbNdy1SmjQDLF35_mpu_dOzG-ResKw45McPK39A/
-132089, 2024-05-14 22:03:13, 2024-05-14 22:03:13, phishing, 8a03f4b687ee54b0fa143e4089a61bd8, https://distrosourcess6.sg-host.com/
-132088, 2024-05-14 22:02:57, 2024-05-14 22:02:57, phishing, 34828a904f8b9538e24777af228c5d26, https://imp3.shop/
-132087, 2024-05-14 22:02:46, 2024-05-14 22:02:46, phishing, 115d6ed33ff7df984ae89cedba36ef94, https://pek2.shop/
-132086, 2024-05-14 22:02:46, 2024-05-14 22:02:46, phishing, 008d4134349f8386bcaba610ca983be1, https://telegram.web-a.org/
-132085, 2024-05-14 22:02:37, 2024-05-14 22:02:37, phishing, 35c37b978169aebd28e227431ba41106, https://bmtgpre.com/?sasa
-132084, 2024-05-14 22:02:34, 2024-05-14 22:02:34, phishing, bc9c6a9418b71d6d306b90a7275d905b, http://bntgprem.store/?ggggg
-132083, 2024-05-14 22:02:31, 2024-05-14 22:02:31, phishing, 880fed2291fcd39b7c60dd9e9dbebabc, https://m.nkiink.com/
-132082, 2024-05-14 22:02:30, 2024-05-14 22:02:30, phishing, 936ce17a5f5b23474782a587f4f2f1ab, http://bektgpre.com/
-132081, 2024-05-14 22:02:28, 2024-05-14 22:02:28, phishing, 12fb7eb988977c591df216e21b2a3df1, https://investors.spotify.com.free.putrivpn.biz.id/
-132080, 2024-05-14 22:02:18, 2024-05-14 22:02:18, phishing, 2be341cbb5af32b9577a38784b975ded, http://teletsma.fit/teletsma.fit/teletsma.fit/web
-132079, 2024-05-14 22:02:16, 2024-05-14 22:02:16, phishing, 5f1b96b04c10fabcf0253bb4bced2a65, http://videostvirals-gadiscantik69.cloud/channel1/main.php
