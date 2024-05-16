@@ -6,9 +6,14 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-05-16 06:00:01 UTC
+# UPDATE: 2024-05-16 07:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+133242, 2024-05-16 06:58:13, 2024-05-16 06:58:13, phishing, ec34f46abbbfa331d9c5e888a4c2dea9, http://webmail-8p0.pages.dev
+133241, 2024-05-16 06:54:13, 2024-05-16 06:54:13, phishing, c4220162a8eaf8e255344f8d9110475a, http://rheufther.pages.dev
+133240, 2024-05-16 06:20:10, 2024-05-16 06:20:10, phishing, 8aaeac559f7c92955c449fff2d1107fe, http://stringget.shop
+133239, 2024-05-16 06:04:15, 2024-05-16 06:04:15, phishing, 77781fc5e2a20fe493efba335c62656d, http://sms-renouvellement-enligne.fr
+133238, 2024-05-16 06:02:18, 2024-05-16 06:02:18, hacked, 14ad42be6884007358ad9db04bc6d972, https://slotxo24hr.info/
 133237, 2024-05-16 05:50:14, 2024-05-16 05:50:14, phishing, cb1f084ed96a570010af0ea642c86b67, http://youn-6nj.pages.dev
 133236, 2024-05-16 05:23:50, 2024-05-16 05:23:50, malware, 720f988441c842de9e5569a21dd7f033, http://61.54.253.40:57709/i
 133235, 2024-05-16 05:23:10, 2024-05-16 05:23:10, malware, 2ab6d1f0f5e94a74898266b314d65302, http://59.93.31.213:43698/
@@ -504,8 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 132744, 2024-05-15 15:23:14, 2024-05-15 15:23:14, malware, f7390c837c5d4eca8b9e265b8b09f5b9, http://182.117.70.29:41741/i
 132743, 2024-05-15 15:23:13, 2024-05-15 15:23:13, malware, 0a12ef00df9c4c028f92cee68ba088f3, http://182.117.70.29:41741/bin.sh
 132742, 2024-05-15 15:23:12, 2024-05-15 15:23:12, malware, 4d4399aa196a4d008860ee059e7f27f6, http://182.116.36.144:37946/
-132741, 2024-05-15 15:23:11, 2024-05-15 15:23:11, malware, fa8951acd11948978cd120493f23e21f, http://175.30.74.96:52344/Mozi.m
-132740, 2024-05-15 15:23:09, 2024-05-15 15:23:09, malware, 432f1cdbf9a34026b2cddebf68a5f300, http://125.25.40.64:33918/i
-132739, 2024-05-15 15:22:55, 2024-05-15 15:22:55, malware, 66193e62d1384451ae6b64e350edd5c0, http://125.25.40.64:33918/bin.sh
-132738, 2024-05-15 15:22:50, 2024-05-15 15:22:50, malware, 1cc767f0dc6645af842f0a1d9e91dc86, http://123.9.23.141:58462/
-132737, 2024-05-15 15:22:48, 2024-05-15 15:22:48, malware, 5c4df0abfd9d43a3906889d4cc7c0a7c, http://123.7.222.128:51564/Mozi.m
