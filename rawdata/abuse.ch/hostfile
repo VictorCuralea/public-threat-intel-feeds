@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-16 07:53:50 UTC                        #
+# Last updated: 2024-05-16 08:59:12 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	service-3c8gl60w-1320366142.gz.tencentapigw.com.cn
 127.0.0.1	helloboy.shop
 127.0.0.1	vip8806.mom
 127.0.0.1	www.testabcdtest.xyz
@@ -12195,4 +12196,4 @@
 127.0.0.1	faststroygo.com
 127.0.0.1	8sjimonstersboonkonline.com
 127.0.0.1	campaign.dchalegal.com
-# Number of entries: 12189
+# Number of entries: 12190
