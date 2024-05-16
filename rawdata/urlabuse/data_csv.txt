@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-05-16 08:00:01 UTC
+# UPDATE: 2024-05-16 09:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+133325, 2024-05-16 08:46:15, 2024-05-16 08:46:15, phishing, 08b81255d2929b4a2cbf56e387c1ceef, http://holders-revclaim.pages.dev
 133324, 2024-05-16 07:26:01, 2024-05-16 07:26:01, malware, 16c26e057e494d61abb19538a0e9db7f, http://ty45dskohal1erz.com/findlawthose.exe
 133323, 2024-05-16 07:25:34, 2024-05-16 07:25:34, malware, 28ff125dcb394b9fb76b4e385b38a32a, http://61.53.85.69:58520/Mozi.m
 133322, 2024-05-16 07:25:33, 2024-05-16 07:25:33, malware, afe2ffeb6e434b6a9b6a18ff9315c801, http://61.53.84.220:38249/i
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 132827, 2024-05-15 17:22:14, 2024-05-15 17:22:14, malware, 5689c43f1a7745248c9acbb474e5619d, http://117.220.147.131:48502/i
 132826, 2024-05-15 17:22:13, 2024-05-15 17:22:13, malware, cdf8a5bc6e724cee8497897325871127, http://117.213.89.102:37502/bin.sh
 132825, 2024-05-15 17:22:01, 2024-05-15 17:22:01, malware, 527530cce3d345fe9f32039b78ea654f, http://117.211.208.253:35515/bin.sh
-132824, 2024-05-15 17:21:37, 2024-05-15 17:21:37, malware, c4336c37615943cdbdb2826e07462d9b, http://117.204.199.182:47067/Mozi.m
