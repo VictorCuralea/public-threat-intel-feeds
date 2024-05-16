@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-16 14:45:20 UTC                        #
+# Last updated: 2024-05-16 22:14:23 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	service-5hq806dl-1305010017.sh.tencentapigw.com
 127.0.0.1	d1x9q8w2e4.xyz
 127.0.0.1	axe.ydns.eu
 127.0.0.1	m.taobao.com
@@ -12186,4 +12187,4 @@
 127.0.0.1	feeneypol.com
 127.0.0.1	jghskd9kfx7.brazilsouth.cloudapp.azure.com
 127.0.0.1	tpowe2.com
-# Number of entries: 12180
+# Number of entries: 12181
