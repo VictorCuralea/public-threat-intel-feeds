@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-05-16 02:00:01 UTC
+# UPDATE: 2024-05-16 03:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+133119, 2024-05-16 02:44:15, 2024-05-16 02:44:15, phishing, 7d1a03509872c4e42e7a3a79660c9b18, http://uspsirsa.top
+133118, 2024-05-16 02:44:13, 2024-05-16 02:44:13, phishing, c082f0d7fce88b8e20f1043ec9e0ae3c, http://teleofficialxx2.pages.dev
+133117, 2024-05-16 02:40:12, 2024-05-16 02:40:12, phishing, 87b92702e3e29bfe23eaef04f6a56c3e, http://bestawardoftheyear2.pages.dev
+133116, 2024-05-16 02:16:11, 2024-05-16 02:16:11, phishing, 951738573e4361e20170f914918d1a9e, http://kopjuju7.pages.dev
 133115, 2024-05-16 01:22:06, 2024-05-16 01:22:06, malware, e6e4c90bb80b4f37b7c4d5f726d75600, http://70.112.115.107:38795/i
 133114, 2024-05-16 01:22:04, 2024-05-16 01:22:04, malware, 481b3eec36674f76b201810c03120e23, http://61.53.85.84:45716/i
 133113, 2024-05-16 01:22:03, 2024-05-16 01:22:03, malware, e67c76e2ea374df1b8d31db13c12cf8b, http://61.53.84.255:51780/Mozi.m
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 132622, 2024-05-15 13:23:16, 2024-05-15 13:23:16, malware, 150ee88e3a674ca0ad0150584765fa78, http://120.37.232.134:37512/i
 132621, 2024-05-15 13:23:11, 2024-05-15 13:23:11, malware, 399b41cd0c4945dabe81603b155898bd, http://117.254.143.83:59514/Mozi.m
 132620, 2024-05-15 13:22:32, 2024-05-15 13:22:32, malware, c69ff318e22147868835e7e088dd213c, http://117.235.78.243:52382/i
-132619, 2024-05-15 13:22:06, 2024-05-15 13:22:06, malware, 0c628ede0f42400b9e254c4c65da2981, http://117.215.210.3:39878/Mozi.m
-132618, 2024-05-15 13:20:53, 2024-05-15 13:20:53, malware, 97014ca6ab664a0d86d81dbbbc6be37f, http://117.204.192.61:60329/bin.sh
-132617, 2024-05-15 13:20:21, 2024-05-15 13:20:21, malware, 4055267630aa47fcb7454b8ba7277fc5, http://115.56.103.23:53697/
-132616, 2024-05-15 13:20:20, 2024-05-15 13:20:20, malware, 7cdc6800f6e749d596367327ab306a2b, http://115.53.245.9:45000/i
