@@ -6,9 +6,25 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-05-17 08:00:01 UTC
+# UPDATE: 2024-05-17 09:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+134614, 2024-05-17 08:37:49, 2024-05-17 08:37:49, phishing, de320ff502fb0603bf71297289a4e515, https://vocalemessagerie02.wixsite.com/vocalemessagerie0220
+134613, 2024-05-17 08:37:41, 2024-05-17 08:34:21, phishing, 3fc500b5e77244c2fc966b5598ca8dae, https://tyny.to/s2dbe1
+134612, 2024-05-17 08:36:49, 2024-05-17 08:32:16, phishing, c872a8c0fa436af1f25aaacf669e7ed5, https://id-328564.s1-tastewp.com/
+134611, 2024-05-17 08:36:16, 2024-05-17 08:36:16, phishing, c10bd3ba393a09436d54b1a835014f6f, http://qua4.pages.dev
+134610, 2024-05-17 08:36:08, 2024-05-17 08:30:14, phishing, eab8e6868934576a0c025efde1bde848, https://lnk.pw/jpca
+134609, 2024-05-17 08:35:42, 2024-05-17 08:28:21, phishing, c373007201d0b604e7cefb539e3acd12, https://dev-id-05685.pantheonsite.io/4ka8
+134608, 2024-05-17 08:35:28, 2024-05-17 08:35:28, phishing, 7c1186a5e164ec46b509183cc26e7b3e, https://myb-f3274d.webflow.io/
+134607, 2024-05-17 08:35:00, 2024-05-17 08:28:15, phishing, 98b7b93c6e23c6f76da5a11ef3610e09, https://btinte.limesurvey.net/192872?newtest=Y
+134606, 2024-05-17 08:34:24, 2024-05-17 08:28:11, phishing, f33aa4fab728bccd26ed58fb7e9486da, https://www.powr.io/popup/i/38275620#page
+134605, 2024-05-17 08:34:13, 2024-05-17 08:34:13, phishing, 828b2d798634e20387b4a7a68743e2e3, https://lifgo.isabelmoudilach.site/
+134604, 2024-05-17 08:34:12, 2024-05-17 08:24:13, phishing, 925fbf1e47b6c115826effc636735d6f, https://microsoft-login.zapier.app/microsoft-login
+134603, 2024-05-17 08:33:50, 2024-05-17 08:18:12, phishing, a442a9867b6108eb753edb8ad49dfc07, https://ew782u.w3spaces.com/iouytertfyguhi908765.html
+134602, 2024-05-17 08:33:30, 2024-05-17 07:50:13, phishing, 7a1c8974d108e0465d4dff54fd1e7180, https://ihhtyl.webwave.dev/
+134601, 2024-05-17 08:28:14, 2024-05-17 08:28:14, phishing, 8d4504b7e25e9a4d8fc378d607180910, https://keepo.io/hsgs7/
+134600, 2024-05-17 08:20:16, 2024-05-17 08:20:16, phishing, a8959cd469bd873b06e2c0e707ffa87a, http://steemloomdefyhash.pages.dev
+134599, 2024-05-17 08:06:14, 2024-05-17 08:06:14, phishing, 3dfb5eb8c9a3d5594233ab20d7786ec3, http://cgh65r3-2.pages.dev
 134598, 2024-05-17 07:56:15, 2024-05-17 07:56:15, phishing, 541e096686513690cface0dcbbf3f173, http://31srqw.pages.dev
 134597, 2024-05-17 07:40:56, 2024-05-17 07:36:15, phishing, 06d50c58ece21a8cc2ac1c4d43339edd, https://slidesgo.com/editor/share/9bb66540-e644-4f38-a695-52b54984b546#rs=link
 134596, 2024-05-17 07:40:44, 2024-05-17 07:34:17, phishing, 2abfd8fff4ccc3bcfa134cf88ef04c9d, https://remboursement-impots-fr.paul-bonamis.fr/1211212020/welcome
@@ -493,19 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 134117, 2024-05-16 19:21:31, 2024-05-16 19:21:31, malware, 5a57baca663945ee8ba566d00087a2a9, http://117.206.187.123:53625/bin.sh
 134116, 2024-05-16 19:21:00, 2024-05-16 19:21:00, malware, 0d27699c6c1e4bb1a0d7660d893d912c, http://117.204.202.97:58028/Mozi.m
 134115, 2024-05-16 19:20:57, 2024-05-16 19:20:57, malware, 5f45fc5d623c41d38a055eef9a08614b, http://117.204.202.237:43372/bin.sh
-134114, 2024-05-16 19:20:55, 2024-05-16 19:20:55, malware, 7a909ee421844526a8170990b3b786dc, http://117.204.193.236:46858/bin.sh
-134113, 2024-05-16 19:20:53, 2024-05-16 19:20:53, malware, 3e9a70b0cd31479da5c4d2198f485ab7, http://117.204.192.71:33581/i
-134112, 2024-05-16 19:20:18, 2024-05-16 19:20:18, malware, d0a3ffad9d6844e1b4dc94744d6e136c, http://115.55.92.70:43419/bin.sh
-134111, 2024-05-16 19:20:16, 2024-05-16 19:20:16, malware, a8f68e1e28134e5bb38a3b91425bbf87, http://115.55.51.161:56135/Mozi.m
-134110, 2024-05-16 19:20:15, 2024-05-16 19:20:15, malware, 0c3dcff4138f4534b947a1730b46267b, http://115.55.244.24:47893/bin.sh
-134109, 2024-05-16 19:07:39, 2024-05-16 19:07:39, phishing, e01030a52fd608c2a3288a291aff258d, http://telegromt.com/
-134108, 2024-05-16 19:07:36, 2024-05-16 19:07:36, phishing, 6d441afc89f79f417eb205da180f8991, http://telegromp.com/
-134107, 2024-05-16 19:07:30, 2024-05-16 19:07:30, phishing, 2acb5e9975ceeb732484c8f0fb6a724b, http://telegromo.com/
-134106, 2024-05-16 19:07:27, 2024-05-16 19:07:27, phishing, b2a19f5ea71d10e688d01b2caf53d19f, http://telegromr.com/
-134105, 2024-05-16 19:07:23, 2024-05-16 19:07:23, phishing, 79c812fd5023a8aa3c7108bff54e5d74, http://telegroml.com/
-134104, 2024-05-16 19:07:20, 2024-05-16 19:07:20, phishing, 029607fd1fea221cb24d051d88955b04, http://telegromj.com/
-134103, 2024-05-16 19:07:19, 2024-05-16 19:07:19, phishing, a3bc5e6d1a7582fa8c06f0f38c404d37, http://telegromh.com/
-134102, 2024-05-16 19:07:12, 2024-05-16 19:07:12, phishing, 763c5d15c8827b0c2edacec0ea9ba3aa, http://telegromk.com/
-134101, 2024-05-16 19:07:09, 2024-05-16 19:07:09, phishing, fd5fe360ec87e4bef569ea0e8368f7a6, http://telegromi.com/
-134100, 2024-05-16 19:07:07, 2024-05-16 19:07:07, phishing, bda4a7c77ef3baa5cba24af14141e5be, http://telegromc.com/
-134099, 2024-05-16 19:07:06, 2024-05-16 19:07:06, phishing, 2a9d2b74da579b5e1991091bbc6cc7cd, http://telegromb.com/
