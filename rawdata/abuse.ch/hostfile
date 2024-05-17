@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-17 08:20:47 UTC                        #
+# Last updated: 2024-05-17 12:51:00 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	service-pw5pdob2-1301751349.gz.tencentapigw.com.cn
 127.0.0.1	service-g9r06izm-1320366142.gz.tencentapigw.com.cn
 127.0.0.1	upload.windowscdn.cn
 127.0.0.1	www.vip8806.mom
@@ -12188,4 +12189,4 @@
 127.0.0.1	smithroses.com
 127.0.0.1	rimaflower.com
 127.0.0.1	feeneypol.com
-# Number of entries: 12182
+# Number of entries: 12183

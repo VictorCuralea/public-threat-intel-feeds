@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-05-17 12:00:01 UTC
+# UPDATE: 2024-05-17 13:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+134710, 2024-05-17 12:44:17, 2024-05-17 12:44:17, phishing, 4e6128a329b6d249ee6f160f2b030b4d, http://usps.postofficezaco.top
+134709, 2024-05-17 12:36:15, 2024-05-17 12:36:15, phishing, 774dcdd467ed093685ad69a257fb22c8, http://sureloomversatile.pages.dev
+134708, 2024-05-17 12:30:15, 2024-05-17 12:30:15, phishing, 622a460d7c7b1526dac853527bd5ff3f, http://decentramintfilverse.pages.dev
+134707, 2024-05-17 12:02:17, 2024-05-17 12:02:17, phishing, dd097bc730f1545b009a819dacd4fef3, http://urfjh.com
 134706, 2024-05-17 11:52:12, 2024-05-17 11:52:12, phishing, 9fb106235387c9e39fd83d402a5e2305, http://nhd.pages.dev
 134705, 2024-05-17 11:44:15, 2024-05-17 11:44:15, phishing, 43f1586504fee35d70709e71a653c138, http://dexekeepslp.pages.dev
 134704, 2024-05-17 11:34:15, 2024-05-17 11:34:15, phishing, 785ed25f492918c5a6b16f94d7218754, http://nodedapp-bitcoindogstech.pages.dev
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 134213, 2024-05-16 21:22:38, 2024-05-16 21:22:38, malware, 2f507063576e4114be99d9ab2a2a2790, http://219.157.196.38:52020/i
 134212, 2024-05-16 21:22:37, 2024-05-16 21:22:37, malware, aaf3be47422047b98a4c6e4705a0ff68, http://219.157.196.38:52020/bin.sh
 134211, 2024-05-16 21:22:35, 2024-05-16 21:22:35, malware, 2679e31b838d49a9b55633965c5cf099, http://195.22.110.230:34156/bin.sh
-134210, 2024-05-16 21:22:31, 2024-05-16 21:22:31, malware, 2b9cd92ec4f849eea777ac0d2ef85db3, http://184.60.63.153:49660/
-134209, 2024-05-16 21:22:30, 2024-05-16 21:22:30, malware, 45a0f90335034999ad746c8f215c29f4, http://182.127.152.255:50885/
-134208, 2024-05-16 21:22:28, 2024-05-16 21:22:28, malware, 66fe86cc9740403b8b3794bb124a3ce8, http://182.126.161.70:59837/i
-134207, 2024-05-16 21:22:26, 2024-05-16 21:22:26, malware, cf6f525d655e4ad29de29343b7da2f52, http://182.119.249.206:52914/i
