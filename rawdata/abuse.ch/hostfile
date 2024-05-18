@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-18 10:13:11 UTC                        #
+# Last updated: 2024-05-18 12:54:38 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	service-ifupx5k9-1253438913.bj.tencentapigw.com.cn
 127.0.0.1	service-6y22lbhj-1318289497.bj.tencentapigw.com.cn
 127.0.0.1	iopqwe.azureedge.net
 127.0.0.1	www.weather.pm
@@ -12157,4 +12158,4 @@
 127.0.0.1	fmc.dns05.com
 127.0.0.1	fcb.dns05.com
 127.0.0.1	htc.dns05.com
-# Number of entries: 12151
+# Number of entries: 12152
