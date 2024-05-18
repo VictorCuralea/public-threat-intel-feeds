@@ -1,11 +1,17 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-18 12:54:38 UTC                        #
+# Last updated: 2024-05-18 17:12:50 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	en.mg-trade.ir
+127.0.0.1	ransomproducts.top
+127.0.0.1	19.ip.gl.ply.gg
+127.0.0.1	allows-hindu.gl.at.ply.gg
+127.0.0.1	an-take.gl.at.ply.gg
+127.0.0.1	oepz3iov3ycdiu7lnsrnpe9i2yxdl1ng6760527951839536392332869280909.one
 127.0.0.1	service-ifupx5k9-1253438913.bj.tencentapigw.com.cn
 127.0.0.1	service-6y22lbhj-1318289497.bj.tencentapigw.com.cn
 127.0.0.1	iopqwe.azureedge.net
@@ -12158,4 +12164,4 @@
 127.0.0.1	fmc.dns05.com
 127.0.0.1	fcb.dns05.com
 127.0.0.1	htc.dns05.com
-# Number of entries: 12152
+# Number of entries: 12158
