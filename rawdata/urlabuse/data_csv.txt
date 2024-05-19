@@ -6,9 +6,17 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-05-19 22:00:01 UTC
+# UPDATE: 2024-05-19 23:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+137065, 2024-05-19 22:36:23, 2024-05-19 22:36:23, phishing, c1e854e752a3716f857cbe7959775f41, http://micro-d7k.pages.dev
+137064, 2024-05-19 22:03:12, 2024-05-19 22:03:12, phishing, 5e05dce57c755ee90479fb0634a5f8b3, https://www.deng666.xyz:8989/mobile-client/bet365_627/index.html?td_channelid=627
+137063, 2024-05-19 22:02:59, 2024-05-19 22:02:59, phishing, 9155a69c91f8bcdfe595006640120ab5, http://dupageassets.pages.dev/
+137062, 2024-05-19 22:02:54, 2024-05-19 22:02:54, phishing, e9e98837c1284338eb0717f31ac78b0d, http://joboptionsinc-docusign.pages.dev/?user-agent=mozilla/5.0windowsnt10.0;win64;x64applewebkit/537.36khtml
+137061, 2024-05-19 22:02:25, 2024-05-19 22:02:25, phishing, b351306de52cbeb65ca29c0173303036, http://bucolic-kheer-bd252e.netlify.app/
+137060, 2024-05-19 22:02:21, 2024-05-19 22:02:21, phishing, 5e09107e390b8132fe3a4c06222d7c36, http://www.sbjlsj.com/zh-tw/csr/tw-social/2022-08-30-04-19-53
+137059, 2024-05-19 22:02:19, 2024-05-19 22:02:19, phishing, 075c7b97a86be21ce6ae08493ce4f65f, http://www.sbjlsj.com/zh-tw/investor-relations/financial-calendar
+137058, 2024-05-19 22:02:19, 2024-05-19 22:02:19, phishing, 014fa08dd145a81cf6fbb31cfff35d86, http://www.sbjlsj.com/zh-tw/csr/tw-green-operations/2022-08-30-04-15-31
 137057, 2024-05-19 21:54:14, 2024-05-19 21:54:14, phishing, 90988a94f7711c7a4e7272f836795b75, http://chainsmartdapps.pages.dev
 137056, 2024-05-19 21:24:38, 2024-05-19 21:24:38, malware, 5479f91ef30941a79ec96a3d1b5013ce, http://95.132.186.86:33004/bin.sh
 137055, 2024-05-19 21:24:37, 2024-05-19 21:24:37, malware, 8acf05f2176a4b57a19dfe77bca28a57, http://61.53.85.84:39902/
@@ -501,11 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 136568, 2024-05-19 09:17:44, 2024-05-19 09:17:44, malware, 294594efc962455286c7cb9d774c322c, http://20.151.70.137/hidakibest.ppc
 136567, 2024-05-19 09:17:43, 2024-05-19 09:17:43, malware, 3bc0b11535464b77b97a769fcd81565f, http://20.151.70.137/hidakibest.mpsl
 136566, 2024-05-19 09:17:43, 2024-05-19 09:17:43, malware, 7ec688db0a0745d1a7430101bef6fa4b, http://20.151.70.137/hidakibest.mips
-136565, 2024-05-19 09:17:42, 2024-05-19 09:17:42, malware, 7bdb47d0f7714bb6b29986ac03b6949c, http://20.151.70.137/hidakibest.arm6
-136564, 2024-05-19 09:17:41, 2024-05-19 09:17:41, malware, 5338670517bf484a90dcf7b4aad5d097, http://20.151.70.137/hidakibest.arm5
-136563, 2024-05-19 09:17:40, 2024-05-19 09:17:40, malware, 9454c4f49911488483349cff92894c69, http://20.151.70.137/hidakibest.arm4
-136562, 2024-05-19 09:17:39, 2024-05-19 09:17:39, malware, e78c272efd684394b224b20ee0f57c17, http://188.75.79.53/qbotst8l.spc
-136561, 2024-05-19 09:17:38, 2024-05-19 09:17:38, malware, 0e291c1764be4683b2ee1e7a6d1417c3, http://188.75.79.53/qbotst8l.ppc
-136560, 2024-05-19 09:17:37, 2024-05-19 09:17:37, malware, 874b2f98c2a74146ae3cba1b429cde80, http://188.75.79.53/qbotst8l.mpsl
-136559, 2024-05-19 09:17:37, 2024-05-19 09:17:37, malware, bca195e49a594d30958cf39e225c7591, http://188.75.79.53/qbotst8l.mips
-136558, 2024-05-19 09:17:36, 2024-05-19 09:17:36, malware, e816d1d4c3034f599b6e626d29fbb2d0, http://188.75.79.53/qbotst8l.m68k
