@@ -6,9 +6,15 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-05-19 08:00:01 UTC
+# UPDATE: 2024-05-19 09:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+136402, 2024-05-19 08:43:44, 2024-05-19 08:32:16, phishing, 562857620f72385af3b8cc0672fca935, https://mnbtmummnhtmn.wixsite.com/my-site-1
+136401, 2024-05-19 08:40:19, 2024-05-19 06:32:11, phishing, 740aac279d3f73d006ee1a3c734a3f5e, https://buhhz5cn.myrdbx.io/DiePost/
+136400, 2024-05-19 08:38:13, 2024-05-19 08:38:13, phishing, e849e9e6b50190fe613a52882c65fa57, http://41nvdr.pages.dev
+136399, 2024-05-19 08:30:13, 2024-05-19 08:30:13, phishing, e05d6ab10166a02fcf2fc0fa39ba1a46, http://yukety22.pages.dev
+136398, 2024-05-19 08:24:11, 2024-05-19 08:24:11, phishing, 46250a144f09889402d24c36002a1d3f, http://accounts-auth.pages.dev
+136397, 2024-05-19 08:12:12, 2024-05-19 08:12:12, phishing, 74a333f0acc29874db0ee8a8c757ccda, http://yyujtt.pages.dev
 136396, 2024-05-19 07:51:22, 2024-05-19 07:51:22, phishing, e9712bceb9bf115a5d41cbc2fb1938ad, http://58365365.cc
 136395, 2024-05-19 07:44:11, 2024-05-19 07:44:11, phishing, af65992550f2090bbb30ac76403883e4, http://zxs48e.pages.dev
 136394, 2024-05-19 07:26:10, 2024-05-19 07:26:10, phishing, b0eebe17746bd8d7721f2c6e89a09bed, http://axxs4ser.pages.dev
@@ -503,9 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 135905, 2024-05-18 15:22:00, 2024-05-18 15:22:00, malware, ecc53882ee41456280756faa0bf45d01, http://117.204.193.174:46437/bin.sh
 135904, 2024-05-18 15:21:17, 2024-05-18 15:21:17, malware, ce892550cebf4fae85a5333e24f5fdb8, http://117.194.220.203:57131/Mozi.m
 135903, 2024-05-18 15:20:54, 2024-05-18 15:20:54, malware, b3763ea9726e4eedac77d3a7bef2d027, http://115.62.145.141:43718/Mozi.m
-135902, 2024-05-18 15:20:53, 2024-05-18 15:20:53, malware, 92e856fe0abf448fb6c10a7602b0e6b3, http://115.58.118.36:53599/Mozi.m
-135901, 2024-05-18 15:20:51, 2024-05-18 15:20:51, malware, 1466aadfc49e430f849f2d137e76b393, http://115.56.148.12:57217/bin.sh
-135900, 2024-05-18 15:20:49, 2024-05-18 15:20:49, malware, ade2f31100214f20bd88a4e2a932ffe9, http://115.55.89.98:54547/i
-135899, 2024-05-18 15:20:48, 2024-05-18 15:20:48, malware, 688aa56d72104d8b98f1cca0aea2dd59, http://115.55.89.98:54547/bin.sh
-135898, 2024-05-18 15:20:46, 2024-05-18 15:20:46, malware, a468040315f04f52863bafc00f833a64, http://115.55.253.172:58259/bin.sh
-135897, 2024-05-18 15:20:42, 2024-05-18 15:20:42, malware, 06f3720ba310492e93689aa806a2f54e, http://115.55.236.44:51477/bin.sh

@@ -6,8 +6,14 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-05-19 08:00:01 UTC
+# UPDATE: 2024-05-19 09:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 136402, "url": "https://mnbtmummnhtmn.wixsite.com/my-site-1", "discovery": "2024-05-19 08:32:16", "added": "2024-05-19 08:43:44", "target": "BT", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "562857620f72385af3b8cc0672fca935"}
+{"id": 136401, "url": "https://buhhz5cn.myrdbx.io/DiePost/", "discovery": "2024-05-19 06:32:11", "added": "2024-05-19 08:40:19", "target": "DiePost", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "740aac279d3f73d006ee1a3c734a3f5e"}
+{"id": 136400, "url": "http://41nvdr.pages.dev", "discovery": "2024-05-19 08:38:13", "added": "2024-05-19 08:38:13", "target": "Amazon", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "e849e9e6b50190fe613a52882c65fa57"}
+{"id": 136399, "url": "http://yukety22.pages.dev", "discovery": "2024-05-19 08:30:13", "added": "2024-05-19 08:30:13", "target": "Amazon", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "e05d6ab10166a02fcf2fc0fa39ba1a46"}
+{"id": 136398, "url": "http://accounts-auth.pages.dev", "discovery": "2024-05-19 08:24:11", "added": "2024-05-19 08:24:11", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "46250a144f09889402d24c36002a1d3f"}
+{"id": 136397, "url": "http://yyujtt.pages.dev", "discovery": "2024-05-19 08:12:12", "added": "2024-05-19 08:12:12", "target": "Amazon", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "74a333f0acc29874db0ee8a8c757ccda"}
 {"id": 136396, "url": "http://58365365.cc", "discovery": "2024-05-19 07:51:22", "added": "2024-05-19 07:51:22", "target": "Bet365", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "e9712bceb9bf115a5d41cbc2fb1938ad"}
 {"id": 136395, "url": "http://zxs48e.pages.dev", "discovery": "2024-05-19 07:44:11", "added": "2024-05-19 07:44:11", "target": "Amazon", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "af65992550f2090bbb30ac76403883e4"}
 {"id": 136394, "url": "http://axxs4ser.pages.dev", "discovery": "2024-05-19 07:26:10", "added": "2024-05-19 07:26:10", "target": "Amazon", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "b0eebe17746bd8d7721f2c6e89a09bed"}
@@ -502,9 +508,3 @@
 {"id": 135905, "url": "http://117.204.193.174:46437/bin.sh", "discovery": "2024-05-18 15:22:00", "added": "2024-05-18 15:22:00", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "ecc53882ee41456280756faa0bf45d01"}
 {"id": 135904, "url": "http://117.194.220.203:57131/Mozi.m", "discovery": "2024-05-18 15:21:17", "added": "2024-05-18 15:21:17", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "ce892550cebf4fae85a5333e24f5fdb8"}
 {"id": 135903, "url": "http://115.62.145.141:43718/Mozi.m", "discovery": "2024-05-18 15:20:54", "added": "2024-05-18 15:20:54", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "b3763ea9726e4eedac77d3a7bef2d027"}
-{"id": 135902, "url": "http://115.58.118.36:53599/Mozi.m", "discovery": "2024-05-18 15:20:53", "added": "2024-05-18 15:20:53", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "92e856fe0abf448fb6c10a7602b0e6b3"}
-{"id": 135901, "url": "http://115.56.148.12:57217/bin.sh", "discovery": "2024-05-18 15:20:51", "added": "2024-05-18 15:20:51", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "1466aadfc49e430f849f2d137e76b393"}
-{"id": 135900, "url": "http://115.55.89.98:54547/i", "discovery": "2024-05-18 15:20:49", "added": "2024-05-18 15:20:49", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "ade2f31100214f20bd88a4e2a932ffe9"}
-{"id": 135899, "url": "http://115.55.89.98:54547/bin.sh", "discovery": "2024-05-18 15:20:48", "added": "2024-05-18 15:20:48", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "688aa56d72104d8b98f1cca0aea2dd59"}
-{"id": 135898, "url": "http://115.55.253.172:58259/bin.sh", "discovery": "2024-05-18 15:20:46", "added": "2024-05-18 15:20:46", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "a468040315f04f52863bafc00f833a64"}
-{"id": 135897, "url": "http://115.55.236.44:51477/bin.sh", "discovery": "2024-05-18 15:20:42", "added": "2024-05-18 15:20:42", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "06f3720ba310492e93689aa806a2f54e"}
