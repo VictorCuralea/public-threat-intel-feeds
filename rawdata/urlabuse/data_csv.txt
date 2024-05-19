@@ -6,9 +6,18 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-05-19 10:00:01 UTC
+# UPDATE: 2024-05-19 11:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+136732, 2024-05-19 10:56:11, 2024-05-19 10:56:11, phishing, 5d72db86898a1ad90674d37f6ab6fd1f, http://adobe-pdf-336.pages.dev
+136731, 2024-05-19 10:30:11, 2024-05-19 10:30:11, phishing, be43c5fc989ccc274663be00b444cc58, http://wsfd11.pages.dev
+136730, 2024-05-19 10:26:14, 2024-05-19 10:26:14, phishing, 70326a95e73b142c8fb0e88c66a94893, http://xfv.pages.dev
+136729, 2024-05-19 10:24:13, 2024-05-19 10:24:13, phishing, b5a4a664ef90606ca279976ea008bd36, http://wallstreetmeme-xyz.pages.dev
+136728, 2024-05-19 10:22:11, 2024-05-19 10:22:11, phishing, 2276f0ac3aa3310ff5d769e265accc1c, http://wqx.pages.dev
+136727, 2024-05-19 10:20:11, 2024-05-19 10:20:11, phishing, d798696bfd9ada0b173229954cc9b766, http://tgobo24.pages.dev
+136726, 2024-05-19 10:02:33, 2024-05-19 10:02:33, phishing, cd56046ebd1395411197f0d0371d3d37, https://netfimarketing.com/5c8deacdan73c84e9d0875332e3a5fa66bee.html
+136725, 2024-05-19 10:00:39, 2024-05-19 10:00:39, phishing, 4deb46b9e7e8d5ce25d73647e5fa6963, https://v.whatsapp.net.sg1.putrivpn.biz.id/
+136724, 2024-05-19 10:00:19, 2024-05-19 10:00:19, phishing, 221775f22e9baea0d287715d1a04b06b, https://test2.drr6.top/
 136723, 2024-05-19 09:45:00, 2024-05-19 09:06:14, phishing, a4351f5185aeaa7d1d0ec5296caeefab, https://secure-authentication-cd199b.webflow.io/
 136722, 2024-05-19 09:44:33, 2024-05-19 09:04:21, phishing, 4cf9e255a966e323af9415812f3be042, https://rp3.mockplus.com/run/vWtg3cUdwl/xfC4y848PM?cps=hide
 136721, 2024-05-19 09:43:43, 2024-05-19 09:04:16, phishing, b137bf2620c95cca984b706013114446, https://rp3.mockplus.com/run/Zc1X6LvLfY/H2zOP55vv7?cps=hide
@@ -500,12 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 136235, 2024-05-19 03:22:11, 2024-05-19 03:22:11, malware, cdd8ac8f197e4484b2794e30275d1e3a, http://117.253.212.125:45027/Mozi.m
 136234, 2024-05-19 03:22:11, 2024-05-19 03:22:11, phishing, 3fb29c6773fd7cfdad79e9bece866664, http://gfvbfg3.pages.dev
 136233, 2024-05-19 03:21:32, 2024-05-19 03:21:32, malware, 04ca3e5ee17f4cd18821502fca304889, http://117.213.114.6:57659/Mozi.m
-136232, 2024-05-19 03:21:30, 2024-05-19 03:21:30, malware, 636440feb096405092c37fbfc9a1087d, http://117.206.182.160:56093/Mozi.m
-136231, 2024-05-19 03:21:13, 2024-05-19 03:21:13, malware, f570043d94ad4ddab8e980e90b7ece2e, http://117.206.130.251:34522/bin.sh
-136230, 2024-05-19 03:20:58, 2024-05-19 03:20:58, malware, 7a6aee854e2f4dad9c45149c58187ce9, http://117.204.203.7:56792/i
-136229, 2024-05-19 03:20:45, 2024-05-19 03:20:45, malware, 87f8acfbfce5461fade868bd5696a8fc, http://117.204.194.112:50449/bin.sh
-136228, 2024-05-19 03:20:32, 2024-05-19 03:20:32, malware, 5bb92fd93fa6471583d0724fe60179ab, http://115.63.207.232:41078/bin.sh
-136227, 2024-05-19 03:20:31, 2024-05-19 03:20:31, malware, ba8cc2ccfa2848b6994921574c50b4c4, http://115.58.91.60:56621/i
-136226, 2024-05-19 03:20:29, 2024-05-19 03:20:29, malware, fcf55ebc642e4973b543f0786c098835, http://115.58.83.45:51044/i
-136225, 2024-05-19 03:20:28, 2024-05-19 03:20:28, malware, 5013687758444513859fa3531ad689c5, http://115.58.83.45:51044/bin.sh
-136224, 2024-05-19 03:20:26, 2024-05-19 03:20:26, malware, c3e8cb35c1414c379941a43a682ddfc5, http://115.56.128.115:46778/i
