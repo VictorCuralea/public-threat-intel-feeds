@@ -6,9 +6,17 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-05-19 12:00:02 UTC
+# UPDATE: 2024-05-19 13:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+136767, 2024-05-19 12:58:10, 2024-05-19 12:58:10, phishing, 1079dadef41fd05200edc7f028f47876, http://telegramsoft-cn-pcu.pages.dev
+136766, 2024-05-19 12:50:10, 2024-05-19 12:50:10, phishing, a204f9a1c5f11aa8f093482b3a33f564, http://domainhostinghosstingserviceshostingnameserver1.pages.dev
+136765, 2024-05-19 12:40:15, 2024-05-19 12:40:15, phishing, 93b5defa0006b59bcb4615cb530cd933, http://connectdappxyz.pages.dev
+136764, 2024-05-19 12:38:11, 2024-05-19 12:38:11, phishing, d07d2113e79952ca2eb0d1e49fccfad7, http://mailmountdocumentf06ae12a89c54ce1afaf5cb4ff328ea7off.pages.dev
+136763, 2024-05-19 12:28:15, 2024-05-19 12:28:15, phishing, 148fb0808f4f13a29f510986dd94f6c0, http://api-onetrustfix.pages.dev
+136762, 2024-05-19 12:18:17, 2024-05-19 12:18:17, phishing, 5d52be7e348ed9d9eaa443ecf95b97c0, http://imtoken-bw.ist
+136761, 2024-05-19 12:16:16, 2024-05-19 12:16:16, phishing, 809ef1eb5fc5eba912c64c9a08109c7d, http://imtoken-bv.ist
+136760, 2024-05-19 12:02:15, 2024-05-19 12:02:15, phishing, 337303cc28fa2bd43f8db5b1f92c8ede, http://redex-extreme.pages.dev
 136759, 2024-05-19 11:25:40, 2024-05-19 11:25:40, malware, 9efa2cba200d4e39a73950b84c6341b8, http://42.235.49.147:48759/i
 136758, 2024-05-19 11:25:38, 2024-05-19 11:25:38, malware, 5029498b633d41b28e770780790aae96, http://42.232.30.64:46050/i
 136757, 2024-05-19 11:25:37, 2024-05-19 11:25:37, malware, 544d27bdebee4de79a2fb79feb6cdca9, http://42.231.209.51:49456/bin.sh
@@ -501,11 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 136270, 2024-05-19 04:02:17, 2024-05-19 04:02:17, phishing, 9a607e617173c9c4284206fea5fa52fe, https://user.telaegram.com/
 136269, 2024-05-19 04:02:13, 2024-05-19 04:02:13, phishing, 328901c305ef0264fef76de9d1aa5b2b, https://update-petrojobs-om.vrl-sgp.com/
 136268, 2024-05-19 03:40:13, 2024-05-19 03:40:13, phishing, 3029b4098d526d32dee1d1e5d927e9ac, http://hfn.pages.dev
-136267, 2024-05-19 03:24:16, 2024-05-19 03:24:16, malware, 0a95c5e66a2b46a098819e7f440c80f4, http://72.70.180.247:45167/i
-136266, 2024-05-19 03:24:11, 2024-05-19 03:24:11, malware, e716d939775944d7990b4aa6f5416bbc, http://61.53.147.145:52577/i
-136265, 2024-05-19 03:23:59, 2024-05-19 03:23:59, malware, 8b8be888d71a431a8c0457c10b3fe903, http://61.53.116.221:47267/Mozi.m
-136264, 2024-05-19 03:23:57, 2024-05-19 03:23:57, malware, c8f3142ba98844c4bccc67d926d7fc7c, http://61.53.111.185:32891/
-136263, 2024-05-19 03:23:55, 2024-05-19 03:23:55, malware, 33764f7a88124f0e9b87770c4f9b3474, http://61.52.50.220:50339/i
-136262, 2024-05-19 03:23:54, 2024-05-19 03:23:54, malware, 5644898b694845188574c6176928155c, http://61.52.107.207:40496/i
-136261, 2024-05-19 03:23:42, 2024-05-19 03:23:42, malware, 379252cbb9904641ba4f9dff2ea38c87, http://59.97.119.249:45141/Mozi.m
-136260, 2024-05-19 03:23:32, 2024-05-19 03:23:32, malware, 07aea505b5274f0d8719882a3774a474, http://59.92.174.164:51421/Mozi.m
