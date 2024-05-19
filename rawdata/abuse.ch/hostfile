@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-19 06:04:33 UTC                        #
+# Last updated: 2024-05-19 07:54:24 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ww2.jji.cz
+127.0.0.1	h-c-v.ru
 127.0.0.1	botnet.manhquyen.xyz
 127.0.0.1	manhquyen.xyz
 127.0.0.1	asyncprogramminghub.com
@@ -12159,4 +12161,4 @@
 127.0.0.1	nubiumbi.ru
 127.0.0.1	dakareypa.ru
 127.0.0.1	nebtoizi.ru
-# Number of entries: 12153
+# Number of entries: 12155
