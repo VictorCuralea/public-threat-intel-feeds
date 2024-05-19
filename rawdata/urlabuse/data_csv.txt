@@ -6,9 +6,15 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-05-19 16:00:01 UTC
+# UPDATE: 2024-05-19 17:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+136885, 2024-05-19 16:12:14, 2024-05-19 16:12:14, phishing, 28b74c76850712d96f6a3386819fda92, http://webtxn.pages.dev
+136884, 2024-05-19 16:06:13, 2024-05-19 16:06:13, phishing, d73387f15b0bdbd4e2f7e3d58035bfd5, http://megarsdapssever.pages.dev
+136883, 2024-05-19 16:06:13, 2024-05-19 16:06:13, phishing, c651f3f8178dfa12a3b2d8989a89cd91, http://megarsdapssever.pages.dev
+136882, 2024-05-19 16:02:31, 2024-05-19 16:02:31, phishing, 7d6d58edd2d8ccd9dbb68c60c0e34dcd, https://pub-51e2b30cd4ec421b9b3660945793dfc7.r2.dev/verifications.html
+136881, 2024-05-19 16:02:31, 2024-05-19 16:02:31, phishing, 1e49001ea9497ee9dcc588297012636f, https://pub-f6514dd3aa3d44b1b0582408e57005f3.r2.dev/today.html
+136880, 2024-05-19 16:02:15, 2024-05-19 16:02:15, phishing, a4af0cc8a862286774bc652f751afef6, https://santrianaltelee.pages.dev/
 136879, 2024-05-19 15:56:16, 2024-05-19 15:56:16, phishing, 5d97a8e5e4df6b44f40e187d6c9c3381, http://claim-reward-now.pages.dev
 136878, 2024-05-19 15:54:11, 2024-05-19 15:54:11, phishing, 7e139c507ad82a234141e86104279f6f, http://assetadvice.pages.dev
 136877, 2024-05-19 15:48:12, 2024-05-19 15:48:12, phishing, 7d3690ef03983c5ce1e5eaa1e1be6e24, http://cldns000htet2.pages.dev
@@ -503,9 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 136388, 2024-05-19 07:24:14, 2024-05-19 07:24:14, malware, b211d44294764d4dae99ab92b09a5bea, http://59.97.121.178:37743/bin.sh
 136387, 2024-05-19 07:24:12, 2024-05-19 07:24:12, malware, 505425c0ed2f4750870bcec11d9d31ae, http://59.95.130.211:55805/Mozi.m
 136386, 2024-05-19 07:24:10, 2024-05-19 07:24:10, malware, d6423ef83a9e42a9a4b16e4f317251d6, http://59.89.69.61:45809/bin.sh
-136385, 2024-05-19 07:23:29, 2024-05-19 07:23:29, malware, 1e3814333efc4576a8b955d6be8d1590, http://5.42.96.7/lend/csrss.exe
-136384, 2024-05-19 07:23:06, 2024-05-19 07:23:06, malware, 03d53003542c4250ac46e1254a924c0b, http://5.42.96.7/lend/build13.exe
-136383, 2024-05-19 07:23:04, 2024-05-19 07:23:04, malware, 410c7afa05a24283801f5588bdf0903f, http://42.230.34.225:52682/i
-136382, 2024-05-19 07:23:03, 2024-05-19 07:23:03, malware, 17291bbb9abf4c09a2f19a387ffa8c84, http://42.230.34.225:52682/bin.sh
-136381, 2024-05-19 07:23:01, 2024-05-19 07:23:01, malware, f99a9244b9054eccaafc5869b323c156, http://42.224.250.154:48972/bin.sh
-136380, 2024-05-19 07:22:59, 2024-05-19 07:22:59, malware, 0c139edba86e48db9e2979b3286bbc1f, http://27.215.48.180:34457/bin.sh
