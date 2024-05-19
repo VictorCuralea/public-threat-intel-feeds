@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-05-19 00:00:02 UTC
+# UPDATE: 2024-05-19 01:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+136170, 2024-05-19 00:58:15, 2024-05-19 00:58:15, phishing, b2382b83647454d4d42fcd33a415efb0, http://web3issuefix.pages.dev
+136169, 2024-05-19 00:40:12, 2024-05-19 00:40:12, phishing, e526c1a965d9d91647464bfde2ad3f93, http://sdfgh3.pages.dev
+136168, 2024-05-19 00:12:15, 2024-05-19 00:12:15, phishing, 7a838faf25a3396c2c31ac4222202e88, http://hjc.pages.dev
 136167, 2024-05-18 23:27:35, 2024-05-18 23:27:35, malware, afb4f12a939c4593956978d9936caaf2, https://down.furnitureoptimal.com/crypted_9f4ae6b2.exe
 136166, 2024-05-18 23:27:25, 2024-05-18 23:27:25, malware, b36ae31f8ddc49c5a09f9ad3abedfbb6, http://xdowns.down.tovarish.cn:30030/azgame/bcbx.apk
 136165, 2024-05-18 23:26:08, 2024-05-18 23:26:08, malware, a30fc899667b4ce5944e5c3c6582c488, http://94.178.199.214:42793/i
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 135673, 2024-05-18 09:13:03, 2024-05-18 09:13:03, malware, c49f71fd96d7477fb36007b03ab1e6fb, http://59.95.130.173:41299/Mozi.m
 135672, 2024-05-18 09:13:01, 2024-05-18 09:13:01, malware, 366518dad77641fd9ffed60699eb16b1, http://59.92.185.11:36835/i
 135671, 2024-05-18 09:12:57, 2024-05-18 09:12:57, malware, 0ab54bad77664998ad1f17ac7df4b1fd, http://59.89.68.155:33386/i
-135670, 2024-05-18 09:12:34, 2024-05-18 09:12:34, malware, ce6119494a1142eca0e6dafc128159c0, http://59.88.234.111:59029/i
-135669, 2024-05-18 09:12:31, 2024-05-18 09:12:31, malware, 605ab7a3522c45f8bff9aa4197c92074, http://59.88.234.111:59029/bin.sh
-135668, 2024-05-18 09:12:28, 2024-05-18 09:12:28, malware, 1bbe22c45b4f4a4e80dce7293bf6ced8, http://59.182.82.116:38408/bin.sh
