@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-05-19 20:00:02 UTC
+# UPDATE: 2024-05-19 21:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+137013, 2024-05-19 20:50:12, 2024-05-19 20:50:12, phishing, 67c18d8d83a97bb95bbc96fbbede68a3, http://jfb.pages.dev
+137012, 2024-05-19 20:32:10, 2024-05-19 20:32:10, phishing, 69dd726a80d61054568857764a74d0e7, http://sso-maiwebsrvr-5t34t.pages.dev
+137011, 2024-05-19 20:10:13, 2024-05-19 20:10:13, phishing, 6ff5d77c8ac3fc62577405edd699d010, http://dhtdg41.pages.dev
+137010, 2024-05-19 20:02:13, 2024-05-19 20:02:13, phishing, fe34fbf90eb20f7d9dcb6204a27cc1f9, http://47b61647474870065b3c795554bf5b9f.loophole.site
 137009, 2024-05-19 19:38:11, 2024-05-19 19:38:11, phishing, 30ade47f61f029145e5fadf971680ebf, http://ygjvfd46.pages.dev
 137008, 2024-05-19 19:26:50, 2024-05-19 19:26:50, malware, 6aac898f26b84a788ecf196ecceabf25, http://81.232.48.63:35819/
 137007, 2024-05-19 19:26:49, 2024-05-19 19:26:49, malware, 23a6b52987204913902029bce338980d, http://72.70.180.247:45167/Mozi.m
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 136516, 2024-05-19 09:16:33, 2024-05-19 09:16:33, malware, a727423642be420aa54c6c7644df6388, http://147.45.47.72/9f244f7bc6ab2605/sqlite3.dll
 136515, 2024-05-19 09:16:30, 2024-05-19 09:16:30, malware, c27d5f2e6f0746b787ac156c8396ff55, http://147.45.47.72/9f244f7bc6ab2605/msvcp140.dll
 136514, 2024-05-19 09:16:29, 2024-05-19 09:16:29, malware, ff9c1c27759c41e583f9b01a77e428bf, http://14.154.160.52:59522/Mozi.m
-136513, 2024-05-19 09:15:45, 2024-05-19 09:15:45, malware, 6585688922a54aa982804a15fc9e36d7, http://125.47.68.154:45521/i
-136512, 2024-05-19 09:15:44, 2024-05-19 09:15:44, malware, b11af2ccae4941919b1cf20ce5742b1a, http://125.47.68.154:45521/bin.sh
-136511, 2024-05-19 09:15:42, 2024-05-19 09:15:42, malware, 80c427504f7e4b4c9e3a5499348da45c, http://125.46.201.138:37500/i
-136510, 2024-05-19 09:15:41, 2024-05-19 09:15:41, malware, 9aadf15169354c518d0fd45277ca0b63, http://125.46.201.138:37500/bin.sh
