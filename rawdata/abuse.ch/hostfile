@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-18 17:12:50 UTC                        #
+# Last updated: 2024-05-19 06:04:33 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	botnet.manhquyen.xyz
+127.0.0.1	manhquyen.xyz
+127.0.0.1	asyncprogramminghub.com
+127.0.0.1	subjects-handbook.gl.at.ply.gg
+127.0.0.1	zoomzle.com
 127.0.0.1	en.mg-trade.ir
 127.0.0.1	ransomproducts.top
 127.0.0.1	19.ip.gl.ply.gg
@@ -12154,4 +12159,4 @@
 127.0.0.1	nubiumbi.ru
 127.0.0.1	dakareypa.ru
 127.0.0.1	nebtoizi.ru
-# Number of entries: 12148
+# Number of entries: 12153
