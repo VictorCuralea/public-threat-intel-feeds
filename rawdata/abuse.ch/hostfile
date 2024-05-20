@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-19 12:20:47 UTC                        #
+# Last updated: 2024-05-20 05:45:51 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	nikt0x.duckdns.org
+127.0.0.1	wae54.duckdns.org
+127.0.0.1	wave54.duckdns.org
 127.0.0.1	eas.cqiv.com
 127.0.0.1	dp-prod-dist.azureedge.net
 127.0.0.1	ww2.jji.cz
@@ -12119,4 +12122,4 @@
 127.0.0.1	dns31.starbucksvip.com
 127.0.0.1	ns.controlcavi.com
 127.0.0.1	api.dynabot.top
-# Number of entries: 12113
+# Number of entries: 12116

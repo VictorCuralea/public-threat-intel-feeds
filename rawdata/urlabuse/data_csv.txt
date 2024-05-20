@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-05-20 05:00:01 UTC
+# UPDATE: 2024-05-20 06:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+137196, 2024-05-20 05:42:13, 2024-05-20 05:42:13, phishing, cd18e1f832f97310afeafb631d05a222, http://hjgtrew4.pages.dev
+137195, 2024-05-20 05:00:18, 2024-05-20 05:00:18, phishing, f4ab117cd8c72dfd6afadc7e36deca75, http://uvuouov.pages.dev
 137194, 2024-05-20 04:54:13, 2024-05-20 04:54:13, phishing, 4752aa7c388f0d85ed37d6c64a5679f4, http://fandai0.pages.dev
 137193, 2024-05-20 04:42:10, 2024-05-20 04:42:10, phishing, 88207032bb9bc9030f097be95eeae3d3, http://dfsfdere2.pages.dev
 137192, 2024-05-20 04:36:18, 2024-05-20 04:36:18, phishing, 480a67258f776fc1fde0d6193c63b168, http://whatss.ltd
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 136699, 2024-05-19 09:22:43, 2024-05-19 09:22:43, malware, ba625aedf3ef45d1bd285ba52dcde512, http://jobs-servers.com/oorigg/univ.exe
 136698, 2024-05-19 09:22:42, 2024-05-19 09:22:42, malware, d9e5969b79ad48058bc87d8f49f797b6, http://doggie-services.com/batushka/univ.exe
 136697, 2024-05-19 09:22:41, 2024-05-19 09:22:41, malware, 2b958b1d58cc4baba21b62f22b271a39, http://95.38.147.200:11211/i
-136696, 2024-05-19 09:22:39, 2024-05-19 09:22:39, malware, 65663c43bf0b443b9467b67921a9d4ff, http://95.132.186.86:33004/i
-136695, 2024-05-19 09:22:38, 2024-05-19 09:22:38, malware, 665870dd062b42ce885ceb085935beee, http://91.225.163.226:55695/i
