@@ -6,9 +6,17 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-05-20 01:00:02 UTC
+# UPDATE: 2024-05-20 02:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+137123, 2024-05-20 01:30:10, 2024-05-20 01:30:10, phishing, 0da4cb118d929044935df0fdad352a0c, http://esiuedhobrveosguarogdjboines2.pages.dev
+137122, 2024-05-20 01:04:04, 2024-05-20 01:04:04, phishing, 9979822daae75618ebb07c533cab2101, https://365wt.co/
+137121, 2024-05-20 01:03:59, 2024-05-20 01:03:59, phishing, ca68e4b37520ccd027724c28b7530053, http://bet6.me/
+137120, 2024-05-20 01:03:18, 2024-05-20 01:03:18, phishing, 9b6a03860d5fdff1739d0dd34a1fc907, https://pub-6bded165fbc247e18c68664182ef0427.r2.dev/good.html
+137119, 2024-05-20 01:03:05, 2024-05-20 01:03:05, phishing, 90b124eb8dca5a47faa4f62f2eecfab4, http://www.sbjlsj.com/zh-tw/press-room/news-releases/item/computex-taipei-2022-3
+137118, 2024-05-20 01:02:57, 2024-05-20 01:02:57, phishing, 443f8516c05f83761d0cbc2d84e4c653, http://www.sbjlsj.com/zh-tw/csr/tw-rd/2022-08-30-04-09-50
+137117, 2024-05-20 01:02:57, 2024-05-20 01:02:57, phishing, ab814693d71e0f902e413c89a84a9830, http://www.sbjlsj.com/zh-tw/press-room/news-releases/item/ibc2023
+137116, 2024-05-20 01:02:53, 2024-05-20 01:02:53, phishing, 90fe07d23216a40fbc463aca3350eccd, http://www.sbjlsj.com/zh-tw/csr/tw-rd/2022-08-30-04-08-53
 137115, 2024-05-19 23:58:13, 2024-05-19 23:58:13, phishing, 43780b6e5c8b9528bff49c888aaea32f, http://dfgdhte22.pages.dev
 137114, 2024-05-19 23:34:13, 2024-05-19 23:34:13, phishing, cdb8b5e8c8f2fba483b82a4d8e3e94e0, http://ndafp.pages.dev
 137113, 2024-05-19 23:24:39, 2024-05-19 23:24:39, malware, f7afe8e54877474fb30520439998461e, http://93.123.85.30/bins/sora.m68k
@@ -501,11 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 136626, 2024-05-19 09:19:44, 2024-05-19 09:19:44, malware, 58dd78d29ab5418d9d75b1f46b5987b8, http://42.227.185.253:52833/bin.sh
 136625, 2024-05-19 09:19:43, 2024-05-19 09:19:43, malware, 89dfe6211ced4ae0b6192f7b3a8327a6, http://42.227.164.114:42755/i
 136624, 2024-05-19 09:19:41, 2024-05-19 09:19:41, malware, 8355f51ad5664f5cb3699a08a969d3e1, http://42.227.164.114:42755/bin.sh
-136623, 2024-05-19 09:19:40, 2024-05-19 09:19:40, malware, 964dc22d1b274662bd72e0cd279172db, http://42.224.235.34:41755/bin.sh
-136622, 2024-05-19 09:19:39, 2024-05-19 09:19:39, malware, 91b51cd320064e628d9df12b66e1b949, http://42.224.173.120:43199/bin.sh
-136621, 2024-05-19 09:19:37, 2024-05-19 09:19:37, malware, 61114e02084c4824ba4ac66d9245192a, http://42.180.59.126:40657/bin.sh
-136620, 2024-05-19 09:19:35, 2024-05-19 09:19:35, malware, 4e17893a936040f598182b6d314a1115, http://42.176.37.142:43948/bin.sh
-136619, 2024-05-19 09:19:33, 2024-05-19 09:19:33, malware, 6bd0a0e336294f27a6c5391ebd8d9194, http://39.89.63.254:40780/i
-136618, 2024-05-19 09:19:31, 2024-05-19 09:19:31, malware, 5728636266af4eb78efb426662c8ecf3, http://36.49.51.84:35726/Mozi.m
-136617, 2024-05-19 09:19:29, 2024-05-19 09:19:29, malware, 5b2f09ba198b47cfa519cc8cfab0e019, http://31.186.217.44/xmrig-6.19.3-linux-x64.tar.gz
-136616, 2024-05-19 09:18:54, 2024-05-19 09:18:54, malware, 08ee98769cb14157aae44a06d50eb3d0, http://27.37.123.161:57603/i
