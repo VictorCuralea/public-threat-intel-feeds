@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-20 06:27:59 UTC                        #
+# Last updated: 2024-05-20 09:35:29 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	shipboot.com
+127.0.0.1	tomcoyne.duckdns.org
 127.0.0.1	stayherefata4l.org
 127.0.0.1	masduh38sjdai.org
 127.0.0.1	omfghellobrosjda38.org
@@ -12124,4 +12126,4 @@
 127.0.0.1	dns32.starbucksvip.com
 127.0.0.1	dns31.starbucksvip.com
 127.0.0.1	ns.controlcavi.com
-# Number of entries: 12118
+# Number of entries: 12120
