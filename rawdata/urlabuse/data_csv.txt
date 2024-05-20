@@ -6,9 +6,27 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-05-20 10:00:01 UTC
+# UPDATE: 2024-05-20 11:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+137575, 2024-05-20 10:58:17, 2024-05-20 10:58:17, phishing, f0ceff8802c8aff034ae8121b2190009, http://my-first-4gi.pages.dev
+137574, 2024-05-20 10:46:15, 2024-05-20 10:46:15, phishing, c5dde7582f937ed973d7f018f6519635, https://docs.google.com/presentation/d/e/2PACX-1vSllPAHbOxvB3zJIvQg8i5j4vB11XnzZGaxT0ypLwbX5Hy6K2IofuYmElzaEghqeB3uaDkAFbSw1BwK/pub?start=false
+137573, 2024-05-20 10:46:12, 2024-05-20 10:46:12, phishing, cd4c55504cc4a3a72ee77db28af56a31, http://tg.thebestteam.cc
+137572, 2024-05-20 10:42:10, 2024-05-20 10:42:10, phishing, f22037e26ad4dd004cd2711f46ea1af0, http://ngffvbn2.pages.dev
+137571, 2024-05-20 10:42:10, 2024-05-20 10:42:10, phishing, 77dce197930ed31c587eb1f9fbd210e4, http://ngffvbn2.pages.dev
+137570, 2024-05-20 10:34:11, 2024-05-20 10:34:11, phishing, 81f82bea115879e491d2cd24327ea410, http://premium-kz.site
+137569, 2024-05-20 10:34:11, 2024-05-20 10:34:11, phishing, b356dd0ae9404d74e20ada970decacc2, http://premium-kz.site
+137568, 2024-05-20 10:25:57, 2024-05-20 10:25:57, malware, 9c0f34a6107a42cb9d4d7428a92415e5, http://93.123.85.153/arm5
+137567, 2024-05-20 10:25:57, 2024-05-20 10:25:57, malware, 5193a00f185b4f5f91767df653cb3391, http://70.112.115.107:34257/
+137566, 2024-05-20 10:23:26, 2024-05-20 10:23:26, malware, 7b6781ed0d4c414eabf1a424354f6728, http://123.13.53.103:57079/bin.sh
+137565, 2024-05-20 10:21:22, 2024-05-20 10:21:22, malware, 30dd34d42dd8403d82cf15eb11288358, http://117.204.197.238:54035/Mozi.m
+137564, 2024-05-20 10:20:10, 2024-05-20 10:20:10, malware, 4367dcc0725d4413b7153c02670d2b0e, http://106.41.138.94:43653/Mozi.a
+137563, 2024-05-20 10:04:16, 2024-05-20 10:04:16, phishing, 4d86ffc64095435a8abecf365ce78e27, https://pub-a7aa109e9db04b97ba2fc89747a05209.r2.dev/index.html#
+137562, 2024-05-20 10:03:28, 2024-05-20 10:03:28, phishing, abd3012e5831339035e2166886c2753a, https://pub-8900102e86d14baa8aa72ab424da2634.r2.dev/index.html
+137561, 2024-05-20 10:03:00, 2024-05-20 10:03:00, phishing, f82b5c2af654c463123df3decb8b7be1, http://star-world-green-hello-25c6.noreply5432.workers.dev/
+137560, 2024-05-20 10:02:44, 2024-05-20 10:02:44, phishing, 915a364e22d4c060992165747464bf26, https://willowy-sprite-f2e63a.netlify.app/
+137559, 2024-05-20 10:02:34, 2024-05-20 10:02:34, phishing, c5840616766fdcbde207f91bed4196e2, https://tele-en-areke.vercel.app/
+137558, 2024-05-20 10:02:11, 2024-05-20 10:02:11, phishing, 5e10ceda3ff2997bba588fba4904fd54, https://promo-code-claim.store/
 137557, 2024-05-20 09:48:15, 2024-05-20 09:48:15, phishing, ebee5ceadc35a9d04a745880514b09f2, http://urfbs.com
 137556, 2024-05-20 09:48:13, 2024-05-20 09:48:13, phishing, c149e03b83ced7f3c598b7a306a3c1b9, http://uspb.wqgwhb.top
 137555, 2024-05-20 09:28:13, 2024-05-20 09:28:13, phishing, 426dedee80c237427eb69fa127fb29f0, http://office365.sup2.skyfencenet.com
@@ -491,21 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 137078, 2024-05-19 23:21:16, 2024-05-19 23:21:16, malware, 73921cc84c5b4a77b8c652418d2c5ab8, http://117.206.178.204:41345/bin.sh
 137077, 2024-05-19 23:21:07, 2024-05-19 23:21:07, malware, 8aeff9d9940640b98b8b7ac548937136, http://117.204.201.188:53251/i
 137076, 2024-05-19 23:21:04, 2024-05-19 23:21:04, malware, 720784261171430a851404dc41db1746, http://117.204.195.199:58438/i
-137075, 2024-05-19 23:20:20, 2024-05-19 23:20:20, malware, a6d27bb0c60a4fc1badc8729a6c71dc0, http://115.57.160.54:55746/bin.sh
-137074, 2024-05-19 23:20:19, 2024-05-19 23:20:19, malware, 941cdd0e3ecb4fe1a506a3f5163688e7, http://115.55.92.47:44372/i
-137073, 2024-05-19 23:20:17, 2024-05-19 23:20:17, malware, c8595867906e43ed9c348dbf1100ffa7, http://115.55.55.140:38621/bin.sh
-137072, 2024-05-19 23:20:16, 2024-05-19 23:20:16, malware, 3fe873a59f1d4b05bf0dfb457879dae6, http://115.55.230.139:34471/i
-137071, 2024-05-19 23:20:14, 2024-05-19 23:20:14, malware, da7518080892473d8e5247dd8d7085d4, http://115.50.88.106:51664/Mozi.m
-137070, 2024-05-19 23:20:13, 2024-05-19 23:20:13, malware, 41cd543c233f4cd39b518a9f449a0e84, http://115.50.88.106:51664/i
-137069, 2024-05-19 23:20:11, 2024-05-19 23:20:11, malware, ae29563b733c43a9b6eb40d2332518b5, http://115.50.88.106:51664/bin.sh
-137068, 2024-05-19 23:20:09, 2024-05-19 23:20:09, malware, 7ce303654873451ba87c584b42981adc, http://114.69.235.183:42329/i
-137067, 2024-05-19 23:20:07, 2024-05-19 23:20:07, malware, 6c652a7d19314cd291c99fe14cf8ffdd, http://112.245.254.130:39048/i
-137066, 2024-05-19 23:20:05, 2024-05-19 23:20:05, malware, 72a259d9be534a8483b83faeb37491a3, http://112.245.254.130:39048/bin.sh
-137065, 2024-05-19 22:36:23, 2024-05-19 22:36:23, phishing, c1e854e752a3716f857cbe7959775f41, http://micro-d7k.pages.dev
-137064, 2024-05-19 22:03:12, 2024-05-19 22:03:12, phishing, 5e05dce57c755ee90479fb0634a5f8b3, https://www.deng666.xyz:8989/mobile-client/bet365_627/index.html?td_channelid=627
-137063, 2024-05-19 22:02:59, 2024-05-19 22:02:59, phishing, 9155a69c91f8bcdfe595006640120ab5, http://dupageassets.pages.dev/
-137062, 2024-05-19 22:02:54, 2024-05-19 22:02:54, phishing, e9e98837c1284338eb0717f31ac78b0d, http://joboptionsinc-docusign.pages.dev/?user-agent=mozilla/5.0windowsnt10.0;win64;x64applewebkit/537.36khtml
-137061, 2024-05-19 22:02:25, 2024-05-19 22:02:25, phishing, b351306de52cbeb65ca29c0173303036, http://bucolic-kheer-bd252e.netlify.app/
-137060, 2024-05-19 22:02:21, 2024-05-19 22:02:21, phishing, 5e09107e390b8132fe3a4c06222d7c36, http://www.sbjlsj.com/zh-tw/csr/tw-social/2022-08-30-04-19-53
-137059, 2024-05-19 22:02:19, 2024-05-19 22:02:19, phishing, 075c7b97a86be21ce6ae08493ce4f65f, http://www.sbjlsj.com/zh-tw/investor-relations/financial-calendar
-137058, 2024-05-19 22:02:19, 2024-05-19 22:02:19, phishing, 014fa08dd145a81cf6fbb31cfff35d86, http://www.sbjlsj.com/zh-tw/csr/tw-green-operations/2022-08-30-04-15-31
