@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-05-20 11:00:01 UTC
+# UPDATE: 2024-05-20 12:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+137579, 2024-05-20 11:40:15, 2024-05-20 11:40:15, phishing, 88556aed6a18db211e659a2d9bf0a777, https://vwp.xng.mybluehost.me/wp-admin/js/-/csom/vbxmoulaaappp/94a77e63faabad03a4f04f2e500896c2/
+137578, 2024-05-20 11:34:17, 2024-05-20 11:34:17, phishing, e914f8a37fad711856668780db99aa10, http://daperchain.pages.dev
+137577, 2024-05-20 11:12:14, 2024-05-20 11:12:14, phishing, 44fbd007fbb5985e2040e306d6f83dab, http://tfhju25.pages.dev
+137576, 2024-05-20 11:10:17, 2024-05-20 11:10:17, phishing, c067ca71feb38b6f1acfc487471fb2cb, http://urspsx.top
 137575, 2024-05-20 10:58:17, 2024-05-20 10:58:17, phishing, f0ceff8802c8aff034ae8121b2190009, http://my-first-4gi.pages.dev
 137574, 2024-05-20 10:46:15, 2024-05-20 10:46:15, phishing, c5dde7582f937ed973d7f018f6519635, https://docs.google.com/presentation/d/e/2PACX-1vSllPAHbOxvB3zJIvQg8i5j4vB11XnzZGaxT0ypLwbX5Hy6K2IofuYmElzaEghqeB3uaDkAFbSw1BwK/pub?start=false
 137573, 2024-05-20 10:46:12, 2024-05-20 10:46:12, phishing, cd4c55504cc4a3a72ee77db28af56a31, http://tg.thebestteam.cc
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 137082, 2024-05-19 23:21:56, 2024-05-19 23:21:56, malware, 676fc5b60aaa4cab9a2738a20fd84ebc, http://117.222.248.163:53625/i
 137081, 2024-05-19 23:21:55, 2024-05-19 23:21:55, malware, b33aa29e98424342bae27a4eb20e5036, http://117.217.36.170:47008/Mozi.m
 137080, 2024-05-19 23:21:53, 2024-05-19 23:21:53, malware, a545108a097a49bcbdf4c0f42379e9a2, http://117.215.202.146:36078/bin.sh
-137079, 2024-05-19 23:21:31, 2024-05-19 23:21:31, malware, 7937cfbd68ef4c6a8945c1bc99642a20, http://117.211.38.15:53259/
-137078, 2024-05-19 23:21:16, 2024-05-19 23:21:16, malware, 73921cc84c5b4a77b8c652418d2c5ab8, http://117.206.178.204:41345/bin.sh
-137077, 2024-05-19 23:21:07, 2024-05-19 23:21:07, malware, 8aeff9d9940640b98b8b7ac548937136, http://117.204.201.188:53251/i
-137076, 2024-05-19 23:21:04, 2024-05-19 23:21:04, malware, 720784261171430a851404dc41db1746, http://117.204.195.199:58438/i
