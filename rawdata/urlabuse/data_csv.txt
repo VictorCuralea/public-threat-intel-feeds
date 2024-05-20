@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-05-20 03:00:01 UTC
+# UPDATE: 2024-05-20 04:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+137156, 2024-05-20 03:36:13, 2024-05-20 03:36:13, phishing, 6f1d0b0cd36675040c305b7f522a9312, http://dhsaoiudslehgaiuyafgjk2.pages.dev
+137155, 2024-05-20 03:34:13, 2024-05-20 03:34:13, phishing, 928dd085381e4cfd4e92a0fdec2eb141, http://myato-log.org
 137154, 2024-05-20 02:28:11, 2024-05-20 02:28:11, phishing, 9aeb6d4639ad7895321f65ebee6c1278, http://microsoftstorage.corenk.workers.dev
 137153, 2024-05-20 02:26:13, 2024-05-20 02:26:13, phishing, 0881b2e326840fe88431ccfe480bd3dd, http://hello-world-odd-haze-bfbc.corenk.workers.dev
 137152, 2024-05-20 02:23:52, 2024-05-20 02:23:52, malware, e40ca7738681468c946aa66044337fb9, http://93.123.85.30/bins/sora.x86
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 136659, 2024-05-19 09:21:32, 2024-05-19 09:21:32, malware, c2e8b70d77e04584a41dd7106f01fd69, http://61.52.117.150:43277/Mozi.m
 136658, 2024-05-19 09:21:30, 2024-05-19 09:21:30, malware, c1eeae00d71b4aed8597e2492ce7997e, http://61.52.107.207:40496/bin.sh
 136657, 2024-05-19 09:21:29, 2024-05-19 09:21:29, malware, 1579b540cd9746a9a2d574ae095f67f1, http://61.3.185.162:46369/bin.sh
-136656, 2024-05-19 09:21:26, 2024-05-19 09:21:26, malware, cfb204a4047e487d921c1abfd46d5896, http://60.18.84.204:49059/i
-136655, 2024-05-19 09:21:25, 2024-05-19 09:21:25, malware, a4895840e0fc487b9db6a8c15b54d0c6, http://59.97.122.89:54746/Mozi.m
