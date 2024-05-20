@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-20 15:16:37 UTC                        #
+# Last updated: 2024-05-20 18:14:36 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	0.tpc.eu.ngrok.io
 127.0.0.1	service-dq87eeqy-1259321672.gz.tencentapigw.com.cn
 127.0.0.1	klgbb.com
 127.0.0.1	anphealthcenter.com
@@ -12028,5 +12029,4 @@
 127.0.0.1	login.mis.charitykp.info
 127.0.0.1	check.mis.charitykp.info
 127.0.0.1	update.mis.charitykp.info
-127.0.0.1	ns18.clsr.ca
 # Number of entries: 12023
