@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-21 07:50:30 UTC                        #
+# Last updated: 2024-05-21 12:14:06 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	nanoshield.pro
 127.0.0.1	update.api.qianxin.xyz
 127.0.0.1	airwide-land.com
 127.0.0.1	summerwaterhall.com
@@ -11984,9 +11985,4 @@
 127.0.0.1	statics.kozow.com
 127.0.0.1	testrun.ddns.net
 127.0.0.1	topportas.ddns.net
-127.0.0.1	brodoyouevenlift.co.za
-127.0.0.1	tceducn.com
-127.0.0.1	shohetrc.com
-127.0.0.1	atillapro.com
-127.0.0.1	update.microsoftus.com
-# Number of entries: 11983
+# Number of entries: 11979
