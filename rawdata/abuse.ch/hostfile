@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-21 06:03:13 UTC                        #
+# Last updated: 2024-05-21 07:50:30 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	update.api.qianxin.xyz
 127.0.0.1	airwide-land.com
 127.0.0.1	summerwaterhall.com
 127.0.0.1	fashionstune.com
@@ -11996,4 +11997,4 @@
 127.0.0.1	oak-d5fmc3bzezh2dwhk.z01.azurefd.net
 127.0.0.1	imini.site
 127.0.0.1	thebestgn.xyz
-# Number of entries: 11990
+# Number of entries: 11991

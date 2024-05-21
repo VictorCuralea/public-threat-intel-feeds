@@ -6,9 +6,23 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-05-21 07:00:02 UTC
+# UPDATE: 2024-05-21 08:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+138330, 2024-05-21 07:34:15, 2024-05-21 07:34:15, phishing, 7c76ea937df749f56ba4fb50ff744e34, https://hiperteia.com.br/visi/
+138329, 2024-05-21 07:32:13, 2024-05-21 07:32:13, phishing, 2855a838c212e6378b298709aea113f5, http://zvuvp.pages.dev
+138328, 2024-05-21 07:22:11, 2024-05-21 07:22:11, malware, 5cc140804e194bd5a76a26c1692cba05, http://31.43.16.120:48870/.i209/.i
+138327, 2024-05-21 07:22:09, 2024-05-21 07:22:09, malware, 4b664fd7d7db4fb6bb026ef129684fe6, http://27.215.120.73:59319/i
+138326, 2024-05-21 07:21:16, 2024-05-21 07:21:16, malware, b9692bfd03a243dd917d6bf83e6f2c26, http://185.46.222.49:35053/sshd
+138325, 2024-05-21 07:21:08, 2024-05-21 07:21:08, malware, c15fd69451c643d39e97dc1d0d6919fc, http://182.124.49.77:59190/bin.sh
+138324, 2024-05-21 07:21:03, 2024-05-21 07:21:03, malware, cfe20b8e1bc84e17b1b61b8c9c1c06fd, http://182.117.136.34:43914/bin.sh
+138323, 2024-05-21 07:20:25, 2024-05-21 07:20:25, malware, 42fa9661d2aa4dce845b2eb51a273713, http://119.179.250.242:37805/i
+138322, 2024-05-21 07:20:05, 2024-05-21 07:20:05, malware, ccf15383e50243129f3a8af9eb5c5da3, http://115.51.33.95:50176/bin.sh
+138321, 2024-05-21 07:11:28, 2024-05-21 07:11:28, phishing, 8d95a9bed0296e8c3e9de8b08950d2e4, https://myblog-2mvrty127n.live-website.com/ch/#
+138320, 2024-05-21 07:11:18, 2024-05-21 07:08:17, phishing, f4b7b4bfe30509cd7a2aa4da164699d5, https://home-nail.com/
+138319, 2024-05-21 07:00:46, 2024-05-21 07:00:46, phishing, 7df3ae1d4de2a55fc5a12742d00ded3d, https://outlookpasswordexcahnge.s3-website.fr-par.scw.cloud/
+138318, 2024-05-21 07:00:35, 2024-05-21 07:00:35, phishing, e59bceb0cf30d4310b32d8a9577aa6c7, https://justduiit.com/
+138317, 2024-05-21 07:00:13, 2024-05-21 07:00:13, phishing, a1ccec3c2aa572dfa673d45ce6ec88e7, http://gfhtrecfgr.pages.dev
 138316, 2024-05-21 06:58:15, 2024-05-21 06:58:15, phishing, 5f962ad986fe6d0705e01505c27d3a07, https://soloravers.co.uk/package/home/
 138315, 2024-05-21 06:53:42, 2024-05-21 02:20:54, phishing, 04386aa63ddb795e53500c5b99c2f3ff, https://linkprotect.cudasvc.com/url?a=https://pub-e78fead014b147a592d8bf7a544cb03f.r2.dev/1f.htm?tajwiv7819467258wumwp02130-sfmaxgen-pgx--ifxinfo-isxmicrosoft.com.twsf-1MC4x&c=E,1,RHmAtRtvh3Xjkp0o9U9OT03Z5NUzzlLucALp_SJJJWR1Xmh6DO7zW9jWv190uL58dEKoYea-eq8iWB29jHY4d9c12Gfz6LOW0fq6nJwuL8O5&typo=0
 138314, 2024-05-21 06:52:46, 2024-05-21 06:04:15, phishing, e901be0cfeaea7045e48c37906277b20, http://championhobbies.site.aplus.net/sgkb/ebanking.htm
@@ -495,17 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 137833, 2024-05-20 16:07:33, 2024-05-20 16:07:33, phishing, c08f8979860c3ee3b0ea64ba3391df2a, https://telegajn-qba.top/zz/
 137832, 2024-05-20 16:07:28, 2024-05-20 16:07:28, phishing, d9075dfaa6c43732f16c59632f667b05, https://telegajn-ejn.top/zz/
 137831, 2024-05-20 16:07:25, 2024-05-20 16:07:25, phishing, 53bac74047057ae61935a8cdf5a2a503, https://telegajn-kph.top/zz/
-137830, 2024-05-20 16:07:21, 2024-05-20 16:07:21, phishing, 5643d3164de7960874b05d8dbe6f8236, https://telegajn-hta.top/zz/
-137829, 2024-05-20 16:07:19, 2024-05-20 16:07:19, phishing, 662e5441c7fd48f614226bf988a173c0, https://telegajn-iho.top/zz/
-137828, 2024-05-20 16:07:17, 2024-05-20 16:07:17, phishing, f073da14693e80f31fb8137da18ce9b3, https://telegajn-lbe.top/zz/
-137827, 2024-05-20 16:07:11, 2024-05-20 16:07:11, phishing, 753c92dbad97aacff7655e4ef23bde31, https://telegajn-ena.top/zz/
-137826, 2024-05-20 16:07:07, 2024-05-20 16:07:07, phishing, a5349ba4b1ddcfd2c16c1ed4c0096a4c, https://telegajn-fba.top/zz/
-137825, 2024-05-20 16:07:01, 2024-05-20 16:07:01, phishing, 7d958847da83ce6c12004781f4ff4a1d, https://telegajn-lny.top/zz/
-137824, 2024-05-20 16:06:58, 2024-05-20 16:06:58, phishing, ee0fb8bbf0300747d3c1eaadbc80db2f, https://telegajn-jsh.top/zz/
-137823, 2024-05-20 16:06:57, 2024-05-20 16:06:57, phishing, bd06c75e850602da7c096c65e76fee11, https://telegajn-ijq.top/zz/
-137822, 2024-05-20 16:06:51, 2024-05-20 16:06:51, phishing, 1f7e283cece74d33674f6cbf399fb981, https://telegajn-qge.top/zz/
-137821, 2024-05-20 16:06:47, 2024-05-20 16:06:47, phishing, 36c9b1903f9a705ee1638b3b497f0efc, https://telegajn-frn.top/zz/
-137820, 2024-05-20 16:06:47, 2024-05-20 16:06:47, phishing, 47968672d15bdeddc7e95b32b7a812e6, https://telegajn-lsx.top/zz/
-137819, 2024-05-20 16:06:44, 2024-05-20 16:06:44, phishing, 42de781a9ef57ed7b1a2e7c4119d336a, https://telegajn-can.top/zz/
-137818, 2024-05-20 16:06:39, 2024-05-20 16:06:39, phishing, 8c5b48e6ea7161641949f60bd7bafbe3, https://telegajn-oot.top/zz/
-137817, 2024-05-20 16:06:37, 2024-05-20 16:06:37, phishing, 1100f174a00b1d85b7c690c8e734b141, https://telegajn-pxf.top/zz/
