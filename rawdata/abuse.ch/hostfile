@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-21 02:16:08 UTC                        #
+# Last updated: 2024-05-21 06:03:13 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	airwide-land.com
+127.0.0.1	summerwaterhall.com
 127.0.0.1	fashionstune.com
 127.0.0.1	0.tpc.eu.ngrok.io
 127.0.0.1	service-dq87eeqy-1259321672.gz.tencentapigw.com.cn
@@ -11994,36 +11996,4 @@
 127.0.0.1	oak-d5fmc3bzezh2dwhk.z01.azurefd.net
 127.0.0.1	imini.site
 127.0.0.1	thebestgn.xyz
-127.0.0.1	centurygift.myq-see.com
-127.0.0.1	donpapajay.ddns.net
-127.0.0.1	grace.adds-only.xyz
-127.0.0.1	info1.dynamic-dns.net
-127.0.0.1	jilnsmclein.3utilities.com
-127.0.0.1	members-path.at.ply.gg
-127.0.0.1	microsoft-update-tool.duckdns.org
-127.0.0.1	qgexserver.hopto.org
-127.0.0.1	soon-lp.at.ply.gg
-127.0.0.1	segun.ddns.net
-127.0.0.1	sanael-62946.portmap.host
-127.0.0.1	tende.dvrdns.org
-127.0.0.1	waswift.ddns.net
-127.0.0.1	xxxxza.dynamic-dns.net
-127.0.0.1	bantubusta0816.ddns.net
-127.0.0.1	cocacabanaclubsdownt.com
-127.0.0.1	bad.con-ip.com
-127.0.0.1	comercio.con-ip.com
-127.0.0.1	dxxxxza.dynamic-dns.net
-127.0.0.1	gig24.sytes.net
-127.0.0.1	idofjodjvodjvojvojfojooiodijnj.con-ip.com
-127.0.0.1	ima.con-ip.com
-127.0.0.1	menge.duckdns.org
-127.0.0.1	large-sox.gl.at.ply.gg
-127.0.0.1	sdhisdviudsibdsibedas.con-ip.com
-127.0.0.1	rem0323.duckdns.org
-127.0.0.1	millon777.con-ip.com
-127.0.0.1	sdvsiudhvisdhvodshv.con-ip.com
-127.0.0.1	snackdoom94.hopto.org
-127.0.0.1	sembe.duckdns.org
-127.0.0.1	sonia777.con-ip.com
-127.0.0.1	virtuallogoprepaidmaxspippline.onedumb.com
-# Number of entries: 12020
+# Number of entries: 11990
