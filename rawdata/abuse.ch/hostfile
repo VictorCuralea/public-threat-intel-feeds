@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-21 13:04:53 UTC                        #
+# Last updated: 2024-05-21 14:36:10 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	chinamobi1e.shop
 127.0.0.1	rw1-api-update.afd.azureedge.net
 127.0.0.1	time.api.chinabm.cn
 127.0.0.1	nanoshield.pro
@@ -11971,4 +11972,4 @@
 127.0.0.1	viiper1337-29699.portmap.host
 127.0.0.1	windowis11.com
 127.0.0.1	treegreeny.org
-# Number of entries: 11965
+# Number of entries: 11966
