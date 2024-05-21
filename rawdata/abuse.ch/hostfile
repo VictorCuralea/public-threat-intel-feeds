@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-21 12:14:06 UTC                        #
+# Last updated: 2024-05-21 13:04:53 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	rw1-api-update.afd.azureedge.net
+127.0.0.1	time.api.chinabm.cn
 127.0.0.1	nanoshield.pro
 127.0.0.1	update.api.qianxin.xyz
 127.0.0.1	airwide-land.com
@@ -11969,20 +11971,4 @@
 127.0.0.1	viiper1337-29699.portmap.host
 127.0.0.1	windowis11.com
 127.0.0.1	treegreeny.org
-127.0.0.1	cock.holyshithowmanydomainandproxycanigettorunmyserver.info
-127.0.0.1	download.adaklab.ir
-127.0.0.1	goldbolbein.chickenkiller.com
-127.0.0.1	goldgoblein.sytes.net
-127.0.0.1	infallible-water-17742.pktriot.net
-127.0.0.1	laraloveu-44526.portmap.host
-127.0.0.1	malhost.loca.lt
-127.0.0.1	points-deep.gl.at.ply.gg
-127.0.0.1	quasardeez.ddns.net
-127.0.0.1	riprealworld-55179.portmap.host
-127.0.0.1	rough-night-92806.pktriot.net
-127.0.0.1	sero.definitivlegit.xyz
-127.0.0.1	shipperd69.strangled.net
-127.0.0.1	statics.kozow.com
-127.0.0.1	testrun.ddns.net
-127.0.0.1	topportas.ddns.net
-# Number of entries: 11979
+# Number of entries: 11965
