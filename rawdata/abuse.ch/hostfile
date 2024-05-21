@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-20 18:14:36 UTC                        #
+# Last updated: 2024-05-21 02:16:08 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	fashionstune.com
 127.0.0.1	0.tpc.eu.ngrok.io
 127.0.0.1	service-dq87eeqy-1259321672.gz.tencentapigw.com.cn
 127.0.0.1	klgbb.com
@@ -12025,4 +12026,4 @@
 127.0.0.1	sembe.duckdns.org
 127.0.0.1	sonia777.con-ip.com
 127.0.0.1	virtuallogoprepaidmaxspippline.onedumb.com
-# Number of entries: 12019
+# Number of entries: 12020
