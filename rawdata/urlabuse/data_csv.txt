@@ -6,9 +6,26 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-05-22 22:00:01 UTC
+# UPDATE: 2024-05-22 23:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+139943, 2024-05-22 22:54:13, 2024-05-22 22:54:13, phishing, 509d3719653f1eaed90dbaa1ecfa994b, http://n9l435zp5gzruxy03v9xlb5r1hawienbmvjspec-gl4hm1crgd3sqqxjbe.pages.dev
+139942, 2024-05-22 22:52:13, 2024-05-22 22:52:13, phishing, 64bf7a9686ec6180472479de65335cbc, http://ssz22.pages.dev
+139941, 2024-05-22 22:46:25, 2024-05-22 22:46:25, phishing, b7fea31a495de060bd8cc6898ec6d1ef, http://santefr-module.info
+139940, 2024-05-22 22:36:15, 2024-05-22 22:36:15, phishing, b8f3fe59e741768441ecfe3e26f10d32, http://smartprotocols.pages.dev
+139939, 2024-05-22 22:32:16, 2024-05-22 22:32:16, phishing, b1bcb10c1fa67a68af44bb30805fb7bd, http://fixing-evmerror.pages.dev
+139938, 2024-05-22 22:28:12, 2024-05-22 22:28:12, phishing, 9286f9903b61da9e6f92edc647d931c8, http://figte1.pages.dev
+139937, 2024-05-22 22:04:23, 2024-05-22 22:04:23, phishing, a5859c38d60e1956a6b8ad6c9326b3be, http://teleqpcrm.vip/
+139936, 2024-05-22 22:03:41, 2024-05-22 22:03:41, phishing, 4f7dea5365e2c82e2e0a31c02e05f97f, https://webmail.hkjc.org.hk/owa/UrlBlockedError.aspx
+139935, 2024-05-22 22:03:35, 2024-05-22 22:03:35, phishing, f67d617736df9b0f25fda423ed0b4b03, https://italianentertainmentnetwork.com/cgi/office/
+139934, 2024-05-22 22:02:58, 2024-05-22 22:02:58, phishing, 60f7fa8fdc88481ac9935ee3660ef867, https://lucah130.my-telegram.my.id/main.php
+139933, 2024-05-22 22:02:52, 2024-05-22 22:02:52, phishing, c468235ae5ed697a8baf0b1008248b7a, http://ggtgprem.store/
+139932, 2024-05-22 22:02:51, 2024-05-22 22:02:51, phishing, 90f8035964d8e177ef23a866b2e0b096, https://rtgprems.store/
+139931, 2024-05-22 22:02:46, 2024-05-22 22:02:46, phishing, 974d86be6d0b4835fa6d0503b0e9c2b7, https://tlgprm.fun/
+139930, 2024-05-22 22:02:46, 2024-05-22 22:02:46, phishing, b65a343397ec52d14733026558e18fdf, https://gadjushkadelay.vip/?2
+139929, 2024-05-22 22:02:40, 2024-05-22 22:02:40, phishing, 0f0ab533b3bcdf7ec1aab912d38a0952, https://berylchest.com/
+139928, 2024-05-22 22:02:16, 2024-05-22 22:02:16, phishing, ced049cba1db684004402ec5e0636254, http://teleprnm.vip/
+139927, 2024-05-22 22:00:46, 2024-05-22 20:02:14, phishing, 7402ccaee08d3892e032267d45dc0c0e, https://www.cssrechun.it/auth/ui/app/auth/flow/mycss-login/ext/login.html
 139926, 2024-05-22 21:59:31, 2024-05-22 19:58:15, phishing, f7f29545d620abdc09cd85bb48351a8e, https://fwuaiaiuewctcresrytuieowepkmnbbvcs4srdfgyuwvdiyks.yolasite.com/
 139925, 2024-05-22 21:58:48, 2024-05-22 18:48:15, phishing, 0a38b4cd4af18b69b2357459c1f084dd, https://www.dropbox.com/scl/fi/mpeifie5fxwmcux9yd8bg/Sign-in-to-update-your-account-below_.paper?dl=0
 139924, 2024-05-22 21:56:15, 2024-05-22 21:56:15, phishing, 9b83ed9c9585aad78fc604e1ff1026dd, http://livemigraznoweasn.pages.dev
@@ -492,20 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 139446, 2024-05-22 09:19:18, 2024-05-22 09:19:18, malware, 5d4cb683e6a84b67869d9ec804869511, http://116.138.184.214:46705/bin.sh
 139445, 2024-05-22 09:19:16, 2024-05-22 09:19:16, malware, 9f3d9cb5dcd246fab0b7c38f555e26b1, http://115.63.178.120:43440/i
 139444, 2024-05-22 09:19:15, 2024-05-22 09:19:15, malware, c0e60c1b62d3425eadcc823ea71bb518, http://115.63.178.120:43440/bin.sh
-139443, 2024-05-22 09:19:13, 2024-05-22 09:19:13, malware, 8a3292eee5614a13b6b122b014f6705b, http://115.61.2.112:36549/bin.sh
-139442, 2024-05-22 09:18:28, 2024-05-22 09:18:28, malware, d515e8d3508f4054853e388d60fac6f4, http://115.58.132.97:48484/bin.sh
-139441, 2024-05-22 09:18:27, 2024-05-22 09:18:27, malware, af398fd595c2434fa1c107fc436af470, http://115.57.160.149:47102/i
-139440, 2024-05-22 09:18:25, 2024-05-22 09:18:25, malware, 1b9dff7cbcb04326a89311238ebfe281, http://115.57.160.149:47102/bin.sh
-139439, 2024-05-22 09:18:24, 2024-05-22 09:18:24, malware, 776dd5d0e66d4701a55272b5858c2800, http://115.56.96.157:44872/i
-139438, 2024-05-22 09:18:22, 2024-05-22 09:18:22, malware, 58f996d053ea43c5ac58d569f4506be1, http://115.56.176.129:34889/bin.sh
-139437, 2024-05-22 09:18:21, 2024-05-22 09:18:21, malware, c4c886868ae446908d6ae4214c97a87f, http://115.55.252.249:33758/i
-139436, 2024-05-22 09:18:19, 2024-05-22 09:18:19, malware, 91b62b3fb009424db422c64c12dba950, http://115.55.252.249:33758/bin.sh
-139435, 2024-05-22 09:18:17, 2024-05-22 09:18:17, malware, cd7e13b6fc5246beb4be4f960ae7a314, http://115.52.237.94:32923/i
-139434, 2024-05-22 09:18:15, 2024-05-22 09:18:15, malware, e424378949d24ae98a2f92bb6e14ec39, http://115.49.178.99:32925/i
-139433, 2024-05-22 09:18:13, 2024-05-22 09:18:13, malware, 7bc0e18cee1547d18723b934f055d149, http://115.49.178.99:32925/bin.sh
-139432, 2024-05-22 09:18:12, 2024-05-22 09:18:12, malware, 2b66aa2fa2014aad9f60db2a2418ff65, http://113.24.191.144:43529/i
-139431, 2024-05-22 09:18:09, 2024-05-22 09:18:09, malware, ad752c5b9566409fa61a1b1e71a1571c, http://113.238.97.37:51341/i
-139430, 2024-05-22 09:18:07, 2024-05-22 09:18:07, malware, 209c7ec97847495eaa4ad83ac4521b89, http://113.233.59.74:34441/Mozi.m
-139429, 2024-05-22 09:18:06, 2024-05-22 09:18:06, malware, 2814ea5657f24fe59e7a0c1f05b38b15, http://113.229.189.231:42759/i
-139428, 2024-05-22 09:18:04, 2024-05-22 09:18:04, malware, c205ef6e42e648a48a0917d9fae8c12c, http://113.229.189.231:42759/bin.sh
-139427, 2024-05-22 09:18:03, 2024-05-22 09:18:03, malware, 077297a9bb1f47189ab5fe543796d7dc, http://112.248.100.137:54999/bin.sh
