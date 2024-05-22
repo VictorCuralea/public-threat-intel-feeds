@@ -6,9 +6,16 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-05-22 16:00:01 UTC
+# UPDATE: 2024-05-22 17:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+139808, 2024-05-22 16:40:13, 2024-05-22 16:40:13, phishing, 7db5546504df0dd82a8142f483919db5, http://afrfaerdfdafvfgdfg43535fdgw53443-sharepoint-file.pages.dev
+139807, 2024-05-22 16:34:10, 2024-05-22 16:34:10, phishing, e81ebee3f38e4fc88972248e07a6829f, http://bikonyemegomtoneannemoooasdwuronnenyemdigachromegosobakili.pages.dev
+139806, 2024-05-22 16:28:17, 2024-05-22 16:28:17, phishing, f0bec9271f5a0cee44dfd21265e59c14, http://zylky.com
+139805, 2024-05-22 16:14:46, 2024-05-22 15:14:23, phishing, c64af7fd265444af8f35d260759eef0b, https://taracapelllepro.wixsite.com/application-de-mise
+139804, 2024-05-22 16:03:16, 2024-05-22 16:03:16, phishing, 670e16af4017137fa3df750ec7bfc524, http://office64c916233e8897fc0034fabc17d40b0764c916233e8897fc0034fabc1.mailsender.workers.dev/
+139803, 2024-05-22 16:03:07, 2024-05-22 16:03:07, phishing, 98a7d153ff41897a0cf3bc18ce9bf424, http://hello-world-throbbing-dew-a4a2.spineynorman48.workers.dev/
+139802, 2024-05-22 16:02:25, 2024-05-22 16:02:25, phishing, e8216b7eb7a04022bd1d977e021d69cc, https://telegram.tme-viral.com/
 139801, 2024-05-22 15:52:13, 2024-05-22 15:52:13, phishing, fdb30563429f24bf997723fc7b15fb67, http://expertbillingpdf.pages.dev
 139800, 2024-05-22 15:48:24, 2024-05-22 15:48:24, phishing, be7c739b64daa87e780c88dc044ff581, https://www.preparaconquista.com.br/wp-includes/sodium_compat/namespaced/Core/curve/
 139799, 2024-05-22 15:41:42, 2024-05-22 15:14:15, phishing, 6a4650fd6a5ada2a8ac39b104a18e5dd, https://dev-id-089574.pantheonsite.io/dhaf
@@ -502,10 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 139311, 2024-05-22 05:24:19, 2024-05-22 05:24:19, malware, 62acf8c1c4984ff8863621a842fe299e, http://42.224.250.154:40428/
 139310, 2024-05-22 05:24:17, 2024-05-22 05:24:17, malware, d3e8665c53794f4aa8ea7fdf88418ad1, http://42.224.209.162:34028/i
 139309, 2024-05-22 05:24:07, 2024-05-22 05:24:07, malware, 58cc4e941a63402f81218f8655f982e9, http://222.219.45.142:39183/Mozi.a
-139308, 2024-05-22 05:24:01, 2024-05-22 05:24:01, malware, 2c17390b6e9a4c729c5a1488e9d82a7e, http://222.140.178.138:52217/i
-139307, 2024-05-22 05:23:59, 2024-05-22 05:23:59, malware, 742c5083271a4be4809f80cab61a3881, http://219.157.176.120:48424/Mozi.m
-139306, 2024-05-22 05:23:58, 2024-05-22 05:23:58, malware, aad33235395a42bf83de64ae654db2af, http://219.157.159.67:46459/bin.sh
-139305, 2024-05-22 05:23:56, 2024-05-22 05:23:56, malware, 7d50696f66e2445e95c7c5d656f934d7, http://182.121.80.120:40040/i
-139304, 2024-05-22 05:23:54, 2024-05-22 05:23:54, malware, d0e8feda114643868e9ac40e86d29fb2, http://182.120.49.203:48383/i
-139303, 2024-05-22 05:23:53, 2024-05-22 05:23:53, malware, 6584ad139ade4e3193c7d976416812c7, http://182.116.35.173:41139/i
-139302, 2024-05-22 05:23:43, 2024-05-22 05:23:43, malware, d880a3999ba64f5facfaf363e94ffa88, http://123.14.3.17:33409/bin.sh
