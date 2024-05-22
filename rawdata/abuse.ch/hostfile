@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-22 10:56:32 UTC                        #
+# Last updated: 2024-05-22 13:06:43 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	bipto.org
+127.0.0.1	jobresurs.ru
+127.0.0.1	tonybabb.com
 127.0.0.1	merckllc.top
 127.0.0.1	infres.in
 127.0.0.1	alliancebbs.com
@@ -11959,9 +11962,4 @@
 127.0.0.1	voice.testyteste.com
 127.0.0.1	jooshorks.pw
 127.0.0.1	kir.odaire.top
-127.0.0.1	6coinc.zapto.org
-127.0.0.1	thebestthings1337.online
-127.0.0.1	midatlanticlabel.com
-127.0.0.1	limeerror.org
-127.0.0.1	risenpeaches.org
-# Number of entries: 11958
+# Number of entries: 11956
