@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-05-22 20:00:01 UTC
+# UPDATE: 2024-05-22 21:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+139898, 2024-05-22 20:58:10, 2024-05-22 20:58:10, phishing, abcb9431796de131845786ae68d0a081, http://inowishyoutheweyidonseeomonobebobojuiceiswearomotoshansheb.pages.dev
+139897, 2024-05-22 20:46:19, 2024-05-22 20:46:19, phishing, cd6e8dbd794759753006792658610224, http://9rs334.d831920d2024835a5639fc55.workers.dev
+139896, 2024-05-22 20:34:13, 2024-05-22 20:34:13, phishing, 8ac2a781fab518ec275fa8b4844320b6, http://secure.d831920d2024835a5639fc55.workers.dev
+139895, 2024-05-22 20:00:15, 2024-05-22 20:00:15, phishing, 8675a58674bbad2d490d9750d26965aa, https://bt-104190.weeblysite.com/
 139894, 2024-05-22 19:36:19, 2024-05-22 19:36:19, phishing, 95a726dc8e683f73bd67ee6fa662b1e6, http://preflixdevmigracx.pages.dev
 139893, 2024-05-22 19:28:13, 2024-05-22 19:28:13, phishing, 35d7369322309893e0ebbf996bbf3de3, http://admin-48e.pages.dev
 139892, 2024-05-22 19:24:18, 2024-05-22 19:24:18, malware, 4f5b2d057fb5465cac804aa2a1a8c4a9, http://61.53.74.247:34840/i
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 139401, 2024-05-22 07:22:11, 2024-05-22 07:22:11, malware, 6bf2153a616140348d901e842174f0f2, http://42.225.231.120:38757/bin.sh
 139400, 2024-05-22 07:22:09, 2024-05-22 07:22:09, malware, 2d114e3db0da448992af7b9341961a16, http://39.77.240.227:39363/Mozi.m
 139399, 2024-05-22 07:22:08, 2024-05-22 07:22:08, malware, 3cc93b0ab3f743729d2d2669ba41c0b0, http://39.77.240.227:39363/i
-139398, 2024-05-22 07:22:06, 2024-05-22 07:22:06, malware, b046076bdc244761b7c7daac714036ed, http://37.255.208.94:39269/i
-139397, 2024-05-22 07:22:02, 2024-05-22 07:22:02, malware, a1150090c4cb48a092ef7c2c22df5beb, http://37.255.208.94:39269/bin.sh
-139396, 2024-05-22 07:21:54, 2024-05-22 07:21:54, malware, 9e5c45ffe3b34958b081adf3ee254aec, http://223.12.176.62:36547/i
-139395, 2024-05-22 07:21:51, 2024-05-22 07:21:51, malware, 3cdff229711a405ab837abed4562062b, http://222.140.182.255:40890/i
