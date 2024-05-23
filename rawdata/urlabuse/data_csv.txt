@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-05-23 08:00:01 UTC
+# UPDATE: 2024-05-23 09:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+140140, 2024-05-23 08:28:17, 2024-05-23 08:28:17, phishing, 2594365fcf05a0ce9419ae4a9a2c9dc9, https://idch-estv.com/ID8391032/
+140139, 2024-05-23 08:18:17, 2024-05-23 08:18:17, phishing, 02c850a4646733f93def86e11eb2e35e, http://purple-lake-8a74.fzheboy.workers.dev
+140138, 2024-05-23 08:04:16, 2024-05-23 08:04:16, phishing, a3848e154f42a3808e8d201e8fcaaff9, http://haker.coinbili.com
 140137, 2024-05-23 07:50:16, 2024-05-23 07:50:16, phishing, 701359d509edb5b55ef21ee87c76869f, http://jupitermainfixchain.pages.dev
 140136, 2024-05-23 07:44:59, 2024-05-23 07:30:12, phishing, 17fe2b0aff373a87491848a467a25823, https://senkys.netcop.pro/
 140135, 2024-05-23 07:44:49, 2024-05-23 07:26:15, phishing, f9225aa61ffa2841df18ae83452071ee, https://connecct-i0ie.onrender.com/
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 139643, 2024-05-22 11:24:51, 2024-05-22 11:24:51, malware, 48113a7b04fa42bc938196a66f628255, http://94.178.199.214:50213/bin.sh
 139642, 2024-05-22 11:24:49, 2024-05-22 11:24:49, malware, 3654ec6d67e94db19f9fae2f3eb3190a, http://61.53.89.234:51199/i
 139641, 2024-05-22 11:23:19, 2024-05-22 11:23:19, malware, dd4d593d9760431b80733ceb0f50721a, http://27.207.180.213:60440/bin.sh
-139640, 2024-05-22 11:23:15, 2024-05-22 11:23:15, malware, 0c83eccdb41e46938b92e837a06ef115, http://182.127.154.78:42928/i
-139639, 2024-05-22 11:23:09, 2024-05-22 11:23:09, malware, d16a5840ce724d048b7d4083eace5d26, http://167.179.187.138:39431/Mozi.m
-139638, 2024-05-22 11:23:07, 2024-05-22 11:23:07, malware, 07deaf937793488e8d973a4def3de519, http://139.218.14.95:37275/Mozi.m
