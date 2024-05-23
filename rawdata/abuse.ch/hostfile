@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-23 18:16:12 UTC                        #
+# Last updated: 2024-05-23 19:29:43 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	njratvtope30.ddns.net
 127.0.0.1	powershell.skype-api.co.uk
 127.0.0.1	skype-api.co.uk
 127.0.0.1	skype-api.co.uk
@@ -11859,4 +11860,4 @@
 127.0.0.1	partner-infoservice.online
 127.0.0.1	nsff.aallianz.com.tw
 127.0.0.1	ns.grp.jpn.com
-# Number of entries: 11853
+# Number of entries: 11854
