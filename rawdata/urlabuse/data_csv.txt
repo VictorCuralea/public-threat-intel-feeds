@@ -6,9 +6,16 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-05-23 20:00:01 UTC
+# UPDATE: 2024-05-23 21:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+140912, 2024-05-23 20:52:12, 2024-05-23 20:52:12, phishing, f265c5896562d5835d906f1811ed548c, http://wex.pages.dev
+140911, 2024-05-23 20:52:11, 2024-05-23 20:52:11, phishing, 5e3847b92c71d072334928f35422e17c, https://bt-23-2024.webflow.io/
+140910, 2024-05-23 20:48:13, 2024-05-23 20:48:13, phishing, 69b3c06c6c1434c88678314384503f1e, https://bt-5-23-2024.webflow.io/
+140909, 2024-05-23 20:42:13, 2024-05-23 20:42:13, phishing, da324b5898c3ee4ce7522205c2ca1e8a, https://bt-acada-5-23-2024.webflow.io/
+140908, 2024-05-23 20:32:14, 2024-05-23 20:32:14, phishing, f47d85edf3f39d90ff51e73640a55091, https://bt-community-5-23-2024.webflow.io/
+140907, 2024-05-23 20:14:19, 2024-05-23 20:14:19, phishing, d1e9bd9a14da65e31f6233ca4f5a99ae, https://amro.vn/info/
+140906, 2024-05-23 20:12:17, 2024-05-23 20:12:17, phishing, 71134c5c6b83e8090f4ab053c317fbf5, https://samara-kintar.b12sites.com/page1
 140905, 2024-05-23 19:58:15, 2024-05-23 19:58:15, phishing, 6ecd26770e80a3d47e4108ba46508676, https://members.simplylessbackpain.com/wp-content/themes/-/SSBB/
 140904, 2024-05-23 19:44:36, 2024-05-23 18:24:15, phishing, cc92d7d4ef28cb2c3da2e1a7f6476552, https://viseca-one-app-aktualisieren.codeanyapp.com/one/update.php
 140903, 2024-05-23 19:44:01, 2024-05-23 17:32:17, phishing, 920f9db5b1fdcf2dd5d2bd1ac0d3d77f, https://viseca-one-app-aktualisieren.codeanyapp.com/one/
@@ -502,10 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 140415, 2024-05-23 09:20:43, 2024-05-23 09:20:43, malware, 82a66b8f8052415982bc1768a658cf70, http://59.97.126.194:44967/bin.sh
 140414, 2024-05-23 09:20:41, 2024-05-23 09:20:41, malware, 11eae9b95b62402d9915c60ce57d05dd, http://59.93.21.105:47416/bin.sh
 140413, 2024-05-23 09:20:39, 2024-05-23 09:20:39, malware, de698a3c99e94964af005f336e20448f, http://59.178.71.233:46881/i
-140412, 2024-05-23 09:20:37, 2024-05-23 09:20:37, malware, 516fe3abf9664c339b20935d2ac65267, http://59.178.71.233:46881/bin.sh
-140411, 2024-05-23 09:20:27, 2024-05-23 09:20:27, malware, 0cb3ec2c9efa49da87bd901cea9a4ae8, http://59.178.70.209:42934/i
-140410, 2024-05-23 09:20:25, 2024-05-23 09:20:25, malware, 73d3cedf278e4b4194ee82734d2cee9a, http://58.115.174.26:23231/i
-140409, 2024-05-23 09:20:07, 2024-05-23 09:20:07, malware, bc9c92e3288d4dfbbfe897ffb7a99888, http://5.42.65.64/download.php?pub=inte
-140408, 2024-05-23 09:20:06, 2024-05-23 09:20:06, malware, 6b9cca24ba6f48ddb03ff79c86c70513, http://51.182.145.71:22854/i
-140407, 2024-05-23 09:20:05, 2024-05-23 09:20:05, malware, a8d185e889e942faa2f963aa78755bd2, http://5.102.53.75:61232/i
-140406, 2024-05-23 09:20:02, 2024-05-23 09:20:02, malware, 61e8333dfd3a498a8ee4ddd272cb8267, http://49.213.235.2:33727/i
