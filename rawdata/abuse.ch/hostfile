@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-23 05:32:08 UTC                        #
+# Last updated: 2024-05-23 12:50:48 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	www.bitdefenders.shop
 127.0.0.1	womendonotdothat.com
 127.0.0.1	bipto.org
 127.0.0.1	jobresurs.ru
@@ -11848,4 +11849,4 @@
 127.0.0.1	nsff.aallianz.com.tw
 127.0.0.1	ns.grp.jpn.com
 127.0.0.1	prime.topendpower.top
-# Number of entries: 11842
+# Number of entries: 11843
