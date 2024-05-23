@@ -1,11 +1,22 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-23 12:50:48 UTC                        #
+# Last updated: 2024-05-23 18:16:12 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	powershell.skype-api.co.uk
+127.0.0.1	skype-api.co.uk
+127.0.0.1	skype-api.co.uk
+127.0.0.1	powershell.skype-api.co.uk
+127.0.0.1	wonderbooth.com.my
+127.0.0.1	newsddawork.3utilities.com
+127.0.0.1	icpanel.hackcrack.io
+127.0.0.1	automatia.in
+127.0.0.1	sssteell-com.asia
+127.0.0.1	hydeoutent.com
+127.0.0.1	spygate.myftp.biz
 127.0.0.1	www.bitdefenders.shop
 127.0.0.1	womendonotdothat.com
 127.0.0.1	bipto.org
@@ -11848,4 +11859,4 @@
 127.0.0.1	partner-infoservice.online
 127.0.0.1	nsff.aallianz.com.tw
 127.0.0.1	ns.grp.jpn.com
-# Number of entries: 11842
+# Number of entries: 11853
