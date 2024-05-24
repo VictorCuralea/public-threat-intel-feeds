@@ -6,9 +6,16 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-05-24 06:00:02 UTC
+# UPDATE: 2024-05-24 07:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+141182, 2024-05-24 06:45:28, 2024-05-24 06:45:28, phishing, 464f4179ce2b9ab7536aae35863a65ad, http://smart-hpl-322344.pages.dev
+141181, 2024-05-24 06:06:14, 2024-05-24 06:06:14, phishing, 5da7b934ee158471c967c401d0733787, http://lhpbg2.pages.dev
+141180, 2024-05-24 06:02:21, 2024-05-24 06:02:21, hacked, e75bd110b42f9a5be9797192ed3a59dd, https://premiumaerconditionat.ro/
+141179, 2024-05-24 06:02:19, 2024-05-24 06:02:19, hacked, 30ff7e6eee3e0d8493922889c0567cbf, https://theultravioletofbeing.com/index.html/
+141178, 2024-05-24 06:02:18, 2024-05-24 06:02:18, hacked, 640a410421502c5af1917cbceeefad76, https://williamdouglasbooks.org/
+141177, 2024-05-24 06:00:28, 2024-05-24 06:00:28, phishing, f7803430f64541536e592165f8686805, https://mjlib.in/Mrityunjay/wp-content/suissbl/residential/
+141176, 2024-05-24 06:00:19, 2024-05-24 06:00:19, phishing, d465b8e50a4ca04092394284c4f2c1dd, https://www.curious24world.com/css/sp/MitID/
 141175, 2024-05-24 05:52:11, 2024-05-24 05:52:11, phishing, c1eaa924f02d9e2d96276dd41e5e5ead, http://sgw4w24.pages.dev
 141174, 2024-05-24 05:40:14, 2024-05-24 05:40:14, phishing, 7d658caa608850e4193d25c1c4d55484, https://10f37d7.wcomhost.com/spass/login.php
 141173, 2024-05-24 05:38:16, 2024-05-24 05:38:16, phishing, 4e5285247fc160ea9f2bddbe24ee647d, https://vedareeen.blogspot.com/
@@ -502,10 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 140685, 2024-05-23 15:22:52, 2024-05-23 15:22:52, malware, 19c6253a7476467db9297fad522747c6, http://117.214.13.61:46198/Mozi.m
 140684, 2024-05-23 15:22:49, 2024-05-23 15:22:49, malware, d697b8e3795d421c992009a735388a6b, http://117.213.91.56:34038/Mozi.m
 140683, 2024-05-23 15:22:32, 2024-05-23 15:22:32, malware, e3c3e55ee51a47efa2131446810e8e6f, http://117.212.162.238:46930/bin.sh
-140682, 2024-05-23 15:22:31, 2024-05-23 15:22:31, malware, 8c95d88972b849e2949eae630eaec43b, http://117.212.162.116:56536/bin.sh
-140681, 2024-05-23 15:21:57, 2024-05-23 15:21:57, malware, b3bfeb14472447caaa10c626444e34b8, http://117.204.202.241:55328/Mozi.m
-140680, 2024-05-23 15:21:54, 2024-05-23 15:21:54, malware, b59e0dc9b9e1435298c7962de6beb95c, http://117.204.202.145:34796/Mozi.m
-140679, 2024-05-23 15:20:35, 2024-05-23 15:20:35, malware, e346a26f225d43b8b8616e7b2813d8b3, http://117.199.76.123:36690/i
-140678, 2024-05-23 15:20:21, 2024-05-23 15:20:21, malware, 95c54772ba1a4fe58190276396e33266, http://115.56.165.31:44576/bin.sh
-140677, 2024-05-23 15:20:20, 2024-05-23 15:20:20, malware, 97f658cf77f34d4197a3dd51f491b5dc, http://115.55.226.56:33244/i
-140676, 2024-05-23 15:20:07, 2024-05-23 15:20:07, malware, 1f2ad46ae3364b1cbffd65286f64eb54, http://112.248.185.149:56766/Mozi.m
