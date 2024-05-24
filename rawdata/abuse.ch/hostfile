@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-24 05:01:43 UTC                        #
+# Last updated: 2024-05-24 09:16:14 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	api.ziekte.news
+127.0.0.1	service-hvcrn7y8-1257783886.gz.tencentapigw.com.cn
 127.0.0.1	valdepian.com
 127.0.0.1	njratvtope30.ddns.net
 127.0.0.1	powershell.skype-api.co.uk
@@ -11851,5 +11853,4 @@
 127.0.0.1	alevkx42.top
 127.0.0.1	wdb.life
 127.0.0.1	b2.rainbowl.shop
-127.0.0.1	ftp.siscop.com.co
-# Number of entries: 11846
+# Number of entries: 11847
