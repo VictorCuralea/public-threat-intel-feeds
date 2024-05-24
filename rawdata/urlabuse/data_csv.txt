@@ -6,9 +6,28 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-05-24 18:00:01 UTC
+# UPDATE: 2024-05-24 19:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+141973, 2024-05-24 18:48:13, 2024-05-24 18:48:13, phishing, 7e686a7d1b07ab4e537c7231baecc90d, https://www.support-recovery.adkynet.eu/instagram/login.html
+141972, 2024-05-24 18:46:21, 2024-05-24 18:40:14, phishing, 99a8d5eceddefc63f7785975c67cca2c, https://gitlab.www.sitemaps.identifiez-vous-sfr.boutique/
+141971, 2024-05-24 18:46:13, 2024-05-24 18:46:13, phishing, 7e5c3b24c98dbec959e884ce93a813cc, http://support-recovery.adkynet.eu
+141970, 2024-05-24 18:34:05, 2024-05-24 18:30:14, phishing, 1b2c02137ec0f6f181aa45b599e8b70e, https://www.sfr-ma-ligne.com/
+141969, 2024-05-24 18:33:42, 2024-05-24 18:20:17, phishing, 814af73dd4b00b2f542d384614cf419c, https://www.gitlab.sfr-offre-mobile.points-fidelite.live/
+141968, 2024-05-24 18:33:28, 2024-05-24 18:10:15, phishing, 492fa9795ab9419bc112a7eb64015af2, https://www.gitlab.www.sitemaps.identifiez-vous-sfr.boutique/
+141967, 2024-05-24 18:33:13, 2024-05-24 18:02:19, phishing, cb129914ae7cf0eacc01c92bd30a945d, https://cloudflare-ipfs.com/ipfs/bafybeidwqoj5hrqqjgbcx6f4zaqjtzsd6umol2srm3zbh56d2pkccne244/newfilepeor.html
+141966, 2024-05-24 18:32:31, 2024-05-24 17:50:14, phishing, 4ff1a9b87bfaa7ff635ca9cf85b7b7f2, https://www.xn--tekerk-7gb.com/backup/index.php
+141965, 2024-05-24 18:32:15, 2024-05-24 18:32:15, phishing, 2cb1ec196f2d3d08f7df3bad136b54a7, http://tgadminuser.ftwerst.sbs
+141964, 2024-05-24 18:32:09, 2024-05-24 17:40:15, phishing, 20041cb72924bfef1b0120ffe7bdc3a0, https://costumerhelpdesk.online/wpgroup/
+141963, 2024-05-24 18:31:11, 2024-05-24 18:31:11, phishing, a34e2c5e03fd0bc8a5305169d39e10c1, http://aeon.benechia.com
+141962, 2024-05-24 18:30:59, 2024-05-24 17:12:15, phishing, 573b1408f0c297cfe582204b6f9a4701, https://www.dropbox.com/scl/fi/gwpqp064la5fj73ylb80z/BT-Broadband.papert?dl=0
+141961, 2024-05-24 18:30:11, 2024-05-24 18:30:11, phishing, edd684a13bb3cc47a4d71cfe350c491b, https://callthehome.weeblysite.com
+141960, 2024-05-24 18:29:36, 2024-05-24 17:04:13, phishing, abee592258b7c4b51297f37eea428242, https://standardresume.co/r/BTINTERNETRKzY28vXLmcJDAGSTK6P
+141959, 2024-05-24 18:20:52, 2024-05-24 18:20:52, phishing, b8f988951d3f158529d2a6b83bf7ce49, http://aeon.childhood61.com
+141958, 2024-05-24 18:15:38, 2024-05-24 18:15:38, phishing, 9f2e026987fc3c73de9c22619b113d6c, http://aeon.pk8375.com
+141957, 2024-05-24 18:15:22, 2024-05-24 18:15:22, phishing, 0f9b33174d0a13368dfda657a717fded, http://aeon.baliae.com
+141956, 2024-05-24 18:12:33, 2024-05-24 18:12:33, phishing, 992c96b8b63f708e420d5d9229d25e80, http://aeon.huneb.com
+141955, 2024-05-24 18:06:30, 2024-05-24 18:06:30, phishing, ad2ada77fce7d5287205980223355280, http://aeon.xiaorenwu2020.com
 141954, 2024-05-24 17:40:15, 2024-05-24 17:40:15, phishing, 8024c1d797e93da210733cfd7a3ce40f, http://wdappnode.site
 141953, 2024-05-24 17:24:16, 2024-05-24 17:24:16, phishing, 530a66b00edd754aba05435e19228f84, http://livemigrazuarnse.pages.dev
 141952, 2024-05-24 17:23:42, 2024-05-24 17:23:42, malware, 4fad632c57c24b3aa220ebd99aace424, http://85.101.247.169:37656/
@@ -490,22 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 141476, 2024-05-24 09:20:31, 2024-05-24 09:20:31, malware, b794021165a247ab93793a5bc0f2daf2, http://5.182.210.52/bot.arm5
 141475, 2024-05-24 09:20:31, 2024-05-24 09:20:31, malware, e557c6c9801843a5aa5c0e8974909977, http://5.182.210.52/bot.arm
 141474, 2024-05-24 09:20:30, 2024-05-24 09:20:30, malware, 59f07aed7b1242578ef727fc9fdc635b, http://5.102.53.85:61232/i
-141473, 2024-05-24 09:20:26, 2024-05-24 09:20:26, malware, 61fce2e70a9e48d5b3cf210b461fc71d, http://5.102.53.72:61232/i
-141472, 2024-05-24 09:20:24, 2024-05-24 09:20:24, malware, f429d18db7094ceea6647400cfa11e2c, http://5.102.53.66:61232/i
-141471, 2024-05-24 09:20:22, 2024-05-24 09:20:22, malware, 19f4a89df0b84f7ea224fd771ecc2a4f, http://49.89.148.45:39932/bin.sh
-141470, 2024-05-24 09:20:19, 2024-05-24 09:20:19, malware, a686f9b0d68c4e70afd511107d8fb060, http://46.238.228.206:62655/i
-141469, 2024-05-24 09:20:18, 2024-05-24 09:20:18, malware, 0f67ec6d827e4ab894f8e911edd445dc, http://46.200.1.171:38760/Mozi.m
-141468, 2024-05-24 09:20:17, 2024-05-24 09:20:17, malware, 2c95c248651f4d2a89d81f672203155f, http://45.94.31.103:222/h.jpg
-141467, 2024-05-24 09:18:54, 2024-05-24 09:18:54, malware, 575b65d0ae974c7484bb51ff480db81b, http://45.115.254.194:57029/i
-141466, 2024-05-24 09:18:51, 2024-05-24 09:18:51, malware, 18b02980009d430b837908764dce9bc7, http://43.249.52.210:12166/i
-141465, 2024-05-24 09:18:48, 2024-05-24 09:18:48, malware, 35e4f1f853da44beb970f7f5896471f5, http://42.7.98.2:43458/i
-141464, 2024-05-24 09:18:46, 2024-05-24 09:18:46, malware, 520d133b434b4d41bd6a6a38aa8f4a94, http://42.7.98.2:43458/bin.sh
-141463, 2024-05-24 09:18:44, 2024-05-24 09:18:44, malware, 4304d6cc44424c64803d7504f9d95ff7, http://42.7.120.100:48461/bin.sh
-141462, 2024-05-24 09:18:43, 2024-05-24 09:18:43, malware, 404632e9d77044eb9666574628a1c2b5, http://42.57.179.25:59284/Mozi.m
-141461, 2024-05-24 09:18:41, 2024-05-24 09:18:41, malware, 0660c2617ad04e36b9f643931f9e80d4, http://42.56.162.165:57199/Mozi.m
-141460, 2024-05-24 09:18:40, 2024-05-24 09:18:40, malware, ab903492b17c4e98a96322cfdd3a3cb0, http://42.55.234.74:39410/i
-141459, 2024-05-24 09:18:38, 2024-05-24 09:18:38, malware, 3733105c99224436a443a8fd3ac79d28, http://42.55.234.74:39410/bin.sh
-141458, 2024-05-24 09:18:36, 2024-05-24 09:18:36, malware, 97d60118957644b8801b2f4303b9e0c4, http://42.54.128.63:52336/bin.sh
-141457, 2024-05-24 09:18:35, 2024-05-24 09:18:35, malware, db83f073bdf245a48b6c0192cafd0730, http://42.5.229.69:59284/Mozi.m
-141456, 2024-05-24 09:18:33, 2024-05-24 09:18:33, malware, c4d7d591d86542f6ab3079afc36d5ab9, http://42.5.229.69:59284/i
-141455, 2024-05-24 09:18:32, 2024-05-24 09:18:32, malware, 2134732e2c784c32a067e12785f155b6, http://42.5.229.69:59284/bin.sh
