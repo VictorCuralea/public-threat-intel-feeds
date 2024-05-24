@@ -6,9 +6,17 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-05-24 02:00:01 UTC
+# UPDATE: 2024-05-24 03:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+141056, 2024-05-24 02:54:11, 2024-05-24 02:54:11, phishing, 22a21127277273df36208f9014adb855, http://02onxsw.pages.dev
+141055, 2024-05-24 02:46:15, 2024-05-24 02:46:15, phishing, 30b4f75aee5b1235879acaeb45b06583, http://web.adctweb.club
+141054, 2024-05-24 02:42:15, 2024-05-24 02:42:15, phishing, 114b5aea504d86f23fdcc6f9c7ee8bd6, http://web.ba213.club
+141053, 2024-05-24 02:42:13, 2024-05-24 02:42:13, phishing, 08054922d172e1254004a930fbc87f81, http://77rt.pages.dev
+141052, 2024-05-24 02:40:11, 2024-05-24 02:40:11, phishing, dc19f8972956f28b3284076c7074a998, http://h3h6g69yiweh83mailsonline6t54fg77b.pages.dev
+141051, 2024-05-24 02:30:13, 2024-05-24 02:30:13, phishing, 473b1c519b2a6eba2d2055c51cfa5519, http://nodechain-sponge.pages.dev
+141050, 2024-05-24 02:10:11, 2024-05-24 02:10:11, phishing, 5e34423ea27aa0ff79e5023d077acc71, http://h3h8g78yiweh83mailsonline6t54fg77b.pages.dev
+141049, 2024-05-24 02:04:39, 2024-05-24 02:04:39, phishing, cc4665d84f126f26aee70bc10bc9a5a7, http://smart-hpl-32234.pages.dev
 141048, 2024-05-24 01:50:12, 2024-05-24 01:50:12, phishing, 4314cc0aa0e38815e0ff08a5d8be904d, http://h3h6g78yiweh83mailsonline6t54fg77b.pages.dev
 141047, 2024-05-24 01:32:11, 2024-05-24 01:32:11, phishing, 736c05426f78223142b1ee46b3882f86, http://eedd33.pages.dev
 141046, 2024-05-24 01:28:11, 2024-05-24 01:28:11, phishing, 6fb7ca80945ba6850c8414aa73280ecf, http://netjyk01.pages.dev
@@ -501,11 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 140559, 2024-05-23 09:27:37, 2024-05-23 09:27:37, malware, 06e0570bf6ed4592905749dda820d06b, http://93.123.85.83/uwu/x86
 140558, 2024-05-23 09:27:37, 2024-05-23 09:27:37, malware, 4508935cc7bd4061824c5b214f045986, http://93.123.85.83/uwu/sh4
 140557, 2024-05-23 09:27:36, 2024-05-23 09:27:36, malware, 1adb710f94914491a457a49b7db3def7, http://93.123.85.83/uwu/ppc
-140556, 2024-05-23 09:27:36, 2024-05-23 09:27:36, malware, 218c82b3a6bd4785b363e9a63fb4eb2e, http://93.123.85.83/uwu/mpsl
-140555, 2024-05-23 09:27:36, 2024-05-23 09:27:36, malware, 4ee21c936f184061bcae35d1575a5d6e, http://93.123.85.83/uwu/mips
-140554, 2024-05-23 09:27:35, 2024-05-23 09:27:35, malware, 3d7d942f7b4f433eaa5eaf548b2816f2, http://93.123.85.83/uwu/m68k
-140553, 2024-05-23 09:27:35, 2024-05-23 09:27:35, malware, 350e82610e714275939398048758c11d, http://93.123.85.83/uwu/arm7
-140552, 2024-05-23 09:27:35, 2024-05-23 09:27:35, malware, 0b7330680149481c8fd71865acfcc2a8, http://93.123.85.83/uwu/arm6
-140551, 2024-05-23 09:27:34, 2024-05-23 09:27:34, malware, 94a61e120b544084b6b5c6b4e04848c8, http://93.123.85.83/uwu/arm5
-140550, 2024-05-23 09:27:34, 2024-05-23 09:27:34, malware, 919c5000497547b1a31081e7c4de0d25, http://93.123.85.83/uwu/arm
-140549, 2024-05-23 09:27:34, 2024-05-23 09:27:34, malware, 059de75c352c4dcf89ed1a68de5f3ac1, http://91.239.77.159:52042/i
