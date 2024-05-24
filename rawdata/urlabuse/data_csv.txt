@@ -6,9 +6,25 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-05-24 10:00:01 UTC
+# UPDATE: 2024-05-24 11:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+141624, 2024-05-24 10:40:12, 2024-05-24 10:40:12, phishing, c542f3ca915e05a875706275c189d190, http://dapp-rectifybugs.pages.dev
+141623, 2024-05-24 10:38:12, 2024-05-24 10:38:12, phishing, 826108d18b07d311aaa87f7d0f7c27fe, http://fghrtg2.pages.dev
+141622, 2024-05-24 10:37:18, 2024-05-24 10:37:18, phishing, 0f6611dd73925025d1ee1c40169fe445, https://btverificationpage.studio.site
+141621, 2024-05-24 10:37:02, 2024-05-24 10:18:17, phishing, c36c234140c6f1f3be7de56120f88a6d, https://www.dropbox.com/scl/fi/q7ozf44u9shk5jofznin2/Untitled.paper?rlkey=piszyn4d9ztm95541cntuf88e
+141620, 2024-05-24 10:30:30, 2024-05-24 10:30:30, phishing, 03d35b8052a61f35c314c02964374061, http://tpkecn.app
+141619, 2024-05-24 10:30:29, 2024-05-24 10:30:29, phishing, 3002481b1c4c896ff156d66f4a75cbfc, http://urfne.com
+141618, 2024-05-24 10:30:13, 2024-05-24 10:30:13, phishing, 632c284232211bf99523b3acc4b32dea, http://user.nameft.fun
+141617, 2024-05-24 10:28:16, 2024-05-24 10:28:16, phishing, 4f5e83653b37bc363d31ea92fc60deff, http://urfnc.com
+141616, 2024-05-24 10:25:12, 2024-05-24 10:25:12, phishing, 486e20f698f6944f165de5b3d1a8c9fc, http://sp-noreply-k-sensetess866.pages.dev
+141615, 2024-05-24 10:24:13, 2024-05-24 10:24:13, phishing, 5a279af1f841b5822bdf1092baee01af, http://tt.nameft.fun
+141614, 2024-05-24 10:16:12, 2024-05-24 10:16:12, phishing, eccdf942620bca0cc6afdf5e4ba6e0ab, http://urgpj.com
+141613, 2024-05-24 10:15:45, 2024-05-24 10:15:45, phishing, 59b899475b7f4f67eed242e3774b7137, https://newbtserve-102145.square.site/
+141612, 2024-05-24 10:15:33, 2024-05-24 10:14:15, phishing, 9927ebcb3d7d6eabc2c0a7bd12610033, https://travefy.com/trip/6yw9rqqrnffsqz2ae3a4xa8t59t2rlq
+141611, 2024-05-24 10:04:20, 2024-05-24 10:04:20, phishing, 8617ff21e713d74341c0aa52d224b460, https://pub-950afa4f5cd84f7ca09011c3d6e7f1eb.r2.dev/index.htm
+141610, 2024-05-24 10:04:10, 2024-05-24 10:04:10, phishing, 35e5b8a6cb66be16039c716c7c2d4f6e, http://worker-dawn-breeze-3607.hartigad.workers.dev/
+141609, 2024-05-24 10:02:57, 2024-05-24 10:02:57, phishing, 73ba64c5b34aaf85132ed29ece65c5a1, http://smart-hpl-95572.pages.dev
 141608, 2024-05-24 09:52:19, 2024-05-24 09:50:13, phishing, 9b0708c022f4d5483112fd2825ea73fa, https://eu2.contabostorage.com/ba08be90a2aa43daad9c3bf50637ab72:gen/adobe/adobe.html#test.test@ovhcloud.com
 141607, 2024-05-24 09:51:16, 2024-05-24 09:35:23, phishing, e0f569c52c51f9f4e1e3922f40f4c7a1, https://solutionfootball.com/22/VerifyCN/VerifyCN/?email=google@google.com
 141606, 2024-05-24 09:51:06, 2024-05-24 09:30:52, phishing, 29748570f01a5bcc0643667122252100, https://pl.jkm4.za.com/.lofy/aveplas.html?em=google@google.com
@@ -493,19 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 141127, 2024-05-24 05:20:18, 2024-05-24 05:20:18, malware, fa804bee6d504927827d566c1533f5e2, http://116.234.185.104:54942/i
 141126, 2024-05-24 05:20:13, 2024-05-24 05:20:13, malware, f2c4454e02c34111a1a2fc8b2a95bcdc, http://115.55.252.152:51660/i
 141125, 2024-05-24 05:20:11, 2024-05-24 05:20:11, malware, 74f7ce4ee1784e5e93b3f087cdc55fa1, http://115.55.175.9:54397/
-141124, 2024-05-24 05:20:10, 2024-05-24 05:20:10, malware, 212b70420f2640e09007da079ee9794d, http://115.51.95.120:42900/Mozi.m
-141123, 2024-05-24 05:20:08, 2024-05-24 05:20:08, malware, 61737c8922c04cc6809b7ca58a60b0f2, http://115.48.156.219:57222/i
-141122, 2024-05-24 05:20:07, 2024-05-24 05:20:07, malware, 728f6a6dd80c4c7f9bdc6a8b50befbf7, http://112.248.115.135:35357/i
-141121, 2024-05-24 05:20:05, 2024-05-24 05:20:05, malware, 5947f0e4eb484cf58c089a9265fbc058, http://112.248.115.135:35357/bin.sh
-141120, 2024-05-24 04:46:11, 2024-05-24 04:46:11, phishing, e41f21b2f7da37b780672537bafceb15, http://tryubv01.pages.dev
-141119, 2024-05-24 04:43:57, 2024-05-24 01:24:11, phishing, 3f758db5126cc61ef847167c468b12e8, https://kbphudxzaf-xn--kcoaxpnlxn-xn----c1ac4bxc-xn----p1ai.translate.goog/tvso/inmvpp/zajzygqu?YVc1bWIwQm1ZVzFsZEdWamFDNWpiMjB1ZEhjPTpqYWhoZHdweHZm+&_x_tr_sch=http&_x_tr_sl=kmcdkskn&_x_tr_tl=oebjmawx
-141118, 2024-05-24 04:42:53, 2024-05-24 01:39:26, phishing, d2976e9d38b15f6a140c4a00ef956ae2, http://url6847.medx.med.br/ls/click?upn=u001.nBXCVSM9-2FxcJUCVyP6upbhGMS8An4Zcp5diCEvQ9lIs0hZqaZV31QEjU9a-2B1MCZ1g8VLKYXXrv088sDd3I3pjg-3D-3D3hE-_U90yIN-2F9vtaly96Ud-2F63dnMzBwhCmpvlxaxB92so9KACcu5KNbndAXSfUvZxEFjno8MsOACZTq0OXDtazCCXzHixi2d2GZixfzZ3V80YoGG-2FpKUcI26GgdjLUbnETTiM9XkLU-2FBfmssPHMsarn0GzBnCerjrxs94qYbz5PPq0sP9KQ2InN2zeccLFPd4DE95qRaFnTxDvfmt0ekONoweNQ-3D-3D
-141117, 2024-05-24 04:42:45, 2024-05-24 01:43:44, phishing, a0e4d70acb6145f0c1761cf50328f4af, https://cloudflare-ipfs.com/ipfs/bafybeiautvxjxzh3at2h5hjqjdwml2grbcc2glz3pxnaxhfeis42knzw2y/webmailtox.html/
-141116, 2024-05-24 04:42:33, 2024-05-24 01:51:44, phishing, c96d9f80ef85e17319fb36b00ec744f0, https://cloudflare-ipfs.com/ipfs/bafybeih5vl2q4aylmftykrhbctw7677rkk67xxp7kln6wzlofa2o7vghmy/wefiles.html?em=google@google.com
-141115, 2024-05-24 04:42:21, 2024-05-24 01:57:50, phishing, 7b191f8e1243da46476b742ab783f652, https://firebasestorage.googleapis.com/v0/b/aloneathme.appspot.com/o/luk%2Funiversal.html?alt=media&token=5862a790-fa49-41de-832a-ac7e8ce30c1d
-141114, 2024-05-24 04:41:41, 2024-05-24 04:01:48, phishing, 1e1adef36fe8f7c38ace6bede5be8f8e, https://ipfs.io/ipfs/Qmc5xAePezEmKwPE8KKCxnAEKiZ9MjZab77hybYVgNULQA/original%20wetransfer.html#google@google.com
-141113, 2024-05-24 04:24:15, 2024-05-24 04:24:15, phishing, 45c71602b2b2aff2169c5320f03a1ddc, http://siluamankeskos.click
-141112, 2024-05-24 04:22:13, 2024-05-24 04:22:13, phishing, a26ac2fc738e67ac921d2b3b50420dff, http://h3h6g78yiweh83mailsonline6t54fg77kk.pages.dev
-141111, 2024-05-24 04:02:59, 2024-05-24 04:02:59, phishing, 0ed86a5813252b77eb905b93adab51b4, http://marutiminchem.com/loan/o365
-141110, 2024-05-24 04:02:47, 2024-05-24 04:02:47, phishing, 8a4f3322865f08e812db7171095b8fdb, http://worker-dry-haze-e3b4.carloscanejo.workers.dev/
-141109, 2024-05-24 04:02:27, 2024-05-24 04:02:27, phishing, 7010c2dadd829c4e76bb644b1281c4e1, https://telegram-grill-group.pages.dev/
