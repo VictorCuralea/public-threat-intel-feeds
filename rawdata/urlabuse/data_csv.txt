@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-05-24 22:00:02 UTC
+# UPDATE: 2024-05-24 23:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+142090, 2024-05-24 22:02:27, 2024-05-24 22:02:27, phishing, 79784df12dab3804d6f784f2808163ed, http://pub-3ff49ebb4a404b75a6c5fa20cda99eee.r2.dev/rty.html
+142089, 2024-05-24 22:02:25, 2024-05-24 22:02:25, phishing, aa6e04513e3551d0b341d2efade38128, http://notifyhubss.net/4eb99a164u669e4824lbb78cffdl4cbd476b.html__
+142088, 2024-05-24 22:00:05, 2024-05-24 21:28:15, phishing, f6fa0926231bbf893c68d0289f14d1c2, https://th5342.shop/
 142087, 2024-05-24 21:56:10, 2024-05-24 21:56:10, phishing, 89ad628f657f7a6364eb5fada336b99a, http://brandy-italian-sex.pages.dev
 142086, 2024-05-24 21:40:12, 2024-05-24 21:40:12, phishing, 762217fb9abafb16ab15818ff46134d4, http://fdgchvjhkbjlkytu.pages.dev
 142085, 2024-05-24 21:23:57, 2024-05-24 21:23:57, malware, 2a05fea56ac04c87b4b9e0faa6041f7f, http://88.226.68.156:48735/i
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 141593, 2024-05-24 09:27:35, 2024-05-24 09:27:35, malware, 87e41012c56945ceab1f93716edb1aab, http://61.1.230.169:57076/i
 141592, 2024-05-24 09:27:33, 2024-05-24 09:27:33, malware, bdd3c6b0c2ee420ebc64d8b59d8a46de, http://59.93.181.189:53428/Mozi.m
 141591, 2024-05-24 09:27:30, 2024-05-24 09:27:30, malware, e30fa5f9229a4fa8a1f6f4ee5e2ce439, http://59.89.233.129:58839/i
-141590, 2024-05-24 09:27:28, 2024-05-24 09:27:28, malware, 77dc89e2bb5e4d959c4fe8ec81ce4551, http://59.182.149.242:34909/i
-141589, 2024-05-24 09:27:26, 2024-05-24 09:27:26, malware, e3c35da68cfb4065bbd4864c5b43a717, http://59.178.246.197:36562/Mozi.m
-141588, 2024-05-24 09:27:23, 2024-05-24 09:27:23, malware, c0374835575a454ca8494007ef8f273e, http://42.238.87.157:48260/bin.sh
