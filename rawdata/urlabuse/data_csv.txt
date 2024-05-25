@@ -6,9 +6,18 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-05-25 22:00:02 UTC
+# UPDATE: 2024-05-25 23:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+142995, 2024-05-25 22:28:12, 2024-05-25 22:28:12, phishing, a930f81c1a34dfdb73df653644f2a1d4, http://yenib301.top
+142994, 2024-05-25 22:06:10, 2024-05-25 22:06:10, phishing, 95c9997227192bb2cd0537729ed6869c, http://duorders.eightcite.com
+142993, 2024-05-25 22:06:10, 2024-05-25 22:06:10, phishing, fd81269048bce57805e06c1fe1e4522d, http://worker-bold-feather-1075.tivom11927.workers.dev
+142992, 2024-05-25 22:02:41, 2024-05-25 22:02:41, phishing, 128a37a8a6cfe7b35e4dc991daa08890, http://progressive-cs-5xy.pages.dev/?user-agent=mozilla/5.0+(windows+nt+10.0;+win64;+x64)+applewebkit/537.36+(khtml,+like+gecko)+chrome/86.0.4240.75+safari/537.36%2522%2522%2522%2522%2522%2522%2522%2522%2522%2522%2522%2522%2522%2522%2522%2522%2522%2522%2522%2522%2522%2522%2522...~311~...%2522%2522%2522%2522%2522%2522
+142991, 2024-05-25 22:02:36, 2024-05-25 22:02:36, phishing, 03ead2069a5727ca68cf13279117c6ea, https://indexx-e77.pages.dev/
+142990, 2024-05-25 22:02:32, 2024-05-25 22:02:32, phishing, 983e05187e99441710bd809591860ecb, https://barbarabakerrealty-crw.pages.dev/?user-agent=mozilla/5.0%20(windows%20nt%2010.0;%20win64;%20x64)%20applewebkit/537.36%20(khtml,%20like%20gecko)%20chrome/86.0.4240.75%20safari/537.36
+142989, 2024-05-25 22:02:17, 2024-05-25 22:02:17, hacked, 36151dc535a243f134029dfe39c687c9, https://rabfitness.com/readme.html
+142988, 2024-05-25 22:00:15, 2024-05-25 22:00:15, phishing, 1adbeacf63a59e0f84e274b626fbfb8c, http://duorders.techteea.com
+142987, 2024-05-25 22:00:11, 2024-05-25 22:00:11, phishing, 313eccbd7ada0d3d39eaa356eee72280, http://duorders.exploresbnow.com
 142986, 2024-05-25 21:42:11, 2024-05-25 21:42:11, phishing, 9971fc89d4c1a6e92223ebae9addb3dd, http://showmypussyxxx33-e2x.pages.dev
 142985, 2024-05-25 21:34:14, 2024-05-25 21:34:14, phishing, dd5d852aaab17a8c488f9f15dafba10b, http://fix-chainmiscue.pages.dev
 142984, 2024-05-25 21:30:12, 2024-05-25 21:30:12, phishing, 8e26b40b8c064adfd48dfedcc421cef1, http://privatesexxx.pages.dev
@@ -500,12 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 142498, 2024-05-25 09:22:54, 2024-05-25 09:22:54, malware, bdb2b37e10d94cf08ad92299564b0490, http://117.204.206.152:34072/bin.sh
 142497, 2024-05-25 09:22:52, 2024-05-25 09:22:52, malware, 443a3a33207a4b2eae36a034dab4c5bc, http://117.204.198.211:60535/Mozi.m
 142496, 2024-05-25 09:22:50, 2024-05-25 09:22:50, malware, 57ab464197a149f6ab4fe9fc0a8001f7, http://117.204.198.188:43182/i
-142495, 2024-05-25 09:22:48, 2024-05-25 09:22:48, malware, 3241415a3cd04e21a2439947cfb3d582, http://117.204.196.31:42797/Mozi.m
-142494, 2024-05-25 09:22:26, 2024-05-25 09:22:26, malware, f3adff16b2dd4bceab21b27573c3db93, http://117.198.24.102:42469/Mozi.m
-142493, 2024-05-25 09:22:23, 2024-05-25 09:22:23, malware, a362f45ca34948d2a90031587fc02a08, http://117.194.218.8:46092/i
-142492, 2024-05-25 09:22:21, 2024-05-25 09:22:21, malware, 355e81988cd74d1a8cecf41d6d1ecec8, http://117.194.162.182:43529/bin.sh
-142491, 2024-05-25 09:22:18, 2024-05-25 09:22:18, malware, c6da4c6aea8c47f6bf044a00996c51f2, http://116.138.107.58:53076/i
-142490, 2024-05-25 09:22:17, 2024-05-25 09:22:17, malware, 26160f3753d5486393231a885389e53e, http://116.138.107.58:53076/bin.sh
-142489, 2024-05-25 09:22:15, 2024-05-25 09:22:15, malware, e90155107e8f480e8e7910115861c399, http://116.138.107.54:37951/i
-142488, 2024-05-25 09:22:13, 2024-05-25 09:22:13, malware, e8c2cc0ca91d430aaef08cd1c2910a7a, http://116.138.107.54:37951/bin.sh
-142487, 2024-05-25 09:22:12, 2024-05-25 09:22:12, malware, 1fec3c97d5e349caa17332adb8b9c868, http://115.59.24.248:52568/i

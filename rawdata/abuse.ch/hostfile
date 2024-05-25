@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-25 18:06:52 UTC                        #
+# Last updated: 2024-05-25 22:18:29 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	pt-security.ru
 127.0.0.1	updates.sublimetext.workers.dev
 127.0.0.1	catseven.top
 127.0.0.1	ghs.lidajun.lol
@@ -11832,4 +11833,4 @@
 127.0.0.1	service-l3k4wvla-1322622051.gz.apigw.tencentcs.com
 127.0.0.1	daddygarages.org
 127.0.0.1	knockaddress.xyz
-# Number of entries: 11826
+# Number of entries: 11827
