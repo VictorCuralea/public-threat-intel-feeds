@@ -6,9 +6,20 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-05-25 00:00:01 UTC
+# UPDATE: 2024-05-25 01:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+142132, 2024-05-25 00:58:13, 2024-05-25 00:58:13, phishing, f2bd4b07f58cc11ce7e884a234500b8b, http://conglomeratedapps.pages.dev
+142131, 2024-05-25 00:58:13, 2024-05-25 00:58:13, phishing, 6473035b8ccc55b3295678f5143d29a2, http://dogettidapps.pages.dev
+142130, 2024-05-25 00:56:12, 2024-05-25 00:56:12, phishing, 58022838a4e483f3aa069362ba253f5e, http://chimpzee.pages.dev
+142129, 2024-05-25 00:46:13, 2024-05-25 00:46:13, phishing, 1906d7133199dfe60ce50e766e190da6, http://6yyh6565y4wttytg4w5yw5564.pages.dev
+142128, 2024-05-25 00:42:10, 2024-05-25 00:42:10, phishing, 1964442d6e62874de013703a9d06449f, http://trtgrtf456745tg45y7yg4765755y5g565yt345document-sharepoint.pages.dev
+142127, 2024-05-25 00:40:15, 2024-05-25 00:40:15, phishing, 96bc612622162bb9efcba1f69bf65206, http://portelandia.mtalk.com.br
+142126, 2024-05-25 00:26:15, 2024-05-25 00:26:15, phishing, 661bcf423ff15adc56caccd93cd9a27e, http://radarfildirectory.pages.dev
+142125, 2024-05-25 00:26:11, 2024-05-25 00:26:11, phishing, 3b4808802d3902a962bf6c54b83e874f, http://whatsapp-naughty-girls.pages.dev
+142124, 2024-05-25 00:20:12, 2024-05-25 00:20:12, phishing, 17185883af06c55c9e264ef389eea445, http://msgr.com
+142123, 2024-05-25 00:18:16, 2024-05-25 00:18:16, phishing, fa8324ce3637faa14c0b28ecf42dce40, http://onedrive.fishfishfish.workers.dev
+142122, 2024-05-25 00:18:13, 2024-05-25 00:18:13, phishing, fed80fba1a8674f3fe1f62d4d4a9b917, http://a-b-c-d.pages.dev
 142121, 2024-05-24 23:23:10, 2024-05-24 23:23:10, malware, e750ac21e958464d986f166d09604e6e, http://61.52.157.13:38169/i
 142120, 2024-05-24 23:23:09, 2024-05-24 23:23:09, malware, 8b28275db1b44478b4aba598fe8dd68f, http://59.99.33.252:42776/bin.sh
 142119, 2024-05-24 23:22:30, 2024-05-24 23:22:30, malware, 51ff189397e44454ac0fa4013dfb9a39, http://59.92.40.89:35313/i
@@ -498,14 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 141635, 2024-05-24 11:25:56, 2024-05-24 11:25:56, malware, 1ff0bb41574f45ae9c2cc1913f29b36f, http://182.114.33.129:39848/
 141634, 2024-05-24 11:23:20, 2024-05-24 11:23:20, malware, e381e07e96cb499ab583dd52e1b82eb5, http://117.83.173.172:33858/Mozi.m
 141633, 2024-05-24 11:23:09, 2024-05-24 11:23:09, malware, b79803b0eab54ea99cdbe5984d43229d, http://117.222.255.66:34191/Mozi.m
-141632, 2024-05-24 11:23:04, 2024-05-24 11:23:04, malware, 35177db0aacc4adcabfd07a2b78565c9, http://117.222.255.66:34191/bin.sh
-141631, 2024-05-24 11:22:34, 2024-05-24 11:22:34, malware, c7b0a0e162b44c8990726df8571a01e4, http://117.213.112.72:49693/i
-141630, 2024-05-24 11:21:40, 2024-05-24 11:21:40, malware, add7f5bee8c7417f9223f77277b431bb, http://117.204.196.73:44283/i
-141629, 2024-05-24 11:21:32, 2024-05-24 11:21:32, malware, bdc2ab8c488b4167b008da4bdab4c323, http://117.199.77.72:42194/bin.sh
-141628, 2024-05-24 11:20:54, 2024-05-24 11:20:54, malware, 75bae6fc5f1844599f896c6870c7223d, http://115.63.187.10:48431/i
-141627, 2024-05-24 11:20:16, 2024-05-24 11:20:16, malware, 62f12c8d7ef646d7ba63c4af5846e704, http://113.25.164.220:51069/i
-141626, 2024-05-24 11:16:11, 2024-05-24 11:16:11, phishing, 74c41c7b3f1589022a4b10c9d2b5c52b, http://oxwfqvwviu.pages.dev
-141625, 2024-05-24 11:12:15, 2024-05-24 11:12:15, phishing, c6ee9315936d654f0ab86cd83027e7b1, https://schabospassonlinech.com/schabos/
-141624, 2024-05-24 10:40:12, 2024-05-24 10:40:12, phishing, c542f3ca915e05a875706275c189d190, http://dapp-rectifybugs.pages.dev
-141623, 2024-05-24 10:38:12, 2024-05-24 10:38:12, phishing, 826108d18b07d311aaa87f7d0f7c27fe, http://fghrtg2.pages.dev
-141622, 2024-05-24 10:37:18, 2024-05-24 10:37:18, phishing, 0f6611dd73925025d1ee1c40169fe445, https://btverificationpage.studio.site
