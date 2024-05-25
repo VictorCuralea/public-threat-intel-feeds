@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-25 10:14:02 UTC                        #
+# Last updated: 2024-05-25 12:53:14 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	catseven.top
+127.0.0.1	ghs.lidajun.lol
+127.0.0.1	certificatecenter.info
 127.0.0.1	baznas.dompetdhuaafa.biz.id
 127.0.0.1	liviste8888.softether.net
 127.0.0.1	sight.geoportal.co.id
@@ -11842,6 +11845,4 @@
 127.0.0.1	methodalapaisdd.com
 127.0.0.1	nfyuabel.com
 127.0.0.1	fertikalossf.com
-127.0.0.1	srns.matrika.cn
-127.0.0.1	yyns.matrika.cn
-# Number of entries: 11838
+# Number of entries: 11839
