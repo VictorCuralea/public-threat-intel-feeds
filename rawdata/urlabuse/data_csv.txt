@@ -6,9 +6,14 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-05-25 18:00:02 UTC
+# UPDATE: 2024-05-25 19:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+142914, 2024-05-25 18:58:20, 2024-05-25 16:02:55, phishing, d626f8e104a39d1363f151345f77ca98, https://auth-credit-suisse.cfolks.pl/direct/csx/
+142913, 2024-05-25 18:36:15, 2024-05-25 18:36:15, phishing, f7a64ee1fbb119d0652a4329f7570fff, http://tgadminuser.bacstw.icu
+142912, 2024-05-25 18:36:15, 2024-05-25 18:36:15, phishing, 89da14988a7b4318b023acf4452058f2, http://tgadminuser.bacstw.click
+142911, 2024-05-25 18:34:13, 2024-05-25 18:34:13, phishing, 7d4a0c6c50e9720275c101476865783c, http://tgadminuser.bacstw.site
+142910, 2024-05-25 18:12:13, 2024-05-25 18:12:13, phishing, 6d27f1829f4e23792b4abc91866a7d0e, http://cronosconnect.pages.dev
 142909, 2024-05-25 17:24:01, 2024-05-25 17:24:01, malware, 15571320b03945b9af80e2326875d7a5, http://61.53.219.200:45228/
 142908, 2024-05-25 17:23:59, 2024-05-25 17:23:59, malware, 9975c9ec624944aa9267027a6c74c74a, http://59.97.127.23:52150/bin.sh
 142907, 2024-05-25 17:23:28, 2024-05-25 17:23:28, malware, 5c091474c98c43bdb62e250ee98ebc30, http://59.93.181.233:37562/
@@ -504,8 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 142417, 2024-05-25 08:20:15, 2024-05-25 08:20:15, phishing, 21b2acceb7097465d059549b562f1f0d, http://web.asdfcwe.lat
 142416, 2024-05-25 08:20:15, 2024-05-25 08:20:15, phishing, b2825ccb38a3d47d8c229a2662a25f13, http://web.aceast2.cfd
 142415, 2024-05-25 08:18:21, 2024-05-25 08:18:21, phishing, 4af3c108a731de1bb25dea4ddc3b5509, http://tg.aceasts.sbs
-142414, 2024-05-25 08:18:13, 2024-05-25 08:18:13, phishing, 69a5645fdd84799b530e79cb74821bcc, http://tgadminuser.ftw211.sbs
-142413, 2024-05-25 08:18:13, 2024-05-25 08:18:13, phishing, feeb4a9bf09819c1ce0d0e252adea7d6, http://app.bceast.sbs
-142412, 2024-05-25 08:18:13, 2024-05-25 08:18:13, phishing, 3ae34bb7b9d76ad2584f83e6e2abb251, http://tgadminuser.bceast.site
-142411, 2024-05-25 08:16:13, 2024-05-25 08:16:13, phishing, 09d7c5fe5908e30c87420751c1a0bdf7, http://tgadminuser.ftscesa.cfd
-142410, 2024-05-25 08:16:13, 2024-05-25 08:16:13, phishing, 718d62162e68c84f0f6ea80edb80523d, http://tgadminuser.ftscesa.icu
