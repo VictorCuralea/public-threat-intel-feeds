@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-05-25 20:00:02 UTC
+# UPDATE: 2024-05-25 21:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+142947, 2024-05-25 20:48:10, 2024-05-25 20:48:10, phishing, ed5ef18fd850195595469d503727f8f2, http://hworks.pages.dev
+142946, 2024-05-25 20:28:10, 2024-05-25 20:28:10, phishing, d1b30e743a8e904fc281649d0d131829, http://ujklo.pages.dev
+142945, 2024-05-25 20:10:12, 2024-05-25 20:10:12, phishing, d8c14310693af9c7ade3a53170bc820f, http://everspro.pages.dev
 142944, 2024-05-25 19:25:06, 2024-05-25 19:25:06, malware, e3d1721b5f144e8a9a1730c04c95e3d7, http://93.84.86.104:53123/bin.sh
 142943, 2024-05-25 19:24:01, 2024-05-25 19:24:01, malware, 964a8437d8924aee8276a44544457f0b, http://61.53.254.74:36689/i
 142942, 2024-05-25 19:24:00, 2024-05-25 19:24:00, malware, 5f6928bf04934d0bb1f89798915d2642, http://61.53.254.74:36689/bin.sh
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 142450, 2024-05-25 09:21:22, 2024-05-25 09:21:22, malware, 0abc0a96a56c4450a86d21ffc41bc0a5, http://108.181.160.104/bins/lydra.i686
 142449, 2024-05-25 09:21:21, 2024-05-25 09:21:21, malware, 84e4d8aa67e14803a645d5ee5d7387b8, http://108.181.160.104/bins/lydra.arm7
 142448, 2024-05-25 09:21:20, 2024-05-25 09:21:20, malware, e459baa36d3b4ee39bc7284fb87ec259, http://108.181.160.104/bins/lydra.arm6
-142447, 2024-05-25 09:21:19, 2024-05-25 09:21:19, malware, df41903e3c0f4053badcc3970b42c943, http://108.181.160.104/bins/lydra.arm5
-142446, 2024-05-25 09:21:19, 2024-05-25 09:21:19, malware, 9f6b8c9455fd4a13b8835fa0fa636d4f, http://108.181.160.104/bins/lydra.arm
-142445, 2024-05-25 09:21:18, 2024-05-25 09:21:18, malware, bfc75868b2fd43d2ac5db31b9532ed75, http://103.219.154.129/rtx.exe

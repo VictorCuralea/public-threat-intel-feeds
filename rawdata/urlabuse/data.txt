@@ -6,8 +6,11 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-05-25 20:00:02 UTC
+# UPDATE: 2024-05-25 21:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 142947, "url": "http://hworks.pages.dev", "discovery": "2024-05-25 20:48:10", "added": "2024-05-25 20:48:10", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "ed5ef18fd850195595469d503727f8f2"}
+{"id": 142946, "url": "http://ujklo.pages.dev", "discovery": "2024-05-25 20:28:10", "added": "2024-05-25 20:28:10", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "d1b30e743a8e904fc281649d0d131829"}
+{"id": 142945, "url": "http://everspro.pages.dev", "discovery": "2024-05-25 20:10:12", "added": "2024-05-25 20:10:12", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "d8c14310693af9c7ade3a53170bc820f"}
 {"id": 142944, "url": "http://93.84.86.104:53123/bin.sh", "discovery": "2024-05-25 19:25:06", "added": "2024-05-25 19:25:06", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "e3d1721b5f144e8a9a1730c04c95e3d7"}
 {"id": 142943, "url": "http://61.53.254.74:36689/i", "discovery": "2024-05-25 19:24:01", "added": "2024-05-25 19:24:01", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "964a8437d8924aee8276a44544457f0b"}
 {"id": 142942, "url": "http://61.53.254.74:36689/bin.sh", "discovery": "2024-05-25 19:24:00", "added": "2024-05-25 19:24:00", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "5f6928bf04934d0bb1f89798915d2642"}
@@ -505,6 +508,3 @@
 {"id": 142450, "url": "http://108.181.160.104/bins/lydra.i686", "discovery": "2024-05-25 09:21:22", "added": "2024-05-25 09:21:22", "target": "#ELF32INTEL_v1", "reporter": "lrudbot", "AbuseType": "malware", "UUID": "0abc0a96a56c4450a86d21ffc41bc0a5"}
 {"id": 142449, "url": "http://108.181.160.104/bins/lydra.arm7", "discovery": "2024-05-25 09:21:21", "added": "2024-05-25 09:21:21", "target": "#ELF32ARM_EABI4", "reporter": "lrudbot", "AbuseType": "malware", "UUID": "84e4d8aa67e14803a645d5ee5d7387b8"}
 {"id": 142448, "url": "http://108.181.160.104/bins/lydra.arm6", "discovery": "2024-05-25 09:21:20", "added": "2024-05-25 09:21:20", "target": "#ELF32ARM_EABI4", "reporter": "lrudbot", "AbuseType": "malware", "UUID": "e459baa36d3b4ee39bc7284fb87ec259"}
-{"id": 142447, "url": "http://108.181.160.104/bins/lydra.arm5", "discovery": "2024-05-25 09:21:19", "added": "2024-05-25 09:21:19", "target": "#ELF32ARM_v1", "reporter": "lrudbot", "AbuseType": "malware", "UUID": "df41903e3c0f4053badcc3970b42c943"}
-{"id": 142446, "url": "http://108.181.160.104/bins/lydra.arm", "discovery": "2024-05-25 09:21:19", "added": "2024-05-25 09:21:19", "target": "#ELF32ARM_v1", "reporter": "lrudbot", "AbuseType": "malware", "UUID": "9f6b8c9455fd4a13b8835fa0fa636d4f"}
-{"id": 142445, "url": "http://103.219.154.129/rtx.exe", "discovery": "2024-05-25 09:21:18", "added": "2024-05-25 09:21:18", "target": "#PE32INTEL_GUI", "reporter": "lrudbot", "AbuseType": "malware", "UUID": "bfc75868b2fd43d2ac5db31b9532ed75"}
