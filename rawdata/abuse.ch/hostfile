@@ -1,11 +1,17 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-26 16:22:11 UTC                        #
+# Last updated: 2024-05-26 18:00:46 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	host-89-110-74-77.hosted-by-vdsina.com
+127.0.0.1	service-ir8o1y75-1324325235.cd.tencentapigw.com
+127.0.0.1	free2.iwaf.cn
+127.0.0.1	s2-charterschools.securportal.com
+127.0.0.1	www.loginmicrosoftadmin.shop
+127.0.0.1	service-5ba7yjpl-1303971391.bj.tencentapigw.com.cn
 127.0.0.1	auth.familysafty.com
 127.0.0.1	familysafty.com
 127.0.0.1	babycandidateoswp.shop
@@ -11815,4 +11821,4 @@
 127.0.0.1	do.wtsserv.com
 127.0.0.1	wtsserv.com
 127.0.0.1	wylns.matrika.cn
-# Number of entries: 11809
+# Number of entries: 11815
