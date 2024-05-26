@@ -1,12 +1,20 @@
 ################################################################
 # ThreatFox IOCs: recent SHA256 hashes - CSV format            #
-# Last updated: 2024-05-25 17:26:02 UTC                        #
+# Last updated: 2024-05-26 06:24:59 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
 # "first_seen_utc","ioc_id","ioc_value","ioc_type","threat_type","fk_malware","malware_alias","malware_printable","last_seen_utc","confidence_level","reference","tags","anonymous","reporter"
+"2024-05-26 06:24:59", "1275498", "e4349991ce0a2ed6e2f58e2243a6d5b3c7a795b1f6d2dcdf8817fea0e826aedc", "sha256_hash", "payload", "apk.spynote", "CypherRat", "SpyNote", "", "100", "", "None", "0", "NDA0E"
+"2024-05-26 06:24:58", "1275499", "115b902eea4ff8b4e4dca6d3d1137959c0447e862688b00973d2e8b0866c2216", "sha256_hash", "payload", "apk.spynote", "CypherRat", "SpyNote", "", "100", "", "None", "0", "NDA0E"
+"2024-05-26 06:24:58", "1275500", "d940ad081dc96a5f4ffbafefec18c555b8d87d614a4e3ca70b1a31cf556eaae3", "sha256_hash", "payload", "apk.spynote", "CypherRat", "SpyNote", "", "100", "", "None", "0", "NDA0E"
+"2024-05-26 06:24:58", "1275501", "8afc8b1d6f9c36304475b04b97bf404b789a3994f5f1aea6c480497e8b2f8ab1", "sha256_hash", "payload", "apk.spynote", "CypherRat", "SpyNote", "", "100", "", "None", "0", "NDA0E"
+"2024-05-26 06:24:57", "1275502", "e656b5933368d7d4e24c64956d57a323c46c76007aa7bb4c400771aa06808c7d", "sha256_hash", "payload", "apk.spynote", "CypherRat", "SpyNote", "", "100", "", "None", "0", "NDA0E"
+"2024-05-26 06:24:57", "1275503", "d8fa3466ff6f11a060ad6dff7e0c9c2e13935236eeafe265be650c7139b0b490", "sha256_hash", "payload", "apk.spynote", "CypherRat", "SpyNote", "", "100", "", "None", "0", "NDA0E"
+"2024-05-26 06:24:57", "1275504", "b49685e2aa967112f766b73f9b39cf6557e3f7ee77ac040d5823b91772be9766", "sha256_hash", "payload", "apk.spynote", "CypherRat", "SpyNote", "", "100", "", "None", "0", "NDA0E"
+"2024-05-26 06:24:56", "1275505", "61ef15e9eccee437915a643c86e7f5049bcee9c439360a0a9cd4818adb98fb26", "sha256_hash", "payload", "apk.spynote", "CypherRat", "SpyNote", "", "100", "", "None", "0", "NDA0E"
 "2024-05-25 17:26:02", "1275612", "194e405f98dadc88a7041b0724e31db7a92537f200c380b0e89674177ae0a963", "sha256_hash", "payload", "win.metastealer", "None", "MetaStealer", "", "95", "None", "None", "0", "Grim"
 "2024-05-25 17:23:51", "1275609", "6eb4bcd1025074e900c1d7d545f62ae9d92ba787f229b51a628ba941d708dea2", "sha256_hash", "payload", "win.redline_stealer", "RECORDSTEALER", "RedLine Stealer", "", "95", "None", "None", "0", "Grim"
 "2024-05-25 17:23:48", "1275606", "51cba9b4aefefaf72a791e1929f98553f50d643a22179a6aaac9d13f45ea8b43", "sha256_hash", "payload", "win.vidar", "None", "Vidar", "", "95", "None", "None", "0", "Grim"
@@ -125,4 +133,4 @@
 "2024-05-24 18:15:33", "1274995", "6f480d8bf96773150f0939254a71eb20e447d30580aab7abf171ecb0e0094698", "sha256_hash", "payload", "win.smokeloader", "Dofoil,Sharik,Smoke,Smoke Loader", "SmokeLoader", "2024-05-25 17:23:55", "95", "None", "None", "0", "Grim"
 "2024-05-24 11:10:32", "1274693", "499b909faf7c3e51c582693b0b67401d20efe23e65f781fc68b6f9d8e52ef2fb", "sha256_hash", "payload", "unknown", "None", "Unknown malware", "", "100", "", "backdoor,trojan", "0", "ninjacatcher"
 "2024-05-24 11:10:32", "1274694", "4b13da4e7332fb1ddee03a64cbc451140bc3178886545fa19c19b709adbf163f", "sha256_hash", "payload", "unknown", "None", "Unknown malware", "", "100", "", "backdoor,trojan", "0", "ninjacatcher"
-# Number of entries: 118
+# Number of entries: 126
