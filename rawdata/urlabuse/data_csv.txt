@@ -6,9 +6,15 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-05-26 20:00:01 UTC
+# UPDATE: 2024-05-26 21:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+144176, 2024-05-26 20:54:46, 2024-05-26 20:54:46, malware, 5f5f6fb67f954c09a582c4fe3e75da5f, https://rah-paradox.cfd/data/5762997132/payment/eU2a49Td/maeishati/download.php
+144175, 2024-05-26 20:53:56, 2024-05-26 20:53:56, phishing, a136be7a6813f563f90eb3a819ba2fba, https://rah-paradox.cfd/data/5762997132/payment/eU2a49Td/maeishati/dashbord/
+144174, 2024-05-26 20:42:13, 2024-05-26 20:42:13, phishing, 86e5f16b8fd00cdf3557d0adcdabb6b1, http://vandorvort.shop
+144173, 2024-05-26 20:26:11, 2024-05-26 20:26:11, phishing, c664550cf339769586386d826f9fa598, http://wd-bj8.pages.dev
+144172, 2024-05-26 20:24:15, 2024-05-26 20:24:15, phishing, 282923d13021ba7e4e2f778e180f72b2, http://fsmjump.com
+144171, 2024-05-26 20:16:11, 2024-05-26 20:16:11, phishing, eeeb922d2af53bae514f1db303eb891f, http://authenticationndomainmailservernow04.pages.dev
 144170, 2024-05-26 19:58:12, 2024-05-26 19:58:12, phishing, 7c72571cb22d37ac4ff68a7d0a218ba0, http://utr1.pages.dev
 144169, 2024-05-26 19:48:15, 2024-05-26 19:48:15, phishing, 0e0c46815260381cea378b61b708a907, http://xn--zopcsjoas-vpbf.wiki
 144168, 2024-05-26 19:25:19, 2024-05-26 19:25:19, malware, 1422ff5abf1c42ab8539e8a0ba340b34, http://61.53.85.117:38035/Mozi.m
@@ -503,9 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 143679, 2024-05-26 09:29:47, 2024-05-26 09:29:47, malware, 2b0da9d3de8e404190991ec2a8ee832b, http://59.89.27.247:44126/bin.sh
 143678, 2024-05-26 09:29:45, 2024-05-26 09:29:45, malware, b701d86fe63c427fb55da008295b033d, http://59.88.145.80:58138/bin.sh
 143677, 2024-05-26 09:29:43, 2024-05-26 09:29:43, malware, 03028968fde54691b2594b86c42bf2fb, http://59.88.127.70:37948/Mozi.m
-143676, 2024-05-26 09:29:41, 2024-05-26 09:29:41, malware, a7e9e32e406f4c7387432af7eb057873, http://58.59.152.24:58917/i
-143675, 2024-05-26 09:29:37, 2024-05-26 09:29:37, malware, a91ae358587b4fd88973a3a2b45e2251, http://58.59.152.24:58917/bin.sh
-143674, 2024-05-26 09:29:34, 2024-05-26 09:29:34, malware, 198bdd0a0f954754bde73df882defb48, http://58.59.152.217:40351/i
-143673, 2024-05-26 09:29:30, 2024-05-26 09:29:30, malware, 0d30565b4249444b9361b7a89e9f783d, http://5.42.65.64/files/UNIQ.file
-143672, 2024-05-26 09:29:27, 2024-05-26 09:29:27, malware, dbc3974d489948ceb00bfab24ca5ce07, http://5.42.65.64/files/msgbox2.file
-143671, 2024-05-26 09:29:26, 2024-05-26 09:29:26, malware, 5b5e0a888d7a416ebdb635147ae1c4de, http://5.42.65.64/files/msgbox1.file
