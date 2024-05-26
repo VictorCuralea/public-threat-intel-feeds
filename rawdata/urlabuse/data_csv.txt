@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-05-26 02:00:01 UTC
+# UPDATE: 2024-05-26 03:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+143094, 2024-05-26 02:52:17, 2024-05-26 02:52:17, phishing, 0bcca62d546b23168b17b7211e184808, http://b5802.top
+143093, 2024-05-26 02:14:13, 2024-05-26 02:14:13, phishing, f95c19bd085098b17b988631a00793a8, http://ndfjsghds4.pages.dev
+143092, 2024-05-26 02:12:16, 2024-05-26 02:12:16, phishing, a57ded70bcf2c797d30d6273e5a5e8e2, http://tensorbuiltmaxifi.pages.dev
 143091, 2024-05-26 01:23:10, 2024-05-26 01:23:10, malware, 080394000fb14f38b21efbf1d235d820, http://61.53.120.188:33891/bin.sh
 143090, 2024-05-26 01:23:08, 2024-05-26 01:23:08, malware, 9c6e2d233db1466796d6f53d6c513982, http://61.3.109.162:55026/i
 143089, 2024-05-26 01:23:04, 2024-05-26 01:23:04, malware, 591c5747c4f6454db2a70bc6c5c886c3, http://59.97.122.5:47082/Mozi.m
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 142597, 2024-05-25 09:26:59, 2024-05-25 09:26:59, malware, 3546d9b87bc345bd81de7cda50e290a0, http://42.232.239.129:34624/bin.sh
 142596, 2024-05-25 09:26:58, 2024-05-25 09:26:58, malware, e0adacbc483c4e828d50eb2b6131677f, http://42.230.60.116:37977/bin.sh
 142595, 2024-05-25 09:26:57, 2024-05-25 09:26:57, malware, 3627f7db7e0a4f9ba54eafe9ff0fbe4f, http://42.230.211.174:36051/i
-142594, 2024-05-25 09:26:55, 2024-05-25 09:26:55, malware, 8370186c6df24592a8800e36e024f810, http://42.230.211.174:36051/bin.sh
-142593, 2024-05-25 09:26:54, 2024-05-25 09:26:54, malware, 10f8315905c14be8ab4971a8ababb98f, http://42.227.236.233:58215/Mozi.m
-142592, 2024-05-25 09:26:52, 2024-05-25 09:26:52, malware, f4dd45c2466e483a82bd7586b65a995d, http://42.227.177.72:37015/i
