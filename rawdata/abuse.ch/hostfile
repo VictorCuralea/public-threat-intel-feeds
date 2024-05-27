@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-26 18:00:46 UTC                        #
+# Last updated: 2024-05-27 05:55:59 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	edgewell.cam
+127.0.0.1	zaragoza.ddns.net
+127.0.0.1	elbied.com
+127.0.0.1	africa.thesmalladventureguide.com
+127.0.0.1	jscodecss.com
 127.0.0.1	host-89-110-74-77.hosted-by-vdsina.com
 127.0.0.1	service-ir8o1y75-1324325235.cd.tencentapigw.com
 127.0.0.1	free2.iwaf.cn
@@ -11815,7 +11820,4 @@
 127.0.0.1	social.soft-update.services
 127.0.0.1	cdn.t411.re
 127.0.0.1	api.officeserviced.com
-127.0.0.1	archiefilmco.com
-127.0.0.1	rufflesrefined.com
-127.0.0.1	hawkish.eu
-# Number of entries: 11812
+# Number of entries: 11814
