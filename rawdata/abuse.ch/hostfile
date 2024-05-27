@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-27 12:49:16 UTC                        #
+# Last updated: 2024-05-27 13:43:17 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	bookmycooks.com
 127.0.0.1	main.cloudfronts.net
 127.0.0.1	dash.cloudflare.ovh
 127.0.0.1	control-road.gl.at.ply.gg
@@ -11826,7 +11827,4 @@
 127.0.0.1	missisanjoup.shop
 127.0.0.1	mazdakrichest.com
 127.0.0.1	riverhasus.com
-127.0.0.1	service-23oc1bm0-1322622051.gz.apigw.tencentcs.com
-127.0.0.1	social.soft-update.services
-127.0.0.1	cdn.t411.re
-# Number of entries: 11823
+# Number of entries: 11821
