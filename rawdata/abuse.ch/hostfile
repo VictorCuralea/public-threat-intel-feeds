@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-27 09:46:21 UTC                        #
+# Last updated: 2024-05-27 10:17:26 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	arcade.shinjiku.xyz
+127.0.0.1	service-hjsbgio3-1324325235.cd.tencentapigw.com
+127.0.0.1	shellmanaggggger.com
+127.0.0.1	unio.bumbleshrimp.com
 127.0.0.1	jnmanymen.ydns.eu
 127.0.0.1	edgewell.cam
 127.0.0.1	zaragoza.ddns.net
@@ -11820,5 +11824,4 @@
 127.0.0.1	service-23oc1bm0-1322622051.gz.apigw.tencentcs.com
 127.0.0.1	social.soft-update.services
 127.0.0.1	cdn.t411.re
-127.0.0.1	api.officeserviced.com
-# Number of entries: 11815
+# Number of entries: 11818
