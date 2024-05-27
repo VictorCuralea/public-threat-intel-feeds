@@ -6,8 +6,10 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-05-27 18:00:01 UTC
+# UPDATE: 2024-05-27 19:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 145410, "url": "http://smartldappfix.pages.dev", "discovery": "2024-05-27 18:36:15", "added": "2024-05-27 18:36:15", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "9ee9b952b3ae018408aa457cf3c3e407"}
+{"id": 145409, "url": "http://hello-world-falling-river-510c.dwlupton.workers.dev", "discovery": "2024-05-27 18:04:13", "added": "2024-05-27 18:04:13", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "3c973db782b1a8b69b840669b51c72a0"}
 {"id": 145408, "url": "https://nasteraze.blogspot.com/", "discovery": "2024-05-27 17:54:15", "added": "2024-05-27 17:54:15", "target": "SwissPass", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "a57e0ca4ab50ab05c6c9fcff4c0c765d"}
 {"id": 145407, "url": "https://step1raredz.blogspot.com/", "discovery": "2024-05-27 17:52:15", "added": "2024-05-27 17:52:15", "target": "SwissPass", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "bba6c1dc803bc87ae92de6cd8070f617"}
 {"id": 145406, "url": "http://waytosecureyoutokss.pages.dev", "discovery": "2024-05-27 17:36:15", "added": "2024-05-27 17:36:15", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "ae7deabae135d42e65c838ec4a64c4b2"}
@@ -506,5 +508,3 @@
 {"id": 144913, "url": "http://5.166.212.173:8399/Mozi.m", "discovery": "2024-05-27 09:29:37", "added": "2024-05-27 09:29:37", "target": "#ELF32_MIPSv1", "reporter": "lrudbot", "AbuseType": "malware", "UUID": "554c18acd132438a92100a36b9cd448b"}
 {"id": 144912, "url": "http://5.160.3.5:55660/.i", "discovery": "2024-05-27 09:29:36", "added": "2024-05-27 09:29:36", "target": "#ELF32MIPS", "reporter": "lrudbot", "AbuseType": "malware", "UUID": "1626c185b75b409caf8fb6c47de8654f"}
 {"id": 144911, "url": "http://5.102.53.85:61232/.i", "discovery": "2024-05-27 09:29:34", "added": "2024-05-27 09:29:34", "target": "#ELF32MIPS", "reporter": "lrudbot", "AbuseType": "malware", "UUID": "96a4a57870fa4148b513fa08b119fea7"}
-{"id": 144910, "url": "http://5.102.53.75:61232/.i", "discovery": "2024-05-27 09:29:31", "added": "2024-05-27 09:29:31", "target": "#ELF32MIPS", "reporter": "lrudbot", "AbuseType": "malware", "UUID": "911ab314b7c24c59b84a0c75ab210498"}
-{"id": 144909, "url": "http://5.102.53.66:61232/.i", "discovery": "2024-05-27 09:29:28", "added": "2024-05-27 09:29:28", "target": "#ELF32MIPS", "reporter": "lrudbot", "AbuseType": "malware", "UUID": "cc3a5bbe86f24902a6c55968697bfd13"}
