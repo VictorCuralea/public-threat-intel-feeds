@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-05-28 20:00:02 UTC
+# UPDATE: 2024-05-28 21:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+146610, 2024-05-28 20:30:11, 2024-05-28 20:30:11, phishing, 4b291628b25e782785f8bf1603abc23e, http://59560be5aca9c6316a3790bbd000ffc.pages.dev
+146609, 2024-05-28 20:30:10, 2024-05-28 20:30:10, phishing, 6f8ef7f783fbc9d5a74f4dee1790af03, http://worker-rapid-block-6ccf.war-in-the-fog.workers.dev
+146608, 2024-05-28 20:22:11, 2024-05-28 20:22:11, phishing, ff25e8cdb2bdfae45719fccb3ca99d7f, https://www.edizionideangelis.com/wp/ONE/clients/KZ3ruD.php?verification#_
+146607, 2024-05-28 20:17:21, 2024-05-28 20:14:16, phishing, 3ec7c5b503400aa2b8f4d01d2fec444d, https://mycss-rechung-zahlung.cfolks.pl/id/auth/ui/app/auth/flow/mycss-login/ext/login.html
 146606, 2024-05-28 19:38:13, 2024-05-28 19:38:13, phishing, cc15e7d9ebacd78bfa84ff11291c18e8, http://mergesdappsever.pages.dev
 146605, 2024-05-28 19:24:21, 2024-05-28 19:24:21, malware, 3a2dcf4672b547c7a3dbda011bb3c725, http://95.132.166.125:47468/Mozi.m
 146604, 2024-05-28 19:24:20, 2024-05-28 19:24:20, malware, 8a9e623a0e8046f09109012578c01cb1, http://61.53.73.17:51199/i
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 146113, 2024-05-28 09:11:56, 2024-05-28 09:11:56, malware, 742e472e8e2541d2baab2405e89fc1fe, http://194.169.175.19/g
 146112, 2024-05-28 09:11:56, 2024-05-28 09:11:56, malware, dcf71b8c22d44235b40bed23377efb83, http://194.169.175.19/bot.x86_64
 146111, 2024-05-28 09:11:55, 2024-05-28 09:11:55, malware, a511fec33e714e68baf3e61fc7b7086b, http://193.189.172.10:1282/.i
-146110, 2024-05-28 09:11:53, 2024-05-28 09:11:53, malware, e804242d9846470f8764a2f3f2e18870, http://190.7.153.18:39564/.i
-146109, 2024-05-28 09:11:50, 2024-05-28 09:11:50, malware, 3067f8e70b2e4310ba4a8df142f32f0a, http://190.57.128.110:62056/.i
-146108, 2024-05-28 09:11:47, 2024-05-28 09:11:47, malware, e4320e01a3354fe0b72d86810e605ddf, http://188.254.223.175:23600/.i
-146107, 2024-05-28 09:11:44, 2024-05-28 09:11:44, malware, eeeb613312da4ec393d8c9ec8ccd2992, http://188.246.177.214:62425/.i
