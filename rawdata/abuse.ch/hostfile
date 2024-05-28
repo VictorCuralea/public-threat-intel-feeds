@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-28 09:53:51 UTC                        #
+# Last updated: 2024-05-28 10:46:21 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	erxst.info
+127.0.0.1	service-b8dmmmy2-1318428097.gz.tencentapigw.com.cn
 127.0.0.1	coinbasenftapp.com
 127.0.0.1	test.fynndows.de
 127.0.0.1	myra.re
@@ -11822,4 +11824,4 @@
 127.0.0.1	nimeklroboti.info
 127.0.0.1	beksystems.com
 127.0.0.1	concgc.com
-# Number of entries: 11816
+# Number of entries: 11818
