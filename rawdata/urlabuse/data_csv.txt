@@ -6,9 +6,14 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-05-28 02:00:01 UTC
+# UPDATE: 2024-05-28 03:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+145666, 2024-05-28 02:40:11, 2024-05-28 02:40:11, phishing, d1eaf73b7866a91aee5c541a6867de95, http://dark-silence-8824.unitedcargosan5885.workers.dev
+145665, 2024-05-28 02:38:12, 2024-05-28 02:38:12, phishing, aca03c908a6a438d79f47527932e7b5b, http://rojdingserijridhsjbalsisgser04.pages.dev
+145664, 2024-05-28 02:26:11, 2024-05-28 02:26:11, phishing, 4427db86cc642a46d2a40fd62f86ac46, http://boons222.pages.dev
+145663, 2024-05-28 02:26:10, 2024-05-28 02:26:10, phishing, 83e5c1772c3fd685b95fb400b89c9b38, http://retojsbronfrs01.pages.dev
+145662, 2024-05-28 02:14:12, 2024-05-28 02:14:12, phishing, 2f11fe50a3af7b9f8dcf72cd8deb926c, http://free-for-live-cam11-9gi.pages.dev
 145661, 2024-05-28 01:36:17, 2024-05-28 01:36:17, phishing, 8d5a29c3e4cdf392116a76e4f4b3ef7a, http://opfareanontad.pages.dev
 145660, 2024-05-28 01:22:09, 2024-05-28 01:22:09, malware, 7eab021af2224fd69592b1920283386c, http://61.53.89.100:33541/i
 145659, 2024-05-28 01:22:07, 2024-05-28 01:22:07, malware, 26638b195a7e4dbbb6f9558823b7cab3, http://61.53.89.100:33541/bin.sh
@@ -504,8 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 145169, 2024-05-27 13:23:42, 2024-05-27 13:23:42, malware, bd932b044f7c47ba9d3ed9665b17025e, http://194.169.175.19/bot.arm7
 145168, 2024-05-27 13:23:41, 2024-05-27 13:23:41, malware, 69ed967de65844bf85bfaed3889f3315, http://194.169.175.19/bot.arm
 145167, 2024-05-27 13:23:41, 2024-05-27 13:23:41, malware, 831aa717554e415bbdce9a1c9fa01637, http://194.169.175.19/av.sh
-145166, 2024-05-27 13:23:41, 2024-05-27 13:23:41, malware, 6ed38385492a4374ae39654ca0b58505, http://194.169.175.19/aaa
-145165, 2024-05-27 13:23:41, 2024-05-27 13:23:41, malware, 134817235c9749eb8b7b2db6c75feacb, http://185.196.8.144:777/bb.jpg
-145164, 2024-05-27 13:23:07, 2024-05-27 13:23:07, malware, 9779b661f6904a72a4a610fa71bc82e1, http://182.121.118.52:41872/bin.sh
-145163, 2024-05-27 13:23:06, 2024-05-27 13:23:06, malware, c71035c97ef7430c88b86615afceb383, http://182.120.61.57:41610/i
-145162, 2024-05-27 13:23:04, 2024-05-27 13:23:04, malware, db9cbca2533e47dea9a8aad59ee53a5d, http://182.120.61.57:41610/bin.sh
