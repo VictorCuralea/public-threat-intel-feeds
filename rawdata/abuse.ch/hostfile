@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-28 16:33:32 UTC                        #
+# Last updated: 2024-05-28 17:31:52 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ashleypuerner.com
 127.0.0.1	jumbie.duckdns.org
 127.0.0.1	metallc.top
 127.0.0.1	telnet.8b8n.com
@@ -11813,4 +11814,4 @@
 127.0.0.1	mamutert.com
 127.0.0.1	pl.mamutert.com
 127.0.0.1	nutiensel.com
-# Number of entries: 11807
+# Number of entries: 11808
