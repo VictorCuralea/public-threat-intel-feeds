@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-28 07:02:32 UTC                        #
+# Last updated: 2024-05-28 08:40:35 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	cnc.bobungbu.com
+127.0.0.1	readmemag.com
 127.0.0.1	backup.identitynetwork.top
 127.0.0.1	backupnet.identitynetwork.top
 127.0.0.1	srv.identitynetwork.top
@@ -11818,4 +11820,4 @@
 127.0.0.1	beksystems.com
 127.0.0.1	concgc.com
 127.0.0.1	alicortech.com
-# Number of entries: 11812
+# Number of entries: 11814
