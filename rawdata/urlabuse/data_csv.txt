@@ -6,9 +6,14 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-05-28 00:00:01 UTC
+# UPDATE: 2024-05-28 01:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+145549, 2024-05-28 00:58:10, 2024-05-28 00:58:10, phishing, dbfc179ae3963949395fa1d07346b42a, http://updateserver.pages.dev
+145548, 2024-05-28 00:54:13, 2024-05-28 00:54:13, phishing, 4ed113107ffd34c53e913c66efcb70bb, http://hvn3.pages.dev
+145547, 2024-05-28 00:44:12, 2024-05-28 00:44:12, phishing, e643c5df7f80c90f003ebaefe1c4414d, http://securedachfile3.pages.dev
+145546, 2024-05-28 00:40:10, 2024-05-28 00:40:10, phishing, 5239cf06edd4b6e1c495a9d3df871c08, http://khalesikahlahari.pages.dev
+145545, 2024-05-28 00:36:13, 2024-05-28 00:36:13, phishing, c4905238c46ba000c2e7b2ae8a468e0b, http://fbscontenttest.com
 145544, 2024-05-27 23:38:15, 2024-05-27 23:38:15, phishing, 9d51ad2379621a91c29428037c303326, http://smartsecure.pages.dev
 145543, 2024-05-27 23:38:13, 2024-05-27 23:38:13, phishing, 2cfe9143a45f9e06e19f501898efd92f, http://holy-block-98ff.ss7oa048652.workers.dev
 145542, 2024-05-27 23:28:12, 2024-05-27 23:28:12, phishing, 382b9390a95018072b69da95f6161a99, http://d.ffpan.workers.dev
@@ -504,8 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 145052, 2024-05-27 09:38:19, 2024-05-27 09:38:19, malware, a6afa682371f48d1a899bf2f421d78d5, http://176.123.4.187/armv6l
 145051, 2024-05-27 09:38:18, 2024-05-27 09:38:18, malware, 0dafbc92c91c4a3ba9a6a1a3ff9518a3, http://176.123.4.187/armv4l
 145050, 2024-05-27 09:38:17, 2024-05-27 09:38:17, malware, acab2b0aa1c043629f9fae86175f0352, http://124.234.200.53:40448/bin.sh
-145049, 2024-05-27 09:38:13, 2024-05-27 09:38:13, phishing, 6eec29ae246ebd2ea259470be82a9527, http://servemaildomainvalidationihostingservices1.pages.dev
-145048, 2024-05-27 09:37:51, 2024-05-27 09:37:51, malware, 97587f5b2f6044e9a4431bc88e248653, http://117.200.85.179:56605/i
-145047, 2024-05-27 09:37:48, 2024-05-27 09:37:48, malware, 75ab4f210ead4cb18b7554265427f35c, http://115.63.180.110:42923/i
-145046, 2024-05-27 09:37:47, 2024-05-27 09:37:47, malware, 92a8775745b24e158615939ae1a8b410, http://115.59.92.80:40738/i
-145045, 2024-05-27 09:37:44, 2024-05-27 09:37:44, malware, 5ec3280c34c24db1829796d1aae28acf, http://115.59.92.80:40738/bin.sh
