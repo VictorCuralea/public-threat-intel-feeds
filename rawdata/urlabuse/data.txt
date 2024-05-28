@@ -6,8 +6,17 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-05-28 12:00:01 UTC
+# UPDATE: 2024-05-28 13:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 146337, "url": "https://cloudflare-ipfs.com/ipfs/bafybeig3ke5urartt3p5cewxt4iank7lpevg73gj4kpefhkraivrkxmrwe/Mail-Login%20(3).html", "discovery": "2024-05-28 12:58:13", "added": "2024-05-28 12:58:13", "target": "Generic Email", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "d799ecd025478f498554f574e5972325"}
+{"id": 146336, "url": "http://dsradxzxvhujtuytrfsfg5dgsjkiofpfnjugsy65fgw8e9urimujsnjmb4.pages.dev", "discovery": "2024-05-28 12:52:13", "added": "2024-05-28 12:52:13", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "9b0a3d529638cd6645a5314c034d3ee6"}
+{"id": 146335, "url": "http://groupb0k3pptelegramh0tssjej.web-ld.my.id", "discovery": "2024-05-28 12:26:17", "added": "2024-05-28 12:26:17", "target": "Telegram", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "56d20d3af12bae146a24bb47aef8eeb4"}
+{"id": 146334, "url": "http://usf-parcel.com", "discovery": "2024-05-28 12:16:14", "added": "2024-05-28 12:16:14", "target": "USPS", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "c40c4b9c789dcb8d1f7fe134ced3d529"}
+{"id": 146333, "url": "http://tcbmhanes1413.com", "discovery": "2024-05-28 12:10:15", "added": "2024-05-28 12:10:15", "target": "TR-GOV", "reporter": "lruray", "AbuseType": "phishing", "UUID": "b200add24d3a80b0413cb6763ea9e233"}
+{"id": 146332, "url": "http://tcbmhazinecs141.com", "discovery": "2024-05-28 12:10:15", "added": "2024-05-28 12:10:15", "target": "TR-GOV", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "2bea07586bc63366266e3b1e6f7f70d2"}
+{"id": 146331, "url": "http://tcbmhazinbs384.com", "discovery": "2024-05-28 12:10:13", "added": "2024-05-28 12:10:13", "target": "TR-GOV", "reporter": "lruray", "AbuseType": "phishing", "UUID": "2ca93f913ad0c7338a3c31ab64d22101"}
+{"id": 146330, "url": "http://tcbmhazins1145.com", "discovery": "2024-05-28 12:08:11", "added": "2024-05-28 12:08:11", "target": "TR-GOV", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "3fe0f656730a199262c1b658a4e1230a"}
+{"id": 146329, "url": "http://91e.6da.mytemp.website", "discovery": "2024-05-28 12:06:13", "added": "2024-05-28 12:06:13", "target": "TR-GOV", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "6eae023d404bf0aa4366ed6395b157cd"}
 {"id": 146328, "url": "http://utqaq.com", "discovery": "2024-05-28 11:56:17", "added": "2024-05-28 11:56:17", "target": "USPS", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "3dd295e2609689782a59491a4408434d"}
 {"id": 146327, "url": "http://utqat.com", "discovery": "2024-05-28 11:52:14", "added": "2024-05-28 11:52:14", "target": "USPS", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "ef85117d16737db6441e5f43b89f0dd1"}
 {"id": 146326, "url": "http://christsweb.net", "discovery": "2024-05-28 11:52:14", "added": "2024-05-28 11:52:14", "target": "Facebook", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "08fc0db6bf1d78b2cb261aa2db4782e0"}
@@ -499,12 +508,3 @@
 {"id": 145840, "url": "http://123.132.180.220:36162/bin.sh", "discovery": "2024-05-28 07:22:33", "added": "2024-05-28 07:22:33", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "b0246ccf9553417d8f881a69aa56ed54"}
 {"id": 145839, "url": "http://123.10.10.52:45233/Mozi.m", "discovery": "2024-05-28 07:22:31", "added": "2024-05-28 07:22:31", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "fdf9f8ef9941449da5625815ac2f2a2a"}
 {"id": 145838, "url": "http://117.253.208.134:45445/i", "discovery": "2024-05-28 07:22:11", "added": "2024-05-28 07:22:11", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "c2fee9c0f801441684c3a731a3141988"}
-{"id": 145837, "url": "http://117.245.39.119:49789/i", "discovery": "2024-05-28 07:22:00", "added": "2024-05-28 07:22:00", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "13e358e5a0244cd4b1497e15ecb8ad8c"}
-{"id": 145836, "url": "http://117.245.33.164:57195/i", "discovery": "2024-05-28 07:21:57", "added": "2024-05-28 07:21:57", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "8edb956908314f41aec8a6cab73923fd"}
-{"id": 145835, "url": "http://117.242.233.19:35718/i", "discovery": "2024-05-28 07:21:47", "added": "2024-05-28 07:21:47", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "36d92abb4f45483787ea83be4e570f82"}
-{"id": 145834, "url": "http://117.204.74.85:37933/i", "discovery": "2024-05-28 07:21:00", "added": "2024-05-28 07:21:00", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "efee23bb36fe412f9db7d1e2c482640d"}
-{"id": 145833, "url": "http://117.204.74.85:37933/bin.sh", "discovery": "2024-05-28 07:20:58", "added": "2024-05-28 07:20:58", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "33b1aa08468c420f903f7400c98a98e8"}
-{"id": 145832, "url": "http://115.60.215.81:53252/i", "discovery": "2024-05-28 07:20:26", "added": "2024-05-28 07:20:26", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "124b63bb35324c3698c802b8bb2db1e5"}
-{"id": 145831, "url": "http://115.60.215.81:53252/bin.sh", "discovery": "2024-05-28 07:20:24", "added": "2024-05-28 07:20:24", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "18cad24c4a3f461087026f937d1e8cbc"}
-{"id": 145830, "url": "http://115.59.238.56:60603/Mozi.m", "discovery": "2024-05-28 07:20:23", "added": "2024-05-28 07:20:23", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "fe559096f9274f2abb9fa0714bf3cf03"}
-{"id": 145829, "url": "http://115.55.255.37:50493/Mozi.m", "discovery": "2024-05-28 07:20:21", "added": "2024-05-28 07:20:21", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "dad37908f79b4b3cb96176e5732bb6de"}
