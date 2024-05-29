@@ -6,8 +6,9 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-05-29 00:00:01 UTC
+# UPDATE: 2024-05-29 01:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 146739, "url": "http://pejdhz.pages.dev", "discovery": "2024-05-29 00:02:12", "added": "2024-05-29 00:02:12", "target": "Amazon", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "4c5f1b5aef57511e6fcde86c25e377b4"}
 {"id": 146738, "url": "http://bb16eb5678f4dce4ae865c7c8ee8f.pages.dev", "discovery": "2024-05-28 23:36:11", "added": "2024-05-28 23:36:11", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "a23119f17cccd91772da461758fb2505"}
 {"id": 146737, "url": "http://tg.tap.workers.dev", "discovery": "2024-05-28 23:30:11", "added": "2024-05-28 23:30:11", "target": "Telegram", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "be37a8607933d86e0a5495e2e6e5d08d"}
 {"id": 146736, "url": "https://etlsallat.com", "discovery": "2024-05-28 23:29:41", "added": "2024-05-28 23:29:41", "target": "Etisalat", "reporter": "karenit", "AbuseType": "phishing", "UUID": "e53d4b510e6d30130b62e9fb484c8868"}
@@ -507,4 +508,3 @@
 {"id": 146242, "url": "http://server.qxej27mv7hud1uk03kj438ggzby0v7a8mgwwnmky2n9vn1tmcn1qpm8kax84ymn.ru/nznsnSCwZ356pP/no_killer/Aqua.arm7", "discovery": "2024-05-28 09:18:02", "added": "2024-05-28 09:18:02", "target": "#ELF32ARM_EABI4", "reporter": "lrudbot", "AbuseType": "malware", "UUID": "1b8c1fae5e63439792f7d8703bb98f0e"}
 {"id": 146241, "url": "http://server.qxej27mv7hud1uk03kj438ggzby0v7a8mgwwnmky2n9vn1tmcn1qpm8kax84ymn.ru/nznsnSCwZ356pP/no_killer/Aqua.arm5", "discovery": "2024-05-28 09:17:58", "added": "2024-05-28 09:17:58", "target": "#ELF32ARM_v1", "reporter": "lrudbot", "AbuseType": "malware", "UUID": "29461e5e909d473dabf4505acb0e5b4b"}
 {"id": 146240, "url": "http://server.qxej27mv7hud1uk03kj438ggzby0v7a8mgwwnmky2n9vn1tmcn1qpm8kax84ymn.ru/nznsnSCwZ356pP/Aqua.spc", "discovery": "2024-05-28 09:17:56", "added": "2024-05-28 09:17:56", "target": "#ELF32SPARC", "reporter": "lrudbot", "AbuseType": "malware", "UUID": "4bd7e12bf9634c73a4f68263cf771480"}
-{"id": 146239, "url": "http://server.qxej27mv7hud1uk03kj438ggzby0v7a8mgwwnmky2n9vn1tmcn1qpm8kax84ymn.ru/nznsnSCwZ356pP/Aqua.mpsl", "discovery": "2024-05-28 09:17:53", "added": "2024-05-28 09:17:53", "target": "#ELF32_MIPSv1", "reporter": "lrudbot", "AbuseType": "malware", "UUID": "002946f9046946949a672214b9c5e170"}

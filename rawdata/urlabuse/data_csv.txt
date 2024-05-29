@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-05-29 00:00:01 UTC
+# UPDATE: 2024-05-29 01:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+146739, 2024-05-29 00:02:12, 2024-05-29 00:02:12, phishing, 4c5f1b5aef57511e6fcde86c25e377b4, http://pejdhz.pages.dev
 146738, 2024-05-28 23:36:11, 2024-05-28 23:36:11, phishing, a23119f17cccd91772da461758fb2505, http://bb16eb5678f4dce4ae865c7c8ee8f.pages.dev
 146737, 2024-05-28 23:30:11, 2024-05-28 23:30:11, phishing, be37a8607933d86e0a5495e2e6e5d08d, http://tg.tap.workers.dev
 146736, 2024-05-28 23:29:41, 2024-05-28 23:29:41, phishing, e53d4b510e6d30130b62e9fb484c8868, https://etlsallat.com
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 146242, 2024-05-28 09:18:02, 2024-05-28 09:18:02, malware, 1b8c1fae5e63439792f7d8703bb98f0e, http://server.qxej27mv7hud1uk03kj438ggzby0v7a8mgwwnmky2n9vn1tmcn1qpm8kax84ymn.ru/nznsnSCwZ356pP/no_killer/Aqua.arm7
 146241, 2024-05-28 09:17:58, 2024-05-28 09:17:58, malware, 29461e5e909d473dabf4505acb0e5b4b, http://server.qxej27mv7hud1uk03kj438ggzby0v7a8mgwwnmky2n9vn1tmcn1qpm8kax84ymn.ru/nznsnSCwZ356pP/no_killer/Aqua.arm5
 146240, 2024-05-28 09:17:56, 2024-05-28 09:17:56, malware, 4bd7e12bf9634c73a4f68263cf771480, http://server.qxej27mv7hud1uk03kj438ggzby0v7a8mgwwnmky2n9vn1tmcn1qpm8kax84ymn.ru/nznsnSCwZ356pP/Aqua.spc
-146239, 2024-05-28 09:17:53, 2024-05-28 09:17:53, malware, 002946f9046946949a672214b9c5e170, http://server.qxej27mv7hud1uk03kj438ggzby0v7a8mgwwnmky2n9vn1tmcn1qpm8kax84ymn.ru/nznsnSCwZ356pP/Aqua.mpsl
