@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-29 08:50:49 UTC                        #
+# Last updated: 2024-05-29 12:54:53 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	microsoft.kaspersky.xyz
+127.0.0.1	asterchildrenshoes.com
+127.0.0.1	microsoft.kasperzky.xyz
+127.0.0.1	responsiveuikit.com
+127.0.0.1	burdurpastane.com
 127.0.0.1	scada.paradizeconstruction.com
 127.0.0.1	jupyterlab.site
 127.0.0.1	ciston.nut.cc
@@ -11814,4 +11819,4 @@
 127.0.0.1	cdn239.for149.xyz
 127.0.0.1	lido-fi.dev
 127.0.0.1	ftp.atelierzolotas.gr
-# Number of entries: 11808
+# Number of entries: 11813

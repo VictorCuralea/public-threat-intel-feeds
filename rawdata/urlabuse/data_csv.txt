@@ -6,9 +6,16 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-05-29 12:00:02 UTC
+# UPDATE: 2024-05-29 13:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+147327, 2024-05-29 12:36:14, 2024-05-29 12:36:14, phishing, 349b2a2c0dc8b5e0b96c548722c18d5c, https://bt-business-5-28-2024.webflow.io/
+147326, 2024-05-29 12:14:11, 2024-05-29 12:14:11, phishing, 9241f2d47e7bbfce7340828767a32f8e, http://03mk-bh.pages.dev
+147325, 2024-05-29 12:08:30, 2024-05-29 12:08:30, phishing, 76d983b823abb9186d7b819e92db9499, https://martins092012.wixsite.com/my-site-1
+147324, 2024-05-29 12:08:11, 2024-05-29 12:08:11, phishing, 0f5224e5af9217ce007e7e3ee50d896c, https://view.flodesk.com/emails/6655d850cdf7ae07843392cf
+147323, 2024-05-29 12:08:01, 2024-05-29 12:06:11, phishing, e58dc5a2f2a6f18df0d05320e3145909, https://tinyurl.com/4uczrtm3
+147322, 2024-05-29 12:03:03, 2024-05-29 12:03:03, phishing, ad8bfbebe4dbbcb5f42e76cb96f01361, https://btemail-3y43.vercel.app/?./index-rui.jsp?v=2.32.0#app/mail
+147321, 2024-05-29 12:02:39, 2024-05-29 12:02:39, phishing, 721171a0ef694fbcff5ade6516e7df94, https://emailbtx.vercel.app/?./index-rui.jsp?v=2.32.0#app/mail
 147320, 2024-05-29 11:59:00, None, phishing, 6bde5eff3d297e00f55d9a5547a15f7c, https://www.dropbox.com/scl/fi/3q7s5ny7x539q2dyfvog4/Kindly-update-your-Btinternet-Support-to-avoid-email-shutdown-permanently.paper?rlkey=eqpagnw3p1n0da3avyy28w7hb
 147319, 2024-05-29 11:58:03, None, phishing, afdd18c4907e8a6af07d62083d7a6097, http://www.dropbox.com/scl/fi/vb8jl87rkbgqxrcn37rme/Kindly-update-your-Btinternet-Support-to-avoid-email-shutdown-permanently.paper?rlkey=6ve20mxuvujwuctaysmibyzgi
 147318, 2024-05-29 11:57:23, 2024-05-29 09:36:11, phishing, ad64d4ec0bc28a9febbaa98336bba392, https://free-5108799.webadorsite.com/
@@ -502,10 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 146830, 2024-05-29 03:23:10, 2024-05-29 03:23:10, malware, 5697d4cd4c4f4a25bca340bad704569c, http://123.129.132.131:58308/bin.sh
 146829, 2024-05-29 03:23:06, 2024-05-29 03:23:06, malware, 54572748d04f49149ef3fcdf88f4f488, http://117.251.171.34:51150/bin.sh
 146828, 2024-05-29 03:22:35, 2024-05-29 03:22:35, malware, 3305552f8a7a41a9ac70a333e5e8cc9e, http://117.204.202.131:47674/bin.sh
-146827, 2024-05-29 03:22:25, 2024-05-29 03:22:25, malware, bc4c8e593b73460b8e04902b4b770b72, http://117.204.197.179:41579/Mozi.m
-146826, 2024-05-29 03:22:23, 2024-05-29 03:22:23, malware, 2338f92f568c413da948b9f376680a8a, http://117.203.24.151:52746/i
-146825, 2024-05-29 03:22:21, 2024-05-29 03:22:21, malware, b5d07074b2cd48c8bed03cc8104df0f1, http://117.201.5.104:46512/i
-146824, 2024-05-29 03:21:20, 2024-05-29 03:21:20, malware, 89abd94c4e0645c29692eef03a7c3b65, http://115.58.95.127:56621/i
-146823, 2024-05-29 03:21:18, 2024-05-29 03:21:18, malware, 6d39b6e2e20446e8bdf451e9f009162b, http://115.58.95.127:56621/
-146822, 2024-05-29 03:21:17, 2024-05-29 03:21:17, malware, 96e679f4da2b4a75881703dcd021091b, http://115.58.116.135:53599/Mozi.m
-146821, 2024-05-29 03:21:16, 2024-05-29 03:21:16, malware, 6d7d6907bcb54e089e95f914af57c924, http://115.55.244.238:51660/i
