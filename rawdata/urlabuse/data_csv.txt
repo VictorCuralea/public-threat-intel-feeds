@@ -6,9 +6,15 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-05-29 16:00:01 UTC
+# UPDATE: 2024-05-29 17:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+147571, 2024-05-29 16:21:36, 2024-05-29 15:54:11, phishing, 5436bd9bce82efb4f146c27b2f0dfd53, https://renouv-ameii.fr/
+147570, 2024-05-29 16:21:15, 2024-05-29 15:38:12, phishing, 4d5a50a1729a9bd16b2dd60324805223, https://webrenouvellement.fr/
+147569, 2024-05-29 16:03:45, 2024-05-29 16:03:45, phishing, 033d2bab477b521fe8879939e5044cfe, http://worker-damp-surf-0faa.davox65792.workers.dev
+147568, 2024-05-29 16:03:38, 2024-05-29 16:03:38, phishing, f02ee95c13bf4273a541ef319b057645, https://get-id-profiles.codeanyapp.com/antai.gouv.fr/fr/connexion.php
+147567, 2024-05-29 16:03:17, 2024-05-29 16:03:17, phishing, 882fb95565e281a6ac1498ad3a9adab4, http://pub-bcbf1611790a40b8893295a926394c80.r2.dev/soft.html
+147566, 2024-05-29 16:02:11, 2024-05-29 16:02:11, phishing, b62f8b4c12f08f9626020631a3cab292, https://vrl11.claim-mystr.biz.id/
 147565, 2024-05-29 15:48:17, 2024-05-29 15:48:17, phishing, a3a6d729043985f60ca75944f1340a35, https://actualisation-cartevitale.fr/
 147564, 2024-05-29 15:48:04, 2024-05-29 15:48:04, phishing, 5c6b8cd66824780bb21ecacfc4af8872, http://5621.errandsfast.com
 147563, 2024-05-29 15:46:56, 2024-05-29 15:46:56, phishing, cf022b96b5914371b70beb978e570633, http://3538.wokebrandshirts.com
@@ -503,9 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 147074, 2024-05-29 09:08:08, 2024-05-29 09:08:08, malware, 61aa8518e15f4ee6a5c0bdd796ad2c9d, http://117.222.112.87:60582/i
 147073, 2024-05-29 09:08:06, 2024-05-29 09:08:06, malware, f21fdb98a4e74933a2843951bb99625d, http://117.211.208.253:32851/bin.sh
 147072, 2024-05-29 09:07:44, 2024-05-29 09:07:44, malware, a4208d40fb704c70b323d793b34e086a, http://117.200.95.184:60298/bin.sh
-147071, 2024-05-29 09:07:39, 2024-05-29 09:07:39, malware, e57d86b25c684bf9aaf16b24d3604b2f, http://117.199.154.138:59224/i
-147070, 2024-05-29 09:07:37, 2024-05-29 09:07:37, malware, 577cb6aef0b6442daaffb737105339bc, http://117.194.164.178:35106/Mozi.m
-147069, 2024-05-29 09:07:35, 2024-05-29 09:07:35, malware, d0a70ddf67ee41189843e27d31e4312a, http://115.63.49.101:50166/i
-147068, 2024-05-29 09:07:33, 2024-05-29 09:07:33, malware, 9bf32bec53fa444694e61f6e84f0c851, http://115.63.49.101:50166/bin.sh
-147067, 2024-05-29 09:07:31, 2024-05-29 09:07:31, malware, 98a8c6c4ed9649beb4af653eaad091e7, http://115.55.51.176:39543/bin.sh
-147066, 2024-05-29 09:07:30, 2024-05-29 09:07:30, malware, 89bced94e6d5489683342e949b84626f, http://115.55.253.234:35410/bin.sh
