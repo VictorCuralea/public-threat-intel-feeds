@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-28 20:36:02 UTC                        #
+# Last updated: 2024-05-29 07:01:52 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	jupyterlab.site
+127.0.0.1	ciston.nut.cc
+127.0.0.1	blockworks.one
+127.0.0.1	tokenworks.io
 127.0.0.1	selltix.org
 127.0.0.1	ashleypuerner.com
 127.0.0.1	jumbie.duckdns.org
@@ -11810,6 +11814,4 @@
 127.0.0.1	lido-fi.dev
 127.0.0.1	ftp.atelierzolotas.gr
 127.0.0.1	starinteriordesigns.com
-127.0.0.1	kronosmagazine.com
-127.0.0.1	defrosscrappeo.pw
-# Number of entries: 11806
+# Number of entries: 11808
