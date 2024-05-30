@@ -6,9 +6,16 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-05-30 18:00:01 UTC
+# UPDATE: 2024-05-30 19:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+148645, 2024-05-30 18:56:13, 2024-05-30 18:56:13, phishing, 70edb2b11cecc061eaee1e579ef65e6f, http://gxdfg.pages.dev
+148644, 2024-05-30 18:56:12, 2024-05-30 18:56:12, phishing, 0699f4063e5959ac570e4d6b4ea452f4, http://somedomainvalidationserverauthinticationrequired02.pages.dev
+148643, 2024-05-30 18:42:12, 2024-05-30 18:42:12, phishing, 329fee81ba94aeb9b1241e6050790859, http://26357.pages.dev
+148642, 2024-05-30 18:38:12, 2024-05-30 18:38:12, phishing, 9d04792985dbb699255c5547ea718eba, http://pandown.2ytw.com
+148641, 2024-05-30 18:14:15, 2024-05-30 18:14:15, phishing, e2c7838292d34c2deb0782748acc5f79, https://yesretga.blogspot.com/
+148640, 2024-05-30 18:03:22, 2024-05-30 17:38:14, phishing, e492e4a9c14f45425bc76b609bc94dc2, https://app-sfr.net/
+148639, 2024-05-30 18:02:20, 2024-05-30 18:02:20, phishing, e673837ed5be4a1d2c23ba937dd34f49, http://hlzlasistem.duckdns.org
 148638, 2024-05-30 17:54:14, 2024-05-30 17:54:14, phishing, 7b9f0c0cf64797ad2c389d39a352e125, http://promptpowfiltrade.pages.dev
 148637, 2024-05-30 17:48:14, 2024-05-30 17:48:14, phishing, 934dde4e10f06083d8e3a67dcae17c4f, http://any-revisedtoksclaim.pages.dev
 148636, 2024-05-30 17:48:11, 2024-05-30 17:48:11, phishing, 8143150521ea31f23d66e289b78642f7, http://worker-bitter-scene-b9ab.hoyin68304.workers.dev
@@ -502,10 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 148148, 2024-05-30 09:13:44, 2024-05-30 09:13:44, malware, 478ca5f9c0d54c49ae5dd5b62afb025f, http://118.191.128.75/mps.nn
 148147, 2024-05-30 09:13:42, 2024-05-30 09:13:42, malware, 884dc68482d9435d8efa31682e7d957a, http://118.191.128.75/a7.nn
 148146, 2024-05-30 09:13:40, 2024-05-30 09:13:40, malware, ff9fa62280454e4fb71a58881e39524f, http://117.248.133.244:47806/i
-148145, 2024-05-30 09:13:37, 2024-05-30 09:13:37, malware, a129d94d9b204d84bc49f16dc11f5682, http://117.235.125.96:44692/i
-148144, 2024-05-30 09:13:35, 2024-05-30 09:13:35, malware, 1a424574139646a28b0cfb1c9e82976f, http://117.235.125.96:44692/bin.sh
-148143, 2024-05-30 09:13:33, 2024-05-30 09:13:33, malware, 5a6073d3e36a45a6b31b0253e2e458ac, http://117.235.124.0:60130/Mozi.m
-148142, 2024-05-30 09:13:31, 2024-05-30 09:13:31, malware, 0563b9844f5b4f2e9cfd7863b1276c05, http://117.235.122.124:34804/i
-148141, 2024-05-30 09:13:29, 2024-05-30 09:13:29, malware, 356435884da546d4bf64410384928172, http://117.221.193.70:39571/Mozi.m
-148140, 2024-05-30 09:13:27, 2024-05-30 09:13:27, malware, 6c18e2f3c2314fe798e8d7117a202475, http://117.215.216.67:59426/Mozi.m
-148139, 2024-05-30 09:13:24, 2024-05-30 09:13:24, malware, 8955841c3b0d4a688dc9c26e5fe85b32, http://117.212.54.74:48362/i
