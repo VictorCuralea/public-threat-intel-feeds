@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-30 02:51:24 UTC                        #
+# Last updated: 2024-05-30 06:09:55 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	dovuzu3rz.top
+127.0.0.1	septicfl.com
+127.0.0.1	muse.krazzykriss.com
 127.0.0.1	test.info-twpower.top
 127.0.0.1	owa.lieamwalls.com
 127.0.0.1	profile.lieamwalls.com
@@ -11816,6 +11819,4 @@
 127.0.0.1	log.ddm11125.com
 127.0.0.1	dns.ionoslaba.com
 127.0.0.1	tmuh.tmuh-tw.one
-127.0.0.1	estafetagoappa.vip
-127.0.0.1	estafetagoappb.vip
-# Number of entries: 11812
+# Number of entries: 11813
