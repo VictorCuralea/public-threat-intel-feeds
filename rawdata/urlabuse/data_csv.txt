@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-05-30 02:00:01 UTC
+# UPDATE: 2024-05-30 03:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+147873, 2024-05-30 02:24:10, 2024-05-30 02:24:10, phishing, fc1bd6caee24d57f76f5620c63959db1, https://140.21.205.92.host.secureserver.net/scl-loginbluewin0871/
+147872, 2024-05-30 02:08:10, 2024-05-30 02:08:10, phishing, 0461e101ceca0086ef2570cbcde39d70, http://wzaxn.pages.dev
 147871, 2024-05-30 01:58:17, 2024-05-30 01:58:17, phishing, cd6db938c330e95f557dd4b01f8f4ce3, http://tesffclaim3.vyp29a.biz.id
 147870, 2024-05-30 01:34:13, 2024-05-30 01:34:13, phishing, d2df6151008a34ae56076b6a95abe501, http://probaproba-8kf.pages.dev
 147869, 2024-05-30 01:34:10, 2024-05-30 01:34:10, phishing, 355c2a96f37acb02b287938bccafbd1f, http://arabasiasstarzzfvote.pages.dev
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 147376, 2024-05-29 13:24:15, 2024-05-29 13:24:15, malware, ce98114d5f9a4ec796a03f4baef47e3c, http://182.126.116.102:37266/bin.sh
 147375, 2024-05-29 13:24:11, 2024-05-29 13:24:11, malware, bacf5995d13546e2a572d0cdf78afa7a, http://182.120.63.125:37223/i
 147374, 2024-05-29 13:24:10, 2024-05-29 13:24:10, malware, 84e5231605b944bd8a53bab32642dd0a, http://182.120.63.125:37223/bin.sh
-147373, 2024-05-29 13:24:08, 2024-05-29 13:24:08, malware, 52445adec1b641f99bbf0f1d95b64295, http://182.116.79.217:60659/i
-147372, 2024-05-29 13:24:07, 2024-05-29 13:24:07, malware, dc3bcd96f62f4044bb4fa9eacde1893a, http://182.116.79.217:60659/bin.sh
