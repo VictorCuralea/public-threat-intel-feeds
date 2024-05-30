@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-30 12:13:07 UTC                        #
+# Last updated: 2024-05-30 13:10:29 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	poivyzeaa.top
+127.0.0.1	free.iwaf.cn
+127.0.0.1	bestcdnforfree.site
 127.0.0.1	gotthebestoffer.site
 127.0.0.1	accountasifkwosov.shop
 127.0.0.1	p4wq3e5r6t.xyz
@@ -11814,4 +11817,4 @@
 127.0.0.1	static.21.151.243.136.clients.your-server.de
 127.0.0.1	504e165d.host.njalla.net
 127.0.0.1	pwshrepo.com
-# Number of entries: 11808
+# Number of entries: 11811
