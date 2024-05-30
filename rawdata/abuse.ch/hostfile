@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-30 14:30:12 UTC                        #
+# Last updated: 2024-05-30 15:40:52 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	s9l0w7n3y5.xyz
 127.0.0.1	ns2.ylzinfo.xyz
 127.0.0.1	ns1.ylzinfo.xyz
 127.0.0.1	poivyzeaa.top
@@ -11032,8 +11033,4 @@
 127.0.0.1	slabbymenusportef.pw
 127.0.0.1	snk2333.duckdns.org
 127.0.0.1	s1.rsrc.eu.org
-127.0.0.1	prikhapert.com
-127.0.0.1	aprilcharou.com
-127.0.0.1	arsimonopa.com
-127.0.0.1	lemonimonakio.com
-# Number of entries: 11030
+# Number of entries: 11027
