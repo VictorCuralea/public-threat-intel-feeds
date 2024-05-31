@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-31 11:50:21 UTC                        #
+# Last updated: 2024-05-31 12:58:45 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	service-mpstp742-1252578700.gz.tencentapigw.com.cn
+127.0.0.1	service-g0t0y6tj-1324325324.cd.tencentapigw.com
 127.0.0.1	hjkdnd.duckdns.org
 127.0.0.1	markjohnhvncpure.duckdns.org
 127.0.0.1	ecomexplosion.com
@@ -11841,4 +11843,4 @@
 127.0.0.1	static.21.151.243.136.clients.your-server.de
 127.0.0.1	504e165d.host.njalla.net
 127.0.0.1	pwshrepo.com
-# Number of entries: 11835
+# Number of entries: 11837
