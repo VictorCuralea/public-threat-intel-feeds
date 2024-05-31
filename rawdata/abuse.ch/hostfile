@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-31 06:25:48 UTC                        #
+# Last updated: 2024-05-31 10:17:51 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ecomexplosion.com
 127.0.0.1	gorodpro-42772.portmap.host
 127.0.0.1	akmedia.in
 127.0.0.1	bethesdaserukam.org
@@ -11845,5 +11846,4 @@
 127.0.0.1	logs.ddm11125.com
 127.0.0.1	log.ddm11125.com
 127.0.0.1	dns.ionoslaba.com
-127.0.0.1	tmuh.tmuh-tw.one
 # Number of entries: 11840
