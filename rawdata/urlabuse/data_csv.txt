@@ -6,9 +6,19 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-05-31 16:00:01 UTC
+# UPDATE: 2024-05-31 17:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+149663, 2024-05-31 16:56:15, 2024-05-31 16:56:15, phishing, a1e12f77c424d7f8b9bf9aa89f9f34ef, https://seiteabosportalsuisseltd.com/portalch
+149662, 2024-05-31 16:04:48, 2024-05-31 16:04:48, phishing, 14869592f3d432c5208f7742a536cb60, https://premiumof.com/
+149661, 2024-05-31 16:02:31, 2024-05-31 16:02:31, phishing, 5b0071e0cd031c5263e736f5ba1c17f9, http://pub-076d2c6317804f5ab969093911feb686.r2.dev/most.html
+149660, 2024-05-31 16:02:24, 2024-05-31 16:02:24, phishing, 47483982ebd121936e0e853454b16aab, http://pub-91f18d0dbf4748fe892cde71a124c656.r2.dev/mabble.html
+149659, 2024-05-31 16:02:11, 2024-05-31 16:02:11, phishing, 96692c5fb270cbe31160c58ea4ab5e4c, http://pub-3dff774d6fa848ddbd98e84310195a8a.r2.dev/Nurs.html
+149658, 2024-05-31 16:01:25, 2024-05-31 16:01:25, phishing, d6840dc7fcfed03465984d747970e6df, http://informasi-terupdate.my.id/my.php
+149657, 2024-05-31 16:01:17, 2024-05-31 16:01:17, phishing, 271ee9e67f3b53e46180356009c8ef23, https://premiumkg.com/
+149656, 2024-05-31 16:00:57, 2024-05-31 16:00:57, phishing, ddc0e67c48efb2ca3a72c667fa440518, http://premga-uz.ru/
+149655, 2024-05-31 16:00:35, 2024-05-31 16:00:35, phishing, 9f51de62a5f1f2d2d88e078ef04acf96, http://telegram.2103575.workers.dev/
+149654, 2024-05-31 16:00:20, 2024-05-31 16:00:20, phishing, f5038e2a6ddc5fc6c10b2881d64a778b, https://cur.to/syd
 149653, 2024-05-31 15:56:11, 2024-05-31 15:56:11, phishing, f6dc3a5575a4e169143b6746e0039e88, http://namogaming.xyz
 149652, 2024-05-31 15:42:12, 2024-05-31 15:42:12, phishing, b3dcea43c8fe7dd74513d579f8976a4e, http://afsalzaini.art
 149651, 2024-05-31 15:40:15, 2024-05-31 15:40:15, phishing, eae4b0b96ba1d1978c47c19c3b38a8eb, http://whatsaowap.cc
@@ -499,13 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 149166, 2024-05-31 09:15:24, 2024-05-31 09:15:24, malware, c6095456fcd346259a868a1e04bdee20, http://185.196.9.58/zmapx86
 149165, 2024-05-31 09:15:24, 2024-05-31 09:15:24, malware, 333d7ec21aa34200923f72295af7b71a, http://185.196.9.58//zmapspc
 149164, 2024-05-31 09:15:24, 2024-05-31 09:15:24, malware, 13e1740aa4d54e4c871de8072540b05d, http://185.196.9.58/zmapspc
-149163, 2024-05-31 09:15:23, 2024-05-31 09:15:23, malware, e16a22e3cbb4461ebc9d7227e9c3cf05, http://185.196.9.58//zmapsh4
-149162, 2024-05-31 09:15:23, 2024-05-31 09:15:23, malware, a8a8784097074d979c84bb3a79aa1920, http://185.196.9.58/zmapsh4
-149161, 2024-05-31 09:15:23, 2024-05-31 09:15:23, malware, 1cd874e2354742ea8958b44398068af2, http://185.196.9.58/zmapppc
-149160, 2024-05-31 09:15:23, 2024-05-31 09:15:23, malware, 6491e657ab1c4472ac1651908aae556d, http://185.196.9.58/zmapmpsl
-149159, 2024-05-31 09:15:22, 2024-05-31 09:15:22, malware, 6a9541ac96a041419480975755d2d6b0, http://185.196.9.58//zmapmips
-149158, 2024-05-31 09:15:22, 2024-05-31 09:15:22, malware, 233deadd5d17490d9e4e5526bb813849, http://185.196.9.58/zmapmips
-149157, 2024-05-31 09:15:22, 2024-05-31 09:15:22, malware, 51cc71050bcb4fa99b5ab5371f03ede9, http://185.196.9.58/zmapm68k
-149156, 2024-05-31 09:15:21, 2024-05-31 09:15:21, malware, ab1110f4a54349c8afdafe0bb95e7d47, http://185.196.9.58/zmaparm6
-149155, 2024-05-31 09:15:21, 2024-05-31 09:15:21, malware, 6311f0c0a6a24803aea99f3761a6634c, http://185.196.9.58//zmaparm5
-149154, 2024-05-31 09:15:21, 2024-05-31 09:15:21, malware, b78af6c69a7e4d9eb1bfd2677189b2ef, http://185.196.9.58/zmaparm5
