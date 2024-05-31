@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-31 10:17:51 UTC                        #
+# Last updated: 2024-05-31 11:50:21 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	hjkdnd.duckdns.org
+127.0.0.1	markjohnhvncpure.duckdns.org
 127.0.0.1	ecomexplosion.com
 127.0.0.1	gorodpro-42772.portmap.host
 127.0.0.1	akmedia.in
@@ -11839,11 +11841,4 @@
 127.0.0.1	static.21.151.243.136.clients.your-server.de
 127.0.0.1	504e165d.host.njalla.net
 127.0.0.1	pwshrepo.com
-127.0.0.1	ns4.data.microsoftdata.site
-127.0.0.1	ns3.data.microsoftdata.site
-127.0.0.1	ns2.data.microsoftdata.site
-127.0.0.1	ns1.data.microsoftdata.site
-127.0.0.1	logs.ddm11125.com
-127.0.0.1	log.ddm11125.com
-127.0.0.1	dns.ionoslaba.com
-# Number of entries: 11840
+# Number of entries: 11835
