@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-05-31 20:00:01 UTC
+# UPDATE: 2024-05-31 21:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+149734, 2024-05-31 20:54:16, 2024-05-31 20:54:16, phishing, defa383cc2d7dd0e82041f1b459c9d10, http://boardtechverse.pages.dev
+149733, 2024-05-31 20:44:18, 2024-05-31 20:44:18, phishing, a362187b17a7aa66b2bfd5c60537c4b4, http://tokenp0kczt.ist
+149732, 2024-05-31 20:40:12, 2024-05-31 20:40:12, phishing, d8d0b35b70e31bd74c5693a4efcd0d66, http://regularisation-enligne.fr
+149731, 2024-05-31 20:18:13, 2024-05-31 20:18:13, phishing, b4f52d088a62f483388aeedb0d8807ef, http://premium-sovga.fun
 149730, 2024-05-31 19:40:15, 2024-05-31 19:40:15, phishing, f287e119a06724efd46948765bfe2519, http://hashdynamicnonce.pages.dev
 149729, 2024-05-31 19:36:14, 2024-05-31 19:36:14, phishing, 70b5d6f9448a09e9b828ee5d3171254f, http://ws-35z.pages.dev
 149728, 2024-05-31 19:32:11, 2024-05-31 19:32:11, phishing, 55cf03fcdf0fbcf8d814c5d98b6ae886, http://e6dt47570575575555443332.joshnewman323.workers.dev
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 149237, 2024-05-31 09:20:00, 2024-05-31 09:20:00, malware, 46bb102007d541e28a5051748e228b12, http://5.42.67.23/hui/loader
 149236, 2024-05-31 09:19:59, 2024-05-31 09:19:59, malware, d2927d4b884247368020e53d8a2c25c9, http://5.28.38.135:8340/i
 149235, 2024-05-31 09:19:57, 2024-05-31 09:19:57, malware, 3498e0cdb75d438bb2660d020e7fb6a4, http://49.13.194.118//cook/chrome.zip
-149234, 2024-05-31 09:19:11, 2024-05-31 09:19:11, malware, cd51e9fd77da490e8de17c9ed3649d06, http://46.26.216.74:8274/.i
-149233, 2024-05-31 09:19:08, 2024-05-31 09:19:08, malware, dc39b214183348f0a3610d4149822a08, http://45.163.18.139:18478/.i
-149232, 2024-05-31 09:19:04, 2024-05-31 09:19:04, malware, 5c191cd095404d3bb93f33186e8a5e24, http://45.163.18.138:18478/.i
-149231, 2024-05-31 09:19:00, 2024-05-31 09:19:00, malware, 186a8ceef9fb434993c57b0cbfc55c57, http://45.163.18.137:18478/.i
