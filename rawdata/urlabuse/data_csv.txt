@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-01 08:00:01 UTC
+# UPDATE: 2024-06-01 09:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+150104, 2024-06-01 08:54:11, 2024-06-01 08:54:11, phishing, e4233bdf9eae6174fd7ce018abbc5d1e, http://7nx.be7.mytemp.website
+150103, 2024-06-01 08:40:13, 2024-06-01 08:40:13, phishing, 579746e31975083087bbca83d86857cf, http://votearabasiastarfz.pages.dev
+150102, 2024-06-01 08:30:12, 2024-06-01 08:30:12, phishing, aa4fd29a21d568d1088357a52844281c, http://actice-xfgbfey.pages.dev
 150101, 2024-06-01 07:58:11, 2024-06-01 07:58:11, phishing, 1e4c6e3c505afd5ab7299b7afba6757d, http://worker-fancy-star-865a.rexeva5040.workers.dev
 150100, 2024-06-01 07:54:17, 2024-06-01 07:54:17, phishing, cddda19c6fd0927af899d31ce32e4d17, http://telegrxm.cc
 150099, 2024-06-01 07:40:12, 2024-06-01 07:40:12, phishing, 566dba4940af25cf93cd726b9ad76a79, http://jghijl2.pages.dev
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 149607, 2024-05-31 15:20:37, 2024-05-31 15:20:37, malware, ef143e67cbf44f03b495a0ea4c5b8eef, http://115.55.23.98:49286/
 149606, 2024-05-31 15:20:26, 2024-05-31 15:20:26, malware, 68e745f850b844348783a5a0c7ea7ed4, http://115.52.22.8:51121/Mozi.m
 149605, 2024-05-31 15:20:25, 2024-05-31 15:20:25, malware, 9c34b66c52ee458bab96db67ecf12eff, http://115.50.93.46:51664/bin.sh
-149604, 2024-05-31 15:20:23, 2024-05-31 15:20:23, malware, aa83747496b44a00acaa2886eef90a6f, http://115.50.36.163:38796/bin.sh
-149603, 2024-05-31 15:20:21, 2024-05-31 15:20:21, malware, c3da0f9caf554ff68f5047aa697bfbd9, http://115.206.115.238:52789/i
-149602, 2024-05-31 15:20:19, 2024-05-31 15:20:19, malware, 2504aa3860e948949448a2bf19afbe9e, http://115.206.115.238:52789/bin.sh
