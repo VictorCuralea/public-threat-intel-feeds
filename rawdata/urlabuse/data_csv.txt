@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-01 02:00:01 UTC
+# UPDATE: 2024-06-01 03:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+149902, 2024-06-01 02:20:14, 2024-06-01 02:20:14, phishing, 408ded6603785bed6b9cdadd63b6623f, http://ne3o0dir.pages.dev
 149901, 2024-06-01 01:25:16, 2024-06-01 01:25:16, malware, 53bc0d01ee124e0e9a22c7b39ffa28e7, http://94.228.199.82:40702/
 149900, 2024-06-01 01:25:14, 2024-06-01 01:25:14, malware, 6b585e46003747148d198777ebc77919, http://61.54.232.4:53625/bin.sh
 149899, 2024-06-01 01:25:12, 2024-06-01 01:25:12, malware, 406f8d1ac8674bc2be6805d4d3a1de08, http://61.53.195.252:37797/i
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 149405, 2024-05-31 11:43:12, 2024-05-31 11:43:12, phishing, 2969dc205204f607fcfa406344e17d29, http://imtoken-rf.top
 149404, 2024-05-31 11:43:08, 2024-05-31 11:43:08, phishing, 02e5498ee266244abb60e08352e01d48, http://imtoken-rr.top
 149403, 2024-05-31 11:43:04, 2024-05-31 11:43:04, phishing, 356a1a26119e2f138fe37e300fd66106, http://imtoken-ye.top
-149402, 2024-05-31 11:43:02, 2024-05-31 11:43:02, phishing, 3cd0e720f4b1b286cecc685828902177, http://imtoken-ne.top

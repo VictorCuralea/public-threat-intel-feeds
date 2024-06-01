@@ -6,8 +6,9 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-01 02:00:01 UTC
+# UPDATE: 2024-06-01 03:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 149902, "url": "http://ne3o0dir.pages.dev", "discovery": "2024-06-01 02:20:14", "added": "2024-06-01 02:20:14", "target": "Amazon", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "408ded6603785bed6b9cdadd63b6623f"}
 {"id": 149901, "url": "http://94.228.199.82:40702/", "discovery": "2024-06-01 01:25:16", "added": "2024-06-01 01:25:16", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "53bc0d01ee124e0e9a22c7b39ffa28e7"}
 {"id": 149900, "url": "http://61.54.232.4:53625/bin.sh", "discovery": "2024-06-01 01:25:14", "added": "2024-06-01 01:25:14", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "6b585e46003747148d198777ebc77919"}
 {"id": 149899, "url": "http://61.53.195.252:37797/i", "discovery": "2024-06-01 01:25:12", "added": "2024-06-01 01:25:12", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "406f8d1ac8674bc2be6805d4d3a1de08"}
@@ -507,4 +508,3 @@
 {"id": 149405, "url": "http://imtoken-rf.top", "discovery": "2024-05-31 11:43:12", "added": "2024-05-31 11:43:12", "target": "imToken", "reporter": "lruray", "AbuseType": "phishing", "UUID": "2969dc205204f607fcfa406344e17d29"}
 {"id": 149404, "url": "http://imtoken-rr.top", "discovery": "2024-05-31 11:43:08", "added": "2024-05-31 11:43:08", "target": "imToken", "reporter": "lruray", "AbuseType": "phishing", "UUID": "02e5498ee266244abb60e08352e01d48"}
 {"id": 149403, "url": "http://imtoken-ye.top", "discovery": "2024-05-31 11:43:04", "added": "2024-05-31 11:43:04", "target": "imToken", "reporter": "lruray", "AbuseType": "phishing", "UUID": "356a1a26119e2f138fe37e300fd66106"}
-{"id": 149402, "url": "http://imtoken-ne.top", "discovery": "2024-05-31 11:43:02", "added": "2024-05-31 11:43:02", "target": "imToken", "reporter": "lruray", "AbuseType": "phishing", "UUID": "3cd0e720f4b1b286cecc685828902177"}
