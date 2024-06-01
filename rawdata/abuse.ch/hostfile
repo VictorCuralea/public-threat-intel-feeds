@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-31 12:58:45 UTC                        #
+# Last updated: 2024-05-31 23:06:28 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	sangfor.sanfor.club
 127.0.0.1	service-mpstp742-1252578700.gz.tencentapigw.com.cn
 127.0.0.1	service-g0t0y6tj-1324325324.cd.tencentapigw.com
 127.0.0.1	hjkdnd.duckdns.org
@@ -11055,4 +11056,4 @@
 127.0.0.1	acotechgh.com
 127.0.0.1	slabbymenusportef.pw
 127.0.0.1	snk2333.duckdns.org
-# Number of entries: 11049
+# Number of entries: 11050
