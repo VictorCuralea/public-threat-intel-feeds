@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-01 20:00:01 UTC
+# UPDATE: 2024-06-01 21:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+150648, 2024-06-01 20:54:15, 2024-06-01 20:54:15, phishing, 5725fb54396280ca4e8d3f9c7dd3e7df, http://re-appslaunchpads.pages.dev
+150647, 2024-06-01 20:34:23, 2024-06-01 20:30:15, phishing, 8e4a5da8dc91b212b2b5310d49902134, https://toptv.world/c/UI1wcJBo6ERc2QUQiZD28Xb5Xa59U?s1=102f49036eeafb1d5aa894a74f24b0
+150646, 2024-06-01 20:12:16, 2024-06-01 20:12:16, phishing, 1fc657ac6dd4df2481e4fc36665d52a9, http://test.readiwork.com
 150645, 2024-06-01 19:56:17, 2024-06-01 19:56:17, phishing, 6425db43b3cfd3d84f0b904a610f9e67, http://reguler-mon-espace.fr
 150644, 2024-06-01 19:24:57, 2024-06-01 19:24:57, malware, 175fccc7a9cb47dbbd80e514dc1dc9e8, http://61.1.227.2:53399/Mozi.m
 150643, 2024-06-01 19:24:33, 2024-06-01 19:24:33, malware, 7e4641c798c44cf7bc4bf3cf70c0b5de, http://59.89.199.41:36972/Mozi.m
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 150151, 2024-06-01 09:11:28, 2024-06-01 09:11:28, malware, 79f7fd74e6da4ee4962a7853c3dc445f, http://123.14.202.76:41536/i
 150150, 2024-06-01 09:11:27, 2024-06-01 09:11:27, malware, c959fe6358a949f69dd8b421e345c731, http://123.14.202.76:41536/bin.sh
 150149, 2024-06-01 09:11:25, 2024-06-01 09:11:25, malware, 02dde083a7cb4b70b1f0b6acf68c49a8, http://119.91.25.19:8888/WxWorkMultiOpen.exe
-150148, 2024-06-01 09:11:17, 2024-06-01 09:11:17, malware, 5641a1f941b040839b64088329036c3b, http://119.119.252.204:56172/bin.sh
-150147, 2024-06-01 09:11:15, 2024-06-01 09:11:15, malware, 0f7e1d3f21094034b9d8eccad6b8acef, http://118.212.133.42:9000/Video.scr
-150146, 2024-06-01 09:10:46, 2024-06-01 09:10:46, malware, b2d5bd2436794526a4ec05f1ca781ec4, http://118.212.133.42:9000/Photo.scr

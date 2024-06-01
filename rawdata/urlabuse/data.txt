@@ -6,8 +6,11 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-01 20:00:01 UTC
+# UPDATE: 2024-06-01 21:00:02 UTC
 ############### END COMMENTS ###############
+{"id": 150648, "url": "http://re-appslaunchpads.pages.dev", "discovery": "2024-06-01 20:54:15", "added": "2024-06-01 20:54:15", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "5725fb54396280ca4e8d3f9c7dd3e7df"}
+{"id": 150647, "url": "https://toptv.world/c/UI1wcJBo6ERc2QUQiZD28Xb5Xa59U?s1=102f49036eeafb1d5aa894a74f24b0", "discovery": "2024-06-01 20:30:15", "added": "2024-06-01 20:34:23", "target": "Payment", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "8e4a5da8dc91b212b2b5310d49902134"}
+{"id": 150646, "url": "http://test.readiwork.com", "discovery": "2024-06-01 20:12:16", "added": "2024-06-01 20:12:16", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "1fc657ac6dd4df2481e4fc36665d52a9"}
 {"id": 150645, "url": "http://reguler-mon-espace.fr", "discovery": "2024-06-01 19:56:17", "added": "2024-06-01 19:56:17", "target": "FR-GOV", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "6425db43b3cfd3d84f0b904a610f9e67"}
 {"id": 150644, "url": "http://61.1.227.2:53399/Mozi.m", "discovery": "2024-06-01 19:24:57", "added": "2024-06-01 19:24:57", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "175fccc7a9cb47dbbd80e514dc1dc9e8"}
 {"id": 150643, "url": "http://59.89.199.41:36972/Mozi.m", "discovery": "2024-06-01 19:24:33", "added": "2024-06-01 19:24:33", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "7e4641c798c44cf7bc4bf3cf70c0b5de"}
@@ -505,6 +508,3 @@
 {"id": 150151, "url": "http://123.14.202.76:41536/i", "discovery": "2024-06-01 09:11:28", "added": "2024-06-01 09:11:28", "target": "#ELF32MIPS", "reporter": "lrudbot", "AbuseType": "malware", "UUID": "79f7fd74e6da4ee4962a7853c3dc445f"}
 {"id": 150150, "url": "http://123.14.202.76:41536/bin.sh", "discovery": "2024-06-01 09:11:27", "added": "2024-06-01 09:11:27", "target": "#ELF32MIPS", "reporter": "lrudbot", "AbuseType": "malware", "UUID": "c959fe6358a949f69dd8b421e345c731"}
 {"id": 150149, "url": "http://119.91.25.19:8888/WxWorkMultiOpen.exe", "discovery": "2024-06-01 09:11:25", "added": "2024-06-01 09:11:25", "target": "#PE32INTEL_CMD", "reporter": "lrudbot", "AbuseType": "malware", "UUID": "02dde083a7cb4b70b1f0b6acf68c49a8"}
-{"id": 150148, "url": "http://119.119.252.204:56172/bin.sh", "discovery": "2024-06-01 09:11:17", "added": "2024-06-01 09:11:17", "target": "#ELF32_MIPSv1", "reporter": "lrudbot", "AbuseType": "malware", "UUID": "5641a1f941b040839b64088329036c3b"}
-{"id": 150147, "url": "http://118.212.133.42:9000/Video.scr", "discovery": "2024-06-01 09:11:15", "added": "2024-06-01 09:11:15", "target": "#PE32INTEL_GUI", "reporter": "lrudbot", "AbuseType": "malware", "UUID": "0f7e1d3f21094034b9d8eccad6b8acef"}
-{"id": 150146, "url": "http://118.212.133.42:9000/Photo.scr", "discovery": "2024-06-01 09:10:46", "added": "2024-06-01 09:10:46", "target": "#PE32INTEL_GUI", "reporter": "lrudbot", "AbuseType": "malware", "UUID": "b2d5bd2436794526a4ec05f1ca781ec4"}
