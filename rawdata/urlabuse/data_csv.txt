@@ -6,9 +6,21 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-01 10:00:02 UTC
+# UPDATE: 2024-06-01 11:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+150354, 2024-06-01 10:54:14, 2024-06-01 10:54:14, phishing, e478a0bb7fb9be6e712726517e4a7035, http://layer2-evm-app.pages.dev
+150353, 2024-06-01 10:54:13, 2024-06-01 10:54:13, phishing, 468e5d141778026964f9893709ecba83, http://5oreba.pages.dev
+150352, 2024-06-01 10:40:15, 2024-06-01 10:40:15, phishing, 4f6fcb2c9471c6cb0bb010b0b0e2ddb1, http://fgdgdf22.pages.dev
+150351, 2024-06-01 10:36:13, 2024-06-01 10:36:13, phishing, 77489d97ec60f3d640904eb278d93ae6, http://nodechains-smogtoken.pages.dev
+150350, 2024-06-01 10:32:12, 2024-06-01 10:32:12, phishing, 2b867360fb2f2d504bec9d193ab14c5f, http://serverhostingdomainhostinghosstingservicedomain04.pages.dev
+150349, 2024-06-01 10:09:55, 2024-06-01 07:26:22, phishing, 9cb834f68049a04dc0bfa76ddce57645, https://fametech-mxtm51u8u6te63.iascoir.com/hcw8etmkkv407qyomj7o/lm45hjie4cyewm0xbWFlcnNrL3JzQWNKcmdQMGJOL0trUVdiYWpPbElHOWxtTVpFY3ZCQ0MyRGNFRHFacDYvU2FsZXMvMmNYRDdURW1VMFovZmFtZXRlY2guY29tLnR3LzIyb3oycmpya2g3Zng1b2ZoOWNv
+150348, 2024-06-01 10:09:37, 2024-06-01 10:09:37, phishing, 0f1531eb6a8ac8b5f38b5f5a781e9727, https://ipfs.io/ipfs/bafybeihvvmypmcf3lwtcnyvgwmqxt5uq7dbsiaxxhrkt2s2cuvymbyrt2q
+150347, 2024-06-01 10:09:17, 2024-06-01 02:28:43, phishing, 665a71e0f4e7ffa04d9716d28e4d9cd5, https://cloudflare-ipfs.com/ipfs/bafybeihvvmypmcf3lwtcnyvgwmqxt5uq7dbsiaxxhrkt2s2cuvymbyrt2q
+150346, 2024-06-01 10:08:53, 2024-06-01 09:44:28, phishing, 4a8b7a769c71f644cc4dff8da4a1745a, https://blueberry20975412.brizy.site/
+150345, 2024-06-01 10:08:34, 2024-06-01 10:08:34, phishing, cd2c1da2cdaa1cfbaba14192586dea11, https://btaccesspage.studio.site
+150344, 2024-06-01 10:08:15, 2024-06-01 09:44:28, phishing, e8705723f65a6a95255b51c7f3653068, https://www.dropbox.com/scl/fi/i4tt8i2axjw8qcvbd0p86/BT-COMMUNICATION-PAGE.paper?rlkey=ro8rfcaqa76yueu6e59z55asq
+150343, 2024-06-01 10:07:57, 2024-06-01 09:44:28, phishing, ac5280f029fbfdb8da9ea88a12397f3b, https://www.dropbox.com/scl/fi/77r1kncezc2scz2paojaz/Btinternet-Access-page.paper?dl=0
 150342, 2024-06-01 09:44:31, 2024-06-01 09:44:31, phishing, de45527a6b87d413e81605308c4c8e82, http://tccbmhainetr740.com
 150341, 2024-06-01 09:44:17, 2024-06-01 09:44:17, phishing, 1fbe352936d7c266fb2d7ac063cd1016, https://maklerbildung.online/sdtl
 150340, 2024-06-01 09:44:15, 2024-06-01 09:44:15, phishing, db05cc138c0415944ae79202b420412d, https://online-erstattung-unterstutzung.codeanyapp.com/info/index.php
@@ -497,15 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 149857, 2024-06-01 01:22:19, 2024-06-01 01:22:19, malware, d8f83d68f74f40269d0b689449ba8980, http://117.245.45.112:59709/Mozi.m
 149856, 2024-06-01 01:22:12, 2024-06-01 01:22:12, phishing, 1bfc47cd01c88e26ad41e3edb547cf43, http://downloadmainserverconectionorganization02.pages.dev
 149855, 2024-06-01 01:21:56, 2024-06-01 01:21:56, malware, 768a675827ce49cb81d7433813644de0, http://117.220.148.152:54333/i
-149854, 2024-06-01 01:21:54, 2024-06-01 01:21:54, malware, 98df408ec0504cd4a4b4b2d159ca26eb, http://117.220.148.152:54333/bin.sh
-149853, 2024-06-01 01:21:30, 2024-06-01 01:21:30, malware, 4254fd9ada6746418d3809e62d1e4707, http://117.216.29.55:38403/Mozi.m
-149852, 2024-06-01 01:21:28, 2024-06-01 01:21:28, malware, 203e983a962545ea9cdc13249a5d2c5d, http://117.212.165.182:55380/i
-149851, 2024-06-01 01:21:26, 2024-06-01 01:21:26, malware, 324f64e74ca04235bae789124f3184c5, http://117.212.164.66:54506/bin.sh
-149850, 2024-06-01 01:21:03, 2024-06-01 01:21:03, malware, e6e1ad120ffc4a83bc413dea54fd8e9c, http://117.207.67.231:49926/bin.sh
-149849, 2024-06-01 01:20:51, 2024-06-01 01:20:51, malware, ff5836b6f46f43bfbbdeaa5dcf67ea36, http://117.204.63.243:37933/i
-149848, 2024-06-01 01:20:49, 2024-06-01 01:20:49, malware, 7c2d1f74d74044b4a0b86af62d093e51, http://117.204.63.243:37933/bin.sh
-149847, 2024-06-01 01:20:47, 2024-06-01 01:20:47, malware, 80b8432c2f8449cba2b9952ca3ba1670, http://117.204.199.138:56847/i
-149846, 2024-06-01 01:20:45, 2024-06-01 01:20:45, malware, f2b7565c71c247868f2dac040c42c9ee, http://117.200.185.217:53819/bin.sh
-149845, 2024-06-01 01:20:43, 2024-06-01 01:20:43, malware, a2ec94c8c1f84a9e94bf051cfe29ff67, http://117.199.76.142:33956/bin.sh
-149844, 2024-06-01 01:20:38, 2024-06-01 01:20:38, malware, 5b7e1c2f7fb7471c9d01b319038d0469, http://117.199.76.142:33956/
-149843, 2024-06-01 01:20:29, 2024-06-01 01:20:29, malware, 49d14293cdc84436a041e8da64d4e480, http://117.194.213.46:48119/Mozi.m
