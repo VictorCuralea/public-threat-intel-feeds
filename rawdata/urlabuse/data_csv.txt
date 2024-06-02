@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-02 00:00:01 UTC
+# UPDATE: 2024-06-02 01:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+150745, 2024-06-02 00:26:10, 2024-06-02 00:26:10, phishing, 8a9a70d991ede4d432d29e555b444881, http://update-verif6786.pages.dev
 150744, 2024-06-01 23:22:25, 2024-06-01 23:22:25, malware, 12e0b3243d7143f5bb37720766ba5791, http://66.54.98.51:44447/Mozi.m
 150743, 2024-06-01 23:22:14, 2024-06-01 23:22:14, malware, 1f069022c8fb40d79fee1631636b667a, http://60.254.71.43:40676/bin.sh
 150742, 2024-06-01 23:21:56, 2024-06-01 23:21:56, malware, cd9c1441d49b47729c39dff807df82aa, http://59.97.155.25:52463/bin.sh
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 150248, 2024-06-01 09:14:32, 2024-06-01 09:14:32, malware, 05a90fd65a0c423cbfc4759f278d4d38, http://42.57.198.77:34036/bin.sh
 150247, 2024-06-01 09:14:31, 2024-06-01 09:14:31, malware, d3d5f3219b2a4856b0338900740407ac, http://42.239.255.43:50199/bin.sh
 150246, 2024-06-01 09:14:29, 2024-06-01 09:14:29, malware, ba706981bb1848599c0201f35a651172, http://42.239.238.21:59482/i
-150245, 2024-06-01 09:14:27, 2024-06-01 09:14:27, malware, 0c4ebc53732f4b888891d2762aeb344d, http://42.239.238.21:59482/bin.sh
