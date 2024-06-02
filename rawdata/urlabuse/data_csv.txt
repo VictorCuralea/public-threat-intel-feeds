@@ -6,9 +6,23 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-02 10:00:02 UTC
+# UPDATE: 2024-06-02 11:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+151204, 2024-06-02 10:59:30, 2024-06-02 10:59:30, phishing, bbdd21053e63974a25ca29d1c4dffbfb, https://btcomss.weeblysite.com
+151203, 2024-06-02 10:58:03, 2024-06-02 10:08:13, phishing, ed3f315130f17ff6bf6b35e458b9bb91, https://btcomss.limesurvey.net/354779?newtest=Y
+151202, 2024-06-02 10:57:55, 2024-06-02 10:57:55, phishing, 0dbebb0e5caeea01827a30cf2c099b05, https://btbroadbandinfo.studio.site
+151201, 2024-06-02 10:57:33, 2024-06-02 10:06:16, phishing, 1ef3f51e383e5e0afb0de1ed77193970, https://www.dropbox.com/scl/fi/cbtr6hyhenl8qqcz061wk/BT-CO.paper?rlkey=c831livhha26jrxdxp1wapjwf
+151200, 2024-06-02 10:55:54, 2024-06-02 10:55:54, phishing, fa04b60519f73baa51d9b36e76537924, https://wanids7.wixsite.com/my-site
+151199, 2024-06-02 10:55:36, 2024-06-02 10:06:16, phishing, 267ec8b5c40f028711d1f791d966481f, https://socprofile.com/voice111
+151198, 2024-06-02 10:54:43, 2024-06-02 10:54:43, phishing, 767130647487cea4aa7191d58e982b9d, https://btmailsecure.weeblysite.com
+151197, 2024-06-02 10:54:30, 2024-06-02 10:02:18, phishing, 4e2280fa88de78d13ae476377c9aa1d9, https://btmailsecure.simdif.com/
+151196, 2024-06-02 10:53:58, 2024-06-02 10:53:58, phishing, 282e8a5b812ee9cc7ab21e1d70757f05, https://forecaster.info/Login.php?sslchannel=true&sessionid=X0vMFkl5ZJGhRQit9UVK0bUnTqBYFUi3MeX3d2n8rlfG2oNhptC3Ikr89K2hUhfPSL51aM7DpFCbd11bIEn7NYWwMOlRzb9gmtMiAIuIveyIienQzQhJJCad5EJLhUIZCW
+151195, 2024-06-02 10:53:25, 2024-06-02 09:04:15, phishing, c1070d30fef9b54271e72c5b860de7cb, https://bit.ly/MyEEBiII
+151194, 2024-06-02 10:24:14, 2024-06-02 10:24:14, phishing, fbf2ac8239bc08d1c70a1a6d1751f477, http://cdn.atinailz.ir
+151193, 2024-06-02 10:14:22, 2024-06-02 10:14:22, phishing, 5f4553e5269047f22ef164840a7b28fb, http://direct.atinailz.ir
+151192, 2024-06-02 10:08:15, 2024-06-02 10:08:15, phishing, 841ed706b340dad5d5c478fe1e032d1c, http://shopiabeauty.pages.dev
+151191, 2024-06-02 10:00:47, 2024-06-02 10:00:47, phishing, 55ce8b04bb33a4f696aaa397943257b1, http://rustblock.pages.dev/
 151190, 2024-06-02 09:46:15, 2024-06-02 09:46:15, phishing, 0510aa0376d8f313e7d0ac3a691771d7, http://cdnm.learning-home.ir
 151189, 2024-06-02 09:24:03, 2024-06-02 09:24:03, malware, 45042ad5a72844668331d34c2f0b03f5, http://61.53.132.166:51673/i
 151188, 2024-06-02 09:23:59, 2024-06-02 09:23:59, malware, 35f55b9384f7472aae4a4fba1fb3f756, http://59.92.171.117:40694/Mozi.m
@@ -495,17 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 150707, 2024-06-01 22:03:15, 2024-06-01 22:03:15, phishing, 185d9f8a79cb5a69adca61003c750fe9, https://pub-2136276242794adb8b05233d98f05f3e.r2.dev/secure.html
 150706, 2024-06-01 22:03:10, 2024-06-01 22:03:10, hacked, 0267c4b2393f2d1949d7181e3a6ec3db, https://serenium.samuelnobre.com.br
 150705, 2024-06-01 22:03:07, 2024-06-01 22:03:07, hacked, d6bd0c68df685f9ad802f1e2240a1c17, https://reformaradicaldolar.samuelnobre.com.br
-150704, 2024-06-01 22:02:47, 2024-06-01 22:02:47, hacked, 095d104b2f293b4946b037c466e13fca, https://neuronfocus.samuelnobre.com.br
-150703, 2024-06-01 22:02:27, 2024-06-01 22:02:27, hacked, a9ad3d52d2ca0acf37297d227a54bfa4, https://offcarb.samuelnobre.com.br
-150702, 2024-06-01 22:02:27, 2024-06-01 22:02:27, hacked, 31af037d4af6a654ef214fed18c23089, https://istanbulbitki.net/
-150701, 2024-06-01 22:02:25, 2024-06-01 22:02:25, hacked, 60020c430209042c846d28e869049846, https://relax3.samuelnobre.com.br
-150700, 2024-06-01 22:02:19, 2024-06-01 22:02:19, hacked, 524cc219f4e33a41e7bf88c1fbd4f3f5, https://secundariamixta20.edu.mx/wp/0X7.php
-150699, 2024-06-01 21:48:14, 2024-06-01 21:48:14, phishing, d611532a943a8eb719a9a78336041372, http://infraxfrenumber.pages.dev
-150698, 2024-06-01 21:23:57, 2024-06-01 21:23:57, malware, 62cc91be3ba4438e94177dc501bd5ab1, http://95.135.138.35:50783/i
-150697, 2024-06-01 21:23:56, 2024-06-01 21:23:56, malware, 8abb2f7310e546219e7c537130a43aef, http://78.188.91.108:53399/i
-150696, 2024-06-01 21:23:54, 2024-06-01 21:23:54, malware, e31f0eb9cc6c435c992e3bd81dd307e4, http://61.53.82.157:57964/Mozi.m
-150695, 2024-06-01 21:23:52, 2024-06-01 21:23:52, malware, 629c3d7ec08d4484943293352a0f76bb, http://61.53.132.166:51673/Mozi.m
-150694, 2024-06-01 21:23:47, 2024-06-01 21:23:47, malware, 7b0d82699d7f4d06a061de18910b1ccf, http://59.96.250.145:52355/Mozi.m
-150693, 2024-06-01 21:23:45, 2024-06-01 21:23:45, malware, 76a0bd2497ff465f9039fdefa08f6150, http://59.96.250.145:52355/
-150692, 2024-06-01 21:23:40, 2024-06-01 21:23:40, malware, 692adfa6d64e4762ba0990441582f944, http://59.91.87.219:56296/bin.sh
-150691, 2024-06-01 21:23:32, 2024-06-01 21:23:32, malware, ff6ea65064ab415fa1b518857cdeb136, http://59.89.5.7:35718/i
