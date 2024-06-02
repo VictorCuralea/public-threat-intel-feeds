@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-06-02 06:55:17 UTC                        #
+# Last updated: 2024-06-02 08:40:17 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	lamayokohama.shop
 127.0.0.1	drinkresources.rest
 127.0.0.1	haul.duckdns.org
 127.0.0.1	ranconimports.com
@@ -11042,4 +11043,4 @@
 127.0.0.1	downloads.media-talk.ru
 127.0.0.1	koroshishere.site
 127.0.0.1	download.micknow.com
-# Number of entries: 11036
+# Number of entries: 11037

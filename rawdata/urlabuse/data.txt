@@ -6,8 +6,9 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-02 08:00:01 UTC
+# UPDATE: 2024-06-02 09:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 151018, "url": "http://supersecure.superstaronline.site", "discovery": "2024-06-02 08:30:15", "added": "2024-06-02 08:30:15", "target": "TR-GOV", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "2fc1f5b6e90f8980a58e7e6391a9fe2c"}
 {"id": 151017, "url": "http://61.53.132.128:51548/bin.sh", "discovery": "2024-06-02 07:24:45", "added": "2024-06-02 07:24:45", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "0b7a3787cb7e46d3818594f0841fdb00"}
 {"id": 151016, "url": "http://61.53.123.28:34847/i", "discovery": "2024-06-02 07:24:43", "added": "2024-06-02 07:24:43", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "97444c0fb1d04b1d9e95db3e508d995e"}
 {"id": 151015, "url": "http://61.52.157.15:55321/Mozi.m", "discovery": "2024-06-02 07:24:32", "added": "2024-06-02 07:24:32", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "2cbdb6a85c2c404e93ba72efa9ee45ad"}
@@ -507,4 +508,3 @@
 {"id": 150521, "url": "http://superfareboard.pages.dev", "discovery": "2024-06-01 15:44:12", "added": "2024-06-01 15:44:12", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "d51302079798ac9eab8967c48fd0b01c"}
 {"id": 150520, "url": "http://hubmediacompany-pdf.pages.dev", "discovery": "2024-06-01 15:42:13", "added": "2024-06-01 15:42:13", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "bb9dd803c7e1ca2a80a017c475a0ae5e"}
 {"id": 150519, "url": "http://premiumni.ru", "discovery": "2024-06-01 15:36:13", "added": "2024-06-01 15:36:13", "target": "Telegram", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "f7a05a2ef12e0ad5f4bdfb500aa5920c"}
-{"id": 150518, "url": "https://web.tlgrm.app/", "discovery": "2024-06-01 14:23:23", "added": "2024-06-01 15:30:01", "target": "Telegram", "reporter": "stopmalwareservice", "AbuseType": "phishing", "UUID": "a049826e92b9723200dd79a7120e19f4"}
