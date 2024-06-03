@@ -6,9 +6,14 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-03 10:00:02 UTC
+# UPDATE: 2024-06-03 11:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+152156, 2024-06-03 10:46:17, 2024-06-03 10:46:17, phishing, 69dcfff37baa8876ca48faa64b5d5701, http://imzhtoken.ltd
+152155, 2024-06-03 10:44:15, 2024-06-03 10:14:16, phishing, 9a263d1a9a76717ee37867749b896be2, https://worker-flat-silence-59a0.fnon125214369778a.workers.dev/
+152154, 2024-06-03 10:44:05, 2024-06-03 10:21:26, phishing, 12e75b208a64614afea3cb3abec76367, https://ipfs.io/ipfs/bafkreiazsgrfeebai5rt5w3adu646h5z4c65u5xfdo5tyxmfmjux2klvci
+152153, 2024-06-03 10:43:54, 2024-06-03 10:19:32, phishing, 8c37b115247ce6fd734f472c6d63ce65, https://incognito-daramd-53figo.standard.us-east-1.oortech.com/2redirectscript.htm
+152152, 2024-06-03 10:04:13, 2024-06-03 10:04:13, phishing, fa34c286c2c7ea4b178067c26c8a1762, http://ynfh2dwgdtu.pages.dev
 152151, 2024-06-03 09:53:33, 2024-06-03 09:49:03, phishing, ba240b392ef996e398d1030b5ee73f52, https://pub-7de0ec2801aa49f1a460c8b3e500fe81.r2.dev/xlsx.html
 152150, 2024-06-03 09:53:07, 2024-06-03 09:38:16, phishing, eba2ff2fabf734738972f2bbbef5184b, https://q087aj6jxknb.e-branding-guide.icu/petition_case_ID/#2931910315
 152149, 2024-06-03 09:46:14, 2024-06-03 09:46:14, phishing, 1cca2616550076f79ecb51a0a2d7d3b6, http://t0kfnpofket.biz
@@ -504,8 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 151659, 2024-06-03 00:22:09, 2024-06-03 00:22:09, malware, c7bfa66374eb492f85f9fcb2cfc7cff7, http://219.157.33.43:35829/i
 151658, 2024-06-03 00:22:08, 2024-06-03 00:22:08, malware, cb29621373d0436fb6dad94003027d50, http://219.157.14.169:42935/i
 151657, 2024-06-03 00:22:07, 2024-06-03 00:22:07, malware, 6b478608bc864ec1bb7c7be2222a2957, http://219.155.5.223:47142/bin.sh
-151656, 2024-06-03 00:22:00, 2024-06-03 00:22:00, malware, 01af6ed010b9475da0cc368e6f292249, http://200.111.102.27:45584/i
-151655, 2024-06-03 00:21:38, 2024-06-03 00:21:38, malware, d529b53028674b1b8d351e475c1897d0, http://182.122.132.192:39489/bin.sh
-151654, 2024-06-03 00:21:37, 2024-06-03 00:21:37, malware, 7123ad09edce4e70a9e603e45e260802, http://182.121.253.161:55461/bin.sh
-151653, 2024-06-03 00:21:35, 2024-06-03 00:21:35, malware, ebddf0051b5a4472be9b296f04f3e88e, http://182.113.41.43:44786/i
-151652, 2024-06-03 00:21:34, 2024-06-03 00:21:34, malware, 27b36dd42c2c4d9c8452f5331782efaa, http://182.112.28.148:41521/i
