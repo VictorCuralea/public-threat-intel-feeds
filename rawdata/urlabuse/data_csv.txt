@@ -6,9 +6,18 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-03 08:00:01 UTC
+# UPDATE: 2024-06-03 09:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+151918, 2024-06-03 08:54:14, 2024-06-03 08:54:14, phishing, 98e7d6ecab50b7fbd380fa572ba6fe91, https://fravastands.com/citronier/feuillesverte/citronelle
+151917, 2024-06-03 08:46:16, 2024-06-03 08:46:16, phishing, 084757ba3fd93572ec693741a6d0c088, http://metroswiftapp.pages.dev
+151916, 2024-06-03 08:42:15, 2024-06-03 08:42:15, phishing, 521f12f3610d153fa57750d85b83ca92, http://laurakontol.pages.dev
+151915, 2024-06-03 08:22:13, 2024-06-03 08:22:13, phishing, 83ab34b212d3c0158519d5c6bc61812a, https://systembilling.weeblysite.com/
+151914, 2024-06-03 08:16:12, 2024-06-03 08:16:12, phishing, 4236769500ac296ae88f7f4b59695541, http://webmailserverservicesactionrequiredautneticatie02.pages.dev
+151913, 2024-06-03 08:12:15, 2024-06-03 08:12:15, phishing, 1916680bc073351ef7f11bf4664d2a95, http://soeceaoareasxzn.pages.dev
+151912, 2024-06-03 08:10:22, 2024-06-03 07:58:20, phishing, 5627c4654c87471b528e8f5ed7d0dd63, http://sup.dentese.shop/
+151911, 2024-06-03 08:09:57, 2024-06-03 06:46:15, phishing, d198fb85e37c871c143aa9aa69679eb2, https://mirror.rtzsend.com/20240531/a88458f7fef5dbd3bde8f6591affc8ae.html
+151910, 2024-06-03 08:06:15, 2024-06-03 08:06:15, phishing, 63344526b6bb1925cec3e666217da75f, http://reaoucxacnzxroa.pages.dev
 151909, 2024-06-03 07:46:31, 2024-06-03 07:46:31, phishing, 0cc21d15efdeb7639ba1b6ea6bba172c, http://telegrcma.vip
 151908, 2024-06-03 07:46:28, 2024-06-03 07:46:28, phishing, 24611ff4362b53cf756d57c0bf458182, http://telegpcrm.vip
 151907, 2024-06-03 07:46:28, 2024-06-03 07:46:28, phishing, 2aa3a7ebc7e8746f7bff0f54113711c9, http://teleprnm.vip
@@ -500,12 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 151421, 2024-06-02 17:23:00, 2024-06-02 17:23:00, malware, a8fc9c7352784dc9895891e0e187da18, http://39.170.49.133:50511/Mozi.m
 151420, 2024-06-02 17:22:57, 2024-06-02 17:22:57, malware, 216b76c5630848c78cf12af36e19f7b8, http://27.5.36.210:56102/i
 151419, 2024-06-02 17:22:52, 2024-06-02 17:22:52, malware, c2e0c0886abd43f381238dbc34c125c0, http://27.194.168.16:38788/i
-151418, 2024-06-02 17:22:50, 2024-06-02 17:22:50, malware, bbcc5dbcf6ed4feea60017ecf8482511, http://222.142.251.147:45524/
-151417, 2024-06-02 17:22:49, 2024-06-02 17:22:49, malware, cdd241cfcf944085b1056d86fd9149c9, http://219.157.33.43:35829/
-151416, 2024-06-02 17:22:47, 2024-06-02 17:22:47, malware, d4bf1a4964624b2abf2ac9c06c8acad8, http://219.157.215.5:50339/bin.sh
-151415, 2024-06-02 17:22:46, 2024-06-02 17:22:46, malware, f25f826e1a0c49d39605e691c7bedeec, http://196.217.160.35:47408/
-151414, 2024-06-02 17:22:43, 2024-06-02 17:22:43, malware, ab95548ab2ef49ca976325fc008fceb6, http://182.117.76.139:35101/i
-151413, 2024-06-02 17:22:41, 2024-06-02 17:22:41, malware, 8b7288560e3343e390cf91bf336ddc0e, http://182.116.69.8:60659/bin.sh
-151412, 2024-06-02 17:22:40, 2024-06-02 17:22:40, malware, 0fc855272784461abffb92bf92788b56, http://182.113.34.125:40731/i
-151411, 2024-06-02 17:22:38, 2024-06-02 17:22:38, malware, 4b84c9b527b94ddaacc66edbe8d730a0, http://182.113.34.125:40731/
-151410, 2024-06-02 17:22:37, 2024-06-02 17:22:37, malware, 8fcb48b5cdae4cc2846cf564b63f06a6, http://171.39.119.176:34573/i
