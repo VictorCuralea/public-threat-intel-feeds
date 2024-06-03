@@ -6,9 +6,15 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-03 04:00:01 UTC
+# UPDATE: 2024-06-03 05:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+151785, 2024-06-03 04:50:20, 2024-06-03 04:50:20, phishing, 0cb0a2469a9fa511fe2c1225ecba6896, http://ecosystemsolutions.litecsys.com
+151784, 2024-06-03 04:34:15, 2024-06-03 04:34:15, phishing, 48f5bcf40a7780dd7d054c9e005e1815, http://reckmainchain-app.pages.dev
+151783, 2024-06-03 04:04:14, 2024-06-03 04:04:14, phishing, c0ea50b9996466b48ea5d2633d15d802, https://login.microsoftonline.com.office.o365rp2.betagro.myshn.net/eb1f94dc-8d25-4c67-985c-04be74c8f698/oauth2/authorize?client%5Fid=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&response%5Fmode=form%5Fpost&response%5Ftype=code%20id%5Ftoken&resource=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&scope=openid&nonce=AA652C8160C97BBFD1FABDE8BBBC17276B4054821F45BB3A%2D9494F97AC9EF38FA6099D1F3B98CF849E1BF0CEFD1F649F25AD4F37A2F88DA8D&redirect%5Furi=https%3A%2F%2Fbetagro%2Dmy%2Esharepoint%2Ecom%2F%5Fforms%2Fdefault%2Easpx&state=OD0w&claims=%7B%22id%5Ftoken%22%3A%7B%22xms%5Fcc%22%3A%7B%22values%22%3A%5B%22CP1%22%5D%7D%7D%7D&wsucxt=1&cobrandid=11bd8083%2D87e0%2D41b5%2Dbb78%2D0bc43c8a8e8a&client%2Drequest%2Did=00e72ea1%2D20e8%2D3000%2D58c1%2Daa1317c2abd2&popupui=1
+151782, 2024-06-03 04:02:35, 2024-06-03 04:02:35, phishing, 8d41196f7d6d114df3f3d1424ef7bcd7, https://betagro-my.sharepoint.com.office.o365rp2.betagro.myshn.net/:x:/p/treephobw/EUgMzC_71EFOu_XsZai4EOQBOgAd4XRQTM19y5BGGC-SaA?e=cElCg4
+151781, 2024-06-03 04:02:21, 2024-06-03 04:02:21, phishing, c5b1de896c34ba112c9e5692b944a807, http://teieoram.com/
+151780, 2024-06-03 04:02:11, 2024-06-03 04:02:11, phishing, 5671ec22b312e18919a6f91ccc83fd5d, https://telegramgroupd4ting.privateboobs.click/
 151779, 2024-06-03 03:36:13, 2024-06-03 03:36:13, phishing, e3d9ff49bbf93f15421dbdc2c8b72108, http://e2ntfeg6.pages.dev
 151778, 2024-06-03 03:26:10, 2024-06-03 03:26:10, malware, 969bef65240a418aa6deabffd4b90e91, http://95.106.162.188:36203/bin.sh
 151777, 2024-06-03 03:26:09, 2024-06-03 03:26:09, malware, 026629682f40448ebe3225a2598cdb3b, http://77.45.154.106:56742/i
@@ -503,9 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 151288, 2024-06-02 14:04:16, 2024-06-02 14:04:16, hacked, 797317e493439bc37d1c7faaf5c2ea1d, https://guymplomb.com/
 151287, 2024-06-02 14:02:14, 2024-06-02 14:02:14, phishing, 04f0306ad623e3af307431a591835952, http://optingfrenscale.pages.dev
 151286, 2024-06-02 14:00:13, 2024-06-02 14:00:13, phishing, 23f909369251730f2d41197bd3590c60, http://fdsxaz2cds.pages.dev
-151285, 2024-06-02 13:52:12, 2024-06-02 13:52:12, phishing, b1ee4cc328b733b37f03add6941f1b94, http://joboptionsinc-docusign.pages.dev
-151284, 2024-06-02 13:40:15, 2024-06-02 13:40:15, phishing, 0bf94de8ee974f491f30e9b0eba3b64f, http://fsednpkelfp-5.pages.dev
-151283, 2024-06-02 13:40:13, 2024-06-02 13:40:13, phishing, b9cc94f452192193f2294bfe00d817c4, http://fsednpkelfp-5.pages.dev
-151282, 2024-06-02 13:25:50, 2024-06-02 13:25:50, malware, ed14607d89f34992910a3d5a5a9ee5c4, http://61.52.55.123:58446/bin.sh
-151281, 2024-06-02 13:25:48, 2024-06-02 13:25:48, malware, f79bd029b3df46258f89ff0c7fbd0776, http://61.0.151.44:59023/i
-151280, 2024-06-02 13:25:45, 2024-06-02 13:25:45, malware, e50fb6ca1bab40978cc69a8e5654375c, http://59.99.215.55:57791/bin.sh
