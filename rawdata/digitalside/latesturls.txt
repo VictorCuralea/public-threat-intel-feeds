@@ -7,7 +7,7 @@
 # PGP fingerprint: 0B4C F801 E8FF E9A3 A602  D2C7 9C36 93B2 30B3 1BDA #
 # Every link reported should be considered harmefull and should       #
 # result in an unwanted malware download. Use this file carefully    #
-# Generated at: 2024-06-03 17:40:51                                   #
+# Generated at: 2024-06-03 20:43:09                                   #
 #######################################################################
 http://101.109.234.248:54668/i
 http://101.161.231.223:1188/i
@@ -551,6 +551,9 @@ http://112.239.225.47:43058/bin.sh
 http://112.239.225.47:43058/i
 http://112.239.225.47:43058/Mozi.m
 http://112.239.229.19:39563/i
+http://112.239.98.5:59919/Mozi.m
+http://112.240.201.42:51512/bin.sh
+http://112.240.201.42:51512/i
 http://112.242.136.101:33025/bin.sh
 http://112.242.221.144:33025/bin.sh
 http://112.242.221.144:33025/i
@@ -1893,6 +1896,7 @@ http://115.55.239.6:54706/bin.sh
 http://115.55.239.6:54706/i
 http://115.55.240.61:35822/bin.sh
 http://115.55.240.61:35822/i
+http://115.55.245.109:57539/i
 http://115.55.246.8:57539/bin.sh
 http://115.55.246.8:57539/i
 http://115.55.247.23:54706/bin.sh
@@ -2684,6 +2688,7 @@ http://117.208.100.241:49479/bin.sh
 http://117.208.140.146:48052/Mozi.m
 http://117.208.141.12:39787/i
 http://117.208.162.102:40723/bin.sh
+http://117.208.210.35:59042/Mozi.m
 http://117.208.220.206:43057/Mozi.m
 http://117.208.232.222:54885/bin.sh
 http://117.208.232.96:47434/Mozi.a
@@ -3159,6 +3164,7 @@ http://117.254.99.52:34104/Mozi.m
 http://117.255.177.177:60173/Mozi.m
 http://117.255.178.191:34403/bin.sh
 http://117.255.178.191:34403/i
+http://117.255.180.149:33048/Mozi.m
 http://117.255.180.213:37439/Mozi.m
 http://117.255.180.40:39120/bin.sh
 http://117.255.180.40:39120/i
@@ -3239,6 +3245,7 @@ http://118.232.241.143:20511/i
 http://118.232.241.143:20511/.i
 http://118.233.116.14:56615/bin.sh
 http://118.233.116.14:56615/i
+http://118.233.116.14:56615/Mozi.a
 http://118.233.116.14:56615/Mozi.m
 http://118.233.242.3:62905/i
 http://118.34.86.112:4454/Mozi.m
@@ -4324,6 +4331,7 @@ http://14.153.54.16:44556/i
 http://14.153.55.114:40298/bin.sh
 http://14.153.55.65:42041/i
 http://14.154.160.52:59522/Mozi.m
+http://14.154.167.172:33584/Mozi.m
 http://14.155.16.128:40233/Mozi.m
 http://14.155.16.154:51731/i
 http://14.155.16.154:51731/Mozi.m
@@ -4835,8 +4843,6 @@ http://171.39.119.176:34573/i
 http://171.42.125.246:44367/Mozi.m
 http://171.80.77.25:55593/bin.sh
 http://171.80.77.25:55593/i
-http://172.105.107.238/bot.arm7
-http://172.105.107.238/bot.mips
 http://172.105.29.23:1338/packetsniffer.py
 http://172.105.29.23:1338/persistence.py
 http://172.105.29.23:1338/webcam.py
@@ -4866,6 +4872,7 @@ http://174.83.73.163:39363/Mozi.m
 http://175.0.94.163:44926/bin.sh
 http://175.0.94.163:44926/i
 http://175.0.94.163:44926/Mozi.m
+http://175.107.51.47:33625/bin.sh
 http://175.111.182.234:7619/i
 http://175.111.182.234:7619/.i
 http://175.111.182.237:7619/i
@@ -4927,6 +4934,7 @@ http://175.149.108.235:57546/i
 http://175.149.114.223:50887/bin.sh
 http://175.149.114.223:50887/i
 http://175.149.150.118:34122/bin.sh
+http://175.149.150.118:34122/i
 http://175.149.186.29:48786/bin.sh
 http://175.149.186.29:48786/i
 http://175.149.193.24:51209/bin.sh
@@ -5003,6 +5011,7 @@ http://175.171.208.237:34718/bin.sh
 http://175.171.208.237:34718/i
 http://175.172.171.201:44377/bin.sh
 http://175.172.171.201:44377/i
+http://175.172.171.201:44377/Mozi.m
 http://175.172.173.211:46434/i
 http://175.172.177.112:46434/i
 http://175.172.191.88:50278/bin.sh
@@ -5651,6 +5660,8 @@ http://182.127.112.179:57518/i
 http://182.127.126.178:41171/bin.sh
 http://182.127.126.178:41171/i
 http://182.127.35.241:40912/bin.sh
+http://182.127.38.198:40684/bin.sh
+http://182.127.38.198:40684/i
 http://182.127.39.171:36639/Mozi.m
 http://182.127.4.113:52745/bin.sh
 http://182.127.44.62:44133/bin.sh
@@ -5938,7 +5949,6 @@ http://185.172.128.151/8420e83ceb95f3af/softokn3.dll
 http://185.172.128.151/8420e83ceb95f3af/sqlite3.dll
 http://185.172.128.151/8420e83ceb95f3af/vcruntime140.dll
 http://185.172.128.159/dl.php
-http://185.172.128.16/aarm7
 http://185.172.128.16/bcm.sh
 http://185.172.128.16/bo
 http://185.172.128.16/boa
@@ -6048,12 +6058,6 @@ http://185.196.10.236/bins/sora.x86
 http://185.196.10.236/bins/sora.x86_64
 http://185.196.10.236/sora.sh
 http://185.196.8.112:8082/getfile.php?download=YXBwLXJlbGVhc2UtMS5hcGs=
-http://185.196.9.180/bins/sora.arm5
-http://185.196.9.180/bins/sora.arm7
-http://185.196.9.180/bins/sora.mips
-http://185.196.9.180/bins/sora.sh4
-http://185.196.9.180/bins/sora.spc
-http://185.196.9.180/bins/sora.x86
 http://185.196.9.58/debug.dbg
 http://185.196.9.58/goahead
 http://185.196.9.58/jaws
@@ -6424,7 +6428,6 @@ http://193.233.20.145/5710029e9331c3e2/nss3.dll
 http://193.233.20.145/5710029e9331c3e2/softokn3.dll
 http://193.233.20.145/5710029e9331c3e2/sqlite3.dll
 http://193.233.20.145/5710029e9331c3e2/vcruntime140.dll
-http://193.233.202.219/.cache/stak/xmrig
 http://193.239.254.115:28577/i
 http://193.239.254.115:28577/.i
 http://193.242.149.32:59728/i
@@ -6445,9 +6448,6 @@ http://193.68.79.82:56490/i
 http://193.68.79.82:56490/.i
 http://193.77.70.39:11954/.i
 http://193.95.254.50:40630/i
-http://194.169.175.19/bot.mpsl
-http://194.169.175.19/bot.x86
-http://194.169.175.19/bot.x86_64
 http://194.180.48.244/f39178c3b20212bf/freebl3.dll
 http://194.180.48.244/f39178c3b20212bf/msvcp140.dll
 http://194.180.48.244/f39178c3b20212bf/nss3.dll
@@ -7347,6 +7347,7 @@ http://223.10.4.46:59280/i
 http://223.10.51.174:49191/bin.sh
 http://223.10.51.174:49191/i
 http://223.10.51.174:49191/Mozi.m
+http://223.10.54.214:60398/bin.sh
 http://223.10.61.194:48472/bin.sh
 http://223.10.65.190:32999/bin.sh
 http://223.10.65.190:32999/i
@@ -7429,6 +7430,7 @@ http://223.8.238.101:41815/bin.sh
 http://223.8.239.126:60845/bin.sh
 http://223.8.239.126:60845/i
 http://223.8.37.157:60108/.i
+http://223.8.3.93:41775/Mozi.m
 http://223.8.44.169:55585/bin.sh
 http://223.8.44.169:55585/i
 http://223.8.9.158:3108/.i
@@ -7974,13 +7976,10 @@ http://37.194.25.119:32244/.i
 http://37.205.81.56:29406/.i
 http://37.209.164.96:26488/i
 http://37.209.164.96:26488/.i
-http://37.221.67.248/ARMV4L
-http://37.221.67.248/I586
-http://37.221.67.248/SH4
-http://37.221.67.248/SPARC
-http://37.221.67.248/X86_64
 http://37.221.92.121/bins/g4za.x86
 http://37.232.77.49:40165/Mozi.m
+http://37.247.108.128/bins/sora.m68k
+http://37.247.108.128/bins/sora.ppc
 http://37.252.66.188:12165/i
 http://37.252.66.188:12165/.i
 http://37.255.216.183:55710/i
@@ -8032,6 +8031,7 @@ http://39.174.238.43:42079/Mozi.m
 http://39.174.238.43:49155/bin.sh
 http://39.174.238.55:48749/Mozi.m
 http://39.174.238.56:53361/Mozi.m
+http://39.174.238.56:56357/bin.sh
 http://39.174.238.56:56357/Mozi.a
 http://39.174.238.59:40609/Mozi.m
 http://39.174.238.79:57287/Mozi.m
@@ -8148,6 +8148,7 @@ http://42.176.37.142:43948/i
 http://42.177.102.111:40361/i
 http://42.177.102.111:40361/Mozi.m
 http://42.177.105.78:38137/Mozi.m
+http://42.177.105.88:55054/i
 http://42.177.110.208:54084/bin.sh
 http://42.177.110.208:54084/i
 http://42.177.121.27:45147/bin.sh
@@ -8789,7 +8790,6 @@ http://46.52.164.170:29443/.i
 http://46.72.31.77:59567/i
 http://46.99.218.152:27976/i
 http://46.99.218.152:27976/.i
-http://47.104.173.216:8081/GGWS_UPLOAD.exe
 http://47.111.135.21:8080/updatas
 http://47.50.169.82:55508/i
 http://47.50.169.82:55508/.i
@@ -8832,6 +8832,7 @@ http://49.89.64.73:31748/.i
 http://50.175.37.220:1141/sshd
 http://50.43.49.78/dirtypipez
 http://50.43.49.78/dirtypipez.c
+http://50.82.131.30:29742/.i
 http://5.10.183.36:22146/i
 http://5.10.183.36:22146/.i
 http://5.102.53.66:61232/i
@@ -9202,6 +9203,7 @@ http://59.91.80.156:35657/bin.sh
 http://59.91.81.149:47608/i
 http://59.91.82.198:47918/bin.sh
 http://59.91.82.198:47918/i
+http://59.91.82.3:59544/Mozi.a
 http://59.91.83.1:39559/i
 http://59.91.84.142:36857/Mozi.m
 http://59.91.85.8:33581/Mozi.m
@@ -9221,6 +9223,7 @@ http://59.92.174.199:50001/bin.sh
 http://59.92.174.199:50001/i
 http://59.92.174.37:38694/Mozi.m
 http://59.92.175.175:37419/Mozi.m
+http://59.92.177.192:36022/Mozi.m
 http://59.92.189.189:36479/Mozi.m
 http://59.92.206.32:52984/Mozi.m
 http://59.92.40.88:51144/Mozi.m
@@ -10165,17 +10168,6 @@ http://85.204.107.43/mpsl
 http://85.204.107.43/x86_32
 http://85.204.107.43/x86_64
 http://85.239.34.203/Y91/x86
-http://85.239.34.213/AB4g5/Josho.arm
-http://85.239.34.213/AB4g5/Josho.arm5
-http://85.239.34.213/AB4g5/Josho.arm6
-http://85.239.34.213/AB4g5/Josho.arm7
-http://85.239.34.213/AB4g5/Josho.m68k
-http://85.239.34.213/AB4g5/Josho.mips
-http://85.239.34.213/AB4g5/Josho.mpsl
-http://85.239.34.213/AB4g5/Josho.ppc
-http://85.239.34.213/AB4g5/Josho.sh4
-http://85.239.34.213/AB4g5/Josho.spc
-http://85.239.34.213/AB4g5/Josho.x86
 http://85.26.140.99:54093/bin.sh
 http://85.26.140.99:54093/i
 http://85.29.137.243:24679/i
@@ -10833,9 +10825,6 @@ http://moneylandry.com/2ccaf544c0cf7de7/nss3.dll
 http://moneylandry.com/2ccaf544c0cf7de7/softokn3.dll
 http://moneylandry.com/2ccaf544c0cf7de7/sqlite3.dll
 http://moneylandry.com/2ccaf544c0cf7de7/vcruntime140.dll
-http://myra.re/bot.arm7
-http://myra.re/bot.mips
-http://myra.re/bot.mpsl
 http://normanhoffman.top/c043bcd0ba06ae1d/sqlite3.dll
 http://oys0ro.static.otenet.gr:39497/.i
 http://ronaldlitt.top/3abdf8b5527012d0/freebl3.dll
@@ -10889,6 +10878,7 @@ https://ccwaterfall.com/products/reader.zip
 https://cdn.discordapp.com/attachments/1232238430654562385/1244815175232782457/AWB_UHT12972477012pdf.gz?ex=66567bf9&is=66552a79&hm=30a2c409f042219fd66c748b00688464feafeb03ae77fdcafd35794c1fccb4a3&
 https://cdn.discordapp.com/attachments/1246131714309357644/1246860206160351243/updater.exe?ex=665dec8e&is=665c9b0e&hm=e91c7c32352f1ef8db9da88575df7aa54cf0242635e24e888ef0761661d06029&
 https://cdn-download.avgbrowser.com/avg/avg_secure_browser_setup.exe?nouac=1&cid=9249&source_tag=100#pc
+https://cecil.com.eg/temp/legendainstalls.exe
 https://covid19help.top/ocean.scr
 https://ddzandroid-1254106500.cos.ap-shanghai.myqcloud.com/quwan/4.2.4/ddz_424.apk
 https://dl.aginjector.com/AG_Injector_Latest.apk
@@ -10926,7 +10916,6 @@ https://free.360totalsecurity.com/totalsecurity/360TS_Setup_Mini_WW.Peter.CPI202
 https://gawx.florenda.com/static/tiktok/ready.apk
 https://imtoken8.cc/imToken.apk
 https://imtokeon.com/download/imToken.apk
-https://kostumn1.ilabserver.com/1.zip
 https://mediaclubspot.com/installer.msi
 https://mloadrelktrrtkldswcewe.top/dwnload/cheat.php/?KIDDIONSMODMENU
 https://orlandovargas.pro/%40DDRI_0.exe
@@ -10966,12 +10955,6 @@ http://systemupdate-microsoft.top/852ee5ffe0de00c3/softokn3.dll
 http://systemupdate-microsoft.top/852ee5ffe0de00c3/sqlite3.dll
 http://systemupdate-microsoft.top/852ee5ffe0de00c3/vcruntime140.dll
 https://yusjfnf.com/%E6%9D%BF%E5%BC%8F%E6%96%87%E6%A1%A3%E4%B8%8B%E8%BD%BDTo6023_steup.exe
-http://test.fynndows.de/f2q2kke5aadloo4aasdjjjfirbmw/0xh0roxxnavebusyoo.arm6
-http://test.fynndows.de/f2q2kke5aadloo4aasdjjjfirbmw/0xh0roxxnavebusyoo.arm7
-http://test.fynndows.de/f2q2kke5aadloo4aasdjjjfirbmw/0xh0roxxnavebusyoo.i486
-http://test.fynndows.de/f2q2kke5aadloo4aasdjjjfirbmw/0xh0roxxnavebusyoo.i686
-http://test.fynndows.de/f2q2kke5aadloo4aasdjjjfirbmw/0xh0roxxnavebusyoo.mips
-http://test.fynndows.de/f2q2kke5aadloo4aasdjjjfirbmw/0xh0roxxnavebusyoo.x86
 http://tiktok.florenda.com/static/tiktok/ready.apk
 http://tongzhiz3.cn/%E7%A8%BD%E6%9F%A5%E4%BA%8B%E9%A1%B9%E9%80%9A%E7%9F%A5%E5%86%8C-%E7%BB%88%E7%AB%AF.exe
 http://www.btyrtr2.com/setup%E4%B8%8B%E8%BD%BD%E5%90%8D%E5%8D%95%E7%9B%AE%E5%BD%956002.exe

@@ -6,9 +6,15 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-03 18:00:01 UTC
+# UPDATE: 2024-06-03 19:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+152468, 2024-06-03 18:56:11, 2024-06-03 18:56:11, phishing, 1f7fd58fb035dd824b48905da97d5b8c, http://du-home.umutsar.com
+152467, 2024-06-03 18:34:15, 2024-06-03 18:34:15, phishing, cee4fcb2b094863bc393aa51746b1ad0, http://feuikoaksiu873094875ndjuiamskdieu472039oidksnahsy64yusjdk4.pages.dev
+152466, 2024-06-03 18:20:14, 2024-06-03 18:20:14, phishing, 52ac4c46b59ee71ec1e7bd4dbbef5a3a, http://eqypayua22.wiki
+152465, 2024-06-03 18:20:12, 2024-06-03 18:20:12, phishing, fb94e2c3a9662f9bda15a958d9cfb8d9, http://domainbroadcastrealizationinternationalservice4.pages.dev
+152464, 2024-06-03 18:14:12, 2024-06-03 18:14:12, phishing, 63473b5e98b4a69ae392271cd8300cd6, http://olucaaksmdi.wiki
+152463, 2024-06-03 18:10:15, 2024-06-03 18:10:15, phishing, 379bb2bf18073218dc59e94ad561cb7b, http://earning-avenue.pages.dev
 152462, 2024-06-03 17:29:19, 2024-06-03 17:10:13, phishing, d96a10898cba989b5396e5b286f459ea, https://js9198482.wixsite.com/my-site-1
 152461, 2024-06-03 17:26:55, 2024-06-03 17:26:55, malware, 52fa7c1b1a50449fab3f264ce1d17bf2, http://61.53.92.105:38571/bin.sh
 152460, 2024-06-03 17:26:53, 2024-06-03 17:26:53, malware, a572176f94c84b17a1fa91bd29e547ed, http://61.53.204.210:42214/i
@@ -503,9 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 151971, 2024-06-03 09:07:54, 2024-06-03 09:07:54, malware, ddccaa0f729b4c2b92294dd1afe40bc7, http://117.193.173.198:40331/bin.sh
 151970, 2024-06-03 09:07:49, 2024-06-03 09:07:49, malware, afe588e633eb404599cb7e344bb119dd, http://117.193.173.186:38214/bin.sh
 151969, 2024-06-03 09:07:43, 2024-06-03 09:07:43, malware, 6c61364499c94be7a99c9b5be1836f65, http://116.138.189.114:49059/bin.sh
-151968, 2024-06-03 09:07:41, 2024-06-03 09:07:41, malware, bbc27d85d6ab47238f1cdf42ab7d6bb3, http://115.58.140.226:48340/Mozi.m
-151967, 2024-06-03 09:07:39, 2024-06-03 09:07:39, malware, 7b25401a6f534f8288fdbbd5f00f6bcb, http://115.56.45.68:45496/bin.sh
-151966, 2024-06-03 09:07:38, 2024-06-03 09:07:38, malware, a247c30d9e934e43bbfff242de278551, http://115.56.128.69:46778/i
-151965, 2024-06-03 09:07:36, 2024-06-03 09:07:36, malware, 819b16d757b346cea6524455b733bace, http://115.55.72.145:52016/Mozi.m
-151964, 2024-06-03 09:07:35, 2024-06-03 09:07:35, malware, 36f3d9ea56374206a1d3a3d85a417e31, http://115.52.63.108:55615/Mozi.m
-151963, 2024-06-03 09:07:33, 2024-06-03 09:07:33, malware, c99a2a6902d849fa810acdfc22806dba, http://115.52.3.78:56303/Mozi.m
