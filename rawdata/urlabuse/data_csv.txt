@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-02 23:00:01 UTC
+# UPDATE: 2024-06-03 00:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+151632, 2024-06-02 23:44:18, 2024-06-02 23:44:18, phishing, b3bd9957426d78f4a1c29af378fbfeb3, http://nc-sharepoint.adelaide.edu.au
+151631, 2024-06-02 23:30:11, 2024-06-02 23:30:11, phishing, 2a57fb7a1520c30ed4d230b84f8bce0b, http://worker-lingering-cloud-b181.bcs-payroll.workers.dev
 151630, 2024-06-02 22:54:13, 2024-06-02 22:54:13, phishing, f91b6d4659c7302c6804d824283ae032, http://opentoksrevchain.pages.dev
 151629, 2024-06-02 22:32:19, 2024-06-02 22:32:19, phishing, a7160829f7211d96126c74a9a82bc2fe, http://tokenpcoket.co
 151628, 2024-06-02 22:26:13, 2024-06-02 22:26:13, phishing, cc5894a952073f49a67fa601f08c7d29, http://b2-520.pages.dev
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 151135, 2024-06-02 09:11:39, 2024-06-02 09:11:39, malware, 8be106b494e74cdb9ff0dc22517ebc22, http://42.226.68.170:54125/i
 151134, 2024-06-02 09:11:37, 2024-06-02 09:11:37, malware, 2ed64cd68ed643d8b4ca78621f42e51e, http://42.226.68.170:54125/bin.sh
 151133, 2024-06-02 09:11:36, 2024-06-02 09:11:36, malware, 9088cc931bae4b009490def36772754f, http://42.225.197.89:49270/bin.sh
-151132, 2024-06-02 09:11:34, 2024-06-02 09:11:34, malware, 341215cc347d441295c03ba078bce722, http://42.224.4.69:40012/Mozi.m
-151131, 2024-06-02 09:11:33, 2024-06-02 09:11:33, malware, 0208e00d92434a9c99b74309dc3a8df5, http://42.224.253.45:40481/bin.sh
