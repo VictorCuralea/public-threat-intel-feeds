@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-06-03 13:34:25 UTC                        #
+# Last updated: 2024-06-03 16:53:05 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	update.mirrorss.top
+127.0.0.1	upgrade.mirrorss.top
 127.0.0.1	theonelartist.com
 127.0.0.1	load.memoryloader.com
 127.0.0.1	memoryloader.com
@@ -11008,4 +11010,4 @@
 127.0.0.1	ns2.electric-coop.com
 127.0.0.1	ns1.electric-coop.com
 127.0.0.1	greatesttreatise.com
-# Number of entries: 11002
+# Number of entries: 11004
