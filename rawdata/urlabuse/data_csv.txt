@@ -6,9 +6,15 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-03 06:00:01 UTC
+# UPDATE: 2024-06-03 07:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+151855, 2024-06-03 06:48:13, 2024-06-03 06:48:13, phishing, 99901954e356e41697a45d678f4508f9, http://efos221n32.wiki
+151854, 2024-06-03 06:46:16, 2024-06-03 06:46:16, phishing, 5258d175068ff30362295633c8a99270, https://cd62706.tw1.ru/Orange22/
+151853, 2024-06-03 06:46:16, 2024-06-03 06:46:16, phishing, 140683529c090ec59e35a13354d7dec5, https://cf43033.tw1.ru/
+151852, 2024-06-03 06:20:11, 2024-06-03 06:20:11, phishing, cda715935b559f7ba85c19011cd7b145, http://cloudns11.pages.dev
+151851, 2024-06-03 06:18:14, 2024-06-03 06:18:14, phishing, ccde076dcd0a54e346aa8b6487442d9a, https://ykc.bzx.mybluehost.me/wp-includes/PASS/
+151850, 2024-06-03 06:00:12, 2024-06-03 06:00:12, phishing, e43ce8ba2d5f917c927490d46feb34f0, http://islem-hizlica.site
 151849, 2024-06-03 05:56:13, 2024-06-03 05:56:13, phishing, a638ff533cd0410fa4ebbfc833bea6ca, http://xpsky.pages.dev
 151848, 2024-06-03 05:50:10, 2024-06-03 05:50:10, phishing, 20fad966fd69d713ee43bcce937e7e31, http://j9et2ccx.pages.dev
 151847, 2024-06-03 05:48:13, 2024-06-03 05:48:13, phishing, cce2451b38811719cd0a3ec5403c467f, http://sonadimislemnz.com
@@ -503,9 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 151358, 2024-06-02 15:38:14, 2024-06-02 15:38:14, phishing, ab065f8ba84ec60b79ee0e409b0183d1, http://page-timeqmjhs.pages.dev
 151357, 2024-06-02 15:31:43, 2024-06-02 15:31:43, phishing, 65b95ec378727cc25b13f997626a9ee9, http://1610.aijiesuo.com
 151356, 2024-06-02 15:31:24, 2024-06-02 15:31:24, phishing, 68beef55f9bb52e107dddf360536d2ca, http://0322.qsyuncai.com
-151355, 2024-06-02 15:28:26, 2024-06-02 15:28:26, phishing, ac94ec6bc7573e1505cb9d58ab3dbaba, http://7052.daodasf.com
-151354, 2024-06-02 15:25:58, 2024-06-02 15:25:58, phishing, 479f5463947c32f0c9981e71c3fab93c, http://8885.jthbgg.com
-151353, 2024-06-02 15:24:52, 2024-06-02 15:24:52, malware, f042cec413bf4f8f9586f6b0e7fcb6a0, http://59.89.68.31:59794/
-151352, 2024-06-02 15:24:45, 2024-06-02 15:24:45, malware, 02e34f2eb283451b817a127f6ba2ebd5, http://59.89.195.67:43174/bin.sh
-151351, 2024-06-02 15:24:44, 2024-06-02 15:24:44, malware, ced6344b7e5d4c8a99a37f08cca167ce, http://59.88.224.129:60532/i
-151350, 2024-06-02 15:24:42, 2024-06-02 15:24:42, malware, c484a4c1ef5744418ccb534c7af07296, http://59.88.224.129:60532/bin.sh
