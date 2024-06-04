@@ -6,9 +6,20 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-04 16:00:02 UTC
+# UPDATE: 2024-06-04 17:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+153467, 2024-06-04 16:54:19, 2024-06-04 16:54:19, phishing, 7d07e4f9c7830fb9ea4e573f2ab61cee, http://fastauthewalletether.com
+153466, 2024-06-04 16:54:19, 2024-06-04 16:54:19, phishing, 7d8e860cd780eb077fba30f2902b791e, http://fastauthewalletethersyncx.com
+153465, 2024-06-04 16:52:17, 2024-06-04 16:52:17, phishing, 83c5a08db5db468f5bfe46e374b53d71, http://fastauthewalletsether.com
+153464, 2024-06-04 16:42:13, 2024-06-04 16:42:13, phishing, 69c1a1e9c5e335c291147f2a4a5c39ff, http://bluestarbiopharma.pages.dev
+153463, 2024-06-04 16:08:17, 2024-06-04 16:08:17, phishing, 658f272e2cf4927426471deda309a4d5, http://utwsp.com
+153462, 2024-06-04 16:08:17, 2024-06-04 16:08:17, phishing, f139f84a432cb3becffa2f4dffaf046a, http://utwdv.com
+153461, 2024-06-04 16:04:19, 2024-06-04 16:04:19, phishing, 390f458256586791b339a8308810e07f, https://ipfs.io/ipfs/bafybeiegm4lvhnpxshgq3lqlq2kyckmehqz6ntvvidzstxjqdg5a4ryd3e/
+153460, 2024-06-04 16:02:55, 2024-06-04 16:02:55, phishing, e43338c41549a0b6364301916e3876a4, http://utqad.com
+153459, 2024-06-04 16:02:43, 2024-06-04 16:02:43, phishing, 8962d6e1f3916eb0e50b73c4c198e17b, http://pub-51e2b30cd4ec421b9b3660945793dfc7.r2.dev/verifications.html
+153458, 2024-06-04 16:02:39, 2024-06-04 16:02:39, phishing, 83d45e8ac7ff7c1f27d447b7ace1b487, http://m.exactag.com/cl.aspx?extCa=923&extTcm=smo_fb_online&url=https://cloudflare-ipfs.com/ipfs/bafybeiegm4lvhnpxshgq3lqlq2kyckmehqz6ntvvidzstxjqdg5a4ryd3e/
+153457, 2024-06-04 16:00:15, 2024-06-04 16:00:15, phishing, 8cf60d81619625c32ba102195baac045, http://utqag.com
 153456, 2024-06-04 15:58:16, 2024-06-04 15:58:16, phishing, 8d3789a8a90004165c1a898f3e07cc7a, http://utwfe.com
 153455, 2024-06-04 15:56:14, 2024-06-04 15:56:14, phishing, 4a69d431f8d3d110ac3433d2728aa35d, http://utwdh.com
 153454, 2024-06-04 15:50:13, 2024-06-04 15:50:13, phishing, eace4e3bd1267f00cf801fffc6159bdc, http://securatech.pages.dev
@@ -498,14 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 152969, 2024-06-04 09:05:00, 2024-06-04 09:05:00, malware, 6802c72f62c4462684aa3f5acccbfe17, http://103.14.48.254/git
 152968, 2024-06-04 09:04:59, 2024-06-04 09:04:59, malware, 49784ef429734de5a1a6d1cba102583a, http://103.14.48.254/div
 152967, 2024-06-04 09:04:58, 2024-06-04 09:04:58, malware, 60c0fc532b4c4948b3ac1733688c9bf1, http://103.14.48.254/cata.jpg
-152966, 2024-06-04 09:04:15, 2024-06-04 09:04:15, malware, 6f647bfa0dca423ab0786d147704e87d, http://103.14.48.254/brute
-152965, 2024-06-04 09:03:54, 2024-06-04 09:03:54, malware, 45b6d004c14646c08e2488f22b20c888, http://103.14.48.254/a.sh
-152964, 2024-06-04 09:03:53, 2024-06-04 09:03:53, malware, f2c9e56ef24847ecb7dd9bc0b6a8fae2, http://101.108.13.132:36107/bin.sh
-152963, 2024-06-04 09:00:14, 2024-06-04 09:00:14, phishing, c5257bd62f2f9ccf536d07cf3ed9056a, http://d2608.top
-152962, 2024-06-04 08:58:15, 2024-06-04 08:58:15, phishing, 7bc523c867fd71ecc43a7f73bb511279, http://uupreaxcc.pro
-152961, 2024-06-04 08:52:13, 2024-06-04 08:52:13, phishing, f3d30f3a3e23e04142bb81c9c6518de6, https://docs.google.com/presentation/d/e/2PACX-1vQBWEbUhjk9Fn2pokjoILRVz2K3STFXCMBxXeU6ukFZV70W9baV5GkuXsO_IcWiFi87NYh7BPtOuMow/pub?start=false
-152960, 2024-06-04 08:46:12, 2024-06-04 08:46:12, phishing, bf9815cafd48c088919a03b1d70aa64a, https://btinternet-105817.weeblysite.com/
-152959, 2024-06-04 08:18:15, 2024-06-04 08:18:15, phishing, 7101bc8c72332f8ad138fc8bd0c6a37f, https://xur.kwi.mybluehost.me/website_b0d15817/dircho/login/login.php?#signin
-152958, 2024-06-04 08:16:13, 2024-06-04 08:16:13, phishing, a80cbfa57d474a2111bc5c9e3f5e49ca, https://sites.google.com/view/likonmodi
-152957, 2024-06-04 08:14:20, 2024-06-04 08:14:20, phishing, 06aa480fa4a5c0f60df9f37769f1d576, http://b7859.top
-152956, 2024-06-04 08:14:14, 2024-06-04 08:14:14, phishing, 7998e91b4a2dd063da1f87c3429fecfe, https://blo.dejakorbisdolmine.org/
