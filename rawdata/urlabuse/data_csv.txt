@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-04 02:00:01 UTC
+# UPDATE: 2024-06-04 03:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+152708, 2024-06-04 02:30:12, 2024-06-04 02:30:12, phishing, 4e69cee0397eb9fbd69c6257416b88a0, http://telegram-group.pages.dev
 152707, 2024-06-04 01:52:13, 2024-06-04 01:52:13, phishing, 907f3be08a08fe63ee807acd74cb5ac3, http://carte-vitale-renouvellement.fr
 152706, 2024-06-04 01:24:07, 2024-06-04 01:24:07, malware, 162bc8773947441fbf49d138bdcd29f5, http://61.53.204.210:42214/bin.sh
 152705, 2024-06-04 01:24:06, 2024-06-04 01:24:06, malware, 406b9e9c3816426486a8e24c03d6114d, http://61.52.230.9:53400/bin.sh
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 152211, 2024-06-03 13:21:15, 2024-06-03 13:21:15, malware, 7449feb22f25434cbb0d36f27bbe9698, http://117.204.202.226:43464/i
 152210, 2024-06-03 13:21:10, 2024-06-03 13:21:10, malware, ca4f94e736b949ecb56e351028274ef1, http://117.204.202.226:43464/bin.sh
 152209, 2024-06-03 13:21:07, 2024-06-03 13:21:07, malware, b23d64a07063404988c7ccc2e7d53b9f, http://117.201.15.107:39653/i
-152208, 2024-06-03 13:20:42, 2024-06-03 13:20:42, malware, b57789228eca439cb429186304c6f038, http://117.192.58.187:38044/bin.sh
