@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-06-03 16:53:05 UTC                        #
+# Last updated: 2024-06-04 05:26:06 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	languangjob.com
+127.0.0.1	voip.analytics-edges.com
+127.0.0.1	wear626.com
+127.0.0.1	win32.duckdns.org
+127.0.0.1	so-taxi.gl.at.ply.gg
 127.0.0.1	update.mirrorss.top
 127.0.0.1	upgrade.mirrorss.top
 127.0.0.1	theonelartist.com
@@ -11006,4 +11011,4 @@
 127.0.0.1	getwiththelingo.com
 127.0.0.1	bolo.lmanber.fun
 127.0.0.1	btldinc7.sytes.net
-# Number of entries: 11000
+# Number of entries: 11005
