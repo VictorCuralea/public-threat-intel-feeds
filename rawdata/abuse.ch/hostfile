@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-06-04 13:37:46 UTC                        #
+# Last updated: 2024-06-04 22:15:22 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	service-62fercq6-1314780031.nj.apigw.tencentcs.com
+127.0.0.1	service-owedaeao-1304783326.gz.tencentapigw.com.cn
 127.0.0.1	service-6xro0ifb-1253442149.bj.tencentapigw.com.cn
 127.0.0.1	dns.163microsoft.com
 127.0.0.1	goudieelectric.shop
@@ -10969,6 +10971,4 @@
 127.0.0.1	www.alvarezconstructionri.com
 127.0.0.1	mta1.candledmush.net
 127.0.0.1	darklight.website
-127.0.0.1	chateau-saint-benoit.89-163-255-130.plesk.page
-127.0.0.1	www.usagers.antai.webgouv.fr.89-163-255-130.plesk.page
 # Number of entries: 10965
