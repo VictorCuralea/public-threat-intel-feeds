@@ -6,9 +6,17 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-04 10:00:01 UTC
+# UPDATE: 2024-06-04 11:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+153168, 2024-06-04 10:34:56, 2024-06-04 09:48:13, phishing, be7a705f95eb8d91ee5068d6d8fcbf63, https://flowcv.me/jhshshhgs
+153167, 2024-06-04 10:32:14, 2024-06-04 10:32:14, phishing, 3d38df9b795b3390a02bf026df6ac69c, http://starfleet.studio
+153166, 2024-06-04 10:20:15, 2024-06-04 10:20:15, phishing, 81c11cd086f3fbf409d73efd570d7fcf, https://bbtt-103197.weeblysite.com/
+153165, 2024-06-04 10:16:12, 2024-06-04 10:16:12, phishing, 984ae019e20eafb38b961a8f5604bd7b, https://ergthyjtrrgg.weebly.com/
+153164, 2024-06-04 10:08:10, 2024-06-04 10:08:10, phishing, f851247dc79f3c662a836f67fb942a4a, http://alfobrurika.com
+153163, 2024-06-04 10:03:35, 2024-06-04 10:03:35, phishing, c9de618c6d512f39b3b5d941715e8e11, http://pub-aeb14407c05d46268e869ff4b4e89ecb.r2.dev/index.html
+153162, 2024-06-04 10:03:22, 2024-06-04 10:03:22, phishing, 43fe944fee0017517a592d62e8b2d881, https://hj8jywc4m5q-1324839608.cos.ap-beijing-fsi.myqcloud.com/hj8jywc4m5q.html
+153161, 2024-06-04 10:02:11, 2024-06-04 10:02:11, phishing, 83610d79b2251890a8cce885c372102f, https://telegramdattingfreeloveme.pages.dev/
 153160, 2024-06-04 09:52:13, 2024-06-04 09:52:13, phishing, 717d88760510108b4adc63e11f15d741, http://utwdx.com
 153159, 2024-06-04 09:52:13, 2024-06-04 09:52:13, phishing, f3537c839e0eadcc5f22754e3ddec835, http://utwdk.com
 153158, 2024-06-04 09:41:20, 2024-06-04 09:20:18, phishing, 74e98c5b067005d4c3e5b8e572df20a1, https://f564-823f6.firebaseapp.com/
@@ -501,11 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 152671, 2024-06-04 01:22:24, 2024-06-04 01:22:24, malware, b0559ee0fadd497090cb99260c4ff063, http://123.10.129.120:46883/bin.sh
 152670, 2024-06-04 01:22:21, 2024-06-04 01:22:21, malware, bf492af347f2446199354ad881ebaab6, http://119.180.220.227:48445/i
 152669, 2024-06-04 01:22:19, 2024-06-04 01:22:19, malware, ffa75a10c3cd4eb4bd493971915f6e48, http://119.180.220.227:48445/bin.sh
-152668, 2024-06-04 01:21:57, 2024-06-04 01:21:57, malware, 4ac71312ad224a6fbb4bb3cf13254775, http://117.245.216.14:33598/bin.sh
-152667, 2024-06-04 01:21:55, 2024-06-04 01:21:55, malware, f9353d6b746e48018f142e2e765bf518, http://117.242.237.27:55655/Mozi.m
-152666, 2024-06-04 01:21:33, 2024-06-04 01:21:33, malware, db99e64b42034654b4b0e1755dc8bb05, http://117.242.232.81:35718/bin.sh
-152665, 2024-06-04 01:21:31, 2024-06-04 01:21:31, malware, 099456355bf3435f9eb9b900afd7d00e, http://117.220.144.155:37633/i
-152664, 2024-06-04 01:21:29, 2024-06-04 01:21:29, malware, 31d0f2e432d04a26a0cd2d9add7b14da, http://117.216.69.106:60584/i
-152663, 2024-06-04 01:21:14, 2024-06-04 01:21:14, malware, e23803ff337f4976a99c3ea11e13ffbc, http://117.207.241.209:56661/Mozi.m
-152662, 2024-06-04 01:20:52, 2024-06-04 01:20:52, malware, f568ee6120bc461d8c6f585c1dac638a, http://117.204.203.171:55983/i
-152661, 2024-06-04 01:20:50, 2024-06-04 01:20:50, malware, 5d08e72e8d8b408eb7c1e239aa1c298b, http://117.204.201.220:43873/bin.sh
