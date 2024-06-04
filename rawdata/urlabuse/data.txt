@@ -6,8 +6,10 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-04 00:00:01 UTC
+# UPDATE: 2024-06-04 01:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 152646, "url": "http://111-82k.pages.dev", "discovery": "2024-06-04 00:18:13", "added": "2024-06-04 00:18:13", "target": "Amazon", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "f32ea983043cc11f51822af7583e8b94"}
+{"id": 152645, "url": "http://telegramsexmiranda.pages.dev", "discovery": "2024-06-04 00:16:11", "added": "2024-06-04 00:16:11", "target": "Telegram", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "30fc47e73b64869607849032ed337673"}
 {"id": 152644, "url": "http://80.80.144.46:60298/i", "discovery": "2024-06-03 23:25:09", "added": "2024-06-03 23:25:09", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "e42becee62e94ad393ea78c62952def3"}
 {"id": 152643, "url": "http://61.53.150.202:37431/i", "discovery": "2024-06-03 23:25:08", "added": "2024-06-03 23:25:08", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "883c47b1d48b43d4b5a387dee916442d"}
 {"id": 152642, "url": "http://61.52.157.237:57968/i", "discovery": "2024-06-03 23:25:07", "added": "2024-06-03 23:25:07", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "7407c2789cc345c392940f5ee61fd6f7"}
@@ -506,5 +508,3 @@
 {"id": 152149, "url": "http://t0kfnpofket.biz", "discovery": "2024-06-03 09:46:14", "added": "2024-06-03 09:46:14", "target": "Token Pocket", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "1cca2616550076f79ecb51a0a2d7d3b6"}
 {"id": 152148, "url": "https://docs.google.com/presentation/d/e/2PACX-1vRKuQsSwGwewsGgBSddT72Yn-X-3OpMbq2SZ6K1Qh-n03FbiYeZQS6yp7iU_M0q-M8wKxCgCjBqk4Bb/pub?start=false", "discovery": "2024-06-03 09:46:13", "added": "2024-06-03 09:46:13", "target": "Other", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "b10754e8b722b1bebe29c8ed9d96613c"}
 {"id": 152147, "url": "https://hatif.org.pk/wp-content/themes/wordpress-mag/CHFINAL/CHFINALE/", "discovery": "2024-06-03 09:42:17", "added": "2024-06-03 09:42:17", "target": "SwissPass", "reporter": "VERIFROMd", "AbuseType": "phishing", "UUID": "fb573ae2f60ee261aef8f5422aad10e7"}
-{"id": 152146, "url": "https://modernfc.com/wp-content/plugins/xyminlmr/", "discovery": "2024-06-03 09:38:16", "added": "2024-06-03 09:38:16", "target": "SwissPass", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "94f0f6118f2299c0079e7ec38eb7edf9"}
-{"id": 152145, "url": "https://wondershare-filmora.top/fwefwe324234234rgeffwehtrwyrhtrhtqwfqwd31443wefefwwfer3232fewwefwefwefqgrqwtherergqefwefqweqfwqf32fefwsda/uploads/amm.exe", "discovery": "2024-06-03 09:24:41", "added": "2024-06-03 09:24:41", "target": "#PE32INTEL_GUI", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "bb507b1bae8a40758476bcd95b68de36"}
