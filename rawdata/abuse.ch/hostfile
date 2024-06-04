@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-06-04 12:09:40 UTC                        #
+# Last updated: 2024-06-04 13:37:46 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	service-6xro0ifb-1253442149.bj.tencentapigw.com.cn
+127.0.0.1	dns.163microsoft.com
 127.0.0.1	goudieelectric.shop
 127.0.0.1	simonandschuster.shop
 127.0.0.1	ulysse-cazabonne.cam
@@ -11011,5 +11013,4 @@
 127.0.0.1	95-165-99-74.static.spd-mgts.ru
 127.0.0.1	kztime.ddns.net
 127.0.0.1	wiipo.com.ht-hldrotermica.com.br
-127.0.0.1	app.up.karachihelpdesk.org
-# Number of entries: 11006
+# Number of entries: 11007
