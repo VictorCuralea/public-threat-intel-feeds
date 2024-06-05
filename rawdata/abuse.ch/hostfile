@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-06-05 08:53:49 UTC                        #
+# Last updated: 2024-06-05 14:00:55 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	modernwebframework.com
+127.0.0.1	webapidevelopment.com
 127.0.0.1	service-hcwhjzdb-1316933071.sh.tencentapigw.com
 127.0.0.1	damousese.xyz
 127.0.0.1	an-taxi.gl.at.ply.gg
@@ -10966,10 +10968,4 @@
 127.0.0.1	dcqapz.shop
 127.0.0.1	www.guoyashuai.top
 127.0.0.1	cotinga-slaved.vpsrdns.web-hosting.com
-127.0.0.1	v55728.php-friends.de
-127.0.0.1	ec2-52-91-116-180.compute-1.amazonaws.com
-127.0.0.1	u1.cc0.ir
-127.0.0.1	mail.103-61-224-87.cprapid.com
-127.0.0.1	ns3229713.ip-57-128-141.eu
-127.0.0.1	silm136.softether.net
-# Number of entries: 10966
+# Number of entries: 10962

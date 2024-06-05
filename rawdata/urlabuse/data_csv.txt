@@ -6,9 +6,20 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-05 14:00:01 UTC
+# UPDATE: 2024-06-05 15:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+154464, 2024-06-05 14:46:12, 2024-06-05 14:46:12, phishing, 052e632155d3ecebd06e05e116d23f81, http://whutdrir.com
+154463, 2024-06-05 14:44:12, 2024-06-05 14:44:12, phishing, 1fca4e85145971fd4376249c1bd0dcd2, http://megedappsapps.pages.dev
+154462, 2024-06-05 14:44:10, 2024-06-05 14:44:10, phishing, 648e882f39a288be8ebb00fea1c6355a, http://3qetregdfgfd.pages.dev
+154461, 2024-06-05 14:02:31, 2024-06-05 14:02:31, hacked, 6e41d096a2620a8c1662037f627ff9de, http://client21.wech-txz.biz.id
+154460, 2024-06-05 14:02:29, 2024-06-05 14:02:29, hacked, 9b1111de17a48f06fbd486684ca8671f, https://whatisux.co/wp-content/uploads/2024/06/index.html
+154459, 2024-06-05 14:02:29, 2024-06-05 14:02:29, hacked, ae828ff751bb994d862db1a2d103024a, http://rubyjohnson.net/index.html
+154458, 2024-06-05 14:02:23, 2024-06-05 14:02:23, hacked, cce45eb980592aaafa3e01f8d2d01312, https://goodstory.co.il/
+154457, 2024-06-05 14:02:21, 2024-06-05 14:02:21, hacked, 9afe85998298d8897423d7dbffd3fd6a, http://rubyjohnson.com.au/index.html
+154456, 2024-06-05 14:02:21, 2024-06-05 14:02:21, hacked, 5c16455ad78a4105e19a0cb6d7d50377, http://instituteofwholisticpsychonomy.com/index.html
+154455, 2024-06-05 14:02:15, 2024-06-05 14:02:15, hacked, f1f94f2b3ea596c9b7c255ba28e088e3, https://klasood.com/index.html
+154454, 2024-06-05 14:02:15, 2024-06-05 14:02:15, hacked, 404fb2fe3fab78661f3ff7acfdfa32c2, https://mighty.co.tz//
 154453, 2024-06-05 13:52:10, 2024-06-05 13:50:14, phishing, 7f884d8b7a25462c4ef217e5642ca7eb, http://recantodatrilha.com.br/ii7pinjag/redirect.htm
 154452, 2024-06-05 13:51:37, 2024-06-05 13:50:13, phishing, 8bde43a0d79f1cc25b2d796a54db760d, https://menica.somee.com/
 154451, 2024-06-05 13:51:24, 2024-06-05 13:51:24, phishing, 11020071d090ff1728cfbaf2ab5201c0, https://sunriza.duckdns.org/
@@ -498,14 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 153967, 2024-06-05 05:25:53, 2024-06-05 05:25:53, malware, 87d8ec95b7c84ec081b667d73a47b3ba, http://42.230.41.143:37431/Mozi.m
 153966, 2024-06-05 05:25:52, 2024-06-05 05:25:52, malware, 98efaf099b7d4810adbfcf499af43468, http://42.230.41.143:37431/bin.sh
 153965, 2024-06-05 05:25:51, 2024-06-05 05:25:51, malware, b618478652504d97af9887908917a24f, http://39.81.145.165:38976/i
-153964, 2024-06-05 05:25:49, 2024-06-05 05:25:49, malware, 61c653ed05ab4dd2953064ba59b15c0b, http://39.79.133.141:47375/bin.sh
-153963, 2024-06-05 05:25:48, 2024-06-05 05:25:48, malware, 9b3ffa2cf8f446c99ae0c54f90cf00a6, http://39.171.253.89:43415/Mozi.m
-153962, 2024-06-05 05:25:42, 2024-06-05 05:25:42, malware, a84c2d52d2da47d59a2834fa790a6df3, http://27.215.85.3:55058/Mozi.m
-153961, 2024-06-05 05:25:40, 2024-06-05 05:25:40, malware, 7563a0a0b24b471b918063810e5b05fc, http://27.215.50.7:40080/bin.sh
-153960, 2024-06-05 05:25:39, 2024-06-05 05:25:39, malware, fed1fb3ee5384ccd992f3411408036a7, http://27.215.211.18:54289/bin.sh
-153959, 2024-06-05 05:25:38, 2024-06-05 05:25:38, malware, 12ba3da660e340caa6591cddb1d75d49, http://27.215.121.233:45583/bin.sh
-153958, 2024-06-05 05:25:36, 2024-06-05 05:25:36, malware, 074d7f0fa2bd462aabb2a804d452c74e, http://27.207.226.215:53835/bin.sh
-153957, 2024-06-05 05:25:35, 2024-06-05 05:25:35, malware, e298cee42c56465a83747593bb559f10, http://27.204.227.124:54799/i
-153956, 2024-06-05 05:25:33, 2024-06-05 05:25:33, malware, 9af283e618be4e34a8a575fcbd688f1d, http://222.141.41.236:43413/i
-153955, 2024-06-05 05:25:31, 2024-06-05 05:25:31, malware, 5d94e20de5a940bcba5fcc4b38a3be3d, http://222.141.41.236:43413/
-153954, 2024-06-05 05:25:30, 2024-06-05 05:25:30, malware, 450b7fe8b4ce4119a640ac8acdbed3cc, http://222.141.23.33:33509/bin.sh
