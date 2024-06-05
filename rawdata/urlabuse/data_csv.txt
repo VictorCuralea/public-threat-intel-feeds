@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-05 00:00:01 UTC
+# UPDATE: 2024-06-05 01:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+153729, 2024-06-05 00:48:13, 2024-06-05 00:48:13, phishing, b41fe8285f1f7ba709e6ab636927ce0c, http://msgr.com
+153728, 2024-06-05 00:03:30, 2024-06-05 00:03:30, phishing, df20a995a00d29a5e80f83c965384200, https://office.getlisino.best/
+153727, 2024-06-05 00:03:18, 2024-06-05 00:03:18, phishing, 6df3735d380832a6013c189fd2293c16, https://secure.getlisino.best/mail/inbox
 153726, 2024-06-04 23:42:14, 2024-06-04 23:42:14, phishing, 20c6c1fbc60de49c007d84e64c718f21, http://decentrilized-8mt.pages.dev
 153725, 2024-06-04 23:40:12, 2024-06-04 23:40:12, phishing, cffda2c588c25760b0688abd9c2e87d8, http://page-timemjyh.pages.dev
 153724, 2024-06-04 23:28:03, 2024-06-04 23:28:03, malware, 57413a1d5fee419483b01e378a2e69b8, http://77.91.77.81/lend/upd.exe
@@ -191,7 +194,6 @@ id, date_added, date_discovery, type, UUID, url
 153547, 2024-06-04 19:20:22, 2024-06-04 19:20:22, malware, bfd3912a90fe4c1e89bffb81ca989cc2, http://115.55.239.146:34983/bin.sh
 153546, 2024-06-04 19:20:21, 2024-06-04 19:20:21, malware, a2a9f79435c54b579f7efa692dfba094, http://115.51.2.141:59502/i
 153545, 2024-06-04 19:20:11, 2024-06-04 19:20:11, malware, 072ea626cb73446cb9cc625a7e1db6b9, http://113.245.219.88:32965/Mozi.m
-153544, 2024-06-04 19:04:12, 2024-06-04 19:04:12, phishing, ce04dd382b2efbf1afca8e57cb83f7c7, https://batgprem.store/
 153543, 2024-06-04 19:04:12, 2024-06-04 19:04:12, phishing, c269fd57ca692afd5388a10baaaf2a53, https://batgprem.store/
 153542, 2024-06-04 19:02:28, 2024-06-04 19:02:28, phishing, e107e21c4714f4675e30e7ce94445aaf, https://k4c2.c10.e2-1.dev/thewonderfulgardencompany/thewonderfulgardencompany.html
 153541, 2024-06-04 19:02:12, 2024-06-04 19:02:12, phishing, 72663fbff9a7fbab852f9cdf245e1a4e, https://jansdelft.nl/prem-uzbs
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 153230, 2024-06-04 11:25:58, 2024-06-04 11:25:58, malware, 69812919355746798ef023ed2a54916e, http://59.99.222.202:53900/Mozi.m
 153229, 2024-06-04 11:25:50, 2024-06-04 11:25:50, malware, 5c30ba8220b9416ea80f9653f8243dec, http://59.96.215.252:49995/i
 153228, 2024-06-04 11:25:36, 2024-06-04 11:25:36, malware, 1d24e9c13f224c7fa83eb33728df4f46, http://59.96.215.252:49995/bin.sh
-153227, 2024-06-04 11:25:35, 2024-06-04 11:25:35, malware, 7364ae0a4c4544c781facb8f68e168a8, http://59.93.111.49:39327/bin.sh
-153226, 2024-06-04 11:25:33, 2024-06-04 11:25:33, malware, c2165bd7ec414719ac44ed4b3142c6fe, http://59.91.85.144:49630/i
