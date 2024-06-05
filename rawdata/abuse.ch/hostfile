@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-06-05 14:00:55 UTC                        #
+# Last updated: 2024-06-05 20:52:23 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ns1.bimnall.com
 127.0.0.1	modernwebframework.com
 127.0.0.1	webapidevelopment.com
 127.0.0.1	service-hcwhjzdb-1316933071.sh.tencentapigw.com
@@ -10967,4 +10968,4 @@
 127.0.0.1	chatnoir.life
 127.0.0.1	dcqapz.shop
 127.0.0.1	www.guoyashuai.top
-# Number of entries: 10961
+# Number of entries: 10962

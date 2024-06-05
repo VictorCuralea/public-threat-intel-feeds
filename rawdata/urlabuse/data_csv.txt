@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-05 20:00:01 UTC
+# UPDATE: 2024-06-05 21:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+154620, 2024-06-05 20:52:12, 2024-06-05 20:52:12, phishing, a8049a4dbf9cb4756c98c902570dc066, http://feakpel.shop
+154619, 2024-06-05 20:00:49, 2024-06-05 20:00:49, phishing, 004e310f03655c9c0135cfc06b79e870, https://bugfixs.pages.dev/
 154618, 2024-06-05 19:54:19, 2024-06-05 19:54:19, phishing, b4d6a8ec4cddb8933d0773d13bc3321b, https://www.lidlshopping.xyz/
 154617, 2024-06-05 19:47:23, 2024-06-05 19:10:14, phishing, 11a1bbd1c9ddf27f0fa1df87098c4746, https://multisite.prohub.io/env/
 154616, 2024-06-05 19:26:52, 2024-06-05 19:26:52, malware, 341817782bd84f598e72ddbe9318e010, http://61.54.42.135:58282/i
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 154121, 2024-06-05 09:04:01, 2024-06-05 09:04:01, malware, cfc7983e98424d15a9a11078d6157cf1, http://14.178.109.136:53523/bin.sh
 154120, 2024-06-05 09:03:59, 2024-06-05 09:03:59, malware, 451b4d887818450083bca6b4acc983da, http://125.43.27.233:37406/i
 154119, 2024-06-05 09:03:58, 2024-06-05 09:03:58, malware, 7ee8dbad9d194e48bfed07e6004d7530, http://124.129.242.5:33596/Mozi.m
-154118, 2024-06-05 09:03:56, 2024-06-05 09:03:56, malware, 38bbf9dbb8ca49eb963241c8b0144383, http://123.9.91.185:52568/i
-154117, 2024-06-05 09:03:55, 2024-06-05 09:03:55, malware, 5c831dfe6a0d48b69918a980e7b30700, http://123.9.91.185:52568/bin.sh
