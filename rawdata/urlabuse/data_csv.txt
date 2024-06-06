@@ -6,9 +6,20 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-06 10:00:02 UTC
+# UPDATE: 2024-06-06 11:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+155147, 2024-06-06 10:56:16, 2024-06-06 10:56:16, phishing, 21e91ddcdebbe1da63cf2861b32c3ada, http://tptoken.in
+155146, 2024-06-06 10:52:13, 2024-06-06 10:52:13, phishing, 6e69b9c222617a93cc38ef3544787490, http://page-timekdshufef.pages.dev
+155145, 2024-06-06 10:36:11, 2024-06-06 10:36:11, phishing, 7ec2b3497e5001498b574ee19489a7c3, http://olingpremtgseychas.com
+155144, 2024-06-06 10:34:14, 2024-06-06 10:34:14, phishing, 0e0a83ff798e2fe3c45eceae1f70d9f7, http://slemlernzzhemensrgula.xyz
+155143, 2024-06-06 10:28:12, 2024-06-06 10:28:12, phishing, 2d4fc4cdbfcd820a88c2712ac65d1b69, http://super-moe-37ef.0ffice365-authmail.workers.dev
+155142, 2024-06-06 10:19:52, 2024-06-06 10:18:05, phishing, 1c1ff2dfbd193a3021dd9006e25901b8, https://donovane.s3.eu-north-1.amazonaws.com/control_cahali.html?login=info@yahoo.com.tw&page=_sharepoint-fileshare2&pcnt=3
+155141, 2024-06-06 10:12:09, 2024-06-06 09:14:14, phishing, dc233975b8d2c50355ff74c6d867e025, https://lime20997298.brizy.site/
+155140, 2024-06-06 10:11:32, 2024-06-06 09:06:15, phishing, c5b560a0fb254171bcb4becf71e93a6e, https://www.dropbox.com/scl/fi/hfmzagsb46mq9mbmxv83u/NEW-BTINTERNET-ACCESS.paper?rlkey=ogw502t9gjndkbaz9renah92f
+155139, 2024-06-06 10:09:52, 2024-06-06 06:14:15, phishing, 4016baeb679cff49b676bbd100583af8, https://www-die-post.com/de/receive/1813558325
+155138, 2024-06-06 10:04:23, 2024-06-06 10:04:23, phishing, 3fca6e9487bb9ef87873aa94a7e83169, https://188835.bet/
+155137, 2024-06-06 10:04:21, 2024-06-06 10:04:21, phishing, 6ab4f58e2538f462cf7118bbee0d67a2, http://6656gg1.com/
 155136, 2024-06-06 09:24:48, 2024-06-06 09:24:48, malware, b569489f1ff8441a95482efed5ce43ea, http://91.239.77.159:41381/bin.sh
 155135, 2024-06-06 09:24:39, 2024-06-06 09:24:39, malware, f03802c1d3284a5e9a2ab7ef7f646127, http://61.53.241.87:54044/i
 155134, 2024-06-06 09:24:38, 2024-06-06 09:24:38, malware, 92c649da10164039a61adb4d8f60b896, http://61.53.241.87:54044/bin.sh
@@ -498,14 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 154650, 2024-06-05 21:23:17, 2024-06-05 21:23:17, malware, ef27d714bb15443f9964bff77fa7ae36, http://59.182.254.109:32900/Mozi.m
 154649, 2024-06-05 21:22:27, 2024-06-05 21:22:27, malware, 5f0640849f9f4b608cf415e210ec1091, http://39.87.71.117:34141/Mozi.m
 154648, 2024-06-05 21:22:25, 2024-06-05 21:22:25, malware, bff12fabc63d4c158b01e058756d535a, http://27.204.198.182:46196/i
-154647, 2024-06-05 21:22:23, 2024-06-05 21:22:23, malware, e39860b58e7a471fa6adec1acc7c4938, http://222.141.22.232:42935/i
-154646, 2024-06-05 21:22:22, 2024-06-05 21:22:22, malware, c2c4783fcf77456bb01f1b52739ec6c5, http://222.137.196.94:42559/bin.sh
-154645, 2024-06-05 21:22:20, 2024-06-05 21:22:20, malware, aa4eec1ed9df4629864b55d4def53cbf, http://222.137.112.68:32800/i
-154644, 2024-06-05 21:22:19, 2024-06-05 21:22:19, malware, eb0cd2e0b1d44dc49f2448aa82bd8698, http://222.137.112.68:32800/bin.sh
-154643, 2024-06-05 21:22:17, 2024-06-05 21:22:17, malware, a5f738f8786c42f8a75dd046728c298f, http://221.15.6.44:41226/bin.sh
-154642, 2024-06-05 21:22:06, 2024-06-05 21:22:06, malware, 0b802626168a4023bdf0e0d825935087, http://186.148.245.86:10051/bin.sh
-154641, 2024-06-05 21:21:54, 2024-06-05 21:21:54, malware, 4f9c3d5cdbdd472e9dbc362351858895, http://185.172.128.19/loader-1002.exe
-154640, 2024-06-05 21:21:54, 2024-06-05 21:21:54, malware, 6c8348ad954b46d0b6173fb8d15beee7, http://182.127.104.65:51210/i
-154639, 2024-06-05 21:21:52, 2024-06-05 21:21:52, malware, 547bee61f50c4bd98d3c2e3004a38a43, http://182.117.30.174:38566/i
-154638, 2024-06-05 21:21:40, 2024-06-05 21:21:40, malware, 5c29daf2ecd1408ea26bd98a2df32cab, http://125.43.34.197:38269/
-154637, 2024-06-05 21:21:39, 2024-06-05 21:21:39, malware, 9d9a3dca9b044993a3f8fc049b6588c3, http://125.40.75.60:54394/Mozi.m
