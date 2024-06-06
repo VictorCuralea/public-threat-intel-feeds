@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-06-06 05:23:42 UTC                        #
+# Last updated: 2024-06-06 08:36:02 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	getcloudsolutions.dev
+127.0.0.1	qq.jjxy.link
+127.0.0.1	service-l24muftx-1251354025.bj.tencentapigw.com.cn
 127.0.0.1	24f1989.com
 127.0.0.1	js.ddcc.bf
 127.0.0.1	ballsack.myftp.biz
@@ -12087,4 +12090,4 @@
 127.0.0.1	dashboard.help.googli.info
 127.0.0.1	login.help.googli.info
 127.0.0.1	swf.help.googli.info
-# Number of entries: 12081
+# Number of entries: 12084

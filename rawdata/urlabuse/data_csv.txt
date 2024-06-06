@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-06 08:00:02 UTC
+# UPDATE: 2024-06-06 09:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+154991, 2024-06-06 08:16:29, 2024-06-06 08:16:29, phishing, f501a5ba7c8864f67f5306d424affe39, https://raphaellilog.com.br/
+154990, 2024-06-06 08:16:24, 2024-06-06 08:16:24, phishing, 44742592b360e51d0a073492d6155728, https://x34.co.uk/
+154989, 2024-06-06 08:16:15, 2024-06-06 08:16:15, phishing, 7ffa7eab44db37807a426221682f6e1b, https://lebackyard.ovh/
+154988, 2024-06-06 08:16:14, 2024-06-06 08:16:14, phishing, 28fb0e1d67962e1cda3006ee563a01c6, https://emballage-service.fr/
 154987, 2024-06-06 07:27:46, 2024-06-06 07:27:46, malware, 5d5061d1cc8d4c1cbc5251e121c32f80, http://61.53.72.90:34528/bin.sh
 154986, 2024-06-06 07:27:45, 2024-06-06 07:27:45, malware, 25e54e60fdff473f9273bd864335d537, http://61.53.241.87:54044/
 154985, 2024-06-06 07:27:43, 2024-06-06 07:27:43, malware, 2e7cb6977f4c493e85beab70070ecf55, http://61.53.133.146:57709/i
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 154492, 2024-06-05 15:22:51, 2024-06-05 15:22:51, malware, 4a0bba797c3a42f79a012a77f4197ae0, http://222.141.27.137:33087/i
 154491, 2024-06-05 15:22:49, 2024-06-05 15:22:49, malware, 5e68aa4f31264666ad2a229a5ac72813, http://222.141.27.137:33087/bin.sh
 154490, 2024-06-05 15:22:48, 2024-06-05 15:22:48, malware, b649299b91634947902cb10ed4fadcc9, http://222.139.12.4:33780/Mozi.m
-154489, 2024-06-05 15:22:46, 2024-06-05 15:22:46, malware, 539e8a2d17ff4af6a14949eddcd4fca0, http://222.138.85.51:43811/bin.sh
-154488, 2024-06-05 15:22:45, 2024-06-05 15:22:45, malware, 74a3aeef3c1741cbb36c868f6a0378be, http://221.15.189.214:51718/bin.sh
-154487, 2024-06-05 15:22:43, 2024-06-05 15:22:43, malware, d04b448ee56c4ce1bf05240cfbc71014, http://221.15.167.2:37883/bin.sh
-154486, 2024-06-05 15:22:42, 2024-06-05 15:22:42, malware, a50d3ba9a3f741f59e0741c5168ca4fa, http://219.156.54.153:51165/bin.sh
