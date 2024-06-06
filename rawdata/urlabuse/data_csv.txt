@@ -6,9 +6,22 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-06 04:00:02 UTC
+# UPDATE: 2024-06-06 05:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+154860, 2024-06-06 04:06:17, 2024-06-06 04:06:17, phishing, 83760bc077263e8565b65abbea0189de, https://www.365wtdh.com/
+154859, 2024-06-06 04:06:13, 2024-06-06 04:06:13, phishing, 328c9f832848be917ab6994de5d4fcd0, https://ipfs.io/ipfs/QmbLtgTBE515zDTHGtCKRRYqkt7G4TCz2MWw7pKbzy5gtQ
+154858, 2024-06-06 04:04:50, 2024-06-06 04:04:50, phishing, 8793d4f390aefd6c36af45bb9b70158f, https://365wt.pro/
+154857, 2024-06-06 04:04:40, 2024-06-06 04:04:40, phishing, ae207a8bdd1f3cecd2a994e7a45a52ce, https://cloudflare-ipfs.com/ipfs/QmbLtgTBE515zDTHGtCKRRYqkt7G4TCz2MWw7pKbzy5gtQ
+154856, 2024-06-06 04:03:50, 2024-06-06 04:03:50, phishing, 7ea4e41926e7c97781bd2a99810487a2, https://pub-ec18ff56fde240baacee6dffae83c84c.r2.dev/JAN15.html
+154855, 2024-06-06 04:03:03, 2024-06-06 04:03:03, phishing, f9aaac381911566672f37d96523cd8ae, https://bafybeib6npm55ej7rf73yk46g3zty4c3rxdl7kp245ywt5f7t3bdjkzk5y.ipfs.w3s.link/ipfs/bafybeib6npm55ej7rf73yk46g3zty4c3rxdl7kp245ywt5f7t3bdjkzk5y/mosesacres.html
+154854, 2024-06-06 04:03:01, 2024-06-06 04:03:01, phishing, a391cbc10c3c09dbc358527a24551efe, https://bafybeib6npm55ej7rf73yk46g3zty4c3rxdl7kp245ywt5f7t3bdjkzk5y.ipfs.w3s.link/mosesacres.html
+154853, 2024-06-06 04:02:59, 2024-06-06 04:02:59, phishing, 939614547aa69bf19581538822f6e66d, https://bafybeibfc4suuukm6a5suzyk3fseczk4bd2jxbbwab3qetesri5zdjsdpy.ipfs.w3s.link/ppoqolqk.html
+154852, 2024-06-06 04:02:49, 2024-06-06 04:02:49, phishing, 08b6a8b4e8ef2f704b047e7c07d6d313, http://s0.fsoall.ir/
+154851, 2024-06-06 04:02:39, 2024-06-06 04:02:39, phishing, 65a6c7a39f3fc2ca187c086eaccb1e70, http://onlychatsexss.pages.dev/
+154850, 2024-06-06 04:02:28, 2024-06-06 04:02:28, phishing, 96e6d80981450a3473df0a2a957a733b, https://e1.eslenglish-hk.com/?fbclid=PAAaZl1J9_GcPzKQLAEIhH2YdP8v8rX4FzyVSttWc-Ig1ZTiJRj9UXZOfSdeM_aem_Ad9mDlRjkujIZXHjtemzJSo0BTFY33uYKr-WlbCxdCm2YgjsP4hXetvZhO5--1ys0rHM1yE5njTh_4tLp8irP_Xw
+154849, 2024-06-06 04:02:27, 2024-06-06 04:02:27, phishing, 05199b46dc994e77352be182c7499208, https://tele-en-areke.vercel.app/
+154848, 2024-06-06 04:02:17, 2024-06-06 04:02:17, phishing, 792ecc6fb39d1de821ad5d50d7cf8965, https://distrosourcess1.sg-host.com/
 154847, 2024-06-06 03:26:31, 2024-06-06 03:26:31, malware, e93f7546cf7c46f8a54dbfa4be903264, http://61.53.86.13:41521/Mozi.m
 154846, 2024-06-06 03:26:30, 2024-06-06 03:26:30, malware, 8ac913f0523c4037837ffb9d471ad3aa, http://61.52.45.6:36726/bin.sh
 154845, 2024-06-06 03:26:28, 2024-06-06 03:26:28, malware, a3845fa18731414e8b12a09b07c11fe5, http://61.52.158.100:36905/i
@@ -496,16 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 154361, 2024-06-05 11:27:58, 2024-06-05 11:27:58, malware, 69302b42a9e64f6ab6b7d4b24802aebf, http://42.224.4.209:44688/bin.sh
 154360, 2024-06-05 11:27:57, 2024-06-05 11:27:57, malware, 00cc167f3a7543bb8a84d6e8bf97133c, http://39.90.154.238:47568/Mozi.m
 154359, 2024-06-05 11:27:55, 2024-06-05 11:27:55, malware, bfb810d2bb2847ad91a10da3fffa8ebe, http://39.79.151.227:46142/bin.sh
-154358, 2024-06-05 11:27:54, 2024-06-05 11:27:54, malware, 53087e39d26d4b8b878ddd555c490002, http://39.74.80.212:49070/Mozi.m
-154357, 2024-06-05 11:27:52, 2024-06-05 11:27:52, malware, 21d6bf25553f4f729acbbb5bc2f1987f, http://36.82.145.3:55873/.i
-154356, 2024-06-05 11:27:48, 2024-06-05 11:27:48, malware, fbdc1b7bf7564b068d8759a800935af4, http://27.215.136.74:45222/bin.sh
-154355, 2024-06-05 11:27:36, 2024-06-05 11:27:36, malware, baa256c3ff8f4fe78738679050b4cb07, http://222.140.163.54:38913/bin.sh
-154354, 2024-06-05 11:27:34, 2024-06-05 11:27:34, malware, 0f1e0f3c9c834fb4a9f97915b908718b, http://222.139.32.147:53625/bin.sh
-154353, 2024-06-05 11:27:33, 2024-06-05 11:27:33, malware, 0428c943e4354d5fa758898997a02bbe, http://222.139.12.4:33780/i
-154352, 2024-06-05 11:27:31, 2024-06-05 11:27:31, malware, 0963cdae0987499f9e57743faba7a783, http://222.138.78.75:54307/i
-154351, 2024-06-05 11:27:30, 2024-06-05 11:27:30, malware, 380460d394774e81a01a88ecbcc9b882, http://222.137.78.211:40474/bin.sh
-154350, 2024-06-05 11:27:29, 2024-06-05 11:27:29, malware, 1e80fa4f862e4ba48f71f610f6c2319e, http://221.0.245.205:41871/Mozi.m
-154349, 2024-06-05 11:27:27, 2024-06-05 11:27:27, malware, a42b98f72a644cd5adec4b49e85f5abf, http://219.157.17.118:38850/i
-154348, 2024-06-05 11:27:26, 2024-06-05 11:27:26, malware, a53dc26fcf744f0e94c8a6db60692c22, http://219.157.17.118:38850/bin.sh
-154347, 2024-06-05 11:27:24, 2024-06-05 11:27:24, malware, d2cc0407780941e88fa859be6db9d6ff, http://219.156.54.153:51165/i
-154346, 2024-06-05 11:26:43, 2024-06-05 11:26:43, malware, 63ad277f1ee9465c8de2fc12769aa18d, http://182.123.234.186:42304/Mozi.m
