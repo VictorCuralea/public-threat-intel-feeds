@@ -6,9 +6,28 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-06 18:00:01 UTC
+# UPDATE: 2024-06-06 19:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+155442, 2024-06-06 18:54:14, 2024-06-06 18:54:14, phishing, 3dc48240e52f65de76abca5bd1b54a17, http://uspsinan.insounia.top
+155441, 2024-06-06 18:50:13, 2024-06-06 18:50:13, phishing, 4c00296aa7aec1f5e77a032052f1fd65, http://us-usps.possnracn.top
+155440, 2024-06-06 18:32:13, 2024-06-06 18:32:13, phishing, 40cd68f7ed054e21899fb689c829d179, http://postalform.top
+155439, 2024-06-06 18:30:17, 2024-06-06 18:30:17, phishing, 38c0a2fe042d5bab951e759a42961802, http://usps.insounia.top
+155438, 2024-06-06 18:28:14, 2024-06-06 18:28:14, phishing, 10541a07de495719b369ab84c76510dc, http://usps.possnracn.top
+155437, 2024-06-06 18:24:18, 2024-06-06 18:24:18, phishing, 6a9e88d3d6fbc6de091a4b7008d9d41d, http://ameli.secu-portailfrance-renouvelle-sms.com
+155436, 2024-06-06 18:22:47, 2024-06-06 18:22:47, phishing, 11282c81e1a3df2e9af71927e124960c, https://www.tokejpocket.top/
+155435, 2024-06-06 18:22:41, 2024-06-06 18:22:41, phishing, 7d909e099ae9df8c376a0819d4728a76, https://www.tokeipocket.top/
+155434, 2024-06-06 18:22:39, 2024-06-06 18:22:39, phishing, 42d47904d5f858cdfeed8837355242b2, https://www.tokenpocketj.top/
+155433, 2024-06-06 18:22:24, 2024-06-06 18:22:24, phishing, 2a9500867a327ad7468e7d4aef609eb0, https://www.tokegpocket.top/
+155432, 2024-06-06 18:20:18, 2024-06-06 18:20:18, phishing, 252abed6dc16115da731851052dee12c, https://www.tokefpocket.top/
+155430, 2024-06-06 18:18:17, 2024-06-06 18:18:17, phishing, 9df7613476c3ff4cd6a782c9e5f2b823, http://sinoconveyor.com
+155429, 2024-06-06 18:15:55, 2024-06-06 18:15:55, phishing, 1b48f938f4b0399a575f48c509fbc1e9, https://webamilbtio.wixsite.com/my-site-2
+155428, 2024-06-06 18:14:43, 2024-06-06 18:00:15, phishing, cf74e7305b99b525d88d4eaee23b9f96, https://www.dropbox.com/scl/fi/f1ewpfec6g3marr7awcfz/BT-Broadband-Voice.paper?rlkey=dfllqgisgqc9czjcun6sd85w7
+155427, 2024-06-06 18:14:29, 2024-06-06 17:56:15, phishing, e1b25e137e60e9118a497f58beb224d3, https://www.dropbox.com/scl/fi/ap4802a24r2zb888xllmt/BT-MAIL.paper?rlkey=etnc0lpr0o27sqaey61reuiwd
+155426, 2024-06-06 18:13:26, 2024-06-06 17:46:13, phishing, 787449477165a71cdb858f086168a1d6, https://iandlwilliams10.wixsite.com/my-site
+155425, 2024-06-06 18:12:22, 2024-06-06 18:12:22, phishing, 19c8ae7576ce3024b87a5a8efce0c11c, https://purple042059.studio.site
+155424, 2024-06-06 18:12:04, 2024-06-06 17:36:13, phishing, 82f8fe2a3cc9a2ff8e79562fbffdbec5, https://www.powr.io/popup/i/38348368#page
+155423, 2024-06-06 18:00:16, 2024-06-06 18:00:16, phishing, f7318ee865f80657e5f60fa842a62bdd, https://broadband-voice.weeblysite.com/
 155422, 2024-06-06 17:36:16, 2024-06-06 17:36:16, phishing, 72da1ec41c15c10bf1222e42e9394891, http://login.kadlaskdlaskdslk.site
 155421, 2024-06-06 17:24:11, 2024-06-06 17:24:11, malware, a5bb68afa38644a4a9da47678cf547d9, http://81.215.202.162:49924/i
 155420, 2024-06-06 17:24:05, 2024-06-06 17:24:05, malware, a6102802d08f4e2bac56981950a80a11, http://61.52.119.27:49222/
@@ -490,22 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 154944, 2024-06-06 07:20:14, 2024-06-06 07:20:14, malware, c757aae5f0174d4cae0cefd6f451a3c4, http://115.55.225.224:46880/bin.sh
 154943, 2024-06-06 07:20:12, 2024-06-06 07:20:12, malware, 223379a7102e4e2fa68dacc51a173d12, http://115.54.126.148:38697/bin.sh
 154942, 2024-06-06 07:20:10, 2024-06-06 07:20:10, malware, bb138209916744bf80abbd0b5a70c42d, http://115.53.237.202:56943/i
-154941, 2024-06-06 07:20:08, 2024-06-06 07:20:08, malware, d5960ecfd33c4ff08c7f550dcc08a205, http://115.52.190.60:60267/i
-154940, 2024-06-06 07:20:06, 2024-06-06 07:20:06, malware, d436f1b075584518bf1c6945093e12f7, http://115.50.188.44:42908/
-154939, 2024-06-06 07:20:05, 2024-06-06 07:20:05, malware, 3f4a5cbc94c94c6392d5e53b6a7cf9ed, http://112.239.97.177:52962/bin.sh
-154938, 2024-06-06 07:05:04, 2024-06-06 07:05:04, phishing, aec3cbd57d6b51ed6d2b3b2f2c91ec8a, https://telegafi-lld.top/zz/
-154937, 2024-06-06 07:05:03, 2024-06-06 07:05:03, phishing, 984628258f4b8828fe7e63a9181076a7, https://telegafi-zqs.top/zz/
-154936, 2024-06-06 07:04:57, 2024-06-06 07:04:57, phishing, fa1c197689bce1cf906e6fe662472dfe, https://telegafi-gto.top/zz/
-154935, 2024-06-06 07:04:50, 2024-06-06 07:04:50, phishing, a97763a01da70840e22c07ea8c6a64d1, https://telegafi-olj.top/zz/
-154934, 2024-06-06 07:04:47, 2024-06-06 07:04:47, phishing, 03ea75f98f3a6c0b03f6f3db514d35cb, https://telegafi-wjk.top/zz/
-154933, 2024-06-06 07:04:46, 2024-06-06 07:04:46, phishing, 9c41be407a777b3b36b8a17741c24b3c, https://telegafi-jrg.top/zz/
-154932, 2024-06-06 07:04:35, 2024-06-06 07:04:35, phishing, 3150e3ebf2a1b55b85db23440b2f222d, https://telegafi-qbg.top/zz/
-154931, 2024-06-06 07:04:33, 2024-06-06 07:04:33, phishing, bc676d35abb6f92a9deb3fcf64564ba6, https://telegram-qm.icu/
-154930, 2024-06-06 07:04:33, 2024-06-06 07:04:33, phishing, 52db764c738d1d46f9834cf680916c3b, https://telegafi-kcl.top/zz/
-154929, 2024-06-06 07:04:23, 2024-06-06 07:04:23, phishing, d5a7d2493b2d607ac8981673c262b2b2, https://telegafi-hml.top/zz/
-154928, 2024-06-06 07:04:21, 2024-06-06 07:04:21, phishing, 0ec29e335e89b368425999b560112c9e, https://telegafi-oeu.top/zz/
-154927, 2024-06-06 07:04:19, 2024-06-06 07:04:19, phishing, 0315131afc45cedae405cfeff9fa1b11, https://telegafi-fmg.top/zz/
-154926, 2024-06-06 07:04:19, 2024-06-06 07:04:19, phishing, 2ac89be85f945e73cf6cfcbf1f575b02, https://telegafi-nfj.top/zz/
-154925, 2024-06-06 07:03:57, 2024-06-06 07:03:57, phishing, 2b5b270c39c12c050b4e5205a09a9959, https://1111365.biz/
-154924, 2024-06-06 07:03:47, 2024-06-06 07:03:47, phishing, a420a1487f746bb136263fb08f2b8bc3, http://www.avierimpex.com/utils/set_language.html?lang=pt&key=catalog_11194&return_url=https://pub-c42c9b4bf2894b79ac5ea7ba7de796c4.r2.dev/index.html
-154923, 2024-06-06 07:02:44, 2024-06-06 07:02:44, phishing, b706091f8650d576545b3a77340412ef, https://www.3hxrcjk.com/
