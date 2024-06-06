@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-06-06 18:10:14 UTC                        #
+# Last updated: 2024-06-06 22:15:56 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	d18j3cpsvifpk9.cloudfront.net
 127.0.0.1	www.163microsoft.com
 127.0.0.1	buyinginfo.org
 127.0.0.1	comparetextbook.com
@@ -12106,4 +12107,4 @@
 127.0.0.1	opsqhv54xl33qcahhakpdl7gf40bkhoj.lambda-url.us-east-1.on.aws
 127.0.0.1	mediaskollsoft.com
 127.0.0.1	digitalskillset1.com
-# Number of entries: 12100
+# Number of entries: 12101
