@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-06-07 13:32:38 UTC                        #
+# Last updated: 2024-06-07 14:36:03 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	check-ftp.ru
 127.0.0.1	xxydncg.xyz
 127.0.0.1	prodfindfeatures.com
 127.0.0.1	retdirectyourman.eu
@@ -12455,33 +12456,4 @@
 127.0.0.1	shadow.schatten.ir
 127.0.0.1	www.ifisoundyou.gq
 127.0.0.1	api.taipowers.com
-127.0.0.1	ec2-34-224-9-208.compute-1.amazonaws.com
-127.0.0.1	handbrakeconv.top
-127.0.0.1	ideastradeai.top
-127.0.0.1	test.morisniff.cloudns.ph
-127.0.0.1	easyvideoconverters.com
-127.0.0.1	highqualityconverter.com
-127.0.0.1	convhandvideo.info
-127.0.0.1	basta-tourmoscow.ru
-127.0.0.1	d1.morisniff.ir
-127.0.0.1	appblendemulator.info
-127.0.0.1	ideastradeai.com
-127.0.0.1	fhipp-dbms.top
-127.0.0.1	85-192-63-35.cprapid.com
-127.0.0.1	appblendstacks.top
-127.0.0.1	static.78.100.216.95.clients.your-server.de
-127.0.0.1	hp22.weket.shop
-127.0.0.1	ii.nggg.fun
-127.0.0.1	89.185.85.34.sslip.io
-127.0.0.1	85.192.63.65.sslip.io
-127.0.0.1	sc.nimmajic.online
-127.0.0.1	marz6.adsmahsa.xyz
-127.0.0.1	cdn.morisniff.ir
-127.0.0.1	xampp.info
-127.0.0.1	concert-uz.ru
-127.0.0.1	trustpilots.cam
-127.0.0.1	worker-jolly-unit-e3af.jacobnero11.workers.dev
-127.0.0.1	tehavi.com
-127.0.0.1	gallery.tableaupubsecday.com
-127.0.0.1	securityhealthservice.com
-# Number of entries: 12478
+# Number of entries: 12450
