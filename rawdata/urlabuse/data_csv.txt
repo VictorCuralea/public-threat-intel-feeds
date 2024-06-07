@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-07 20:00:01 UTC
+# UPDATE: 2024-06-07 21:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+156500, 2024-06-07 20:56:15, 2024-06-07 20:56:15, phishing, cc3bc5ce52f7a174d7088b47f61eba3a, http://cdn.010802.workers.dev
+156499, 2024-06-07 20:40:11, 2024-06-07 20:40:11, phishing, 44f960518c84a156972411e569bd09b1, http://premqu-uz.store
+156498, 2024-06-07 20:00:16, 2024-06-07 20:00:16, phishing, 86db0aaee3bf403eeb65e8d6b0721e80, http://inno-multiverse-launch.com
 156497, 2024-06-07 19:25:08, 2024-06-07 19:25:08, malware, 4ca29057975c486cbae8277ce8d7b7e9, http://78.185.57.198:56221/bin.sh
 156496, 2024-06-07 19:24:37, 2024-06-07 19:24:37, malware, f1405c75cf984072acaf1b8e04e742f1, http://59.93.17.187:35699/i
 156495, 2024-06-07 19:23:55, 2024-06-07 19:23:55, malware, fc4280ab6a1c4efebbaa24ebf40a6933, http://42.242.43.56:53300/bin.sh
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 156003, 2024-06-07 09:06:59, 2024-06-07 09:06:59, malware, 3d9ee9c4a1f64bed9225e17f394ceca3, http://42.5.55.4:59364/i
 156002, 2024-06-07 09:06:57, 2024-06-07 09:06:57, malware, d90ee28ffdf54197b88374a8e0971ea9, http://42.5.55.4:59364/bin.sh
 156001, 2024-06-07 09:06:56, 2024-06-07 09:06:56, malware, 8ca483d48dca4cd4b593aac96335667c, http://42.55.2.55:55860/i
-156000, 2024-06-07 09:06:54, 2024-06-07 09:06:54, malware, 46107d14d8684bdcb0895bc720900634, http://42.55.2.55:55860/bin.sh
-155999, 2024-06-07 09:06:52, 2024-06-07 09:06:52, malware, a192e2ad5d964bd6ab9fb8257a568c3d, http://42.54.151.120:52475/i
-155998, 2024-06-07 09:06:50, 2024-06-07 09:06:50, malware, fc493c2209154618998542adab26ca12, http://42.54.151.120:52475/bin.sh
