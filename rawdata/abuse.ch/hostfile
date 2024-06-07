@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-06-07 14:36:03 UTC                        #
+# Last updated: 2024-06-07 17:18:36 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	njnegro8093.duckdns.org
 127.0.0.1	check-ftp.ru
 127.0.0.1	xxydncg.xyz
 127.0.0.1	prodfindfeatures.com
@@ -12456,4 +12457,4 @@
 127.0.0.1	shadow.schatten.ir
 127.0.0.1	www.ifisoundyou.gq
 127.0.0.1	api.taipowers.com
-# Number of entries: 12450
+# Number of entries: 12451
