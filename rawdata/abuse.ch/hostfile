@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-06-07 11:05:04 UTC                        #
+# Last updated: 2024-06-07 13:32:38 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	xxydncg.xyz
 127.0.0.1	prodfindfeatures.com
 127.0.0.1	retdirectyourman.eu
 127.0.0.1	ebaoffice.com.br
@@ -12483,8 +12484,4 @@
 127.0.0.1	tehavi.com
 127.0.0.1	gallery.tableaupubsecday.com
 127.0.0.1	securityhealthservice.com
-127.0.0.1	arenterprese2023.is-a-caterer.com
-127.0.0.1	petitbrun1.websiteseguro.com
-127.0.0.1	cs2.francy.world
-127.0.0.1	cs1.francy.world
-# Number of entries: 12481
+# Number of entries: 12478
