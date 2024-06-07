@@ -1,12 +1,13 @@
 ################################################################
 # ThreatFox IOCs: recent SHA256 hashes - CSV format            #
-# Last updated: 2024-06-05 15:51:54 UTC                        #
+# Last updated: 2024-06-07 11:05:01 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
 # "first_seen_utc","ioc_id","ioc_value","ioc_type","threat_type","fk_malware","malware_alias","malware_printable","last_seen_utc","confidence_level","reference","tags","anonymous","reporter"
+"2024-06-07 11:05:01", "1283151", "acba553d42b295ea8dfdc96250fe2448b98647502c1c2ccc29a142f1d5ed1e29", "sha256_hash", "payload", "unknown", "None", "Unknown malware", "", "100", "", "CleanupLoader", "0", "NDA0E"
 "2024-06-05 15:51:54", "1279377", "7aa5344aab15b3fb2355c59e09b7071a6a0a12ec1a5828367ecb7e9f926fe765", "sha256_hash", "payload", "win.luca_stealer", "None", "Luca Stealer", "", "95", "None", "None", "0", "Grim"
 "2024-06-05 15:51:51", "1279374", "de63a1fca0accec54eb8dda11683e974bae596952f9fa72f646ecbdca7a785cc", "sha256_hash", "payload", "win.troystealer", "None", "troystealer", "", "95", "None", "None", "0", "Grim"
 "2024-06-05 15:51:48", "1279371", "494c0daeef7a371cd33bc775b703b740eeaa463ff13fff51ef869fa958f003e4", "sha256_hash", "payload", "win.troystealer", "None", "troystealer", "", "95", "None", "None", "0", "Grim"
@@ -66,4 +67,4 @@
 "2024-06-05 15:48:49", "1279209", "48f18ae61538c79d3d5ab7663c621b6d08e0f6413d6c7c13b10dc12a7c6027cf", "sha256_hash", "payload", "win.asyncrat", "None", "AsyncRAT", "", "95", "None", "None", "0", "Grim"
 "2024-06-05 15:48:46", "1279206", "5eef5607e73cbe3b62c0c4adf6ea924acc471de57e86f3f0b66fe8320d3fcdc9", "sha256_hash", "payload", "win.asyncrat", "None", "AsyncRAT", "", "95", "None", "None", "0", "Grim"
 "2024-06-05 15:48:42", "1279203", "22468ceb0f9991c618e4d682d304b195a65e60a6f507629561106ed815b81f3b", "sha256_hash", "payload", "win.gcleaner", "None", "GCleaner", "", "95", "None", "None", "0", "Grim"
-# Number of entries: 59
+# Number of entries: 60
