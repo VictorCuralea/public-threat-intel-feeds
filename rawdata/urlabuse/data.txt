@@ -6,8 +6,13 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-07 18:00:01 UTC
+# UPDATE: 2024-06-07 19:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 156458, "url": "http://redirectjoyboy3.pages.dev", "discovery": "2024-06-07 18:38:12", "added": "2024-06-07 18:38:12", "target": "Telegram", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "478f72c790101f1fc279250cdc2c730a"}
+{"id": 156457, "url": "http://redirectblacklitss-e3z.pages.dev", "discovery": "2024-06-07 18:32:10", "added": "2024-06-07 18:32:10", "target": "Telegram", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "341b5eac1f84795afc55727029e68873"}
+{"id": 156456, "url": "http://yenib333.top", "discovery": "2024-06-07 18:02:16", "added": "2024-06-07 18:02:16", "target": "TR-GOV", "reporter": "lruray", "AbuseType": "phishing", "UUID": "cf0dd4eb8bd81b89ca05360d91e6901c"}
+{"id": 156455, "url": "http://yenib334.top", "discovery": "2024-06-07 18:02:16", "added": "2024-06-07 18:02:16", "target": "TR-GOV", "reporter": "lruray", "AbuseType": "phishing", "UUID": "664741a2a18abaf649bbc367e917304a"}
+{"id": 156454, "url": "http://yenib342.top", "discovery": "2024-06-07 18:00:14", "added": "2024-06-07 18:00:14", "target": "TR-GOV", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "0031c54df132c54c72e87149a79d80ef"}
 {"id": 156453, "url": "http://bs-2pp.pages.dev", "discovery": "2024-06-07 17:48:15", "added": "2024-06-07 17:48:15", "target": "Yahoo!", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "bcb978ede9d808c97ae05ede4ab4927a"}
 {"id": 156452, "url": "http://78.188.82.30:1714/.i", "discovery": "2024-06-07 17:29:27", "added": "2024-06-07 17:29:27", "target": "#ELF32ARM_EABI5", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "1ca6e3e98cd245b4818a57e4e10dd33e"}
 {"id": 156451, "url": "http://78.188.183.85:40605/i", "discovery": "2024-06-07 17:29:23", "added": "2024-06-07 17:29:23", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "a37821effd4742189cb12fb83c828f56"}
@@ -503,8 +508,3 @@
 {"id": 155961, "url": "http://175.147.184.213:59510/Mozi.m", "discovery": "2024-06-07 09:05:53", "added": "2024-06-07 09:05:53", "target": "#ELF32_MIPSv1", "reporter": "lrudbot", "AbuseType": "malware", "UUID": "fa99a3c64e69415493f07ee057d13c77"}
 {"id": 155960, "url": "http://154.216.104.182/03-23-x64.bin", "discovery": "2024-06-07 09:05:52", "added": "2024-06-07 09:05:52", "target": "#ELF64", "reporter": "lrudbot", "AbuseType": "malware", "UUID": "99c6bc8655c4439c874a619bea3f4242"}
 {"id": 155959, "url": "http://147.45.47.149:54674/nemo/dude.exe", "discovery": "2024-06-07 09:05:48", "added": "2024-06-07 09:05:48", "target": "#PE32INTEL_GUI", "reporter": "lrudbot", "AbuseType": "malware", "UUID": "0081e56cfe7141a3be9fa954d596ef10"}
-{"id": 155958, "url": "http://141.98.10.127/bins/r.arm7", "discovery": "2024-06-07 09:05:45", "added": "2024-06-07 09:05:45", "target": "#ELF32ARM_EABI4", "reporter": "lrudbot", "AbuseType": "malware", "UUID": "668ffa6ac16d4980a41ff02684261918"}
-{"id": 155957, "url": "http://141.98.10.127/bins/r.arm5", "discovery": "2024-06-07 09:05:45", "added": "2024-06-07 09:05:45", "target": "#ELF32ARM_v1", "reporter": "lrudbot", "AbuseType": "malware", "UUID": "21f0a07ffbc1409aaddddf4fdac4f97b"}
-{"id": 155956, "url": "http://14.153.146.12:39860/i", "discovery": "2024-06-07 09:05:45", "added": "2024-06-07 09:05:45", "target": "#ELF32_MIPSv1", "reporter": "lrudbot", "AbuseType": "malware", "UUID": "3e6d82c5f56c4c1baff88d756198f872"}
-{"id": 155955, "url": "http://123.13.39.67:42793/i", "discovery": "2024-06-07 09:05:42", "added": "2024-06-07 09:05:42", "target": "#ELF32MIPS", "reporter": "lrudbot", "AbuseType": "malware", "UUID": "d0a71cb842ad45cf8885dddca86fd3e7"}
-{"id": 155954, "url": "http://123.11.76.16:57630/i", "discovery": "2024-06-07 09:05:41", "added": "2024-06-07 09:05:41", "target": "#ELF32MIPS", "reporter": "lrudbot", "AbuseType": "malware", "UUID": "53ccd6d2933c42d7a8d86b8f553a69fb"}

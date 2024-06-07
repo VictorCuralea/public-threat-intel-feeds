@@ -6,9 +6,14 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-07 18:00:01 UTC
+# UPDATE: 2024-06-07 19:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+156458, 2024-06-07 18:38:12, 2024-06-07 18:38:12, phishing, 478f72c790101f1fc279250cdc2c730a, http://redirectjoyboy3.pages.dev
+156457, 2024-06-07 18:32:10, 2024-06-07 18:32:10, phishing, 341b5eac1f84795afc55727029e68873, http://redirectblacklitss-e3z.pages.dev
+156456, 2024-06-07 18:02:16, 2024-06-07 18:02:16, phishing, cf0dd4eb8bd81b89ca05360d91e6901c, http://yenib333.top
+156455, 2024-06-07 18:02:16, 2024-06-07 18:02:16, phishing, 664741a2a18abaf649bbc367e917304a, http://yenib334.top
+156454, 2024-06-07 18:00:14, 2024-06-07 18:00:14, phishing, 0031c54df132c54c72e87149a79d80ef, http://yenib342.top
 156453, 2024-06-07 17:48:15, 2024-06-07 17:48:15, phishing, bcb978ede9d808c97ae05ede4ab4927a, http://bs-2pp.pages.dev
 156452, 2024-06-07 17:29:27, 2024-06-07 17:29:27, malware, 1ca6e3e98cd245b4818a57e4e10dd33e, http://78.188.82.30:1714/.i
 156451, 2024-06-07 17:29:23, 2024-06-07 17:29:23, malware, a37821effd4742189cb12fb83c828f56, http://78.188.183.85:40605/i
@@ -504,8 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 155961, 2024-06-07 09:05:53, 2024-06-07 09:05:53, malware, fa99a3c64e69415493f07ee057d13c77, http://175.147.184.213:59510/Mozi.m
 155960, 2024-06-07 09:05:52, 2024-06-07 09:05:52, malware, 99c6bc8655c4439c874a619bea3f4242, http://154.216.104.182/03-23-x64.bin
 155959, 2024-06-07 09:05:48, 2024-06-07 09:05:48, malware, 0081e56cfe7141a3be9fa954d596ef10, http://147.45.47.149:54674/nemo/dude.exe
-155958, 2024-06-07 09:05:45, 2024-06-07 09:05:45, malware, 668ffa6ac16d4980a41ff02684261918, http://141.98.10.127/bins/r.arm7
-155957, 2024-06-07 09:05:45, 2024-06-07 09:05:45, malware, 21f0a07ffbc1409aaddddf4fdac4f97b, http://141.98.10.127/bins/r.arm5
-155956, 2024-06-07 09:05:45, 2024-06-07 09:05:45, malware, 3e6d82c5f56c4c1baff88d756198f872, http://14.153.146.12:39860/i
-155955, 2024-06-07 09:05:42, 2024-06-07 09:05:42, malware, d0a71cb842ad45cf8885dddca86fd3e7, http://123.13.39.67:42793/i
-155954, 2024-06-07 09:05:41, 2024-06-07 09:05:41, malware, 53ccd6d2933c42d7a8d86b8f553a69fb, http://123.11.76.16:57630/i
