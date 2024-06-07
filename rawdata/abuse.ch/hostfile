@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-06-07 05:26:15 UTC                        #
+# Last updated: 2024-06-07 10:19:40 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	atlanticshoresresort.com
 127.0.0.1	moderncssframeworks.com
 127.0.0.1	profilepimpz.com
 127.0.0.1	versaillesinfo.com
@@ -12483,5 +12484,4 @@
 127.0.0.1	petitbrun1.websiteseguro.com
 127.0.0.1	cs2.francy.world
 127.0.0.1	cs1.francy.world
-127.0.0.1	opsqhv54xl33qcahhakpdl7gf40bkhoj.lambda-url.us-east-1.on.aws
 # Number of entries: 12478
