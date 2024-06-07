@@ -6,9 +6,15 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-07 02:00:01 UTC
+# UPDATE: 2024-06-07 03:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+155673, 2024-06-07 02:46:10, 2024-06-07 02:46:10, phishing, 813cfa91ca380404da31d9523719bd72, http://wvdgrj2.pages.dev
+155672, 2024-06-07 02:12:04, 2024-06-07 01:51:42, phishing, 64fdfe49eac90341ffd3a308fde751a3, https://googleweblight.com/i?u=https://cloudflare-ipfs.com/ipfs/Qmdw4i5U4WTDwrf5FMr939qnXBHFmtj3pj3yB8voLH8hSp/lux2.html
+155671, 2024-06-07 02:11:39, 2024-06-07 01:59:09, phishing, fdd7cf0d4e76a8bb9a9aa8c60432ccfe, https://rapid-animal-large.on-fleek.app/Mail-Login.html#yahoo@yahoo.com
+155670, 2024-06-07 02:10:15, 2024-06-07 02:10:15, phishing, 3b252d8d8a249329bff41ad33f94b027, http://any-revisedtenderchart.pages.dev
+155669, 2024-06-07 02:08:06, 2024-06-07 02:08:06, phishing, 25c8c4728ffe4ba0b012ff12cf5208dc, https://cloudflare-ipfs.com/ipfs/bafybeihrx63ep7xccppetnwiighwnaa3c4wvmsptuiqfj76zedwthrnmim/Nnew.html#info@yahoo.com.tw
+155668, 2024-06-07 02:07:52, 2024-06-07 01:48:56, phishing, 4dac9e342f36085de5760a7e2b70f393, https://pikebill.lt.emlnk.com/Prod/link-tracker?notrack=1&redirectUrl=aHR0cHMlM0ElMkYlMkZjbG91ZGZsYXJlLWlwZnMuY29tJTJGaXBmcyUyRmJhZnliZWlocng2M2VwN3hjY3BwZXRud2lpZ2h3bmFhM2M0d3Ztc3B0dWlxZmo3NnplZHd0aHJubWltJTJGTm5ldy5odG1s&sig=BgHJWenTXUWptkFuNFGcdoQ7wv9psX2yWxFU6n3CQxDY&iat=1717421851&a=%7C%7C92609874%7C%7C&account=pikebill%2Eactivehosted%2Ecom&email=j%2F82cNo24Yw%2F1WeP3dPhqsaODBoGIAfrbONCMHU95aJwLxi9Xg%3D%3D%3AAuN6AN9PCxt%2FNqFamvn3QTvYUVEETJMG&s=YmFiYWNsZXR1c0B5YW5kZXguY29t&i=1A3A0A9#info@yahoo.com.tw
 155667, 2024-06-07 01:23:38, 2024-06-07 01:23:38, phishing, f2ad607b040799393ca3d2111ac968e3, http://page-timegdjtrt.pages.dev
 155666, 2024-06-07 01:21:52, 2024-06-07 01:21:52, malware, 469b89087bae440e9f5c38365d9004f6, http://61.3.134.235:52916/Mozi.m
 155665, 2024-06-07 01:21:43, 2024-06-07 01:21:43, malware, a43827ff77b04c9f94dfb9492e38bfa8, http://61.0.218.214:52981/i
@@ -503,9 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 155175, 2024-06-06 11:24:22, 2024-06-06 11:24:22, malware, 6a2dbd814cba432b8c57dff01e44ec23, http://123.14.178.246:41751/i
 155174, 2024-06-06 11:24:20, 2024-06-06 11:24:20, malware, 76bd491d106649cd9b4d1955563a0c53, http://123.14.178.246:41751/bin.sh
 155173, 2024-06-06 11:24:18, 2024-06-06 11:24:18, malware, cfdbb13e88ca44b08227efedd9d73284, http://123.10.212.157:45966/Mozi.m
-155172, 2024-06-06 11:24:17, 2024-06-06 11:24:17, malware, c4cf4188a0274924910d46c587024908, http://123.10.209.75:51121/i
-155171, 2024-06-06 11:24:15, 2024-06-06 11:24:15, malware, 2d07efd74796437396f3bba6b078a9f3, http://123.10.209.75:51121/bin.sh
-155170, 2024-06-06 11:24:14, 2024-06-06 11:24:14, malware, 9cc73174cf0147ecb75f95405b166cc0, http://119.180.105.207:35717/bin.sh
-155169, 2024-06-06 11:24:12, 2024-06-06 11:24:12, malware, 6af8107464c34ba3bf54f1fd5447f621, http://118.79.217.255:58348/bin.sh
-155168, 2024-06-06 11:24:10, 2024-06-06 11:24:10, malware, c0aa8948ec2f49d89a4097cc462b887f, http://117.255.180.54:56128/i
-155167, 2024-06-06 11:23:36, 2024-06-06 11:23:36, malware, dec977be22bf4401a5ffad3bd5c6222e, http://117.245.38.91:50937/bin.sh
