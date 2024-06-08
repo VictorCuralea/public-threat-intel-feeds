@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-08 20:00:01 UTC
+# UPDATE: 2024-06-08 21:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+157383, 2024-06-08 20:12:15, 2024-06-08 20:12:15, phishing, 40d491fa36660de711e6c8916493c49a, http://reforcol.com
 157382, 2024-06-08 19:25:51, 2024-06-08 19:25:51, malware, 35fdf32708064991a3c7d57d762c5c23, https://spectral.website/Spectral_Engine.exe
 157381, 2024-06-08 19:25:39, 2024-06-08 19:25:39, malware, 309daedaa1df4352ac3cb5dfcec1b0ac, http://95.132.71.42:36697/bin.sh
 157380, 2024-06-08 19:25:34, 2024-06-08 19:25:34, malware, 577e1d7eec964853b071cceaac5b6444, http://95.132.71.42:36697/
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 156886, 2024-06-08 09:02:37, 2024-06-08 09:02:37, malware, 348fceebacaf4a70987d332b1b1afb10, http://119.118.59.158:59164/i
 156885, 2024-06-08 09:02:36, 2024-06-08 09:02:36, malware, 455f8af1d3e04722b00ff99d2f342edc, http://119.118.59.158:59164/bin.sh
 156884, 2024-06-08 09:02:34, 2024-06-08 09:02:34, malware, c28f9fee7ca24e74bd5d55ab007ea2ef, http://119.117.164.51:36406/i
-156883, 2024-06-08 09:02:33, 2024-06-08 09:02:33, malware, c3160eb98a9b4b5bae9544a5ee46ab4a, http://119.117.164.51:36406/bin.sh
