@@ -6,9 +6,15 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-08 10:00:01 UTC
+# UPDATE: 2024-06-08 11:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+157030, 2024-06-08 10:30:13, 2024-06-08 10:30:13, phishing, 0399564978c78b1d7dafee8819bf98cd, http://ksjdowe2.pages.dev
+157029, 2024-06-08 10:04:27, 2024-06-08 10:04:27, phishing, ffe70df5f1a12f05bfa78fb393a1b2f3, http://telegitram.work/
+157028, 2024-06-08 10:04:25, 2024-06-08 10:04:25, phishing, 243e22815f27c91f4dcbf5b390861a24, http://telegraem.work/
+157027, 2024-06-08 10:04:21, 2024-06-08 10:04:21, phishing, 86af26bc8bec806c3342523bc0e8440c, http://telegrart.work/
+157026, 2024-06-08 10:02:19, 2024-06-08 10:02:19, phishing, df45a6aa5e9bfd8af5fd8fe0e8c1a2f8, https://telagremn.shop/
+157025, 2024-06-08 10:02:18, 2024-06-08 10:02:18, phishing, 6d203d134d51537b61fa8bb3de5d1ed5, http://telegrsam.work/
 157024, 2024-06-08 09:56:12, 2024-06-08 09:56:12, phishing, cf11c1769131aa85a60033ad3f379c95, http://page-timegfdrnc.pages.dev
 157023, 2024-06-08 09:56:12, 2024-06-08 09:56:12, phishing, d9ffa01a77a07966f66be386f89c035a, http://page-timejhkydss.pages.dev
 157022, 2024-06-08 09:54:10, 2024-06-08 09:54:10, phishing, 39a7c4438320004894db451f8a82d061, http://page-timerhgfrv.pages.dev
@@ -503,9 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 156533, 2024-06-07 21:24:16, 2024-06-07 21:24:16, malware, 4e72bdca4fe649a0b556bfe9c38e8d29, http://42.239.171.92:38262/bin.sh
 156532, 2024-06-07 21:24:14, 2024-06-07 21:24:14, malware, f993e4ff986d47a3af92b14e8cfb1c14, http://42.235.46.125:44412/bin.sh
 156531, 2024-06-07 21:24:13, 2024-06-07 21:24:13, malware, f336c233e16f4b139d7f0b01f1c473ce, http://42.230.211.226:41510/bin.sh
-156530, 2024-06-07 21:24:11, 2024-06-07 21:24:11, malware, 7c139e09b19142f99f2227fe904af6c7, http://42.227.165.253:40966/Mozi.m
-156529, 2024-06-07 21:24:10, 2024-06-07 21:24:10, malware, b0ba172ea186487d962229c0c769125a, http://42.224.67.38:46134/i
-156528, 2024-06-07 21:24:08, 2024-06-07 21:24:08, malware, 75f6ff6cff4a4de6b98f1dd36e3d565c, http://42.224.67.38:46134/bin.sh
-156527, 2024-06-07 21:24:07, 2024-06-07 21:24:07, malware, b36b26ffb8d14b7e9f787b846e4d97fa, http://42.224.67.183:58282/i
-156526, 2024-06-07 21:24:05, 2024-06-07 21:24:05, malware, 6952c83ff27c4ad387f0f30d44d0c788, http://42.224.174.90:41403/i
-156525, 2024-06-07 21:23:55, 2024-06-07 21:23:55, malware, 2b78cf69006e4fe494f249e633dca4a8, http://39.170.28.198:33557/bin.sh
