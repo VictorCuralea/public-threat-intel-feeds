@@ -6,9 +6,16 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-08 08:00:02 UTC
+# UPDATE: 2024-06-08 09:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+156857, 2024-06-08 08:50:12, 2024-06-08 08:50:12, phishing, c7161301ba34aa9d61d5828b228e18e7, http://page-timegdfruj.pages.dev
+156856, 2024-06-08 08:42:15, 2024-06-08 08:42:15, phishing, dbd49804d2f38dc7914d0e3cba43eec8, http://imtoken-us.shop
+156855, 2024-06-08 08:32:14, 2024-06-08 08:32:14, phishing, c70a56facb7a2adc56eb56668c96a804, http://hifirisetradechart.pages.dev
+156854, 2024-06-08 08:26:10, 2024-06-08 08:26:10, phishing, 6e3cda3d5a6f4073a8dd8fba9479619f, http://dfeave2.pages.dev
+156853, 2024-06-08 08:26:10, 2024-06-08 08:26:10, phishing, b06bf63aa7f83f82a7183231f54cb7f0, http://page-timeqmffrhk.pages.dev
+156852, 2024-06-08 08:26:10, 2024-06-08 08:26:10, phishing, 7494ba2d95916ef178a7f82a97e5c4ad, http://page-timepyhfdrtyjf.pages.dev
+156851, 2024-06-08 08:02:11, 2024-06-08 08:02:11, phishing, fb0fdfaacf00f709355fbb0b43d86d58, http://yoipfvhkg.pages.dev
 156850, 2024-06-08 07:24:53, 2024-06-08 07:24:53, malware, 779a4010cf144f98b6ed9e536be83bab, http://78.185.57.198:56221/i
 156849, 2024-06-08 07:24:51, 2024-06-08 07:24:51, malware, 3f0a6c4e24134c75a6442aa9fbcb5da1, http://78.142.55.3:43702/i
 156848, 2024-06-08 07:24:50, 2024-06-08 07:24:50, malware, 2a4eb08d216a4b68b2705ad3db4cb57e, http://61.53.248.168:53640/i
@@ -502,10 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 156360, 2024-06-07 15:23:26, 2024-06-07 15:23:26, malware, 78dd639663b74922aef74d4e3cecd679, http://42.236.220.203:40365/bin.sh
 156359, 2024-06-07 15:23:25, 2024-06-07 15:23:25, malware, a4a354ff0cde4764a59fe3fb654fb430, http://42.235.46.125:44412/i
 156358, 2024-06-07 15:23:23, 2024-06-07 15:23:23, malware, 5fffd553b6eb482cac8e2d1d461bb017, http://42.234.189.217:59149/i
-156357, 2024-06-07 15:23:22, 2024-06-07 15:23:22, malware, 630e9e7599664562b567681e4bc4f46b, http://42.234.130.67:59190/i
-156356, 2024-06-07 15:23:20, 2024-06-07 15:23:20, malware, 3a5d277df614462f968d0b15c815c13b, http://42.230.61.152:49783/bin.sh
-156355, 2024-06-07 15:23:18, 2024-06-07 15:23:18, malware, 6453628eb7e043e2bab256194414ebfa, http://42.227.238.141:51074/bin.sh
-156354, 2024-06-07 15:22:53, 2024-06-07 15:22:53, malware, 2824406c36fa4508a32ac171eeb69216, http://222.138.133.175:34639/i
-156353, 2024-06-07 15:22:51, 2024-06-07 15:22:51, malware, 65a421a6d8374f668b11e2cbabb671a7, http://222.138.133.175:34639/bin.sh
-156352, 2024-06-07 15:22:49, 2024-06-07 15:22:49, malware, 86272f4eddf64dbd99dba4ab6cd86083, http://222.137.84.117:35884/Mozi.m
-156351, 2024-06-07 15:22:47, 2024-06-07 15:22:47, malware, a0d4cc019f37489b9e8443faf939e502, http://221.202.39.221:54036/Mozi.m
