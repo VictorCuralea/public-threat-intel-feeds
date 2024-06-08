@@ -6,8 +6,11 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-08 00:00:02 UTC
+# UPDATE: 2024-06-08 01:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 156623, "url": "http://djr.pages.dev", "discovery": "2024-06-08 00:30:11", "added": "2024-06-08 00:30:11", "target": "Yahoo!", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "9efb0d0dd0eafa4644d09a79337721e9"}
+{"id": 156622, "url": "http://fbscontenttest.com", "discovery": "2024-06-08 00:20:13", "added": "2024-06-08 00:20:13", "target": "Facebook", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "e23aca224102946f35dad833c163e93b"}
+{"id": 156621, "url": "http://o365.globalfoundries.skyfencenet.com", "discovery": "2024-06-08 00:14:16", "added": "2024-06-08 00:14:16", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "780a07118b9ab4736906546c3c96eb1a"}
 {"id": 156620, "url": "http://mvefe05.pages.dev", "discovery": "2024-06-07 23:48:10", "added": "2024-06-07 23:48:10", "target": "Amazon", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "7550363f5e49cc8d59c585c5dfb37ef4"}
 {"id": 156619, "url": "http://69.165.131.129:52820/Mozi.m", "discovery": "2024-06-07 23:26:16", "added": "2024-06-07 23:26:16", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "a56f55ba5ce940228212120618f761a6"}
 {"id": 156618, "url": "http://61.52.35.105:40307/i", "discovery": "2024-06-07 23:26:15", "added": "2024-06-07 23:26:15", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "65444d53928d44ca89d600b3a1b1c374"}
@@ -505,6 +508,3 @@
 {"id": 156126, "url": "http://utwgv.com", "discovery": "2024-06-07 10:18:22", "added": "2024-06-07 10:18:22", "target": "USPS", "reporter": "lruray", "AbuseType": "phishing", "UUID": "d0be341e58f572589eaf93de425a610e"}
 {"id": 156125, "url": "http://utwgm.com", "discovery": "2024-06-07 10:18:15", "added": "2024-06-07 10:18:15", "target": "USPS", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "40c94396d7d9d22c647f3eab14495d60"}
 {"id": 156124, "url": "http://utwze.com", "discovery": "2024-06-07 10:18:15", "added": "2024-06-07 10:18:15", "target": "USPS", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "9e7527103a844fb5922cdb54423799e5"}
-{"id": 156123, "url": "http://utwhy.com", "discovery": "2024-06-07 10:16:39", "added": "2024-06-07 10:16:39", "target": "USPS", "reporter": "lruray", "AbuseType": "phishing", "UUID": "bfb8b8e3c3cb87d7b216efcd59f45099"}
-{"id": 156122, "url": "http://utwhw.com", "discovery": "2024-06-07 10:16:35", "added": "2024-06-07 10:16:35", "target": "USPS", "reporter": "lruray", "AbuseType": "phishing", "UUID": "022b758cd75bad5a10212745b289605f"}
-{"id": 156121, "url": "http://utwhu.com", "discovery": "2024-06-07 10:16:31", "added": "2024-06-07 10:16:31", "target": "USPS", "reporter": "lruray", "AbuseType": "phishing", "UUID": "70c0381b822d9a7a4ea119d3eee2080c"}

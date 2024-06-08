@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-08 00:00:02 UTC
+# UPDATE: 2024-06-08 01:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+156623, 2024-06-08 00:30:11, 2024-06-08 00:30:11, phishing, 9efb0d0dd0eafa4644d09a79337721e9, http://djr.pages.dev
+156622, 2024-06-08 00:20:13, 2024-06-08 00:20:13, phishing, e23aca224102946f35dad833c163e93b, http://fbscontenttest.com
+156621, 2024-06-08 00:14:16, 2024-06-08 00:14:16, phishing, 780a07118b9ab4736906546c3c96eb1a, http://o365.globalfoundries.skyfencenet.com
 156620, 2024-06-07 23:48:10, 2024-06-07 23:48:10, phishing, 7550363f5e49cc8d59c585c5dfb37ef4, http://mvefe05.pages.dev
 156619, 2024-06-07 23:26:16, 2024-06-07 23:26:16, malware, a56f55ba5ce940228212120618f761a6, http://69.165.131.129:52820/Mozi.m
 156618, 2024-06-07 23:26:15, 2024-06-07 23:26:15, malware, 65444d53928d44ca89d600b3a1b1c374, http://61.52.35.105:40307/i
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 156126, 2024-06-07 10:18:22, 2024-06-07 10:18:22, phishing, d0be341e58f572589eaf93de425a610e, http://utwgv.com
 156125, 2024-06-07 10:18:15, 2024-06-07 10:18:15, phishing, 40c94396d7d9d22c647f3eab14495d60, http://utwgm.com
 156124, 2024-06-07 10:18:15, 2024-06-07 10:18:15, phishing, 9e7527103a844fb5922cdb54423799e5, http://utwze.com
-156123, 2024-06-07 10:16:39, 2024-06-07 10:16:39, phishing, bfb8b8e3c3cb87d7b216efcd59f45099, http://utwhy.com
-156122, 2024-06-07 10:16:35, 2024-06-07 10:16:35, phishing, 022b758cd75bad5a10212745b289605f, http://utwhw.com
-156121, 2024-06-07 10:16:31, 2024-06-07 10:16:31, phishing, 70c0381b822d9a7a4ea119d3eee2080c, http://utwhu.com
