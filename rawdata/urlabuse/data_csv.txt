@@ -6,9 +6,25 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-08 22:00:01 UTC
+# UPDATE: 2024-06-08 23:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+157470, 2024-06-08 22:56:14, 2024-06-08 22:56:14, phishing, 175ca40d1481d453e3a4c7340dab7704, http://radikalfactor.com
+157469, 2024-06-08 22:48:13, 2024-06-08 22:48:13, phishing, 4d78811d9406b35f1a71c359639a3c0c, http://redorcas.com
+157468, 2024-06-08 22:38:12, 2024-06-08 22:38:12, phishing, 42f6b389eebf32a212f9d3d8b79417a0, http://lalotrade.com
+157467, 2024-06-08 22:32:13, 2024-06-08 22:32:13, phishing, cfa183a9a15900fd921f077c6accb074, http://sdtrebjhz.pages.dev
+157466, 2024-06-08 22:10:10, 2024-06-08 22:10:10, phishing, cd7042fbcbbfcde3ecd6a67198e44d0e, http://premlo-uz.store
+157465, 2024-06-08 22:04:13, 2024-06-08 22:04:13, phishing, 1761f472fe0417dc05a7f27e248c2781, https://m.wangkadashen.com/
+157464, 2024-06-08 22:03:09, 2024-06-08 22:03:09, hacked, 432dd86bc0a519fb819713143e202c5d, https://strategic-benefits.com/wp-content/plugins/fix/
+157463, 2024-06-08 22:03:09, 2024-06-08 22:03:09, hacked, 4dcd017ec16407e820df63feadca200c, https://lgsdefense.com/
+157462, 2024-06-08 22:03:05, 2024-06-08 22:03:05, hacked, 849f0b6cf03b91535d2afb889b2d61d4, https://smilozonecares.com/index.html
+157461, 2024-06-08 22:02:49, 2024-06-08 22:02:49, hacked, 68a9157ae0e5529fd883c3a62d6b4408, https://dijital.kozakaraca.com.tr/Uploads/OgretmenResim/
+157460, 2024-06-08 22:02:47, 2024-06-08 22:02:47, hacked, 39ba4a07126ccf231fd5c8422cd762bf, https://www.sinavdijital.com/Uploads/OgretmenResim/
+157459, 2024-06-08 22:02:45, 2024-06-08 22:02:45, hacked, 9ef3e6f5aa5081fab7a74f669bb06322, https://ru.diez.md
+157458, 2024-06-08 22:02:25, 2024-06-08 22:02:25, hacked, f0466c0d41e1c11ca2d284fa74874a4a, http://relatorios.impaktusengenharia.com.br/index.html
+157457, 2024-06-08 22:02:25, 2024-06-08 22:02:25, hacked, 4b6b97053a41a7f28986b70d0a7827a5, http://onc-it.co/index.html
+157456, 2024-06-08 22:02:25, 2024-06-08 22:02:25, hacked, 16d791a5a9e038b1b08567ac77fe66fb, https://www.rpure.com.tr/resimler/
+157455, 2024-06-08 22:02:21, 2024-06-08 22:02:21, hacked, e0f641186cd03c6158d14be8060beed8, http://minasdtr.impaktusengenharia.com.br/index.html
 157454, 2024-06-08 21:56:12, 2024-06-08 21:56:12, phishing, 4d85c999830a16d3cf6b39ad8fff1f59, http://realdeal-estates.com
 157453, 2024-06-08 21:54:18, 2024-06-08 21:54:18, phishing, b8952743eb65fc1fab01f34938083c5b, http://livemigraznesvtwo.pages.dev
 157452, 2024-06-08 21:27:15, 2024-06-08 21:27:15, malware, cb9716a8a3b84e8dbb838d774ef545b2, http://95.135.157.91:41991/Mozi.m
@@ -493,19 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 156973, 2024-06-08 09:06:05, 2024-06-08 09:06:05, malware, 99004d18a2964efc8103b76acb06d7f3, http://94.156.71.169/binary_data/aphrodite/bins/aph.arm7
 156972, 2024-06-08 09:06:04, 2024-06-08 09:06:04, malware, 0a61ab69947548a0bda15d46efd79d24, http://94.156.71.169/binary_data/aphrodite/bins/aph.arm
 156971, 2024-06-08 09:06:04, 2024-06-08 09:06:04, malware, 434376311b87444481a7403167f04859, http://82.194.55.190:51557/i
-156970, 2024-06-08 09:06:03, 2024-06-08 09:06:03, malware, 194989926dc14076b364d4ab1359b141, http://82.194.55.190:51557/bin.sh
-156969, 2024-06-08 09:06:02, 2024-06-08 09:06:02, malware, 07c483d214644a85b5900a7f0fa6e0aa, http://61.137.147.71:32835/i
-156968, 2024-06-08 09:06:00, 2024-06-08 09:06:00, malware, 9559fac62b8b445fa40f24dc27d4da31, http://61.137.147.71:32835/bin.sh
-156967, 2024-06-08 09:05:58, 2024-06-08 09:05:58, malware, 84df25e96776462e9b0cfcd57d7720ce, http://60.23.75.139:60349/Mozi.m
-156966, 2024-06-08 09:05:56, 2024-06-08 09:05:56, malware, 45d080297ba44f5cb48b7ac87cf511be, http://60.18.22.142:35796/Mozi.m
-156965, 2024-06-08 09:05:55, 2024-06-08 09:05:55, malware, 4eb5de9adc6c4e779c87e86b6b61148b, http://59.99.143.56:52430/Mozi.m
-156964, 2024-06-08 09:05:13, 2024-06-08 09:05:13, malware, 7b0493ea503f4f12b19a6752caf851bc, http://5.59.248.195/bins/sora.x86
-156963, 2024-06-08 09:05:13, 2024-06-08 09:05:13, malware, 642b51bc30794dea82749105f624362c, http://5.59.248.195/bins/sora.spc
-156962, 2024-06-08 09:05:12, 2024-06-08 09:05:12, malware, f22ed168b7974525bb68ffb2a8efdf2d, http://5.59.248.195/bins/sora.ppc
-156961, 2024-06-08 09:05:12, 2024-06-08 09:05:12, malware, c07690973ab64b9eab36c81733bdefb8, http://5.59.248.195/bins/sora.mpsl
-156960, 2024-06-08 09:05:12, 2024-06-08 09:05:12, malware, 3c70b5beffdf4f53b39e3f8fe20d9343, http://5.59.248.195/bins/sora.m68k
-156959, 2024-06-08 09:05:11, 2024-06-08 09:05:11, malware, 8d388381fc6041f1891be6ba01f7657a, http://5.59.248.195/bins/sora.arm6
-156958, 2024-06-08 09:05:11, 2024-06-08 09:05:11, malware, 4e597466e6df4e7dabd6286c4a3fe04d, http://5.59.248.195/bins/sora.arm5
-156957, 2024-06-08 09:05:11, 2024-06-08 09:05:11, malware, 303f4395d05e4a08b80c403067eac62c, http://5.59.248.195/bins/sora.arm
-156956, 2024-06-08 09:05:11, 2024-06-08 09:05:11, malware, cfc24cb90e7c46f5914d5486508b83e1, http://42.87.94.169:33828/i
-156955, 2024-06-08 09:05:09, 2024-06-08 09:05:09, malware, cc90cd1c05ae4b14ad36880eb6940d15, http://42.87.94.169:33828/bin.sh
