@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-08 02:00:01 UTC
+# UPDATE: 2024-06-08 03:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+156681, 2024-06-08 02:34:17, 2024-06-08 02:34:17, phishing, d22761a184324c138bd89cec4ee99fed, http://defyguardianverse.pages.dev
+156680, 2024-06-08 02:32:10, 2024-06-08 02:32:10, phishing, c18bccf9bda82237ec4869268e5b162d, http://qazwsx2-40o.pages.dev
+156679, 2024-06-08 02:10:17, 2024-06-08 02:10:17, phishing, eadc929a816c03be10342430c9bbc9a4, http://livemigraznsvtwo.pages.dev
 156678, 2024-06-08 01:27:25, 2024-06-08 01:27:25, malware, 109ffb5dce5e4a2b8dbaddb73e55756e, http://78.185.57.198:56221/Mozi.m
 156677, 2024-06-08 01:27:24, 2024-06-08 01:27:24, malware, d7878c4b884b41ae82f0395a0298fe2a, http://70.112.115.107:32962/i
 156676, 2024-06-08 01:27:22, 2024-06-08 01:27:22, malware, c55dd2db28534399a2dbd8495a41065b, http://70.112.115.107:32962/bin.sh
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 156184, 2024-06-07 11:24:33, 2024-06-07 11:24:33, malware, bfee936953394185af293ba6bb031a9a, http://117.255.187.194:53065/i
 156183, 2024-06-07 11:24:31, 2024-06-07 11:24:31, malware, 4ecdab21b87c40cfb98e295cb5dce85d, http://117.255.187.194:53065/bin.sh
 156182, 2024-06-07 11:24:29, 2024-06-07 11:24:29, malware, 43fe9d7c501f42c6b801ae88c785aba8, http://117.251.162.215:36486/i
-156181, 2024-06-07 11:24:07, 2024-06-07 11:24:07, malware, 7dd8f8f609754cd3acd6675fcdce8cfe, http://117.242.195.138:53196/Mozi.m
-156180, 2024-06-07 11:23:45, 2024-06-07 11:23:45, malware, 3375251f72a644279128a5287812bfdb, http://117.220.148.98:38229/Mozi.a
-156179, 2024-06-07 11:22:46, 2024-06-07 11:22:46, malware, ea16f107d5e04fa0929db20190ebb516, http://117.213.251.63:36055/bin.sh
