@@ -6,9 +6,17 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-09 01:00:01 UTC
+# UPDATE: 2024-06-09 02:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+157541, 2024-06-09 01:54:12, 2024-06-09 01:54:12, phishing, 052cb111ab4247d1dcfe8ed6692c9a66, http://api-connects.pages.dev
+157540, 2024-06-09 01:46:45, 2024-06-09 01:46:45, phishing, 25e8442aeefcc8f88ebf93f7b16db126, http://3656090624.cc
+157539, 2024-06-09 01:44:13, 2024-06-09 01:44:13, phishing, 2c6cd012982f24849f6beafb4d1d0d5e, http://page-timelegbhytf.pages.dev
+157538, 2024-06-09 01:44:12, 2024-06-09 01:44:12, phishing, c15eef3697a6c36d180f4f942855664a, http://page-timestjjhnfril.pages.dev
+157537, 2024-06-09 01:28:13, 2024-06-09 01:28:13, phishing, 7e22b39787ee24a326945558dbde6eed, http://primainchainapp.pages.dev
+157536, 2024-06-09 01:14:13, 2024-06-09 01:14:13, phishing, 27a7c8e10f2313fd62737a88da740b2c, http://tanmainfixapp.pages.dev
+157535, 2024-06-09 01:14:13, 2024-06-09 01:14:13, phishing, 51411dd22724c237a5db38d2738398a6, http://tchebes.com
+157534, 2024-06-09 01:14:13, 2024-06-09 01:14:13, phishing, 93cdee3014276e99745482d232bf9f83, http://tanmainfixapp.pages.dev
 157533, 2024-06-09 00:58:11, 2024-06-09 00:58:11, phishing, 7f289b58fbad5e420aaa2a2c24866b65, http://khd.649.mytemp.website
 157532, 2024-06-09 00:14:14, 2024-06-09 00:14:14, phishing, 2859e058a0c2ff23b821bb0f2c07025a, http://palmbeachpar3invitational.com
 157531, 2024-06-09 00:12:15, 2024-06-09 00:12:15, phishing, d2bcc1b6734bf77a3df0d3719133af46, http://iainknights.com
@@ -501,11 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 157044, 2024-06-08 11:22:48, 2024-06-08 11:22:48, malware, 4d3b170b70cb4fa89c7ba9da8a6e4ece, http://117.217.57.6:51175/bin.sh
 157043, 2024-06-08 11:22:45, 2024-06-08 11:22:45, malware, 8088661287d345da8edd3d68133ed574, http://117.213.92.209:35372/i
 157042, 2024-06-08 11:22:40, 2024-06-08 11:22:40, malware, bec7dfd5cdfb46a7979249a17a1b9635, http://117.206.65.153:43901/Mozi.m
-157041, 2024-06-08 11:22:38, 2024-06-08 11:22:38, malware, 4024559f0b6548fb90e41e3cc606d149, http://117.206.188.64:41264/i
-157040, 2024-06-08 11:22:36, 2024-06-08 11:22:36, malware, 9fd13431fcf548ca92ccf669d114dc74, http://117.206.181.171:33442/Mozi.m
-157039, 2024-06-08 11:21:34, 2024-06-08 11:21:34, malware, 3907db6c1b524a3c97e885f5b7991e5c, http://117.204.198.133:59905/bin.sh
-157038, 2024-06-08 11:21:21, 2024-06-08 11:21:21, malware, 02d6e5c68914428eb8776a926b1ba90a, http://117.198.12.56:53058/i
-157037, 2024-06-08 11:21:19, 2024-06-08 11:21:19, malware, 91dd54c332d7447a95f4563dab78d7e5, http://117.194.215.72:53287/bin.sh
-157036, 2024-06-08 11:21:01, 2024-06-08 11:21:01, malware, 751c4a3d3d404015b822548ad105fbef, http://115.62.159.214:34410/bin.sh
-157035, 2024-06-08 11:20:59, 2024-06-08 11:20:59, malware, dc3703213a8849f5a664a86968eceabd, http://115.62.147.254:50639/bin.sh
-157034, 2024-06-08 11:20:29, 2024-06-08 11:20:29, malware, 2b103f6f89b94a5f97de04f8c8287136, http://115.50.24.180:51778/Mozi.m
