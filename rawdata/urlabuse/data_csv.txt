@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-09 06:00:01 UTC
+# UPDATE: 2024-06-09 07:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+157705, 2024-06-09 06:30:17, 2024-06-09 06:30:17, phishing, a21ba0fa2fdb3435eb06c196dc11afee, http://blockbitdirectoryapp.pages.dev
 157704, 2024-06-09 05:36:17, 2024-06-09 05:36:17, phishing, 443ed949bd2ab533bade283300638799, http://tokencket.app
 157703, 2024-06-09 05:25:40, 2024-06-09 05:25:40, malware, bd28f6e86d214a53956ac87b2464271e, http://61.53.125.22:51548/bin.sh
 157702, 2024-06-09 05:25:38, 2024-06-09 05:25:38, malware, 1bacfd78176d4efeace19426695fa69d, http://61.52.156.88:46005/Mozi.m
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 157208, 2024-06-08 15:24:52, 2024-06-08 15:24:52, malware, fa3c645c66aa4b8598b8a573e2532e89, http://182.127.115.171:35439/bin.sh
 157207, 2024-06-08 15:24:40, 2024-06-08 15:24:40, malware, bc3c4ecfe9304b56b449b207027f30f3, http://182.126.244.200:58165/i
 157206, 2024-06-08 15:24:39, 2024-06-08 15:24:39, malware, 55ff16da54764aecbb24ae07f1116697, http://182.126.244.200:58165/bin.sh
-157205, 2024-06-08 15:24:36, 2024-06-08 15:24:36, malware, b6314a1b30b14bfb97f4733c4f49a66c, http://182.126.125.77:54927/Mozi.m
