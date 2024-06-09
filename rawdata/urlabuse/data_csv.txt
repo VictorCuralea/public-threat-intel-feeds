@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-09 18:00:01 UTC
+# UPDATE: 2024-06-09 19:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+158253, 2024-06-09 18:46:11, 2024-06-09 18:46:11, phishing, 78f6a6635672fccaa049c9fa5f1728f5, http://floral-resonance-0d39.nirifi1986.workers.dev
+158252, 2024-06-09 18:30:10, 2024-06-09 18:30:10, phishing, 1c77c6a38c2ecb9c5016570a96b9689f, http://aurora-bumb.cyou
 158251, 2024-06-09 17:58:16, 2024-06-09 17:58:16, phishing, bf2b6f5d67779f15e67f5f472c965d7a, http://yenib356.top
 158250, 2024-06-09 17:58:14, 2024-06-09 17:58:14, phishing, fb936ec6c7ca21674bb103607a2d6b04, http://yenib357.top
 158249, 2024-06-09 17:56:13, 2024-06-09 17:56:13, phishing, b72457ee02797caab4edc4e997fc4500, http://yenib358.top
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 157756, 2024-06-09 09:04:53, 2024-06-09 09:04:53, malware, 8c13e5aca2cc4456b44683a2bfc644ab, http://115.55.11.249:36880/bin.sh
 157755, 2024-06-09 09:04:52, 2024-06-09 09:04:52, malware, 413455fd0bda4188ad1fe665f46db383, http://114.222.97.70:39172/bin.sh
 157754, 2024-06-09 09:04:47, 2024-06-09 09:04:47, malware, 9033131913144dba82a58913b5105c54, http://113.231.211.205:58453/bin.sh
-157753, 2024-06-09 09:04:46, 2024-06-09 09:04:46, malware, e312a44a507441e9bfdca7f5b140bdd7, http://113.231.104.96:44756/Mozi.m
-157752, 2024-06-09 09:04:44, 2024-06-09 09:04:44, malware, 7196971ab2bf40dbab9cc1f299e81ccf, http://113.229.189.60:41164/Mozi.m
