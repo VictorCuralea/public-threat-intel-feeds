@@ -6,9 +6,14 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-09 04:00:01 UTC
+# UPDATE: 2024-06-09 05:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+157659, 2024-06-09 04:08:49, 2024-06-09 04:08:49, phishing, c42b5aa53e23918ca69442cd2aeeb4a6, http://1205.motorquan.com
+157658, 2024-06-09 04:04:31, 2024-06-09 04:04:31, phishing, bf5cff9794cbc949ebdd83c1159f5f8f, https://www.tyg51dn.com/gg/index.html
+157657, 2024-06-09 04:02:59, 2024-06-09 04:02:59, phishing, deb3b54c76ec02934567605c2f5cafe8, https://bafkreifwk3baebzdxlzg4gkgfjrrtftwlf5pybtsfnl4sa73duyquel7bq.ipfs.dweb.link/
+157656, 2024-06-09 04:02:29, 2024-06-09 04:02:29, phishing, a029aab4385edd8d77c44f66a97d2e28, https://3a6b5c6.cc:8989/
+157655, 2024-06-09 04:00:31, 2024-06-09 04:00:31, phishing, 12c071f79ce4738e08ca2d291870506f, https://tyg51dn.com/
 157654, 2024-06-09 03:32:45, 2024-06-09 03:32:45, malware, 62c523d3354242cba076fe07f77a3077, http://67.214.245.59:53226/Mozi.m
 157653, 2024-06-09 03:32:36, 2024-06-09 03:32:36, malware, bbbdb18f994b46d6a2066ec6fed9a491, http://61.53.125.22:51548/i
 157652, 2024-06-09 03:32:24, 2024-06-09 03:32:24, malware, 059b5694ada848d68355b79840b98914, http://61.52.159.13:54329/i
@@ -504,8 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 157162, 2024-06-08 15:11:33, 2024-06-08 15:11:33, phishing, e0ea6f1f21d47cd4a110d43e602eb17a, http://yinwzaih.com
 157161, 2024-06-08 15:11:13, 2024-06-08 15:11:13, phishing, 56b7bd3c2f0c5c586358c441b47b8e1b, http://ozd493.com
 157160, 2024-06-08 15:10:29, 2024-06-08 12:48:16, phishing, 3b3a0c4ec9d21e6d17949bbc06858c40, https://elegiza.com/ldo
-157159, 2024-06-08 15:09:34, 2024-06-08 12:46:26, phishing, d1d4b0be654cfab791f0379110daefbe, https://mckeegarden.org/update/
-157158, 2024-06-08 15:09:05, 2024-06-08 15:09:05, phishing, aa1d959bf1ef2dd00a9eff100697891f, http://gap631.com
-157157, 2024-06-08 15:08:55, 2024-06-08 15:08:55, phishing, ca8471c22ff4d982fd493de3a234858c, https://mckeegarden.org/update/Billing.php
-157156, 2024-06-08 15:08:45, 2024-06-08 15:08:45, phishing, c83a526c07b07e79a41d76e9a1ace0fd, https://mckeegarden.org/update/Home.php
-157155, 2024-06-08 15:08:33, 2024-06-08 12:46:17, phishing, a96c10d6cfa610b2aa1a3deda9f1ed86, https://nmn.abf.mybluehost.me/wp-admin/updating.php

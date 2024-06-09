@@ -6,8 +6,13 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-09 04:00:01 UTC
+# UPDATE: 2024-06-09 05:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 157659, "url": "http://1205.motorquan.com", "discovery": "2024-06-09 04:08:49", "added": "2024-06-09 04:08:49", "target": "AEON CARD", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "c42b5aa53e23918ca69442cd2aeeb4a6"}
+{"id": 157658, "url": "https://www.tyg51dn.com/gg/index.html", "discovery": "2024-06-09 04:04:31", "added": "2024-06-09 04:04:31", "target": "Telegram", "reporter": "lruubotd", "AbuseType": "phishing", "UUID": "bf5cff9794cbc949ebdd83c1159f5f8f"}
+{"id": 157657, "url": "https://bafkreifwk3baebzdxlzg4gkgfjrrtftwlf5pybtsfnl4sa73duyquel7bq.ipfs.dweb.link/", "discovery": "2024-06-09 04:02:59", "added": "2024-06-09 04:02:59", "target": "Microsoft", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "deb3b54c76ec02934567605c2f5cafe8"}
+{"id": 157656, "url": "https://3a6b5c6.cc:8989/", "discovery": "2024-06-09 04:02:29", "added": "2024-06-09 04:02:29", "target": "Bet365", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "a029aab4385edd8d77c44f66a97d2e28"}
+{"id": 157655, "url": "https://tyg51dn.com/", "discovery": "2024-06-09 04:00:31", "added": "2024-06-09 04:00:31", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "12c071f79ce4738e08ca2d291870506f"}
 {"id": 157654, "url": "http://67.214.245.59:53226/Mozi.m", "discovery": "2024-06-09 03:32:45", "added": "2024-06-09 03:32:45", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "62c523d3354242cba076fe07f77a3077"}
 {"id": 157653, "url": "http://61.53.125.22:51548/i", "discovery": "2024-06-09 03:32:36", "added": "2024-06-09 03:32:36", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "bbbdb18f994b46d6a2066ec6fed9a491"}
 {"id": 157652, "url": "http://61.52.159.13:54329/i", "discovery": "2024-06-09 03:32:24", "added": "2024-06-09 03:32:24", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "059b5694ada848d68355b79840b98914"}
@@ -503,8 +508,3 @@
 {"id": 157162, "url": "http://yinwzaih.com", "discovery": "2024-06-08 15:11:33", "added": "2024-06-08 15:11:33", "target": "AEON CARD", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "e0ea6f1f21d47cd4a110d43e602eb17a"}
 {"id": 157161, "url": "http://ozd493.com", "discovery": "2024-06-08 15:11:13", "added": "2024-06-08 15:11:13", "target": "AEON CARD", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "56b7bd3c2f0c5c586358c441b47b8e1b"}
 {"id": 157160, "url": "https://elegiza.com/ldo", "discovery": "2024-06-08 12:48:16", "added": "2024-06-08 15:10:29", "target": "Crypto", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "3b3a0c4ec9d21e6d17949bbc06858c40"}
-{"id": 157159, "url": "https://mckeegarden.org/update/", "discovery": "2024-06-08 12:46:26", "added": "2024-06-08 15:09:34", "target": "Spotify", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "d1d4b0be654cfab791f0379110daefbe"}
-{"id": 157158, "url": "http://gap631.com", "discovery": "2024-06-08 15:09:05", "added": "2024-06-08 15:09:05", "target": "AEON CARD", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "aa1d959bf1ef2dd00a9eff100697891f"}
-{"id": 157157, "url": "https://mckeegarden.org/update/Billing.php", "discovery": "2024-06-08 15:08:55", "added": "2024-06-08 15:08:55", "target": "Spotify", "reporter": "urlabuse", "AbuseType": "phishing", "UUID": "ca8471c22ff4d982fd493de3a234858c"}
-{"id": 157156, "url": "https://mckeegarden.org/update/Home.php", "discovery": "2024-06-08 15:08:45", "added": "2024-06-08 15:08:45", "target": "Spotify", "reporter": "urlabuse", "AbuseType": "phishing", "UUID": "c83a526c07b07e79a41d76e9a1ace0fd"}
-{"id": 157155, "url": "https://nmn.abf.mybluehost.me/wp-admin/updating.php", "discovery": "2024-06-08 12:46:17", "added": "2024-06-08 15:08:33", "target": "Spotify", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "a96c10d6cfa610b2aa1a3deda9f1ed86"}
