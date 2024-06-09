@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-09 00:00:02 UTC
+# UPDATE: 2024-06-09 01:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+157533, 2024-06-09 00:58:11, 2024-06-09 00:58:11, phishing, 7f289b58fbad5e420aaa2a2c24866b65, http://khd.649.mytemp.website
+157532, 2024-06-09 00:14:14, 2024-06-09 00:14:14, phishing, 2859e058a0c2ff23b821bb0f2c07025a, http://palmbeachpar3invitational.com
+157531, 2024-06-09 00:12:15, 2024-06-09 00:12:15, phishing, d2bcc1b6734bf77a3df0d3719133af46, http://iainknights.com
+157530, 2024-06-09 00:08:13, 2024-06-09 00:08:13, phishing, 3573709f4e2443334c0534703e1f0380, http://premlo-uz.ru
 157529, 2024-06-08 23:46:10, 2024-06-08 23:46:10, phishing, 4d2e6b28df42a383a460920e108e663c, http://hello-world-orange-moon-7bd8.joszithomson.workers.dev
 157528, 2024-06-08 23:24:55, 2024-06-08 23:24:55, malware, 04b3c709726a4497bc131127af815af0, http://95.132.71.42:36697/i
 157527, 2024-06-08 23:24:53, 2024-06-08 23:24:53, malware, f0159de5e2814446987a6caddaa2cdce, http://79.47.200.176:36361/.i
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 157036, 2024-06-08 11:21:01, 2024-06-08 11:21:01, malware, 751c4a3d3d404015b822548ad105fbef, http://115.62.159.214:34410/bin.sh
 157035, 2024-06-08 11:20:59, 2024-06-08 11:20:59, malware, dc3703213a8849f5a664a86968eceabd, http://115.62.147.254:50639/bin.sh
 157034, 2024-06-08 11:20:29, 2024-06-08 11:20:29, malware, 2b103f6f89b94a5f97de04f8c8287136, http://115.50.24.180:51778/Mozi.m
-157033, 2024-06-08 11:20:27, 2024-06-08 11:20:27, malware, 58bc9c51855a43409823d70cd7c0cfb7, http://113.94.31.221:36919/i
-157032, 2024-06-08 11:18:03, 2024-06-08 11:18:03, phishing, 5572fbaca590b67038fc1cd93bd1ac03, https://bsb-108248.weeblysite.com/
-157031, 2024-06-08 11:17:48, 2024-06-08 11:14:13, phishing, ef7a3bc013eb9f72342d504e8ea4a70d, https://qqf23.limesurvey.net/585555?newtest=Y
-157030, 2024-06-08 10:30:13, 2024-06-08 10:30:13, phishing, 0399564978c78b1d7dafee8819bf98cd, http://ksjdowe2.pages.dev

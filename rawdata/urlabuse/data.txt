@@ -6,8 +6,12 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-09 00:00:02 UTC
+# UPDATE: 2024-06-09 01:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 157533, "url": "http://khd.649.mytemp.website", "discovery": "2024-06-09 00:58:11", "added": "2024-06-09 00:58:11", "target": "TR-GOV", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "7f289b58fbad5e420aaa2a2c24866b65"}
+{"id": 157532, "url": "http://palmbeachpar3invitational.com", "discovery": "2024-06-09 00:14:14", "added": "2024-06-09 00:14:14", "target": "Facebook", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "2859e058a0c2ff23b821bb0f2c07025a"}
+{"id": 157531, "url": "http://iainknights.com", "discovery": "2024-06-09 00:12:15", "added": "2024-06-09 00:12:15", "target": "Facebook", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "d2bcc1b6734bf77a3df0d3719133af46"}
+{"id": 157530, "url": "http://premlo-uz.ru", "discovery": "2024-06-09 00:08:13", "added": "2024-06-09 00:08:13", "target": "Telegram", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "3573709f4e2443334c0534703e1f0380"}
 {"id": 157529, "url": "http://hello-world-orange-moon-7bd8.joszithomson.workers.dev", "discovery": "2024-06-08 23:46:10", "added": "2024-06-08 23:46:10", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "4d2e6b28df42a383a460920e108e663c"}
 {"id": 157528, "url": "http://95.132.71.42:36697/i", "discovery": "2024-06-08 23:24:55", "added": "2024-06-08 23:24:55", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "04b3c709726a4497bc131127af815af0"}
 {"id": 157527, "url": "http://79.47.200.176:36361/.i", "discovery": "2024-06-08 23:24:53", "added": "2024-06-08 23:24:53", "target": "#ELF32ARM_EABI5", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "f0159de5e2814446987a6caddaa2cdce"}
@@ -504,7 +508,3 @@
 {"id": 157036, "url": "http://115.62.159.214:34410/bin.sh", "discovery": "2024-06-08 11:21:01", "added": "2024-06-08 11:21:01", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "751c4a3d3d404015b822548ad105fbef"}
 {"id": 157035, "url": "http://115.62.147.254:50639/bin.sh", "discovery": "2024-06-08 11:20:59", "added": "2024-06-08 11:20:59", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "dc3703213a8849f5a664a86968eceabd"}
 {"id": 157034, "url": "http://115.50.24.180:51778/Mozi.m", "discovery": "2024-06-08 11:20:29", "added": "2024-06-08 11:20:29", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "2b103f6f89b94a5f97de04f8c8287136"}
-{"id": 157033, "url": "http://113.94.31.221:36919/i", "discovery": "2024-06-08 11:20:27", "added": "2024-06-08 11:20:27", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "58bc9c51855a43409823d70cd7c0cfb7"}
-{"id": 157032, "url": "https://bsb-108248.weeblysite.com/", "discovery": "2024-06-08 11:18:03", "added": "2024-06-08 11:18:03", "target": "BT", "reporter": "urlabuse", "AbuseType": "phishing", "UUID": "5572fbaca590b67038fc1cd93bd1ac03"}
-{"id": 157031, "url": "https://qqf23.limesurvey.net/585555?newtest=Y", "discovery": "2024-06-08 11:14:13", "added": "2024-06-08 11:17:48", "target": "BT", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "ef7a3bc013eb9f72342d504e8ea4a70d"}
-{"id": 157030, "url": "http://ksjdowe2.pages.dev", "discovery": "2024-06-08 10:30:13", "added": "2024-06-08 10:30:13", "target": "Amazon", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "0399564978c78b1d7dafee8819bf98cd"}
