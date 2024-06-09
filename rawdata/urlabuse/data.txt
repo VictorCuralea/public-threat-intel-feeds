@@ -6,8 +6,10 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-09 20:00:02 UTC
+# UPDATE: 2024-06-09 21:00:02 UTC
 ############### END COMMENTS ###############
+{"id": 158310, "url": "http://vafaf3.pages.dev", "discovery": "2024-06-09 20:56:12", "added": "2024-06-09 20:56:12", "target": "Amazon", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "71d82af714424e758de2353defc137ec"}
+{"id": 158309, "url": "http://authenticatorclick.pages.dev", "discovery": "2024-06-09 20:14:16", "added": "2024-06-09 20:14:16", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "2ce9cbb92212b4f8caea9010330d365c"}
 {"id": 158308, "url": "http://61.0.210.39:39925/i", "discovery": "2024-06-09 19:24:13", "added": "2024-06-09 19:24:13", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "f35ae88fd0e2449989bfd7cb7122d5bb"}
 {"id": 158307, "url": "http://59.99.213.103:54587/Mozi.m", "discovery": "2024-06-09 19:24:12", "added": "2024-06-09 19:24:12", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "4f127014d17b49058cbcf1cf1ffc7dc3"}
 {"id": 158306, "url": "http://59.92.204.3:60095/i", "discovery": "2024-06-09 19:23:50", "added": "2024-06-09 19:23:50", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "74543888a3214ad1bc719237a397db05"}
@@ -506,5 +508,3 @@
 {"id": 157813, "url": "http://198.23.201.89/warm/Delivery%2007.exe", "discovery": "2024-06-09 09:06:48", "added": "2024-06-09 09:06:48", "target": "#PE32INTEL_GUI", "reporter": "lrudbot", "AbuseType": "malware", "UUID": "9cab036bd1ca42e8a532d24c979cbfb6"}
 {"id": 157812, "url": "http://198.23.201.89/warm/Delivery%2006.lzh", "discovery": "2024-06-09 09:06:44", "added": "2024-06-09 09:06:44", "target": "#RAR", "reporter": "lrudbot", "AbuseType": "malware", "UUID": "726a9d78bcdd42c4be90b155a10d0ea5"}
 {"id": 157811, "url": "http://198.23.201.89/warm/Delivery%2006.exe", "discovery": "2024-06-09 09:06:40", "added": "2024-06-09 09:06:40", "target": "#PE32INTEL_GUI", "reporter": "lrudbot", "AbuseType": "malware", "UUID": "f98b2ca34c1b4002a456ba516a5cf6b3"}
-{"id": 157810, "url": "http://198.23.201.89/warm/DELIVERED%200606.lzh", "discovery": "2024-06-09 09:06:35", "added": "2024-06-09 09:06:35", "target": "#RAR", "reporter": "lrudbot", "AbuseType": "malware", "UUID": "d68f306f35414eea836f140eec92e540"}
-{"id": 157809, "url": "http://198.23.201.89/warm/DELIVERED%200606.exe", "discovery": "2024-06-09 09:06:32", "added": "2024-06-09 09:06:32", "target": "#PE32INTEL_GUI", "reporter": "lrudbot", "AbuseType": "malware", "UUID": "27ecc99c0e4d441f9b6c357bb04382f9"}
