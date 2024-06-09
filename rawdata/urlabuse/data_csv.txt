@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-09 22:00:01 UTC
+# UPDATE: 2024-06-09 23:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+158357, 2024-06-09 22:02:33, 2024-06-09 22:02:33, phishing, 4f4eea4c31f5bc9d7a3a1f26e2493f32, http://renouvellement-urgent.com
+158356, 2024-06-09 22:02:24, 2024-06-09 22:02:24, hacked, 00daec5d0667f352796165fe830f5469, https://danspirk.com/
+158355, 2024-06-09 22:02:24, 2024-06-09 22:02:24, hacked, 3798a585fcf845525b1afebbf5ee239c, https://www.vamosquenosvamos.com.ar/
 158354, 2024-06-09 21:24:58, 2024-06-09 21:24:58, malware, 3f3f7d9f0eb04437a69de9e83e6b6216, http://61.52.156.88:46005/i
 158353, 2024-06-09 21:24:57, 2024-06-09 21:24:57, malware, f27259b05ecc4f8a89cc3c7c296e51d1, http://61.3.90.151:39196/Mozi.m
 158352, 2024-06-09 21:24:40, 2024-06-09 21:24:40, malware, 2d11ae60567c40daa58d2649d966739f, http://59.99.213.103:54587/i
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 157860, 2024-06-09 09:08:29, 2024-06-09 09:08:29, malware, 945ac88fd68745f881461953895ff256, http://42.58.74.203:57270/i
 157859, 2024-06-09 09:08:27, 2024-06-09 09:08:27, malware, f2804aaa182841b3b433c9deeae594f2, http://42.58.74.203:57270/bin.sh
 157858, 2024-06-09 09:08:26, 2024-06-09 09:08:26, malware, e0f7c185051b4be9aca5c6f11ff3b2e5, http://42.57.71.65:53876/i
-157857, 2024-06-09 09:08:24, 2024-06-09 09:08:24, malware, b119f662b57d44c19ae7143339596c25, http://42.57.71.65:53876/bin.sh
-157856, 2024-06-09 09:08:22, 2024-06-09 09:08:22, malware, f6776dd53d334363bc6a055c362985d4, http://42.54.162.23:33149/i
-157855, 2024-06-09 09:08:20, 2024-06-09 09:08:20, malware, 20734cfdc3434c239f877c5c2cc3a558, http://42.5.26.131:58637/i
