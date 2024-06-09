@@ -1,11 +1,17 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-06-08 18:49:25 UTC                        #
+# Last updated: 2024-06-09 07:49:53 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	lebohdc.com
+127.0.0.1	pinaylizzie.com
+127.0.0.1	somlwebtactics.com
+127.0.0.1	cloudsafeuae.com
+127.0.0.1	coffeecrumbs.com
+127.0.0.1	experience-apart.gl.at.ply.gg
 127.0.0.1	sanhaozhifu.top
 127.0.0.1	bad-week-gw.aws-usw2.cloud-ara.tyk.io
 127.0.0.1	candycappa.store
@@ -12427,5 +12433,4 @@
 127.0.0.1	blissful-kapitsa.139-28-36-237.plesk.page
 127.0.0.1	lestencrypt.dnset.com
 127.0.0.1	greatkingtravel8200.duckdns.org
-127.0.0.1	lucifer14341.000webhostapp.com
-# Number of entries: 12422
+# Number of entries: 12427
