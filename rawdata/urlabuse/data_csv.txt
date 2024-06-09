@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-09 12:00:01 UTC
+# UPDATE: 2024-06-09 13:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+158000, 2024-06-09 12:52:12, 2024-06-09 12:52:12, phishing, 690a04e2d6ca47bc93edaddfa7f7a50d, http://live-prons-sex.pages.dev
+157999, 2024-06-09 12:06:10, 2024-06-09 12:06:10, phishing, f00cf7d0ed225c3fc6ffeaff6a27602c, http://syncdapps-io.pages.dev
+157998, 2024-06-09 12:00:13, 2024-06-09 12:00:13, phishing, ada6f1c955536eeafebf0ed25e9d9b02, http://1oling.shop
 157997, 2024-06-09 11:48:13, 2024-06-09 11:48:13, phishing, 0fcfe752dac7caa2b0245b89daf5f17e, http://premiusl-uz.store
 157996, 2024-06-09 11:33:46, 2024-06-09 11:33:46, phishing, 69e29e664efce16e61b5db45fe200fab, https://myonlinepackage.com/nw/DHH/dhl/info.php
 157995, 2024-06-09 11:32:48, 2024-06-09 11:32:48, phishing, 0662b32659cbaf50b9e9c931516e8056, https://seey40.wixsite.com/my-site-1
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 157503, 2024-06-08 23:23:05, 2024-06-08 23:23:05, malware, f1864dc17e8c4028a43dec3bc5b0c8fa, http://196.189.35.8:35244/i
 157502, 2024-06-08 23:23:04, 2024-06-08 23:23:04, malware, 47d53ac5ace74f83b786b0debd497bca, http://182.120.165.218:33722/bin.sh
 157501, 2024-06-08 23:23:02, 2024-06-08 23:23:02, malware, 716009435a4e4da8a5bf09ace06c5c11, http://182.119.229.215:48273/Mozi.m
-157500, 2024-06-08 23:23:00, 2024-06-08 23:23:00, malware, 20a21e4c19c447049eeeeaa77fb64230, http://182.119.104.187:40381/
-157499, 2024-06-08 23:22:59, 2024-06-08 23:22:59, malware, 52878008e1f24c78a40f58b7f556c630, http://182.113.37.233:47836/
-157498, 2024-06-08 23:22:45, 2024-06-08 23:22:45, malware, 38c7d9b716b34a2b8d717392bff4606e, http://175.11.89.214:49050/i
