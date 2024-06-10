@@ -6,8 +6,14 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-10 06:00:01 UTC
+# UPDATE: 2024-06-10 07:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 158594, "url": "http://small-leaf-1255.aranzman.workers.dev", "discovery": "2024-06-10 06:52:13", "added": "2024-06-10 06:52:13", "target": "Telegram", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "0f2e64d0e1242d612ffffc1a2df0ea38"}
+{"id": 158593, "url": "http://allchainfix.pages.dev", "discovery": "2024-06-10 06:50:13", "added": "2024-06-10 06:50:13", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "6d1bd735402652a3b3bcc67de5fa37ce"}
+{"id": 158592, "url": "http://wh4tsapp9roupinvit3xxx69.pages.dev", "discovery": "2024-06-10 06:38:12", "added": "2024-06-10 06:38:12", "target": "Whatsapp", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "6de80d503c30ee154bd15112e9193f87"}
+{"id": 158591, "url": "http://k.zhenglonglinye.com", "discovery": "2024-06-10 06:36:18", "added": "2024-06-10 06:36:18", "target": "Telegram", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "d8f7502246ab3f675e79824644423f64"}
+{"id": 158590, "url": "https://kalyannagar.quintessencedental.com/index.php", "discovery": "2024-06-10 06:02:21", "added": "2024-06-10 06:02:21", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "636e61679b2c25bcf688651b434896f2"}
+{"id": 158589, "url": "https://idravlikos24.gr/who.htm", "discovery": "2024-06-10 06:02:12", "added": "2024-06-10 06:02:12", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "73f0f0b949a9b02cfb2f9517b5d5011f"}
 {"id": 158588, "url": "http://61.0.223.131:53082/i", "discovery": "2024-06-10 05:25:50", "added": "2024-06-10 05:25:50", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "8bf0742fbaf84060b7558f3053dc8b81"}
 {"id": 158587, "url": "http://59.95.95.41:34696/Mozi.m", "discovery": "2024-06-10 05:25:40", "added": "2024-06-10 05:25:40", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "ee42eebd8f694a0dbd4c8bb8cfb99e14"}
 {"id": 158586, "url": "http://59.94.177.70:50796/bin.sh", "discovery": "2024-06-10 05:25:38", "added": "2024-06-10 05:25:38", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "b228595d721c44fdbab7bd6fea6c9676"}
@@ -502,9 +508,3 @@
 {"id": 158097, "url": "https://na.mrwhoshop.com/index.html", "discovery": "2024-06-09 14:03:03", "added": "2024-06-09 14:03:03", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "13a31d167d3e7fe7f97bf562a22f595c"}
 {"id": 158096, "url": "https://nei.mrwhoshop.com/index.html", "discovery": "2024-06-09 14:03:01", "added": "2024-06-09 14:03:01", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "67f1aa412826ced38fa465bf5f55f851"}
 {"id": 158095, "url": "https://lan.mrwhoshop.com/index.html", "discovery": "2024-06-09 14:02:59", "added": "2024-06-09 14:02:59", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "2373bb73a396ecb0b39074ccaaaec08d"}
-{"id": 158094, "url": "https://zhun.mrwhoshop.com/index.html", "discovery": "2024-06-09 14:02:55", "added": "2024-06-09 14:02:55", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "0aae96da5843103c97730253561962b3"}
-{"id": 158093, "url": "https://an.mrwhoshop.com/index.html", "discovery": "2024-06-09 14:02:53", "added": "2024-06-09 14:02:53", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "aa190c93a46f41e275e686cbc5056642"}
-{"id": 158092, "url": "https://jiu.mrwhoshop.com/index.html", "discovery": "2024-06-09 14:02:53", "added": "2024-06-09 14:02:53", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "92b8f896a12440ae08cf7625a9110f69"}
-{"id": 158091, "url": "https://que.mrwhoshop.com/index.html", "discovery": "2024-06-09 14:02:49", "added": "2024-06-09 14:02:49", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "beb1bb4e6724052642cfc8fb21d008fe"}
-{"id": 158090, "url": "https://pao.mrwhoshop.com/index.html", "discovery": "2024-06-09 14:02:45", "added": "2024-06-09 14:02:45", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "69fc1f65238dbff45da7f44e83b31395"}
-{"id": 158089, "url": "http://www.deluxereads.com/index.html", "discovery": "2024-06-09 14:02:43", "added": "2024-06-09 14:02:43", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "a9dd81e5a794fef5533e244b79deaa04"}
