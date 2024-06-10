@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-06-09 15:33:34 UTC                        #
+# Last updated: 2024-06-10 05:51:13 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	elvesofiax.com
 127.0.0.1	download.netuse1.eu.org
 127.0.0.1	rsmbscm.wikilogistics.wiki
 127.0.0.1	activecode.work
@@ -12435,4 +12436,4 @@
 127.0.0.1	sluter.top
 127.0.0.1	pa688.top
 127.0.0.1	albumphotography.top
-# Number of entries: 12429
+# Number of entries: 12430
