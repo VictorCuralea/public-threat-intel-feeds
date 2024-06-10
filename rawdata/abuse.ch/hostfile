@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-06-10 08:01:24 UTC                        #
+# Last updated: 2024-06-10 09:27:01 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	gpsuser.net
+127.0.0.1	yk.test2024.sbs
+127.0.0.1	support.whatsappsignup.com
+127.0.0.1	s1.botdash.app
 127.0.0.1	alphabetllc.top
 127.0.0.1	ctze.xyz
 127.0.0.1	a-bc.xyz
@@ -12425,9 +12429,4 @@
 127.0.0.1	cdn.mlcrosoft.fyi
 127.0.0.1	cdn.ctfmall.com
 127.0.0.1	gartenlofti.com
-127.0.0.1	dashboard.help.drb_da.info
-127.0.0.1	login.help.drb_da.info
-127.0.0.1	swf.help.drb_da.info
-127.0.0.1	ns_update2.wps.bj.cn
-127.0.0.1	ns_update1.wps.bj.cn
-# Number of entries: 12424
+# Number of entries: 12423
