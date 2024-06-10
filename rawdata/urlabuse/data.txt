@@ -6,8 +6,10 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-10 02:00:02 UTC
+# UPDATE: 2024-06-10 03:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 158491, "url": "http://tokienim.buzz", "discovery": "2024-06-10 02:30:16", "added": "2024-06-10 02:30:16", "target": "imToken", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "78b957347f8fa9c0b86db5d24bfaf9e4"}
+{"id": 158490, "url": "http://mergesevers.pages.dev", "discovery": "2024-06-10 02:04:13", "added": "2024-06-10 02:04:13", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "6ccfa14c3c1f318b215ccea0edd1d2c1"}
 {"id": 158489, "url": "http://page-timefvt6as.pages.dev", "discovery": "2024-06-10 01:38:10", "added": "2024-06-10 01:38:10", "target": "Amazon", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "0c37ddb3c47e7ce1a17ec644e6737545"}
 {"id": 158488, "url": "http://page-timea2bts.pages.dev", "discovery": "2024-06-10 01:38:10", "added": "2024-06-10 01:38:10", "target": "Amazon", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "e7593aa516484f1fbd4660e99a9ac243"}
 {"id": 158487, "url": "http://61.52.156.88:46005/bin.sh", "discovery": "2024-06-10 01:24:29", "added": "2024-06-10 01:24:29", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "9f2f30d236644e2ba763341c858233bd"}
@@ -506,5 +508,3 @@
 {"id": 157994, "url": "https://quip.com/C5A1AfotRJ9t/Securely-sign-in-to-verify-your-email-account", "discovery": "2024-06-09 09:46:19", "added": "2024-06-09 11:32:37", "target": "BT", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "fa5f87f6e9f74d6bfe712e1005c32221"}
 {"id": 157993, "url": "https://bio.biolinktr.com/btcommsply95", "discovery": "2024-06-09 11:32:15", "added": "2024-06-09 11:32:15", "target": "CREDIT SUISSE", "reporter": "VERIFROMd", "AbuseType": "phishing", "UUID": "b696d4e3bcd1c5c6df5eddafabe5387c"}
 {"id": 157992, "url": "https://bt-pr0maiilscure.weeblysite.com/", "discovery": "2024-06-09 11:32:07", "added": "2024-06-09 11:32:07", "target": "BT", "reporter": "urlabuse", "AbuseType": "phishing", "UUID": "2cff9ca696e163c0215db8cd32d0a171"}
-{"id": 157991, "url": "https://btinterbroad.simdif.com/", "discovery": "2024-06-09 09:02:19", "added": "2024-06-09 11:31:52", "target": "BT", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "96c521b0d05ee94024d297d4bb9a2a89"}
-{"id": 157990, "url": "https://tinyurl.com/2rhj4tdc", "discovery": "2024-06-09 11:30:13", "added": "2024-06-09 11:30:13", "target": "CREDIT SUISSE", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "8d1fb26f9a55df6724df8e8491f2ce80"}

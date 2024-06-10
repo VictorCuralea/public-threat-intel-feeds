@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-10 02:00:02 UTC
+# UPDATE: 2024-06-10 03:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+158491, 2024-06-10 02:30:16, 2024-06-10 02:30:16, phishing, 78b957347f8fa9c0b86db5d24bfaf9e4, http://tokienim.buzz
+158490, 2024-06-10 02:04:13, 2024-06-10 02:04:13, phishing, 6ccfa14c3c1f318b215ccea0edd1d2c1, http://mergesevers.pages.dev
 158489, 2024-06-10 01:38:10, 2024-06-10 01:38:10, phishing, 0c37ddb3c47e7ce1a17ec644e6737545, http://page-timefvt6as.pages.dev
 158488, 2024-06-10 01:38:10, 2024-06-10 01:38:10, phishing, e7593aa516484f1fbd4660e99a9ac243, http://page-timea2bts.pages.dev
 158487, 2024-06-10 01:24:29, 2024-06-10 01:24:29, malware, 9f2f30d236644e2ba763341c858233bd, http://61.52.156.88:46005/bin.sh
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 157994, 2024-06-09 11:32:37, 2024-06-09 09:46:19, phishing, fa5f87f6e9f74d6bfe712e1005c32221, https://quip.com/C5A1AfotRJ9t/Securely-sign-in-to-verify-your-email-account
 157993, 2024-06-09 11:32:15, 2024-06-09 11:32:15, phishing, b696d4e3bcd1c5c6df5eddafabe5387c, https://bio.biolinktr.com/btcommsply95
 157992, 2024-06-09 11:32:07, 2024-06-09 11:32:07, phishing, 2cff9ca696e163c0215db8cd32d0a171, https://bt-pr0maiilscure.weeblysite.com/
-157991, 2024-06-09 11:31:52, 2024-06-09 09:02:19, phishing, 96c521b0d05ee94024d297d4bb9a2a89, https://btinterbroad.simdif.com/
-157990, 2024-06-09 11:30:13, 2024-06-09 11:30:13, phishing, 8d1fb26f9a55df6724df8e8491f2ce80, https://tinyurl.com/2rhj4tdc
