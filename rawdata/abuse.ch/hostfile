@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-06-10 10:39:05 UTC                        #
+# Last updated: 2024-06-10 13:53:04 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	xiao.spicn.xyz
+127.0.0.1	megacitta190004.duckdns.org
 127.0.0.1	vnaillslivns.shop
 127.0.0.1	api.vnaillslivns.shop
 127.0.0.1	ns3.collegel.top
@@ -12434,4 +12436,4 @@
 127.0.0.1	cdn.mlcrosoft.fyi
 127.0.0.1	cdn.ctfmall.com
 127.0.0.1	gartenlofti.com
-# Number of entries: 12428
+# Number of entries: 12430

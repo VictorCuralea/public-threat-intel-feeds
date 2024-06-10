@@ -1,10 +1,11 @@
 ################################################################
 # ThreatFox IOCs: recent SHA256 hashes - CSV format            #
-# Last updated: 2024-06-07 11:05:01 UTC                        #
+# Last updated: 2024-06-10 13:34:51 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
 # "first_seen_utc","ioc_id","ioc_value","ioc_type","threat_type","fk_malware","malware_alias","malware_printable","last_seen_utc","confidence_level","reference","tags","anonymous","reporter"
-# Number of entries: 0
+"2024-06-10 13:34:51", "1283685", "c4a9ef7db9783334e07106fb671d5e27e52285b18182a8c77103b699c8edf8a0", "sha256_hash", "payload", "win.dbatloader", "ModiLoader,NatsoLoader", "DBatLoader", "", "100", "https://www.virustotal.com/gui/file/c4a9ef7db9783334e07106fb671d5e27e52285b18182a8c77103b699c8edf8a0/community", "None", "0", "kamil_kicka"
+# Number of entries: 1
