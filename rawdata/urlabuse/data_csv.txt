@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-10 20:00:01 UTC
+# UPDATE: 2024-06-10 21:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+159249, 2024-06-10 20:56:14, 2024-06-10 20:56:14, phishing, b10768c5060f7f42dac54ec38c2328b5, http://boardtechverse.pages.dev
 159248, 2024-06-10 19:52:13, 2024-06-10 19:52:13, phishing, 5ed0207b41968e16156472cb4809fb15, http://edvhzlymts.com
 159247, 2024-06-10 19:28:10, 2024-06-10 19:28:10, phishing, 4d5819500fdb212af7e0e18a64b89c05, http://win-page-error-fix-1.pages.dev
 159246, 2024-06-10 19:24:29, 2024-06-10 19:24:29, malware, dd4658a04a894604b08e58fa4afefca0, http://95.135.156.155:49112/bin.sh
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 158752, 2024-06-10 09:05:14, 2024-06-10 09:05:14, malware, c333f69589bc4a4899324f56ee78801b, http://185.172.128.159//timeSync.exe
 158751, 2024-06-10 09:05:13, 2024-06-10 09:05:13, malware, edc851c48fab47679981639d631b031e, http://182.127.123.238:50199/i
 158750, 2024-06-10 09:05:12, 2024-06-10 09:05:12, malware, 06add93bb29348aeac8ce4364c954906, http://182.127.123.238:50199/bin.sh
-158749, 2024-06-10 09:05:10, 2024-06-10 09:05:10, malware, 54e467667d6249a082e9e3f118db87c4, http://182.119.3.84:52424/Mozi.m
