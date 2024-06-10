@@ -6,9 +6,18 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-10 16:00:01 UTC
+# UPDATE: 2024-06-10 17:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+159126, 2024-06-10 16:38:21, 2024-06-10 16:38:21, phishing, 7c4ea6907a6a7c2008f1a84d50720c3d, http://migrate-cakepie.pages.dev
+159125, 2024-06-10 16:25:49, 2024-06-10 16:25:49, phishing, ae288b5d1cd3698c644c032f9521f9fd, https://internacionaldecarga.com/me/data/6598195990/payment/35c409bW/Mellat.php
+159124, 2024-06-10 16:24:16, 2024-06-10 16:24:16, phishing, 3893423e05aecddcdf4d5f270fa83f9c, https://internacionaldecarga.com/me/data/6598195990/payment/35c409bW/eblagh/login.php
+159123, 2024-06-10 16:18:15, 2024-06-10 16:18:15, phishing, 051a1e3079aae89b7b4d019dc03230c3, http://hasanannengelsin.xyz
+159122, 2024-06-10 16:18:02, 2024-06-10 16:18:02, malware, edde20b3d39345be80da9cd62549f6f8, https://samanehh.cfd/Index/LP/P/A/C/H/K/H/O/B/E/H/Roup/app.apk
+159121, 2024-06-10 16:17:32, 2024-06-10 16:17:32, phishing, c6bbc88868c7477f08e544911b4e2ac0, https://samanehh.cfd/Index/LP/P/A/C/H/K/H/O/B/E/H/Roup/page.php
+159120, 2024-06-10 16:02:55, 2024-06-10 16:02:55, phishing, 4b77d655d30e15825c22cb641b044c08, https://dyahwoahjuk.store/
+159119, 2024-06-10 16:02:29, 2024-06-10 16:02:29, phishing, 01338c44c2cd42a53b60b434c29d8e21, https://cache.netflix.com.sg1.porpuse.cfd/
+159118, 2024-06-10 16:02:12, 2024-06-10 16:02:12, phishing, 7150b049a965a9aec7ece0d0cd8f175a, https://cache.netflix.com.id1.porpuse.cfd/
 159117, 2024-06-10 15:44:58, 2024-06-10 15:44:58, phishing, b35566d0e17c66ed204df52b404e27f8, http://telegroscm.com
 159116, 2024-06-10 15:44:53, 2024-06-10 15:44:53, phishing, 780270468f7eb85f5551d7035bcedd72, http://telegrosm.com
 159115, 2024-06-10 15:44:50, 2024-06-10 15:44:50, phishing, a0e48719fc80319b4050e068ba86700f, http://telegromk.com
@@ -500,12 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 158629, 2024-06-10 07:26:19, 2024-06-10 07:26:19, malware, f216de9fec2045008fcfa7532411001b, http://182.119.218.42:46818/i
 158628, 2024-06-10 07:26:09, 2024-06-10 07:26:09, malware, db6aab9b1ece47b7af14f513c7577fe9, http://182.114.33.134:47802/i
 158627, 2024-06-10 07:26:08, 2024-06-10 07:26:08, malware, b4f3ab0eacc443b1872ae8d7b572be5f, http://182.114.33.134:47802/bin.sh
-158626, 2024-06-10 07:26:06, 2024-06-10 07:26:06, malware, ae9cc25301d6412b910010690fd1887d, http://182.113.43.195:35425/Mozi.m
-158625, 2024-06-10 07:26:05, 2024-06-10 07:26:05, malware, 2f5d918eff694aaa9819aa00acb93df7, http://182.112.31.75:38172/i
-158624, 2024-06-10 07:26:03, 2024-06-10 07:26:03, malware, 9930d959295442dab86b6b5d7ae594bd, http://125.43.91.104:51828/bin.sh
-158623, 2024-06-10 07:26:02, 2024-06-10 07:26:02, malware, 40e8b9fa3c974d309926749a0a3f363d, http://123.172.49.134:39751/Mozi.a
-158622, 2024-06-10 07:24:28, 2024-06-10 07:24:28, malware, 4374260a9ef4437c9deed0517235718f, http://117.248.136.128:44512/Mozi.m
-158621, 2024-06-10 07:23:28, 2024-06-10 07:23:28, malware, 2ed5b0014d72441bb889f10cfc3ab292, http://117.217.44.197:58713/bin.sh
-158620, 2024-06-10 07:23:25, 2024-06-10 07:23:25, malware, 3418d8fcffc34963b373a8133031df1e, http://117.213.28.41:60762/Mozi.m
-158619, 2024-06-10 07:23:23, 2024-06-10 07:23:23, malware, 2f01026e09834d12ac0d050490de07cd, http://117.211.225.200:35745/bin.sh
-158618, 2024-06-10 07:22:22, 2024-06-10 07:22:22, malware, 52f4848cef3a4fa89f2ae583d9acb126, http://117.204.206.84:43596/i
