@@ -6,9 +6,18 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-10 10:00:02 UTC
+# UPDATE: 2024-06-10 11:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+158885, 2024-06-10 10:54:17, 2024-06-10 10:54:17, phishing, adb8f2f5f29f16c3f592ed21cdc05ebc, https://bt-101398-107260.weeblysite.com/
+158884, 2024-06-10 10:04:04, 2024-06-10 10:04:04, phishing, 08c914789fb475210b3d6a3476fb572b, http://notifyhubss.net/4ac2390ffu256c4a45l8470f70bl84774faa.html__;!!oepyz6q!_9q2fk5vqoukidzqdrne_hxvlx89tdzld9e7i6w3ixq8wvvbjsd1kbuxdewhj90scpldk0speyvc1jdbgexgyzhgbd4/
+158883, 2024-06-10 10:03:10, 2024-06-10 10:03:10, phishing, 309bfca1be07e6e27f09c4c95a44c677, https://irehsa.shop/
+158882, 2024-06-10 10:03:02, 2024-06-10 10:03:02, phishing, d23d40a976e80d50e23b288c9afc9fa4, https://betgprem.store/
+158881, 2024-06-10 10:02:57, 2024-06-10 10:02:57, phishing, e0542ffc959726558c4d1ff398f16d8e, https://alforfal.com/
+158880, 2024-06-10 10:02:53, 2024-06-10 10:02:53, phishing, 101ef3987a9fb97191e527309ee5994b, https://ftgrpem.store/
+158879, 2024-06-10 10:02:49, 2024-06-10 10:02:49, phishing, 9c0c08655b2b8fdfa26e3b8d0a326e76, https://whitbuckle.com/
+158878, 2024-06-10 10:02:47, 2024-06-10 10:02:47, phishing, a65a229bdb1784b6f0b67b6453a85c92, https://woldbender.com/
+158877, 2024-06-10 10:02:25, 2024-06-10 10:02:25, phishing, 1604ffb1db62c03bea82090a3168154a, https://tg-cve.pages.dev/
 158876, 2024-06-10 09:30:14, 2024-06-10 09:30:14, phishing, efded62781250a79f6fa77592e836bc6, http://bc-bzv.pages.dev
 158875, 2024-06-10 09:26:24, 2024-06-10 09:26:24, malware, dc67229aa55d4967b84f9f39606a6718, http://95.13.124.141:48943/bin.sh
 158874, 2024-06-10 09:26:22, 2024-06-10 09:26:22, malware, dfeeafbd92c54462b8b0528f424e895a, http://93.94.156.194:51439/Mozi.m
@@ -500,12 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 158388, 2024-06-09 23:23:49, 2024-06-09 23:23:49, malware, 0946dabaf83540a685c034aefbb9747f, http://117.88.228.221:45098/bin.sh
 158387, 2024-06-09 23:23:26, 2024-06-09 23:23:26, malware, 0581e53711674e74a34bb96f3323ac75, http://117.255.83.253:33204/bin.sh
 158386, 2024-06-09 23:22:38, 2024-06-09 23:22:38, malware, a78c8b2474d84acaabbd8d5c2613ccaf, http://117.245.32.5:43913/Mozi.m
-158385, 2024-06-09 23:22:34, 2024-06-09 23:22:34, malware, 473dc3388ced4640a57bb86f7e75f299, http://117.235.58.167:34367/Mozi.m
-158384, 2024-06-09 23:22:32, 2024-06-09 23:22:32, malware, aaa9bb8df53d4de99c7d47743d91e307, http://117.219.40.169:58459/Mozi.m
-158383, 2024-06-09 23:22:13, 2024-06-09 23:22:13, phishing, 0e536ee4776b6288863b9dc44d2ac7aa, http://tccmaettr8450.com
-158382, 2024-06-09 23:22:01, 2024-06-09 23:22:01, malware, 88b54446e5804513af6345c46dd60eba, http://117.212.173.81:55135/
-158381, 2024-06-09 23:21:59, 2024-06-09 23:21:59, malware, 4511ebe6fbc045cb9d459cae68fafbd1, http://117.211.213.58:41676/Mozi.m
-158380, 2024-06-09 23:21:57, 2024-06-09 23:21:57, malware, 791d293ade464f94a52891e51d961bad, http://117.209.27.120:59966/Mozi.m
-158379, 2024-06-09 23:21:53, 2024-06-09 23:21:53, malware, efd1faf97ec34379854e13df0b13fe70, http://117.208.217.29:55852/i
-158378, 2024-06-09 23:21:48, 2024-06-09 23:21:48, malware, 7104efaec32b4161bbbd430df653ed75, http://117.206.69.37:40541/i
-158377, 2024-06-09 23:21:47, 2024-06-09 23:21:47, malware, f4df96f049d94a02b7fa9a141af3f7bc, http://117.205.62.123:34961/Mozi.m
