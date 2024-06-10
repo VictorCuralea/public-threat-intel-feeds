@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-10 00:00:02 UTC
+# UPDATE: 2024-06-10 01:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+158430, 2024-06-10 00:50:13, 2024-06-10 00:50:13, phishing, ee4433a394ccba7496f06eab7eb731c1, http://9anfsyhs.pages.dev
+158429, 2024-06-10 00:42:11, 2024-06-10 00:42:11, phishing, 1939f8fd6b023673d636b7e782d94cce, http://x61hadxi.pages.dev
 158428, 2024-06-09 23:58:13, 2024-06-09 23:58:13, phishing, 4ef71d283d28d951be8c28b22eda912c, http://espace-renouvellement-assure.com
 158427, 2024-06-09 23:25:52, 2024-06-09 23:25:52, malware, 4af75338f88e4f35b9bb24074adbbfbb, http://95.13.122.185:57543/
 158426, 2024-06-09 23:25:48, 2024-06-09 23:25:48, malware, 4ae03a58f283450c8c47c2d24b6f8b34, http://61.53.84.190:47682/bin.sh
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 157933, 2024-06-09 09:25:42, 2024-06-09 09:25:42, malware, 4e806b300fd34e5ebc7b27c9ed189e0e, http://59.97.117.191:41638/bin.sh
 157932, 2024-06-09 09:25:35, 2024-06-09 09:25:35, malware, 677c3cdcc4414945bd2dad1deb1a9e16, http://59.95.83.35:42271/
 157931, 2024-06-09 09:25:32, 2024-06-09 09:25:32, malware, 5ed91e6d2656469885451710e394c4b5, http://59.95.133.174:49633/i
-157930, 2024-06-09 09:25:00, 2024-06-09 09:25:00, malware, 5259bd0e4e1a43cf995ff9e92e4d51ee, http://59.184.56.226:55309/bin.sh
-157929, 2024-06-09 09:24:28, 2024-06-09 09:24:28, malware, 0dec02c70c634d24a94e62344449bb8b, http://42.235.76.36:52795/Mozi.m
