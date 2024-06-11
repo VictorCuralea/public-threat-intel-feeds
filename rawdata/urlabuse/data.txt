@@ -6,8 +6,18 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-11 18:00:02 UTC
+# UPDATE: 2024-06-11 19:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 160214, "url": "http://mail.derberderkert.com", "discovery": "2024-06-11 18:56:11", "added": "2024-06-11 18:56:11", "target": "TR-GOV", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "d735f372e4c7583f986bea50994ce55c"}
+{"id": 160213, "url": "http://trxo.cn", "discovery": "2024-06-11 18:42:19", "added": "2024-06-11 18:42:19", "target": "imToken", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "65585f4208f7582c0a5444236403c8a3"}
+{"id": 160212, "url": "http://fr-macarte-sante.info", "discovery": "2024-06-11 18:40:13", "added": "2024-06-11 18:40:13", "target": "FR-GOV", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "298f6806b352cd2c16aee4524b398a68"}
+{"id": 160211, "url": "http://hello-world-ancient-microsoftsync.dgajvhinabsjzbsn.workers.dev", "discovery": "2024-06-11 18:22:13", "added": "2024-06-11 18:22:13", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "8c0fdba905e7662db26aa3dc397f0d10"}
+{"id": 160210, "url": "http://chiefquiz.org", "discovery": "2024-06-11 18:18:11", "added": "2024-06-11 18:18:11", "target": "Telegram", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "841415065bb215c1ae9ffe4ccfcdee44"}
+{"id": 160209, "url": "http://sdvir.pages.dev", "discovery": "2024-06-11 18:14:10", "added": "2024-06-11 18:14:10", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "c9f0a4886d5335ff1ab32691f57f1151"}
+{"id": 160208, "url": "http://xxstorage.xxtuitui.workers.dev", "discovery": "2024-06-11 18:12:15", "added": "2024-06-11 18:12:15", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "3b6b5662c9b9f5aff6af3c372bc41e26"}
+{"id": 160207, "url": "http://mail-f556.warik96420.workers.dev", "discovery": "2024-06-11 18:06:13", "added": "2024-06-11 18:06:13", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "0eaa31bb9b693d8c7fbe96781f1d993a"}
+{"id": 160206, "url": "http://hunlin.ihun.workers.dev", "discovery": "2024-06-11 18:04:12", "added": "2024-06-11 18:04:12", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "ca52f9c890107056d9eecd0b7ddb890e"}
+{"id": 160205, "url": "http://workers-playground-lively-dawn-6223.hatcherbeth.workers.dev", "discovery": "2024-06-11 18:04:10", "added": "2024-06-11 18:04:10", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "041188a19eadab494e82c86d22c32056"}
 {"id": 160204, "url": "http://refactored-octo-frpoon.pages.dev", "discovery": "2024-06-11 17:52:15", "added": "2024-06-11 17:52:15", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "4d8ed309f8b21abfc7261adae17d1c62"}
 {"id": 160203, "url": "http://bf.fulitu.workers.dev", "discovery": "2024-06-11 17:40:17", "added": "2024-06-11 17:40:17", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "c91307fd1678563fca92d5a389356388"}
 {"id": 160202, "url": "http://hello-world-rapid-truth-4589.woodrowann.workers.dev", "discovery": "2024-06-11 17:36:13", "added": "2024-06-11 17:36:13", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "eb6d54f1bead37f2c28b0ac02aac12f6"}
@@ -498,13 +508,3 @@
 {"id": 159717, "url": "http://113.238.248.30:44818/bin.sh", "discovery": "2024-06-11 09:01:39", "added": "2024-06-11 09:01:39", "target": "#ELF32_MIPSv1", "reporter": "lrudbot", "AbuseType": "malware", "UUID": "f60b0f2e40f1452d833580d7851b77ae"}
 {"id": 159716, "url": "http://113.237.70.31:36135/i", "discovery": "2024-06-11 09:01:37", "added": "2024-06-11 09:01:37", "target": "#ELF32_MIPSv1", "reporter": "lrudbot", "AbuseType": "malware", "UUID": "3eb14c562b184dadb490bad27eecf049"}
 {"id": 159715, "url": "http://113.237.70.31:36135/bin.sh", "discovery": "2024-06-11 09:01:36", "added": "2024-06-11 09:01:36", "target": "#ELF32_MIPSv1", "reporter": "lrudbot", "AbuseType": "malware", "UUID": "573c9a5cb15d4c62ae29643ecd62aa1a"}
-{"id": 159714, "url": "http://113.231.211.205:58453/i", "discovery": "2024-06-11 09:01:34", "added": "2024-06-11 09:01:34", "target": "#ELF32_MIPSv1", "reporter": "lrudbot", "AbuseType": "malware", "UUID": "5df08bc0a5524ea59de69b090112b19e"}
-{"id": 159713, "url": "http://113.229.47.48:46034/i", "discovery": "2024-06-11 09:01:32", "added": "2024-06-11 09:01:32", "target": "#ELF32_MIPSv1", "reporter": "lrudbot", "AbuseType": "malware", "UUID": "2dea1774da094eedb3a45d385f9c7f63"}
-{"id": 159712, "url": "http://113.228.141.72:47575/bin.sh", "discovery": "2024-06-11 09:01:31", "added": "2024-06-11 09:01:31", "target": "#ELF32_MIPSv1", "reporter": "lrudbot", "AbuseType": "malware", "UUID": "9fca1798b24d49f3ad33f81164b9d6b6"}
-{"id": 159711, "url": "http://113.228.101.10:58737/bin.sh", "discovery": "2024-06-11 09:01:29", "added": "2024-06-11 09:01:29", "target": "#ELF32_MIPSv1", "reporter": "lrudbot", "AbuseType": "malware", "UUID": "bf8ffd432c7d482fbcf807d6b65b461c"}
-{"id": 159710, "url": "http://103.149.28.141/arm6", "discovery": "2024-06-11 09:01:28", "added": "2024-06-11 09:01:28", "target": "#ELF32ARM_EABI4", "reporter": "lrudbot", "AbuseType": "malware", "UUID": "cf013e5f6d9446e9b67d379dab5c1f4c"}
-{"id": 159709, "url": "http://102.216.34.194:56827/Mozi.m", "discovery": "2024-06-11 09:01:26", "added": "2024-06-11 09:01:26", "target": "#ELF32ARM_EABI4", "reporter": "lrudbot", "AbuseType": "malware", "UUID": "43cc9683b3574d26bb4f2f9d3f73ae54"}
-{"id": 159708, "url": "https://messagerie3.oramje.pro/", "discovery": "2024-06-11 08:30:19", "added": "2024-06-11 08:33:50", "target": "Orange", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "cf91696d3176c9c61248ff0fe9c7e8c6"}
-{"id": 159707, "url": "https://mslornage.hubside.fr/?user-agent=Mozilla/5.0 (Windows NT 10.0", "discovery": "2024-06-11 08:30:15", "added": "2024-06-11 08:33:42", "target": "Orange", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "b2b86629fa9380760e07a2a25c7d3de6"}
-{"id": 159706, "url": "https://messagerie.conultingbtp.com/", "discovery": "2024-06-11 08:30:14", "added": "2024-06-11 08:33:30", "target": "Orange", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "59aaf5daa897d02d23b894b264d366dd"}
-{"id": 159705, "url": "https://messagerie5.oramje.pro/", "discovery": "2024-06-11 08:30:14", "added": "2024-06-11 08:33:20", "target": "Orange", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "a74e74412f669cb2a4f2e46d23ea65a3"}

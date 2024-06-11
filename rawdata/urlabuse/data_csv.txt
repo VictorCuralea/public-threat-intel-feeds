@@ -6,9 +6,19 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-11 18:00:02 UTC
+# UPDATE: 2024-06-11 19:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+160214, 2024-06-11 18:56:11, 2024-06-11 18:56:11, phishing, d735f372e4c7583f986bea50994ce55c, http://mail.derberderkert.com
+160213, 2024-06-11 18:42:19, 2024-06-11 18:42:19, phishing, 65585f4208f7582c0a5444236403c8a3, http://trxo.cn
+160212, 2024-06-11 18:40:13, 2024-06-11 18:40:13, phishing, 298f6806b352cd2c16aee4524b398a68, http://fr-macarte-sante.info
+160211, 2024-06-11 18:22:13, 2024-06-11 18:22:13, phishing, 8c0fdba905e7662db26aa3dc397f0d10, http://hello-world-ancient-microsoftsync.dgajvhinabsjzbsn.workers.dev
+160210, 2024-06-11 18:18:11, 2024-06-11 18:18:11, phishing, 841415065bb215c1ae9ffe4ccfcdee44, http://chiefquiz.org
+160209, 2024-06-11 18:14:10, 2024-06-11 18:14:10, phishing, c9f0a4886d5335ff1ab32691f57f1151, http://sdvir.pages.dev
+160208, 2024-06-11 18:12:15, 2024-06-11 18:12:15, phishing, 3b6b5662c9b9f5aff6af3c372bc41e26, http://xxstorage.xxtuitui.workers.dev
+160207, 2024-06-11 18:06:13, 2024-06-11 18:06:13, phishing, 0eaa31bb9b693d8c7fbe96781f1d993a, http://mail-f556.warik96420.workers.dev
+160206, 2024-06-11 18:04:12, 2024-06-11 18:04:12, phishing, ca52f9c890107056d9eecd0b7ddb890e, http://hunlin.ihun.workers.dev
+160205, 2024-06-11 18:04:10, 2024-06-11 18:04:10, phishing, 041188a19eadab494e82c86d22c32056, http://workers-playground-lively-dawn-6223.hatcherbeth.workers.dev
 160204, 2024-06-11 17:52:15, 2024-06-11 17:52:15, phishing, 4d8ed309f8b21abfc7261adae17d1c62, http://refactored-octo-frpoon.pages.dev
 160203, 2024-06-11 17:40:17, 2024-06-11 17:40:17, phishing, c91307fd1678563fca92d5a389356388, http://bf.fulitu.workers.dev
 160202, 2024-06-11 17:36:13, 2024-06-11 17:36:13, phishing, eb6d54f1bead37f2c28b0ac02aac12f6, http://hello-world-rapid-truth-4589.woodrowann.workers.dev
@@ -499,13 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 159717, 2024-06-11 09:01:39, 2024-06-11 09:01:39, malware, f60b0f2e40f1452d833580d7851b77ae, http://113.238.248.30:44818/bin.sh
 159716, 2024-06-11 09:01:37, 2024-06-11 09:01:37, malware, 3eb14c562b184dadb490bad27eecf049, http://113.237.70.31:36135/i
 159715, 2024-06-11 09:01:36, 2024-06-11 09:01:36, malware, 573c9a5cb15d4c62ae29643ecd62aa1a, http://113.237.70.31:36135/bin.sh
-159714, 2024-06-11 09:01:34, 2024-06-11 09:01:34, malware, 5df08bc0a5524ea59de69b090112b19e, http://113.231.211.205:58453/i
-159713, 2024-06-11 09:01:32, 2024-06-11 09:01:32, malware, 2dea1774da094eedb3a45d385f9c7f63, http://113.229.47.48:46034/i
-159712, 2024-06-11 09:01:31, 2024-06-11 09:01:31, malware, 9fca1798b24d49f3ad33f81164b9d6b6, http://113.228.141.72:47575/bin.sh
-159711, 2024-06-11 09:01:29, 2024-06-11 09:01:29, malware, bf8ffd432c7d482fbcf807d6b65b461c, http://113.228.101.10:58737/bin.sh
-159710, 2024-06-11 09:01:28, 2024-06-11 09:01:28, malware, cf013e5f6d9446e9b67d379dab5c1f4c, http://103.149.28.141/arm6
-159709, 2024-06-11 09:01:26, 2024-06-11 09:01:26, malware, 43cc9683b3574d26bb4f2f9d3f73ae54, http://102.216.34.194:56827/Mozi.m
-159708, 2024-06-11 08:33:50, 2024-06-11 08:30:19, phishing, cf91696d3176c9c61248ff0fe9c7e8c6, https://messagerie3.oramje.pro/
-159707, 2024-06-11 08:33:42, 2024-06-11 08:30:15, phishing, b2b86629fa9380760e07a2a25c7d3de6, https://mslornage.hubside.fr/?user-agent=Mozilla/5.0 (Windows NT 10.0
-159706, 2024-06-11 08:33:30, 2024-06-11 08:30:14, phishing, 59aaf5daa897d02d23b894b264d366dd, https://messagerie.conultingbtp.com/
-159705, 2024-06-11 08:33:20, 2024-06-11 08:30:14, phishing, a74e74412f669cb2a4f2e46d23ea65a3, https://messagerie5.oramje.pro/
