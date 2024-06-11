@@ -6,9 +6,22 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-11 08:00:01 UTC
+# UPDATE: 2024-06-11 09:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+159708, 2024-06-11 08:33:50, 2024-06-11 08:30:19, phishing, cf91696d3176c9c61248ff0fe9c7e8c6, https://messagerie3.oramje.pro/
+159707, 2024-06-11 08:33:42, 2024-06-11 08:30:15, phishing, b2b86629fa9380760e07a2a25c7d3de6, https://mslornage.hubside.fr/?user-agent=Mozilla/5.0 (Windows NT 10.0
+159706, 2024-06-11 08:33:30, 2024-06-11 08:30:14, phishing, 59aaf5daa897d02d23b894b264d366dd, https://messagerie.conultingbtp.com/
+159705, 2024-06-11 08:33:20, 2024-06-11 08:30:14, phishing, a74e74412f669cb2a4f2e46d23ea65a3, https://messagerie5.oramje.pro/
+159704, 2024-06-11 08:33:10, 2024-06-11 08:28:18, phishing, 52835a7b3693a11650ccc9c263eb5f4c, https://lnk.sk/hla8
+159703, 2024-06-11 08:33:00, 2024-06-11 08:33:00, phishing, e19e4461b83d5581783ea57c53d25ce2, https://fcx1427242022-fichiers.weebly.com/
+159702, 2024-06-11 08:32:32, 2024-06-11 08:26:15, phishing, 7abf4618876fb9c2a666409f76ef82b5, https://qrco.de/bf8oId
+159701, 2024-06-11 08:32:22, 2024-06-11 08:26:13, phishing, a5fb2b42d35d93fbb6e1aa7bde5411a6, https://messagerie2.oramje.pro/
+159700, 2024-06-11 08:32:22, 2024-06-11 08:32:22, phishing, 849d2229c8091a3caffdfda73b068cd4, https://twint.sicherheit.world/de/receive/751552428
+159699, 2024-06-11 08:30:12, 2024-06-11 08:30:12, phishing, 2653ad9aaea85c602c0e3c727aa425c4, http://sdgr2.pages.dev
+159698, 2024-06-11 08:28:13, 2024-06-11 08:28:13, phishing, f5617945e26649f62f198827ea65ff8c, https://surveyproxies.com/drn@tob/resgis-ob-id_userbra/Authentication.php
+159697, 2024-06-11 08:26:14, 2024-06-11 08:26:14, phishing, af31e1863277c5011487b8ca8ca99821, https://id97654.weebly.com/
+159696, 2024-06-11 08:16:15, 2024-06-11 08:16:15, phishing, 4d6e51479f5b97e62ebad25bb7c2ab65, http://rttfyguhgg.pages.dev
 159695, 2024-06-11 07:38:13, 2024-06-11 07:38:13, phishing, 0415b4c467a9627e36b4a75d51704e7d, https://bt-108765-107440.weeblysite.com/
 159694, 2024-06-11 07:33:28, 2024-06-11 07:22:15, phishing, 6e156f45754f8bf6982fbe3b81c78cbe, https://app.convertkit.com/editor/templates/2901960
 159693, 2024-06-11 07:32:35, 2024-06-11 07:32:35, phishing, 3c4c7024ac976083dca63753c86909c7, https://btinternetcomms.wixsite.com/my-site-1
@@ -496,16 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 159211, 2024-06-10 19:21:39, 2024-06-10 19:21:39, malware, 0741b09d92094c7f899ee54140f68f94, http://117.208.214.54:45520/bin.sh
 159210, 2024-06-10 19:21:34, 2024-06-10 19:21:34, malware, a576c379535a4e8eb1ad11e4e8d3ca09, http://117.206.76.164:35040/bin.sh
 159209, 2024-06-10 19:20:32, 2024-06-10 19:20:32, malware, 81f339e1ae8e47a892cdc75ac37fbc9d, http://117.195.182.52:36055/bin.sh
-159208, 2024-06-10 19:20:26, 2024-06-10 19:20:26, malware, 2ba4da93dc1f4ae2b70176add14d129a, http://115.63.50.110:51074/bin.sh
-159207, 2024-06-10 19:20:24, 2024-06-10 19:20:24, malware, df6156a2f1d7414dbb53560150442635, http://115.59.234.168:37636/i
-159206, 2024-06-10 19:20:23, 2024-06-10 19:20:23, malware, 83549321b0a94df0bd4b0ebc49277474, http://115.58.141.17:42694/Mozi.m
-159205, 2024-06-10 19:20:21, 2024-06-10 19:20:21, malware, 75476e9a1e7c4edabc67e8fcfa7e50f0, http://115.55.229.53:52725/i
-159204, 2024-06-10 19:20:20, 2024-06-10 19:20:20, malware, e2d3cebdb7ab43448d736c5a057c335c, http://115.55.229.53:52725/bin.sh
-159203, 2024-06-10 19:20:18, 2024-06-10 19:20:18, malware, fb0b762cda3a4203bc5d1593f0f2e56c, http://115.52.2.182:32881/i
-159202, 2024-06-10 19:20:06, 2024-06-10 19:20:06, malware, 2cba5c13d8524c6a9949457a9f5288b0, http://115.48.144.91:47888/Mozi.m
-159201, 2024-06-10 19:20:05, 2024-06-10 19:20:05, malware, e4ad972b7acf4105b944423e79c5ef1a, http://115.48.144.91:47888/bin.sh
-159200, 2024-06-10 19:12:29, 2024-06-10 18:50:10, phishing, 6a9d9e02a1a0a7628b38850c0c356e94, https://247.162.205.92.host.secureserver.net/webs2
-159199, 2024-06-10 19:08:12, 2024-06-10 19:08:12, phishing, 865a591b7db83ac5a090658c9f6544c6, http://turkiye-islemler-aidat.com
-159198, 2024-06-10 19:07:30, 2024-06-10 19:07:30, phishing, 902d324d28fa08923d2190aeba5cff0e, http://ysbgo.cc
-159197, 2024-06-10 19:03:53, 2024-06-10 19:03:53, phishing, bac741a4e6bb422acf05e8a97e47af12, https://premiusl-uz.ru/
-159196, 2024-06-10 19:03:52, 2024-06-10 19:03:52, phishing, 71f98c09a1fd830038d6026e429ac107, https://adminuser.jadxiw.space/
