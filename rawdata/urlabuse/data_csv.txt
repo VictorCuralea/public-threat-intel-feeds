@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-10 23:00:01 UTC
+# UPDATE: 2024-06-11 00:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+159343, 2024-06-10 23:58:13, 2024-06-10 23:58:13, phishing, 009f9734f1e06f63ad48faec123b5693, http://download.clonemyunrealworld.workers.dev
+159342, 2024-06-10 23:40:18, 2024-06-10 23:40:18, phishing, 0fdfa40351149751aec9dbb11407f135, http://ao.xsdgjxy.com
+159341, 2024-06-10 23:22:10, 2024-06-10 23:22:10, phishing, 2632290e93085657e58c79115efb68c9, http://mail-desko8sjdj-2522435086t78799bcg8uj.pages.dev
+159340, 2024-06-10 23:16:12, 2024-06-10 23:16:12, phishing, 29b848d0d85fa280f6c92c198f5fd65f, http://drtdrd2.pages.dev
 159339, 2024-06-10 22:54:15, 2024-06-10 22:54:15, phishing, 647db4ebf0c53914eb8eb5b7d32bda70, http://virtualtrusthive.pages.dev
 159338, 2024-06-10 22:52:17, 2024-06-10 22:52:17, phishing, 4d53178611413195e59902d1fff23e37, http://cloudboardfaredscale.pages.dev
 159337, 2024-06-10 22:34:15, 2024-06-10 22:34:15, phishing, ed31fb49bad0b3ba14c133f0e923d150, http://dybcvisncouraging-scythe-almond-glance-shitsjdh.pages.dev
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 158846, 2024-06-10 09:24:08, 2024-06-10 09:24:08, malware, f21b02b894ab4373be5c4d5ea6972ed6, http://182.119.117.65:53455/bin.sh
 158845, 2024-06-10 09:24:07, 2024-06-10 09:24:07, malware, 84d0cf4bbd11408885f718082a684a0c, http://182.117.68.35:51145/i
 158844, 2024-06-10 09:24:05, 2024-06-10 09:24:05, malware, 955fa914997849c9a25b9f89230b7a2a, http://182.117.68.35:51145/bin.sh
-158843, 2024-06-10 09:24:03, 2024-06-10 09:24:03, malware, 5b96e292ab3f4b2098fb775459dffaac, http://182.117.107.226:44611/bin.sh
-158842, 2024-06-10 09:24:00, 2024-06-10 09:24:00, malware, fd3a0d903c5346c0b6bf367c45c48924, http://125.47.94.119:33303/i
-158841, 2024-06-10 09:23:59, 2024-06-10 09:23:59, malware, efa82842e2844e7fb3cf0227df7bea85, http://125.47.68.81:48460/Mozi.m
-158840, 2024-06-10 09:23:56, 2024-06-10 09:23:56, malware, 79e78aa1f7434eaab23867e76b4a8da5, http://120.37.206.95:37512/Mozi.a
