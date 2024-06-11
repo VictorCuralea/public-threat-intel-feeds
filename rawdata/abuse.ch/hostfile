@@ -1,11 +1,22 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-06-11 11:55:05 UTC                        #
+# Last updated: 2024-06-11 15:51:55 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	lechiavetteusb.it
+127.0.0.1	www.yah00.o-r.kr
+127.0.0.1	www.aslark.kro.kr
+127.0.0.1	www.aslark1.kro.kr
+127.0.0.1	www.lazor.kro.kr
+127.0.0.1	www.devf.n-e.kr
+127.0.0.1	www.lfgu.n-e.kr
+127.0.0.1	www.luvb.n-b.kr
+127.0.0.1	www.navver.o-r.kr
+127.0.0.1	w3.navver.o-r.kr
+127.0.0.1	www.kepir.p-e.kr
 127.0.0.1	dr-networks.com
 127.0.0.1	organic-satire-gw.aws-euc1.cloud-ara.tyk.io
 127.0.0.1	v2.events.data.microsoftsubmit.com
@@ -12363,4 +12374,4 @@
 127.0.0.1	runanywhere.myvnc.com
 127.0.0.1	dns.check.support
 127.0.0.1	blessedjay.dolphinair.top
-# Number of entries: 12357
+# Number of entries: 12368
