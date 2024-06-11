@@ -6,9 +6,14 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-11 12:00:01 UTC
+# UPDATE: 2024-06-11 13:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+159924, 2024-06-11 12:56:13, 2024-06-11 12:56:13, phishing, 1c4789276e309d634cb3d6f0ab49c920, http://axemaul.com
+159923, 2024-06-11 12:42:19, 2024-06-11 12:42:19, phishing, 45855d0bbce8cfe5ce054bf6859b018b, http://efesfes22.pages.dev
+159922, 2024-06-11 12:40:28, 2024-06-11 12:40:28, phishing, 4321df4b19fc9928a306df01752c9679, http://moife2.pages.dev
+159921, 2024-06-11 12:31:27, 2024-06-11 11:58:13, phishing, f34bcf7bda50769e94288d952124f29c, https://dev-11445365463.pantheonsite.io/
+159920, 2024-06-11 12:18:11, 2024-06-11 12:18:11, phishing, c5040b9e7339fca8422c6ec85a008a55, http://page-timehlwsvuyhw.pages.dev
 159919, 2024-06-11 11:42:16, 2024-06-11 11:42:16, phishing, a05e210046dda538924f68ef0550db58, http://baofupang.com
 159918, 2024-06-11 11:40:11, 2024-06-11 11:40:11, phishing, ddced3cf96ff517c04670361ed4dabb5, http://premud-uz.ru
 159917, 2024-06-11 11:38:13, 2024-06-11 11:38:13, phishing, 4ad5b5b26dedf975ec573d902a326fd8, http://premkw-uz.ru
@@ -504,8 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 159427, 2024-06-11 01:12:35, 2024-06-11 01:12:35, phishing, 5370f6aaacee82ce63e0c8cb2e8f3c10, http://tokenpbaket.com
 159426, 2024-06-11 01:12:29, 2024-06-11 01:12:29, phishing, 362057df96a74f9b5bd352b4865b13b6, http://tokenpasket.com
 159425, 2024-06-11 01:12:28, 2024-06-11 01:12:28, phishing, 89df6c9914de43ddccc2a952dca9a4d9, http://tokenpblket.com
-159424, 2024-06-11 01:12:27, 2024-06-11 01:12:27, phishing, c84eb6a54e26b0a6df6eb6b58027c26d, http://tokenpanket.com
-159423, 2024-06-11 01:12:25, 2024-06-11 01:12:25, phishing, 3376ccd35b9583a7ed41dbc1382e49a7, http://tokenpalket.com
-159422, 2024-06-11 01:12:18, 2024-06-11 01:12:18, phishing, df0f94deadda02b1679c29639898a221, http://tokenpajket.com
-159421, 2024-06-11 01:12:16, 2024-06-11 01:12:16, phishing, add821ec3d53b117b129de7c776868e4, http://tokenpakket.com
-159420, 2024-06-11 01:12:15, 2024-06-11 01:12:15, phishing, f128367eb5db9645ba1b5547ee9faddd, http://tokenpauket.com

@@ -6,8 +6,13 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-11 12:00:01 UTC
+# UPDATE: 2024-06-11 13:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 159924, "url": "http://axemaul.com", "discovery": "2024-06-11 12:56:13", "added": "2024-06-11 12:56:13", "target": "Telegram", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "1c4789276e309d634cb3d6f0ab49c920"}
+{"id": 159923, "url": "http://efesfes22.pages.dev", "discovery": "2024-06-11 12:42:19", "added": "2024-06-11 12:42:19", "target": "Amazon", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "45855d0bbce8cfe5ce054bf6859b018b"}
+{"id": 159922, "url": "http://moife2.pages.dev", "discovery": "2024-06-11 12:40:28", "added": "2024-06-11 12:40:28", "target": "Amazon", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "4321df4b19fc9928a306df01752c9679"}
+{"id": 159921, "url": "https://dev-11445365463.pantheonsite.io/", "discovery": "2024-06-11 11:58:13", "added": "2024-06-11 12:31:27", "target": "Orange", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "f34bcf7bda50769e94288d952124f29c"}
+{"id": 159920, "url": "http://page-timehlwsvuyhw.pages.dev", "discovery": "2024-06-11 12:18:11", "added": "2024-06-11 12:18:11", "target": "Amazon", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "c5040b9e7339fca8422c6ec85a008a55"}
 {"id": 159919, "url": "http://baofupang.com", "discovery": "2024-06-11 11:42:16", "added": "2024-06-11 11:42:16", "target": "USPS", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "a05e210046dda538924f68ef0550db58"}
 {"id": 159918, "url": "http://premud-uz.ru", "discovery": "2024-06-11 11:40:11", "added": "2024-06-11 11:40:11", "target": "Telegram", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "ddced3cf96ff517c04670361ed4dabb5"}
 {"id": 159917, "url": "http://premkw-uz.ru", "discovery": "2024-06-11 11:38:13", "added": "2024-06-11 11:38:13", "target": "Telegram", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "4ad5b5b26dedf975ec573d902a326fd8"}
@@ -503,8 +508,3 @@
 {"id": 159427, "url": "http://tokenpbaket.com", "discovery": "2024-06-11 01:12:35", "added": "2024-06-11 01:12:35", "target": "Token Pocket", "reporter": "lruray", "AbuseType": "phishing", "UUID": "5370f6aaacee82ce63e0c8cb2e8f3c10"}
 {"id": 159426, "url": "http://tokenpasket.com", "discovery": "2024-06-11 01:12:29", "added": "2024-06-11 01:12:29", "target": "Token Pocket", "reporter": "lruray", "AbuseType": "phishing", "UUID": "362057df96a74f9b5bd352b4865b13b6"}
 {"id": 159425, "url": "http://tokenpblket.com", "discovery": "2024-06-11 01:12:28", "added": "2024-06-11 01:12:28", "target": "Token Pocket", "reporter": "lruray", "AbuseType": "phishing", "UUID": "89df6c9914de43ddccc2a952dca9a4d9"}
-{"id": 159424, "url": "http://tokenpanket.com", "discovery": "2024-06-11 01:12:27", "added": "2024-06-11 01:12:27", "target": "Token Pocket", "reporter": "lruray", "AbuseType": "phishing", "UUID": "c84eb6a54e26b0a6df6eb6b58027c26d"}
-{"id": 159423, "url": "http://tokenpalket.com", "discovery": "2024-06-11 01:12:25", "added": "2024-06-11 01:12:25", "target": "Token Pocket", "reporter": "lruray", "AbuseType": "phishing", "UUID": "3376ccd35b9583a7ed41dbc1382e49a7"}
-{"id": 159422, "url": "http://tokenpajket.com", "discovery": "2024-06-11 01:12:18", "added": "2024-06-11 01:12:18", "target": "Token Pocket", "reporter": "lruray", "AbuseType": "phishing", "UUID": "df0f94deadda02b1679c29639898a221"}
-{"id": 159421, "url": "http://tokenpakket.com", "discovery": "2024-06-11 01:12:16", "added": "2024-06-11 01:12:16", "target": "Token Pocket", "reporter": "lruray", "AbuseType": "phishing", "UUID": "add821ec3d53b117b129de7c776868e4"}
-{"id": 159420, "url": "http://tokenpauket.com", "discovery": "2024-06-11 01:12:15", "added": "2024-06-11 01:12:15", "target": "Token Pocket", "reporter": "lruray", "AbuseType": "phishing", "UUID": "f128367eb5db9645ba1b5547ee9faddd"}
