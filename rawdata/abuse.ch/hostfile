@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-06-11 18:09:23 UTC                        #
+# Last updated: 2024-06-11 22:21:26 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	img.vdtuconsole.online
 127.0.0.1	nuevos2024.duckdns.org
 127.0.0.1	jokarrrrr333322.ddns.net
 127.0.0.1	nymsportsmen.com
@@ -12368,4 +12369,4 @@
 127.0.0.1	rosceman.com
 127.0.0.1	graytoner.com
 127.0.0.1	kulasid.com
-# Number of entries: 12362
+# Number of entries: 12363
