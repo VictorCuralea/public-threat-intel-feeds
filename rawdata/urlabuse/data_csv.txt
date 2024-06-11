@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-11 02:00:01 UTC
+# UPDATE: 2024-06-11 03:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+159501, 2024-06-11 02:49:26, 2024-06-11 02:49:26, phishing, 705e097e7b9f2fb7fe1b0bef6cb95b14, http://yfzxwengniuteqi.com
+159500, 2024-06-11 02:38:17, 2024-06-11 02:38:17, phishing, fa5a45802936bbcbb66c43428586b536, http://telegram-we.icu
+159499, 2024-06-11 02:22:22, 2024-06-11 02:22:22, phishing, 366f9f1e2729745be6557b5e88579e97, http://secure.rpcthai.com
+159498, 2024-06-11 02:22:14, 2024-06-11 02:22:14, phishing, 3719fa6e4a28a10d94d31da49fbc7a26, http://teste-dns-sendbot.betzoa.com
 159497, 2024-06-11 01:25:30, 2024-06-11 01:25:30, malware, 9845ec042b97465aa96009039e17af48, http://61.53.148.200:39517/
 159496, 2024-06-11 01:25:28, 2024-06-11 01:25:28, malware, b95d5996e86741208ee2ce61d1277203, http://59.99.139.91:34964/bin.sh
 159495, 2024-06-11 01:25:26, 2024-06-11 01:25:26, malware, 10cc2f5d86af475fa6ebc597b8c11b9b, http://59.93.191.98:58166/Mozi.m
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 159004, 2024-06-10 13:25:49, 2024-06-10 13:25:49, malware, c20c6713961c47b4b63bf4e65d3efc43, http://61.3.142.237:43934/Mozi.m
 159003, 2024-06-10 13:23:42, 2024-06-10 13:23:42, malware, a8bb0240be8c4f928d227f761eb93fc7, http://59.89.237.254:33601/bin.sh
 159002, 2024-06-10 13:23:40, 2024-06-10 13:23:40, malware, 90ddbbb798ab48e488263af2cdddd9ce, http://59.183.140.161:54198/Mozi.m
-159001, 2024-06-10 13:23:33, 2024-06-10 13:23:33, malware, 502b135a77454d36a82860fbe1077f95, http://59.180.183.174:58520/Mozi.m
-159000, 2024-06-10 13:23:28, 2024-06-10 13:23:28, malware, dad991dd401f4a77a7c1d0b8b21f2b3b, http://42.232.210.215:33479/i
-158999, 2024-06-10 13:23:27, 2024-06-10 13:23:27, malware, 278af964849c4805ba899211a8e148d6, http://42.231.169.12:38181/bin.sh
-158998, 2024-06-10 13:23:26, 2024-06-10 13:23:26, malware, 03462bfbe9624dc9b0e3c36d3a6d7a1c, http://42.225.223.12:34639/bin.sh
