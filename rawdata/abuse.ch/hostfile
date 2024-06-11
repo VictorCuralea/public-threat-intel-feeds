@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-06-11 15:51:55 UTC                        #
+# Last updated: 2024-06-11 16:52:44 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	nymsportsmen.com
+127.0.0.1	truckingaccidentattorneyblog.com
 127.0.0.1	lechiavetteusb.it
 127.0.0.1	www.yah00.o-r.kr
 127.0.0.1	www.aslark.kro.kr
@@ -12367,10 +12369,4 @@
 127.0.0.1	blackbeltportal.com
 127.0.0.1	petiakremen.com
 127.0.0.1	mail.inthekitchenwithjen.com
-127.0.0.1	pedantic-easley.193-149-129-202.plesk.page
-127.0.0.1	ns2.az-gateway.com
-127.0.0.1	ns1.az-gateway.com
-127.0.0.1	dns1.engie.com
-127.0.0.1	runanywhere.myvnc.com
-127.0.0.1	dns.check.support
-# Number of entries: 12367
+# Number of entries: 12363
