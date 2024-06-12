@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-06-12 06:12:03 UTC                        #
+# Last updated: 2024-06-12 08:22:12 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ad-ed.xyz
+127.0.0.1	asd-e.xyz
+127.0.0.1	ad-es.xyz
+127.0.0.1	ab-cc.xyz
+127.0.0.1	a-bcd.xyz
 127.0.0.1	born-administrative.gl.at.ply.gg
 127.0.0.1	img.vdtuconsole.online
 127.0.0.1	nuevos2024.duckdns.org
@@ -12362,4 +12367,4 @@
 127.0.0.1	ec2-18-135-210-230.eu-west-2.compute.amazonaws.com
 127.0.0.1	kfc.mom
 127.0.0.1	smartpoliceax.online
-# Number of entries: 12356
+# Number of entries: 12361

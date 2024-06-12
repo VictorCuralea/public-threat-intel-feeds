@@ -6,9 +6,20 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-12 08:00:02 UTC
+# UPDATE: 2024-06-12 09:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+160467, 2024-06-12 08:58:15, 2024-06-12 08:58:15, phishing, 969dbc913b68b6489f4b3ae59866e700, https://xur.kwi.mybluehost.me/website_8535703b/difdo/login/login.php
+160466, 2024-06-12 08:58:13, 2024-06-12 08:58:13, phishing, 11691989df490dc1689e2b9792707cf0, https://www.baldomschools.org/Reg-ob-ident/Authentication.php
+160465, 2024-06-12 08:56:13, 2024-06-12 08:56:13, phishing, 8d7e68b2ddfcc7e5b91e8b57f4ffde08, https://bt-home-105741.weeblysite.com/
+160464, 2024-06-12 08:56:12, 2024-06-12 08:56:12, phishing, 4a160e8779a6c9eb4c661db0f5080ea4, https://auth-btapp-btbusiness.webflow.io/
+160463, 2024-06-12 08:56:11, 2024-06-12 08:56:11, phishing, 5623b4724883d6826cb12f64b5af5ee1, http://page-timeyfuisvh.pages.dev
+160462, 2024-06-12 08:54:17, 2024-06-12 08:54:17, phishing, 84aedf0fd338d7a34e8c5dfcce47059f, https://broadband-6-11-2024.webflow.io/
+160461, 2024-06-12 08:51:34, 2024-06-12 08:51:34, phishing, 1ab14afa7975733f7c77e41206641a6a, https://fdtrytrtr.weeblysite.com
+160460, 2024-06-12 08:51:22, 2024-06-12 08:48:17, phishing, c56395aaea48bb3794d43a6ce5d91a65, https://www.dropbox.com/scl/fi/f34cqrxsmlz99g9wcp0t5/BT-ID-Administrator.paper?rlkey=k0tqvjy0rixnxdiw8tqmw6wmb
+160459, 2024-06-12 08:36:15, 2024-06-12 08:36:15, phishing, dd66a63c4e3bc960b4cc0d91ab1edd2a, http://carte-renouvellement-enligne.fr
+160458, 2024-06-12 08:28:11, 2024-06-12 08:28:11, phishing, 0c5aeb99871bded44f66dc56059798af, http://shyelawel2.pages.dev
+160457, 2024-06-12 08:02:12, 2024-06-12 08:02:12, phishing, 5e45820afdda6cb399b094ba3ffe0e1e, http://newtradedex.pages.dev
 160456, 2024-06-12 07:58:15, 2024-06-12 07:58:15, phishing, 3010011b4703c0642bb28e6d7750e908, http://lmt0ken.com
 160455, 2024-06-12 07:30:13, 2024-06-12 07:30:13, phishing, 532e033979c70221f469409ff63308ed, http://telegroup.pages.dev
 160454, 2024-06-12 07:23:02, 2024-06-12 07:20:50, phishing, 2a409f8b17bad0535b1fc0eda988fd9c, https://presentesdiferentes.com.br/log/web/V3--L&B-%20WEBMAIL--update/WEBMAIL1.html
@@ -498,14 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 159970, 2024-06-11 13:23:52, 2024-06-11 13:23:52, malware, 8065b16bc32d4538b02e021c836b34e9, http://123.10.215.200:49787/bin.sh
 159969, 2024-06-11 13:23:38, 2024-06-11 13:23:38, malware, a22a96f8abb444e583774e9cab69151d, http://120.61.101.223:55660/bin.sh
 159968, 2024-06-11 13:23:33, 2024-06-11 13:23:33, malware, 7b780f7540e64492bc47e22920fc0b3e, http://119.183.7.25:54650/bin.sh
-159967, 2024-06-11 13:23:30, 2024-06-11 13:23:30, malware, 512cfebde76043e7b0bb29f287c94ce1, http://117.253.9.124:60073/Mozi.m
-159966, 2024-06-11 13:23:26, 2024-06-11 13:23:26, malware, 819b8c5386e842698e0f7dc87c87bdda, http://117.251.0.39:55111/bin.sh
-159965, 2024-06-11 13:23:25, 2024-06-11 13:23:25, malware, 8c636e09ff8f41c0ad5a8fceb08aec7d, http://117.245.36.24:53559/Mozi.m
-159964, 2024-06-11 13:23:14, 2024-06-11 13:23:14, malware, 128a53567d2445f5afcccc3817280c7d, http://117.245.33.119:35463/i
-159963, 2024-06-11 13:23:10, 2024-06-11 13:23:10, malware, 601d8a788acf4564bfae1d7b330ed930, http://117.243.254.243:49004/Mozi.m
-159962, 2024-06-11 13:22:50, 2024-06-11 13:22:50, malware, 60eddbcd7b424d3b8d09186422bfa1da, http://117.242.201.151:57579/bin.sh
-159961, 2024-06-11 13:22:29, 2024-06-11 13:22:29, malware, 58355dd34c0b444d855f0f5d8860339d, http://117.219.40.250:49015/mozi.m
-159960, 2024-06-11 13:22:26, 2024-06-11 13:22:26, malware, f055979c145e4d5d821423c39a786be7, http://117.219.124.181:52112/Mozi.m
-159959, 2024-06-11 13:22:14, 2024-06-11 13:22:14, malware, aa8c1d6367d84640ac1628d3b7972308, http://117.211.215.190:39841/bin.sh
-159958, 2024-06-11 13:22:11, 2024-06-11 13:22:11, malware, d1cf22ff9f9847a4b3aea37582217ab6, http://117.210.188.131:59039/i
-159957, 2024-06-11 13:22:09, 2024-06-11 13:22:09, malware, 09b797a889dd4865a6265d3d1f9218f6, http://117.210.188.131:59039/bin.sh
