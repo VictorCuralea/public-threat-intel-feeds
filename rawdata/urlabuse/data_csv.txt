@@ -6,9 +6,16 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-12 07:00:01 UTC
+# UPDATE: 2024-06-12 08:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+160456, 2024-06-12 07:58:15, 2024-06-12 07:58:15, phishing, 3010011b4703c0642bb28e6d7750e908, http://lmt0ken.com
+160455, 2024-06-12 07:30:13, 2024-06-12 07:30:13, phishing, 532e033979c70221f469409ff63308ed, http://telegroup.pages.dev
+160454, 2024-06-12 07:23:02, 2024-06-12 07:20:50, phishing, 2a409f8b17bad0535b1fc0eda988fd9c, https://presentesdiferentes.com.br/log/web/V3--L&B-%20WEBMAIL--update/WEBMAIL1.html
+160453, 2024-06-12 07:16:12, 2024-06-12 07:16:12, phishing, f630f5977e75ee62d3fc40934d23a936, http://mnbvsdf.pages.dev
+160452, 2024-06-12 07:08:15, 2024-06-12 07:08:15, phishing, b45b9e7e2eeeb5305a867942246820e8, http://personaladvantageconcierge.com
+160451, 2024-06-12 07:01:19, 2024-06-12 07:01:19, phishing, 87e7a3f805eeda86925c8b40dd5028e6, https://trainingforwork.ca/ac/index.php/sign%20in%20to%20your%20account_files/sign%20in%20to%20your%20account_files/sign%20in%20to%20your%20account_files/sign%20in%20to%20your%20account_files/sign%20in%20to%20your%20account_files/sign%20in%20to%20your%20account_files/prefetch(1).html
+160450, 2024-06-12 07:00:27, 2024-06-12 07:00:27, phishing, 03c5480c294682aeb093d23e2ff9ee12, http://groupsex-telegrup.pages.dev/
 160449, 2024-06-12 06:58:19, 2024-06-12 06:58:19, phishing, 0b7ef6ec7e433058b11855daa35d565b, http://telegriam-o.org
 160448, 2024-06-12 06:44:12, 2024-06-12 06:44:12, phishing, 8facc57a2d578165648dbe63f8a68b95, http://qypay3213ewq.wiki
 160447, 2024-06-12 06:30:21, 2024-06-12 06:30:21, phishing, 4abf727abfdd947787eefcc5194614c6, http://teleguram.org
@@ -502,10 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 159959, 2024-06-11 13:22:14, 2024-06-11 13:22:14, malware, aa8c1d6367d84640ac1628d3b7972308, http://117.211.215.190:39841/bin.sh
 159958, 2024-06-11 13:22:11, 2024-06-11 13:22:11, malware, d1cf22ff9f9847a4b3aea37582217ab6, http://117.210.188.131:59039/i
 159957, 2024-06-11 13:22:09, 2024-06-11 13:22:09, malware, 09b797a889dd4865a6265d3d1f9218f6, http://117.210.188.131:59039/bin.sh
-159956, 2024-06-11 13:21:40, 2024-06-11 13:21:40, malware, dbe904b917c74903bb588c6c48eb5325, http://117.207.253.110:39047/bin.sh
-159955, 2024-06-11 13:21:19, 2024-06-11 13:21:19, malware, 1e14542ecc04484e83d118ff147b0f1d, http://117.204.203.87:39992/bin.sh
-159954, 2024-06-11 13:21:16, 2024-06-11 13:21:16, malware, 3c859523c2a9491880d8aac751be28a5, http://117.204.198.152:47758/i
-159953, 2024-06-11 13:21:12, 2024-06-11 13:21:12, malware, 3663296b50f643e2b0a7891ab1eab525, http://117.204.198.112:37697/i
-159952, 2024-06-11 13:21:10, 2024-06-11 13:21:10, malware, cc4039805a0a4ef4916bbfa038269f3a, http://117.204.196.250:36096/Mozi.m
-159951, 2024-06-11 13:21:07, 2024-06-11 13:21:07, malware, a710e2cb266e465ea7828b305f8ad4a3, http://117.202.71.104:59080/Mozi.m
-159950, 2024-06-11 13:20:50, 2024-06-11 13:20:50, malware, 230e20b7b8fb4cc1a941ef3b8725dcb3, http://117.196.164.63:39565/bin.sh
