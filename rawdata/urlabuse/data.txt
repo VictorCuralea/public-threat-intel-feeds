@@ -6,8 +6,17 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-12 12:00:01 UTC
+# UPDATE: 2024-06-12 13:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 160692, "url": "http://wk.pl", "discovery": "2024-06-12 12:58:13", "added": "2024-06-12 12:58:13", "target": "Facebook", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "9266612531c56930e697f1fd1ed5eade"}
+{"id": 160691, "url": "http://adorecloudupdate.pages.dev", "discovery": "2024-06-12 12:56:15", "added": "2024-06-12 12:56:15", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "44a8411e2a2555631595af108c869583"}
+{"id": 160690, "url": "http://gjsoiuehgdugenlsdisjhewas02.pages.dev", "discovery": "2024-06-12 12:56:13", "added": "2024-06-12 12:56:13", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "1549913c3d8d89a250a49e256969b59e"}
+{"id": 160689, "url": "http://832f725d-3dc5-4e83-8898-89ae792accc0.shippings-network.workers.dev", "discovery": "2024-06-12 12:50:10", "added": "2024-06-12 12:50:10", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "90315d5ac94c084072be28e3cf18cf2a"}
+{"id": 160688, "url": "http://livemigraznsmvtwo.pages.dev", "discovery": "2024-06-12 12:46:16", "added": "2024-06-12 12:46:16", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "faf95c6895307dbd160d703fcff43c84"}
+{"id": 160687, "url": "http://workers-playground-aged-water-cdf5.tegefe7313.workers.dev", "discovery": "2024-06-12 12:36:12", "added": "2024-06-12 12:36:12", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "32df3a7330b9365a19b19405da746f31"}
+{"id": 160686, "url": "http://s-frbusiness.com/", "discovery": "2024-06-12 12:32:14", "added": "2024-06-12 12:32:14", "target": "SwissPass", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "2d06f2dedda8d953cae280f28fc3158d"}
+{"id": 160685, "url": "https://www.s-frbusiness.com/", "discovery": "2024-06-12 12:30:13", "added": "2024-06-12 12:30:13", "target": "SwissPass", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "f39a092bd170e1d54d501dbf5e2646ad"}
+{"id": 160684, "url": "http://worker-white-base-11cb.vickiedauphinais.workers.dev", "discovery": "2024-06-12 12:22:12", "added": "2024-06-12 12:22:12", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "78ffb8ff749a450229ef3ca5ab3c06a6"}
 {"id": 160683, "url": "http://udcakesdefi.pro", "discovery": "2024-06-12 11:56:23", "added": "2024-06-12 11:56:23", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "eb17f34a48bf183c0fca838f2bc3b911"}
 {"id": 160682, "url": "http://ud-cake-defi.xyz", "discovery": "2024-06-12 11:52:20", "added": "2024-06-12 11:52:20", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "1a455046365d5a0d17d30a331ff65d2a"}
 {"id": 160681, "url": "http://premuik-uz.ru", "discovery": "2024-06-12 11:44:13", "added": "2024-06-12 11:44:13", "target": "Telegram", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "3ee12e7ded50a03890cd6a70ec2eaaea"}
@@ -499,12 +508,3 @@
 {"id": 160195, "url": "http://59.97.112.152:59687/Mozi.m", "discovery": "2024-06-11 17:30:25", "added": "2024-06-11 17:30:25", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "52fa7eccda024cee9a5a5a04ea481428"}
 {"id": 160194, "url": "http://59.92.172.216:41039/bin.sh", "discovery": "2024-06-11 17:29:42", "added": "2024-06-11 17:29:42", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "d6dcc12daf6f4752a49989cb925cd77b"}
 {"id": 160193, "url": "http://59.88.185.142:41129/i", "discovery": "2024-06-11 17:28:59", "added": "2024-06-11 17:28:59", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "703f6331805c468a82335f00b246e309"}
-{"id": 160192, "url": "http://42.235.38.138:56067/bin.sh", "discovery": "2024-06-11 17:28:36", "added": "2024-06-11 17:28:36", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "fb54afa695734a009b2f6b5476b8c5f8"}
-{"id": 160191, "url": "http://42.229.221.130:57065/i", "discovery": "2024-06-11 17:28:34", "added": "2024-06-11 17:28:34", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "a883905ff0734eb4905d1cce1bcfc1b6"}
-{"id": 160190, "url": "http://42.229.221.130:57065/bin.sh", "discovery": "2024-06-11 17:28:33", "added": "2024-06-11 17:28:33", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "89eddd9942f84c6bbccd0c5b7ebf14a2"}
-{"id": 160189, "url": "http://42.225.50.129:36943/bin.sh", "discovery": "2024-06-11 17:28:31", "added": "2024-06-11 17:28:31", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "fdd9d3b77fa845d1bd586c9f9507bb29"}
-{"id": 160188, "url": "http://42.224.195.83:32862/bin.sh", "discovery": "2024-06-11 17:28:30", "added": "2024-06-11 17:28:30", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "2aa470ab3676403995bec34beacafd0f"}
-{"id": 160187, "url": "http://41.250.28.237:47408/i", "discovery": "2024-06-11 17:28:29", "added": "2024-06-11 17:28:29", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "890a72083cea4dac9272a5ac6ef2059d"}
-{"id": 160186, "url": "http://27.215.180.37:48003/Mozi.a", "discovery": "2024-06-11 17:28:14", "added": "2024-06-11 17:28:14", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "923e43a622a848b8bfb4229980e880d4"}
-{"id": 160185, "url": "http://27.215.180.190:49862/Mozi.m", "discovery": "2024-06-11 17:28:13", "added": "2024-06-11 17:28:13", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "4dfc9f7cc3984041abdf00a9e624c1a0"}
-{"id": 160184, "url": "http://27.207.184.202:49624/i", "discovery": "2024-06-11 17:28:11", "added": "2024-06-11 17:28:11", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "994560fec4d6437c8cbb30f23f47c367"}
