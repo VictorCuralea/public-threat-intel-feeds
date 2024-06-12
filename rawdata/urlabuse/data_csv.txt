@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-12 20:00:01 UTC
+# UPDATE: 2024-06-12 21:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+161027, 2024-06-12 20:52:10, 2024-06-12 20:52:10, phishing, a90353651d6075920e4c40a1db695654, http://kontolberotot.pages.dev
+161026, 2024-06-12 20:36:13, 2024-06-12 20:36:13, phishing, b1a6373d05d72bda4bbab123915ca072, http://telegramsexxsxsxs.pages.dev
+161025, 2024-06-12 20:31:00, 2024-06-12 20:31:00, malware, e76ac3112d094bde8b0da95a2e6e1c4f, https://irdys.ir/%F0%9D%91%92/base.apk
+161024, 2024-06-12 20:29:11, 2024-06-12 20:29:11, phishing, 92275c67364d1af3bb40a861969b024e, https://irdys.ir/%F0%9D%91%92/
 161023, 2024-06-12 19:25:11, 2024-06-12 19:25:11, malware, 002e0cf8d78c4c1a9bc0cecdf587bd26, http://61.53.84.150:55272/Mozi.m
 161022, 2024-06-12 19:23:21, 2024-06-12 19:23:21, malware, 69c763532ca044c8bf315e9663d36ab1, http://42.237.117.201:58931/i
 161021, 2024-06-12 19:23:20, 2024-06-12 19:23:20, malware, 71797a417ae84546b9dd9452cc8dbbc6, http://42.237.117.201:58931/bin.sh
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 160530, 2024-06-12 09:05:25, 2024-06-12 09:05:25, malware, 7a3123b4f0c24e58b7632b82f1692099, http://175.166.115.107:35894/bin.sh
 160529, 2024-06-12 09:05:24, 2024-06-12 09:05:24, malware, 67b4b2f5ad1b41e9bda7d40ad961ca60, http://175.165.112.155:47067/i
 160528, 2024-06-12 09:05:22, 2024-06-12 09:05:22, malware, 26f7b937496d43b885925d9bc72d35dc, http://175.165.112.155:47067/bin.sh
-160527, 2024-06-12 09:05:21, 2024-06-12 09:05:21, malware, d8b2cef7a5264c15baacb13a1218ab28, http://175.151.71.231:55054/i
-160526, 2024-06-12 09:05:19, 2024-06-12 09:05:19, malware, 55968eff4fc64ff6881c742dcfabeba8, http://175.151.71.231:55054/bin.sh
-160525, 2024-06-12 09:04:58, 2024-06-12 09:04:58, malware, 675203e9cfb1420fbbf69e970844fdef, http://159.65.252.203/bins.sh
-160524, 2024-06-12 09:04:58, 2024-06-12 09:04:58, malware, d9fccefc218b4a4aabb7034d68687867, http://146.19.191.125/mpsl
