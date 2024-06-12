@@ -6,9 +6,20 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-12 18:00:01 UTC
+# UPDATE: 2024-06-12 19:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+160995, 2024-06-12 18:56:17, 2024-06-12 18:56:17, phishing, e9fc4b2174c2bab7fa0962d3976e5e1b, http://promptrevaccess.pages.dev
+160994, 2024-06-12 18:56:13, 2024-06-12 18:56:13, phishing, 46eec089c3c998db625c6e31d15983b7, http://nbgfdedfgvbjkhytyrtyjhbghfrtfgjhgfghjbgh.pages.dev
+160993, 2024-06-12 18:54:12, 2024-06-12 18:54:12, phishing, 0d3eba022b8838eccf69e6fff626d133, http://win-page-error-fix-2.pages.dev
+160992, 2024-06-12 18:17:34, 2024-06-12 18:10:23, phishing, cb745efc7d71f26b422457bfcc8cd55d, https://jofapew440.wixsite.com/loginsclswisscomch
+160991, 2024-06-12 18:17:12, 2024-06-12 18:08:23, phishing, d9d84567de87f87d65797cc30e825e7e, https://vanshikatravel.com/spotify/subscriptionrenewal/
+160990, 2024-06-12 18:16:40, 2024-06-12 18:06:17, phishing, f7d697a668eb1080c4ebb016fa10dfb8, https://pub-7f9c4c5a7c0143c8a29097a99ba8db43.r2.dev/lomailx.html#dns%40omnis.ch
+160989, 2024-06-12 18:10:35, 2024-06-12 18:10:35, phishing, 86289f62af5f32e988239bf99ae2ca4b, http://f.jingsounet.com
+160988, 2024-06-12 18:10:16, 2024-06-12 18:10:16, phishing, 6c5248028a719f3f0ed10a94744e7803, https://rechnungen-blue-maconfirm.codeanyapp.com/Rechnungen/clients/username.php
+160987, 2024-06-12 18:10:13, 2024-06-12 18:10:13, phishing, 33c0b8ddcc85e64906a0f561e8de5c3f, https://twint.applikation.pro/de/receive/751552428
+160986, 2024-06-12 18:08:27, 2024-06-12 18:08:27, phishing, 123aa6bf0749b6ab9522602b0f9f84f0, https://hpsdc.in/hpsdc/css
+160985, 2024-06-12 18:08:15, 2024-06-12 18:08:15, phishing, 7a8e83ce5e72eeee6af775a16a1cf06c, https://ncrtoday.in/css
 160984, 2024-06-12 17:54:02, 2024-06-12 17:46:16, phishing, 96e65debe75385fa3cfaeabed52bfa39, https://jerrygolland7.wixsite.com/my-site-2
 160983, 2024-06-12 17:53:54, 2024-06-12 17:46:16, phishing, acf86a34c20a302cb3197e25fc3c75f9, https://odesli.co/jq2vhqdhkbcw8
 160982, 2024-06-12 17:53:44, 2024-06-12 17:53:44, phishing, 15c1fd6b265e4de16bc58ae6b3b8e145, https://36deana.wixsite.com/my-site-1
@@ -498,14 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 160498, 2024-06-12 09:02:27, 2024-06-12 09:02:27, malware, 2bf2929214fb4ae6ab9626d875cd076a, http://115.55.58.234:36584/bin.sh
 160497, 2024-06-12 09:02:27, 2024-06-12 09:02:27, phishing, a3590e5f2b73aaefff9c909d1588a2fc, https://sites.google.com/view/albrtokidar
 160496, 2024-06-12 09:02:26, 2024-06-12 09:02:26, malware, 86a3909dd09a4907b1759ddf6609d982, http://115.52.247.89:55894/bin.sh
-160495, 2024-06-12 09:02:24, 2024-06-12 09:02:24, malware, c6bc291eca61455baf0debc868a514f0, http://115.49.27.100:43253/i
-160494, 2024-06-12 09:02:22, 2024-06-12 09:02:22, malware, f4fc6453cf57422e8a92bdf52f46e001, http://115.48.39.44:54133/i
-160493, 2024-06-12 09:02:22, 2024-06-12 09:02:22, phishing, d453a19c41826f60bfc1956fdbbd65d1, https://urlsrt.io/mBBAe
-160492, 2024-06-12 09:02:21, 2024-06-12 09:02:21, phishing, 4ea61d1a2805b0ee3b7bcf85f073b32d, https://desacmptepro.duckdns.org/espace-client/index.php.html
-160491, 2024-06-12 09:02:20, 2024-06-12 09:02:20, malware, a6545a33c864408b952c9de81fbbc853, http://115.48.39.44:54133/bin.sh
-160490, 2024-06-12 09:02:18, 2024-06-12 09:02:18, malware, feb79042fe854a7095606968ade9b76c, http://113.25.218.28:50530/Mozi.m
-160489, 2024-06-12 09:02:16, 2024-06-12 09:02:16, malware, d63e975fde1b457e93054727767f762c, http://113.238.248.30:44818/Mozi.m
-160488, 2024-06-12 09:02:14, 2024-06-12 09:02:14, malware, 2753d361a216483e91ab27015f8e49ff, http://113.231.224.29:60785/i
-160487, 2024-06-12 09:02:12, 2024-06-12 09:02:12, malware, de3e96ad69df4bec82c9b26ae492afe1, http://113.231.224.29:60785/bin.sh
-160486, 2024-06-12 09:02:09, 2024-06-12 09:02:09, malware, 094398a2ad5f4fb4a8fbf57aacd89b68, http://113.229.47.48:46034/Mozi.m
-160485, 2024-06-12 09:02:08, 2024-06-12 09:02:08, malware, 504fd1824d4d45c6be8176206209135e, http://113.229.47.48:46034/bin.sh
