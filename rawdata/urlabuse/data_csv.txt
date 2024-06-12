@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-12 22:00:01 UTC
+# UPDATE: 2024-06-12 23:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+161096, 2024-06-12 22:12:15, 2024-06-12 22:12:15, phishing, 7f67175f8ab278b58ebb2f2b4fc5dc0e, http://aproveerdraccesssss.ydns.eu
+161095, 2024-06-12 22:02:34, 2024-06-12 22:02:34, phishing, 5079387d7b289e6e86534b7e951d904a, http://pub-d793447c81514171913d3664f37ee09d.r2.dev/HX-ADFS_ax2.html
+161094, 2024-06-12 22:02:23, 2024-06-12 22:02:23, hacked, e387c73bd4d701ef57ced8cba9884032, https://digitalcrossways.com/matrix.index.html
+161093, 2024-06-12 22:00:15, 2024-06-12 22:00:15, phishing, 561127f4e93236f6e3562faf60f1f800, http://ttauthority.shop
 161092, 2024-06-12 21:56:14, 2024-06-12 21:56:14, phishing, 1eb233c084e18e69337570d917b62418, http://fixchainlive.pages.dev
 161091, 2024-06-12 21:52:13, 2024-06-12 21:52:13, phishing, 3f049d76c78db3414b89b51de2872246, http://secure-app-system12345.pages.dev
 161090, 2024-06-12 21:42:12, 2024-06-12 21:42:12, phishing, 7c94e285ea6fd6380faa27f5ebec4f6d, http://nodechain-everlodge.pages.dev
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 160599, 2024-06-12 09:07:48, 2024-06-12 09:07:48, malware, b1f2f956092c49bab46f1bf3842ad151, http://server.kovey-net.ru/nznsnSCwZ356pP/Aqua.mips
 160598, 2024-06-12 09:07:47, 2024-06-12 09:07:47, malware, 22a9f4b056534b4687838861b57ad3d7, http://server.kovey-net.ru/nznsnSCwZ356pP/Aqua.m68k
 160597, 2024-06-12 09:07:47, 2024-06-12 09:07:47, malware, 1a6cd9b9415b42c7b61028502b612929, http://server.kovey-net.ru/nznsnSCwZ356pP/Aqua.i686
-160596, 2024-06-12 09:07:46, 2024-06-12 09:07:46, malware, 5466a205fbe74e0d9f4b2ca81cd38d72, http://server.kovey-net.ru/nznsnSCwZ356pP/Aqua.arm7
-160595, 2024-06-12 09:07:46, 2024-06-12 09:07:46, malware, 6325f6cd42594cd4964edc073b5d1416, http://server.kovey-net.ru/nznsnSCwZ356pP/Aqua.arm6
-160594, 2024-06-12 09:07:45, 2024-06-12 09:07:45, malware, ad5273c949d64688b01965c9235c2f59, http://server.kovey-net.ru/nznsnSCwZ356pP/Aqua.arm5
-160593, 2024-06-12 09:07:44, 2024-06-12 09:07:44, malware, 1d72b01e8a6e470e93e818e917759562, http://server.kovey-net.ru/nznsnSCwZ356pP/Aqua.arm4

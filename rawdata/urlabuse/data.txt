@@ -6,8 +6,12 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-12 22:00:01 UTC
+# UPDATE: 2024-06-12 23:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 161096, "url": "http://aproveerdraccesssss.ydns.eu", "discovery": "2024-06-12 22:12:15", "added": "2024-06-12 22:12:15", "target": "Facebook", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "7f67175f8ab278b58ebb2f2b4fc5dc0e"}
+{"id": 161095, "url": "http://pub-d793447c81514171913d3664f37ee09d.r2.dev/HX-ADFS_ax2.html", "discovery": "2024-06-12 22:02:34", "added": "2024-06-12 22:02:34", "target": "Microsoft", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "5079387d7b289e6e86534b7e951d904a"}
+{"id": 161094, "url": "https://digitalcrossways.com/matrix.index.html", "discovery": "2024-06-12 22:02:23", "added": "2024-06-12 22:02:23", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "e387c73bd4d701ef57ced8cba9884032"}
+{"id": 161093, "url": "http://ttauthority.shop", "discovery": "2024-06-12 22:00:15", "added": "2024-06-12 22:00:15", "target": "Facebook", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "561127f4e93236f6e3562faf60f1f800"}
 {"id": 161092, "url": "http://fixchainlive.pages.dev", "discovery": "2024-06-12 21:56:14", "added": "2024-06-12 21:56:14", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "1eb233c084e18e69337570d917b62418"}
 {"id": 161091, "url": "http://secure-app-system12345.pages.dev", "discovery": "2024-06-12 21:52:13", "added": "2024-06-12 21:52:13", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "3f049d76c78db3414b89b51de2872246"}
 {"id": 161090, "url": "http://nodechain-everlodge.pages.dev", "discovery": "2024-06-12 21:42:12", "added": "2024-06-12 21:42:12", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "7c94e285ea6fd6380faa27f5ebec4f6d"}
@@ -504,7 +508,3 @@
 {"id": 160599, "url": "http://server.kovey-net.ru/nznsnSCwZ356pP/Aqua.mips", "discovery": "2024-06-12 09:07:48", "added": "2024-06-12 09:07:48", "target": "#ELF32MIPS", "reporter": "lrudbot", "AbuseType": "malware", "UUID": "b1f2f956092c49bab46f1bf3842ad151"}
 {"id": 160598, "url": "http://server.kovey-net.ru/nznsnSCwZ356pP/Aqua.m68k", "discovery": "2024-06-12 09:07:47", "added": "2024-06-12 09:07:47", "target": "#ELF32MOTOROLA", "reporter": "lrudbot", "AbuseType": "malware", "UUID": "22a9f4b056534b4687838861b57ad3d7"}
 {"id": 160597, "url": "http://server.kovey-net.ru/nznsnSCwZ356pP/Aqua.i686", "discovery": "2024-06-12 09:07:47", "added": "2024-06-12 09:07:47", "target": "#ELF32INTEL_v1", "reporter": "lrudbot", "AbuseType": "malware", "UUID": "1a6cd9b9415b42c7b61028502b612929"}
-{"id": 160596, "url": "http://server.kovey-net.ru/nznsnSCwZ356pP/Aqua.arm7", "discovery": "2024-06-12 09:07:46", "added": "2024-06-12 09:07:46", "target": "#ELF32ARM_EABI4", "reporter": "lrudbot", "AbuseType": "malware", "UUID": "5466a205fbe74e0d9f4b2ca81cd38d72"}
-{"id": 160595, "url": "http://server.kovey-net.ru/nznsnSCwZ356pP/Aqua.arm6", "discovery": "2024-06-12 09:07:46", "added": "2024-06-12 09:07:46", "target": "#ELF32ARM_EABI4", "reporter": "lrudbot", "AbuseType": "malware", "UUID": "6325f6cd42594cd4964edc073b5d1416"}
-{"id": 160594, "url": "http://server.kovey-net.ru/nznsnSCwZ356pP/Aqua.arm5", "discovery": "2024-06-12 09:07:45", "added": "2024-06-12 09:07:45", "target": "#ELF32ARM_v1", "reporter": "lrudbot", "AbuseType": "malware", "UUID": "ad5273c949d64688b01965c9235c2f59"}
-{"id": 160593, "url": "http://server.kovey-net.ru/nznsnSCwZ356pP/Aqua.arm4", "discovery": "2024-06-12 09:07:44", "added": "2024-06-12 09:07:44", "target": "#ELF32ARM_v1", "reporter": "lrudbot", "AbuseType": "malware", "UUID": "1d72b01e8a6e470e93e818e917759562"}
