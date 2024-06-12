@@ -6,9 +6,14 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-12 04:00:01 UTC
+# UPDATE: 2024-06-12 05:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+160395, 2024-06-12 04:50:13, 2024-06-12 04:50:13, phishing, 07e3dffd19ca56791c36fd5179506fb9, http://telegram-tt-7nj.pages.dev
+160394, 2024-06-12 04:46:11, 2024-06-12 04:46:11, phishing, b8afa8f53f30f9f2061e72b745ad0e8f, http://redirectsakri87nguwelits.pages.dev
+160393, 2024-06-12 04:24:12, 2024-06-12 04:24:12, phishing, eaef9bcbd96e78dacc9107bfa135fc8e, http://onlycam-7p2.pages.dev
+160392, 2024-06-12 04:06:10, 2024-06-12 04:06:10, phishing, bf7b35e73e9d93013fa77a01b02eac50, http://arh.pages.dev
+160391, 2024-06-12 04:02:10, 2024-06-12 04:02:10, phishing, d5318fa4ad61d11f6befa0bf9a5e0ae5, https://fvpn.zzyehtet.workers.dev/
 160390, 2024-06-12 03:58:17, 2024-06-12 03:58:17, phishing, 7a3fe66374917565aa6817cba87f8793, http://connectdapps-acs.pages.dev
 160389, 2024-06-12 03:58:13, 2024-06-12 03:58:13, phishing, 6b59ce7fd2143b67f0fb0db41dd20007, http://gjsoiuehgdugenlsdisjhewas03.pages.dev
 160388, 2024-06-12 03:54:15, 2024-06-12 03:54:15, phishing, 40c91f8dfe30f83f08b9ffcfda775db7, http://deswafthyf.z7ai.com
@@ -504,8 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 159898, 2024-06-11 11:22:20, 2024-06-11 11:22:20, malware, 63c0be2dedaa45d486fcbd720c22345f, http://117.242.201.151:57579/i
 159897, 2024-06-11 11:21:48, 2024-06-11 11:21:48, malware, 9557f3ba17ba43a384ceef19d4ba5725, http://117.219.95.148:38739/bin.sh
 159896, 2024-06-11 11:21:27, 2024-06-11 11:21:27, malware, 7456f2044ae54affbc3c7ee51a4610a8, http://117.204.203.87:39992/i
-159895, 2024-06-11 11:20:36, 2024-06-11 11:20:36, malware, 326ec4f849bb4989aa80c683ebafbeeb, http://115.63.8.175:51496/bin.sh
-159894, 2024-06-11 11:20:34, 2024-06-11 11:20:34, malware, 85d019e4cb0b40b2a919ee750cd1132c, http://115.57.167.27:39479/i
-159893, 2024-06-11 11:20:32, 2024-06-11 11:20:32, malware, be80e9fe51eb412ea32c949ebde79971, http://115.56.4.240:51791/bin.sh
-159892, 2024-06-11 11:20:21, 2024-06-11 11:20:21, malware, 2a85dd5459de4248933659190273f5d7, http://115.55.57.77:56053/i
-159891, 2024-06-11 11:20:19, 2024-06-11 11:20:19, malware, 2673ae9f5c0c40bb8e0d76197009c116, http://115.48.15.192:37291/bin.sh
