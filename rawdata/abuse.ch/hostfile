@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-06-13 14:36:18 UTC                        #
+# Last updated: 2024-06-13 16:37:19 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	license-reception.gl.at.ply.gg
 127.0.0.1	app-login.top
 127.0.0.1	hw2.chintelecom.com.cn
 127.0.0.1	newmarketofficecleaning.com
@@ -12354,5 +12355,4 @@
 127.0.0.1	ns1.mylcyz.top
 127.0.0.1	dy.vvvvvbeng.com
 127.0.0.1	maufusjiop.com
-127.0.0.1	monitor-websystem.net
 # Number of entries: 12349
