@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-13 22:00:01 UTC
+# UPDATE: 2024-06-13 23:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+162458, 2024-06-13 22:00:21, 2024-06-13 22:00:21, phishing, fbf5aeb17ff773106ac90cdfe37cdd33, https://evrotelegram.ru/
 162457, 2024-06-13 21:26:30, 2024-06-13 21:26:30, malware, df15084b4ddd4f9882a32b86005a1a5f, http://95.135.156.155:49112/Mozi.m
 162456, 2024-06-13 21:26:29, 2024-06-13 21:26:29, malware, 300864b28e8f4714a13a2c29617b57e3, http://70.112.115.107:49914/i
 162455, 2024-06-13 21:26:27, 2024-06-13 21:26:27, malware, 38c901bcbab047bfb5d579696ded7728, http://70.112.115.107:49914/bin.sh
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 161961, 2024-06-13 11:22:49, 2024-06-13 11:22:49, malware, a27ce7b517f94effb2ced800869f6a07, http://42.232.210.233:44837/i
 161960, 2024-06-13 11:22:47, 2024-06-13 11:22:47, malware, c5acc861128b459bb0fc00be363c6c56, http://42.229.176.102:43508/i
 161959, 2024-06-13 11:22:46, 2024-06-13 11:22:46, malware, b8a23e62b5a843babae0a39a8ce8b4e3, http://42.229.176.102:43508/bin.sh
-161958, 2024-06-13 11:22:44, 2024-06-13 11:22:44, malware, e879bd884175422ea91651d5ca91d281, http://27.193.60.117:51438/i
