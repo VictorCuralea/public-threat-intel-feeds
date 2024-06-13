@@ -6,9 +6,16 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-13 18:00:01 UTC
+# UPDATE: 2024-06-13 19:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+162347, 2024-06-13 18:54:36, 2024-06-13 18:54:36, phishing, 42b3cffc3f15a3cf7fbbfb54e87fd7b5, https://ytryutrytr.weeblysite.com
+162346, 2024-06-13 18:54:12, 2024-06-13 18:40:13, phishing, db7d3b9832db2eb453de847bb3a868a3, https://www.dropbox.com/scl/fi/g69bu5gosh3el7t6t7fxt/No-Response_Broadband.paper?rlkey=k07kb7nv6au2pxcvprpxpehsu
+162345, 2024-06-13 18:51:42, 2024-06-13 18:51:42, phishing, e857af04df67b1afd56760106cf39aed, https://carmelitaplum.wixsite.com/my-site-1
+162344, 2024-06-13 18:51:13, 2024-06-13 18:04:12, phishing, eaf4be55d100ac4041c11da55099be63, https://odesli.co/qd3wswzdvcnrv
+162343, 2024-06-13 18:46:15, 2024-06-13 18:46:15, phishing, 49e92bf409be31749134f5449582f1a5, http://dappprotocol-bsn.pages.dev
+162342, 2024-06-13 18:36:17, 2024-06-13 18:36:17, phishing, 592786b921cf653f40223ea7cec221aa, http://earningconvi.pages.dev
+162341, 2024-06-13 18:26:12, 2024-06-13 18:26:12, phishing, 5a49c66a9ac23619233a01856d3f87f4, http://web-dappconnect.pages.dev
 162340, 2024-06-13 17:58:24, 2024-06-13 17:58:24, phishing, 6171752083f4050c905b52a0a8e5e156, http://teiegam.xyz
 162339, 2024-06-13 17:56:20, 2024-06-13 17:56:20, phishing, a635eb80d2eae1ed7aaeb9f158497eff, http://teieargm.xyz
 162338, 2024-06-13 17:56:15, 2024-06-13 17:56:15, phishing, 20bfda57181a71009a0aa85898c99514, https://keepo.io/talktalkadminsupport
@@ -502,10 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 161850, 2024-06-13 09:25:25, 2024-06-13 09:25:25, malware, 7da7fb65943541899169d70d847f1791, http://123.5.164.228:40965/i
 161849, 2024-06-13 09:25:23, 2024-06-13 09:25:23, malware, 0c83ab903b88404f816c05db38efb759, http://123.5.164.228:40965/bin.sh
 161848, 2024-06-13 09:25:21, 2024-06-13 09:25:21, malware, baddbd48a77248a8aab6f6a806aca260, http://123.14.213.136:59929/bin.sh
-161847, 2024-06-13 09:25:19, 2024-06-13 09:25:19, malware, 114745fac05c4ebe9dca9877a8142290, http://123.11.218.191:48913/i
-161846, 2024-06-13 09:25:18, 2024-06-13 09:25:18, malware, 79d5439a21ff433198edcf368d983951, http://123.11.218.191:48913/bin.sh
-161845, 2024-06-13 09:24:57, 2024-06-13 09:24:57, malware, 4f82c4cc0462457bbb7b0bd422af9cbe, http://117.252.199.139:33351/i
-161844, 2024-06-13 09:24:55, 2024-06-13 09:24:55, malware, 44d43098cfb3423ab852b5d6584df5a6, http://117.248.51.166:45636/i
-161843, 2024-06-13 09:24:52, 2024-06-13 09:24:52, malware, da4da36b665544aba874d6bd5e8c4d3f, http://117.248.51.166:45636/bin.sh
-161842, 2024-06-13 09:24:49, 2024-06-13 09:24:49, malware, 6878bbf78fc74512b7b5265edeffa82b, http://117.248.43.66:55580/bin.sh
-161841, 2024-06-13 09:24:47, 2024-06-13 09:24:47, malware, 26c5ed7d49ce44eb9f5779d73cdaeb2b, http://117.245.40.213:52232/i
