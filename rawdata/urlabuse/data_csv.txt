@@ -6,9 +6,15 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-13 12:00:01 UTC
+# UPDATE: 2024-06-13 13:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+161983, 2024-06-13 12:59:28, 2024-06-13 12:59:28, phishing, 93699db83cc9f19b14ecd41800aaf660, http://zroxxjs.com
+161982, 2024-06-13 12:52:12, 2024-06-13 12:52:12, phishing, 7f97899612688f8bdf737fe116ef7850, http://domainhostinghosstingserviceshostingneeded04.pages.dev
+161981, 2024-06-13 12:18:18, 2024-06-13 12:18:18, phishing, 58c784de438476184aeda0b9142fcd56, http://resolverspanel-af7.pages.dev
+161980, 2024-06-13 12:16:10, 2024-06-13 12:16:10, phishing, e4fb1789d19f2068fccfcf3459bcbe93, http://e-mobiladelerim-iadatlariadegovtr.com
+161979, 2024-06-13 12:10:16, 2024-06-13 12:10:16, phishing, b6eb31777e3cb03e62f511ec150b2981, http://smartpanelhash.pages.dev
+161978, 2024-06-13 12:00:17, 2024-06-13 12:00:17, phishing, a57c196c7352613d3e33cf9e133d1735, http://cloudpaneltech.pages.dev
 161977, 2024-06-13 11:58:16, 2024-06-13 11:58:16, phishing, 8d203bdd322c4867ba1f12042ab40fd0, http://guardianresolverpanel.pages.dev
 161976, 2024-06-13 11:54:10, 2024-06-13 11:54:10, phishing, 7367bf2fd4368822383662071a66adb4, http://rsgrty1.pages.dev
 161975, 2024-06-13 11:42:17, 2024-06-13 11:42:17, phishing, 89347a0897b684d2852d62946f8a867f, http://swiftunibaseloom.pages.dev
@@ -503,9 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 161486, 2024-06-13 05:28:44, 2024-06-13 05:28:44, malware, a9fd8034f75d416b885c072ad463a697, http://42.224.3.224:43680/bin.sh
 161485, 2024-06-13 05:28:42, 2024-06-13 05:28:42, malware, acb68ea548894744a6e35ddf10f02c70, http://42.224.3.224:43680/
 161484, 2024-06-13 05:28:41, 2024-06-13 05:28:41, malware, 1c480453b29e49a19bde77ce5756b3dc, http://27.220.93.56:40069/i
-161483, 2024-06-13 05:28:39, 2024-06-13 05:28:39, malware, dcc5a8558fc04b9b84b4a4da601049dd, http://27.220.93.56:40069/bin.sh
-161482, 2024-06-13 05:28:38, 2024-06-13 05:28:38, malware, 134e0e21b154430ebf328d97ee69052d, http://27.209.158.2:47662/i
-161481, 2024-06-13 05:28:36, 2024-06-13 05:28:36, malware, 0fd383c798154f9a96f089ce03c478b0, http://222.142.255.194:35180/bin.sh
-161480, 2024-06-13 05:28:34, 2024-06-13 05:28:34, malware, f2e731c540dc4b67b8348bb7f16c9bc8, http://222.142.255.194:35180/
-161479, 2024-06-13 05:28:33, 2024-06-13 05:28:33, malware, 61e9fd29f7aa44f2af69d81cfdffa462, http://222.141.103.248:59534/bin.sh
-161478, 2024-06-13 05:28:31, 2024-06-13 05:28:31, malware, eda8ea9051af42278029496e5361166f, http://222.140.180.139:53179/bin.sh
