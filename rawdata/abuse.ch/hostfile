@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-06-13 12:59:39 UTC                        #
+# Last updated: 2024-06-13 14:36:18 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	app-login.top
 127.0.0.1	hw2.chintelecom.com.cn
 127.0.0.1	newmarketofficecleaning.com
 127.0.0.1	duckduck2021.duckdns.org
@@ -12369,4 +12370,4 @@
 127.0.0.1	stupefied-banach.91-215-85-177.plesk.page
 127.0.0.1	static.11.254.76.144.clients.your-server.de
 127.0.0.1	www.hongtong502.cn
-# Number of entries: 12363
+# Number of entries: 12364
