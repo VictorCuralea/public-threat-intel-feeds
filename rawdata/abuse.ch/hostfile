@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-06-13 16:37:19 UTC                        #
+# Last updated: 2024-06-13 17:21:40 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	shaderify.xyz
+127.0.0.1	bettershaders.com
+127.0.0.1	shaderify.com
 127.0.0.1	license-reception.gl.at.ply.gg
 127.0.0.1	app-login.top
 127.0.0.1	hw2.chintelecom.com.cn
@@ -12355,4 +12358,4 @@
 127.0.0.1	ns1.mylcyz.top
 127.0.0.1	dy.vvvvvbeng.com
 127.0.0.1	maufusjiop.com
-# Number of entries: 12349
+# Number of entries: 12352
