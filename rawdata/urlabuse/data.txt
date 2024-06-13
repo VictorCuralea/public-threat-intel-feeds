@@ -6,8 +6,16 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-13 04:00:01 UTC
+# UPDATE: 2024-06-13 05:00:02 UTC
 ############### END COMMENTS ###############
+{"id": 161399, "url": "http://we3nurelamec.pages.dev", "discovery": "2024-06-13 04:56:15", "added": "2024-06-13 04:56:15", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "07b733c9c2e5647483135ae4fa5c4b74"}
+{"id": 161398, "url": "http://unibasedirectoryslp.pages.dev", "discovery": "2024-06-13 04:42:16", "added": "2024-06-13 04:42:16", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "d5cc2f5eea489799aa03524686a46aa1"}
+{"id": 161397, "url": "http://web.telegrcmc.com/", "discovery": "2024-06-13 04:06:25", "added": "2024-06-13 04:06:25", "target": "Telegram", "reporter": "lruray", "AbuseType": "phishing", "UUID": "692f128026eaba49b73892d1c7067161"}
+{"id": 161396, "url": "http://web.telegormn.com/", "discovery": "2024-06-13 04:06:24", "added": "2024-06-13 04:06:24", "target": "Telegram", "reporter": "lruray", "AbuseType": "phishing", "UUID": "deb2ef48e2bd138cca5f69115fea44be"}
+{"id": 161395, "url": "http://jrz23.pages.dev", "discovery": "2024-06-13 04:06:12", "added": "2024-06-13 04:06:12", "target": "Amazon", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "b1cc499916eded31a52e0d980b26db94"}
+{"id": 161394, "url": "http://web.telegorme.com/", "discovery": "2024-06-13 04:03:30", "added": "2024-06-13 04:03:30", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "67d58d76e38b899669a2cf2a3e18b051"}
+{"id": 161393, "url": "https://usc1.contabostorage.com/800b5b473f16497d8a6dfdd1f27b1eb0:oj3z1hkky/oj3z1hkky.html", "discovery": "2024-06-13 04:03:07", "added": "2024-06-13 04:03:07", "target": "Microsoft", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "d99d505564de64f6b978ef4a321bebd8"}
+{"id": 161392, "url": "https://www.podlines.net/wp-includes/js/mediaelement/renderers/mail.php", "discovery": "2024-06-13 04:02:27", "added": "2024-06-13 04:02:27", "target": "Microsoft", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "265c4be3a6b87732580d9c50d2edd22a"}
 {"id": 161391, "url": "http://61.53.81.153:38172/bin.sh", "discovery": "2024-06-13 03:34:07", "added": "2024-06-13 03:34:07", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "b9398837cce6421da4aed428f883bfe5"}
 {"id": 161390, "url": "http://61.52.48.220:58446/i", "discovery": "2024-06-13 03:34:05", "added": "2024-06-13 03:34:05", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "6dd998730aa04299a4d5e46f9a993c2d"}
 {"id": 161389, "url": "http://61.52.48.220:58446/", "discovery": "2024-06-13 03:34:04", "added": "2024-06-13 03:34:04", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "a9d01a722b9446e7b9efcfbf2b03146d"}
@@ -500,11 +508,3 @@
 {"id": 160902, "url": "http://imtoken-rh.top", "discovery": "2024-06-12 17:02:18", "added": "2024-06-12 17:02:18", "target": "imToken", "reporter": "lruray", "AbuseType": "phishing", "UUID": "6c8022d4cf0af4bb147e517be48bf354"}
 {"id": 160901, "url": "http://imtoken-rg.top", "discovery": "2024-06-12 17:02:14", "added": "2024-06-12 17:02:14", "target": "imToken", "reporter": "lruray", "AbuseType": "phishing", "UUID": "dc48f12ad6b60c3d65268767317a3910"}
 {"id": 160900, "url": "http://imtoken-re.top", "discovery": "2024-06-12 17:02:12", "added": "2024-06-12 17:02:12", "target": "imToken", "reporter": "lruray", "AbuseType": "phishing", "UUID": "285f3b764827886091a3cdae1f09655d"}
-{"id": 160899, "url": "http://imtoken-ro.top", "discovery": "2024-06-12 17:02:09", "added": "2024-06-12 17:02:09", "target": "imToken", "reporter": "lruray", "AbuseType": "phishing", "UUID": "bd34c034c2b43715a8b7aff7d8f50a69"}
-{"id": 160898, "url": "http://imtoken-rp.top", "discovery": "2024-06-12 17:02:07", "added": "2024-06-12 17:02:07", "target": "imToken", "reporter": "lruray", "AbuseType": "phishing", "UUID": "a1d3c44d79a3cab9adcc96bad899088f"}
-{"id": 160897, "url": "http://imtoken-rn.top", "discovery": "2024-06-12 17:02:01", "added": "2024-06-12 17:02:01", "target": "imToken", "reporter": "lruray", "AbuseType": "phishing", "UUID": "099964aa68f86be65deb39689250da80"}
-{"id": 160896, "url": "http://imtoken-ra.top", "discovery": "2024-06-12 17:01:58", "added": "2024-06-12 17:01:58", "target": "imToken", "reporter": "lruray", "AbuseType": "phishing", "UUID": "af340e072f5e85d5047e04cc5260492e"}
-{"id": 160895, "url": "http://imtoken-nq.top", "discovery": "2024-06-12 17:01:57", "added": "2024-06-12 17:01:57", "target": "imToken", "reporter": "lruray", "AbuseType": "phishing", "UUID": "c602fb8387bb23165b9e25e94750757c"}
-{"id": 160894, "url": "http://imtoken-nz.top", "discovery": "2024-06-12 17:01:49", "added": "2024-06-12 17:01:49", "target": "imToken", "reporter": "lruray", "AbuseType": "phishing", "UUID": "3bcbbca76a0b3bde3806be6ac9a4ab11"}
-{"id": 160893, "url": "http://imtoken-lr.top", "discovery": "2024-06-12 17:01:45", "added": "2024-06-12 17:01:45", "target": "imToken", "reporter": "lruray", "AbuseType": "phishing", "UUID": "583e714a2386715c5e5cecbcd788e504"}
-{"id": 160892, "url": "http://imtoken-rw.top", "discovery": "2024-06-12 17:01:42", "added": "2024-06-12 17:01:42", "target": "imToken", "reporter": "lruray", "AbuseType": "phishing", "UUID": "fa02f8f427153c1ad75afedb9ddca0b0"}
