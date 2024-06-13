@@ -7,6 +7,4 @@
 ################################################################
 #
 # "first_seen_utc","ioc_id","ioc_value","ioc_type","threat_type","fk_malware","malware_alias","malware_printable","last_seen_utc","confidence_level","reference","tags","anonymous","reporter"
-"2024-06-11 15:51:55", "1283818", "673e868cb19ea890ef69957e11d08b95d761957623c36a5e3396804e7685bb44", "sha256_hash", "payload", "unknown", "None", "Unknown malware", "", "100", "", "KoiLoader", "0", "NDA0E"
-"2024-06-11 15:51:38", "1283800", "993b27eb1194b953d2e9f83a19446241d75cadf11f11a126be273e4aba40e159", "sha256_hash", "payload", "jar.qrat", "Quaverse RAT", "QRat", "", "100", "", "qrat,Quaverse,Quaverse RAT,QuaverseRAT", "0", "NDA0E"
-# Number of entries: 2
+# Number of entries: 0
