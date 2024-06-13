@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-06-13 07:34:46 UTC                        #
+# Last updated: 2024-06-13 08:29:20 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	web.windowsupdate.shop
+127.0.0.1	liolio.cn
 127.0.0.1	sportsmensgifts.com
 127.0.0.1	tourbigs.com
 127.0.0.1	bsrc.baidusec.top
@@ -12358,4 +12360,4 @@
 127.0.0.1	orionparti.com
 127.0.0.1	limperus.com
 127.0.0.1	api.speech-microsoft.com
-# Number of entries: 12352
+# Number of entries: 12354
