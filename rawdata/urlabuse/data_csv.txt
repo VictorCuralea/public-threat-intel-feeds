@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-14 22:00:01 UTC
+# UPDATE: 2024-06-14 23:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+163605, 2024-06-14 22:02:11, 2024-06-14 22:02:11, phishing, 4b6ee7086a0d32b51e40652583e3c6cb, https://telegram-grill-group.pages.dev/
 163604, 2024-06-14 21:46:13, 2024-06-14 21:46:13, phishing, 7878110f8675ac0f93f55d9ae6d9bf12, http://we-isy.pages.dev
 163603, 2024-06-14 21:27:12, 2024-06-14 21:27:12, malware, 8bac246d6846494e82bfe2edc913788f, http://93.123.85.128/Aqua.x86_64
 163602, 2024-06-14 21:27:12, 2024-06-14 21:27:12, malware, 807438e3975444d08c33b029bcf20d0d, http://93.123.85.128/Aqua.spc
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 163107, 2024-06-14 11:25:49, 2024-06-14 11:25:49, malware, 9bb62872b5dc47cc9c8d0db03db73fd4, http://117.220.150.154:51511/bin.sh
 163106, 2024-06-14 11:24:52, 2024-06-14 11:24:52, malware, 382688c6347c432fb79a664582e90852, http://117.215.129.142:44404/bin.sh
 163105, 2024-06-14 11:24:39, 2024-06-14 11:24:39, malware, 84e829b928904e6e9190830b20cf19e3, http://117.213.114.12:44409/i
-163104, 2024-06-14 11:24:38, 2024-06-14 11:24:38, malware, eee8950a6a88478fa517147409edf449, http://117.213.112.125:39810/i
