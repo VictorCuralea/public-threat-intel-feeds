@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-06-14 06:58:36 UTC                        #
+# Last updated: 2024-06-14 08:35:56 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	www.nbch1na.com
+127.0.0.1	www.deerllt.store
+127.0.0.1	www-deer.deerllt.store
+127.0.0.1	jkbs168.top
+127.0.0.1	api.chinaunion.info
 127.0.0.1	mnbvcxz.biz
 127.0.0.1	businessresources.ltd
 127.0.0.1	x52op6gt0i.xyz
@@ -12361,4 +12366,4 @@
 127.0.0.1	ns2.mylcyz.top
 127.0.0.1	ns1.mylcyz.top
 127.0.0.1	dy.vvvvvbeng.com
-# Number of entries: 12355
+# Number of entries: 12360
