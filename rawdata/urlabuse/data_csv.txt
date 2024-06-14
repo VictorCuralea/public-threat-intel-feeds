@@ -6,9 +6,16 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-14 18:00:01 UTC
+# UPDATE: 2024-06-14 19:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+163485, 2024-06-14 18:38:15, 2024-06-14 18:38:15, phishing, 37d5a679bb90ba7bc47e197b37580c78, http://sms-monespace-en-ligne.fr
+163484, 2024-06-14 18:28:12, 2024-06-14 18:28:12, phishing, 948de1c2f2cd5b1c5ef58ca6c37eb12a, http://rojdingserijridhsjbalsisgser2.pages.dev
+163483, 2024-06-14 18:20:13, 2024-06-14 17:54:18, phishing, b8178a51241cb00913cbc561a9d7a484, https://pgr.goc.mybluehost.me/wp-includes/css/s1/spp/login/?token=
+163482, 2024-06-14 18:19:55, 2024-06-14 17:54:10, phishing, ec668af82f6111ffc99dfa9d1fb010c9, https://ivcjournal.com/.tmb/16shop/?p=fzEPq
+163481, 2024-06-14 18:18:15, 2024-06-14 18:18:15, phishing, fcbc82fd902d8e563810e66d08d54c21, https://olivine-geode-arrow.glitch.me/
+163480, 2024-06-14 18:14:15, 2024-06-14 18:14:15, phishing, 62b1eeeefafe2f507eb995f172343351, https://rechnblue-maconfirm.codeanyapp.com/blue-dv/clients/username.php
+163479, 2024-06-14 18:12:17, 2024-06-14 18:12:17, phishing, 99f1a90a146facaa97de2a7cbe3a5307, https://anardana.in/js/
 163478, 2024-06-14 17:58:14, 2024-06-14 17:58:14, phishing, bb4039706a147f9ffeb088c618abee8c, https://cleanparcel.com/adm/
 163477, 2024-06-14 17:56:17, 2024-06-14 17:56:17, phishing, fd32213bb2790904f459620f4b26c58d, https://sip.uniquecoin.net/6
 163476, 2024-06-14 17:56:13, 2024-06-14 17:56:13, phishing, f2d9cefa59086504a9da99fe28226260, https://lonedzb.blogspot.com/
@@ -502,10 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 162987, 2024-06-14 09:08:13, 2024-06-14 09:08:13, malware, 99f0949baf2e4c33a38ea6027d4e91a5, http://66.187.6.155/spc
 162986, 2024-06-14 09:08:11, 2024-06-14 09:08:11, malware, 03cbca70f93d4adb90c924692ae2d40f, http://66.187.6.155/sh4
 162985, 2024-06-14 09:08:08, 2024-06-14 09:08:08, malware, 7bdcddd8973f4a22a7572bb1dbd07a41, http://66.187.6.155/ppc
-162984, 2024-06-14 09:08:06, 2024-06-14 09:08:06, malware, 11b99f6331ca4869acf79be375c8f53c, http://66.187.6.155/mpsl
-162983, 2024-06-14 09:08:02, 2024-06-14 09:08:02, malware, d303a3eafc2a4f3eafc13b9c9e7b8098, http://66.187.6.155/mips
-162982, 2024-06-14 09:08:00, 2024-06-14 09:08:00, malware, 90eedb2d291b48f99091e4968b0ffd0e, http://66.187.6.155/m68k
-162981, 2024-06-14 09:07:58, 2024-06-14 09:07:58, malware, f8d1b4df7953426e881e56e565b76a08, http://66.187.6.155/i6
-162980, 2024-06-14 09:07:56, 2024-06-14 09:07:56, malware, 0ed2899d1de54f109c2051315f9c368e, http://66.187.6.155/i5
-162979, 2024-06-14 09:07:55, 2024-06-14 09:07:55, malware, 3fcb2c8158034a16ad58fdfb885d0906, http://66.187.6.155/goa/ppc
-162978, 2024-06-14 09:07:54, 2024-06-14 09:07:54, malware, 80ef3ad4a0504946a2b6ad1aac320610, http://66.187.6.155/goa/mpsl
