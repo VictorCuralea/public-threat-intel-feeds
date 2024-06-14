@@ -6,9 +6,24 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-14 04:00:01 UTC
+# UPDATE: 2024-06-14 05:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+162675, 2024-06-14 04:30:18, 2024-06-14 04:30:18, phishing, ddfc7fd9342bfc2bfefa4c439bdc5cd9, http://telegram-ci.icu
+162674, 2024-06-14 04:12:12, 2024-06-14 04:12:12, phishing, 3f527fb12ef4c16ef0e03d9986c17a57, http://0ijhgfjokjhgfhjo00iugftyhjoiuhgcxse42wsaaqwsdfgtredsdcvbgt.pages.dev
+162673, 2024-06-14 04:05:28, 2024-06-14 04:05:28, phishing, 20da7065bd167010cf840ab5e9153da3, http://m.1336kr4g.com/
+162672, 2024-06-14 04:04:56, 2024-06-14 04:04:56, phishing, 74d5e4d336909a801d9c648b3d1e53f2, http://www.www-bt006.com/
+162671, 2024-06-14 04:04:54, 2024-06-14 04:04:54, phishing, 6f9648720c4fbacaea79cc36c7e1ccf0, https://7365a6.com/
+162670, 2024-06-14 04:04:29, 2024-06-14 04:04:29, phishing, 6ace2238d193da9822a1331c367cc236, https://blog.clinicadaempresa.com.br/ailo.html
+162669, 2024-06-14 04:04:24, 2024-06-14 04:04:24, phishing, 52a61c4ef29f7d313207bf4b273b0dca, https://cms-sim.pt/wsl/office-3D8/index.php
+162668, 2024-06-14 04:04:19, 2024-06-14 04:04:19, phishing, 77608238c058ae4dfd16cecfc2411a77, https://hello-world-empty-dust-569a.holdenlee247.workers.dev/
+162667, 2024-06-14 04:03:23, 2024-06-14 04:03:23, phishing, 201f84b49ff2b42269f4d81dd2d09846, http://vps24605.hosted-by-eurohoster.org/
+162666, 2024-06-14 04:03:15, 2024-06-14 04:03:15, phishing, da33dcf0234260b93bed558acaa38b8f, https://tg-ivanov.ru/
+162665, 2024-06-14 04:02:59, 2024-06-14 04:02:59, phishing, f4a4cf52f70d694216455759c160bca1, http://tw-dj0.pages.dev/
+162664, 2024-06-14 04:02:32, 2024-06-14 04:02:32, phishing, 2d62ede87df6c4b24831cfb294d739a0, http://pewma.shop/
+162663, 2024-06-14 04:02:30, 2024-06-14 04:02:30, phishing, 9d962314e6db5757315e3e2fe56e5b27, https://r3na3.shop/
+162662, 2024-06-14 04:02:26, 2024-06-14 04:02:26, phishing, 423190da117656c5c84fcc6f5a4abdb0, https://www.3a6b5ck.cc:8989/mobile-client/bet365_627/index.html?td_channelid=627
+162661, 2024-06-14 04:02:25, 2024-06-14 04:02:25, phishing, 075f74135a2185784bab7e72ead3a57e, http://resero.shop/
 162660, 2024-06-14 03:24:39, 2024-06-14 03:24:39, malware, 9d622eb8a47646e49fb907d8631d8c7a, http://59.95.122.25:43508/i
 162659, 2024-06-14 03:24:37, 2024-06-14 03:24:37, malware, 95db20831b1f43e6ac919e46f9709f2d, http://59.93.183.198:39202/bin.sh
 162658, 2024-06-14 03:24:10, 2024-06-14 03:24:10, malware, 10f9d3936d38477fbb206ec77c235dfd, http://59.183.127.252:47774/Mozi.m
@@ -494,18 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 162178, 2024-06-13 14:07:08, 2024-06-13 14:07:08, hacked, ad41bf5a837a0b87e94f48a99642f71f, http://he.hrelectromecanicos.com/
 162177, 2024-06-13 14:07:06, 2024-06-13 14:07:06, hacked, b05e2aebeddd5eda7d464859814a667c, http://shou.hrelectromecanicos.com/
 162176, 2024-06-13 14:07:04, 2024-06-13 14:07:04, hacked, 23ecce2d03cd10bb79dc54ae1ae31687, http://meng.hrelectromecanicos.com/
-162175, 2024-06-13 14:07:02, 2024-06-13 14:07:02, hacked, 7f80ff69282bb69ba55631422977d3ca, http://mei.hrelectromecanicos.com/
-162174, 2024-06-13 14:07:00, 2024-06-13 14:07:00, hacked, ea8a33bce754e393b6194d0bcaab4e80, http://sou.hrelectromecanicos.com/
-162173, 2024-06-13 14:06:58, 2024-06-13 14:06:58, hacked, c90c242bac2ad2f92d77c72744a1b5df, http://ya.hrelectromecanicos.com/
-162172, 2024-06-13 14:06:56, 2024-06-13 14:06:56, hacked, 3b2407fa903cf40a1fdcf81f8ca526bc, http://cheng.hrelectromecanicos.com/
-162171, 2024-06-13 14:06:52, 2024-06-13 14:06:52, hacked, dcaef2f9cdc5e9db1d6bea29b2f814ba, http://wei.hrelectromecanicos.com/
-162170, 2024-06-13 14:06:52, 2024-06-13 14:06:52, hacked, cc5c00cc0ed926ef2e5d0fa8a666e8a0, http://chi.hrelectromecanicos.com/
-162169, 2024-06-13 14:06:50, 2024-06-13 14:06:50, hacked, 372c3647f831df836d46d7e871be0952, http://cong.hrelectromecanicos.com/
-162168, 2024-06-13 14:06:46, 2024-06-13 14:06:46, hacked, 4b19f53607e92c472f5602d1fb1a9412, http://ben.hrelectromecanicos.com/
-162167, 2024-06-13 14:06:44, 2024-06-13 14:06:44, hacked, 077104022d2fdb1f51d1189335103ef7, http://tu.hrelectromecanicos.com/
-162166, 2024-06-13 14:06:42, 2024-06-13 14:06:42, hacked, 0c31568e590f127e910ebb3f091a25e4, http://slotlakocan.albasheerstudio.com/
-162165, 2024-06-13 14:06:42, 2024-06-13 14:06:42, hacked, 7ecb48e42b3b28e69fd97e6b041fd5ed, http://ji.hrelectromecanicos.com/
-162164, 2024-06-13 14:06:38, 2024-06-13 14:06:38, hacked, 396b20a1981f197d8a72753e7ebebb88, http://zi.albasheerstudio.com
-162163, 2024-06-13 14:06:36, 2024-06-13 14:06:36, hacked, 8ec0a78fe92231f22cf59825f7933a10, http://yan.albasheerstudio.com
-162162, 2024-06-13 14:06:34, 2024-06-13 14:06:34, hacked, 0c6074a58525b4747bd68615fcfec1ae, http://wei.albasheerstudio.com
-162161, 2024-06-13 14:06:32, 2024-06-13 14:06:32, hacked, 88d9c6c81c2b15890c3078b193bf0e63, http://qiao.albasheerstudio.com
