@@ -1,10 +1,33 @@
 ################################################################
 # ThreatFox IOCs: recent SHA256 hashes - CSV format            #
-# Last updated: 2024-06-11 15:51:55 UTC                        #
+# Last updated: 2024-06-14 13:55:01 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
 # "first_seen_utc","ioc_id","ioc_value","ioc_type","threat_type","fk_malware","malware_alias","malware_printable","last_seen_utc","confidence_level","reference","tags","anonymous","reporter"
-# Number of entries: 0
+"2024-06-14 13:55:09", "1284694", "4be72afbf3756425054a3ce05e54917e4d36b21de86c003b71f2786e4ff48a2e", "sha256_hash", "payload", "win.formbook", "win.xloader", "Formbook", "", "95", "None", "None", "0", "Grim"
+"2024-06-14 13:55:01", "1284691", "0e9ff8f28de14c3befd4844e4f5f38e99cc9b5f69cda11efcdf42068f345f33b", "sha256_hash", "payload", "win.dcrat", "DarkCrystal RAT", "DCRat", "", "95", "None", "None", "0", "Grim"
+"2024-06-14 13:54:56", "1284688", "bd8057af228eb7494ff3b6988f70a9785c4e686caaf3a2bcf641b3f02c101567", "sha256_hash", "payload", "win.formbook", "win.xloader", "Formbook", "", "95", "None", "None", "0", "Grim"
+"2024-06-14 13:54:51", "1284685", "76ef6a87b0778c794c0273fa7e969754d3cb9dc5d9fcf5a1f442d9d1dad076d5", "sha256_hash", "payload", "win.agent_tesla", "AgenTesla,AgentTesla,Negasteal", "Agent Tesla", "", "95", "None", "None", "0", "Grim"
+"2024-06-14 13:54:47", "1284682", "5496d968b378eef69af5eb89159bc728b8ad9e395e42c74f788a4b7a8ec8a7bd", "sha256_hash", "payload", "win.tofsee", "Gheg", "Tofsee", "", "95", "None", "None", "0", "Grim"
+"2024-06-14 13:54:42", "1284679", "2849878b8913c66392f6202039c1d38e2b7061daec60947671795f1e1cd63db5", "sha256_hash", "payload", "win.dcrat", "DarkCrystal RAT", "DCRat", "", "95", "None", "None", "0", "Grim"
+"2024-06-14 13:54:37", "1284676", "d6cd4e5d3aa3539c6d601ea2212bba4b5c1eac0db706e2056df32c1d52b414da", "sha256_hash", "payload", "win.formbook", "win.xloader", "Formbook", "", "95", "None", "None", "0", "Grim"
+"2024-06-14 13:54:32", "1284673", "e161f822720e3cc9874f885cf96c35101cab0450af9dfd8283b4714d1b770962", "sha256_hash", "payload", "win.troystealer", "None", "troystealer", "", "95", "None", "None", "0", "Grim"
+"2024-06-14 13:54:28", "1284670", "ccba87531045163339ce7b8783011fc425a0ec99c30013061084c32ccf2196b0", "sha256_hash", "payload", "win.agent_tesla", "AgenTesla,AgentTesla,Negasteal", "Agent Tesla", "", "95", "None", "None", "0", "Grim"
+"2024-06-14 13:54:22", "1284667", "9c50ec0cfc32258d221d65dc351f828969442a3c5b6039743634c6165611e17c", "sha256_hash", "payload", "win.agent_tesla", "AgenTesla,AgentTesla,Negasteal", "Agent Tesla", "", "95", "None", "None", "0", "Grim"
+"2024-06-14 13:54:17", "1284664", "1b13ea674c6e9d6e96480e0bc22231fa8827d7d33f47798a0c647b6c92d3a9ec", "sha256_hash", "payload", "win.formbook", "win.xloader", "Formbook", "", "95", "None", "None", "0", "Grim"
+"2024-06-14 13:54:12", "1284661", "5d719aff65019b12ee0efa5fc4a4e3234476ac53431825526f281fa9fe9eaf0c", "sha256_hash", "payload", "win.formbook", "win.xloader", "Formbook", "", "95", "None", "None", "0", "Grim"
+"2024-06-14 13:54:07", "1284658", "a8b78aa0870056b9eb000f19d4aa732acd3b3657c905ca333ca772a0e9e31290", "sha256_hash", "payload", "win.sigloader", "None", "SigLoader", "", "95", "None", "None", "0", "Grim"
+"2024-06-14 13:54:01", "1284655", "69b699c8c2744d855b4c2810b422f1e789eb0af4f58e940b936583e23f9412d7", "sha256_hash", "payload", "win.redline_stealer", "RECORDSTEALER", "RedLine Stealer", "", "95", "None", "None", "0", "Grim"
+"2024-06-14 13:53:56", "1284652", "c261da2336ebea290c91a8c20400d96c81c74b3092f02f3aab6f185a3bd21683", "sha256_hash", "payload", "win.formbook", "win.xloader", "Formbook", "", "95", "None", "None", "0", "Grim"
+"2024-06-14 13:53:51", "1284649", "8b24f9264224b13cc905e35f60131be2e46b206bf3fec9e2018596eb648a37e2", "sha256_hash", "payload", "win.formbook", "win.xloader", "Formbook", "", "95", "None", "None", "0", "Grim"
+"2024-06-14 13:53:47", "1284646", "87f8454181377efe56e3f98673de0c6e6edff941175230d3dbafa41a99d1ce48", "sha256_hash", "payload", "win.remcos", "RemcosRAT,Remvio,Socmer", "Remcos", "", "95", "None", "None", "0", "Grim"
+"2024-06-14 13:53:43", "1284643", "1b1a6c5636815d8778754725578613cd8809a0b393c0104d5ead0f1f33d7f558", "sha256_hash", "payload", "win.agent_tesla", "AgenTesla,AgentTesla,Negasteal", "Agent Tesla", "", "95", "None", "None", "0", "Grim"
+"2024-06-14 13:53:39", "1284640", "b7b1e5a87a5f78858ce704e8279b24fad219b18af0bd504f922b072b52dcb675", "sha256_hash", "payload", "win.formbook", "win.xloader", "Formbook", "", "95", "None", "None", "0", "Grim"
+"2024-06-14 13:53:34", "1284637", "91688e46b195ea7475b0caedb2b18613342883cbd29886628ef12a76f621e988", "sha256_hash", "payload", "win.agent_tesla", "AgenTesla,AgentTesla,Negasteal", "Agent Tesla", "", "95", "None", "None", "0", "Grim"
+"2024-06-14 13:53:30", "1284634", "f2b46e228798888d99e7bbb9ebb00239b059a70557a58f6fe2e137f9ce9be66a", "sha256_hash", "payload", "win.agent_tesla", "AgenTesla,AgentTesla,Negasteal", "Agent Tesla", "", "95", "None", "None", "0", "Grim"
+"2024-06-14 13:53:26", "1284631", "0c80231fc3deb05acb382f3564c2ac60e3ed461d237c25f3edae5f8af39d7b08", "sha256_hash", "payload", "win.agent_tesla", "AgenTesla,AgentTesla,Negasteal", "Agent Tesla", "", "95", "None", "None", "0", "Grim"
+"2024-06-14 13:53:21", "1284628", "bc0d68c7a979e7333296b833f96d457772474d69775160e82f4bb6d5d9538b5b", "sha256_hash", "payload", "win.agent_tesla", "AgenTesla,AgentTesla,Negasteal", "Agent Tesla", "", "95", "None", "None", "0", "Grim"
+# Number of entries: 23
