@@ -6,9 +6,26 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-14 12:00:01 UTC
+# UPDATE: 2024-06-14 13:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+163199, 2024-06-14 12:58:15, 2024-06-14 12:38:20, phishing, c1a50c20b69296f9219a8d2e6d628e2c, https://sites.google.com/view/dromaxficwe
+163198, 2024-06-14 12:57:56, 2024-06-14 12:57:56, phishing, 53a671d7cf1990b3b045738d67a4b11f, https://djq.mfd.mybluehost.me/-/--/secure/spe/s/ahab/MitID/
+163197, 2024-06-14 12:56:53, 2024-06-14 12:38:13, phishing, 3c649bb082a0bcf4a668b053de1815bd, https://djq.mfd.mybluehost.me/-/--/secure/spe/s/ahab/
+163196, 2024-06-14 12:55:28, 2024-06-14 12:38:08, phishing, ff47a183147b2dd18d0bf40e02810596, https://docupub.com/docs/9640f62e-08d7-4e67-864c-ab2519324508/ret1.pdf
+163195, 2024-06-14 12:50:13, 2024-06-14 12:50:13, phishing, 9488ca492df8002614cf0f92e7a41eec, http://dmainchain.pages.dev
+163194, 2024-06-14 12:44:22, 2024-06-14 12:44:22, phishing, dc2455472e7bfcae017476137c3976de, https://xur.kwi.mybluehost.me/website_85f25302/folki/
+163193, 2024-06-14 12:42:23, 2024-06-14 12:42:23, phishing, 504e557d2a59e7908ce42e77d6075f5a, https://bsio.albertoboudlane.com/
+163192, 2024-06-14 12:40:25, 2024-06-14 12:40:25, phishing, ff6e7892994b12a701983331ae811b4f, https://prix.co.za/fil-ob/Authentication.php
+163191, 2024-06-14 12:40:14, 2024-06-14 12:40:14, phishing, 69b65f79939ee873e4f279245fb3ef37, https://orllallasmzmessorrr-f0d21a.ingress-earth.ewp.live/wp-content/plugins/baraka/index.html
+163190, 2024-06-14 12:40:13, 2024-06-14 12:40:13, phishing, d7b97273877fabecc8569240184ebc5f, https://orllallasmzmessorrr-f0d21a.ingress-earth.ewp.live/wp-content/plugins/baraka/index.html
+163189, 2024-06-14 12:38:17, 2024-06-14 12:38:17, phishing, 843d1dbfd08e5b89ad55f71868af8387, https://sites.google.com/view/bilkogi/
+163188, 2024-06-14 12:38:17, 2024-06-14 12:38:17, phishing, ef38c4b7af45fc6e24911de0e0317334, https://cuty.io/Ec3Hbc5OKoNs
+163187, 2024-06-14 12:38:13, 2024-06-14 12:38:13, phishing, 7b6e39ae2c3aa97b2b03300030202e80, https://xur.kwi.mybluehost.me/website_85f25302/folki/login/login.php?#signin
+163186, 2024-06-14 12:14:11, 2024-06-14 12:14:11, phishing, c2ab4123a3cd900d1ed2a1c97e3a8b2e, http://zaq1.pages.dev
+163185, 2024-06-14 12:08:12, 2024-06-14 12:08:12, phishing, 38e75347f27f2723a9b6c79468acf639, http://xswe3-5rp.pages.dev
+163184, 2024-06-14 12:06:11, 2024-06-14 12:06:11, phishing, 605dc81d441d5041939fa0c210bab9b6, http://r4f.pages.dev
+163183, 2024-06-14 12:02:15, 2024-06-14 12:02:15, phishing, a05d2469831c4731999f9d237190a8d4, http://createguardianresolver.pages.dev
 163182, 2024-06-14 11:51:33, 2024-06-14 11:51:33, phishing, 756221369f8e76308fb4abc311be2db0, http://oioi3.pages.dev
 163181, 2024-06-14 11:46:10, 2024-06-14 11:46:10, phishing, 03437f5167fccfbd7f40c65e26f2c93e, http://uoi4.pages.dev
 163180, 2024-06-14 11:42:13, 2024-06-14 11:42:13, phishing, f6cee471a76f9a885e5923c43d69b694, https://docs.google.com/presentation/d/e/2PACX-1vRJdYzsN_TC2BC5eEglDUIUCtvPPwcR18J9_-_ldZbZ9FBTtUhP78hYaGjSdFGv3qf6BfKOay8fwtso/pub?start=false
@@ -492,20 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 162702, 2024-06-14 05:23:04, 2024-06-14 05:23:04, malware, 281f990e91334b94904e60735e13bcc6, http://117.207.54.152:36053/bin.sh
 162701, 2024-06-14 05:23:02, 2024-06-14 05:23:02, malware, 4d3d8b348a9242df9d4b89ac15d14cb6, http://117.206.190.230:41606/bin.sh
 162700, 2024-06-14 05:22:58, 2024-06-14 05:22:58, malware, 3ae70114df674628b3009e0afcce6e26, http://117.206.181.216:41652/bin.sh
-162699, 2024-06-14 05:22:56, 2024-06-14 05:22:56, malware, b7c3628e0c38498991c7c5c408b0e920, http://117.205.60.228:48780/Mozi.m
-162698, 2024-06-14 05:22:54, 2024-06-14 05:22:54, malware, 2591e40080ae46eb95b867b10e883154, http://117.204.207.167:44466/i
-162697, 2024-06-14 05:22:52, 2024-06-14 05:22:52, malware, 45b4f798248748c3ab32e574bcde3eb6, http://117.204.206.124:38202/i
-162696, 2024-06-14 05:22:49, 2024-06-14 05:22:49, malware, 1ae1a082bc5d407db952981c6ba8eb74, http://117.204.206.124:38202/bin.sh
-162695, 2024-06-14 05:22:47, 2024-06-14 05:22:47, malware, 03a93524f45a40109338e2ea1d035728, http://117.204.205.164:50495/Mozi.m
-162694, 2024-06-14 05:22:10, 2024-06-14 05:22:10, malware, 9f8bb5682877458889147c9bf7c13735, http://117.204.202.68:54936/bin.sh
-162693, 2024-06-14 05:22:08, 2024-06-14 05:22:08, malware, 1f1501dc93da4967854bdbf47fa7d434, http://117.204.199.52:33755/Mozi.m
-162692, 2024-06-14 05:22:05, 2024-06-14 05:22:05, malware, aefed34213ce42c39e8daf6bd6563ad3, http://117.204.197.56:46462/i
-162691, 2024-06-14 05:22:03, 2024-06-14 05:22:03, malware, 0bb4d5f7866d47818eda2ccd12351008, http://117.204.196.159:40313/bin.sh
-162690, 2024-06-14 05:22:01, 2024-06-14 05:22:01, malware, 6a8648c1ae1a44869316924ad7579eaf, http://117.204.193.158:45858/i
-162689, 2024-06-14 05:21:58, 2024-06-14 05:21:58, malware, 5dbf694347d94775872e3254cf74aae1, http://117.202.152.109:45484/Mozi.m
-162688, 2024-06-14 05:21:57, 2024-06-14 05:21:57, malware, f3ab98590ccf41af9c85e020d2bd3105, http://117.201.111.60:60497/bin.sh
-162687, 2024-06-14 05:21:54, 2024-06-14 05:21:54, malware, 1494e9f60b1b4c4694de2b56d73f26fb, http://117.199.77.97:39887/Mozi.m
-162686, 2024-06-14 05:21:52, 2024-06-14 05:21:52, malware, 713a3f590a554cdd821e5256bfe86933, http://117.198.24.60:44438/i
-162685, 2024-06-14 05:21:33, 2024-06-14 05:21:33, malware, 4798a099f3f9445790af31ea42aeb84f, http://117.198.11.144:49257/Mozi.m
-162684, 2024-06-14 05:20:56, 2024-06-14 05:20:56, malware, 225f5810a94a4140b2c0c9f7e92dc601, http://115.97.195.91:43253/i
-162683, 2024-06-14 05:20:54, 2024-06-14 05:20:54, malware, c596f028cb504646897788c6676a8178, http://115.97.195.91:43253/bin.sh
