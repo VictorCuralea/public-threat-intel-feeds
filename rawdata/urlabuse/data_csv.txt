@@ -6,9 +6,16 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-14 16:00:01 UTC
+# UPDATE: 2024-06-14 17:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+163419, 2024-06-14 16:44:21, 2024-06-14 16:44:21, phishing, 501417fbae6a4edc0d9ca48db36d3c34, http://imtokem.cc
+163418, 2024-06-14 16:30:13, 2024-06-14 16:30:13, phishing, ae30fef881514d48b731cfa2f78f6ed4, http://hf-8zk.pages.dev
+163417, 2024-06-14 16:03:38, 2024-06-14 16:03:38, phishing, a845c9cddb46b72798abdba86d0ec7d3, http://www.6ajgfk0.com/
+163416, 2024-06-14 16:03:22, 2024-06-14 16:03:22, phishing, b3b9fa8e8461b0ebff978a67b6d4eae7, https://telegrema.cyou/
+163415, 2024-06-14 16:03:07, 2024-06-14 16:03:07, phishing, 6080f10b7e6c08795972dc6082b81fc3, https://keamp.shop/
+163414, 2024-06-14 16:03:01, 2024-06-14 16:03:01, phishing, 6a50c8326c321f42ff715d73d0a0dcb9, https://ava.game.naver.com.ryo.biz.id/
+163413, 2024-06-14 16:02:19, 2024-06-14 16:02:19, phishing, 02c626098ce9b5e54da7077f75525241, https://telegram-xl.icu/
 163412, 2024-06-14 15:48:19, 2024-06-14 15:48:19, phishing, 3b74f8b9dc540ddac2e56422b23b6752, http://uspsservicerestored.zapto.org
 163411, 2024-06-14 15:43:50, 2024-06-14 15:43:50, malware, a8c67ec0d0a24c69abcfefc947de83f7, https://site6.top/Index/LP/P/A/C/H/K/H/O/B/E/H/Roup/app.apk
 163410, 2024-06-14 15:42:59, 2024-06-14 15:42:59, phishing, 2147da9b4c27ecb3fda7dad3d07d467a, https://site6.top/Index/LP/P/A/C/H/K/H/O/B/E/H/Roup/
@@ -502,10 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 162922, 2024-06-14 09:06:28, 2024-06-14 09:06:28, malware, a28e0ebd4d26453c8f5566017928e319, http://42.176.109.237:52910/i
 162921, 2024-06-14 09:06:27, 2024-06-14 09:06:27, malware, ed222ef1f07049288813df7032ed6a70, http://27.37.107.85:56418/i
 162920, 2024-06-14 09:06:25, 2024-06-14 09:06:25, malware, 0763ee9d4e1c4a3da3d5662c7fa6a7a6, http://27.215.80.170:46782/i
-162919, 2024-06-14 09:06:24, 2024-06-14 09:06:24, malware, b9f9dbc4941348479f5dbb0340193eb3, http://27.213.63.179:56826/i
-162918, 2024-06-14 09:06:22, 2024-06-14 09:06:22, malware, d9dc9a830b374d10a90410cd38b995b2, http://27.213.63.179:56826/bin.sh
-162917, 2024-06-14 09:06:21, 2024-06-14 09:06:21, malware, b6fd0b78e26d4ea886473ff6f7f9ff8b, http://223.12.187.163:54086/Mozi.m
-162916, 2024-06-14 09:06:18, 2024-06-14 09:06:18, malware, 3c25ad69f5e649a5b3f32c2ad73093f5, http://222.168.246.11:47204/bin.sh
-162915, 2024-06-14 09:06:16, 2024-06-14 09:06:16, malware, 4b3dc228320042caa5b814872acb7b8e, http://222.141.233.8:52636/i
-162914, 2024-06-14 09:06:14, 2024-06-14 09:06:14, malware, a30ec3d253944b4384dc49a62acd772e, http://222.141.233.8:52636/bin.sh
-162913, 2024-06-14 09:06:12, 2024-06-14 09:06:12, malware, b214fb2b52e145fb8f061a380fe8fbf4, http://222.140.192.39:42160/i
