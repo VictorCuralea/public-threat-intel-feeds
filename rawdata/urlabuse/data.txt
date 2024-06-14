@@ -6,8 +6,13 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-14 06:00:01 UTC
+# UPDATE: 2024-06-14 07:00:02 UTC
 ############### END COMMENTS ###############
+{"id": 162746, "url": "http://xahbxjai13.pages.dev", "discovery": "2024-06-14 06:42:12", "added": "2024-06-14 06:42:12", "target": "Amazon", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "845d1ed38059c9552559964b86827388"}
+{"id": 162745, "url": "http://fdju2.pages.dev", "discovery": "2024-06-14 06:40:11", "added": "2024-06-14 06:40:11", "target": "Amazon", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "ecb1d1fd1c9c1f3fc388bda4eb030603"}
+{"id": 162744, "url": "http://hjhdui2.pages.dev", "discovery": "2024-06-14 06:38:12", "added": "2024-06-14 06:38:12", "target": "Amazon", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "81a3fbfc3fccdbd0787639d98c65823a"}
+{"id": 162743, "url": "https://www.rtie.in/dns", "discovery": "2024-06-14 06:32:17", "added": "2024-06-14 06:32:17", "target": "Swisscom", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "b606f992a0721c90d8a35ab3ed80d26c"}
+{"id": 162742, "url": "http://lacarte-sante.info", "discovery": "2024-06-14 06:02:15", "added": "2024-06-14 06:02:15", "target": "FR-GOV", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "3d699f4c24ec98a7873b950352a461b8"}
 {"id": 162741, "url": "http://61.53.251.91:53640/bin.sh", "discovery": "2024-06-14 05:29:12", "added": "2024-06-14 05:29:12", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "9ea79e37c44942a39e729a816ca90517"}
 {"id": 162740, "url": "http://61.52.60.195:59347/Mozi.m", "discovery": "2024-06-14 05:29:10", "added": "2024-06-14 05:29:10", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "43a05ac81e534137a4e9541720842388"}
 {"id": 162739, "url": "http://61.52.53.16:40265/bin.sh", "discovery": "2024-06-14 05:29:08", "added": "2024-06-14 05:29:08", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "24029607edc44836bb795479853f635a"}
@@ -503,8 +508,3 @@
 {"id": 162249, "url": "http://91.231.200.68:40224/Mozi.m", "discovery": "2024-06-13 15:25:07", "added": "2024-06-13 15:25:07", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "4e2bedd70d5a46cab76e7c588e9108b4"}
 {"id": 162248, "url": "http://85.108.229.161:47897/Mozi.m", "discovery": "2024-06-13 15:25:05", "added": "2024-06-13 15:25:05", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "a5a5f8d40ea6498391924c9bd589a558"}
 {"id": 162247, "url": "http://81.211.67.150:35285/Mozi.m", "discovery": "2024-06-13 15:24:59", "added": "2024-06-13 15:24:59", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "96b7a467b23c4b00a801566334075a91"}
-{"id": 162246, "url": "http://61.53.138.86:49101/i", "discovery": "2024-06-13 15:24:58", "added": "2024-06-13 15:24:58", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "b539d1e8a3be4fafb247abf07ca9a38b"}
-{"id": 162245, "url": "http://59.91.90.171:46636/Mozi.m", "discovery": "2024-06-13 15:24:47", "added": "2024-06-13 15:24:47", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "85b44dd84b3a4f38a6679c152be93085"}
-{"id": 162244, "url": "http://42.237.59.114:42535/bin.sh", "discovery": "2024-06-13 15:24:13", "added": "2024-06-13 15:24:13", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "4d538eb62d6243c7a231599c6f90f01b"}
-{"id": 162243, "url": "http://42.235.157.184:53021/bin.sh", "discovery": "2024-06-13 15:24:12", "added": "2024-06-13 15:24:12", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "b607126ecf0343e7bee3f9488810422d"}
-{"id": 162242, "url": "http://42.226.71.214:37919/i", "discovery": "2024-06-13 15:23:55", "added": "2024-06-13 15:23:55", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "3320f258b85d406dae0d4ac201881b03"}
