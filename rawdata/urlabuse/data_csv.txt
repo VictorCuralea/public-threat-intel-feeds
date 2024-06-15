@@ -6,9 +6,20 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-15 06:00:01 UTC
+# UPDATE: 2024-06-15 07:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+163930, 2024-06-15 06:52:13, 2024-06-15 06:52:13, phishing, 13efe126d30fd2b427890d4b9dd38ad5, http://yeaaaha.online
+163929, 2024-06-15 06:52:10, 2024-06-15 06:52:10, phishing, 7d3f8e7acdcf7f2ed37aff1a4dffe68d, http://serverhostingdomainhostinghosstingservicedomain02.pages.dev
+163928, 2024-06-15 06:46:17, 2024-06-15 06:46:17, phishing, 6e1821f2e47765a0e6678be5c0c85b5d, http://c9157.top
+163927, 2024-06-15 06:44:13, 2024-06-15 06:44:13, phishing, 7fd5e101d67bf0a7ff4d123b9709db43, http://d3757.top
+163926, 2024-06-15 06:38:19, 2024-06-15 06:38:19, phishing, e9c41e69226e61bf8cbc89ce1553053a, http://uspspackage.3utilities.com
+163925, 2024-06-15 06:34:17, 2024-06-15 06:34:17, phishing, 51452bdb47e8e32578e0f65cd8a73089, http://filtradebitgrok.pages.dev
+163924, 2024-06-15 06:32:10, 2024-06-15 06:32:10, phishing, 885fb7a25f47a13333b0dd94d4de032d, http://uatomaticdomainnameservergrephicesdesigns1.pages.dev
+163923, 2024-06-15 06:10:12, 2024-06-15 06:10:12, phishing, f1e727dba064a4dc609dc181469808fa, http://translationaldomainseprationprotectedsystems02.pages.dev
+163922, 2024-06-15 06:08:17, 2024-06-15 06:08:17, phishing, 91110aea51f4e49e48496800507751cd, http://telegram-gh.org
+163921, 2024-06-15 06:06:19, 2024-06-15 06:06:19, phishing, e0ddb573e83e6908b7a7ec65b9b51dee, http://telegream-is.org
+163920, 2024-06-15 06:02:18, 2024-06-15 06:02:18, hacked, e897d7f813e5b15cb9b044a50eff5b1e, http://homolog-duphalac.instantesaude.com.br/
 163919, 2024-06-15 05:30:05, 2024-06-15 05:30:05, malware, acda044deb7e4ca2a43aa30fd2f21fa1, http://85.107.34.144:43240/i
 163918, 2024-06-15 05:30:02, 2024-06-15 05:30:02, malware, 1eb0570bd42e41adb5fae67fbbc75d50, http://85.107.34.144:43240/bin.sh
 163917, 2024-06-15 05:29:46, 2024-06-15 05:29:46, malware, 406ff5503891451e9ab381324964926f, http://61.53.140.220:54452/bin.sh
@@ -498,14 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 163432, 2024-06-14 17:22:13, 2024-06-14 17:22:13, malware, 472cc1f60e2c44e3b49a4145e701c9aa, http://117.245.37.159:48243/Mozi.m
 163431, 2024-06-14 17:22:10, 2024-06-14 17:22:10, malware, e8f6a75be0ce40a7aeea21c8fe9341ed, http://117.242.197.71:42484/bin.sh
 163430, 2024-06-14 17:22:09, 2024-06-14 17:22:09, malware, 5ceadba329264249943f1b9bb0ff25b3, http://117.220.151.33:60346/bin.sh
-163429, 2024-06-14 17:22:03, 2024-06-14 17:22:03, malware, c4de500ed7e84d6a85b5de00df727044, http://117.220.149.181:39470/Mozi.m
-163428, 2024-06-14 17:22:00, 2024-06-14 17:22:00, malware, 0d2c56b8865b410bad065550c9c7cea9, http://117.219.42.56:47776/bin.sh
-163427, 2024-06-14 17:21:28, 2024-06-14 17:21:28, malware, a632d3176aa349d5bcf084b853bc2ed3, http://117.213.243.106:52164/Mozi.a
-163426, 2024-06-14 17:20:55, 2024-06-14 17:20:55, malware, f0a95cd237eb438ea8a8f2097e2e359a, http://117.207.21.185:45573/Mozi.m
-163425, 2024-06-14 17:20:52, 2024-06-14 17:20:52, malware, a4dac2c90b9b4bc08b23aa9b24784520, http://117.204.200.143:49852/i
-163424, 2024-06-14 17:20:42, 2024-06-14 17:20:42, malware, e9a805de913246aebce5a977b75212b4, http://117.204.116.86:42755/Mozi.m
-163423, 2024-06-14 17:20:40, 2024-06-14 17:20:40, malware, a705513f93494fe19e1ec0579e29d471, http://117.203.122.229:41734/bin.sh
-163422, 2024-06-14 17:20:16, 2024-06-14 17:20:16, malware, 15423534ffd24e1abf0e1aba0862f172, http://115.56.113.198:44050/bin.sh
-163421, 2024-06-14 17:20:14, 2024-06-14 17:20:14, malware, c229bdeb8e81478eb3a4538cb748807e, http://112.248.82.183:33119/i
-163420, 2024-06-14 17:10:15, 2024-06-14 17:10:15, phishing, d0a243dfc458e2c7e6f7b5cadc5e6de3, http://ethspincoin.pages.dev
-163419, 2024-06-14 16:44:21, 2024-06-14 16:44:21, phishing, 501417fbae6a4edc0d9ca48db36d3c34, http://imtokem.cc
