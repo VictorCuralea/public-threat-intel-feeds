@@ -6,8 +6,9 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-15 02:00:01 UTC
+# UPDATE: 2024-06-15 03:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 163792, "url": "http://sfdsfsd2.pages.dev", "discovery": "2024-06-15 02:30:13", "added": "2024-06-15 02:30:13", "target": "Amazon", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "93e6a40976f9669b8bbff2012ed30a88"}
 {"id": 163791, "url": "http://ujomewehuoserzemeaneo04.pages.dev", "discovery": "2024-06-15 01:56:11", "added": "2024-06-15 01:56:11", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "9bf640809078846b93d51b0f052e2b81"}
 {"id": 163790, "url": "http://85.107.34.144:43240/", "discovery": "2024-06-15 01:29:02", "added": "2024-06-15 01:29:02", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "56e904322d154cbea82408228a7a8759"}
 {"id": 163789, "url": "http://61.53.93.83:55272/", "discovery": "2024-06-15 01:28:57", "added": "2024-06-15 01:28:57", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "fac096641a8046158ba74f6e973c7973"}
@@ -507,4 +508,3 @@
 {"id": 163294, "url": "http://ecom.arsheentech.in", "discovery": "2024-06-14 14:02:34", "added": "2024-06-14 14:02:34", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "fabb035120f1da059bb09e86e3ee4de4"}
 {"id": 163293, "url": "http://cu.galerabeachartvillas.com", "discovery": "2024-06-14 14:02:34", "added": "2024-06-14 14:02:34", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "da7417e83c004109ec69c36552550fea"}
 {"id": 163292, "url": "http://hui.galerabeachartvillas.com", "discovery": "2024-06-14 14:02:33", "added": "2024-06-14 14:02:33", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "60c168202dabdc3110aac39f8a6d5fe9"}
-{"id": 163291, "url": "http://drafts.munawarfaruqui.in", "discovery": "2024-06-14 14:02:29", "added": "2024-06-14 14:02:29", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "f59f90fe5bd3fc87cb471f7bec9825d6"}
