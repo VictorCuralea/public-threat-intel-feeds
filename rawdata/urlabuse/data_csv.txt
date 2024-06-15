@@ -6,9 +6,14 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-15 18:00:01 UTC
+# UPDATE: 2024-06-15 19:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+164641, 2024-06-15 18:48:13, 2024-06-15 18:48:13, phishing, 1ec3d1a0bc42e9feb425792a38254dfa, http://ssffee3.pages.dev
+164640, 2024-06-15 18:10:15, 2024-06-15 18:10:15, phishing, 9ba814e3d0c5feb90fd6e64385038474, http://utetg.com
+164639, 2024-06-15 18:08:13, 2024-06-15 18:08:13, phishing, 58cd5a7431985cee23e5e99af85b8fc3, http://domostratedsupporteddomainexibitionconsigtems02.pages.dev
+164638, 2024-06-15 18:06:13, 2024-06-15 18:06:13, phishing, 8fa9c0d8d3d136359091bff4695f8386, https://ferdasenu.blogspot.com/
+164637, 2024-06-15 18:00:10, 2024-06-15 18:00:10, phishing, 371b4616ca788a5a74d95a4dde48832a, https://www.multiconnect.cc/
 164636, 2024-06-15 17:58:13, 2024-06-15 17:58:13, phishing, b55b7ebdb6f8a29e440d67e0ec4543d1, http://multiconnect.cc
 164635, 2024-06-15 17:52:15, 2024-06-15 17:52:15, phishing, 377fb7dab30e978788dea4e23d38e844, https://www.celine-lunakim.com/wp-content/plugins/013/CHFINAL/CHFINALE/
 164634, 2024-06-15 17:52:14, 2024-06-15 17:52:14, phishing, f70e8fc91a6df51a5fe38d38f5ca32b3, https://www.celine-lunakim.com/wp-content/plugins/013/CHFINAL/CHFINALE/
@@ -504,8 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 164144, 2024-06-15 09:16:56, 2024-06-15 09:16:56, malware, 53652a43e39d4b948e78bf579f5c1d6c, http://42.180.88.33:40181/bin.sh
 164143, 2024-06-15 09:16:54, 2024-06-15 09:16:54, malware, 413a38ebc0d24eefa696a2a436b24373, http://42.177.194.137:59510/bin.sh
 164142, 2024-06-15 09:16:53, 2024-06-15 09:16:53, malware, 7d58e371c69d4a1fac3fef8c07cc9e7e, http://39.184.135.85:43849/i
-164141, 2024-06-15 09:16:51, 2024-06-15 09:16:51, malware, 91c96ce336fd40679d5337921405a72b, http://39.184.135.85:43849/bin.sh
-164140, 2024-06-15 09:16:48, 2024-06-15 09:16:48, malware, 43c06d3572284370ad8df76de970c2e3, http://39.164.115.233:17529/i
-164139, 2024-06-15 09:16:45, 2024-06-15 09:16:45, malware, d67f06a19cdc49028dbf7feaa48b6756, http://39.164.115.233:17529/bin.sh
-164138, 2024-06-15 09:16:22, 2024-06-15 09:16:22, malware, 44c3deb33cef4471bc598c8597c3fa3d, http://223.100.65.47:51404/Mozi.m
-164137, 2024-06-15 09:16:21, 2024-06-15 09:16:21, malware, f932f0cc699c436fa6ec8fd98e7887bb, http://222.138.205.11:53225/i
