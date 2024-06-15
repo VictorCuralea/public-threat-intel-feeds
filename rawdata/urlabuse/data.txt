@@ -6,8 +6,14 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-15 00:00:01 UTC
+# UPDATE: 2024-06-15 01:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 163714, "url": "http://gtdeusdfgyhjkljfehujnmkljuhgytfdsdfghjkmn.pages.dev", "discovery": "2024-06-15 00:54:14", "added": "2024-06-15 00:54:14", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "068e87e793d5437b35430e8beb01db67"}
+{"id": 163713, "url": "http://gtdeusdfgyhjkljfehujnmkljuhgytfdsdfghjkmn.pages.dev", "discovery": "2024-06-15 00:54:14", "added": "2024-06-15 00:54:14", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "f7c1480d8296341c6d2cdf9079d3218c"}
+{"id": 163712, "url": "http://shareporint.mrprince.tk", "discovery": "2024-06-15 00:20:13", "added": "2024-06-15 00:20:13", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "745faae437cb3208cdaf3e203b2329eb"}
+{"id": 163711, "url": "http://o365.tsamer01.skyfencenet.com", "discovery": "2024-06-15 00:04:14", "added": "2024-06-15 00:04:14", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "be1dad54878b71eec1b1a314ee0b6a82"}
+{"id": 163710, "url": "http://ervro.pages.dev", "discovery": "2024-06-15 00:00:17", "added": "2024-06-15 00:00:17", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "4d1514938b05036aa3aa6786370b9212"}
+{"id": 163709, "url": "http://o365.vrtx.skyfencenet.com", "discovery": "2024-06-15 00:00:17", "added": "2024-06-15 00:00:17", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "0ced7a65061ccf6e962afa3a517e2042"}
 {"id": 163708, "url": "http://weekly-share.pages.dev", "discovery": "2024-06-14 23:50:15", "added": "2024-06-14 23:50:15", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "01260ab19f4e94306bc44e73c2cbf20c"}
 {"id": 163707, "url": "http://o365.uti-amc.skyfencenet.com", "discovery": "2024-06-14 23:40:15", "added": "2024-06-14 23:40:15", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "b643bf2bfaf1b6292b4caf4ea5fbbb1e"}
 {"id": 163706, "url": "http://61.53.93.83:55272/i", "discovery": "2024-06-14 23:28:40", "added": "2024-06-14 23:28:40", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "43844a701903403690b7af782ddf54db"}
@@ -502,9 +508,3 @@
 {"id": 163216, "url": "http://tokenpoocket.org", "discovery": "2024-06-14 13:20:34", "added": "2024-06-14 13:20:34", "target": "Token Pocket", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "a6436c6c6101fc0c2ba539e1b7c10895"}
 {"id": 163215, "url": "http://115.50.238.161:50855/i", "discovery": "2024-06-14 13:20:33", "added": "2024-06-14 13:20:33", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "75aa2b79724d4cc689fa92e901ae349f"}
 {"id": 163214, "url": "http://115.50.238.161:50855/bin.sh", "discovery": "2024-06-14 13:20:31", "added": "2024-06-14 13:20:31", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "ea4b29dbee1c4d76a81052f2cb294e7b"}
-{"id": 163213, "url": "http://110.49.167.189:33648/bin.sh", "discovery": "2024-06-14 13:20:30", "added": "2024-06-14 13:20:30", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "8a1bf456305340698d6a3ba7d0e514f0"}
-{"id": 163212, "url": "https://sergiosantosarquitetura.com.br/confi-pdf/FA030191/", "discovery": "2024-06-14 13:20:28", "added": "2024-06-14 13:20:28", "target": "Other", "reporter": "VERIFROMd", "AbuseType": "phishing", "UUID": "93483a868897222bde912022ff7dace5"}
-{"id": 163211, "url": "https://u8.gg/z3aca", "discovery": "2024-06-14 13:20:18", "added": "2024-06-14 13:20:18", "target": "Other", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "bed69e344dd3ff23748a6b14aa351faf"}
-{"id": 163210, "url": "http://1.48.227.151:33479/i", "discovery": "2024-06-14 13:20:07", "added": "2024-06-14 13:20:07", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "dde142b736324ccdb66772c65bd67bfb"}
-{"id": 163209, "url": "https://cuty.io/mpoixZhLPOMi", "discovery": "2024-06-14 13:18:13", "added": "2024-06-14 13:18:13", "target": "Other", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "64f4b9b715e980fb59523ee416a5e7a8"}
-{"id": 163208, "url": "http://token-poxket.net", "discovery": "2024-06-14 13:16:20", "added": "2024-06-14 13:16:20", "target": "Token Pocket", "reporter": "lruray", "AbuseType": "phishing", "UUID": "a946a3f131a251bd28146015368841b7"}
