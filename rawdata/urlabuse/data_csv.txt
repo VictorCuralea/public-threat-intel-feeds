@@ -6,9 +6,14 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-16 02:00:01 UTC
+# UPDATE: 2024-06-16 03:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+164906, 2024-06-16 02:42:13, 2024-06-16 02:42:13, phishing, fe65925e93da46a7014659e6d95135f1, http://jasmistehavsenipodefans03.pages.dev
+164905, 2024-06-16 02:32:16, 2024-06-16 02:32:16, phishing, 92f3ddbcf955a5dbb0a733d817d6b830, http://uterf.com
+164904, 2024-06-16 02:30:15, 2024-06-16 02:30:15, phishing, aec62a20ce3c1d21af5b6eccb9893b95, http://uterv.com
+164903, 2024-06-16 02:28:16, 2024-06-16 02:28:16, phishing, aa515451b90fcfe117a30426fb859b47, http://uteuy.com
+164902, 2024-06-16 02:26:11, 2024-06-16 02:26:11, phishing, c87594a9c5f455b2ec96c7f7dacfbee4, http://vvg22.pages.dev
 164901, 2024-06-16 01:50:11, 2024-06-16 01:50:11, phishing, 677693a40140970665d88d2e3f16d13a, http://cimico-07be84nkxk4ns3h3nkwnsbeiwsnwmssm.pages.dev
 164900, 2024-06-16 01:38:19, 2024-06-16 01:38:19, phishing, 03b7b1c9e7865b6e7aa86bd342afd0b5, http://web-telegrom.com
 164899, 2024-06-16 01:27:40, 2024-06-16 01:27:40, malware, cf4c39b266a64b519fe8422eb0c01913, http://61.53.149.69:33490/Mozi.m
@@ -504,8 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 164409, 2024-06-15 14:02:13, 2024-06-15 14:02:13, hacked, 5a6a0f20226681a3f17c296999977f2d, http://xin.brij.world
 164408, 2024-06-15 14:02:12, 2024-06-15 14:02:12, hacked, 3398da3b0788b051122d00b18498d4f8, http://qian.brij.world
 164407, 2024-06-15 14:02:10, 2024-06-15 14:02:10, hacked, b08c5ffe43e663a71d96b1be17f61b35, https://pablobenzo.com/
-164406, 2024-06-15 13:52:15, 2024-06-15 13:52:15, phishing, abd2290fb3ccf485051d4122e2313f1b, http://projectdappfix.pages.dev
-164405, 2024-06-15 13:28:05, 2024-06-15 13:28:05, malware, 45d961695cbe4682803935187718e069, http://79.53.39.103:48142/.i
-164404, 2024-06-15 13:28:05, 2024-06-15 13:28:05, malware, dffbc0f0cb7045d7b568a89cd57b162a, http://78.185.42.118:51026/bin.sh
-164403, 2024-06-15 13:28:01, 2024-06-15 13:28:01, malware, c5d15e978bdf4ef8b7446ea9f2d0f6c4, http://61.53.91.215:51696/Mozi.m
-164402, 2024-06-15 13:27:59, 2024-06-15 13:27:59, malware, 47a422a7a5c248e9968df1cbe1920dc4, http://61.52.159.2:54329/i
