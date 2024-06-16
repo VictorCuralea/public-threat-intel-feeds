@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-16 00:00:01 UTC
+# UPDATE: 2024-06-16 01:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+164822, 2024-06-16 00:22:12, 2024-06-16 00:22:12, phishing, 67cb025e8139b2994b02af1a82e2c3fd, http://domailfreenamesrverwebmailvalidationservice03.pages.dev
+164821, 2024-06-16 00:12:12, 2024-06-16 00:12:12, phishing, 85239f676704c33ba1977ab4c8cb9ba7, http://xp0.936.mytemp.website
+164820, 2024-06-16 00:04:12, 2024-06-16 00:04:12, phishing, 1286c432a3240177205cd6abf4f41cf5, http://tcbazetrttr441.com
+164819, 2024-06-16 00:00:10, 2024-06-16 00:00:10, phishing, 6ecb2148fc3841d3f31ea38685247e0d, http://tcbmhznetrttr318.com
 164818, 2024-06-15 23:27:13, 2024-06-15 23:27:13, malware, fb8cbf80b6194551a41b4a5e3a9d97af, http://95.106.186.123:48689/i
 164817, 2024-06-15 23:27:12, 2024-06-15 23:27:12, malware, 9edbd7aedc0143a890ba62c90e91feaf, http://95.106.186.123:48689/
 164816, 2024-06-15 23:27:12, 2024-06-15 23:27:12, malware, 901e660f448647729d9c3500e35b9247, http://71.89.182.39:51339/i
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 164325, 2024-06-15 11:34:13, 2024-06-15 11:34:13, phishing, 25346f495a0fd4b890613f1e36beae3d, http://ltalegram.ru
 164324, 2024-06-15 11:26:22, 2024-06-15 11:26:22, malware, 9809d7c7033443e7b5ec63632397d114, http://59.97.114.33:41766/bin.sh
 164323, 2024-06-15 11:25:17, 2024-06-15 11:25:17, malware, a0b6c214c46d414086a1f13cc0816ba9, http://59.184.248.184:53502/bin.sh
-164322, 2024-06-15 11:25:08, 2024-06-15 11:25:08, malware, 55d3777dadba40c19fa9991208bb16fc, http://59.183.135.155:47774/bin.sh
-164321, 2024-06-15 11:25:06, 2024-06-15 11:25:06, malware, 09848dd477e847ab920e5912d5022b0a, http://59.182.232.215:60826/bin.sh
-164320, 2024-06-15 11:25:04, 2024-06-15 11:25:04, malware, a647ff798dc84724b8d7da062963a088, http://59.182.149.172:43992/bin.sh
-164319, 2024-06-15 11:25:02, 2024-06-15 11:25:02, malware, ca062e442ca64da7b39646fcd003d469, http://59.178.184.104:36386/bin.sh
