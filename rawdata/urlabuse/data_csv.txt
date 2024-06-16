@@ -6,9 +6,25 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-16 04:00:01 UTC
+# UPDATE: 2024-06-16 05:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+164986, 2024-06-16 04:48:05, 2024-06-16 04:48:05, phishing, 4a405f2eb552fd9c1b4afde076e8d3f1, http://dfgdh1.pages.dev
+164985, 2024-06-16 04:30:12, 2024-06-16 04:30:12, phishing, 884b4a4755cc10b1ea3cc39ac55596d8, http://od.shinnkunikaidou.workers.dev
+164984, 2024-06-16 04:25:15, 2024-06-16 04:25:15, phishing, fe6b2a5c49bfc70660e310cdd5ab56b3, http://1441.666bianli.com
+164983, 2024-06-16 04:24:07, 2024-06-16 04:24:07, phishing, 43e2dee00701abbb040d38f134e10469, http://3051.365iying.com
+164982, 2024-06-16 04:04:29, 2024-06-16 04:04:29, phishing, 28e2ecee537172d51792c9acc535be05, https://ipfs.io/ipfs/bafybeigmwnzzprptwsjlatwtl4qoz4ioubumbjy2ypw7oj7lbs2pquryq4/owamnt4n4.html
+164981, 2024-06-16 04:04:27, 2024-06-16 04:04:27, phishing, 5cc2ec9962c51fd2907b47b5e831c6ba, https://notifyhubss.net/42b5d8f43ub5c44900l8220e643le8c9201b.html__;!!OepYZ6Q!8IX5sqHUSidEOrlc-NNjnxaY8IL9qaDfFvj0X4jy5PZUSuS_qBZSrFkszxNtbE10S42fU_4VXRyx1A0s8hSdre45Nw$/
+164980, 2024-06-16 04:04:21, 2024-06-16 04:04:21, phishing, a4803050fc787b99f5a2d52ff39528fc, http://notifyhubss.net/42b5d8f43ub5c44900l8220e643le8c9201b.html__;!!OepYZ6Q!8IX5sqHUSidEOrlc-NNjnxaY8IL9qaDfFvj0X4jy5PZUSuS_qBZSrFkszxNtbE10S42fU_4VXRyx1A0s8hSdre45Nw$
+164979, 2024-06-16 04:03:41, 2024-06-16 04:03:41, phishing, ab145afdd3531ad06787be2eb980388c, http://account.midtrans.com.sg.ryo.biz.id/
+164978, 2024-06-16 04:03:35, 2024-06-16 04:03:35, phishing, 83866d94381f854830fa9cb96f84d75d, https://rkesam.shop/
+164977, 2024-06-16 04:03:35, 2024-06-16 04:03:35, phishing, 1c478bb1cd294f20fc8bfae5e6397980, https://aut.telegcrem.icu/i/t0x12
+164976, 2024-06-16 04:03:29, 2024-06-16 04:03:29, phishing, a674e0cfb47c4b7439cffddbd11a5a09, https://joinfreee.sg-host.com/
+164975, 2024-06-16 04:03:27, 2024-06-16 04:03:27, phishing, c0a4d29436cacacc4ffe6eb5c4cb7754, http://www.uvdkxc.com/
+164974, 2024-06-16 04:03:02, 2024-06-16 04:03:02, phishing, 6c4210fd931c1b75dd66d0d22e92918a, https://ts.cctv12389.com/
+164973, 2024-06-16 04:02:54, 2024-06-16 04:02:54, phishing, d6827e0e0dce756d3e9df90fa19f4a23, https://investors.spotify.com.sg.sattt.us.kg/
+164972, 2024-06-16 04:02:52, 2024-06-16 04:02:52, phishing, f2d1970f812146a89f4c55676ae3476c, https://cache.netflix.com.sg.sattt.us.kg/
+164971, 2024-06-16 04:02:26, 2024-06-16 04:02:26, phishing, 0b4b2854cce6fa9280f7f620fe8c5070, https://tealegem.com/
 164970, 2024-06-16 03:54:13, 2024-06-16 03:54:13, phishing, 9276b84ccec0c02a7b07eabba75f1047, http://gen-d38b.fonofi1556.workers.dev
 164969, 2024-06-16 03:26:31, 2024-06-16 03:26:31, malware, 6a7bc808955149dd9579e6e4be144d99, http://95.106.186.123:48689/bin.sh
 164968, 2024-06-16 03:26:30, 2024-06-16 03:26:30, malware, af8ccafc78e746c8849c329aa23e2417, http://71.89.182.39:51339/bin.sh
@@ -493,19 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 164489, 2024-06-15 15:20:52, 2024-06-15 15:20:52, malware, 2ba99bd06e954f1491a648b0cac29f83, http://115.55.41.9:55041/bin.sh
 164488, 2024-06-15 15:20:51, 2024-06-15 15:20:51, malware, 116b807369f741c0ad77485452b64fe3, http://115.55.254.204:45798/i
 164487, 2024-06-15 15:20:49, 2024-06-15 15:20:49, malware, 022e52c027624a42983cb34b939bb6c1, http://115.55.10.28:40005/i
-164486, 2024-06-15 15:20:48, 2024-06-15 15:20:48, malware, dd1ff43dfe9f4f788d8c407840d0b04f, http://115.55.10.28:40005/bin.sh
-164485, 2024-06-15 15:20:26, 2024-06-15 15:20:26, malware, 6fd6623a45434e03a6e377b6bfdcfc9e, http://115.49.242.5:43788/bin.sh
-164484, 2024-06-15 15:20:08, 2024-06-15 15:20:08, phishing, 65148c02d967c8ed50253f3e05431daf, http://sdsebhyy.com
-164483, 2024-06-15 15:19:26, 2024-06-15 15:19:26, phishing, ee97e0121e48e1a9ab3fd74e15929d26, http://cfleg.com
-164482, 2024-06-15 15:18:51, 2024-06-15 15:18:51, phishing, faa13ff9ef95159afe0e972d4d7c1c70, http://mmyoy.com
-164481, 2024-06-15 15:16:43, 2024-06-15 15:16:43, phishing, 0f35f1aa69f23cbf883a3bdb59458ee3, http://ezfxyl.com
-164480, 2024-06-15 15:16:12, 2024-06-15 15:16:12, phishing, ef94a8624b416a5a2bd907001b995ec2, http://mon-assure-espace-renouvellement.fr
-164479, 2024-06-15 15:10:21, 2024-06-15 15:10:21, phishing, 76e70cc4d9b0e76338cfe88d2ac5f4eb, http://dghopuy6iwyhxyto.info
-164478, 2024-06-15 14:47:46, 2024-06-15 14:47:46, phishing, 28612e5576f2b7ff9e2df15ec4fab388, https://btpageemail.wixsite.com/my-site-1
-164477, 2024-06-15 14:46:51, 2024-06-15 14:06:15, phishing, 29b2ecdcfacbd0ec9dfbdc28387d7038, https://e73e12-1d.myshopify.com/
-164476, 2024-06-15 14:46:37, 2024-06-15 14:46:37, phishing, 9efa70c57da661132d23803b53ec80e3, https://infoserve-106195.weeblysite.com
-164475, 2024-06-15 14:46:19, 2024-06-15 13:42:13, phishing, 380cad601769e542e155f72fc17cea50, https://app.biceps-bio.de/yuakqr
-164474, 2024-06-15 14:40:13, 2024-06-15 14:40:13, phishing, 6376ac40a8be79c3a495dbc8db5f8432, http://private-docs-717d.6frbjoca.workers.dev
-164473, 2024-06-15 14:26:12, 2024-06-15 14:26:12, phishing, 4171eac04a0ecbd682b785ba45795c4d, http://uploadautenticationdomainnameserver02.pages.dev
-164472, 2024-06-15 14:06:15, 2024-06-15 14:06:15, phishing, 94b25933a0f030ab027d39a997b73c85, http://kadiromedemdsada.wiki
-164471, 2024-06-15 14:05:11, 2024-06-15 14:05:11, hacked, e40ad7b8b62fa650016b35115c425253, https://brij.world/
