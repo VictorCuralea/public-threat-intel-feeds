@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-16 18:00:01 UTC
+# UPDATE: 2024-06-16 19:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+165769, 2024-06-16 18:28:14, 2024-06-16 18:28:14, phishing, d948a45c1655165aef656a8b652576bd, http://walletssync.pages.dev
 165768, 2024-06-16 17:58:13, 2024-06-16 17:58:13, phishing, b2cbc49421365afd683cf83bb027876f, http://mailserverauthenticatione857349485fhdhfhdfhdh-3.pages.dev
 165767, 2024-06-16 17:57:47, 2024-06-16 17:57:47, phishing, 5aca08adbfa29b12c60f6ad2d8f2b379, http://evm418.com
 165766, 2024-06-16 17:43:34, 2024-06-16 17:43:34, phishing, f12d1a4943e714881e7abe7b563894c3, http://xierce.com
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 165272, 2024-06-16 09:04:46, 2024-06-16 09:04:46, malware, f8fe49047e1f4276bbe139b8973ff87c, http://222.140.157.51:58409/bin.sh
 165271, 2024-06-16 09:04:44, 2024-06-16 09:04:44, malware, f8ccb8fd152f456399cdc42d29eb9945, http://222.134.163.18:33366/Mozi.m
 165270, 2024-06-16 09:04:42, 2024-06-16 09:04:42, malware, 4df2fd4943e342f1a7d14046cc45c455, http://221.202.23.99:55750/i
-165269, 2024-06-16 09:04:40, 2024-06-16 09:04:40, malware, 73e3e93f64d049d6a1217bc3b0be9fe8, http://221.202.23.99:55750/bin.sh
