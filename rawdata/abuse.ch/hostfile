@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-06-17 07:58:46 UTC                        #
+# Last updated: 2024-06-17 10:18:53 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	service-8gtq0019-1257331363.sh.tencentapigw.com
+127.0.0.1	www.thaiticketmajor.com
 127.0.0.1	arcf-sj.org
 127.0.0.1	feeldog.xyz
 127.0.0.1	homeimageidea.com
@@ -12134,6 +12136,4 @@
 127.0.0.1	s7vety-47169.portmap.host
 127.0.0.1	s7vety-64001.portmap.io
 127.0.0.1	satanishere-48375.portmap.io
-127.0.0.1	ruggioil.com
-127.0.0.1	torusdt.vvvvvbeng.com
 # Number of entries: 12130
