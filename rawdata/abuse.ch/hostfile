@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-06-17 10:18:53 UTC                        #
+# Last updated: 2024-06-17 13:01:56 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	x99y.xyz
 127.0.0.1	service-8gtq0019-1257331363.sh.tencentapigw.com
 127.0.0.1	www.thaiticketmajor.com
 127.0.0.1	arcf-sj.org
@@ -12121,19 +12122,4 @@
 127.0.0.1	zonewar.ddnsking.com
 127.0.0.1	udooiuyt.dynamic-dns.net
 127.0.0.1	dvrsoc.ddns.net
-127.0.0.1	boridqh.com
-127.0.0.1	bvhangh.com
-127.0.0.1	bonudgd.com
-127.0.0.1	buyfejn.com
-127.0.0.1	vosal78394-35496.portmap.io
-127.0.0.1	dfwfdsfsdasd.project-nightfall.com
-127.0.0.1	f.zapto.org
-127.0.0.1	flutrdp.duckdns.org
-127.0.0.1	groups-opportunity.at.ply.gg
-127.0.0.1	island-households.gl.at.ply.gg
-127.0.0.1	kisliycorporait.hopto.org
-127.0.0.1	living-progressive.at.ply.gg
-127.0.0.1	s7vety-47169.portmap.host
-127.0.0.1	s7vety-64001.portmap.io
-127.0.0.1	satanishere-48375.portmap.io
-# Number of entries: 12130
+# Number of entries: 12116
