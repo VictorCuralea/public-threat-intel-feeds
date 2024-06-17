@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-06-17 13:01:56 UTC                        #
+# Last updated: 2024-06-17 14:36:02 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	proresupdate.com
+127.0.0.1	icarusairlines.com
+127.0.0.1	businessdownloads.ltd
 127.0.0.1	x99y.xyz
 127.0.0.1	service-8gtq0019-1257331363.sh.tencentapigw.com
 127.0.0.1	www.thaiticketmajor.com
@@ -12122,4 +12125,4 @@
 127.0.0.1	zonewar.ddnsking.com
 127.0.0.1	udooiuyt.dynamic-dns.net
 127.0.0.1	dvrsoc.ddns.net
-# Number of entries: 12116
+# Number of entries: 12119
