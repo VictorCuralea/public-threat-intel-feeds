@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-17 00:00:01 UTC
+# UPDATE: 2024-06-17 01:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+165984, 2024-06-17 00:26:17, 2024-06-17 00:26:17, phishing, 3ee08d6789a79bf13590e828fea07b31, http://eversdec.pages.dev
+165983, 2024-06-17 00:02:10, 2024-06-17 00:02:10, phishing, 4ae674759b22bae0629d769e853457c4, http://verificationatuneticationdomainhosting2.pages.dev
 165982, 2024-06-16 23:28:59, 2024-06-16 23:28:59, phishing, d22f1f1d1b238c898cde0be20ec4aa95, http://fdsgr19.pages.dev
 165981, 2024-06-16 23:28:33, 2024-06-16 23:28:33, malware, dd76bfd6b30d4e98a03dd1d98cd0ad5b, http://95.32.57.3:57840/
 165980, 2024-06-16 23:28:32, 2024-06-16 23:28:32, malware, 7ee383c994264a46967cb895bfb12f1f, http://95.132.187.137:58248/
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 165487, 2024-06-16 13:08:25, 2024-06-16 13:08:25, phishing, 24428531ac7a8df4c6653f375d9b84fb, http://telegrast.fit/
 165486, 2024-06-16 13:08:21, 2024-06-16 13:08:21, phishing, 9e7e8b688649164ea13c89558c6ab274, http://telegiram.fit/
 165485, 2024-06-16 13:08:15, 2024-06-16 13:08:15, phishing, a63beb6012a4b9f7d47c24dfdc3c4053, http://telegruam.fit/
-165484, 2024-06-16 13:01:23, 2024-06-16 13:01:23, phishing, 9300b59d000eb71ec93354e2087d940f, http://telegrart.fit/
-165483, 2024-06-16 13:00:37, 2024-06-16 13:00:37, phishing, c3cb63a9fd4a502c715857653d28422a, https://prem-us.ru/

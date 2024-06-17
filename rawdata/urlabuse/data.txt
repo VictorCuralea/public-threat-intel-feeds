@@ -6,8 +6,10 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-17 00:00:01 UTC
+# UPDATE: 2024-06-17 01:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 165984, "url": "http://eversdec.pages.dev", "discovery": "2024-06-17 00:26:17", "added": "2024-06-17 00:26:17", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "3ee08d6789a79bf13590e828fea07b31"}
+{"id": 165983, "url": "http://verificationatuneticationdomainhosting2.pages.dev", "discovery": "2024-06-17 00:02:10", "added": "2024-06-17 00:02:10", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "4ae674759b22bae0629d769e853457c4"}
 {"id": 165982, "url": "http://fdsgr19.pages.dev", "discovery": "2024-06-16 23:28:59", "added": "2024-06-16 23:28:59", "target": "Amazon", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "d22f1f1d1b238c898cde0be20ec4aa95"}
 {"id": 165981, "url": "http://95.32.57.3:57840/", "discovery": "2024-06-16 23:28:33", "added": "2024-06-16 23:28:33", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "dd76bfd6b30d4e98a03dd1d98cd0ad5b"}
 {"id": 165980, "url": "http://95.132.187.137:58248/", "discovery": "2024-06-16 23:28:32", "added": "2024-06-16 23:28:32", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "7ee383c994264a46967cb895bfb12f1f"}
@@ -506,5 +508,3 @@
 {"id": 165487, "url": "http://telegrast.fit/", "discovery": "2024-06-16 13:08:25", "added": "2024-06-16 13:08:25", "target": "Telegram", "reporter": "lruray", "AbuseType": "phishing", "UUID": "24428531ac7a8df4c6653f375d9b84fb"}
 {"id": 165486, "url": "http://telegiram.fit/", "discovery": "2024-06-16 13:08:21", "added": "2024-06-16 13:08:21", "target": "Telegram", "reporter": "lruray", "AbuseType": "phishing", "UUID": "9e7e8b688649164ea13c89558c6ab274"}
 {"id": 165485, "url": "http://telegruam.fit/", "discovery": "2024-06-16 13:08:15", "added": "2024-06-16 13:08:15", "target": "Telegram", "reporter": "lruray", "AbuseType": "phishing", "UUID": "a63beb6012a4b9f7d47c24dfdc3c4053"}
-{"id": 165484, "url": "http://telegrart.fit/", "discovery": "2024-06-16 13:01:23", "added": "2024-06-16 13:01:23", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "9300b59d000eb71ec93354e2087d940f"}
-{"id": 165483, "url": "https://prem-us.ru/", "discovery": "2024-06-16 13:00:37", "added": "2024-06-16 13:00:37", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "c3cb63a9fd4a502c715857653d28422a"}
