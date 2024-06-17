@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-06-17 19:30:48 UTC                        #
+# Last updated: 2024-06-17 22:14:40 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	opensecurity-legacy.com
 127.0.0.1	vip.zto.com
 127.0.0.1	proresupdate.com
 127.0.0.1	icarusairlines.com
@@ -7975,4 +7976,4 @@
 127.0.0.1	leaffountainla.fun
 127.0.0.1	folkloreinviteex.pw
 127.0.0.1	octopanel.xyz
-# Number of entries: 7969
+# Number of entries: 7970

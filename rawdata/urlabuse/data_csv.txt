@@ -6,9 +6,14 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-17 22:00:01 UTC
+# UPDATE: 2024-06-17 23:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+167101, 2024-06-17 22:38:10, 2024-06-17 22:38:10, phishing, d8b47243e0655a62430400ef16236675, http://securedprojectupload-gafsfsguambxgdpwytrnafsfhakamsfsqpms3.pages.dev
+167100, 2024-06-17 22:02:59, 2024-06-17 22:02:59, phishing, 84e267ee2b2b831ca5141dfe0b66f54a, http://pub-10e5587d22c641b190264bf0224f22a4.r2.dev/index.html
+167099, 2024-06-17 22:02:38, 2024-06-17 22:02:38, phishing, 059831a07f0df0eaf56680871b70faf7, http://mindmeldhub.kz/
+167098, 2024-06-17 22:02:29, 2024-06-17 22:02:29, phishing, 4b348cff97c4f28ba50b85c56fb5e76e, https://telegram-xdating.pages.dev/
+167097, 2024-06-17 22:02:24, 2024-06-17 22:02:24, phishing, f1330b40815ba5d04c85f57d9892a9c7, https://zhukov.github.io/webogram/#/im
 167096, 2024-06-17 21:29:06, 2024-06-17 21:29:06, malware, ee0b51f9371c41409f1628a1b3a74e68, http://94.156.65.121/miner.exe
 167095, 2024-06-17 21:28:59, 2024-06-17 21:28:59, malware, bf0a639606084ad5b78fd224eb3e6af0, http://61.53.125.233:34151/i
 167094, 2024-06-17 21:28:57, 2024-06-17 21:28:57, malware, e14e77d5895c4374af25abeb5f9b3f71, http://61.3.19.26:40073/Mozi.m
@@ -504,8 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 166604, 2024-06-17 11:25:55, 2024-06-17 11:25:55, malware, d7b83296368e46ac86cb8adc2075de17, http://123.234.187.141:35433/bin.sh
 166603, 2024-06-17 11:25:53, 2024-06-17 11:25:53, malware, 9939fd3278604b659f754c2a48ac4300, http://123.14.35.99:40474/bin.sh
 166602, 2024-06-17 11:25:52, 2024-06-17 11:25:52, malware, a0ea424a9981405ebd6960c5714c3dae, http://123.10.1.103:53496/Mozi.m
-166601, 2024-06-17 11:25:31, 2024-06-17 11:25:31, malware, 89a0a6c7af104f7db53f469d55297cd1, http://120.61.52.64:47888/bin.sh
-166600, 2024-06-17 11:25:24, 2024-06-17 11:25:24, malware, 976a8afaef444c86bd08217a782b65a7, http://117.255.11.135:33711/bin.sh
-166599, 2024-06-17 11:25:15, 2024-06-17 11:25:15, malware, 85653364d4034424b371b9f3cf61570e, http://117.253.168.166:43005/i
-166598, 2024-06-17 11:25:13, 2024-06-17 11:25:13, malware, d261dc147303462b963a34a4f74da316, http://117.253.168.166:43005/bin.sh
-166597, 2024-06-17 11:25:04, 2024-06-17 11:25:04, malware, 3490197e7f1e4b0b8c12d9a62415718b, http://117.252.44.246:33463/i
