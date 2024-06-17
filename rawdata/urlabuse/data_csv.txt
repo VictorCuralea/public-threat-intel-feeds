@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-17 06:00:01 UTC
+# UPDATE: 2024-06-17 07:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+166201, 2024-06-17 06:54:31, 2024-06-17 06:54:31, phishing, 21fb96c8966df49be440a4a917cfd49e, http://wdyauy17.pages.dev
+166200, 2024-06-17 06:28:11, 2024-06-17 06:28:11, phishing, 33814df9eb254103ee64c549a19a45ed, http://serverouttnethicationdomainservicesmails01.pages.dev
+166199, 2024-06-17 06:02:14, 2024-06-17 06:02:14, hacked, 77823ae7c0b484724ff357983f654992, http://icattle.ir/index.php
 166198, 2024-06-17 05:52:10, 2024-06-17 05:52:10, phishing, 04ab0e38f38b3c16117b9b435ff45d12, http://mailserverhostingvalidationdomainreuquired0.pages.dev
 166197, 2024-06-17 05:36:11, 2024-06-17 05:36:11, phishing, 293f96bfb5d422e18302d4339a976ed3, http://omainemailserverauthinticationrequired02.pages.dev
 166196, 2024-06-17 05:26:05, 2024-06-17 05:26:05, malware, 608292bae1164caab3594306653c2791, http://61.53.250.150:53640/bin.sh
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 165704, 2024-06-16 15:25:04, 2024-06-16 15:25:04, malware, 9e690eb080754e01b82077bf8cf2c310, http://59.95.88.148:50573/bin.sh
 165703, 2024-06-16 15:25:02, 2024-06-16 15:25:02, malware, ce218a50559d42fa9a84f992888782eb, http://59.95.155.117:37013/bin.sh
 165702, 2024-06-16 15:25:00, 2024-06-16 15:25:00, malware, c675d4c879af40ec9efbfc0208e49d35, http://59.93.26.213:55131/Mozi.m
-165701, 2024-06-16 15:24:58, 2024-06-16 15:24:58, malware, b061bf534ebd4b018afb6cdf95b83311, http://59.93.174.99:33540/i
-165700, 2024-06-16 15:24:28, 2024-06-16 15:24:28, malware, 6cd24926259642ecab4e2cabdf16c44e, http://59.88.148.99:43093/bin.sh
-165699, 2024-06-16 15:24:18, 2024-06-16 15:24:18, malware, e9184a9ff94b4ffa9f11b579f2e4eaed, http://59.184.251.106:47365/Mozi.m
