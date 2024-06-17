@@ -6,9 +6,17 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-17 12:00:01 UTC
+# UPDATE: 2024-06-17 13:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+166668, 2024-06-17 12:46:12, 2024-06-17 12:46:12, phishing, 206113e6d9b461eed9c310d326ef9eea, http://uirehwrnuruiit4nowutgrnvuntr4fvuefv.pages.dev
+166667, 2024-06-17 12:44:11, 2024-06-17 12:44:11, phishing, d1509e5cfc284c1f9e474325ab6d5a7a, http://workers-playground-gentle-unit-0761.lobaf42031.workers.dev
+166666, 2024-06-17 12:37:49, 2024-06-17 12:37:49, phishing, e791f8ba566dddb7afded07bc7a32047, https://jsuwester.wixsite.com/btwebmail4
+166665, 2024-06-17 12:37:12, 2024-06-17 12:37:12, phishing, c6c0a5529902d7efbf70ddee910e05fc, https://jinglebio.link/incomeweb/dF-nmQP7
+166664, 2024-06-17 12:36:59, 2024-06-17 12:32:15, phishing, d5d1fd6ee26da9fb1fa403d5a82ba956, https://jingle.bio/incomeweb/
+166663, 2024-06-17 12:36:40, 2024-06-17 12:28:16, phishing, e8d484554c0c71a06466467b52023161, https://btcommunicationpage.studio.site/
+166662, 2024-06-17 12:36:22, 2024-06-17 12:28:15, phishing, 9a6310a96c12abd06d2cff469e6a4a27, https://btco.w3spaces.com/
+166661, 2024-06-17 12:16:19, 2024-06-17 12:16:19, phishing, 255f0c398c78fa36eb94f8a328ba37b4, http://us.postya.top
 166660, 2024-06-17 11:54:13, 2024-06-17 11:54:13, phishing, 5db244942515411ec65d56741c7824b6, http://omainemailserverauthinticationrequired3.pages.dev
 166659, 2024-06-17 11:47:03, 2024-06-17 11:47:03, phishing, 41325dc4b130b752cd0adc2f10c3c1fe, https://10f9c90.wcomhost.com
 166658, 2024-06-17 11:46:48, 2024-06-17 11:28:16, phishing, 4964756363a4789d2389f21124545c43, https://cuty.io/RUhZDRX
@@ -501,11 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 166171, 2024-06-17 05:23:37, 2024-06-17 05:23:37, malware, ea54867b218444cd8485c04e50a0bde8, http://125.40.113.229:43125/Mozi.m
 166170, 2024-06-17 05:23:34, 2024-06-17 05:23:34, malware, 586f569c10bc46978980c77e9077f153, http://123.14.110.234:54753/Mozi.m
 166169, 2024-06-17 05:23:33, 2024-06-17 05:23:33, malware, e139619c790147d29440a34c9787ed7b, http://123.12.159.192:45643/i
-166168, 2024-06-17 05:23:31, 2024-06-17 05:23:31, malware, ae681664e7d64918b4cdb28bf3211681, http://123.12.159.192:45643/bin.sh
-166167, 2024-06-17 05:23:09, 2024-06-17 05:23:09, malware, 790da0ec914144f7b80283253f76767d, http://117.253.167.77:44690/i
-166166, 2024-06-17 05:23:08, 2024-06-17 05:23:08, malware, 884bcb67a3704e58acbae8fde5afeabd, http://117.253.12.134:35247/bin.sh
-166165, 2024-06-17 05:22:38, 2024-06-17 05:22:38, malware, bdab47efde514adca08a0b7176a06f80, http://117.248.169.170:52204/bin.sh
-166164, 2024-06-17 05:22:36, 2024-06-17 05:22:36, malware, 08ccbc30b60c46769a1e1fed1ac45338, http://117.248.139.223:39466/mozi.m
-166163, 2024-06-17 05:22:33, 2024-06-17 05:22:33, malware, 30e40d4432d64a06af9c2f3a3c8e2314, http://117.245.46.230:38483/i
-166162, 2024-06-17 05:22:29, 2024-06-17 05:22:29, malware, ab08beaefaee44ff8448eb810dc3735c, http://117.245.42.164:35399/Mozi.m
-166161, 2024-06-17 05:22:15, 2024-06-17 05:22:15, malware, 66e1cd6c3c284261a080c970a8771b6f, http://117.217.204.161:49303/bin.sh
