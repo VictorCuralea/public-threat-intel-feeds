@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-18 20:00:02 UTC
+# UPDATE: 2024-06-18 21:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+168189, 2024-06-18 20:34:12, 2024-06-18 20:34:12, phishing, 5a5ec53026873f623c4e4880d18fcd12, http://mdyte64692027hdgsdsstydheuisjkdc786egahusjidkdnn2.pages.dev
+168188, 2024-06-18 20:30:15, 2024-06-18 20:30:15, phishing, 441af2694a592c7b14b1590df4f76ec2, http://cbshop.icu
+168187, 2024-06-18 20:22:16, 2024-06-18 20:22:16, phishing, ae580eb12193be6421119252cadaff41, http://zkmindversatile.pages.dev
+168186, 2024-06-18 20:16:10, 2024-06-18 20:16:10, phishing, 94771281dd2a199abea2afbd51d0adba, http://avtoyrist161.online
 168185, 2024-06-18 19:43:50, 2024-06-18 19:28:12, phishing, db13f5e6016c7630a5acb002aa1ce78a, http://mlcr.limesurvey.net/277257?newtest=Y
 168184, 2024-06-18 19:40:13, 2024-06-18 19:40:13, phishing, ddbd4a92d641f9bb391faaee7f9071a2, http://du-home.umutsar.com
 168183, 2024-06-18 19:32:12, 2024-06-18 19:32:12, phishing, c02ac974bcd527bfaab8c85f3c201ac6, https://bbbe-btbbb.webflow.io/
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 167692, 2024-06-18 09:26:10, 2024-06-18 09:26:10, malware, c5107926d1084beb912336ebb9ff7719, http://27.194.129.109:35765/i
 167691, 2024-06-18 09:26:08, 2024-06-18 09:26:08, malware, 0695dd68ac49428fbf98cfb2ceacc716, http://223.9.122.16:54642/i
 167690, 2024-06-18 09:26:05, 2024-06-18 09:26:05, malware, c34753c6d8a24c10ada22443a935764a, http://222.137.114.115:35379/i
-167689, 2024-06-18 09:26:03, 2024-06-18 09:26:03, malware, 6344aee2de254ce29b2592b2bc8f2229, http://219.157.26.237:55049/bin.sh
-167688, 2024-06-18 09:25:56, 2024-06-18 09:25:56, malware, 36d42e435d0a46268df8e31451e265a8, http://190.109.227.96:57577/i
-167687, 2024-06-18 09:25:53, 2024-06-18 09:25:53, malware, 1a8a2575304a4992a76dc5c50cde3fde, http://182.127.4.121:48477/bin.sh
-167686, 2024-06-18 09:25:51, 2024-06-18 09:25:51, malware, eb7a6271d8fa4b958d174d08dcb0de50, http://182.127.120.207:49936/

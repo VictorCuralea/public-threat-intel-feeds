@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-06-18 14:10:05 UTC                        #
+# Last updated: 2024-06-18 20:10:40 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	fastsecurityup.com
+127.0.0.1	kwqislxk.xyz
 127.0.0.1	service-rfgb6jer-1257331363.sh.tencentapigw.com
 127.0.0.1	www.xincyun.com
 127.0.0.1	magnitogorsk.nl
@@ -7991,4 +7993,4 @@
 127.0.0.1	la-box-de-ginette.fr
 127.0.0.1	verdemanzana.com.bo
 127.0.0.1	www.crash-it.it
-# Number of entries: 7985
+# Number of entries: 7987
