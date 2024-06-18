@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-06-18 06:51:12 UTC                        #
+# Last updated: 2024-06-18 07:28:19 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	updatel2.com
 127.0.0.1	poocoin.online
 127.0.0.1	theemir.xyz
 127.0.0.1	bugday.site
@@ -8014,4 +8015,4 @@
 127.0.0.1	rarevaluediscow.fun
 127.0.0.1	leaffountainla.fun
 127.0.0.1	folkloreinviteex.pw
-# Number of entries: 8008
+# Number of entries: 8009
