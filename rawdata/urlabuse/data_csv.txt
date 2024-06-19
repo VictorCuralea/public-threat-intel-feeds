@@ -6,9 +6,14 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-19 02:00:02 UTC
+# UPDATE: 2024-06-19 03:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+168413, 2024-06-19 02:38:11, 2024-06-19 02:38:11, phishing, e534c1a5f98d42de72eda202d79683fa, http://shjduikeiroldpkgiusytehdnbajsnjuryhndb3748506ndbj3.pages.dev
+168412, 2024-06-19 02:10:06, 2024-06-19 01:49:38, phishing, c8b32e61d6c2d65fbd877b7ce2cb51c4, https://cf-ipfs.com/ipfs/bafkreidw2fepjqbchlnwpsa42ttoqspfhry3camykk2lmb7hkwgwie2tc4
+168411, 2024-06-19 02:08:15, 2024-06-19 02:08:15, phishing, 74449ff550b4e142ef72da1e77c14e7f, http://virtualdecentraswift.pages.dev
+168410, 2024-06-19 02:07:39, 2024-06-19 01:36:09, phishing, ebc387731544f40d6226bde753c15c69, https://renderhealth.com/src%20(1)/AP/?jwobehy
+168409, 2024-06-19 02:04:34, 2024-06-19 01:29:54, phishing, 475835d18af8dc48e64e50edfd4ecb99, https://instagram.com+accounts%3Dlogin+settings%3Dprivate@pub-d21a489a645d4ca4853145d7a9c6196e.r2.dev/ausmailx.html
 168408, 2024-06-19 01:44:13, 2024-06-19 01:44:13, phishing, df69835f6057619bf038b7f9707f1ed5, http://pgk-fnwoagnr.loxibehi.workers.dev
 168407, 2024-06-19 01:25:32, 2024-06-19 01:25:32, malware, 7f2d41b4cf1d48b69de844f9d52a43c6, http://61.3.96.181:42397/bin.sh
 168406, 2024-06-19 01:25:30, 2024-06-19 01:25:30, malware, 47a27aad4f5240beac958d1b1d74db35, http://61.3.143.222:56948/bin.sh
@@ -504,8 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 167916, 2024-06-18 13:25:05, 2024-06-18 13:25:05, malware, 3fcb96b435de4f30987224f575404cd8, http://182.127.120.207:49936/bin.sh
 167915, 2024-06-18 13:25:03, 2024-06-18 13:25:03, malware, ab5ea01df5764d1f95f8256ed0e65e11, http://182.120.49.146:43689/i
 167914, 2024-06-18 13:25:02, 2024-06-18 13:25:02, malware, 02649c8df5d84978971048df5b931aa5, http://182.120.49.146:43689/bin.sh
-167913, 2024-06-18 13:25:00, 2024-06-18 13:25:00, malware, d2a0a0db77684172bbec88e1e579029b, http://182.114.199.94:39550/
-167912, 2024-06-18 13:24:50, 2024-06-18 13:24:50, malware, f844e4435e4b42b390b5fae8ac096f38, http://125.47.69.21:33437/i
-167911, 2024-06-18 13:24:49, 2024-06-18 13:24:49, malware, 82504b2edd0745e2972bdbad2032b4f3, http://125.44.23.138:60000/bin.sh
-167910, 2024-06-18 13:24:47, 2024-06-18 13:24:47, malware, 55961896603c40368746d670a511ed6d, http://125.41.0.11:59793/bin.sh
-167909, 2024-06-18 13:24:46, 2024-06-18 13:24:46, malware, 22804fabf05b4d638c3c4f2f05f3f7cc, http://125.40.25.167:38113/bin.sh
