@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-06-19 00:24:02 UTC                        #
+# Last updated: 2024-06-19 04:17:56 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	alvinclayman.com
 127.0.0.1	ahaamthuc.com
 127.0.0.1	barusake.com
 127.0.0.1	aberzing.com
@@ -8001,4 +8002,4 @@
 127.0.0.1	circuspride.org
 127.0.0.1	fresh1.ironoreprod.top
 127.0.0.1	masterunis.net
-# Number of entries: 7995
+# Number of entries: 7996
