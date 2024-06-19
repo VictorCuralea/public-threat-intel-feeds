@@ -6,8 +6,17 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-19 12:00:01 UTC
+# UPDATE: 2024-06-19 13:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 168931, "url": "https://outlookserv-term-105008.square.site/", "discovery": "2024-06-19 10:54:23", "added": "2024-06-19 12:36:41", "target": "BT", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "33b6eb3f1764f7d3c2c50c2084ceb1cb"}
+{"id": 168930, "url": "https://flowcv.me/snsnsbh", "discovery": "2024-06-19 11:02:11", "added": "2024-06-19 12:35:41", "target": "BT", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "5be412512d13c5fba1254f0f907c1a53"}
+{"id": 168929, "url": "https://mybtservicemail.wixsite.com/my-site-1", "discovery": "2024-06-19 11:00:14", "added": "2024-06-19 12:35:22", "target": "BT", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "fac12c37188cddd1da8221a026e0d394"}
+{"id": 168928, "url": "https://debbieerolfe6.wixsite.com/my-site-1", "discovery": "2024-06-19 10:58:13", "added": "2024-06-19 12:35:14", "target": "BT", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "2e8e8a0b56fbfaa8a3573c066572e649"}
+{"id": 168927, "url": "https://h3200457.wixsite.com/my-site-1", "discovery": "2024-06-19 10:54:16", "added": "2024-06-19 12:34:35", "target": "BT", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "780f23d26d5a771fdce21ebacde49987"}
+{"id": 168926, "url": "https://nelsondave1.wixsite.com/my-site-1", "discovery": "2024-06-19 10:52:13", "added": "2024-06-19 12:34:08", "target": "BT", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "bf3bfff62955319e3cb21dfed4f5daa9"}
+{"id": 168925, "url": "https://gold-kamin.ru/assets/images/bhy/edg/index.php", "discovery": "2024-06-19 10:24:00", "added": "2024-06-19 12:33:50", "target": "Generic Email", "reporter": "anonymous", "AbuseType": "phishing", "UUID": "4ec55b712142297dae44be437a1cc5c5"}
+{"id": 168924, "url": "https://teeeam.weeblysite.com/", "discovery": "2024-06-19 12:33:40", "added": "2024-06-19 12:33:40", "target": "BT", "reporter": "urlabuse", "AbuseType": "phishing", "UUID": "ec488c80c0015e96471c895d5ecb3dc9"}
+{"id": 168923, "url": "https://bbtt.booqable.store/", "discovery": "2024-06-19 10:16:15", "added": "2024-06-19 12:33:30", "target": "BT", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "cff75fb4f96b678bfe6d24470c3a87d6"}
 {"id": 168922, "url": "http://ahsnjdke48759iskjdnhru63847hsjndmfi985ujsdjh276yhcjmfk4.pages.dev", "discovery": "2024-06-19 11:46:10", "added": "2024-06-19 11:46:10", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "a425f961ddb4c3c95882df672d1f76a1"}
 {"id": 168921, "url": "https://fralowkes.blogspot.com/", "discovery": "2024-06-19 11:42:15", "added": "2024-06-19 11:42:15", "target": "SwissPass", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "4008e658361c9fcde384bc42ef6ac19d"}
 {"id": 168920, "url": "http://cvffgn2.pages.dev", "discovery": "2024-06-19 11:38:12", "added": "2024-06-19 11:38:12", "target": "Amazon", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "43e2b01a6c01b126d7303b9591e303f9"}
@@ -499,12 +508,3 @@
 {"id": 168434, "url": "http://117.217.133.254:53179/Mozi.m", "discovery": "2024-06-19 03:22:38", "added": "2024-06-19 03:22:38", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "1c403e5740a14ffc8b2827827f5ef750"}
 {"id": 168433, "url": "http://117.211.35.31:43042/bin.sh", "discovery": "2024-06-19 03:22:31", "added": "2024-06-19 03:22:31", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "27a491e2d6ee4f19a87a81519295c4bf"}
 {"id": 168432, "url": "http://117.210.187.114:45769/Mozi.m", "discovery": "2024-06-19 03:22:21", "added": "2024-06-19 03:22:21", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "9eaf8012e07949bc980cc759dc64b97d"}
-{"id": 168431, "url": "http://117.209.108.99:33914/bin.sh", "discovery": "2024-06-19 03:22:16", "added": "2024-06-19 03:22:16", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "50d85e9768474a08859bf7cc415181ca"}
-{"id": 168430, "url": "http://117.207.170.148:50150/bin.sh", "discovery": "2024-06-19 03:22:14", "added": "2024-06-19 03:22:14", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "3b3137ea4a4f49108b528d1cb776af69"}
-{"id": 168429, "url": "http://117.206.188.34:59907/i", "discovery": "2024-06-19 03:21:45", "added": "2024-06-19 03:21:45", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "6b745a440a5f4cb0ad0762f99a939e18"}
-{"id": 168428, "url": "http://117.202.78.146:42588/bin.sh", "discovery": "2024-06-19 03:21:03", "added": "2024-06-19 03:21:03", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "5bd8aeeaa2ef46ec84a29ceb6baff417"}
-{"id": 168427, "url": "http://115.60.225.187:40265/bin.sh", "discovery": "2024-06-19 03:20:40", "added": "2024-06-19 03:20:40", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "96b95205200e4d1a852da866ee8a1fcf"}
-{"id": 168426, "url": "http://115.56.184.199:52080/i", "discovery": "2024-06-19 03:20:29", "added": "2024-06-19 03:20:29", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "3ff2b1e0485f4bb5ac2a1c39a5a5dc5b"}
-{"id": 168425, "url": "http://115.56.184.199:52080/bin.sh", "discovery": "2024-06-19 03:20:28", "added": "2024-06-19 03:20:28", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "b0d6544b09d54d858353f58f2c41b5ae"}
-{"id": 168424, "url": "http://115.56.153.170:46813/i", "discovery": "2024-06-19 03:20:26", "added": "2024-06-19 03:20:26", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "b51590991ab041179ea7dbfcde83d4a8"}
-{"id": 168423, "url": "http://115.56.153.170:46813/", "discovery": "2024-06-19 03:20:24", "added": "2024-06-19 03:20:24", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "7422fb0955c24028b67d42ad5038d5e9"}

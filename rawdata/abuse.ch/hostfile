@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-06-19 11:12:09 UTC                        #
+# Last updated: 2024-06-19 12:43:43 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	jswebcache.com
 127.0.0.1	test-1627838.shop
 127.0.0.1	service-qvjas1rh-1309482226.bj.tencentapigw.com.cn
 127.0.0.1	service-80zid8ci-1317810329.gz.tencentapigw.com.cn
@@ -8005,4 +8006,4 @@
 127.0.0.1	wipecache.com
 127.0.0.1	searchforspeedext.com
 127.0.0.1	amazingplanetext.com
-# Number of entries: 7999
+# Number of entries: 8000
