@@ -6,9 +6,15 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-19 18:00:01 UTC
+# UPDATE: 2024-06-19 19:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+169215, 2024-06-19 18:48:13, 2024-06-19 18:48:13, phishing, a3b929e4c3c4b479d4de0944c07e8a6e, http://identity-verification.e27a2722.workers.dev
+169214, 2024-06-19 18:43:05, 2024-06-19 18:43:05, phishing, 03033e07d6dc9a61f42f29253bea52fa, https://bis-ea4506.webflow.io/
+169213, 2024-06-19 18:42:53, 2024-06-19 18:28:13, phishing, 177377894ee02a53dc2ee65fce719c37, https://bbbroad.limesurvey.net/751871?newtest=Y
+169212, 2024-06-19 18:26:11, 2024-06-19 18:26:11, phishing, faeaae4d99c1a5a4fc823708e1ea561d, http://webmailvalidationdomainserverhosting1.pages.dev
+169211, 2024-06-19 18:24:16, 2024-06-19 18:24:16, phishing, 24bed22ba809894894e9bd95f4824eb2, http://liveclaimairdse.pages.dev
+169210, 2024-06-19 18:06:15, 2024-06-19 18:06:15, phishing, 2def82278845e1a8d46b0d9998b87017, http://claimcoin-13j.pages.dev
 169209, 2024-06-19 17:38:09, 2024-06-19 16:28:15, phishing, 78669047eda70b002fdcbe9e28ae987f, https://messagerie-ornge.hubside.fr/
 169208, 2024-06-19 17:37:42, 2024-06-19 15:48:15, phishing, 777feacc6592119238a0cab143cd979b, https://rechungapp-mycss.cfolks.pl/pwd/ui/app/auth/flow/mycss-login/ext/login.html
 169207, 2024-06-19 17:36:13, 2024-06-19 17:36:13, phishing, 0a78ae6c2f5d4312f4461e486575c7b3, http://internationalcongratulationwemailservivesaticulation4.pages.dev
@@ -503,9 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 168718, 2024-06-19 09:06:50, 2024-06-19 09:06:50, malware, 3aaa9445653947dbb53e3157910ae0a8, http://42.237.101.177:40834/i
 168717, 2024-06-19 09:06:49, 2024-06-19 09:06:49, malware, a7770ddf172e43ce895e2b310420eacb, http://42.237.101.177:40834/bin.sh
 168716, 2024-06-19 09:06:47, 2024-06-19 09:06:47, malware, f1db436b95aa401e8b7c6959b9adbbe1, http://42.230.63.169:39950/i
-168715, 2024-06-19 09:06:46, 2024-06-19 09:06:46, malware, 0565d9f5b16c4442a2992f9ce565f969, http://42.225.197.129:54499/Mozi.a
-168714, 2024-06-19 09:06:45, 2024-06-19 09:06:45, malware, d5a10a28216f44269e9c9b7138fa763d, http://42.224.177.85:41768/i
-168713, 2024-06-19 09:06:37, 2024-06-19 09:06:37, malware, aa70cf3e98004ba28d4ded1d31719021, http://42.178.8.8:57270/i
-168712, 2024-06-19 09:06:35, 2024-06-19 09:06:35, malware, 9a4ef775c2bc4c038bdce90fac8eafc3, http://27.37.84.60:58466/i
-168711, 2024-06-19 09:06:34, 2024-06-19 09:06:34, malware, 058114d274464cdf9acd7ae99ee2e4b7, http://27.157.145.153:48571/Mozi.a
-168710, 2024-06-19 09:06:31, 2024-06-19 09:06:31, malware, 624713e0158546ccb1548e837d9e2ad5, http://222.141.105.14:57518/i
