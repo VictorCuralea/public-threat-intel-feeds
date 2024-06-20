@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-20 00:00:01 UTC
+# UPDATE: 2024-06-20 01:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+169395, 2024-06-20 00:46:11, 2024-06-20 00:46:11, phishing, 8a152a2aa4d52d399c077b8c58a5bdce, http://erydhsjduisweodmaciaobiown02.pages.dev
+169394, 2024-06-20 00:32:10, 2024-06-20 00:32:10, phishing, bdd704f1ce0677d281a754d9dc2c5124, http://du-homes.oopstrend.com
+169393, 2024-06-20 00:32:10, 2024-06-20 00:32:10, phishing, e2289fdfffda55cf417f189c5a25ec1f, http://normalnameserverfreerecomandstionhostingdomail03.pages.dev
+169392, 2024-06-20 00:24:10, 2024-06-20 00:24:10, phishing, 19d6d3f5186778d75400177207e97200, http://summerpaper4e7e.e-pedroza2.workers.dev
 169391, 2024-06-19 23:38:12, 2024-06-19 23:38:12, phishing, 554ace9820d1c78dbe4fa6d217badcc9, http://domainhostinghosstingserviceshostingneeded02.pages.dev
 169390, 2024-06-19 23:26:12, 2024-06-19 23:26:12, malware, 4412cdf3aa544560856f2638404d2554, http://61.53.34.161:55618/i
 169389, 2024-06-19 23:26:11, 2024-06-19 23:26:11, malware, c1295f9156ef4342ac33396f3ad0e049, http://61.53.141.252:39159/Mozi.m
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 168898, 2024-06-19 11:27:50, 2024-06-19 11:27:50, malware, 0b59ba9ebafc415ab52a25b454f34330, http://39.90.187.44:46518/bin.sh
 168897, 2024-06-19 11:27:49, 2024-06-19 11:27:49, malware, 112f0eef55d7408bbe12458d299c14ba, http://39.86.250.65:36426/i
 168896, 2024-06-19 11:27:15, 2024-06-19 11:27:15, malware, b3331993f3924cdd838a3e38329c6a34, http://222.140.181.57:57749/bin.sh
-168895, 2024-06-19 11:27:14, 2024-06-19 11:27:14, malware, 97affb0793564c8cb1a2a7ff931bd036, http://222.138.72.240:39623/
-168894, 2024-06-19 11:27:13, 2024-06-19 11:27:13, malware, bf12458cd78d495d926459413da6f951, http://222.138.118.216:49712/i
-168893, 2024-06-19 11:27:11, 2024-06-19 11:27:11, malware, 4cf16baadc2746cea3c7540d933ed7c8, http://222.138.118.216:49712/bin.sh
-168892, 2024-06-19 11:27:09, 2024-06-19 11:27:09, malware, a14087bb4bd645c295316ab39ca99063, http://221.15.90.21:45603/Mozi.m
