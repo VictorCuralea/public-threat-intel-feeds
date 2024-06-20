@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-06-20 10:54:24 UTC                        #
+# Last updated: 2024-06-20 13:29:52 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	service-jjtluhvu-1308426789.gz.tencentapigw.com.cn
+127.0.0.1	www.tiasjdwwd.shop
+127.0.0.1	distinctive-highlight-gw.aws-euw2.cloud-ara.tyk.io
+127.0.0.1	service-4iisjdnk-1314135568.gz.tencentapigw.com.cn
+127.0.0.1	blacksys.deltadefenses.com
 127.0.0.1	gosuslugi.zilab.ru
 127.0.0.1	pelicanbcnsolutions.com
 127.0.0.1	ndas8m92.lol
@@ -7859,9 +7864,4 @@
 127.0.0.1	dns.nightmare.su
 127.0.0.1	cdn3-adb2.online
 127.0.0.1	cdn3-adb2.ru
-127.0.0.1	ellokodell00.hopto.org
-127.0.0.1	indiapotira.servebeer.com
-127.0.0.1	homelpd6099.xyz
-127.0.0.1	enterprese2023.is-a-hunter.com
-127.0.0.1	boludo.online
 # Number of entries: 7858
