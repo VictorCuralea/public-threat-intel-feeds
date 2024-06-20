@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-06-20 13:29:52 UTC                        #
+# Last updated: 2024-06-20 14:07:45 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	flynews.us
 127.0.0.1	service-jjtluhvu-1308426789.gz.tencentapigw.com.cn
 127.0.0.1	www.tiasjdwwd.shop
 127.0.0.1	distinctive-highlight-gw.aws-euw2.cloud-ara.tyk.io
@@ -7864,4 +7865,4 @@
 127.0.0.1	dns.nightmare.su
 127.0.0.1	cdn3-adb2.online
 127.0.0.1	cdn3-adb2.ru
-# Number of entries: 7858
+# Number of entries: 7859

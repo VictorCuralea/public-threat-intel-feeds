@@ -6,9 +6,22 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-20 14:00:02 UTC
+# UPDATE: 2024-06-20 15:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+170045, 2024-06-20 14:40:13, 2024-06-20 14:40:13, phishing, 2ce905a3dafa088a55a581e2eb86b51e, http://xpubkey.pages.dev
+170044, 2024-06-20 14:36:17, 2024-06-20 14:36:17, phishing, 06bc30bb823463187e21539f3b170402, http://swiftdappconnect.pages.dev
+170043, 2024-06-20 14:30:13, 2024-06-20 14:30:13, phishing, 21bd1a01ca78da7777f7522242361b1f, http://autnethicationservicesdomainhostinghosstingservices3.pages.dev
+170042, 2024-06-20 14:26:23, 2024-06-20 14:26:23, phishing, 3cf62e04b1368fbb32d60ce9553d189e, https://redshiede.blogspot.com/
+170041, 2024-06-20 14:26:16, 2024-06-20 14:26:16, phishing, e45d8ed1120a1cacd29ebfc006201aa4, https://hwx.tor.mybluehost.me/Sbb/SBB/index/
+170040, 2024-06-20 14:26:15, 2024-06-20 14:26:15, phishing, 38837c17d64a999c1b8b0e195b562908, https://gaftweloksw.blogspot.com/
+170039, 2024-06-20 14:26:15, 2024-06-20 14:26:15, phishing, f3b181c59d5ef9fad96aa83ba980fcbd, http://dpmainchain.pages.dev
+170038, 2024-06-20 14:24:17, 2024-06-20 14:24:17, phishing, 76bbf15158ddf1e0ab3e5e6fe91b6049, https://fullagro.fullagro.com.bo/
+170037, 2024-06-20 14:08:13, 2024-06-20 14:08:13, phishing, 568083d68765b3942fc676bae2de3135, http://authenticationndomainmailservernow02.pages.dev
+170036, 2024-06-20 14:08:13, 2024-06-20 14:08:13, phishing, b11cee5d81679e64ff5fbe68047ebf70, http://authenticationndomainmailservernow02.pages.dev
+170035, 2024-06-20 14:04:20, 2024-06-20 14:04:20, hacked, fc4ab5f56da8ccb68bc499fee4ce80d0, https://purebali.org/
+170034, 2024-06-20 14:04:16, 2024-06-20 14:04:16, hacked, 56ce41e1f32cbb85e91a9921e8420dbe, http://vagat.com.mx/
+170033, 2024-06-20 14:04:13, 2024-06-20 14:04:13, hacked, 5d4e191951a0bf10b757ae548bfdd0a4, https://trisoftdigital.com/
 170032, 2024-06-20 13:46:22, 2024-06-20 13:46:22, phishing, 8f19eb3e1f9bd9b1b06fabc726c8df36, https://wjadrasek.blogspot.com/
 170031, 2024-06-20 13:46:17, 2024-06-20 13:46:17, phishing, 02a2b34f78834496897a35265674c606, https://wlagaerer.blogspot.com/
 170030, 2024-06-20 13:46:16, 2024-06-20 13:46:16, phishing, a64e8ce4e15af88c9b70b49a55ce4d35, https://swartephen.blogspot.com/
@@ -496,16 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 169548, 2024-06-20 05:22:18, 2024-06-20 05:22:18, malware, 902b279dacf544fd86f762e0471568ca, http://125.44.39.235:36795/bin.sh
 169547, 2024-06-20 05:22:16, 2024-06-20 05:22:16, malware, 62a54bd4d2984ab3ac65193508e74c53, http://123.7.221.57:58689/bin.sh
 169546, 2024-06-20 05:22:14, 2024-06-20 05:22:14, malware, 0c2c42c008f34e29b655aef1e2dd2192, http://123.12.17.235:41250/bin.sh
-169545, 2024-06-20 05:22:13, 2024-06-20 05:22:13, malware, 8bdb7348a53841b1a782272f736efb46, http://117.253.156.108:43523/i
-169544, 2024-06-20 05:21:54, 2024-06-20 05:21:54, malware, b5aae58989ae4f258a5d6d7f0518a2a4, http://117.248.62.16:42683/Mozi.m
-169543, 2024-06-20 05:21:33, 2024-06-20 05:21:33, malware, efe16752d79349369fb6dc1e00b13156, http://117.248.133.6:47806/i
-169542, 2024-06-20 05:20:56, 2024-06-20 05:20:56, malware, e3ed122e84c344d189ca216faac1b471, http://117.208.221.238:50129/
-169541, 2024-06-20 05:20:25, 2024-06-20 05:20:25, malware, 74905f5a9cd5496d9dc726f61e952d90, http://115.58.93.138:38360/Mozi.m
-169540, 2024-06-20 05:20:23, 2024-06-20 05:20:23, malware, 6bfa427c6ca64c05a6d3290af9c0b76c, http://115.56.100.255:57474/bin.sh
-169539, 2024-06-20 05:20:22, 2024-06-20 05:20:22, malware, 7f986509dd8740b1a10620cfcb5beee8, http://115.54.121.231:35528/Mozi.m
-169538, 2024-06-20 05:20:20, 2024-06-20 05:20:20, malware, 0dc9025acfc24f7b999fe82c6751c815, http://115.48.148.61:42349/
-169537, 2024-06-20 05:20:19, 2024-06-20 05:20:19, malware, eabce928471944ceb6fb5ae6b5e080c3, http://115.48.148.240:50721/i
-169536, 2024-06-20 05:20:17, 2024-06-20 05:20:17, malware, d63bf1181a2541cd932c45f2fd63d9f5, http://115.214.229.191:40671/Mozi.a
-169535, 2024-06-20 05:04:11, 2024-06-20 05:04:11, phishing, d63af59a5c347669c4b261b0e7d63e02, http://uploadautenticationdomainnameserver1.pages.dev
-169534, 2024-06-20 04:50:13, 2024-06-20 04:50:13, phishing, 2c4d95f8b3b0e52423f824b5919c80d5, http://whatsapp-groupsex-b1a.pages.dev
-169533, 2024-06-20 04:48:19, 2024-06-20 04:48:19, phishing, eeedd8c89634e8cf98f740d117ba5289, http://wbe-icloud.com
