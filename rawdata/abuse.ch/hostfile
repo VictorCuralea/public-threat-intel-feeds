@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-06-20 16:13:22 UTC                        #
+# Last updated: 2024-06-20 18:47:23 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	onecapitalresidences.com
+127.0.0.1	pirkomagar.com
+127.0.0.1	ggrastyal.live
+127.0.0.1	ryruhuu3.xyz
 127.0.0.1	munan.duckdns.org
 127.0.0.1	flynews.us
 127.0.0.1	service-jjtluhvu-1308426789.gz.tencentapigw.com.cn
@@ -7864,4 +7868,4 @@
 127.0.0.1	wonderful-murdock.91-215-85-133.plesk.page
 127.0.0.1	wtf.creativefolks.dev
 127.0.0.1	dns.nightmare.su
-# Number of entries: 7858
+# Number of entries: 7862

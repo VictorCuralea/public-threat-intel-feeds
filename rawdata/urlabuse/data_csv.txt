@@ -6,9 +6,15 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-20 18:00:01 UTC
+# UPDATE: 2024-06-20 19:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+170200, 2024-06-20 18:38:13, 2024-06-20 18:38:13, phishing, e1dfb626037824510fc9a6368849d497, http://nbvcxertgvcxswqazxcvhjuytr43wsxcde3e4rtyhbxdrtyuhbxcvbnht0.pages.dev
+170199, 2024-06-20 18:26:19, 2024-06-20 18:26:19, phishing, 20a211c9cbf1ac522a55d30a67d69e21, http://voken.im
+170198, 2024-06-20 18:26:13, 2024-06-20 18:26:13, phishing, 0e1c325c02ddddaf2f207d9f72cc6f92, http://catigoriesdomainserverautanetiveservices1.pages.dev
+170197, 2024-06-20 18:24:19, 2024-06-20 18:24:19, phishing, e986f3547954b9ceee5aa7ad6fc57435, http://tmken.im
+170196, 2024-06-20 18:20:12, 2024-06-20 18:20:12, phishing, f69fac312d951897c3f19f53470f3a84, http://comesionexprinceautomaticalmailservers02.pages.dev
+170195, 2024-06-20 18:12:11, 2024-06-20 18:12:11, phishing, 12d0dca1c1a6496650ba128b715a344f, http://hsco-aua.pages.dev
 170194, 2024-06-20 17:38:15, 2024-06-20 17:38:15, phishing, 0b9170bdffddeac080f555874c19fcac, http://decentralizedsyncs.pages.dev
 170193, 2024-06-20 17:28:24, 2024-06-20 17:28:24, malware, 8663667c6c82497ba65de8d6e8d59b16, http://61.53.90.115:41461/i
 170192, 2024-06-20 17:28:23, 2024-06-20 17:28:23, malware, 4d1a8551e2fd4d25b928805c393ecb9e, http://61.53.90.115:41461/bin.sh
@@ -503,9 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 169703, 2024-06-20 09:03:33, 2024-06-20 09:03:33, malware, 99eae55d4bbe4fdaaa1710209202c1a8, http://175.147.153.77:56158/bin.sh
 169702, 2024-06-20 09:03:31, 2024-06-20 09:03:31, malware, f5c9f51d6d7b48e39d22d1541e7317e0, http://175.146.223.63:35583/bin.sh
 169701, 2024-06-20 09:03:29, 2024-06-20 09:03:29, malware, 6b8b60483825472b8f6cef504dd4fba4, http://154.204.178.164/nginx.x86
-169700, 2024-06-20 09:03:28, 2024-06-20 09:03:28, malware, 35bf60af32294ae9a33504275c35aca0, http://154.204.178.164/nginx.sparc
-169699, 2024-06-20 09:03:27, 2024-06-20 09:03:27, malware, 36079daa43874390abab8865a007fd19, http://154.204.178.164/nginx.ppc
-169698, 2024-06-20 09:03:25, 2024-06-20 09:03:25, malware, bab19fb565d449e0a88475cd7ecf19a3, http://154.204.178.164/nginx.mpsl
-169697, 2024-06-20 09:03:24, 2024-06-20 09:03:24, malware, 1ed9b43995db42e489e97ebb6ca7842a, http://154.204.178.164/nginx.arm7
-169696, 2024-06-20 09:03:23, 2024-06-20 09:03:23, malware, 22019e0a6f8a4563a4e6c20d62408fa5, http://154.204.178.164/nginx.arm4
-169695, 2024-06-20 09:03:21, 2024-06-20 09:03:21, malware, b0892d3168e34525a5d5d442a265f9e3, http://125.45.63.143:34025/bin.sh

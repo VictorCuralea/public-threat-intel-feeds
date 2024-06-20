@@ -6,8 +6,14 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-20 18:00:01 UTC
+# UPDATE: 2024-06-20 19:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 170200, "url": "http://nbvcxertgvcxswqazxcvhjuytr43wsxcde3e4rtyhbxdrtyuhbxcvbnht0.pages.dev", "discovery": "2024-06-20 18:38:13", "added": "2024-06-20 18:38:13", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "e1dfb626037824510fc9a6368849d497"}
+{"id": 170199, "url": "http://voken.im", "discovery": "2024-06-20 18:26:19", "added": "2024-06-20 18:26:19", "target": "imToken", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "20a211c9cbf1ac522a55d30a67d69e21"}
+{"id": 170198, "url": "http://catigoriesdomainserverautanetiveservices1.pages.dev", "discovery": "2024-06-20 18:26:13", "added": "2024-06-20 18:26:13", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "0e1c325c02ddddaf2f207d9f72cc6f92"}
+{"id": 170197, "url": "http://tmken.im", "discovery": "2024-06-20 18:24:19", "added": "2024-06-20 18:24:19", "target": "imToken", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "e986f3547954b9ceee5aa7ad6fc57435"}
+{"id": 170196, "url": "http://comesionexprinceautomaticalmailservers02.pages.dev", "discovery": "2024-06-20 18:20:12", "added": "2024-06-20 18:20:12", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "f69fac312d951897c3f19f53470f3a84"}
+{"id": 170195, "url": "http://hsco-aua.pages.dev", "discovery": "2024-06-20 18:12:11", "added": "2024-06-20 18:12:11", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "12d0dca1c1a6496650ba128b715a344f"}
 {"id": 170194, "url": "http://decentralizedsyncs.pages.dev", "discovery": "2024-06-20 17:38:15", "added": "2024-06-20 17:38:15", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "0b9170bdffddeac080f555874c19fcac"}
 {"id": 170193, "url": "http://61.53.90.115:41461/i", "discovery": "2024-06-20 17:28:24", "added": "2024-06-20 17:28:24", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "8663667c6c82497ba65de8d6e8d59b16"}
 {"id": 170192, "url": "http://61.53.90.115:41461/bin.sh", "discovery": "2024-06-20 17:28:23", "added": "2024-06-20 17:28:23", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "4d1a8551e2fd4d25b928805c393ecb9e"}
@@ -502,9 +508,3 @@
 {"id": 169703, "url": "http://175.147.153.77:56158/bin.sh", "discovery": "2024-06-20 09:03:33", "added": "2024-06-20 09:03:33", "target": "#ELF32_MIPSv1", "reporter": "lrudbot", "AbuseType": "malware", "UUID": "99eae55d4bbe4fdaaa1710209202c1a8"}
 {"id": 169702, "url": "http://175.146.223.63:35583/bin.sh", "discovery": "2024-06-20 09:03:31", "added": "2024-06-20 09:03:31", "target": "#ELF32_MIPSv1", "reporter": "lrudbot", "AbuseType": "malware", "UUID": "f5c9f51d6d7b48e39d22d1541e7317e0"}
 {"id": 169701, "url": "http://154.204.178.164/nginx.x86", "discovery": "2024-06-20 09:03:29", "added": "2024-06-20 09:03:29", "target": "#ELF64", "reporter": "lrudbot", "AbuseType": "malware", "UUID": "6b8b60483825472b8f6cef504dd4fba4"}
-{"id": 169700, "url": "http://154.204.178.164/nginx.sparc", "discovery": "2024-06-20 09:03:28", "added": "2024-06-20 09:03:28", "target": "#ELF32SPARC", "reporter": "lrudbot", "AbuseType": "malware", "UUID": "35bf60af32294ae9a33504275c35aca0"}
-{"id": 169699, "url": "http://154.204.178.164/nginx.ppc", "discovery": "2024-06-20 09:03:27", "added": "2024-06-20 09:03:27", "target": "#ELF32CISCO", "reporter": "lrudbot", "AbuseType": "malware", "UUID": "36079daa43874390abab8865a007fd19"}
-{"id": 169698, "url": "http://154.204.178.164/nginx.mpsl", "discovery": "2024-06-20 09:03:25", "added": "2024-06-20 09:03:25", "target": "#ELF32_MIPSv1", "reporter": "lrudbot", "AbuseType": "malware", "UUID": "bab19fb565d449e0a88475cd7ecf19a3"}
-{"id": 169697, "url": "http://154.204.178.164/nginx.arm7", "discovery": "2024-06-20 09:03:24", "added": "2024-06-20 09:03:24", "target": "#ELF32ARM_EABI4", "reporter": "lrudbot", "AbuseType": "malware", "UUID": "1ed9b43995db42e489e97ebb6ca7842a"}
-{"id": 169696, "url": "http://154.204.178.164/nginx.arm4", "discovery": "2024-06-20 09:03:23", "added": "2024-06-20 09:03:23", "target": "#ELF32ARM_v1", "reporter": "lrudbot", "AbuseType": "malware", "UUID": "22019e0a6f8a4563a4e6c20d62408fa5"}
-{"id": 169695, "url": "http://125.45.63.143:34025/bin.sh", "discovery": "2024-06-20 09:03:21", "added": "2024-06-20 09:03:21", "target": "#ELF32MIPS", "reporter": "lrudbot", "AbuseType": "malware", "UUID": "b0892d3168e34525a5d5d442a265f9e3"}
