@@ -6,8 +6,12 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-20 02:00:01 UTC
+# UPDATE: 2024-06-20 03:00:02 UTC
 ############### END COMMENTS ###############
+{"id": 169474, "url": "http://scalingguildversa.pages.dev", "discovery": "2024-06-20 02:54:17", "added": "2024-06-20 02:54:17", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "52db1a6de26992cc070a19185243059f"}
+{"id": 169473, "url": "http://bold-term-b450.gracelogs9034.workers.dev", "discovery": "2024-06-20 02:20:12", "added": "2024-06-20 02:20:12", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "f640710fd59d76b600b88f851e9a344a"}
+{"id": 169472, "url": "http://jnbvcctd2.pages.dev", "discovery": "2024-06-20 02:10:13", "added": "2024-06-20 02:10:13", "target": "Amazon", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "b31e651d933145c1ad2e1b5e7914858b"}
+{"id": 169471, "url": "http://authenticationndomainmailservernow01.pages.dev", "discovery": "2024-06-20 02:02:10", "added": "2024-06-20 02:02:10", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "022f4ccc38b329bb6aa7eb21eb1c847e"}
 {"id": 169470, "url": "http://roensjakesocueswesahuw03.pages.dev", "discovery": "2024-06-20 01:58:10", "added": "2024-06-20 01:58:10", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "243247a4ecaf143e20db37c4ec187ee1"}
 {"id": 169469, "url": "http://webmailserverservicesactionrequiredautneticatie04.pages.dev", "discovery": "2024-06-20 01:58:10", "added": "2024-06-20 01:58:10", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "919ebf3d8926f9d6a2e33657ed57cc5a"}
 {"id": 169468, "url": "http://cowgod42graduationnameserverprepperationsrvice2.pages.dev", "discovery": "2024-06-20 01:42:11", "added": "2024-06-20 01:42:11", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "5630e14b45ba2517d59ed9866f19ef4e"}
@@ -504,7 +508,3 @@
 {"id": 168977, "url": "http://124.91.62.157:34367/bin.sh", "discovery": "2024-06-19 13:24:34", "added": "2024-06-19 13:24:34", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "1195f05a99ba482bb836f04b7b88b641"}
 {"id": 168976, "url": "http://123.12.230.135:40487/bin.sh", "discovery": "2024-06-19 13:24:32", "added": "2024-06-19 13:24:32", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "3e47daea7ed34630ac35214269d46d2b"}
 {"id": 168975, "url": "http://123.11.202.115:42629/bin.sh", "discovery": "2024-06-19 13:24:31", "added": "2024-06-19 13:24:31", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "6c950b73039d4ff6b8a6c5a0540cee92"}
-{"id": 168974, "url": "http://121.25.34.111:38848/i", "discovery": "2024-06-19 13:24:29", "added": "2024-06-19 13:24:29", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "35baadaac09145f6ae7fe1a8209f1c13"}
-{"id": 168973, "url": "http://119.179.253.254:51525/i", "discovery": "2024-06-19 13:24:17", "added": "2024-06-19 13:24:17", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "9110c4388d9a400a899fda6e4657c81a"}
-{"id": 168972, "url": "http://119.179.253.254:51525/bin.sh", "discovery": "2024-06-19 13:24:15", "added": "2024-06-19 13:24:15", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "815be3cdf2c8421e8870b5b354f2d432"}
-{"id": 168971, "url": "http://kayvisum.de/dsa02.html?5250", "discovery": "2024-06-19 13:24:13", "added": "2024-06-19 13:24:13", "target": "DPD", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "7db07338114b2e9554e7f365fcd6cd56"}
