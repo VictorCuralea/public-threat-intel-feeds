@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-21 00:00:01 UTC
+# UPDATE: 2024-06-21 01:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+170382, 2024-06-21 00:52:14, 2024-06-21 00:52:14, phishing, 53dcc6efc867c8c7aa6e20f66d58de19, http://nodechain-chancer.pages.dev
+170381, 2024-06-21 00:22:10, 2024-06-21 00:22:10, phishing, de78eee238c71e8178fe3b74b21ca810, http://sparkliemiecomprhensivedomainnamechipe04.pages.dev
+170380, 2024-06-21 00:02:14, 2024-06-21 00:02:14, phishing, f227595190376a00d131a2863656721d, http://earnings-quota.pages.dev
 170379, 2024-06-20 23:56:13, 2024-06-20 23:56:13, phishing, 3bbcd10866cc39eb440506dec158f670, http://comesionexprinceautomaticalmailservers03.pages.dev
 170378, 2024-06-20 23:44:10, 2024-06-20 23:44:10, phishing, ca7ee31cff855a30080b4013c570d79c, http://sparkliemiecomprhensivedomainnamechipe2.pages.dev
 170377, 2024-06-20 23:32:17, 2024-06-20 23:32:17, phishing, e020ac3f70e2e84e4d6cccc5c10318e8, http://liveclatokairsen.pages.dev
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 169885, 2024-06-20 11:23:36, 2024-06-20 11:23:36, malware, 48d60a29b7414cf8a4f9a2fd7eb2ef9e, http://117.248.165.0:34336/Mozi.m
 169884, 2024-06-20 11:23:15, 2024-06-20 11:23:15, malware, 9483c73337164ffa8f42761269764efa, http://117.245.38.157:53850/i
 169883, 2024-06-20 11:23:11, 2024-06-20 11:23:11, malware, e0a824e5068b45ada8165fc26390a953, http://117.242.239.55:56927/i
-169882, 2024-06-20 11:23:08, 2024-06-20 11:23:08, malware, d2d42fd9813d475287c6fbbfed5afbc3, http://117.223.7.185:55968/Mozi.m
-169881, 2024-06-20 11:23:05, 2024-06-20 11:23:05, malware, 62e0d5942ada48f58ea96e5f176df0c6, http://117.217.175.159:55903/bin.sh
-169880, 2024-06-20 11:23:03, 2024-06-20 11:23:03, malware, fdde3b0f065043a6a76518f6f4217a7b, http://117.214.243.45:53619/i
