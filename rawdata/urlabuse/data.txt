@@ -6,8 +6,9 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-21 18:00:01 UTC
+# UPDATE: 2024-06-21 19:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 171323, "url": "http://usfendrxzs.top", "discovery": "2024-06-21 18:38:19", "added": "2024-06-21 18:38:19", "target": "USPS", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "910eb4acd82979b4f3edcba1c85b6150"}
 {"id": 171322, "url": "http://virtualclaim.pages.dev", "discovery": "2024-06-21 17:38:16", "added": "2024-06-21 17:38:16", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "ec7d1f2274c291e1dac2c628fac63acf"}
 {"id": 171321, "url": "http://61.53.248.212:49366/", "discovery": "2024-06-21 17:28:24", "added": "2024-06-21 17:28:24", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "bca68c046b2545af8c856bc44b035184"}
 {"id": 171320, "url": "http://61.3.138.120:56073/bin.sh", "discovery": "2024-06-21 17:28:23", "added": "2024-06-21 17:28:23", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "edcfcd6d4a3549c2bc4d21125a9c42f0"}
@@ -507,4 +508,3 @@
 {"id": 170826, "url": "http://36.249.46.239:8765/DownSysSoft.exe", "discovery": "2024-06-21 09:12:48", "added": "2024-06-21 09:12:48", "target": "#PE32INTEL_GUI", "reporter": "lrudbot", "AbuseType": "malware", "UUID": "2b8273bf0e9740c9a36ac79e33d39a82"}
 {"id": 170825, "url": "http://36.249.46.239:8765/Downdd.exe", "discovery": "2024-06-21 09:12:43", "added": "2024-06-21 09:12:43", "target": "#PE32INTEL_GUI", "reporter": "lrudbot", "AbuseType": "malware", "UUID": "350c3bafb7a348dbb86fb21f820e020a"}
 {"id": 170824, "url": "https://cuty.io/K00FNMM8na", "discovery": "2024-06-21 09:10:15", "added": "2024-06-21 09:12:40", "target": "Orange", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "98701c927c493107ede21846d4109096"}
-{"id": 170823, "url": "http://36.249.46.239:8765/Downaqzh.exe", "discovery": "2024-06-21 09:12:36", "added": "2024-06-21 09:12:36", "target": "#PE32INTEL_GUI", "reporter": "lrudbot", "AbuseType": "malware", "UUID": "927722adec664c0cb9a4a1b1dead1b62"}

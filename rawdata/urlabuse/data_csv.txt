@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-21 18:00:01 UTC
+# UPDATE: 2024-06-21 19:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+171323, 2024-06-21 18:38:19, 2024-06-21 18:38:19, phishing, 910eb4acd82979b4f3edcba1c85b6150, http://usfendrxzs.top
 171322, 2024-06-21 17:38:16, 2024-06-21 17:38:16, phishing, ec7d1f2274c291e1dac2c628fac63acf, http://virtualclaim.pages.dev
 171321, 2024-06-21 17:28:24, 2024-06-21 17:28:24, malware, bca68c046b2545af8c856bc44b035184, http://61.53.248.212:49366/
 171320, 2024-06-21 17:28:23, 2024-06-21 17:28:23, malware, edcfcd6d4a3549c2bc4d21125a9c42f0, http://61.3.138.120:56073/bin.sh
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 170826, 2024-06-21 09:12:48, 2024-06-21 09:12:48, malware, 2b8273bf0e9740c9a36ac79e33d39a82, http://36.249.46.239:8765/DownSysSoft.exe
 170825, 2024-06-21 09:12:43, 2024-06-21 09:12:43, malware, 350c3bafb7a348dbb86fb21f820e020a, http://36.249.46.239:8765/Downdd.exe
 170824, 2024-06-21 09:12:40, 2024-06-21 09:10:15, phishing, 98701c927c493107ede21846d4109096, https://cuty.io/K00FNMM8na
-170823, 2024-06-21 09:12:36, 2024-06-21 09:12:36, malware, 927722adec664c0cb9a4a1b1dead1b62, http://36.249.46.239:8765/Downaqzh.exe
