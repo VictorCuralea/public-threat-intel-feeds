@@ -1,11 +1,20 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-06-21 10:10:46 UTC                        #
+# Last updated: 2024-06-21 11:24:04 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	comarmo.com
+127.0.0.1	monesam.com
+127.0.0.1	seburax.com
+127.0.0.1	yerifest.com
+127.0.0.1	dolipox.com
+127.0.0.1	fedelize.com
+127.0.0.1	maduroma.com
+127.0.0.1	ardoelur.com
+127.0.0.1	duigore.com
 127.0.0.1	ms-update-cs1.azureedge.net
 127.0.0.1	admin.eneroco.com
 127.0.0.1	smtp2.servicebio.com
@@ -7667,4 +7676,4 @@
 127.0.0.1	erihudeg.com
 127.0.0.1	mail.googlesmail.xyz
 127.0.0.1	withclier.com
-# Number of entries: 7661
+# Number of entries: 7670
