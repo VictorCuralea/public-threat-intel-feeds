@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-06-21 05:02:21 UTC                        #
+# Last updated: 2024-06-21 06:37:21 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	wizarr.manate.ch
+127.0.0.1	go-sw6-02.adventos.de
 127.0.0.1	deadsecc-34880.portmap.host
 127.0.0.1	lake-french.gl.at.ply.gg
 127.0.0.1	grade-excellence.gl.at.ply.gg
@@ -7707,4 +7709,4 @@
 127.0.0.1	adevanced-lp-scanner.net
 127.0.0.1	adevanced-lp-scanners.com
 127.0.0.1	adsvancd-lp-scanner.net
-# Number of entries: 7701
+# Number of entries: 7703
