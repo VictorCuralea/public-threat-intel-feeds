@@ -6,9 +6,18 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-21 16:00:01 UTC
+# UPDATE: 2024-06-21 17:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+171275, 2024-06-21 16:58:13, 2024-06-21 16:58:13, phishing, fd2bce3affc003d0eba6aab63ab4efe4, http://tokenpockeo.cc
+171274, 2024-06-21 16:50:12, 2024-06-21 16:50:12, phishing, 777a54869eba4502a3ba7a95a4372682, https://ajo.yfm.mybluehost.me/DP/FTP/index2.php?enc=4b92d435770d937cedfbb1d6e6c828c7&p=0&dispatch=8b3b364a3b446eceba7dc830f8a854caed74d2e9
+171273, 2024-06-21 16:48:17, 2024-06-21 16:48:17, phishing, fcc2dfa8088e33b8c056a86bae706736, http://www.ilcaneessenziale.it/
+171272, 2024-06-21 16:48:15, 2024-06-21 16:48:15, phishing, db5f65c2b3924dc4ffbdafc994d0226b, https://ajo.yfm.mybluehost.me/DP/FTP/signin.php
+171271, 2024-06-21 16:48:13, 2024-06-21 16:48:13, phishing, 2476536589f51c3917c2bb7f4f4cc5bc, https://129.224.205.92.host.secureserver.net/netweb221
+171270, 2024-06-21 16:26:13, 2024-06-21 16:26:13, phishing, 8f9b3deb642b01ad9de7d9b7f4e59c7f, http://91883772891991937728891899101091.cdsconstructionservices.workers.dev
+171269, 2024-06-21 16:03:13, 2024-06-21 16:03:13, phishing, 7dbaadd55fd129af894f83c0b4fbe82f, https://notifyhubss.net/45fd9cb64ub16b4401lab5bdcb8ld4af4020.html__;!!OepYZ6Q!6crAEJadIOPloE_gFeVLDLM3k4jPEl3kbWvgEopz0dFxd8ITMHZisFsmSnyybX7cCw5OuLpQv8wqeHQvOWWI5_3yFEE$/
+171268, 2024-06-21 16:00:15, 2024-06-21 16:00:15, phishing, 50400b979fdff0159b5f2189ca2fb2f5, http://broad-webs.pages.dev
+171267, 2024-06-21 16:00:15, 2024-06-21 16:00:15, phishing, ceaead4a5cedcbca1e47d2a68ea0a55b, http://broad-webs.pages.dev
 171266, 2024-06-21 15:58:40, 2024-06-21 15:26:20, phishing, 4e3aa043cd74e039a2de8e6cc7ebc400, https://cedzatechnologies.co.za/fr/
 171265, 2024-06-21 15:58:27, 2024-06-21 15:26:20, phishing, 450a58b6904c008a922234e58b27857c, https://www.cedzatechnologies.co.za/fr/
 171264, 2024-06-21 15:56:10, 2024-06-21 15:56:10, phishing, 3f71506599f66e95aa86759688bef91f, http://internationaldomaierepresentationmainserstexts2.pages.dev
@@ -500,12 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 170778, 2024-06-21 09:09:08, 2024-06-21 09:09:08, malware, 8c9fb018ff584193bf36b71b60114afa, http://219.157.53.90:45155/bin.sh
 170777, 2024-06-21 09:09:06, 2024-06-21 09:09:06, malware, 0f0866389244462a8ddd43d40faab3e7, http://213.207.39.214:48832/bin.sh
 170776, 2024-06-21 09:09:05, 2024-06-21 09:09:05, malware, 7a74a2b560894ccebdddeec79aef588b, http://202.107.3.109:42567/Mozi.m
-170775, 2024-06-21 09:09:03, 2024-06-21 09:09:03, malware, 632cc0e28fce41f7a88db39781f10c71, http://202.107.28.176:38701/i
-170774, 2024-06-21 09:09:01, 2024-06-21 09:09:01, malware, 9ca50a756a1344b6a7e970fcb9a511e6, http://202.107.28.176:38701/bin.sh
-170773, 2024-06-21 09:08:59, 2024-06-21 09:08:59, malware, 061db0bf1928418c98fc8e7c3684cd1f, http://200.59.84.33:41427/i
-170772, 2024-06-21 09:08:58, 2024-06-21 09:08:58, malware, efa7d4d672d3409dbb85022560817a84, http://200.59.84.33:41427/bin.sh
-170771, 2024-06-21 09:08:56, 2024-06-21 09:08:56, malware, 8917c0d995c24f0188a8b957dd3afeca, http://200.59.84.176:34974/i
-170770, 2024-06-21 09:08:54, 2024-06-21 09:08:54, malware, 42a4fda94f8d439ca0e57d587787cc58, http://200.59.84.176:34974/bin.sh
-170769, 2024-06-21 09:08:52, 2024-06-21 09:08:52, malware, 26b1cabf19bf41b3920d7392669a01d6, http://182.58.179.113:51345/Mozi.m
-170768, 2024-06-21 09:08:50, 2024-06-21 09:08:50, malware, b1bb8bcd17154b1d9576298c559b682f, http://182.127.152.205:40832/i
-170767, 2024-06-21 09:08:49, 2024-06-21 09:08:49, malware, 35409e8c7e724076b46aaa056590255c, http://182.117.129.38:56425/bin.sh
