@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-06-21 08:37:15 UTC                        #
+# Last updated: 2024-06-21 10:10:46 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ms-update-cs1.azureedge.net
 127.0.0.1	admin.eneroco.com
 127.0.0.1	smtp2.servicebio.com
 127.0.0.1	mailgate.servicebio.com
@@ -7666,8 +7667,4 @@
 127.0.0.1	erihudeg.com
 127.0.0.1	mail.googlesmail.xyz
 127.0.0.1	withclier.com
-127.0.0.1	zx.regsvcast.com
-127.0.0.1	as.regsvcast.com
-127.0.0.1	qw.regsvcast.com
-127.0.0.1	service-lqsfxdz9-1307700818.sh.tencentapigw.com
-# Number of entries: 7664
+# Number of entries: 7661
