@@ -6,8 +6,12 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-21 02:00:02 UTC
+# UPDATE: 2024-06-21 03:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 170477, "url": "http://324567654345678654345678965435676898876578980765476php.pages.dev", "discovery": "2024-06-21 02:28:10", "added": "2024-06-21 02:28:10", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "a55acdaf1245763447d3883878894cb6"}
+{"id": 170476, "url": "http://xca.pages.dev", "discovery": "2024-06-21 02:12:15", "added": "2024-06-21 02:12:15", "target": "Yahoo!", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "dc33cc1e4e982e1db5f8ee400a2a9092"}
+{"id": 170475, "url": "http://test111-dym.pages.dev", "discovery": "2024-06-21 02:10:13", "added": "2024-06-21 02:10:13", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "5c0041ebf48237f0f5dc1cbc19ef293f"}
+{"id": 170474, "url": "http://proculicy.pages.dev", "discovery": "2024-06-21 02:04:14", "added": "2024-06-21 02:04:14", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "b2364705d6329efaaed74bd16cac9638"}
 {"id": 170473, "url": "http://page-timekiujdyt5ga.pages.dev", "discovery": "2024-06-21 01:50:11", "added": "2024-06-21 01:50:11", "target": "Amazon", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "43df2e14740ea0e78e5630772817b3ff"}
 {"id": 170472, "url": "http://downloadmainserverconectionorganization02.pages.dev", "discovery": "2024-06-21 01:50:11", "added": "2024-06-21 01:50:11", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "2982a9770d50e9fb2e785611f77bab8f"}
 {"id": 170471, "url": "http://little-sky-0c46.ivelissayed74236719.workers.dev", "discovery": "2024-06-21 01:42:13", "added": "2024-06-21 01:42:13", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "892f4848e73aecdd258c13d17cebd1ca"}
@@ -504,7 +508,3 @@
 {"id": 169980, "url": "http://115.56.148.35:52460/i", "discovery": "2024-06-20 13:20:23", "added": "2024-06-20 13:20:23", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "2e8cfc92609243a4ab3b505c541043a4"}
 {"id": 169979, "url": "http://115.55.248.49:42188/Mozi.m", "discovery": "2024-06-20 13:20:22", "added": "2024-06-20 13:20:22", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "b11160d452c849e9ba36f8e27c362454"}
 {"id": 169978, "url": "http://115.55.221.23:51341/i", "discovery": "2024-06-20 13:20:20", "added": "2024-06-20 13:20:20", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "5780cbc49c3f405d9d784415061eaf8d"}
-{"id": 169977, "url": "http://115.55.221.23:51341/bin.sh", "discovery": "2024-06-20 13:20:19", "added": "2024-06-20 13:20:19", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "b9b5d64e6f70448c8cc5053ef62c8186"}
-{"id": 169976, "url": "https://my-site-103728-109100.weeblysite.com/", "discovery": "2024-06-20 13:20:17", "added": "2024-06-20 13:20:17", "target": "Other", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "74652efde4ccf7de0ad48bf981c7f56f"}
-{"id": 169975, "url": "http://115.55.182.11:35281/bin.sh", "discovery": "2024-06-20 13:20:17", "added": "2024-06-20 13:20:17", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "78256f40ac6648d7b8c99d23530c2d5d"}
-{"id": 169974, "url": "https://business-broadband-6-20-2022.webflow.io/", "discovery": "2024-06-20 13:20:16", "added": "2024-06-20 13:20:16", "target": "Other", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "b8927e95376241bfaa3332ff6c1f3433"}

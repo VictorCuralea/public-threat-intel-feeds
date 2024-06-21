@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-21 02:00:02 UTC
+# UPDATE: 2024-06-21 03:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+170477, 2024-06-21 02:28:10, 2024-06-21 02:28:10, phishing, a55acdaf1245763447d3883878894cb6, http://324567654345678654345678965435676898876578980765476php.pages.dev
+170476, 2024-06-21 02:12:15, 2024-06-21 02:12:15, phishing, dc33cc1e4e982e1db5f8ee400a2a9092, http://xca.pages.dev
+170475, 2024-06-21 02:10:13, 2024-06-21 02:10:13, phishing, 5c0041ebf48237f0f5dc1cbc19ef293f, http://test111-dym.pages.dev
+170474, 2024-06-21 02:04:14, 2024-06-21 02:04:14, phishing, b2364705d6329efaaed74bd16cac9638, http://proculicy.pages.dev
 170473, 2024-06-21 01:50:11, 2024-06-21 01:50:11, phishing, 43df2e14740ea0e78e5630772817b3ff, http://page-timekiujdyt5ga.pages.dev
 170472, 2024-06-21 01:50:11, 2024-06-21 01:50:11, phishing, 2982a9770d50e9fb2e785611f77bab8f, http://downloadmainserverconectionorganization02.pages.dev
 170471, 2024-06-21 01:42:13, 2024-06-21 01:42:13, phishing, 892f4848e73aecdd258c13d17cebd1ca, http://little-sky-0c46.ivelissayed74236719.workers.dev
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 169980, 2024-06-20 13:20:23, 2024-06-20 13:20:23, malware, 2e8cfc92609243a4ab3b505c541043a4, http://115.56.148.35:52460/i
 169979, 2024-06-20 13:20:22, 2024-06-20 13:20:22, malware, b11160d452c849e9ba36f8e27c362454, http://115.55.248.49:42188/Mozi.m
 169978, 2024-06-20 13:20:20, 2024-06-20 13:20:20, malware, 5780cbc49c3f405d9d784415061eaf8d, http://115.55.221.23:51341/i
-169977, 2024-06-20 13:20:19, 2024-06-20 13:20:19, malware, b9b5d64e6f70448c8cc5053ef62c8186, http://115.55.221.23:51341/bin.sh
-169976, 2024-06-20 13:20:17, 2024-06-20 13:20:17, phishing, 74652efde4ccf7de0ad48bf981c7f56f, https://my-site-103728-109100.weeblysite.com/
-169975, 2024-06-20 13:20:17, 2024-06-20 13:20:17, malware, 78256f40ac6648d7b8c99d23530c2d5d, http://115.55.182.11:35281/bin.sh
-169974, 2024-06-20 13:20:16, 2024-06-20 13:20:16, phishing, b8927e95376241bfaa3332ff6c1f3433, https://business-broadband-6-20-2022.webflow.io/
