@@ -1,12 +1,21 @@
 ################################################################
 # ThreatFox IOCs: recent SHA256 hashes - CSV format            #
-# Last updated: 2024-06-21 16:06:14 UTC                        #
+# Last updated: 2024-06-22 05:27:34 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
 # "first_seen_utc","ioc_id","ioc_value","ioc_type","threat_type","fk_malware","malware_alias","malware_printable","last_seen_utc","confidence_level","reference","tags","anonymous","reporter"
+"2024-06-22 05:27:34", "1287661", "844afe9491b526a0a7fe3ad39386082353a1944873b92fcd1aa5ff1f0cf4fec9", "sha256_hash", "payload", "win.phobos", "None", "Phobos", "", "100", "", "Phobos,ransomware", "0", "nickkuechel"
+"2024-06-22 05:27:34", "1287662", "65bf71595c3e44233a1ca57b08b1370a93556c5975eb51e25965b8e9058b42c5", "sha256_hash", "payload", "win.phobos", "None", "Phobos", "", "100", "", "Phobos,ransomware", "0", "nickkuechel"
+"2024-06-22 05:27:34", "1287663", "396a2f2dd09c936e93d250e8467ac7a9c0a923ea7f9a395e63c375b877a399a6", "sha256_hash", "payload", "win.phobos", "None", "Phobos", "", "100", "", "Phobos,ransomware", "0", "nickkuechel"
+"2024-06-22 05:27:34", "1287664", "eaf5915ea0c5712f3211285a185c1955c947e516a1dfab8011e5cc947cc5a486", "sha256_hash", "payload", "win.phobos", "None", "Phobos", "", "100", "", "Phobos,ransomware", "0", "nickkuechel"
+"2024-06-22 05:27:34", "1287665", "000db71531e5aa8b30594d305bb3fbce8e2c71f66e2170091ef58b3c1f306f46", "sha256_hash", "payload", "win.phobos", "None", "Phobos", "", "100", "", "Phobos,ransomware", "0", "nickkuechel"
+"2024-06-22 05:27:34", "1287666", "763b04ef2d0954c7ecf394249665bcd71eeafebc3a66a27b010f558fd59dbdeb", "sha256_hash", "payload", "win.phobos", "None", "Phobos", "", "100", "", "Phobos,ransomware", "0", "nickkuechel"
+"2024-06-22 05:27:34", "1287667", "f146915a0298daff26ffe85a42b9a9ef68e7a148e3dbe3bc43abb283d96facbd", "sha256_hash", "payload", "win.phobos", "None", "Phobos", "", "100", "", "Phobos,ransomware", "0", "nickkuechel"
+"2024-06-22 05:27:34", "1287668", "fc2a39690214c12ae939a7719ffdb06ab728ef5e84a874be8573d84e33305430", "sha256_hash", "payload", "win.phobos", "None", "Phobos", "", "100", "", "Phobos,ransomware", "0", "nickkuechel"
+"2024-06-22 05:27:34", "1287669", "458a7a345bc015a7585d114b98d3ef9077a571a72ada9b4f07d385b44f7119c7", "sha256_hash", "payload", "win.phobos", "None", "Phobos", "", "100", "", "Phobos,ransomware", "0", "nickkuechel"
 "2024-06-21 16:06:14", "1287566", "0344168a6e758c0be34c99ef81644f462df5a8a8c725e676dea2fea177a30d81", "sha256_hash", "payload", "win.formbook", "win.xloader", "Formbook", "", "95", "None", "None", "0", "Grim"
 "2024-06-21 16:06:11", "1287563", "a4a6a46d37ea317706520732ba0af2a824a6cf6d214fe08c9f6879877cf473c4", "sha256_hash", "payload", "win.agent_tesla", "AgenTesla,AgentTesla,Negasteal", "Agent Tesla", "", "95", "None", "None", "0", "Grim"
 "2024-06-21 16:06:08", "1287560", "0608a7559f895fab33ae65bbfbdc5bebd21eea984f76e1b5571c80906824d665", "sha256_hash", "payload", "win.typhon_stealer", "Typhon Reborn V2", "Typhon Stealer", "", "95", "None", "None", "0", "Grim"
@@ -148,4 +157,4 @@
 "2024-06-20 15:44:14", "1286940", "331a07b5bb8e8e5182c7db012d7471bced3bd83142be852b44e26c807d0b8d25", "sha256_hash", "payload", "win.lokipws", "Burkina,Loki,LokiBot,LokiPWS", "Loki Password Stealer (PWS)", "", "95", "None", "None", "0", "Grim"
 "2024-06-20 15:44:11", "1286937", "cd583aa76a762a640be309b14234e47081d254d416b0567afb293f219428ce46", "sha256_hash", "payload", "win.agent_tesla", "AgenTesla,AgentTesla,Negasteal", "Agent Tesla", "", "95", "None", "None", "0", "Grim"
 "2024-06-20 15:44:07", "1286934", "45d3b57d97ea668b15b904718533682262c8e408edbaa371c3cfd9a0ceb3c832", "sha256_hash", "payload", "win.dcrat", "DarkCrystal RAT", "DCRat", "", "95", "None", "None", "0", "Grim"
-# Number of entries: 141
+# Number of entries: 150
