@@ -6,9 +6,14 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-22 09:00:01 UTC
+# UPDATE: 2024-06-22 10:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+171521, 2024-06-22 09:36:12, 2024-06-22 09:36:12, phishing, d1a4f44a8ccd9174e74bcc4adcc92a1c, http://vfedestjh2.pages.dev
+171520, 2024-06-22 09:36:10, 2024-06-22 09:36:10, phishing, ea5eed314939ec6c2d32330bf86bdf7c, http://gratitudeservicesdomainautenticationnameserver4.pages.dev
+171519, 2024-06-22 09:30:11, 2024-06-22 09:30:11, phishing, c28a890ac3a0c1e0ffe0695e8063ea93, http://worldsaboutevolving.chancellor-wfsch.workers.dev
+171518, 2024-06-22 09:20:08, 2024-06-22 09:20:08, malware, 7a97a3f1fcac4fbfbc16cdd3cd4f1e1d, http://183.95.144.65:54030/bin.sh
+171517, 2024-06-22 09:20:06, 2024-06-22 09:20:06, malware, f2d0deb8170f4918b670af3f554a40b2, http://103.44.136.116:46349/bin.sh
 171516, 2024-06-22 08:50:10, 2024-06-22 08:50:10, phishing, ab676a226e74b2148bc70c97c27de3a2, http://rqst.pages.dev
 171515, 2024-06-22 08:18:12, 2024-06-22 08:18:12, phishing, a4aa721a09e327ddcd3b74b33c30dd6e, http://marttinsdomaindevolopentstratagescomputerservice4.pages.dev
 171514, 2024-06-22 08:08:12, 2024-06-22 08:08:12, phishing, 3ee3ac844384b6c1e57d5357df4ed435, http://takebanzagivemepeppeepassshegenawetinudeowishyoutheweyidon.pages.dev
@@ -504,8 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 171024, 2024-06-21 11:27:24, 2024-06-21 11:27:24, malware, 6b7128c31521497d9990fedf98b6f658, http://42.235.95.245:41655/
 171023, 2024-06-21 11:27:23, 2024-06-21 11:27:23, malware, 9ddd453cb0ea4496bea7a6a83d5ee0a4, http://42.235.87.221:53251/bin.sh
 171022, 2024-06-21 11:27:21, 2024-06-21 11:27:21, malware, a3aa5f55e0964abea112167e30354ff6, http://42.235.55.146:54051/bin.sh
-171021, 2024-06-21 11:27:19, 2024-06-21 11:27:19, malware, 16911ad58882405b87fb61d543fd348f, http://42.230.38.15:52963/bin.sh
-171020, 2024-06-21 11:27:18, 2024-06-21 11:27:18, malware, 758649c56eb44bf38e43088a2fb1841e, http://42.227.176.161:54450/i
-171019, 2024-06-21 11:27:16, 2024-06-21 11:27:16, malware, 06c6ad0ec31f472cb244307ad3cd88bb, http://42.227.176.161:54450/bin.sh
-171018, 2024-06-21 11:27:14, 2024-06-21 11:27:14, malware, fc6b3df280dd4270b0e418d0976601ec, http://42.226.68.88:47161/i
-171017, 2024-06-21 11:27:13, 2024-06-21 11:27:13, malware, 89b959aa407e43bcad6f1002dda5053b, http://42.226.68.88:47161/bin.sh
