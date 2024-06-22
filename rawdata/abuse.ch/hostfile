@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-06-22 21:40:46 UTC                        #
+# Last updated: 2024-06-22 22:11:43 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	asevn.com
 127.0.0.1	dns.topinvestmentusa.net
 127.0.0.1	bar-fri.gl.at.ply.gg
 127.0.0.1	service-1w88bdif-1300276284.cd.tencentapigw.com
@@ -7672,5 +7673,4 @@
 127.0.0.1	lindacolor.com
 127.0.0.1	unougn.com
 127.0.0.1	conitreid.com
-127.0.0.1	conectmeto.net
 # Number of entries: 7667
