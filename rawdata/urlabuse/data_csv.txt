@@ -6,9 +6,14 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-22 08:00:01 UTC
+# UPDATE: 2024-06-22 09:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+171516, 2024-06-22 08:50:10, 2024-06-22 08:50:10, phishing, ab676a226e74b2148bc70c97c27de3a2, http://rqst.pages.dev
+171515, 2024-06-22 08:18:12, 2024-06-22 08:18:12, phishing, a4aa721a09e327ddcd3b74b33c30dd6e, http://marttinsdomaindevolopentstratagescomputerservice4.pages.dev
+171514, 2024-06-22 08:08:12, 2024-06-22 08:08:12, phishing, 3ee3ac844384b6c1e57d5357df4ed435, http://takebanzagivemepeppeepassshegenawetinudeowishyoutheweyidon.pages.dev
+171513, 2024-06-22 08:04:18, 2024-06-22 08:04:18, phishing, 5166430f1d4df752542ab8318216dc5c, https://bzc.uzz.mybluehost.me/Konto/SBB/index/
+171512, 2024-06-22 08:02:17, 2024-06-22 08:02:17, phishing, 4af5642289f51ece6eee9fbd998d72ca, https://naa.rbc.mybluehost.me/
 171511, 2024-06-22 07:36:15, 2024-06-22 07:36:15, phishing, eaf5b7663904615419930fe7d879983f, http://sync-integrate-dot.pages.dev
 171510, 2024-06-22 07:20:58, 2024-06-22 07:20:58, malware, 2acdee202cc1445cb343e7da3088a2b7, http://42.231.73.235:57955/Mozi.m
 171509, 2024-06-22 07:20:57, 2024-06-22 07:20:57, malware, d1b08511d74342608b165cc24a48e02d, http://192.210.150.58/709070/gui.exe
@@ -504,8 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 171019, 2024-06-21 11:27:16, 2024-06-21 11:27:16, malware, 06c6ad0ec31f472cb244307ad3cd88bb, http://42.227.176.161:54450/bin.sh
 171018, 2024-06-21 11:27:14, 2024-06-21 11:27:14, malware, fc6b3df280dd4270b0e418d0976601ec, http://42.226.68.88:47161/i
 171017, 2024-06-21 11:27:13, 2024-06-21 11:27:13, malware, 89b959aa407e43bcad6f1002dda5053b, http://42.226.68.88:47161/bin.sh
-171016, 2024-06-21 11:27:11, 2024-06-21 11:27:11, malware, 0a825f3136884f83bef292f7d7c6f912, http://42.225.205.68:54809/i
-171015, 2024-06-21 11:27:09, 2024-06-21 11:27:09, malware, bd76c75502ad497b85d9af5eb2bd1a6f, http://42.225.205.68:54809/bin.sh
-171014, 2024-06-21 11:27:08, 2024-06-21 11:27:08, malware, db1411de64bf4190b78d2dafaa7c8108, http://39.90.188.61:59527/i
-171013, 2024-06-21 11:27:06, 2024-06-21 11:27:06, malware, e5fbe6e040bd4196990b30eca15974a9, http://39.90.188.61:59527/bin.sh
-171012, 2024-06-21 11:27:05, 2024-06-21 11:27:05, malware, 937b702854e04090aa554f406809278d, http://222.142.245.190:35411/i
