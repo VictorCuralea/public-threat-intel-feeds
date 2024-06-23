@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-23 16:00:01 UTC
+# UPDATE: 2024-06-23 17:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+173072, 2024-06-23 16:24:12, 2024-06-23 16:24:12, phishing, 678c9c9b42751feebe71ca3c00e49441, http://interseptionaldownloadsseprationdomainsaech03.pages.dev
+173071, 2024-06-23 16:01:43, 2024-06-23 16:01:43, phishing, 38bea630b6b30284a93526902a3a38f0, https://www.lastmanstands.com/assets/components/gmaps/beachflag/config
+173070, 2024-06-23 16:00:45, 2024-06-23 16:00:45, phishing, cd9715cf4324bf7a68824cb4888dde34, http://telegrqam.icu/
 173069, 2024-06-23 15:44:17, 2024-06-23 15:44:17, phishing, 4bdc3ac0da3b2de1171d787d7ff798e4, http://tweb.iyutong.cn
 173068, 2024-06-23 15:30:58, 2024-06-23 15:30:58, malware, 28f3a0772998461aaa0f1958ed90f012, http://61.53.85.219:52460/i
 173067, 2024-06-23 15:30:47, 2024-06-23 15:30:47, malware, 73343368aefa40d886515025c57e5e36, http://61.3.135.110:48107/bin.sh
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 172575, 2024-06-23 07:27:00, 2024-06-23 07:27:00, malware, 2da98113233a4f1b8eab7fde9477ca15, http://59.88.238.174:44490/i
 172574, 2024-06-23 07:26:57, 2024-06-23 07:26:57, malware, a1899426bf104120aa9776cdbb3a549f, http://59.88.238.174:44490/bin.sh
 172573, 2024-06-23 07:26:21, 2024-06-23 07:26:21, malware, 2468b8bddc0a4f009aebce3f19003147, http://42.235.191.24:45349/Mozi.m
-172572, 2024-06-23 07:26:20, 2024-06-23 07:26:20, malware, 2d42f188629247ffbc49bd932cfe70e7, http://42.227.207.244:33981/bin.sh
-172571, 2024-06-23 07:26:18, 2024-06-23 07:26:18, malware, a79f20128a34451cb948ead7c191cb3d, http://42.227.203.25:41429/i
-172570, 2024-06-23 07:26:16, 2024-06-23 07:26:16, malware, 083368acdb024bb0a397ca6e016b79ee, http://42.225.196.123:44452/i
