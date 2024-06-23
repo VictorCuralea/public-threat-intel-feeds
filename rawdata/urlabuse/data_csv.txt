@@ -6,9 +6,14 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-23 22:00:01 UTC
+# UPDATE: 2024-06-23 23:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+173251, 2024-06-23 22:48:10, 2024-06-23 22:48:10, phishing, 424bf31bdca661af6625735780704ec8, http://stepnactivationn.pages.dev
+173250, 2024-06-23 22:14:12, 2024-06-23 22:14:12, phishing, df7310f04967dc9861f11a08db87a337, http://zniiv.pages.dev
+173249, 2024-06-23 22:02:33, 2024-06-23 22:02:33, phishing, b46a64f207c8346a850e55099265715a, https://admin.safepalverification.top/
+173248, 2024-06-23 22:02:23, 2024-06-23 22:02:23, hacked, e5d77853afadc139829bf5b62c702fdf, https://www.obera-iraq.com/1784.html
+173247, 2024-06-23 22:02:23, 2024-06-23 22:02:23, hacked, 629d5c6609a575c1a20d1bb15a674633, http://namiqjaff-system.com/1784.html
 173246, 2024-06-23 21:54:21, 2024-06-23 21:54:21, phishing, f4e265fed94db0f9074fb78b3616982d, http://telegrmal.icu
 173245, 2024-06-23 21:54:20, 2024-06-23 21:54:20, phishing, 6cb0dbe3c81d0eed6d238e131c6bc669, http://telegrmaw.icu
 173244, 2024-06-23 21:54:19, 2024-06-23 21:54:19, phishing, bc47ac5e990a7e19db2f57bfb69460c7, http://telegarcm.icu
@@ -504,8 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 172754, 2024-06-23 09:48:18, 2024-06-23 09:48:18, phishing, 93d6a8d229f866745908cb9f10c0c33b, https://ipfs.io/ipfs/bafybeidzasoz3vazdl43vv36dluwimunha6flfzomrgdzsuzkr5odynoie/
 172753, 2024-06-23 09:47:47, 2024-06-23 09:43:56, phishing, a9a31e4cee36a7fbd942659448e4fd1d, https://cloudflare-ipfs.com/ipfs/bafybeidzasoz3vazdl43vv36dluwimunha6flfzomrgdzsuzkr5odynoie/
 172752, 2024-06-23 09:31:19, 2024-06-23 09:31:19, malware, 38d207db86c041bf84e23c3833485af7, http://78.188.183.85:43185/i
-172751, 2024-06-23 09:31:12, 2024-06-23 09:31:12, malware, 480ce15f52ff45f19b8c0d547dba4eee, http://61.53.85.219:52460/Mozi.m
-172750, 2024-06-23 09:31:10, 2024-06-23 09:31:10, malware, a89099161fd14652a6ae245b5ee38300, http://61.53.252.48:34019/i
-172749, 2024-06-23 09:31:09, 2024-06-23 09:31:09, malware, 3162f8c82d5943a794867da80f991737, http://61.53.252.48:34019/bin.sh
-172748, 2024-06-23 09:31:07, 2024-06-23 09:31:07, malware, f3efb457b2094505b3f3feb8ae43084a, http://61.53.251.32:35607/bin.sh
-172747, 2024-06-23 09:31:06, 2024-06-23 09:31:06, malware, 2904f3d2e298417f8677a64d43fb9ea3, http://61.53.248.212:49366/bin.sh
