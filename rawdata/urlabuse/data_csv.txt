@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-23 18:00:01 UTC
+# UPDATE: 2024-06-23 19:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+173120, 2024-06-23 18:22:15, 2024-06-23 18:22:15, phishing, 7fe5c862f045b2e780cf627df728c8b9, http://wallet.migrationplatforms.online
+173119, 2024-06-23 18:06:18, 2024-06-23 18:06:18, phishing, 51b3df7796cc504a5ef1fed12517d902, http://ghr6j1ry.trpl2b.my.id
 173118, 2024-06-23 17:26:15, 2024-06-23 17:26:15, malware, f67213e717f94b9f87f33cfa3ee12bbd, http://61.3.142.73:46368/Mozi.m
 173117, 2024-06-23 17:26:10, 2024-06-23 17:26:10, phishing, f8360fa5b72e8c38143325a16ac905a3, http://interseptionaldownloadsseprationdomainsaech04.pages.dev
 173116, 2024-06-23 17:26:02, 2024-06-23 17:26:02, malware, 648d907113484adbbab9045f29f1e7c8, http://59.97.121.63:40529/Mozi.m
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 172623, 2024-06-23 07:46:00, 2024-06-23 07:46:00, phishing, c825d83e1c298824904e8fac3f73754a, http://imtoken-lm.top
 172622, 2024-06-23 07:45:56, 2024-06-23 07:45:56, phishing, c08b26c3d957b7e281abc309deae7e62, http://imtoken-ru.top
 172621, 2024-06-23 07:45:52, 2024-06-23 07:45:52, phishing, fc43e45b3f144b16f524c8ce4b330773, http://imtoken-nl.top
-172620, 2024-06-23 07:45:50, 2024-06-23 07:45:50, phishing, ccdb619b991c10ae939415e5e02984a3, http://imtoken-nc.top
-172619, 2024-06-23 07:45:48, 2024-06-23 07:45:48, phishing, d96278019b57965e6ae580495829eca8, http://imtoken-yl.top

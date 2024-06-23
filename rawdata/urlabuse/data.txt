@@ -6,8 +6,10 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-23 18:00:01 UTC
+# UPDATE: 2024-06-23 19:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 173120, "url": "http://wallet.migrationplatforms.online", "discovery": "2024-06-23 18:22:15", "added": "2024-06-23 18:22:15", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "7fe5c862f045b2e780cf627df728c8b9"}
+{"id": 173119, "url": "http://ghr6j1ry.trpl2b.my.id", "discovery": "2024-06-23 18:06:18", "added": "2024-06-23 18:06:18", "target": "Whatsapp", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "51b3df7796cc504a5ef1fed12517d902"}
 {"id": 173118, "url": "http://61.3.142.73:46368/Mozi.m", "discovery": "2024-06-23 17:26:15", "added": "2024-06-23 17:26:15", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "f67213e717f94b9f87f33cfa3ee12bbd"}
 {"id": 173117, "url": "http://interseptionaldownloadsseprationdomainsaech04.pages.dev", "discovery": "2024-06-23 17:26:10", "added": "2024-06-23 17:26:10", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "f8360fa5b72e8c38143325a16ac905a3"}
 {"id": 173116, "url": "http://59.97.121.63:40529/Mozi.m", "discovery": "2024-06-23 17:26:02", "added": "2024-06-23 17:26:02", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "648d907113484adbbab9045f29f1e7c8"}
@@ -506,5 +508,3 @@
 {"id": 172623, "url": "http://imtoken-lm.top", "discovery": "2024-06-23 07:46:00", "added": "2024-06-23 07:46:00", "target": "imToken", "reporter": "lruray", "AbuseType": "phishing", "UUID": "c825d83e1c298824904e8fac3f73754a"}
 {"id": 172622, "url": "http://imtoken-ru.top", "discovery": "2024-06-23 07:45:56", "added": "2024-06-23 07:45:56", "target": "imToken", "reporter": "lruray", "AbuseType": "phishing", "UUID": "c08b26c3d957b7e281abc309deae7e62"}
 {"id": 172621, "url": "http://imtoken-nl.top", "discovery": "2024-06-23 07:45:52", "added": "2024-06-23 07:45:52", "target": "imToken", "reporter": "lruray", "AbuseType": "phishing", "UUID": "fc43e45b3f144b16f524c8ce4b330773"}
-{"id": 172620, "url": "http://imtoken-nc.top", "discovery": "2024-06-23 07:45:50", "added": "2024-06-23 07:45:50", "target": "imToken", "reporter": "lruray", "AbuseType": "phishing", "UUID": "ccdb619b991c10ae939415e5e02984a3"}
-{"id": 172619, "url": "http://imtoken-yl.top", "discovery": "2024-06-23 07:45:48", "added": "2024-06-23 07:45:48", "target": "imToken", "reporter": "lruray", "AbuseType": "phishing", "UUID": "d96278019b57965e6ae580495829eca8"}
