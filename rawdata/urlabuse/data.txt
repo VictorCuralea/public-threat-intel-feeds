@@ -6,8 +6,10 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-23 02:00:01 UTC
+# UPDATE: 2024-06-23 03:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 172166, "url": "http://aac-dqh.pages.dev", "discovery": "2024-06-23 02:20:11", "added": "2024-06-23 02:20:11", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "6f8bf271d5a339fc9b6da878c413404f"}
+{"id": 172165, "url": "http://hgvbnmkiuytrdxdfcxzaqwazxsdrfcxdedcfrtgvgyhnbvbnyujn00.pages.dev", "discovery": "2024-06-23 02:08:12", "added": "2024-06-23 02:08:12", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "ffa278743b7889037a204dcb6a185cde"}
 {"id": 172164, "url": "http://dianbaotg.cc", "discovery": "2024-06-23 01:38:21", "added": "2024-06-23 01:38:21", "target": "Telegram", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "322082aeaed7f93c6952aa6c067af9a7"}
 {"id": 172163, "url": "http://yhdjshndjajenfkaukehakshxnhkchashajzxwhttps0330.pages.dev", "discovery": "2024-06-23 01:36:11", "added": "2024-06-23 01:36:11", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "7f498451b61af3224cba735494bd69da"}
 {"id": 172162, "url": "http://66.54.98.190:56726/Mozi.m", "discovery": "2024-06-23 01:28:04", "added": "2024-06-23 01:28:04", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "545fe821be554e58a2016572da3b9441"}
@@ -506,5 +508,3 @@
 {"id": 171669, "url": "https://islandfurnihire.com/", "discovery": "2024-06-22 14:04:27", "added": "2024-06-22 14:04:27", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "bf25845db9a4ecc81a4b9ba632ff16cd"}
 {"id": 171668, "url": "https://kktravelbee.com/", "discovery": "2024-06-22 14:04:25", "added": "2024-06-22 14:04:25", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "8cfeffce83aa5cfc30a59e2b9421986b"}
 {"id": 171667, "url": "https://trafally.com/", "discovery": "2024-06-22 14:04:23", "added": "2024-06-22 14:04:23", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "7ef1661e72754719d89421352093090a"}
-{"id": 171666, "url": "https://travmedicina.ru/index.html", "discovery": "2024-06-22 14:04:17", "added": "2024-06-22 14:04:17", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "f469abfc68cd4315ba95f1c489cd3dac"}
-{"id": 171665, "url": "https://medych.ru/index.html", "discovery": "2024-06-22 14:04:15", "added": "2024-06-22 14:04:15", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "c47bee63ab5daa54b62d4798644d753d"}

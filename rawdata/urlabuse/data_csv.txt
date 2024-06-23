@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-23 02:00:01 UTC
+# UPDATE: 2024-06-23 03:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+172166, 2024-06-23 02:20:11, 2024-06-23 02:20:11, phishing, 6f8bf271d5a339fc9b6da878c413404f, http://aac-dqh.pages.dev
+172165, 2024-06-23 02:08:12, 2024-06-23 02:08:12, phishing, ffa278743b7889037a204dcb6a185cde, http://hgvbnmkiuytrdxdfcxzaqwazxsdrfcxdedcfrtgvgyhnbvbnyujn00.pages.dev
 172164, 2024-06-23 01:38:21, 2024-06-23 01:38:21, phishing, 322082aeaed7f93c6952aa6c067af9a7, http://dianbaotg.cc
 172163, 2024-06-23 01:36:11, 2024-06-23 01:36:11, phishing, 7f498451b61af3224cba735494bd69da, http://yhdjshndjajenfkaukehakshxnhkchashajzxwhttps0330.pages.dev
 172162, 2024-06-23 01:28:04, 2024-06-23 01:28:04, malware, 545fe821be554e58a2016572da3b9441, http://66.54.98.190:56726/Mozi.m
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 171669, 2024-06-22 14:04:27, 2024-06-22 14:04:27, hacked, bf25845db9a4ecc81a4b9ba632ff16cd, https://islandfurnihire.com/
 171668, 2024-06-22 14:04:25, 2024-06-22 14:04:25, hacked, 8cfeffce83aa5cfc30a59e2b9421986b, https://kktravelbee.com/
 171667, 2024-06-22 14:04:23, 2024-06-22 14:04:23, hacked, 7ef1661e72754719d89421352093090a, https://trafally.com/
-171666, 2024-06-22 14:04:17, 2024-06-22 14:04:17, hacked, f469abfc68cd4315ba95f1c489cd3dac, https://travmedicina.ru/index.html
-171665, 2024-06-22 14:04:15, 2024-06-22 14:04:15, hacked, c47bee63ab5daa54b62d4798644d753d, https://medych.ru/index.html
