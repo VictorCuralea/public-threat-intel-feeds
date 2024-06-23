@@ -6,9 +6,20 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-23 20:00:01 UTC
+# UPDATE: 2024-06-23 21:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+173190, 2024-06-23 20:46:19, 2024-06-23 20:06:15, phishing, f854c35aaabeae284649cb2021407ea5, https://diepost-schweizerische-post.codeanyapp.com/manage/
+173189, 2024-06-23 20:36:26, 2024-06-23 20:36:26, phishing, 1fd9be9b80885fc4233d9e169edd7229, http://teiegerouam.com
+173188, 2024-06-23 20:36:24, 2024-06-23 20:36:24, phishing, db3ab34489ba2a7de0b6afdd2030a2cb, http://teiegroneam.com
+173187, 2024-06-23 20:36:24, 2024-06-23 20:36:24, phishing, b60553e8610064fd13395333c3513bb1, http://teiegerouam.com
+173186, 2024-06-23 20:36:22, 2024-06-23 20:36:22, phishing, 06dff563a83064038aba0dabafd115ea, http://teiegroneam.com
+173185, 2024-06-23 20:34:21, 2024-06-23 20:34:21, phishing, aa73907cea99dfe46a0fa1355284adf5, http://teiegreonam.com
+173184, 2024-06-23 20:34:20, 2024-06-23 20:34:20, phishing, e493f6756b5ded9df3fd9457611dae13, http://teiegreonam.com
+173183, 2024-06-23 20:06:25, 2024-06-23 20:06:25, phishing, 0f480df1c522cf74fcf44f7b6d1232c8, https://sslbc568dz2545241.from-wv.com/
+173182, 2024-06-23 20:06:23, 2024-06-23 20:06:23, phishing, da1f3a5242686d1d1869bda55508b754, https://vcd.wxk.mybluehost.me/swissadmin/
+173181, 2024-06-23 20:06:17, 2024-06-23 20:06:17, phishing, 8dda657ad23cc6885bde38c93dd9cd79, https://lp.see-energia.com/
+173180, 2024-06-23 20:06:11, 2024-06-23 20:06:11, phishing, 33f2390b941cd9d8db5c239db1be2d3f, https://sdupont.v70208.campus-centre.fr/hermosa/fariane/update/pay-method.php?lt_utm_source=lt_admin_share_link
 173179, 2024-06-23 19:28:57, 2024-06-23 19:28:57, malware, 47a6a23a0f474ffda7731aae0151130f, http://99.139.228.75:43406/bin.sh
 173178, 2024-06-23 19:28:55, 2024-06-23 19:28:55, malware, 7622496cbf064e43b4153978480fa166, http://61.53.83.246:46768/bin.sh
 173177, 2024-06-23 19:28:54, 2024-06-23 19:28:54, malware, 63e52e37cb5a4d5cbfe6374b9d5bdf8c, http://61.3.80.190:46442/Mozi.m
@@ -498,14 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 172693, 2024-06-23 09:23:49, 2024-06-23 09:23:49, malware, 618c8bcfbbce4f83bebd0adc3f4362ad, http://117.245.34.15:57763/Mozi.m
 172692, 2024-06-23 09:23:46, 2024-06-23 09:23:46, malware, 30ca997216e047c794f77eb392d21689, http://117.245.32.253:45898/i
 172691, 2024-06-23 09:23:43, 2024-06-23 09:23:43, malware, f11ccd6dab8b41b483e4b05486916088, http://117.245.32.253:45898/bin.sh
-172690, 2024-06-23 09:23:18, 2024-06-23 09:23:18, malware, dfd65ce68e174c0abf4b5d0f249c8246, http://117.242.234.39:54890/bin.sh
-172689, 2024-06-23 09:23:13, 2024-06-23 09:23:13, malware, e4ca00b21419473d9f96b26bd9e6bf26, http://117.222.228.136:53605/i
-172688, 2024-06-23 09:22:52, 2024-06-23 09:22:52, malware, 58bc7d85efab4aeabb64567702e3bb9f, http://117.222.122.17:50340/bin.sh
-172687, 2024-06-23 09:22:31, 2024-06-23 09:22:31, malware, 94f25886de714556b49446a609c4984c, http://117.220.151.95:36272/i
-172686, 2024-06-23 09:22:29, 2024-06-23 09:22:29, malware, e99c6fc7431a4552a11f59bb6a967cf5, http://117.220.151.95:36272/bin.sh
-172685, 2024-06-23 09:22:28, 2024-06-23 09:22:28, malware, 39b04b381e744ee2a04a19bc5dc99a68, http://117.212.56.100:45843/Mozi.m
-172684, 2024-06-23 09:22:15, 2024-06-23 09:22:15, malware, f6c3b4eb87a8488fa10abf0229289b7b, http://117.212.163.139:49690/Mozi.m
-172683, 2024-06-23 09:21:44, 2024-06-23 09:21:44, malware, 05f23cd456694c4d84e221dc95ffe865, http://117.206.191.0:57650/Mozi.m
-172682, 2024-06-23 09:21:11, 2024-06-23 09:21:11, malware, 6036cd4e57c74ff9bbd5df1ad10abe72, http://117.203.130.253:35916/bin.sh
-172681, 2024-06-23 09:21:09, 2024-06-23 09:21:09, malware, 87cf5e2499a041c99e34e9bd0eb9b9a6, http://117.199.77.125:59768/bin.sh
-172680, 2024-06-23 09:20:37, 2024-06-23 09:20:37, malware, 12635f8ad4d649ecbc861f31d4781e9a, http://116.24.83.172:49543/bin.sh
