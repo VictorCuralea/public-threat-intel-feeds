@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-24 00:00:01 UTC
+# UPDATE: 2024-06-24 01:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+173325, 2024-06-24 00:38:13, 2024-06-24 00:38:13, phishing, 674ed99f2366bcba888082eafbb18882, http://setbuilderpro.pages.dev
+173324, 2024-06-24 00:28:16, 2024-06-24 00:28:16, phishing, e49dc25de9d3db287372a8ea78d58087, http://adminuser.tgmyz.org
+173323, 2024-06-24 00:08:17, 2024-06-24 00:08:17, phishing, f8f2a69b639227a85b0b3bf2981025f8, http://fixserverweb3.pages.dev
+173322, 2024-06-24 00:00:12, 2024-06-24 00:00:12, phishing, 3e22c9d31ee135e021c085051387f1f0, http://old-base-2597.sever-domain99.workers.dev
 173321, 2024-06-23 23:52:18, 2024-06-23 23:52:18, phishing, 64d9a6ac8c34bf3e1e70be7a97d23962, http://therealestgoatstuff.xyz
 173320, 2024-06-23 23:32:11, 2024-06-23 23:32:11, phishing, b6e9af1044cb56ff319046d5d4c09747, http://noisy-paper-1d97.stevenprice8288.workers.dev
 173319, 2024-06-23 23:27:04, 2024-06-23 23:27:04, malware, 8041d7a1b83449e2b636a4bff404d3b1, http://66.23.151.162:33220/i
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 172828, 2024-06-23 11:26:24, 2024-06-23 11:26:24, malware, 18cb2db8341a49b5bbde3ecc9f111455, http://59.95.89.201:38240/Mozi.m
 172827, 2024-06-23 11:26:07, 2024-06-23 11:26:07, malware, 83a6c38605f8444c81366f0e7649b6c0, http://59.95.120.138:33046/bin.sh
 172826, 2024-06-23 11:24:44, 2024-06-23 11:24:44, malware, f6bad79ea48c425a94c371df129e4416, http://59.183.115.154:42156/bin.sh
-172825, 2024-06-23 11:24:32, 2024-06-23 11:24:32, malware, b912ad79c0e2437f9198dc846a9c054d, http://59.178.79.63:53320/i
-172824, 2024-06-23 11:24:30, 2024-06-23 11:24:30, malware, adb062f7ae8f445bb15a6e0f99d66ed9, http://42.59.140.145:54036/bin.sh
-172823, 2024-06-23 11:24:28, 2024-06-23 11:24:28, malware, e1af614ab2b24d1993b6d642ce2b0fa8, http://42.56.206.86:37297/i
-172822, 2024-06-23 11:24:25, 2024-06-23 11:24:25, malware, 1d2a3cc590044a7c8b4d4fca9ced680d, http://42.56.206.86:37297/bin.sh
