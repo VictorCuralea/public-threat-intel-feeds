@@ -6,9 +6,15 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-24 22:00:01 UTC
+# UPDATE: 2024-06-24 23:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+174904, 2024-06-24 22:50:14, 2024-06-24 22:50:14, phishing, 0be2b3378efbafcc0514fed9a445bd00, http://swiftdebugapps.pages.dev
+174903, 2024-06-24 22:48:11, 2024-06-24 22:48:11, phishing, 4890edfdd3cbd4a7d8ee32e786a09649, http://auth-gate.docusgn-sharedviaoffic3.workers.dev
+174902, 2024-06-24 22:20:11, 2024-06-24 22:20:11, phishing, 698881305b6ae39f777c2da16a555183, http://seddesservermabagecloudsergeneratorjsjherjrsjg1122.pages.dev
+174901, 2024-06-24 22:16:15, 2024-06-24 22:16:15, phishing, 15f66fb50fa8f4dc490574ed27e324b0, http://megamint-solution.com
+174900, 2024-06-24 22:01:41, 2024-06-24 22:01:41, phishing, cacf97101c275671045f46a827e0a580, https://declaration-oss.github.io/zita
+174899, 2024-06-24 22:01:15, 2024-06-24 22:01:15, phishing, e0f2ad8b08a4137f532dff7e9cd9a606, http://notifyhubss.net/4654854abud2854528lbc4ef213l8c99b2eb.html__;!!OepYZ6Q!4iWXRyEF9O3QT4ziC1sbx1505tKZEkodLoAX1q3P4GctEOgkS-McklxDx5xnI9ygDQT5q30FMWhaA8QSaUweXr8Bp2o
 174898, 2024-06-24 21:32:16, 2024-06-24 21:32:16, phishing, 58b51f70a0730acc573b844765afc840, http://propagates-dapp.pages.dev
 174897, 2024-06-24 21:24:21, 2024-06-24 21:24:21, malware, a8eb3c4876ba4fc586685d2c04dcfe94, https://universalmovies.top/ExtExport2.exe
 174896, 2024-06-24 21:24:14, 2024-06-24 21:24:14, malware, 675d4fc50f9c4071ab4b7aba70dbbec3, http://61.0.181.53:50987/Mozi.m
@@ -503,9 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 174407, 2024-06-24 09:29:11, 2024-06-24 09:29:11, malware, e6ade01bc5d24fc8b49b326c0ae10dfb, http://222.138.79.182:45838/bin.sh
 174406, 2024-06-24 09:29:00, 2024-06-24 09:29:00, malware, 2e91dd0686a643158ecee03a7a16ac85, http://222.138.118.161:35252/i
 174405, 2024-06-24 09:28:58, 2024-06-24 09:28:58, malware, 7ef68dc76f3f496fb7120e054117e9b1, http://222.138.118.161:35252/bin.sh
-174404, 2024-06-24 09:28:50, 2024-06-24 09:28:50, malware, 7a8966f6130f4d5ea305a5c4b27e83a2, http://218.29.31.88:45103/i
-174403, 2024-06-24 09:28:48, 2024-06-24 09:28:48, malware, 404c0bc54a0746898371532571562721, http://218.29.31.88:45103/bin.sh
-174402, 2024-06-24 09:28:47, 2024-06-24 09:28:47, malware, 097155fd579a4a92a5f71a2d3fc22711, http://200.109.149.229:50719/bin.sh
-174401, 2024-06-24 09:28:44, 2024-06-24 09:28:44, malware, 5d1c43ca142c45bb99c0bcf2d87e095a, http://2.185.140.219:56481/bin.sh
-174400, 2024-06-24 09:28:41, 2024-06-24 09:28:41, malware, 2cdc389198b64a67a7733188f72279d1, http://190.72.185.254:60962/i
-174399, 2024-06-24 09:27:53, 2024-06-24 09:27:53, malware, 258bfd253e04448c87b042388d813e18, http://182.124.71.214:59177/Mozi.m
