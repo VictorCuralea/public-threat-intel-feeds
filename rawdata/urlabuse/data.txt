@@ -6,8 +6,14 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-24 20:00:02 UTC
+# UPDATE: 2024-06-24 21:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 174849, "url": "http://ulu.so", "discovery": "2024-06-24 20:36:15", "added": "2024-06-24 20:36:15", "target": "Telegram", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "388104bb03d6ea6881d82344a40d6fdd"}
+{"id": 174848, "url": "http://portalprotocol.pages.dev", "discovery": "2024-06-24 20:34:13", "added": "2024-06-24 20:34:13", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "d7bb3119801338c5f6c67eec4aaab5ee"}
+{"id": 174847, "url": "http://rojdingserijridhsjbalsisgser3.pages.dev", "discovery": "2024-06-24 20:30:12", "added": "2024-06-24 20:30:12", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "2bc979469449e8a1dcc5916be58c8f4b"}
+{"id": 174846, "url": "http://fixs-datarace.pages.dev", "discovery": "2024-06-24 20:06:15", "added": "2024-06-24 20:06:15", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "847a8e25b11c325def615be055dc6606"}
+{"id": 174845, "url": "http://uspssafety.online", "discovery": "2024-06-24 20:06:14", "added": "2024-06-24 20:06:14", "target": "USPS", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "f77e79fea2e0f4aa7defed9f005a7cfe"}
+{"id": 174844, "url": "http://uspssafety.online", "discovery": "2024-06-24 20:06:14", "added": "2024-06-24 20:06:14", "target": "USPS", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "43d5ff2abb5586afa5f2927425ee4bb9"}
 {"id": 174843, "url": "http://livemigratoksuvtwo.pages.dev", "discovery": "2024-06-24 19:36:15", "added": "2024-06-24 19:36:15", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "6366bc60797af00ba38a6d4247a96365"}
 {"id": 174842, "url": "http://61.52.212.65:42148/Mozi.m", "discovery": "2024-06-24 19:25:22", "added": "2024-06-24 19:25:22", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "2827ecf9ea674375887bf7382a29a3d4"}
 {"id": 174841, "url": "http://61.3.138.227:37125/bin.sh", "discovery": "2024-06-24 19:25:20", "added": "2024-06-24 19:25:20", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "0760d818ea32413583adb5ed8c57cd92"}
@@ -502,9 +508,3 @@
 {"id": 174352, "url": "http://112.246.145.244:59193/i", "discovery": "2024-06-24 09:20:16", "added": "2024-06-24 09:20:16", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "5afabfc5f94e49a791a37748bb7f93d7"}
 {"id": 174351, "url": "http://integrate-sync-mig.pages.dev", "discovery": "2024-06-24 09:14:15", "added": "2024-06-24 09:14:15", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "feafd828faea9d00955abbad4cd2eefe"}
 {"id": 174350, "url": "http://42.85.8.238:37940/bin.sh", "discovery": "2024-06-24 09:00:11", "added": "2024-06-24 09:00:11", "target": "#ELF32_MIPSv1", "reporter": "lrudbot", "AbuseType": "malware", "UUID": "537f184d73644a7da392fdab2f831411"}
-{"id": 174349, "url": "http://42.7.151.238:39548/bin.sh", "discovery": "2024-06-24 09:00:09", "added": "2024-06-24 09:00:09", "target": "#ELF32_MIPSv1", "reporter": "lrudbot", "AbuseType": "malware", "UUID": "a406ba9571c7403d9ac2ba72d2f52b8c"}
-{"id": 174348, "url": "https://partwanadoo.weebly.com/", "discovery": "2024-06-24 08:40:14", "added": "2024-06-24 08:47:03", "target": "Orange", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "7f83591cd2dce27af0f78d2d50422412"}
-{"id": 174347, "url": "https://weborangefr.weebly.com/", "discovery": "2024-06-24 08:40:14", "added": "2024-06-24 08:40:14", "target": "Other", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "6846f894395a27947a915244116869f2"}
-{"id": 174346, "url": "http://druznk.pjnhcrf.cn/h5/", "discovery": "2024-06-24 08:29:41", "added": "2024-06-24 08:38:26", "target": "CN-GOV", "reporter": "anonymous", "AbuseType": "phishing", "UUID": "236f23560a50f984a82ea5f94bfe5335"}
-{"id": 174345, "url": "https://fedex.standard.us-east-1.oortech.com/alibaba.html?signature=37592ceeec8a6c8e6a92f571b37f247ec474ab95f869b51adf25859baa11918f0dcceb837d37e3ed3db1c547441dd816756f2478d5bcafc7d6824fd4a52a34cdd63654db259ba50f578017156d2f4df15eff945a8a259c3f77de51cb102a30a0&", "discovery": "2024-06-24 08:10:34", "added": "2024-06-24 08:27:22", "target": "Alibaba", "reporter": "anonymous", "AbuseType": "phishing", "UUID": "d465a1e90b1a8920dbc175ff6f9bf89e"}
-{"id": 174344, "url": "https://tklegal.com.br/transferwise29/", "discovery": "2024-06-24 08:00:32", "added": "2024-06-24 08:00:32", "target": "Wise", "reporter": "urlabuse", "AbuseType": "phishing", "UUID": "9328c68e5357e1d19bda9dae516d7b72"}
