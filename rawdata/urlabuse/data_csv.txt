@@ -6,9 +6,15 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-25 17:00:01 UTC
+# UPDATE: 2024-06-25 18:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+175647, 2024-06-25 17:42:19, 2024-06-25 17:42:19, phishing, 777bb39a8db82ec0201367a3ade404a8, https://docs.google.com/presentation/d/e/2PACX-1vRc1RaSHlvVNvyrHZmTPemJ6tF0-XOAyAUxjQcwKLKpngWUM8xaqAccwW13vUUNWfywacjPAv-35S7G/pub?start=false
+175646, 2024-06-25 17:26:14, 2024-06-25 17:26:14, phishing, ff4186c34065006d18b577f91c8f7d9a, http://ebsofillinois.pages.dev
+175645, 2024-06-25 17:08:06, 2024-06-25 17:02:16, phishing, e87b636513571bfd4c230e3323a1a944, https://genevievebarker0178516.activehosted.com/f/1
+175644, 2024-06-25 17:06:33, 2024-06-25 17:06:33, phishing, 4fd3b0ff158d3fade6c1ed88d6cf157d, https://2024-bt.webflow.io/
+175643, 2024-06-25 17:06:30, 2024-06-25 17:06:30, phishing, c0fbf731d7a27dc8b1908ab5eb5f4fcc, https://somginw.weeblysite.com/
+175642, 2024-06-25 17:06:22, 2024-06-25 17:06:22, phishing, 77b32211c2640f7a8c342657db351502, https://my-site-104859-101365.weeblysite.com/
 175641, 2024-06-25 16:12:14, 2024-06-25 16:12:14, phishing, a31198b64b5ab6a38af8ae8b6983964e, http://servicequestplumbings.pages.dev
 175640, 2024-06-25 16:10:19, 2024-06-25 16:10:19, phishing, 643ff67a04ae0565f7a7a4aa8fa847a8, http://post.istk.ru
 175639, 2024-06-25 16:08:15, 2024-06-25 16:08:15, phishing, 6bc5426032b16955e19cfe6ee263dd6a, http://sms-vitale.fr
@@ -503,9 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 175148, 2024-06-25 05:25:13, 2024-06-25 05:25:13, malware, 41fe3efa21184272a6cdaa3513dde2e5, http://219.157.213.59:54431/i
 175147, 2024-06-25 05:25:12, 2024-06-25 05:25:12, malware, 5e5f3758db70466a948ae59e34fb8e36, http://219.157.213.59:54431/bin.sh
 175146, 2024-06-25 05:25:10, 2024-06-25 05:25:10, malware, a72f2273654943b8a0b33a48630174f0, http://219.157.137.57:43426/Mozi.m
-175145, 2024-06-25 05:25:09, 2024-06-25 05:25:09, malware, c8240fb500b5470a82741b31d200e77f, http://218.71.176.231:45309/i
-175144, 2024-06-25 05:25:06, 2024-06-25 05:25:06, malware, 847ca78654644127ae630f0ef6068e37, http://218.71.176.231:45309/bin.sh
-175143, 2024-06-25 05:25:03, 2024-06-25 05:25:03, malware, 8714ef72f5e34faa9eca8705153132f2, http://2.185.140.219:50671/bin.sh
-175142, 2024-06-25 05:24:49, 2024-06-25 05:24:49, malware, ee7fc0d1c1e54f9eaec47bdb4edf5141, http://185.196.118.86:49704/Mozi.m
-175141, 2024-06-25 05:24:29, 2024-06-25 05:24:29, malware, 23c4a068ce884fedbf875db4cb90a4db, http://182.126.88.44:58761/bin.sh
-175140, 2024-06-25 05:24:27, 2024-06-25 05:24:27, malware, 9f856fb8c7df4a08a74c3f5c6e75855f, http://182.126.104.74:60928/i
