@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-25 00:00:01 UTC
+# UPDATE: 2024-06-25 01:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+174961, 2024-06-25 00:34:12, 2024-06-25 00:34:12, phishing, 99a5a9217f91a3907f77e1c524b86083, http://hys.pages.dev
+174960, 2024-06-25 00:04:14, 2024-06-25 00:04:14, phishing, c8c7a961969c8f6500c97833273a865c, http://infiniti-polarizados.com
 174959, 2024-06-24 23:26:05, 2024-06-24 23:26:05, malware, b91897df6a634cfe918dce781ed9e229, http://93.80.203.69:33211/Mozi.a
 174958, 2024-06-24 23:26:04, 2024-06-24 23:26:04, malware, f5c10feb4e8d4063b50313fbc5b3cdee, http://93.80.203.69:33211/i
 174957, 2024-06-24 23:26:02, 2024-06-24 23:26:02, malware, 8ee9955939584d54b46d9e25e140d666, http://93.80.203.69:33211/bin.sh
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 174463, 2024-06-24 10:32:12, 2024-06-24 10:32:12, phishing, 0a606cf96f9dda3c2deadb9677047f8f, http://bfd05.pages.dev
 174462, 2024-06-24 10:30:26, 2024-06-24 09:48:16, phishing, e111eef0eb471f73e2bdaba1682a153c, https://www.dropbox.com/scl/fi/1sduqpbcq1cju6e1ekg6w/TalkTalk-Telecommunications.paper?rlkey=kxhl97pwgg9urdeurnmst9h2x
 174461, 2024-06-24 10:26:42, 2024-06-24 09:46:30, phishing, d277d1f05208dc98d9af51954e170af0, https://eeportal.live/l/exp/support
-174460, 2024-06-24 10:25:52, 2024-06-24 10:25:52, phishing, 89f44b63408dc3062f1426333f6559f6, https://derekjean77653.activehosted.com/f/1
-174459, 2024-06-24 10:25:42, 2024-06-24 09:42:13, phishing, 47d79ca7eac277c0fca08241c264b7fd, http://flowto.it/akVjx8cCD?fc=0

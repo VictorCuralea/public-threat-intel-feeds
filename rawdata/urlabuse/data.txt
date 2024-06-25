@@ -6,8 +6,10 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-25 00:00:01 UTC
+# UPDATE: 2024-06-25 01:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 174961, "url": "http://hys.pages.dev", "discovery": "2024-06-25 00:34:12", "added": "2024-06-25 00:34:12", "target": "Yahoo!", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "99a5a9217f91a3907f77e1c524b86083"}
+{"id": 174960, "url": "http://infiniti-polarizados.com", "discovery": "2024-06-25 00:04:14", "added": "2024-06-25 00:04:14", "target": "Facebook", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "c8c7a961969c8f6500c97833273a865c"}
 {"id": 174959, "url": "http://93.80.203.69:33211/Mozi.a", "discovery": "2024-06-24 23:26:05", "added": "2024-06-24 23:26:05", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "b91897df6a634cfe918dce781ed9e229"}
 {"id": 174958, "url": "http://93.80.203.69:33211/i", "discovery": "2024-06-24 23:26:04", "added": "2024-06-24 23:26:04", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "f5c10feb4e8d4063b50313fbc5b3cdee"}
 {"id": 174957, "url": "http://93.80.203.69:33211/bin.sh", "discovery": "2024-06-24 23:26:02", "added": "2024-06-24 23:26:02", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "8ee9955939584d54b46d9e25e140d666"}
@@ -506,5 +508,3 @@
 {"id": 174463, "url": "http://bfd05.pages.dev", "discovery": "2024-06-24 10:32:12", "added": "2024-06-24 10:32:12", "target": "Amazon", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "0a606cf96f9dda3c2deadb9677047f8f"}
 {"id": 174462, "url": "https://www.dropbox.com/scl/fi/1sduqpbcq1cju6e1ekg6w/TalkTalk-Telecommunications.paper?rlkey=kxhl97pwgg9urdeurnmst9h2x", "discovery": "2024-06-24 09:48:16", "added": "2024-06-24 10:30:26", "target": "TalkTalk", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "e111eef0eb471f73e2bdaba1682a153c"}
 {"id": 174461, "url": "https://eeportal.live/l/exp/support", "discovery": "2024-06-24 09:46:30", "added": "2024-06-24 10:26:42", "target": "EE", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "d277d1f05208dc98d9af51954e170af0"}
-{"id": 174460, "url": "https://derekjean77653.activehosted.com/f/1", "discovery": "2024-06-24 10:25:52", "added": "2024-06-24 10:25:52", "target": "BT", "reporter": "urlabuse", "AbuseType": "phishing", "UUID": "89f44b63408dc3062f1426333f6559f6"}
-{"id": 174459, "url": "http://flowto.it/akVjx8cCD?fc=0", "discovery": "2024-06-24 09:42:13", "added": "2024-06-24 10:25:42", "target": "BT", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "47d79ca7eac277c0fca08241c264b7fd"}
