@@ -6,8 +6,12 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-25 20:00:01 UTC
+# UPDATE: 2024-06-25 21:00:02 UTC
 ############### END COMMENTS ###############
+{"id": 175678, "url": "http://kgfrdt2.pages.dev", "discovery": "2024-06-25 20:58:14", "added": "2024-06-25 20:58:14", "target": "Amazon", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "b298ac1b67ce8a5eea59c3c6cd70d38f"}
+{"id": 175677, "url": "http://perceptivehashindexverse.pages.dev", "discovery": "2024-06-25 20:42:20", "added": "2024-06-25 20:42:20", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "d6afd506d4136de64bb58b7a06e32b12"}
+{"id": 175676, "url": "http://old-dream-2911.ginamoon23.workers.dev", "discovery": "2024-06-25 20:18:16", "added": "2024-06-25 20:18:16", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "a5288391a4dae0fc83cc761f9ef9a2c4"}
+{"id": 175675, "url": "http://mbasic-web.duckdns.org", "discovery": "2024-06-25 20:10:29", "added": "2024-06-25 20:10:29", "target": "Facebook", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "8f2c8fb00a5924e597850d42993c1c93"}
 {"id": 175674, "url": "http://admincieueijniwiwieoeikcmnckaqooooeeeencnjcjhbvgcfdxcfgvhb.pages.dev", "discovery": "2024-06-25 19:26:16", "added": "2024-06-25 19:26:16", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "fd4f6b1446e95cf8c3f430a669ba636f"}
 {"id": 175673, "url": "http://whirlpriort.pages.dev", "discovery": "2024-06-25 19:24:25", "added": "2024-06-25 19:24:25", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "b3e3bb385ec84fc49b8e84eb01a49ded"}
 {"id": 175672, "url": "https://caterer-102504.square.site/", "discovery": "2024-06-25 18:48:24", "added": "2024-06-25 19:18:55", "target": "BT", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "66d7157440a7056057c1715f8842ca32"}
@@ -504,7 +508,3 @@
 {"id": 175179, "url": "https://vidon.in/index.php", "discovery": "2024-06-25 06:02:23", "added": "2024-06-25 06:02:23", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "c6a08f6fef24220485a55a2dea3e6de2"}
 {"id": 175178, "url": "http://imtowrk.com", "discovery": "2024-06-25 06:02:22", "added": "2024-06-25 06:02:22", "target": "imToken", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "e0db8201ba164f412ee2c2c71458e7a2"}
 {"id": 175177, "url": "http://uetl.co.in/wp-content/uploads/2024/06/index.html", "discovery": "2024-06-25 06:02:22", "added": "2024-06-25 06:02:22", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "88b48fd0eab279fd1b561ea294ec635d"}
-{"id": 175176, "url": "https://awal.pk", "discovery": "2024-06-25 06:02:12", "added": "2024-06-25 06:02:12", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "1b1b66e25f3fa586c2a23a17f9a2dba0"}
-{"id": 175175, "url": "https://www.cottage-france.com/", "discovery": "2024-06-25 06:02:10", "added": "2024-06-25 06:02:10", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "cfab65f74fe92acb234290f10521d9e2"}
-{"id": 175174, "url": "https://www.gitetarn.fr/", "discovery": "2024-06-25 06:02:10", "added": "2024-06-25 06:02:10", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "6916bb10ab72fc346152eb24a41dcd91"}
-{"id": 175173, "url": "http://61.53.252.218:49366/i", "discovery": "2024-06-25 05:27:40", "added": "2024-06-25 05:27:40", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "ee884e8c90a14bb787048e0d1b9c833d"}
