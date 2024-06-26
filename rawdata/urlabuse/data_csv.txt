@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-26 00:00:02 UTC
+# UPDATE: 2024-06-26 01:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+175694, 2024-06-26 00:42:19, 2024-06-26 00:42:19, phishing, 2c8c8b314f79613de7444d0ec9a24662, http://rapid-glade-1ad3.paigebevis26.workers.dev
+175693, 2024-06-26 00:30:20, 2024-06-26 00:30:20, phishing, 002f42484e8f19d7554c21abd8689971, http://blockdapps-acc.pages.dev
 175692, 2024-06-25 23:24:20, 2024-06-25 23:24:20, phishing, 182f543967170dd04dd16107d9caf560, http://sdhgjhgsd3434.pages.dev
 175691, 2024-06-25 22:44:16, 2024-06-25 22:44:16, phishing, 2cfc1903cf841ac05a12918ae9d26c99, http://jjjdvhehfhahgfrhrfguirfejktghkfjrg.pages.dev
 175690, 2024-06-25 22:34:16, 2024-06-25 22:34:16, phishing, fca721534b10618c7ec4c4a7286def3e, http://validacija-lozinke-administratora-servera-bosnia.pages.dev
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 175195, 2024-06-25 07:20:16, 2024-06-25 07:20:16, malware, c3c4858af47b401b827f83582764d3c1, http://115.50.26.57:48618/bin.sh
 175194, 2024-06-25 07:20:14, 2024-06-25 07:20:14, malware, e762ea56712147e0af129f8e4438f65a, http://115.50.211.233:37128/i
 175193, 2024-06-25 07:20:12, 2024-06-25 07:20:12, malware, a4fbe12f668144bfaed3b239cda9b7db, http://114.239.10.95:51813/Mozi.m
-175192, 2024-06-25 07:16:13, 2024-06-25 07:16:13, phishing, e24843e3cde031a4d28cdead20fb326d, http://2dgerr.pages.dev
-175191, 2024-06-25 07:08:13, 2024-06-25 07:08:13, phishing, ffe5527481c28db28069f8c1524ddc3f, http://page-timehyrsbko2.pages.dev

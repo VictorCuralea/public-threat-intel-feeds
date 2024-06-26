@@ -6,8 +6,10 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-26 00:00:02 UTC
+# UPDATE: 2024-06-26 01:00:02 UTC
 ############### END COMMENTS ###############
+{"id": 175694, "url": "http://rapid-glade-1ad3.paigebevis26.workers.dev", "discovery": "2024-06-26 00:42:19", "added": "2024-06-26 00:42:19", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "2c8c8b314f79613de7444d0ec9a24662"}
+{"id": 175693, "url": "http://blockdapps-acc.pages.dev", "discovery": "2024-06-26 00:30:20", "added": "2024-06-26 00:30:20", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "002f42484e8f19d7554c21abd8689971"}
 {"id": 175692, "url": "http://sdhgjhgsd3434.pages.dev", "discovery": "2024-06-25 23:24:20", "added": "2024-06-25 23:24:20", "target": "Amazon", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "182f543967170dd04dd16107d9caf560"}
 {"id": 175691, "url": "http://jjjdvhehfhahgfrhrfguirfejktghkfjrg.pages.dev", "discovery": "2024-06-25 22:44:16", "added": "2024-06-25 22:44:16", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "2cfc1903cf841ac05a12918ae9d26c99"}
 {"id": 175690, "url": "http://validacija-lozinke-administratora-servera-bosnia.pages.dev", "discovery": "2024-06-25 22:34:16", "added": "2024-06-25 22:34:16", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "fca721534b10618c7ec4c4a7286def3e"}
@@ -506,5 +508,3 @@
 {"id": 175195, "url": "http://115.50.26.57:48618/bin.sh", "discovery": "2024-06-25 07:20:16", "added": "2024-06-25 07:20:16", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "c3c4858af47b401b827f83582764d3c1"}
 {"id": 175194, "url": "http://115.50.211.233:37128/i", "discovery": "2024-06-25 07:20:14", "added": "2024-06-25 07:20:14", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "e762ea56712147e0af129f8e4438f65a"}
 {"id": 175193, "url": "http://114.239.10.95:51813/Mozi.m", "discovery": "2024-06-25 07:20:12", "added": "2024-06-25 07:20:12", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "a4fbe12f668144bfaed3b239cda9b7db"}
-{"id": 175192, "url": "http://2dgerr.pages.dev", "discovery": "2024-06-25 07:16:13", "added": "2024-06-25 07:16:13", "target": "Amazon", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "e24843e3cde031a4d28cdead20fb326d"}
-{"id": 175191, "url": "http://page-timehyrsbko2.pages.dev", "discovery": "2024-06-25 07:08:13", "added": "2024-06-25 07:08:13", "target": "Amazon", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "ffe5527481c28db28069f8c1524ddc3f"}
