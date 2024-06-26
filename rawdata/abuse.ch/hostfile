@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-06-26 18:14:14 UTC                        #
+# Last updated: 2024-06-26 22:17:53 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	s3dpsid.shop
+127.0.0.1	google-logs.top
 127.0.0.1	cejecuu4.xyz
 127.0.0.1	duplevo.com
 127.0.0.1	restolazo.com
@@ -7629,4 +7631,4 @@
 127.0.0.1	blackberryfn.duckdns.org
 127.0.0.1	service-hsyluctr-1252427727.bj.tencentapigw.com
 127.0.0.1	ph-explorer.com
-# Number of entries: 7623
+# Number of entries: 7625
