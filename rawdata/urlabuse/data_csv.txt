@@ -6,9 +6,17 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-26 12:00:03 UTC
+# UPDATE: 2024-06-26 13:00:03 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+175825, 2024-06-26 12:56:21, 2024-06-26 12:56:21, phishing, 39d0362dccb6a3fdf7ac0884ef0cdad3, http://vcvcvbhbcdtcvwcdutuvdcegvcdcvcgbg.pages.dev
+175824, 2024-06-26 12:50:20, 2024-06-26 12:50:20, phishing, bfafdc15dd9dd7fc0e78b784951c0259, http://nbfghjbviyvcloucxwevdswqwertyui.pages.dev
+175823, 2024-06-26 12:48:03, 2024-06-26 12:43:01, phishing, 0963ae34fe83cccd5e554cbb9d27da5d, https://genpage.s3.nl-ams.scw.cloud/smarto-general.html
+175822, 2024-06-26 12:40:17, 2024-06-26 12:40:17, phishing, a78959eabe24c62f3fa5f3574935509e, https://bg-fjhfjjmovefuiwuyik9efurgfhfjdhkfmjbf.pages.dev/?dncugfhjkpoiuytUIHJUYTukmiuytrsdf=redacted@redacted.tld
+175821, 2024-06-26 12:38:25, 2024-06-26 12:38:25, phishing, 1119cb72db31d5d7c1fe2ec50e6afdc7, http://rebatepro.pages.dev
+175820, 2024-06-26 12:38:10, 2024-06-26 12:33:10, phishing, e1a5966f646533374a5caf20de4008f9, http://shop.thebreastsurgery.com/wp-content/oks/korea.php
+175819, 2024-06-26 12:32:26, 2024-06-26 12:32:26, phishing, f8fad885b39957c3b634e516aeed5951, http://m9w.502.mytemp.website
+175818, 2024-06-26 12:08:24, 2024-06-26 12:08:24, phishing, 2cb74db4c666859bc434146c1fc3e869, http://myfirsttravel-pdf.pages.dev
 175817, 2024-06-26 11:38:21, 2024-06-26 11:38:21, phishing, 1463951e866bacc0c253d0b7dceb9d64, http://page-timeyhdgh3-62o.pages.dev
 175816, 2024-06-26 11:30:19, 2024-06-26 11:30:19, phishing, bdefe3f521d3013b8a6ea69e73432648, http://utysu.com
 175815, 2024-06-26 11:30:18, 2024-06-26 11:30:18, phishing, 55a32c584f7f9a757f940223ebcb8f21, http://utyfw.com
@@ -501,11 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 175326, 2024-06-25 09:04:40, 2024-06-25 09:04:40, malware, a0ccaccefe314ad890572a968e7108b0, http://182.126.114.237:47031/i
 175325, 2024-06-25 09:04:39, 2024-06-25 09:04:39, malware, 79b3601dac564b1092cb7df657f4ee14, http://182.126.114.237:47031/bin.sh
 175324, 2024-06-25 09:04:37, 2024-06-25 09:04:37, malware, 57ca7768b0b94ffa9ca620bb82dc8c78, http://182.115.65.7:57805/Mozi.m
-175323, 2024-06-25 09:04:35, 2024-06-25 09:04:35, malware, e29a244ac36940dd91687646bb7efea7, http://182.115.65.7:57805/i
-175322, 2024-06-25 09:04:34, 2024-06-25 09:04:34, malware, 33bf5f691f274a49bd0b7dd67d119316, http://182.115.65.7:57805/bin.sh
-175321, 2024-06-25 09:04:32, 2024-06-25 09:04:32, malware, 1861479dea0947ee96a7e5d88e39234f, http://182.114.252.140:37679/i
-175320, 2024-06-25 09:04:30, 2024-06-25 09:04:30, malware, 01496d6254324575bf5d1f4a46abb200, http://182.114.252.140:37679/bin.sh
-175319, 2024-06-25 09:04:29, 2024-06-25 09:04:29, malware, 862aa0e6ab254ca2b488d4eda53995c9, http://180.120.144.15:40366/Mozi.m
-175318, 2024-06-25 09:04:27, 2024-06-25 09:04:27, malware, 4f3c3bd8bb3540b5a7ba5aa4beef8979, http://176.193.204.236:44085/bin.sh
-175317, 2024-06-25 09:04:26, 2024-06-25 09:04:26, malware, 4c138b5f83054f05baacf43131ebd02a, http://175.175.234.157:43170/i
-175316, 2024-06-25 09:04:25, 2024-06-25 09:04:25, malware, c4d9d2bf9a644bc0a21718fb99d39f3a, http://175.175.234.157:43170/bin.sh
