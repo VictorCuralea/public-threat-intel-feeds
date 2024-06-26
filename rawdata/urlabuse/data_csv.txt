@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-26 03:00:02 UTC
+# UPDATE: 2024-06-26 04:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+175705, 2024-06-26 03:30:16, 2024-06-26 03:30:16, phishing, 87429e1918fd8749ef68df862fd8683d, http://kgyd2.pages.dev
+175704, 2024-06-26 03:20:45, 2024-06-26 03:20:45, malware, 6b8cc7e4336a4a5ebeab8a70fd99fd03, http://103.134.117.86:33646/Mozi.m
+175703, 2024-06-26 03:10:17, 2024-06-26 03:10:17, phishing, 0c715dbda834cfee14ca3f4f95ddc33a, http://dook33.pages.dev
 175702, 2024-06-26 02:12:18, 2024-06-26 02:12:18, phishing, ccaa1e0d04688e5165ea3850aa4af6c1, http://saq22.pages.dev
 175701, 2024-06-26 01:58:18, 2024-06-26 01:58:18, phishing, 024426a9e573ac96798ec386dcddae25, http://ujomewehuoserzemeaneo04.pages.dev
 175700, 2024-06-26 01:44:18, 2024-06-26 01:44:18, phishing, a9a1b8ecd1de4c98dd45ee6e8a752737, http://bve.pages.dev
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 175206, 2024-06-25 07:23:54, 2024-06-25 07:23:54, malware, bcffc961b2a04eb49f4172474bba2fd8, http://117.245.41.178:36846/bin.sh
 175205, 2024-06-25 07:23:51, 2024-06-25 07:23:51, malware, 4f77edc04f83455a9c7b377083313cc8, http://117.245.37.37:44170/Mozi.m
 175204, 2024-06-25 07:23:07, 2024-06-25 07:23:07, malware, 84971bcbbf114f01a3aea32d5e61d9ab, http://117.222.254.179:35104/bin.sh
-175203, 2024-06-25 07:22:04, 2024-06-25 07:22:04, malware, 1f62f0d9a7fb41c482c4c681dbeaa868, http://117.211.223.70:55598/bin.sh
-175202, 2024-06-25 07:20:37, 2024-06-25 07:20:37, malware, 5e83ddee57b1456e81e1cc5c1b04021d, http://117.196.161.97:49244/bin.sh
-175201, 2024-06-25 07:20:26, 2024-06-25 07:20:26, malware, 62df2546ae9e4fbaa10a662b55a391e9, http://115.63.182.166:34126/bin.sh
