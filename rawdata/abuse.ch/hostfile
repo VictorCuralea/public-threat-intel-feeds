@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-06-26 06:16:12 UTC                        #
+# Last updated: 2024-06-26 08:54:32 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	amateur-locket-gw.aws-use1.cloud-ara.tyk.io
+127.0.0.1	networkhealth.azureedge.net
+127.0.0.1	bookings.catomeister.com
+127.0.0.1	t-protecting.gl.at.ply.gg
 127.0.0.1	boats.dogmuncher.xyz
 127.0.0.1	dogmuncher.xyz
 127.0.0.1	4628eea2b0b6.ngrok.app
@@ -7691,4 +7695,4 @@
 127.0.0.1	jugoken567.ddns.net
 127.0.0.1	service-pgxnje5g-1307231181.gz.tencentapigw.com
 127.0.0.1	myappsec.eu
-# Number of entries: 7685
+# Number of entries: 7689
