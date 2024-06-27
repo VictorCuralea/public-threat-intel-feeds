@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-27 08:00:03 UTC
+# UPDATE: 2024-06-27 09:00:03 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+176531, 2024-06-27 08:51:03, 2024-06-27 07:16:33, phishing, 7e537c6f3b21788d58a337ef79055f15, https://dev-78924654252.pantheonsite.io/
 176530, 2024-06-27 07:44:19, 2024-06-27 07:44:19, phishing, d1a50cb3c9f039aae469cfab606ecada, http://ibaengineering.co.uk
 176529, 2024-06-27 07:20:40, 2024-06-27 07:20:40, malware, a0c51b0df5e740fb956cc2b213d5bb68, http://60.246.200.246:42746/bin.sh
 176528, 2024-06-27 07:20:13, 2024-06-27 07:20:13, malware, bf96a782c8a648f58058ad3a38aa3f84, http://115.50.67.165:40383/Mozi.m
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 176034, 2024-06-26 15:30:01, 2024-06-26 15:30:01, malware, 4aa79ec4d6634133b74ddc6403c057b6, http://220.202.90.175:45630/bin.sh
 176033, 2024-06-26 15:29:55, 2024-06-26 15:29:55, malware, 7d5123a1392146bca2e994fcc4156327, http://219.157.55.216:44205/i
 176032, 2024-06-26 15:29:51, 2024-06-26 15:29:51, malware, 07b23acd67a147698b10ca6617966b6c, http://219.157.55.216:44205/bin.sh
-176031, 2024-06-26 15:29:46, 2024-06-26 15:29:46, malware, bcb7bce2db27466da42a5d705a14e320, http://219.157.202.144:43271/i
