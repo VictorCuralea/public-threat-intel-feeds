@@ -6,9 +6,22 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-27 07:00:02 UTC
+# UPDATE: 2024-06-27 08:00:03 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+176530, 2024-06-27 07:44:19, 2024-06-27 07:44:19, phishing, d1a50cb3c9f039aae469cfab606ecada, http://ibaengineering.co.uk
+176529, 2024-06-27 07:20:40, 2024-06-27 07:20:40, malware, a0c51b0df5e740fb956cc2b213d5bb68, http://60.246.200.246:42746/bin.sh
+176528, 2024-06-27 07:20:13, 2024-06-27 07:20:13, malware, bf96a782c8a648f58058ad3a38aa3f84, http://115.50.67.165:40383/Mozi.m
+176527, 2024-06-27 07:08:26, 2024-06-27 07:08:26, phishing, 2629d2b34a9d0d9cc73f6c49c463be97, https://hayb3t.n0c.world/client/abeta/slip/ussrz.php
+176526, 2024-06-27 07:06:26, 2024-06-27 07:06:26, phishing, b6c17b4bd1ed5f006222f0a479851038, http://worker-royal-dew-f897.brandondrover.workers.dev
+176525, 2024-06-27 07:03:12, 2024-06-27 07:03:12, phishing, 3803a0ec59e3ae02e639c73a0a7afa9c, http://pub-75a24311ea0842d18456cbc0684282a5.r2.dev/index.html
+176524, 2024-06-27 07:03:06, 2024-06-27 07:03:06, phishing, 6f15ab781c0ad63359be14dbc883e53e, http://pub-aeb14407c05d46268e869ff4b4e89ecb.r2.dev/index.html
+176523, 2024-06-27 07:02:50, 2024-06-27 07:02:50, phishing, 67876988b0a0374b968ffafaea141224, http://microsotft01922be3.bidsay464.workers.dev/sign%20in%20to%20your%20account_files/sign%20in%20to%20your%20account_files/sign%20in%20to%20your%20account_files/sign%20in%20to%20your%20account_files/sign%20in%20to%20your%20account_files/sign%20in%20to%20your%20account_files/s...~311~...~...unt_files/prefetch(1).html
+176522, 2024-06-27 07:02:25, 2024-06-27 07:02:25, phishing, 19176f599de4f437543fec34091a144b, https://pub-8d641bd8f15749cfab8a14351d8dd295.r2.dev/amin.html?_knopii=1
+176521, 2024-06-27 07:01:57, 2024-06-27 07:01:57, phishing, 85114e972f7843defa2857cdfdbdbb1b, https://notifyhubss.net/47085601cu5ff24f1fl87219320lf6f574ab.html
+176520, 2024-06-27 07:01:42, 2024-06-27 07:01:42, phishing, b0f96fb3a025db0d1b0676f3ce052fad, http://bucolic-kheer-bd252e.netlify.app/
+176519, 2024-06-27 07:01:03, 2024-06-27 07:01:03, phishing, 95546fbdfa162378bc01192288e60c4c, https://elige-que-mujeres-quieres.pages.dev/
+176518, 2024-06-27 07:00:55, 2024-06-27 07:00:55, phishing, 82df0a2226a9c6a3e842e0f86fe30eb3, http://telepwen.fit/
 176517, 2024-06-27 06:48:21, 2024-06-27 06:48:21, phishing, 823581d8adbda5e68ee3f7a4e2442a34, https://gmxs-supercool-site.webflow.io/
 176516, 2024-06-27 06:36:22, 2024-06-27 06:36:22, phishing, 3090c9229ae2a831d6d5ada8be619856, http://barclaypremierleaguebestplayerofalltime2.pages.dev
 176515, 2024-06-27 06:16:32, 2024-06-27 06:16:32, phishing, 844121e2af84119100300066f1da9293, https://servicefacturationonline.weebly.com/
@@ -496,16 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 176033, 2024-06-26 15:29:55, 2024-06-26 15:29:55, malware, 7d5123a1392146bca2e994fcc4156327, http://219.157.55.216:44205/i
 176032, 2024-06-26 15:29:51, 2024-06-26 15:29:51, malware, 07b23acd67a147698b10ca6617966b6c, http://219.157.55.216:44205/bin.sh
 176031, 2024-06-26 15:29:46, 2024-06-26 15:29:46, malware, bcb7bce2db27466da42a5d705a14e320, http://219.157.202.144:43271/i
-176030, 2024-06-26 15:29:39, 2024-06-26 15:29:39, malware, 1fc773a07dcb49b5bd98ccc05e526e79, http://219.157.202.144:43271/bin.sh
-176029, 2024-06-26 15:29:34, 2024-06-26 15:29:34, malware, cec6489ae56b4daca0346127ae11e163, http://219.157.194.94:53157/bin.sh
-176028, 2024-06-26 15:29:17, 2024-06-26 15:29:17, malware, c398bf338aa84a64920baa86e85eeafe, http://219.156.84.221:34213/bin.sh
-176027, 2024-06-26 15:29:12, 2024-06-26 15:29:12, malware, fa67faa648ed41da8ed5af9aaf14e182, http://219.155.63.25:36654/Mozi.m
-176026, 2024-06-26 15:29:04, 2024-06-26 15:29:04, malware, 00fe2d12236041208767ce9298e56206, http://219.155.208.217:48699/i
-176025, 2024-06-26 15:28:57, 2024-06-26 15:28:57, malware, f56521f899a247fb91eb342952f51cae, http://219.155.208.217:48699/bin.sh
-176024, 2024-06-26 15:28:52, 2024-06-26 15:28:52, malware, 22bf9ea2b0f64304965febad0da6bd9b, http://218.57.84.112:55628/i
-176023, 2024-06-26 15:28:45, 2024-06-26 15:28:45, malware, c3c36ac433bc45038338abe6b1934f7d, http://218.57.84.112:55628/bin.sh
-176022, 2024-06-26 15:27:58, 2024-06-26 15:27:58, malware, 1e11d6b851d04d4787f2ddae04d733b9, http://200.109.154.217:60279/i
-176021, 2024-06-26 15:27:47, 2024-06-26 15:27:47, malware, 619ec76817f946cd9a569bcafb49deb4, http://190.109.228.248:46967/Mozi.m
-176020, 2024-06-26 15:27:38, 2024-06-26 15:27:38, malware, c22cb9326a8e4cafaafad91fba2aba3a, http://190.109.228.172:60206/i
-176019, 2024-06-26 15:27:05, 2024-06-26 15:27:05, malware, e77b826f705540c4b75617a736a0d854, http://182.127.71.182:44972/i
-176018, 2024-06-26 15:26:57, 2024-06-26 15:26:57, malware, 3ffa506658a442e2b2448b628d0a52b1, http://182.127.71.182:44972/bin.sh
