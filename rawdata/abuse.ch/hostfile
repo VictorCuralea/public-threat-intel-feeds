@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-06-27 17:53:46 UTC                        #
+# Last updated: 2024-06-27 18:53:40 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	andrebadi.top
+127.0.0.1	backwork07.ddns.net
+127.0.0.1	monimaturast.com
+127.0.0.1	operaconuka.com
 127.0.0.1	about.swemei.com
 127.0.0.1	interactiveuidevelopment.com
 127.0.0.1	data.nicrosoft.fr
@@ -7625,4 +7629,4 @@
 127.0.0.1	ec2-34-230-9-163.compute-1.amazonaws.com
 127.0.0.1	173-255-196-101.ip.linodeusercontent.com
 127.0.0.1	cs.xcb.one
-# Number of entries: 7619
+# Number of entries: 7623
