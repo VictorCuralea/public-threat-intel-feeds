@@ -6,9 +6,14 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-27 16:00:03 UTC
+# UPDATE: 2024-06-27 17:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+176827, 2024-06-27 16:56:20, 2024-06-27 16:56:20, phishing, aa5b4befd58d2b5f1e102433f5670635, http://gift-premi.fun
+176826, 2024-06-27 16:32:22, 2024-06-27 16:32:22, phishing, a1f4ab3ec3221a64d43df43896dfdfe8, http://page-timeco89w.pages.dev
+176825, 2024-06-27 16:09:20, 2024-06-27 14:52:34, phishing, 914e1037aaa900d11f5531e1112251fe, https://qs-sendungsverfolgung.info/
+176824, 2024-06-27 16:05:51, 2024-06-27 14:54:31, phishing, 9f33da49485469cda0b6116b31e37198, https://workers-playground-shrill-band-3364.oracleofriches.workers.dev/
+176823, 2024-06-27 16:01:54, 2024-06-27 16:01:54, phishing, 994b30263920605ee0fb395b547bc3ac, http://pub-2136276242794adb8b05233d98f05f3e.r2.dev/secure.html
 176822, 2024-06-27 15:40:23, 2024-06-27 15:40:23, phishing, 2e803019a15188852188504a8e7edc57, http://multiconnection.pages.dev
 176821, 2024-06-27 15:38:24, 2024-06-27 15:38:24, phishing, 16ad558df50f02179d1a57b1d9294271, http://rpc-claim.online
 176820, 2024-06-27 15:32:16, 2024-06-27 15:32:16, phishing, b498f209233de1e24d3f98d88b176eb1, http://fullreloaded75-aertytdxzaqopurdghkourwqzvnopyrdfhaaahjjqw2.pages.dev
@@ -504,8 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 176330, 2024-06-26 21:52:21, 2024-06-26 21:52:21, phishing, 89744e8560cb98859d2d17cb4eb7e1db, http://page-timedxswq8.pages.dev
 176329, 2024-06-26 21:42:28, 2024-06-26 21:42:28, phishing, 8bfa5d99a1363ed6266999f99bb95443, http://xahjgahjg.xyz
 176328, 2024-06-26 21:36:17, 2024-06-26 21:36:17, phishing, b51f9ddfdf8495e4fa52f041acbc47ae, http://okljnmbvcxzaswertyuiojknmbvcdfsdf.pages.dev
-176327, 2024-06-26 21:31:52, 2024-06-26 21:31:52, malware, 59b7c6997518444c90f02bd9cf27d04a, http://59.91.85.210:43822/Mozi.m
-176326, 2024-06-26 21:31:49, 2024-06-26 21:31:49, malware, ef6b769f24df4ce48c05d20e06f18fff, http://222.246.113.36:33889/i
-176325, 2024-06-26 21:31:46, 2024-06-26 21:31:46, malware, f7636b9cf27442e48f33bb14f471f77d, http://185.172.128.160/vi.exe
-176324, 2024-06-26 21:31:44, 2024-06-26 21:31:44, malware, 21bb8ddec8214da1b901ead385c8f8e7, http://185.172.128.160/svchost.exe
-176323, 2024-06-26 21:28:47, 2024-06-26 21:28:47, malware, 6f8633106c1b424f88d5e0c8a364f164, http://185.172.128.160/sc.exe

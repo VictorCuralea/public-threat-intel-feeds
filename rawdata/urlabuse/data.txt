@@ -6,8 +6,13 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-27 16:00:03 UTC
+# UPDATE: 2024-06-27 17:00:02 UTC
 ############### END COMMENTS ###############
+{"id": 176827, "url": "http://gift-premi.fun", "discovery": "2024-06-27 16:56:20", "added": "2024-06-27 16:56:20", "target": "Telegram", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "aa5b4befd58d2b5f1e102433f5670635"}
+{"id": 176826, "url": "http://page-timeco89w.pages.dev", "discovery": "2024-06-27 16:32:22", "added": "2024-06-27 16:32:22", "target": "Amazon", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "a1f4ab3ec3221a64d43df43896dfdfe8"}
+{"id": 176825, "url": "https://qs-sendungsverfolgung.info/", "discovery": "2024-06-27 14:52:34", "added": "2024-06-27 16:09:20", "target": "UPS", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "914e1037aaa900d11f5531e1112251fe"}
+{"id": 176824, "url": "https://workers-playground-shrill-band-3364.oracleofriches.workers.dev/", "discovery": "2024-06-27 14:54:31", "added": "2024-06-27 16:05:51", "target": "Generic Email", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "9f33da49485469cda0b6116b31e37198"}
+{"id": 176823, "url": "http://pub-2136276242794adb8b05233d98f05f3e.r2.dev/secure.html", "discovery": "2024-06-27 16:01:54", "added": "2024-06-27 16:01:54", "target": "Microsoft", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "994b30263920605ee0fb395b547bc3ac"}
 {"id": 176822, "url": "http://multiconnection.pages.dev", "discovery": "2024-06-27 15:40:23", "added": "2024-06-27 15:40:23", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "2e803019a15188852188504a8e7edc57"}
 {"id": 176821, "url": "http://rpc-claim.online", "discovery": "2024-06-27 15:38:24", "added": "2024-06-27 15:38:24", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "16ad558df50f02179d1a57b1d9294271"}
 {"id": 176820, "url": "http://fullreloaded75-aertytdxzaqopurdghkourwqzvnopyrdfhaaahjjqw2.pages.dev", "discovery": "2024-06-27 15:32:16", "added": "2024-06-27 15:32:16", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "b498f209233de1e24d3f98d88b176eb1"}
@@ -503,8 +508,3 @@
 {"id": 176330, "url": "http://page-timedxswq8.pages.dev", "discovery": "2024-06-26 21:52:21", "added": "2024-06-26 21:52:21", "target": "Amazon", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "89744e8560cb98859d2d17cb4eb7e1db"}
 {"id": 176329, "url": "http://xahjgahjg.xyz", "discovery": "2024-06-26 21:42:28", "added": "2024-06-26 21:42:28", "target": "TR-GOV", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "8bfa5d99a1363ed6266999f99bb95443"}
 {"id": 176328, "url": "http://okljnmbvcxzaswertyuiojknmbvcdfsdf.pages.dev", "discovery": "2024-06-26 21:36:17", "added": "2024-06-26 21:36:17", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "b51f9ddfdf8495e4fa52f041acbc47ae"}
-{"id": 176327, "url": "http://59.91.85.210:43822/Mozi.m", "discovery": "2024-06-26 21:31:52", "added": "2024-06-26 21:31:52", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "59b7c6997518444c90f02bd9cf27d04a"}
-{"id": 176326, "url": "http://222.246.113.36:33889/i", "discovery": "2024-06-26 21:31:49", "added": "2024-06-26 21:31:49", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "ef6b769f24df4ce48c05d20e06f18fff"}
-{"id": 176325, "url": "http://185.172.128.160/vi.exe", "discovery": "2024-06-26 21:31:46", "added": "2024-06-26 21:31:46", "target": "#PE32INTEL_GUI", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "f7636b9cf27442e48f33bb14f471f77d"}
-{"id": 176324, "url": "http://185.172.128.160/svchost.exe", "discovery": "2024-06-26 21:31:44", "added": "2024-06-26 21:31:44", "target": "#PE32INTEL_GUI", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "21bb8ddec8214da1b901ead385c8f8e7"}
-{"id": 176323, "url": "http://185.172.128.160/sc.exe", "discovery": "2024-06-26 21:28:47", "added": "2024-06-26 21:28:47", "target": "#PE64", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "6f8633106c1b424f88d5e0c8a364f164"}
