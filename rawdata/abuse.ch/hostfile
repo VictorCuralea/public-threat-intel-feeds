@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-06-27 09:07:11 UTC                        #
+# Last updated: 2024-06-27 13:49:46 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	data.nicrosoft.fr
 127.0.0.1	photos-money.gl.at.ply.gg
 127.0.0.1	lifebalancemissouri.com
 127.0.0.1	cscs.beauty
@@ -7646,4 +7647,4 @@
 127.0.0.1	172-104-67-4.ip.linodeusercontent.com
 127.0.0.1	blackberryfn.duckdns.org
 127.0.0.1	service-hsyluctr-1252427727.bj.tencentapigw.com
-# Number of entries: 7640
+# Number of entries: 7641
