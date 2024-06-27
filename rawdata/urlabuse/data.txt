@@ -6,8 +6,10 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-27 00:00:02 UTC
+# UPDATE: 2024-06-27 01:00:03 UTC
 ############### END COMMENTS ###############
+{"id": 176358, "url": "http://wk.pl", "discovery": "2024-06-27 00:40:25", "added": "2024-06-27 00:40:25", "target": "Facebook", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "a07f40e72a37994c6c480f29cd7cdcbb"}
+{"id": 176357, "url": "http://teiergm.com", "discovery": "2024-06-27 00:16:31", "added": "2024-06-27 00:16:31", "target": "Telegram", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "94ea8120c0db837fa5eafc33006f001f"}
 {"id": 176356, "url": "http://gftfrt3636.pages.dev", "discovery": "2024-06-26 23:46:19", "added": "2024-06-26 23:46:19", "target": "Amazon", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "8e95bbbd35f203b810cd85388a5d3acd"}
 {"id": 176355, "url": "http://sdfdhgdj3535.pages.dev", "discovery": "2024-06-26 23:26:23", "added": "2024-06-26 23:26:23", "target": "Amazon", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "19e040affac357ac7ab86410bcdb450d"}
 {"id": 176354, "url": "http://58.47.107.160:50887/.i", "discovery": "2024-06-26 23:22:51", "added": "2024-06-26 23:22:51", "target": "#ELF32ARM_EABI5", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "d00dd51e38c7400aa6125aee00960a66"}
@@ -506,5 +508,3 @@
 {"id": 175861, "url": "https://retinol8em1oficial.ofertabr.shop/", "discovery": "2024-06-26 14:05:18", "added": "2024-06-26 14:05:18", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "accfad189bdf69ae681fa296b9c7c387"}
 {"id": 175860, "url": "https://sitiodedescuentos.shop/", "discovery": "2024-06-26 14:05:15", "added": "2024-06-26 14:05:15", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "6af1260e37a762057f85a49f242caf2b"}
 {"id": 175859, "url": "https://powercavalogeloficial.ofertabr.shop/", "discovery": "2024-06-26 14:05:14", "added": "2024-06-26 14:05:14", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "c38245c2b673d4765b3dd579d1023a77"}
-{"id": 175858, "url": "https://secapsmaxoficial.ofertabr.shop/", "discovery": "2024-06-26 14:05:12", "added": "2024-06-26 14:05:12", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "2c04df342b5c08d23bc40af9465e2b23"}
-{"id": 175857, "url": "https://promocaonline.shop/", "discovery": "2024-06-26 14:05:08", "added": "2024-06-26 14:05:08", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "a426b82759ec0ee8182b35d8d106d967"}
