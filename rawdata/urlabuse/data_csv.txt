@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-27 12:00:01 UTC
+# UPDATE: 2024-06-27 13:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+176737, 2024-06-27 12:56:17, 2024-06-27 12:56:17, phishing, a8c5b26b40377fe9065d9025a07f747e, https://ce77855.tw1.ru/borro/
+176736, 2024-06-27 12:54:35, 2024-06-27 12:54:35, phishing, da2682093befbf5e37fde75159d7d7c8, https://parg.co/UnRY
+176735, 2024-06-27 12:20:28, 2024-06-27 12:20:28, phishing, 9b4e1d626dbceeef5ac6564bcf614100, http://token-revshares.pages.dev
 176734, 2024-06-27 11:54:19, 2024-06-27 11:54:19, phishing, 953fdda1ebb5486b0f1d5ad75bf316b1, http://page-time10qpx.pages.dev
 176733, 2024-06-27 11:41:31, 2024-06-27 11:41:31, malware, 0e8e9bb6d1b84d298e27f94e6e64a1bc, http://94.228.166.74/wp-includes/ldr.exe
 176732, 2024-06-27 11:40:30, 2024-06-27 11:40:30, malware, ee703ad61e1c416c92127a68e100db95, http://88.250.50.11:51094/i
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 176240, 2024-06-26 19:14:38, 2024-06-26 18:10:30, phishing, 94943f462d217780b0ec2d25b387f765, https://junan123.com/wordpress/wp-content/
 176239, 2024-06-26 19:06:22, 2024-06-26 19:06:22, phishing, 54f26c7f3d3c3908fa0b02eb0e1e4a36, https://site10.top/Index/LP/P/A/C/H/K/H/O/B/E/H/Basa/Roup/pay/
 176238, 2024-06-26 19:05:26, 2024-06-26 19:05:26, phishing, 3928391341e96b307d1718907017fd72, https://site12.top/Index/LP/P/A/C/H/K/H/O/B/E/H/Basa/Roup/pay/
-176237, 2024-06-26 19:03:06, 2024-06-26 19:03:06, phishing, e962dd8f84cfd5d9a54e7239585dcb1c, https://pub-25d0aa22f62c4680b6f1152e0bda3cba.r2.dev/index.html
-176236, 2024-06-26 19:02:57, 2024-06-26 19:02:57, phishing, 9882cd99ba1db8ae90dbe3ab93f50e23, https://bilab.com.br/indexx.html
-176235, 2024-06-26 19:02:10, 2024-06-26 19:02:10, phishing, f38a3e61f31b50e9d53aa0133116a548, https://objects-us-east-1.dream.io/3oa32h5ezug9kn5k0vm6/3oa32h5ezug9kn5k0vm6.html?Expires=1719478780&AWSAccessKeyId=DH4VXGC9YNW6TSA7HUJ3&Signature=qgE54fpbEGhYbDTbEKMYBRvkWkM%3D

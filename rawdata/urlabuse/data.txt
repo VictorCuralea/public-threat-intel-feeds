@@ -6,8 +6,11 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-27 12:00:01 UTC
+# UPDATE: 2024-06-27 13:00:02 UTC
 ############### END COMMENTS ###############
+{"id": 176737, "url": "https://ce77855.tw1.ru/borro/", "discovery": "2024-06-27 12:56:17", "added": "2024-06-27 12:56:17", "target": "Other", "reporter": "VERIFROMd", "AbuseType": "phishing", "UUID": "a8c5b26b40377fe9065d9025a07f747e"}
+{"id": 176736, "url": "https://parg.co/UnRY", "discovery": "2024-06-27 12:54:35", "added": "2024-06-27 12:54:35", "target": "Other", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "da2682093befbf5e37fde75159d7d7c8"}
+{"id": 176735, "url": "http://token-revshares.pages.dev", "discovery": "2024-06-27 12:20:28", "added": "2024-06-27 12:20:28", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "9b4e1d626dbceeef5ac6564bcf614100"}
 {"id": 176734, "url": "http://page-time10qpx.pages.dev", "discovery": "2024-06-27 11:54:19", "added": "2024-06-27 11:54:19", "target": "Amazon", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "953fdda1ebb5486b0f1d5ad75bf316b1"}
 {"id": 176733, "url": "http://94.228.166.74/wp-includes/ldr.exe", "discovery": "2024-06-27 11:41:31", "added": "2024-06-27 11:41:31", "target": "#PE32INTEL_GUI", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "0e8e9bb6d1b84d298e27f94e6e64a1bc"}
 {"id": 176732, "url": "http://88.250.50.11:51094/i", "discovery": "2024-06-27 11:40:30", "added": "2024-06-27 11:40:30", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "ee703ad61e1c416c92127a68e100db95"}
@@ -505,6 +508,3 @@
 {"id": 176240, "url": "https://junan123.com/wordpress/wp-content/", "discovery": "2024-06-26 18:10:30", "added": "2024-06-26 19:14:38", "target": "SwissPass", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "94943f462d217780b0ec2d25b387f765"}
 {"id": 176239, "url": "https://site10.top/Index/LP/P/A/C/H/K/H/O/B/E/H/Basa/Roup/pay/", "discovery": "2024-06-26 19:06:22", "added": "2024-06-26 19:06:22", "target": "Shaparak", "reporter": "lruray", "AbuseType": "phishing", "UUID": "54f26c7f3d3c3908fa0b02eb0e1e4a36"}
 {"id": 176238, "url": "https://site12.top/Index/LP/P/A/C/H/K/H/O/B/E/H/Basa/Roup/pay/", "discovery": "2024-06-26 19:05:26", "added": "2024-06-26 19:05:26", "target": "Shaparak", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "3928391341e96b307d1718907017fd72"}
-{"id": 176237, "url": "https://pub-25d0aa22f62c4680b6f1152e0bda3cba.r2.dev/index.html", "discovery": "2024-06-26 19:03:06", "added": "2024-06-26 19:03:06", "target": "Microsoft", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "e962dd8f84cfd5d9a54e7239585dcb1c"}
-{"id": 176236, "url": "https://bilab.com.br/indexx.html", "discovery": "2024-06-26 19:02:57", "added": "2024-06-26 19:02:57", "target": "Microsoft", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "9882cd99ba1db8ae90dbe3ab93f50e23"}
-{"id": 176235, "url": "https://objects-us-east-1.dream.io/3oa32h5ezug9kn5k0vm6/3oa32h5ezug9kn5k0vm6.html?Expires=1719478780&AWSAccessKeyId=DH4VXGC9YNW6TSA7HUJ3&Signature=qgE54fpbEGhYbDTbEKMYBRvkWkM%3D", "discovery": "2024-06-26 19:02:10", "added": "2024-06-26 19:02:10", "target": "Microsoft", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "f38a3e61f31b50e9d53aa0133116a548"}
