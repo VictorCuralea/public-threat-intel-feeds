@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-27 02:00:02 UTC
+# UPDATE: 2024-06-27 03:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+176386, 2024-06-27 02:50:16, 2024-06-27 02:50:16, phishing, 90c6bd18a111fd92a805bf942bb4c1ce, http://mysloganmadesoeasy2.pages.dev
 176385, 2024-06-27 01:50:23, 2024-06-27 01:50:23, phishing, ca5da77974a7854c83f7115148cce6e6, http://telepgramn.world
 176384, 2024-06-27 01:24:42, 2024-06-27 01:24:42, malware, 9c0cef4bfd3b4c20b9819fb146ef70da, http://42.230.184.43:38521/bin.sh
 176383, 2024-06-27 01:24:38, 2024-06-27 01:24:38, malware, c8e05944850140c6bf835b615cdbb09c, http://42.224.137.163:48503/i
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 175889, 2024-06-26 14:33:40, 2024-06-26 14:33:40, malware, b84ddae77b794f17ba4796c589e45cba, http://112.239.113.92:55534/bin.sh
 175888, 2024-06-26 14:33:34, 2024-06-26 14:33:34, malware, b5166401b56742d2aa3ce93ce3440032, http://112.226.230.163:35913/i
 175887, 2024-06-26 14:28:22, 2024-06-26 14:28:22, phishing, a6c5426b22c8480f1bf2b74185b40908, http://webfixdata.pages.dev
-175886, 2024-06-26 14:26:25, 2024-06-26 14:26:25, phishing, 2cab7015f60d2e7933f423d36c7b0c09, http://entigrity.pages.dev

@@ -6,8 +6,9 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-27 02:00:02 UTC
+# UPDATE: 2024-06-27 03:00:02 UTC
 ############### END COMMENTS ###############
+{"id": 176386, "url": "http://mysloganmadesoeasy2.pages.dev", "discovery": "2024-06-27 02:50:16", "added": "2024-06-27 02:50:16", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "90c6bd18a111fd92a805bf942bb4c1ce"}
 {"id": 176385, "url": "http://telepgramn.world", "discovery": "2024-06-27 01:50:23", "added": "2024-06-27 01:50:23", "target": "Telegram", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "ca5da77974a7854c83f7115148cce6e6"}
 {"id": 176384, "url": "http://42.230.184.43:38521/bin.sh", "discovery": "2024-06-27 01:24:42", "added": "2024-06-27 01:24:42", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "9c0cef4bfd3b4c20b9819fb146ef70da"}
 {"id": 176383, "url": "http://42.224.137.163:48503/i", "discovery": "2024-06-27 01:24:38", "added": "2024-06-27 01:24:38", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "c8e05944850140c6bf835b615cdbb09c"}
@@ -507,4 +508,3 @@
 {"id": 175889, "url": "http://112.239.113.92:55534/bin.sh", "discovery": "2024-06-26 14:33:40", "added": "2024-06-26 14:33:40", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "b84ddae77b794f17ba4796c589e45cba"}
 {"id": 175888, "url": "http://112.226.230.163:35913/i", "discovery": "2024-06-26 14:33:34", "added": "2024-06-26 14:33:34", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "b5166401b56742d2aa3ce93ce3440032"}
 {"id": 175887, "url": "http://webfixdata.pages.dev", "discovery": "2024-06-26 14:28:22", "added": "2024-06-26 14:28:22", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "a6c5426b22c8480f1bf2b74185b40908"}
-{"id": 175886, "url": "http://entigrity.pages.dev", "discovery": "2024-06-26 14:26:25", "added": "2024-06-26 14:26:25", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "2cab7015f60d2e7933f423d36c7b0c09"}
