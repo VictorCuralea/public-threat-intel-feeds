@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-28 20:00:02 UTC
+# UPDATE: 2024-06-28 21:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+178003, 2024-06-28 20:50:29, 2024-06-28 20:50:29, phishing, 2db66b10f7cefdb7de41e8489c05c48c, http://vu78tst73863ut766675456576ye7.pages.dev
+178002, 2024-06-28 20:46:25, 2024-06-28 20:46:25, phishing, 01ef5edc0aac4c99998f1607e5bfd39d, http://hello-world-purple-wind-b558.jmmzoey.workers.dev
+178001, 2024-06-28 20:12:25, 2024-06-28 20:12:25, phishing, a8d9cb7bccb985f8de1744000c19eb20, http://odcdn.yorkyu.com
 178000, 2024-06-28 19:42:56, 2024-06-28 19:42:56, malware, 0400ca8e060f4676970cd20ab9da0094, https://b46.oss-cn-hongkong.aliyuncs.com/config/qNVQKFyM.exe
 177999, 2024-06-28 19:40:08, 2024-06-28 19:40:08, malware, f88cd3a90a5f45acb7ec1e16420ed368, http://rucnc.romc2.nl:8967/arm7
 177998, 2024-06-28 19:36:03, 2024-06-28 19:36:03, malware, 13cb05f9624a4448810be72ad97dea2c, http://88.248.81.112:18750/Mozi.m
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 177506, 2024-06-28 10:12:52, 2024-06-28 10:12:52, malware, ef9aa2a227ec45e2bab52a45a34050a0, http://198.23.165.253/shindempsl
 177505, 2024-06-28 10:12:51, 2024-06-28 10:12:51, malware, 3f932397f51240bba3f944d1dd8cfd25, http://198.23.165.253/shindemips
 177504, 2024-06-28 10:12:50, 2024-06-28 10:12:50, malware, 9a9c37c0e4b640869edc42a073fb5a63, http://198.23.165.253/shindei686
-177503, 2024-06-28 10:12:49, 2024-06-28 10:12:49, malware, 1f4039857d024a508736503ac8a20a62, http://198.23.165.253/shindearm6
-177502, 2024-06-28 10:12:48, 2024-06-28 10:12:48, malware, 276af1a0e0854188b419fcda96b8e76c, http://198.23.165.253/shindearm5
-177501, 2024-06-28 10:12:47, 2024-06-28 10:12:47, malware, a29cd0e0155d468da7dbb92e39d2e7e6, http://198.23.165.253/shindearm
