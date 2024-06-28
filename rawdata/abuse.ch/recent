@@ -1,12 +1,14 @@
 ################################################################
 # ThreatFox IOCs: recent SHA256 hashes - CSV format            #
-# Last updated: 2024-06-26 14:55:31 UTC                        #
+# Last updated: 2024-06-28 13:32:34 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
 # "first_seen_utc","ioc_id","ioc_value","ioc_type","threat_type","fk_malware","malware_alias","malware_printable","last_seen_utc","confidence_level","reference","tags","anonymous","reporter"
+"2024-06-28 13:32:34", "1290103", "474ee78c6636ee478ea7f4521559679fbc468bb326357737bfc465e63ed153fa", "sha256_hash", "payload", "osx.poseidon", "None", "Poseidon", "", "100", "https://urlhaus.abuse.ch/browse.php?search=474ee78c6636ee478ea7f4521559679fbc468bb326357737bfc465e63ed153fa", "Poseidon,PoseidonStealer", "0", "NDA0E"
+"2024-06-28 13:32:30", "1290108", "c1693ee747e31541919f84dfa89e36ca5b74074044b181656d95d7f40af34a05", "sha256_hash", "payload", "osx.poseidon", "None", "Poseidon", "", "100", "https://urlhaus.abuse.ch/browse.php?search=c1693ee747e31541919f84dfa89e36ca5b74074044b181656d95d7f40af34a05", "Poseidon,PoseidonStealer", "0", "NDA0E"
 "2024-06-26 14:55:31", "1289235", "7d73a53ef0f8565c4fdafa03d707a8d32a4650b536d180b6bb0aae7713e10e6f", "sha256_hash", "payload", "win.redline_stealer", "RECORDSTEALER", "RedLine Stealer", "", "95", "None", "None", "0", "Grim"
 "2024-06-26 14:55:27", "1289232", "c5dc5fd676ab5b877bc86f88485c29d9f74933f8e98a33bddc29f0f3acc5a5b9", "sha256_hash", "payload", "win.lazarloader", "None", "LazarLoader", "", "95", "None", "None", "0", "Grim"
 "2024-06-26 14:55:23", "1289229", "1ef58d18a795cce5b4a9b056c48349ce4d683e6f148a48d965471edf24323b98", "sha256_hash", "payload", "win.njrat", "Bladabindi,Lime-Worm", "NjRAT", "", "95", "None", "None", "0", "Grim"
@@ -74,4 +76,4 @@
 "2024-06-26 14:51:47", "1289043", "2aeac076f9c2dc2654145d6d692b53abd690a9b3b5ee39948ab60776c7c505d0", "sha256_hash", "payload", "win.krakenkeylogger", "None", "KrakenKeylogger", "", "95", "None", "None", "0", "Grim"
 "2024-06-26 14:51:44", "1289040", "ebcaf07121ce2483989e7a71d00b83c54b942f71e51271d5b28886ef03e45b51", "sha256_hash", "payload", "win.dcrat", "DarkCrystal RAT", "DCRat", "", "95", "None", "None", "0", "Grim"
 "2024-06-26 14:51:41", "1289037", "abc5d7e2fe95585f2c118d1e8ed171ea82ec3c76b02353aa5acca13cab13a32c", "sha256_hash", "payload", "win.redline_stealer", "RECORDSTEALER", "RedLine Stealer", "", "95", "None", "None", "0", "Grim"
-# Number of entries: 67
+# Number of entries: 69
