@@ -1,11 +1,107 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-06-28 08:52:12 UTC                        #
+# Last updated: 2024-06-28 12:41:19 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	hd.hdweb2.pw
+127.0.0.1	agov-ch.net
+127.0.0.1	extraiptv.giize.com
+127.0.0.1	register-agov.com
+127.0.0.1	tv.surebettr.com
+127.0.0.1	tv.yayins.com
+127.0.0.1	www.agov-access.com
+127.0.0.1	www.agov-ch.com
+127.0.0.1	www.agov-access.net
+127.0.0.1	www.agov-ch.net
+127.0.0.1	www.extraiptv.giize.com
+127.0.0.1	www.register-agov.com
+127.0.0.1	agov-access.net
+127.0.0.1	288583cm.n9shteam2.top
+127.0.0.1	392065cm.n9shteam2.top
+127.0.0.1	466037cm.n9shteam2.top
+127.0.0.1	918938cm.n9shteam2.top
+127.0.0.1	n9shteam2.top
+127.0.0.1	415566cm.n9shteam2.top
+127.0.0.1	297037cm.n9shteam2.top
+127.0.0.1	113304cm.n9shteam2.top
+127.0.0.1	421820cm.n9shteam2.top
+127.0.0.1	356137cm.n9shteam2.top
+127.0.0.1	445443cm.n9shteam2.top
+127.0.0.1	791660cm.n9shteam2.top
+127.0.0.1	474452cm.n9shteam2.top
+127.0.0.1	115583cm.n9shteam2.top
+127.0.0.1	042506cm.n9shteam2.top
+127.0.0.1	234540cm.n9shteam2.top
+127.0.0.1	815156cm.n9shteam2.top
+127.0.0.1	272450cm.n9shteam2.top
+127.0.0.1	810755cm.n9shteam2.top
+127.0.0.1	502647cm.n9shteam2.top
+127.0.0.1	560216cm.n9shteam2.top
+127.0.0.1	784334cm.n9shteam2.top
+127.0.0.1	800453cm.n9shteam2.top
+127.0.0.1	351866cm.n9shteam2.top
+127.0.0.1	545735cm.n9shteam2.top
+127.0.0.1	024460cm.n9shteam2.top
+127.0.0.1	256435cm.n9shteam2.top
+127.0.0.1	113313cm.n9shteam2.top
+127.0.0.1	476258cm.n9shteam2.top
+127.0.0.1	452132cm.n9shteam2.top
+127.0.0.1	112880cm.n9shteam2.top
+127.0.0.1	478925cm.n9shteam2.top
+127.0.0.1	739668cm.n9shteam2.top
+127.0.0.1	318907cm.n9shteam2.top
+127.0.0.1	218629cm.n9shteam2.top
+127.0.0.1	378418cm.n9shteam2.top
+127.0.0.1	796367cm.n9shteam2.top
+127.0.0.1	373430cm.n9shteam2.top
+127.0.0.1	055442cm.n9shteam2.top
+127.0.0.1	901329cm.n9shteam2.top
+127.0.0.1	550515cm.n9shteam2.top
+127.0.0.1	044913cm.n9shteam2.top
+127.0.0.1	994609cm.n9shteam2.top
+127.0.0.1	677846cm.n9shteam2.top
+127.0.0.1	842614cm.n9shteam2.top
+127.0.0.1	130727cm.n9shteam2.top
+127.0.0.1	741211cm.n9shteam2.top
+127.0.0.1	505732cm.n9shteam2.top
+127.0.0.1	462708cm.n9shteam2.top
+127.0.0.1	797441cm.n9shteam2.top
+127.0.0.1	080864cm.n9shteam2.top
+127.0.0.1	865461cm.n9shteam2.top
+127.0.0.1	751120cm.n9shteam2.top
+127.0.0.1	463281cm.n9shteam2.top
+127.0.0.1	596048cm.n9shteam2.top
+127.0.0.1	466329cm.n9shteam2.top
+127.0.0.1	041018cm.n9shteam2.top
+127.0.0.1	956330cm.n9shteam2.top
+127.0.0.1	034928cm.n9shteam2.top
+127.0.0.1	913987cm.n9shteam2.top
+127.0.0.1	587986cm.n9shteam2.top
+127.0.0.1	946663cm.n9shteam2.top
+127.0.0.1	040943cm.n9shteam2.top
+127.0.0.1	931740cm.n9shteam2.top
+127.0.0.1	656709cm.n9shteam2.top
+127.0.0.1	096241cm.n9shteam2.top
+127.0.0.1	851594cm.n9shteam2.top
+127.0.0.1	314172cm.n9shteam2.top
+127.0.0.1	118621cm.n9shteam2.top
+127.0.0.1	338453cm.n9shteam2.top
+127.0.0.1	621287cm.n9shteam2.top
+127.0.0.1	826969cm.n9shteam2.top
+127.0.0.1	226037cm.n9shteam2.top
+127.0.0.1	382119cm.n9shteam2.top
+127.0.0.1	173920cm.n9shteam2.top
+127.0.0.1	625492cm.n9shteam2.top
+127.0.0.1	367191cm.n9shteam2.top
+127.0.0.1	047138cm.n9shteam2.top
+127.0.0.1	473366cm.n9shteam2.top
+127.0.0.1	235566cm.n9shteam2.top
+127.0.0.1	206481cm.n9shteam2.top
+127.0.0.1	424673cm.n9shteam2.top
+127.0.0.1	306003cm.n9shteam2.top
 127.0.0.1	www.micorosoft-ai.com
 127.0.0.1	agov-access.com
 127.0.0.1	agov-access.net
@@ -7641,4 +7737,4 @@
 127.0.0.1	sts.securedocumentservices.ca
 127.0.0.1	ec2-34-230-9-163.compute-1.amazonaws.com
 127.0.0.1	173-255-196-101.ip.linodeusercontent.com
-# Number of entries: 7635
+# Number of entries: 7731
