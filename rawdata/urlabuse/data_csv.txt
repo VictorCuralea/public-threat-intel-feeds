@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-28 02:00:03 UTC
+# UPDATE: 2024-06-28 03:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+177093, 2024-06-28 02:32:13, 2024-06-28 02:05:00, phishing, a1390b5a7a2955484c3c17f0a2f09398, https://cm.naukrigulf.com/?redirect=https%3A%2F%2Fwww.naukrigulf.com%2Fnglogin%2Fuser%2FmailerLogin%3Fconmailer%3D9970f1174238463b4751e4444bb95821%257C~%257CZ2VyYXJkYm9pc21hcnRpbkBiaWdwb25kLmNvbQ%253D%253D%257C%252A%252A%252A%252A%257C1%257C~~%257C20230509%26rUrl%3Dhttps://pub-16160b84bdf048d8b13dad0b96528c38.r2.dev/HK.html
 177092, 2024-06-28 01:58:57, 2024-06-28 01:37:51, phishing, fc31d20edfe10d06f9262861544845cb, https://shangutex.archive.us-east-1.oortech.com/Webmail%20-%20Login.html
 177091, 2024-06-28 01:58:41, 2024-06-28 01:32:54, phishing, 79e57b2e21c080fca78d9f82bf37eac0, https://yota.ge//wp-content/uploads/2017/neteasyes/neteasyest/900/
 177090, 2024-06-28 01:32:34, 2024-06-28 01:32:34, malware, 818a6b6e8b8e4975901a606cdb663ff6, http://95.158.161.51:43619/Mozi.m
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 176596, 2024-06-27 09:45:02, 2024-06-27 09:45:02, malware, 09dc59bffcdb4400a803bf699dc62cdf, http://42.227.45.36:53855/bin.sh
 176595, 2024-06-27 09:44:36, 2024-06-27 09:44:36, malware, 46e53f25f2cb496681d8b8bc6355c146, http://38.137.250.97:34480/Mozi.m
 176594, 2024-06-27 09:44:23, 2024-06-27 09:44:23, malware, 67a49921bd534a37b1916125e9216104, http://27.215.214.179:37696/bin.sh
-176593, 2024-06-27 09:43:58, 2024-06-27 09:43:58, malware, 10fd724e8a624b579b8c9c9c32d8ba21, http://222.139.55.222:36044/i
