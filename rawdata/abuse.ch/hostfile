@@ -1,11 +1,18 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-06-28 07:22:55 UTC                        #
+# Last updated: 2024-06-28 08:52:12 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	www.micorosoft-ai.com
+127.0.0.1	agov-access.com
+127.0.0.1	agov-access.net
+127.0.0.1	agov-ch.com
+127.0.0.1	agov-ch.net
+127.0.0.1	register-agov.com
+127.0.0.1	register-agov.net
 127.0.0.1	hk.youcaihua.tech
 127.0.0.1	manage.sandoq.xyz
 127.0.0.1	ss2.anidlws.xyz
@@ -7634,4 +7641,4 @@
 127.0.0.1	sts.securedocumentservices.ca
 127.0.0.1	ec2-34-230-9-163.compute-1.amazonaws.com
 127.0.0.1	173-255-196-101.ip.linodeusercontent.com
-# Number of entries: 7628
+# Number of entries: 7635
