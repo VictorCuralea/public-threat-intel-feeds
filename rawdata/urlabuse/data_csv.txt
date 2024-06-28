@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-28 18:00:02 UTC
+# UPDATE: 2024-06-28 19:00:03 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+177944, 2024-06-28 18:50:22, 2024-06-28 18:50:22, phishing, 980923bfa7a27d2fbf5d22687b3a2826, http://mgmye.pages.dev
+177943, 2024-06-28 18:20:24, 2024-06-28 18:20:24, phishing, 64fd70807c878152991dec809b0b0cbb, http://mail.zhgyuy62.c505.net
 177942, 2024-06-28 17:54:25, 2024-06-28 17:54:25, phishing, 866fcdc189d1936076609e5642a79b57, http://ordilootradar.pages.dev
 177941, 2024-06-28 17:50:22, 2024-06-28 17:50:22, malware, 07cbad768ef140d8af92c933e1aefc36, http://81.183.131.204:56000/.i
 177940, 2024-06-28 17:45:45, 2024-06-28 17:45:45, malware, 6dcbe48f4e7a42259e2533c1fd036445, http://61.53.157.87:37313/i
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 177447, 2024-06-28 10:05:27, 2024-06-28 10:05:27, malware, 086bd9f2811a412ead8c3d1ff0e281d8, http://175.175.23.218:37422/bin.sh
 177446, 2024-06-28 10:05:24, 2024-06-28 10:05:24, malware, bb6f06db31de48eb917cfe147ddd092b, http://175.173.112.5:57180/i
 177445, 2024-06-28 10:05:22, 2024-06-28 10:05:22, malware, 1f1bae17bcd54ef98990277ef7a77ab5, http://175.173.112.5:57180/bin.sh
-177444, 2024-06-28 10:05:19, 2024-06-28 10:05:19, malware, 985f94f9c4764884b1effa683968cc26, http://175.166.0.159:34535/bin.sh
-177443, 2024-06-28 10:05:17, 2024-06-28 10:05:17, malware, 0eb1ceafbb6142f193064b92d7ee91e5, http://175.151.85.159:57498/i

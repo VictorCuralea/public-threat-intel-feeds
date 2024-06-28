@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-06-28 13:51:11 UTC                        #
+# Last updated: 2024-06-28 18:51:48 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	net.icdns.online
+127.0.0.1	botnetddos.zapto.org
 127.0.0.1	panda.superdreadi.com
 127.0.0.1	panda.vifurni.com
 127.0.0.1	panda.viralhab.com
@@ -7858,4 +7860,4 @@
 127.0.0.1	nano.gradingran.de
 127.0.0.1	472-track.net
 127.0.0.1	scan.myappsec.eu
-# Number of entries: 7852
+# Number of entries: 7854
