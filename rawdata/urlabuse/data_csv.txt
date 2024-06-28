@@ -6,9 +6,16 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-28 14:00:02 UTC
+# UPDATE: 2024-06-28 15:00:04 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+177802, 2024-06-28 14:18:31, 2024-06-28 14:18:31, phishing, f0eb5ebc1c33e0235c3d2bb196ff6c34, http://smartreviseapps.pages.dev
+177801, 2024-06-28 14:03:06, 2024-06-28 13:54:48, phishing, eed6c595d5594662a2799a06636247e6, https://santander.cf.sandbox.motrada.ch/tac
+177800, 2024-06-28 14:02:46, 2024-06-28 13:54:33, phishing, e9f30564b587c052fd510b392bc80e10, https://absensi.pptqarroyyan.com/old/
+177799, 2024-06-28 14:02:26, 2024-06-28 13:52:27, phishing, 5cee3b0240d4e4fdd90d7a797a7e2dc1, https://sites.google.com/view/invvcfres/home
+177798, 2024-06-28 14:02:11, 2024-06-28 13:52:21, phishing, 8a0425b1d74f64a7be06a87314073f90, https://getsecureupadet.com/aktualiset/
+177797, 2024-06-28 14:01:51, 2024-06-28 13:50:28, phishing, b3f907fa47bfcf0a03db70e416b27970, https://free-5227588.webadorsite.com/
+177796, 2024-06-28 14:01:26, 2024-06-28 13:48:42, phishing, ffad0093ff2c32a560e9abb55dbbfdc3, https://app.convertkit.com/editor/templates/2988537
 177795, 2024-06-28 13:56:26, 2024-06-28 13:56:26, phishing, 66ddf9138ce56ac7eb7e04f78bd76399, https://twint.buzz/de/receive/447201893?type=2
 177794, 2024-06-28 13:56:26, 2024-06-28 13:56:26, phishing, 0cb05965b343c0954334fb534783a35e, https://amerigo.jp/Viseca-ONE/login.php
 177793, 2024-06-28 13:54:33, 2024-06-28 13:54:33, phishing, 6b4b2a476ed7dfd914ab819e22f24f4e, https://kpvaishnav.com/f5b6e6b7e1/v3/oevlogin/ui/app/auth/flow/swisspass-login-uid-pw-rem/username
@@ -502,10 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 177305, 2024-06-28 09:23:14, 2024-06-28 09:23:14, malware, 546cc75cc7664b159c100d641e3b46d2, http://117.217.143.221:43933/bin.sh
 177304, 2024-06-28 09:22:45, 2024-06-28 09:22:45, malware, 88e1984acc554cc6b1b459a32cfdb440, http://117.212.186.185:35400/i
 177303, 2024-06-28 09:22:32, 2024-06-28 09:22:32, phishing, 947b15a066864d2a13ee603124360bfc, https://jhg-101574.weeblysite.com/
-177302, 2024-06-28 09:22:31, 2024-06-28 09:22:31, phishing, 0f33c64b2d80b8a25a27f661c84035ea, https://btcheckin-101840.weeblysite.com/
-177301, 2024-06-28 09:22:15, 2024-06-28 09:22:15, malware, 70a36dcce992459c9f1a76bc55cd15de, http://117.210.179.80:47845/i
-177300, 2024-06-28 09:22:08, 2024-06-28 09:22:08, malware, 85c6e863d9eb4e94aac8bb96984a5af5, http://117.210.179.80:47845/bin.sh
-177299, 2024-06-28 09:21:11, 2024-06-28 09:21:11, malware, f0b4430357bb4a1b92a8776519598967, http://117.196.161.28:45899/bin.sh
-177298, 2024-06-28 09:20:50, 2024-06-28 09:20:50, malware, 82b6df7f304443b882f0634010a0df40, http://117.195.139.114:37234/bin.sh
-177297, 2024-06-28 09:20:42, 2024-06-28 09:20:42, malware, f292d89e095e47b7941e8d6f03291165, http://117.194.214.193:33027/i
-177296, 2024-06-28 09:20:37, 2024-06-28 09:20:37, malware, c77918e3c20c4c56ae6c3411da42310e, http://115.58.14.105:51657/i
