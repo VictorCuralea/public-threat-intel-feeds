@@ -6,9 +6,23 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-28 06:00:03 UTC
+# UPDATE: 2024-06-28 07:00:03 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+177245, 2024-06-28 06:59:31, 2024-06-28 06:52:27, phishing, 387ddd438a282e62d2bbc11a61d469d2, https://z88de3.webwave.dev/
+177244, 2024-06-28 06:59:13, 2024-06-28 06:42:29, phishing, 47c643d0e898848229fdd41c564a79fd, https://beatricemevel20.wixsite.com/my-site-1/
+177243, 2024-06-28 06:57:43, 2024-06-28 06:24:29, phishing, 9446dfda75cb560670a062d2936be700, https://mycss-anmeldung.cfolks.pl/id/cssv2/ui/app/auth/flow/mycss-login/ext/login.html
+177242, 2024-06-28 06:36:24, 2024-06-28 06:36:24, phishing, 52c0b0cec596051d83e90fd675d344ed, http://tg.d0j1a1701.cc
+177241, 2024-06-28 06:34:31, 2024-06-28 06:34:31, phishing, 3c047b606fda7970243407cd485c02d1, http://mouasarata.duckdns.org
+177240, 2024-06-28 06:24:26, 2024-06-28 06:24:26, phishing, d98af6dc5246b1b762e76117609d7e9e, http://sonikcoin-dapps.pages.dev
+177239, 2024-06-28 06:24:23, 2024-06-28 06:24:23, phishing, 3c9c9540cd0003558501c9877b22fc51, http://ajsuieokdujyh6748950osklmijuyahnhd093wuu844iskn3.pages.dev
+177238, 2024-06-28 06:22:24, 2024-06-28 06:22:24, phishing, f1d34e4f9e7916bf0e58d1e06707845a, http://connect-xyz.pages.dev
+177237, 2024-06-28 06:14:34, 2024-06-28 06:14:34, phishing, c8db6758576954a7bce514abbfe4ace5, https://gxr.cup.mybluehost.me/SWISSPASS/informatie/index.php?id=3e60df1916e4103eaf19cf6f2be9c5d73e60df1916e4103eaf19cf6f2be9c5d7
+177236, 2024-06-28 06:14:27, 2024-06-28 06:14:27, phishing, d57d05bdfa94b284c7e8219a9065de89, http://retojsbronfrs02.pages.dev
+177235, 2024-06-28 06:02:26, 2024-06-28 06:02:26, hacked, e1099bdce556f5f2bdcabb8d0932f9ca, https://tonannguyen.dev/index.php
+177234, 2024-06-28 06:02:19, 2024-06-28 06:02:19, hacked, 46d1895c2737b63596dcb0d1290cd5b9, https://kimmaihoang.com/index.php
+177233, 2024-06-28 06:02:16, 2024-06-28 06:02:16, hacked, 565e64897203e8b462f668a8a4cec78f, https://evoegestaoerh.com.br/
+177232, 2024-06-28 06:02:13, 2024-06-28 06:02:13, hacked, 51dbb68a72e1527f5e6318caf02fc28c, https://colorwalldesign.com/
 177231, 2024-06-28 05:46:24, 2024-06-28 05:46:24, phishing, e67efec8eec90d9c5b2512b2a646a0da, http://zhgyuy62.c505.net
 177230, 2024-06-28 05:34:14, 2024-06-28 05:34:14, malware, 64a796b13fb8482ea0601776f1703657, http://78.142.55.3:36565/i
 177229, 2024-06-28 05:34:08, 2024-06-28 05:34:08, malware, 05a438a6f99d4f53ba652cd6f86f2d9d, http://61.53.254.219:49366/Mozi.m
@@ -495,17 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 176748, 2024-06-27 13:22:49, 2024-06-27 13:22:49, malware, 8b3fd7090bb745c18b34c58835c3b9d8, http://117.208.213.131:49330/bin.sh
 176747, 2024-06-27 13:21:12, 2024-06-27 13:21:12, malware, 89fbbd04c9ab424282091915ffe2096c, http://115.57.69.204:39305/i
 176746, 2024-06-27 13:21:08, 2024-06-27 13:21:08, malware, 346a19a7c13140018de10d5cc4683a44, http://115.55.243.103:48240/i
-176745, 2024-06-27 13:21:01, 2024-06-27 13:21:01, malware, d58103fea44248fabed0ef301b776ca6, http://115.55.243.103:48240/bin.sh
-176744, 2024-06-27 13:20:54, 2024-06-27 13:20:54, malware, ce4ee3e059a14cf7a054d60170616c8c, http://115.55.146.170:43691/bin.sh
-176743, 2024-06-27 13:20:47, 2024-06-27 13:20:47, malware, cbab92ec5f6e444fa86d66e79ce9c267, http://115.51.33.111:56078/bin.sh
-176742, 2024-06-27 13:20:32, 2024-06-27 13:20:32, malware, 2e1256af4da7467890a650938cddbaff, http://113.221.8.194:59063/i
-176741, 2024-06-27 13:20:18, 2024-06-27 13:20:18, malware, 6bde1715badc416892cf0f66c60fd531, http://112.229.194.218:50617/bin.sh
-176740, 2024-06-27 13:20:16, 2024-06-27 13:20:16, malware, 9be3612674f04769b328c0a05bf75a3b, http://110.180.177.109:48278/i
-176739, 2024-06-27 13:04:34, 2024-06-27 13:04:34, phishing, 3baaf23093fea85ec2cd636b4dd29e2f, https://hm.ru/qMyRtr
-176738, 2024-06-27 13:00:25, 2024-06-27 13:00:25, phishing, bb835531559186114e16b89ab531a950, http://demethy.byethost17.com/ss.html
-176737, 2024-06-27 12:56:17, 2024-06-27 12:56:17, phishing, a8c5b26b40377fe9065d9025a07f747e, https://ce77855.tw1.ru/borro/
-176736, 2024-06-27 12:54:35, 2024-06-27 12:54:35, phishing, da2682093befbf5e37fde75159d7d7c8, https://parg.co/UnRY
-176735, 2024-06-27 12:20:28, 2024-06-27 12:20:28, phishing, 9b4e1d626dbceeef5ac6564bcf614100, http://token-revshares.pages.dev
-176734, 2024-06-27 11:54:19, 2024-06-27 11:54:19, phishing, 953fdda1ebb5486b0f1d5ad75bf316b1, http://page-time10qpx.pages.dev
-176733, 2024-06-27 11:41:31, 2024-06-27 11:41:31, malware, 0e8e9bb6d1b84d298e27f94e6e64a1bc, http://94.228.166.74/wp-includes/ldr.exe
-176732, 2024-06-27 11:40:30, 2024-06-27 11:40:30, malware, ee703ad61e1c416c92127a68e100db95, http://88.250.50.11:51094/i
