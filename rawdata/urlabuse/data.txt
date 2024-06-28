@@ -6,8 +6,9 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-28 00:00:03 UTC
+# UPDATE: 2024-06-28 01:00:04 UTC
 ############### END COMMENTS ###############
+{"id": 177015, "url": "http://dfgdgr3939.pages.dev", "discovery": "2024-06-28 00:07:43", "added": "2024-06-28 00:07:43", "target": "Amazon", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "a17537c53d25f04e9bd49e43f371bf59"}
 {"id": 177014, "url": "http://dwyxb.a2t6ujy.cn/softwarerj/367329.apk", "discovery": "2024-06-27 23:42:16", "added": "2024-06-27 23:42:16", "target": "#ZIP", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "667b7d2ddc26457eb60d25cb37d7c8f8"}
 {"id": 177013, "url": "http://77.91.77.33/mimikatz.exe", "discovery": "2024-06-27 23:29:35", "added": "2024-06-27 23:29:35", "target": "#PE64_CMD", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "8a7ec0a630ec4a239668a1ed8804d49f"}
 {"id": 177012, "url": "http://72.240.246.244:17505/.i", "discovery": "2024-06-27 23:28:53", "added": "2024-06-27 23:28:53", "target": "#ELF32ARM_EABI5", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "d27a1f4a5edc400d8ab1ea9c7a8107bd"}
@@ -507,4 +508,3 @@
 {"id": 176518, "url": "http://telepwen.fit/", "discovery": "2024-06-27 07:00:55", "added": "2024-06-27 07:00:55", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "82df0a2226a9c6a3e842e0f86fe30eb3"}
 {"id": 176517, "url": "https://gmxs-supercool-site.webflow.io/", "discovery": "2024-06-27 06:48:21", "added": "2024-06-27 06:48:21", "target": "AT&T", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "823581d8adbda5e68ee3f7a4e2442a34"}
 {"id": 176516, "url": "http://barclaypremierleaguebestplayerofalltime2.pages.dev", "discovery": "2024-06-27 06:36:22", "added": "2024-06-27 06:36:22", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "3090c9229ae2a831d6d5ada8be619856"}
-{"id": 176515, "url": "https://servicefacturationonline.weebly.com/", "discovery": "2024-06-27 06:16:32", "added": "2024-06-27 06:16:32", "target": "Other", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "844121e2af84119100300066f1da9293"}

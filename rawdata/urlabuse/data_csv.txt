@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-28 00:00:03 UTC
+# UPDATE: 2024-06-28 01:00:04 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+177015, 2024-06-28 00:07:43, 2024-06-28 00:07:43, phishing, a17537c53d25f04e9bd49e43f371bf59, http://dfgdgr3939.pages.dev
 177014, 2024-06-27 23:42:16, 2024-06-27 23:42:16, malware, 667b7d2ddc26457eb60d25cb37d7c8f8, http://dwyxb.a2t6ujy.cn/softwarerj/367329.apk
 177013, 2024-06-27 23:29:35, 2024-06-27 23:29:35, malware, 8a7ec0a630ec4a239668a1ed8804d49f, http://77.91.77.33/mimikatz.exe
 177012, 2024-06-27 23:28:53, 2024-06-27 23:28:53, malware, d27a1f4a5edc400d8ab1ea9c7a8107bd, http://72.240.246.244:17505/.i
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 176518, 2024-06-27 07:00:55, 2024-06-27 07:00:55, phishing, 82df0a2226a9c6a3e842e0f86fe30eb3, http://telepwen.fit/
 176517, 2024-06-27 06:48:21, 2024-06-27 06:48:21, phishing, 823581d8adbda5e68ee3f7a4e2442a34, https://gmxs-supercool-site.webflow.io/
 176516, 2024-06-27 06:36:22, 2024-06-27 06:36:22, phishing, 3090c9229ae2a831d6d5ada8be619856, http://barclaypremierleaguebestplayerofalltime2.pages.dev
-176515, 2024-06-27 06:16:32, 2024-06-27 06:16:32, phishing, 844121e2af84119100300066f1da9293, https://servicefacturationonline.weebly.com/
