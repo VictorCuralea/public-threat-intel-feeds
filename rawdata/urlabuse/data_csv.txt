@@ -6,9 +6,14 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-29 16:00:02 UTC
+# UPDATE: 2024-06-29 17:00:03 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+178697, 2024-06-29 16:58:26, 2024-06-29 16:58:26, phishing, b3a68b8ec1e49f4ed940c18bc65fe459, http://jcb.jeancosta.net
+178696, 2024-06-29 16:18:20, 2024-06-29 16:18:20, phishing, 750360cca1993a6030c8668941f6a866, http://use2.pages.dev
+178695, 2024-06-29 16:01:48, 2024-06-29 16:01:48, phishing, 6ae6e0f5fda4090992eca97280b4e7e7, https://radiobravafm.com.ar/wp-content/uploads/sites/8/2016/01/cgi-bin/information.php?access.x13442736771&&data.x=en_b1d09bd84b7a3bb40eedc768c
+178694, 2024-06-29 16:01:43, 2024-06-29 16:01:43, phishing, 045270b31737a689da6df8a40377a506, https://microsoftdew-9184.mstow117.workers.dev/
+178693, 2024-06-29 16:00:23, 2024-06-29 16:00:23, phishing, 7bf9971597fa10f10936cd5e761e42a5, https://free.koko.gleeze.com/
 178692, 2024-06-29 15:26:12, 2024-06-29 15:26:12, malware, b6b9c75878194e59a7ae2df85c9d9d7f, http://88.250.50.11:59037/bin.sh
 178691, 2024-06-29 15:26:07, 2024-06-29 15:26:07, malware, f1c0a9f7be694a51a2355b6193fa77b6, http://61.53.93.252:48003/i
 178690, 2024-06-29 15:25:16, 2024-06-29 15:25:16, malware, b77cd4d16002451da052b5395ef32d37, http://42.230.215.102:33616/bin.sh
@@ -504,8 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 178200, 2024-06-29 03:24:13, 2024-06-29 03:24:13, malware, 0f926dcff8c44988ba1412956b75cae0, http://117.248.41.219:55382/bin.sh
 178199, 2024-06-29 03:23:56, 2024-06-29 03:23:56, malware, d4400635cf0f44aaa13fe912dbd23ad9, http://117.245.211.27:59745/Mozi.m
 178198, 2024-06-29 03:23:49, 2024-06-29 03:23:49, malware, 9a4cc3bbd92e4aec812dc89ff7aa068d, http://117.222.251.214:40385/i
-178197, 2024-06-29 03:23:30, 2024-06-29 03:23:30, malware, 15835a01280a40d8bdcae99ba14ef7b4, http://117.221.194.211:40690/bin.sh
-178196, 2024-06-29 03:23:24, 2024-06-29 03:23:24, malware, 88ecb3106f824293b6528b88a143b203, http://117.219.122.88:57528/Mozi.m
-178195, 2024-06-29 03:23:00, 2024-06-29 03:23:00, malware, 9bc6edb2cf254aa0aad646da46c303c4, http://117.215.214.31:37217/bin.sh
-178194, 2024-06-29 03:22:57, 2024-06-29 03:22:57, malware, c2043d215de948e3a8536cd129bc4271, http://117.213.83.3:49985/bin.sh
-178193, 2024-06-29 03:22:55, 2024-06-29 03:22:55, malware, 2dec43be47974797b963f7a8355b8863, http://117.213.242.150:57294/i
