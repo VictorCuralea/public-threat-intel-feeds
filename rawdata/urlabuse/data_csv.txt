@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-29 08:00:03 UTC
+# UPDATE: 2024-06-29 09:00:03 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+178364, 2024-06-29 08:52:22, 2024-06-29 06:58:29, phishing, 438982cbd9b3a0864d3e06705ed6ad91, https://mxvdn4.csb.app/
+178363, 2024-06-29 08:51:58, 2024-06-29 06:56:28, phishing, 1eb986b30afabfb84df675ec1f8c1a48, https://pakengg.com.pk/wp-includes/tmp/sw/falsch/
+178362, 2024-06-29 08:50:34, 2024-06-29 08:50:34, phishing, c57a680fa582a32ff09fa62b20134350, https://docs.google.com/presentation/d/e/2PACX-1vRV5UnknVOYxibg7ZjuYtrkvtM2mUEXFZt1-nLp1-daPAMEFYXS5LRITvMOVXJaoOta4R0RKGLZNh99/pub?start=false
+178361, 2024-06-29 08:48:17, 2024-06-29 08:48:17, phishing, b322e8497c0280670d48a5d7a29d413f, http://uyaaisuieyurfnkfjkafljahgidusiayuueiwuafnvhaiulakdjfhdjphp.pages.dev
 178360, 2024-06-29 07:50:20, 2024-06-29 07:50:20, phishing, 5a4845790d57e1ab0f8a163348c728d1, http://refdsft2.pages.dev
 178359, 2024-06-29 07:48:36, 2024-06-29 07:48:36, phishing, 57763205c2f364b9664e274847abaf23, http://quickhashtrade.pages.dev
 178358, 2024-06-29 07:34:33, 2024-06-29 07:34:33, malware, 3d855639c747485cbb3364b8d4b7eade, http://61.53.133.98:37008/i
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 177867, 2024-06-28 17:21:10, 2024-06-28 17:21:10, malware, 34ced02d360e471e801e0bd48ae7694a, http://115.53.240.218:39754/i
 177866, 2024-06-28 17:21:04, 2024-06-28 17:21:04, malware, 651f40a8a79f4ddd87875e52270e9571, http://115.53.240.218:39754/bin.sh
 177865, 2024-06-28 17:20:57, 2024-06-28 17:20:57, malware, a1acf2c6215347d0adc06489a272d478, http://115.50.99.149:52539/i
-177864, 2024-06-28 17:20:53, 2024-06-28 17:20:53, malware, 85a3dbf9f7f84c7b9a79e61563d54975, http://115.50.99.149:52539/bin.sh
-177863, 2024-06-28 17:20:51, 2024-06-28 17:20:51, malware, 2c7e3b53a8704d8e906121ec442a8ac3, http://113.138.179.16:47752/Mozi.m
-177862, 2024-06-28 17:20:45, 2024-06-28 17:20:45, malware, f6c1fe01635c49df94b1ef2fb998eb51, http://110.243.29.221:44753/Mozi.m
-177861, 2024-06-28 17:20:14, 2024-06-28 17:20:14, malware, 06a5566c5a3e49f99a594d081174dd2d, http://105.109.111.183:37157/bin.sh
