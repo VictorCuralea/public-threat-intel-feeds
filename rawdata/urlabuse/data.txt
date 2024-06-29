@@ -6,8 +6,11 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-29 06:00:02 UTC
+# UPDATE: 2024-06-29 07:00:03 UTC
 ############### END COMMENTS ###############
+{"id": 178287, "url": "https://tuckawayshores.com/b3b4f3c7f6/v3/oevlogin/", "discovery": "2024-06-29 06:58:27", "added": "2024-06-29 06:58:27", "target": "SwissPass", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "e5e34cc5bc583e956ac8a5f970a8c8f9"}
+{"id": 178286, "url": "https://avisomarjando.com.customers.tigertech.net/DH/Reno/app/", "discovery": "2024-06-29 06:56:30", "added": "2024-06-29 06:56:30", "target": "Other", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "b47f9efc0629cee9bb30836f1b87bdf8"}
+{"id": 178285, "url": "https://twint.report/de/receive/447201893?type=2", "discovery": "2024-06-29 06:54:31", "added": "2024-06-29 06:54:31", "target": "TWINT", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "36fc67777950378600b19d150ed9aeef"}
 {"id": 178284, "url": "http://tgweb.pages.dev", "discovery": "2024-06-29 05:56:23", "added": "2024-06-29 05:56:23", "target": "Telegram", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "5935ea78f02a5c5a3f36a6113fea0954"}
 {"id": 178283, "url": "http://page-timey5pnx.pages.dev", "discovery": "2024-06-29 05:44:22", "added": "2024-06-29 05:44:22", "target": "Amazon", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "c59ddf5e1d7c044bf98305dfbb244133"}
 {"id": 178282, "url": "http://61.53.44.28:39238/i", "discovery": "2024-06-29 05:29:16", "added": "2024-06-29 05:29:16", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "aaca63bf92d34dff8d41562fd12e1253"}
@@ -505,6 +508,3 @@
 {"id": 177790, "url": "https://btdgdftky-106542.weeblysite.com/", "discovery": "2024-06-28 13:49:43", "added": "2024-06-28 13:49:43", "target": "BT", "reporter": "urlabuse", "AbuseType": "phishing", "UUID": "7c0a6867ac02a466cca779b87c671739"}
 {"id": 177789, "url": "https://flowcv.me/jdjshshshsns", "discovery": "2024-06-28 13:46:28", "added": "2024-06-28 13:49:29", "target": "BT", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "661654bbad680f0f4192c61a0dec3124"}
 {"id": 177788, "url": "https://generalairtools.com.br/2021/redirect.php/", "discovery": "2024-06-28 13:41:49", "added": "2024-06-28 13:49:14", "target": "Generic Phishing", "reporter": "anonymous", "AbuseType": "phishing", "UUID": "e723304c7450594a1996f5c58ddabbe2"}
-{"id": 177787, "url": "https://bttinternetmail.weeblysite.com/", "discovery": "2024-06-28 13:46:37", "added": "2024-06-28 13:46:37", "target": "Other", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "9de7b241851dbc7606092c6362ab03e0"}
-{"id": 177786, "url": "http://94.156.68.153/cc0e39c6862066ce/vcruntime140.dll", "discovery": "2024-06-28 13:34:37", "added": "2024-06-28 13:34:37", "target": "#PE32DLL_CMD", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "5a1cff72e1b34362b0cd491c9f2e84c7"}
-{"id": 177785, "url": "http://94.156.68.153/cc0e39c6862066ce/sqlite3.dll", "discovery": "2024-06-28 13:34:36", "added": "2024-06-28 13:34:36", "target": "#PE32DLL_CMD", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "c59094454a9241ca94794349900fea5d"}

@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-29 06:00:03 UTC
+# UPDATE: 2024-06-29 07:00:03 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+178287, 2024-06-29 06:58:27, 2024-06-29 06:58:27, phishing, e5e34cc5bc583e956ac8a5f970a8c8f9, https://tuckawayshores.com/b3b4f3c7f6/v3/oevlogin/
+178286, 2024-06-29 06:56:30, 2024-06-29 06:56:30, phishing, b47f9efc0629cee9bb30836f1b87bdf8, https://avisomarjando.com.customers.tigertech.net/DH/Reno/app/
+178285, 2024-06-29 06:54:31, 2024-06-29 06:54:31, phishing, 36fc67777950378600b19d150ed9aeef, https://twint.report/de/receive/447201893?type=2
 178284, 2024-06-29 05:56:23, 2024-06-29 05:56:23, phishing, 5935ea78f02a5c5a3f36a6113fea0954, http://tgweb.pages.dev
 178283, 2024-06-29 05:44:22, 2024-06-29 05:44:22, phishing, c59ddf5e1d7c044bf98305dfbb244133, http://page-timey5pnx.pages.dev
 178282, 2024-06-29 05:29:16, 2024-06-29 05:29:16, malware, aaca63bf92d34dff8d41562fd12e1253, http://61.53.44.28:39238/i
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 177790, 2024-06-28 13:49:43, 2024-06-28 13:49:43, phishing, 7c0a6867ac02a466cca779b87c671739, https://btdgdftky-106542.weeblysite.com/
 177789, 2024-06-28 13:49:29, 2024-06-28 13:46:28, phishing, 661654bbad680f0f4192c61a0dec3124, https://flowcv.me/jdjshshshsns
 177788, 2024-06-28 13:49:14, 2024-06-28 13:41:49, phishing, e723304c7450594a1996f5c58ddabbe2, https://generalairtools.com.br/2021/redirect.php/
-177787, 2024-06-28 13:46:37, 2024-06-28 13:46:37, phishing, 9de7b241851dbc7606092c6362ab03e0, https://bttinternetmail.weeblysite.com/
-177786, 2024-06-28 13:34:37, 2024-06-28 13:34:37, malware, 5a1cff72e1b34362b0cd491c9f2e84c7, http://94.156.68.153/cc0e39c6862066ce/vcruntime140.dll
-177785, 2024-06-28 13:34:36, 2024-06-28 13:34:36, malware, c59094454a9241ca94794349900fea5d, http://94.156.68.153/cc0e39c6862066ce/sqlite3.dll
