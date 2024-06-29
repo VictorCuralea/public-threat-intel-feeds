@@ -6,9 +6,15 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-29 22:00:03 UTC
+# UPDATE: 2024-06-29 23:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+178852, 2024-06-29 22:02:42, 2024-06-29 22:02:42, phishing, d7f9a04f5227ac8e7f006d5b77255d71, https://telegramhuo.com/
+178851, 2024-06-29 22:01:15, 2024-06-29 22:01:15, phishing, 77de6407ea17438f74163ba0ac73672b, https://www.daddhvjeewcwbbkzjvzwsvme.from-md.com/
+178850, 2024-06-29 22:01:01, 2024-06-29 22:01:01, phishing, f56efbefd703f72ad200246415897f8f, https://free.ravana.kozow.com/
+178849, 2024-06-29 22:01:01, 2024-06-29 22:01:01, phishing, ba60a17e285d374d62e80b4f06a1690f, https://telegramwaoowxx.pages.dev/
+178848, 2024-06-29 22:00:26, 2024-06-29 22:00:26, phishing, 93a1ebf03a8f986a62aa94b95fba10d5, https://telegreoam.com/
+178847, 2024-06-29 22:00:21, 2024-06-29 22:00:21, phishing, d11334a62573d30555d777bc93ba6989, https://telegramgroupzqq69.pages.dev/
 178846, 2024-06-29 21:42:24, 2024-06-29 21:42:24, phishing, 73c50de099404fde1260531488f8c806, http://perceptiveloomdefy.pages.dev
 178845, 2024-06-29 21:34:22, 2024-06-29 21:34:22, malware, d461fe39dd814f509c9ac2d9847e6c27, http://61.52.33.116:35525/i
 178844, 2024-06-29 21:33:55, 2024-06-29 21:33:55, malware, f8fddb68dc884b5eb1935738a10835e5, http://61.0.147.128:48088/bin.sh
@@ -503,9 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 178355, 2024-06-29 07:34:03, 2024-06-29 07:34:03, malware, 6c41e5d2af8644e4b4d5116ff19af564, http://61.3.102.124:36861/i
 178354, 2024-06-29 07:33:58, 2024-06-29 07:33:58, malware, 0061a47c6acc44a0840e9ffb2f129078, http://61.3.102.124:36861/bin.sh
 178353, 2024-06-29 07:33:36, 2024-06-29 07:33:36, malware, bfad47377ec74c1787f95d1e1b9fda78, http://59.99.221.73:48452/Mozi.m
-178352, 2024-06-29 07:32:38, 2024-06-29 07:32:38, malware, 7b701c366e9c47a0af3c72f3ccca5884, http://59.96.198.94:52069/bin.sh
-178351, 2024-06-29 07:32:23, 2024-06-29 07:32:23, malware, 4d7b2dfbaf65468f999a4b2a6444e8ae, http://59.95.132.166:34047/Mozi.m
-178350, 2024-06-29 07:31:32, 2024-06-29 07:31:32, malware, 5b40ff5caf9e462898a6a89a41e2d1de, http://59.91.83.46:45659/bin.sh
-178349, 2024-06-29 07:31:20, 2024-06-29 07:31:20, malware, 9e094a4cecc346d29cff91015a6aa228, http://59.88.226.115:44979/bin.sh
-178348, 2024-06-29 07:30:55, 2024-06-29 07:30:55, malware, 28107b28cb574a0990974b9e218bc803, http://42.238.195.0:58580/bin.sh
-178347, 2024-06-29 07:30:51, 2024-06-29 07:30:51, malware, 84353b9c9c124e91a3762f04c3b35cc5, http://42.231.185.252:41470/bin.sh
