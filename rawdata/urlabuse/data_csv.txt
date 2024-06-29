@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-29 18:00:02 UTC
+# UPDATE: 2024-06-29 19:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+178732, 2024-06-29 18:58:28, 2024-06-29 18:58:28, phishing, 5df0aa493b27078a3800e07d862219e8, http://versatilehogefitfi.pages.dev
 178731, 2024-06-29 17:31:34, 2024-06-29 17:31:34, malware, e889c6bab0b84f6da130d894e8846d0e, http://59.182.136.246:40823/bin.sh
 178730, 2024-06-29 17:31:28, 2024-06-29 17:31:28, malware, 0e9f6a7f61194b8d8c6e031620b34915, http://43.254.205.197:58273/bin.sh
 178729, 2024-06-29 17:31:13, 2024-06-29 17:31:13, malware, 869a832ba5ba4f1f829d970d94d1a750, http://42.235.36.82:47335/i
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 178235, 2024-06-29 04:01:30, 2024-06-29 04:01:30, phishing, a79f2e89727c907d2a2535859d2a7d31, http://www.teleguram.org/
 178234, 2024-06-29 04:00:40, 2024-06-29 04:00:40, phishing, 0f419c2263c20c3d75aa0fa9054446d5, https://teiergom.com/
 178233, 2024-06-29 04:00:31, 2024-06-29 04:00:31, phishing, d2fbf46004713086d7c9b3785b0f7a54, https://panggah-oke-git-main-sfsdghs-projects.vercel.app/
-178232, 2024-06-29 04:00:25, 2024-06-29 04:00:25, phishing, 9b04f55989458e40d10489e9050fd75d, https://bhqjgnyg.life/

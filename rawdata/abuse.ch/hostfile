@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-06-29 15:27:26 UTC                        #
+# Last updated: 2024-06-29 18:54:03 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	baidenyes.net
 127.0.0.1	funny-sam.online
 127.0.0.1	login-auth-office.com
 127.0.0.1	football-emily.gl.at.ply.gg
@@ -7679,4 +7680,4 @@
 127.0.0.1	dw.ohuyal.xyz
 127.0.0.1	cnc.ohuyal.xyz
 127.0.0.1	xmr.ohuyal.xyz
-# Number of entries: 7673
+# Number of entries: 7674
