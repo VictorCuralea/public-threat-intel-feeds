@@ -6,8 +6,14 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-29 20:00:03 UTC
+# UPDATE: 2024-06-29 21:00:03 UTC
 ############### END COMMENTS ###############
+{"id": 178795, "url": "https://sirava.eu/language/ch/sunrise/MEIN/", "discovery": "2024-06-29 20:20:44", "added": "2024-06-29 20:29:31", "target": "Sunrise", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "04fbf0939b148ca60b1ff720951647ed"}
+{"id": 178794, "url": "https://schweizliferung.com/login/dpdch/", "discovery": "2024-06-29 20:20:25", "added": "2024-06-29 20:28:45", "target": "DPD", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "cdb1f43ed26ea4730c3923ecfddf22b6"}
+{"id": 178793, "url": "https://chviscaonline.online/net/app/login.php", "discovery": "2024-06-29 20:20:24", "added": "2024-06-29 20:28:31", "target": "Netflix", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "021d4036c9373cd5a082b4f3f47d8b36"}
+{"id": 178792, "url": "https://oqe.rew.mybluehost.me/SBB/index", "discovery": "2024-06-29 20:20:32", "added": "2024-06-29 20:20:32", "target": "SwissPass", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "7e5948415c49bc39891341988b46dcfd"}
+{"id": 178791, "url": "https://site18.info/Tanha/LP/P/A/C/H/K/H/O/b/E/h/Roup/app.apk", "discovery": "2024-06-29 20:04:39", "added": "2024-06-29 20:04:39", "target": "IRATA", "reporter": "urlabuse", "AbuseType": "malware", "UUID": "a047ebb031904fc39c1499142a1d75d0"}
+{"id": 178790, "url": "https://site18.info/Tanha/LP/P/A/C/H/K/H/O/b/E/h/Roup/page.php", "discovery": "2024-06-29 20:04:11", "added": "2024-06-29 20:04:11", "target": "Adliran", "reporter": "urlabuse", "AbuseType": "phishing", "UUID": "1481e8770495fb5ea9a6f2e213c5b52c"}
 {"id": 178789, "url": "http://dapsclaimtokes.pages.dev", "discovery": "2024-06-29 19:52:33", "added": "2024-06-29 19:52:33", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "c24d84a505155e028bf3833149c54e15"}
 {"id": 178788, "url": "https://toirp.sbs/Edalathamrah.apk", "discovery": "2024-06-29 19:46:12", "added": "2024-06-29 19:46:12", "target": "IRATA", "reporter": "urlabuse", "AbuseType": "malware", "UUID": "e61e631afd98438b8f36b4c2764b200c"}
 {"id": 178787, "url": "https://toirp.sbs/?login", "discovery": "2024-06-29 19:45:36", "added": "2024-06-29 19:45:36", "target": "Adliran", "reporter": "urlabuse", "AbuseType": "phishing", "UUID": "e674144b3bd9ac9a80bf5e341728e8ee"}
@@ -502,9 +508,3 @@
 {"id": 178298, "url": "https://telegromb.com/", "discovery": "2024-06-29 07:02:45", "added": "2024-06-29 07:02:45", "target": "Telegram", "reporter": "lruray", "AbuseType": "phishing", "UUID": "c7b2b78b061ba88588e59b87ee124807"}
 {"id": 178297, "url": "https://telegromp.com/", "discovery": "2024-06-29 07:02:45", "added": "2024-06-29 07:02:45", "target": "Telegram", "reporter": "lruray", "AbuseType": "phishing", "UUID": "9ed5f194029284eb9a39a95734faba96"}
 {"id": 178296, "url": "https://telegerms.com/", "discovery": "2024-06-29 07:02:33", "added": "2024-06-29 07:02:33", "target": "Telegram", "reporter": "lruray", "AbuseType": "phishing", "UUID": "288af8925882b4182fee3b98435cff13"}
-{"id": 178295, "url": "https://teiagreann.com/", "discovery": "2024-06-29 07:02:32", "added": "2024-06-29 07:02:32", "target": "Telegram", "reporter": "lruray", "AbuseType": "phishing", "UUID": "b3079f522e5d741d8d61b7f3fc91874b"}
-{"id": 178294, "url": "https://www.ting402.asia/a/", "discovery": "2024-06-29 07:02:30", "added": "2024-06-29 07:02:30", "target": "Telegram", "reporter": "lruubotd", "AbuseType": "phishing", "UUID": "b991ea8eac02297985fec77392f54cb9"}
-{"id": 178293, "url": "https://teiagraenn.com/", "discovery": "2024-06-29 07:01:15", "added": "2024-06-29 07:01:15", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "830ae0f5d01d23357d23419e9765e4b5"}
-{"id": 178292, "url": "https://tele-dewe.vercel.app/", "discovery": "2024-06-29 07:01:12", "added": "2024-06-29 07:01:12", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "d7213499190c3d5c15dceb6b21723460"}
-{"id": 178291, "url": "https://telegrdmt.com/", "discovery": "2024-06-29 07:01:10", "added": "2024-06-29 07:01:10", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "d8c7bc3ac6a5788cd07dc2e3358a0529"}
-{"id": 178290, "url": "https://free.drymt.ooguy.com/", "discovery": "2024-06-29 07:00:31", "added": "2024-06-29 07:00:31", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "e8a38c0d56c68ddf12a299ba1604ce6b"}
