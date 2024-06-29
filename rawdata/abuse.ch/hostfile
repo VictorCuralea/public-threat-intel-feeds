@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-06-29 09:00:52 UTC                        #
+# Last updated: 2024-06-29 14:37:50 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	login-auth-office.com
+127.0.0.1	football-emily.gl.at.ply.gg
 127.0.0.1	www.windowsuserapi.com
 127.0.0.1	robsheraldry.com
 127.0.0.1	xortoprojectnew.xyz
@@ -7676,4 +7678,4 @@
 127.0.0.1	dw.ohuyal.xyz
 127.0.0.1	cnc.ohuyal.xyz
 127.0.0.1	xmr.ohuyal.xyz
-# Number of entries: 7670
+# Number of entries: 7672
