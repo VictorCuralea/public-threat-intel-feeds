@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-29 12:00:02 UTC
+# UPDATE: 2024-06-29 13:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+178640, 2024-06-29 12:58:27, 2024-06-29 12:58:27, phishing, caa529379a91bb9749a6bf82cf3a0c4a, http://issuefix-protocol.pages.dev
+178639, 2024-06-29 12:36:28, 2024-06-29 12:36:28, phishing, f9ae1444c78b37f5bac5e85363887030, http://advancelobstarhifi.pages.dev
+178638, 2024-06-29 12:30:27, 2024-06-29 12:30:27, phishing, b04678effa20ef4c0b995c7adb114074, https://fagsgggsgss.weebly.com
+178637, 2024-06-29 12:29:10, 2024-06-29 11:32:25, phishing, 262dc87d09881a497dc70f3a6f144b35, https://campsite.bio/ehejke33
 178636, 2024-06-29 11:35:17, 2024-06-29 11:35:17, malware, 611e01944e7a462d892dc1b6f56820aa, http://94.228.199.82:55940/Mozi.a
 178635, 2024-06-29 11:35:04, 2024-06-29 11:35:04, malware, 99444f882ee640dcb4898dec56b8492f, http://61.53.153.94:49669/Mozi.m
 178634, 2024-06-29 11:34:59, 2024-06-29 11:34:59, malware, 06e8af1890a0477392b70223d7d1006f, http://61.53.141.125:44324/Mozi.m
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 178143, 2024-06-29 01:24:17, 2024-06-29 01:24:17, malware, edc880fa76fb4018a3169a7cfa5217bf, http://117.254.99.150:58065/i
 178142, 2024-06-29 01:24:14, 2024-06-29 01:24:14, malware, 34fe6aa6a3104803871a052d9c30cf86, http://117.254.177.213:45454/i
 178141, 2024-06-29 01:24:07, 2024-06-29 01:24:07, malware, 1561ca721e1f4dca97c02833e3bde586, http://117.254.103.14:46332/Mozi.m
-178140, 2024-06-29 01:24:03, 2024-06-29 01:24:03, malware, 0172257ec9a64b3594a7effb2be7cdf4, http://117.253.194.121:43144/i
-178139, 2024-06-29 01:23:59, 2024-06-29 01:23:59, malware, b05d4ccc2a7a48ab876c6d6bac0657a1, http://117.253.194.121:43144/bin.sh
-178138, 2024-06-29 01:23:55, 2024-06-29 01:23:55, malware, 3e572723f1214926bfefc4a34e70fe4a, http://117.252.167.113:53685/i
-178137, 2024-06-29 01:23:48, 2024-06-29 01:23:48, malware, b42450c722644a03996105a11a1c97cd, http://117.248.60.137:59475/bin.sh
