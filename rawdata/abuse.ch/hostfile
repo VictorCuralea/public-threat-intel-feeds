@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-06-29 06:21:32 UTC                        #
+# Last updated: 2024-06-29 09:00:52 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	www.windowsuserapi.com
 127.0.0.1	robsheraldry.com
 127.0.0.1	xortoprojectnew.xyz
 127.0.0.1	poseidon.cool
@@ -7848,4 +7849,4 @@
 127.0.0.1	o-sendungsverfolgung.net
 127.0.0.1	siegemachine.cn
 127.0.0.1	list.xcb.one
-# Number of entries: 7842
+# Number of entries: 7843
