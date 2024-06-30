@@ -6,9 +6,18 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-30 04:00:03 UTC
+# UPDATE: 2024-06-30 05:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+179079, 2024-06-30 04:05:04, 2024-06-30 04:05:04, phishing, d2632557789e2ad8d5f1ed729621f2e2, https://7365a19.com/
+179078, 2024-06-30 04:02:44, 2024-06-30 04:02:44, phishing, f02b41e8679ffd0fbfe59dadc7b5407c, https://radiobravafm.com.ar/wp-content/uploads/sites/8/2015/01/config/information.php?access.x77127999114&&data.x=en_06bc923363c7b594c48775b0b
+179077, 2024-06-30 04:02:39, 2024-06-30 04:02:39, phishing, 2cfcf535b1c6721d1297c822b95ea49f, http://telegrnam.work/
+179076, 2024-06-30 04:02:08, 2024-06-30 04:02:08, phishing, 9ffcbbaa4ffe774a721f622a904f4a38, http://jobfinderbot.website/
+179075, 2024-06-30 04:01:31, 2024-06-30 04:01:31, phishing, 444c177e856f3fba37437934c5a38e63, http://tlgr.org/
+179074, 2024-06-30 04:01:18, 2024-06-30 04:01:18, phishing, 7f451b94beebf3eb967f54eb6e77f3c9, http://telegtrin.work/
+179073, 2024-06-30 04:01:05, 2024-06-30 04:01:05, phishing, f11c095d597b1a56b262a870d06de127, https://peaceful-snickerdoodle-36a3d2.netlify.app/
+179072, 2024-06-30 04:00:33, 2024-06-30 04:00:33, phishing, 8dca94d2c7cee679b92a12c326f9980a, https://redirectsakri87nguwelits.pages.dev/
+179071, 2024-06-30 04:00:33, 2024-06-30 04:00:33, phishing, 62cdd95ada6386623f81f14016d8b8af, http://www.38cp99.cc:8989/mobile-client/index/index.html
 179070, 2024-06-30 03:30:57, 2024-06-30 03:30:57, malware, 32273d34ae8144a8ba83e8dd63b5085a, http://95.214.27.187/bins/Y3utfeVsnOv5l669NpHOnhl8DC6LGSOe5O
 179069, 2024-06-30 03:30:55, 2024-06-30 03:30:55, malware, f6a7bd2ac6a44a08a491c158e314c94e, http://95.214.27.187/bins/IYdwXD8Xg0tnn43tNr6eL3dwwXWGrNzNv1
 179068, 2024-06-30 03:30:55, 2024-06-30 03:30:55, malware, 744c67151a3c48498391a07d759b23fd, http://95.214.27.187/bins/GCJFkS56rTOjUfUl3IHgAasyyWG1oiilVk
@@ -500,12 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 178582, 2024-06-29 10:00:53, 2024-06-29 10:00:53, phishing, bbd2ef55cd0100811e6bbb34fead80f2, https://graph.instagram.com.sg1.workers2.xyz/
 178581, 2024-06-29 10:00:45, 2024-06-29 10:00:45, phishing, 33225138166cda45506dbb851b05492e, https://cache.netflix.com.sg1.workers2.xyz/
 178580, 2024-06-29 10:00:45, 2024-06-29 10:00:45, phishing, 47f07fd775cb1d479bb541be23193854, https://cache.netflix.com.id1.workers2.xyz/
-178579, 2024-06-29 10:00:40, 2024-06-29 10:00:40, phishing, 60462480f2fae2e2e9e3722bf7989188, https://graph.instagram.com.id1.workers2.xyz/
-178578, 2024-06-29 10:00:32, 2024-06-29 10:00:32, phishing, 4e69acbb78b7787b64fbc334b1a7bfbc, https://graph.instagram.com.my1.workers2.xyz/
-178577, 2024-06-29 10:00:31, 2024-06-29 10:00:31, phishing, 0697c33f774aafdade52fb1a34506e7d, https://cache.netflix.com.my1.workers2.xyz/
-178576, 2024-06-29 09:36:49, 2024-06-29 09:36:49, malware, 6cebab30b3cf4419b9d586532fe0cc59, http://88.250.50.11:59037/Mozi.m
-178575, 2024-06-29 09:36:45, 2024-06-29 09:36:45, malware, 9fb4b8126ae247bf930a35df527ca557, http://61.52.37.115:41915/Mozi.m
-178574, 2024-06-29 09:36:43, 2024-06-29 09:36:43, malware, ed77882c96944c34ab8c267125f94fd7, http://60.243.227.188:59276/bin.sh
-178573, 2024-06-29 09:36:40, 2024-06-29 09:36:40, malware, b9260cb61d244b7785d34cbee59108a9, http://59.93.234.4:52279/i
-178572, 2024-06-29 09:36:37, 2024-06-29 09:36:37, malware, 6b1189d60a2149e181f9967e361c82cc, http://59.93.234.4:52279/bin.sh
-178571, 2024-06-29 09:36:34, 2024-06-29 09:36:34, malware, 64dce1ce884e422f812ea474f50f9913, http://59.184.241.46:53773/bin.sh
