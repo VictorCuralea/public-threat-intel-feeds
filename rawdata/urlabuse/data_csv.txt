@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-30 14:00:03 UTC
+# UPDATE: 2024-06-30 15:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+179442, 2024-06-30 14:54:24, 2024-06-30 14:54:24, phishing, 420b6ee8d21ee8bb2f4ac92b7958cae6, http://espace-sms-sante.store
 179441, 2024-06-30 13:44:27, 2024-06-30 13:44:27, phishing, 5578c96a862fdf0b6f01e74ac117f828, http://defendercreatedvalue.pages.dev
 179440, 2024-06-30 13:21:03, 2024-06-30 13:21:03, malware, add3a14ebaae4cd38a4b7a5b0c43cc18, http://221.15.179.70:48751/bin.sh
 179439, 2024-06-30 13:20:56, 2024-06-30 13:20:56, malware, 1812457097b046579f2d6f50f054dfdf, http://219.156.130.129:47915/i
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 178945, 2024-06-30 01:24:52, 2024-06-30 01:24:52, malware, afdac6a7cf90427d9f815fde36d3df76, http://117.216.64.111:39249/i
 178944, 2024-06-30 01:24:37, 2024-06-30 01:24:37, malware, 08e1d20ef52d451c90dbbeab76240958, http://117.215.243.68:59902/i
 178943, 2024-06-30 01:24:30, 2024-06-30 01:24:30, malware, 0025ac56789d4c119969e519efea2313, http://117.213.81.226:55194/bin.sh
-178942, 2024-06-30 01:24:26, 2024-06-30 01:24:26, malware, 88753bd4ad884269895c728e67c93c7f, http://117.213.42.181:58820/i
