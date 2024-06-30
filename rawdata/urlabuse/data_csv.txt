@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-30 10:00:03 UTC
+# UPDATE: 2024-06-30 11:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+179414, 2024-06-30 10:14:26, 2024-06-30 10:14:26, phishing, 55bc12f6dc8848035551b6073419634a, https://docs.google.com/presentation/d/e/2PACX-1vQvG1s6l3GkmH0tiYMThBhAB2pEvNxQE4Ebw_Jwv0iyXpPi9GZvipDW-g_B8W_tiwnz57OhDqC9euQY/pub?start=false
 179413, 2024-06-30 09:40:33, 2024-06-30 09:40:33, malware, 3842f5d78d4f41e19ac52301c42eb03a, http://84.51.55.104:40723/Mozi.m
 179412, 2024-06-30 09:40:17, 2024-06-30 09:40:17, malware, 1eb4048a7d1e4a7c86d41cdeab6c68a9, http://61.53.81.39:56136/i
 179411, 2024-06-30 09:40:11, 2024-06-30 09:40:11, malware, 46766ab9deab44f6b8a8056e6c09c8bc, http://61.53.81.39:56136/bin.sh
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 178917, 2024-06-30 00:22:17, 2024-06-30 00:22:17, phishing, 61c83f94dcc96345f9a0e8ecc4d9fae7, http://bjjjgfdjyuutrejrgfsfjfdewedfdjujiutryretertuyjhjhjuhjklphp.pages.dev
 178916, 2024-06-30 00:08:26, 2024-06-30 00:08:26, phishing, 4992ae1e89239287899eb7f113fde518, http://help4979.facebook-guidelines.com
 178915, 2024-06-30 00:00:26, 2024-06-30 00:00:26, phishing, 5fe5145e56ce841095c9d2135cc75b18, http://vertixpro.pages.dev
-178914, 2024-06-29 23:31:42, 2024-06-29 23:31:42, malware, 8a56fecceb564d0b9f14779f72387e43, http://61.3.222.155:44646/i
