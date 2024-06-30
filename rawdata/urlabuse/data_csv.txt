@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-30 00:00:02 UTC
+# UPDATE: 2024-06-30 01:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+178917, 2024-06-30 00:22:17, 2024-06-30 00:22:17, phishing, 61c83f94dcc96345f9a0e8ecc4d9fae7, http://bjjjgfdjyuutrejrgfsfjfdewedfdjujiutryretertuyjhjhjuhjklphp.pages.dev
+178916, 2024-06-30 00:08:26, 2024-06-30 00:08:26, phishing, 4992ae1e89239287899eb7f113fde518, http://help4979.facebook-guidelines.com
+178915, 2024-06-30 00:00:26, 2024-06-30 00:00:26, phishing, 5fe5145e56ce841095c9d2135cc75b18, http://vertixpro.pages.dev
 178914, 2024-06-29 23:31:42, 2024-06-29 23:31:42, malware, 8a56fecceb564d0b9f14779f72387e43, http://61.3.222.155:44646/i
 178913, 2024-06-29 23:31:36, 2024-06-29 23:31:36, malware, 6f0d7b003f774130a295feb6e056b7fa, http://61.3.222.155:44646/bin.sh
 178912, 2024-06-29 23:31:31, 2024-06-29 23:31:31, malware, 7307a3e8ae7d41a19de601f82929cfbe, http://61.3.133.139:47078/i
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 178420, 2024-06-29 09:25:48, 2024-06-29 09:25:48, malware, c78391d21e2f497bb1a2f48a02cf28ed, http://119.115.251.69:42357/i
 178419, 2024-06-29 09:25:46, 2024-06-29 09:25:46, malware, 397dd3b5166f4463a4a67716b000e3c2, http://119.115.251.69:42357/bin.sh
 178418, 2024-06-29 09:25:44, 2024-06-29 09:25:44, malware, 5fac1618fd20494590565daea44b061f, http://119.114.150.89:51194/i
-178417, 2024-06-29 09:25:42, 2024-06-29 09:25:42, malware, eaddaeed188d428c961c9289653fdcd9, http://117.253.203.200:40354/mozi.m
-178416, 2024-06-29 09:25:40, 2024-06-29 09:25:40, malware, 1f21ec5680084bcd9e878c31c36c5e29, http://117.253.169.211:42537/Mozi.m
-178415, 2024-06-29 09:25:38, 2024-06-29 09:25:38, malware, 0ab198fbac0c4aebad8063f56628c6d5, http://117.248.175.132:36022/i
