@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-30 12:00:02 UTC
+# UPDATE: 2024-06-30 13:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+179428, 2024-06-30 12:50:19, 2024-06-30 12:50:19, phishing, 49a1e0dce0a53d5da9e7513b2084a2d4, http://tcbmthanedv007.com
+179427, 2024-06-30 12:39:59, 2024-06-30 12:39:59, phishing, 58724f12d6a2b78981ca409671606f40, http://yjftgc111.pages.dev
+179426, 2024-06-30 12:30:27, 2024-06-30 12:30:27, phishing, 30dfac275e3147ad62563a71adf4ef77, http://baysesturnvalue.pages.dev
 179425, 2024-06-30 11:42:29, 2024-06-30 11:42:29, phishing, 177fd31863d4d224ea1ef68e3023f0f1, http://appdynamicverse.pages.dev
 179424, 2024-06-30 11:38:27, 2024-06-30 11:38:27, phishing, 2717d8c72ba3aec5ff6aa31baeb2c83d, http://sync-integrated-dot.pages.dev
 179423, 2024-06-30 11:28:19, 2024-06-30 11:28:19, phishing, 118b797b931b3571f26e929c97fbb2b4, http://uprc02.pages.dev
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 178931, 2024-06-30 01:23:03, 2024-06-30 01:23:03, malware, 89553722f5b24586b7b054e4e8dd43f0, http://117.206.75.37:48880/bin.sh
 178930, 2024-06-30 01:22:52, 2024-06-30 01:22:52, malware, f628105290284a1aa11740aa979086db, http://117.206.185.202:57089/i
 178929, 2024-06-30 01:22:42, 2024-06-30 01:22:42, malware, e26074af3ef7452ca216ab751dfbe42f, http://117.206.185.202:57089/bin.sh
-178928, 2024-06-30 01:22:13, 2024-06-30 01:22:13, malware, ce6cf1bc444546759b057a4272ad8519, http://117.198.16.122:57010/i
-178927, 2024-06-30 01:22:01, 2024-06-30 01:22:01, malware, 8d2b148c7b3a453b99f7b8161facd858, http://117.198.16.122:57010/bin.sh
-178926, 2024-06-30 01:21:53, 2024-06-30 01:21:53, malware, 19e8247e8f03465dba4e07bc0623cc46, http://117.196.171.152:53711/Mozi.m
