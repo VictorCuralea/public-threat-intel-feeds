@@ -1,11 +1,17 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-06-30 18:54:02 UTC                        #
+# Last updated: 2024-06-30 19:16:02 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	kaylen.xyz
+127.0.0.1	ymuren.top
+127.0.0.1	corysy.xyz
+127.0.0.1	soterios.xyz
+127.0.0.1	kotawa.top
+127.0.0.1	aliszon.xyz
 127.0.0.1	api.chinacec.top
 127.0.0.1	poliyhedira.network
 127.0.0.1	nightciows.com
@@ -7753,4 +7759,4 @@
 127.0.0.1	ec2-18-216-147-202.us-east-2.compute.amazonaws.com
 127.0.0.1	cpanel.agdetails.com
 127.0.0.1	db.harmlesskouprey-f4f67ad9.swizzle-test.com
-# Number of entries: 7747
+# Number of entries: 7753
