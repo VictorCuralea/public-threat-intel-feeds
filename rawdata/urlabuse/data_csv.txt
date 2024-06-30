@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-06-30 02:00:03 UTC
+# UPDATE: 2024-06-30 03:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+179000, 2024-06-30 02:36:30, 2024-06-30 02:36:30, phishing, a4c0061ce82acde79f2c5e55efc91f17, http://ghfghf4646.pages.dev
+178999, 2024-06-30 02:32:29, 2024-06-30 02:32:29, phishing, c06df8b43f95a717d9fada074baf2427, http://od.3068807717.workers.dev
+178998, 2024-06-30 02:30:20, 2024-06-30 02:30:20, phishing, 1da4f5756992889c5d354211051045f4, http://gfhgfh4444.pages.dev
+178997, 2024-06-30 02:22:30, 2024-06-30 02:22:30, phishing, d665471c72ac908b8192c658ba6d00a2, http://broads-web.pages.dev
 178996, 2024-06-30 01:48:19, 2024-06-30 01:48:19, phishing, e04ab81ac262a53d9383df7229a2ac1f, http://fergergtr4545.pages.dev
 178995, 2024-06-30 01:31:55, 2024-06-30 01:31:55, malware, 5ab7e9f925d149c39d6db9167997d875, http://61.3.221.187:57253/i
 178994, 2024-06-30 01:31:48, 2024-06-30 01:31:48, malware, 7abfc125a07d4245b1d76c20a163199b, http://61.3.132.79:53151/Mozi.m
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 178503, 2024-06-29 09:29:54, 2024-06-29 09:29:54, malware, 2f094e3bb2404884a156ae30389d5eef, http://223.68.142.178:60963/bin.sh
 178502, 2024-06-29 09:29:52, 2024-06-29 09:29:52, malware, a030dc0d00ad4f7a981e3b9144dae618, http://222.136.140.211:42793/bin.sh
 178501, 2024-06-29 09:29:50, 2024-06-29 09:29:50, malware, 8df311df812442dab0bce9a46ea0584a, http://219.156.173.144:59633/i
-178500, 2024-06-29 09:29:48, 2024-06-29 09:29:48, malware, 2066e25081e64aeda00130ab3b5353d9, http://219.156.173.144:59633/bin.sh
-178499, 2024-06-29 09:29:46, 2024-06-29 09:29:46, malware, 2d2e448a162d4f1e875fa80ad0113dd6, http://216.172.177.16/zyxel
-178498, 2024-06-29 09:29:46, 2024-06-29 09:29:46, malware, 43be7677a92b48eba2d57132d8f60fc8, http://216.172.177.16/zte
-178497, 2024-06-29 09:29:45, 2024-06-29 09:29:45, malware, 48de093983704ed49d09bcabebdce13b, http://216.172.177.16/yarn
