@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-06-30 07:49:14 UTC                        #
+# Last updated: 2024-06-30 08:06:59 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	conn.masjesu.zip
 127.0.0.1	connect.bolo-botnet.net
 127.0.0.1	ellaboratepwsz.xyz
 127.0.0.1	contintnetksows.shop
@@ -7686,4 +7687,4 @@
 127.0.0.1	zen.topteamlife.com
 127.0.0.1	astra4512.startdedicated.com
 127.0.0.1	fvia.id.vn
-# Number of entries: 7680
+# Number of entries: 7681
