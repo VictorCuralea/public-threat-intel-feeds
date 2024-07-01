@@ -6,8 +6,17 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-01 10:00:03 UTC
+# UPDATE: 2024-07-01 11:00:03 UTC
 ############### END COMMENTS ###############
+{"id": 180223, "url": "http://mes-assure-espace-renouvellement.fr", "discovery": "2024-07-01 10:12:25", "added": "2024-07-01 10:12:25", "target": "FR-GOV", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "f9144ff561b56e7af46495c40e0d407b"}
+{"id": 180222, "url": "http://domailfreenamesrverwebmailvalidationservice2.pages.dev", "discovery": "2024-07-01 10:12:22", "added": "2024-07-01 10:12:22", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "01a022dcde384be7a33774969ae5c934"}
+{"id": 180221, "url": "https://ipfs.io/ipfs/QmTpqHPNnTfSP4qyazECwFpuNnejL7wVoR4hq9vS9pc8RP", "discovery": "2024-07-01 10:04:27", "added": "2024-07-01 10:04:27", "target": "Microsoft", "reporter": "lruubotd", "AbuseType": "phishing", "UUID": "b997ff27afe5897bef829506d7d9f162"}
+{"id": 180220, "url": "http://livemigraxsouvtwo.pages.dev", "discovery": "2024-07-01 10:02:25", "added": "2024-07-01 10:02:25", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "8ccf3410a450bad2998f77308d6b1045"}
+{"id": 180219, "url": "https://gateway.ipfs.io/ipfs/QmTpqHPNnTfSP4qyazECwFpuNnejL7wVoR4hq9vS9pc8RP", "discovery": "2024-07-01 10:02:11", "added": "2024-07-01 10:02:11", "target": "Microsoft", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "d149b386bd054df0dff8624d8700f958"}
+{"id": 180218, "url": "http://www.chalmerset.byethost6.com//ss.html", "discovery": "2024-07-01 10:02:05", "added": "2024-07-01 10:02:05", "target": "Microsoft", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "6e8e06e3e939654df750ef19752c4b25"}
+{"id": 180217, "url": "https://pub-8900102e86d14baa8aa72ab424da2634.r2.dev/index.html", "discovery": "2024-07-01 10:02:00", "added": "2024-07-01 10:02:00", "target": "Microsoft", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "56d4842c27c79b0241ccde219e104871"}
+{"id": 180216, "url": "https://prolo.vercel.app/", "discovery": "2024-07-01 10:01:31", "added": "2024-07-01 10:01:31", "target": "Microsoft", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "088078257172e19af628ea657db5bc28"}
+{"id": 180215, "url": "http://telegramsexsss.pages.dev/", "discovery": "2024-07-01 10:01:09", "added": "2024-07-01 10:01:09", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "fdc0f2a2813de7da045ed31a28040e99"}
 {"id": 180214, "url": "https://pub-1db5ad0dc23d423ea8bdda1e901ca901.r2.dev/HK.html#jean.michel@ovhcloud.com", "discovery": "2024-07-01 09:56:23", "added": "2024-07-01 09:56:23", "target": "Generic Email", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "5306d33df906c46b47e0830dc8fd9a32"}
 {"id": 180213, "url": "http://77.105.132.27/vidar2806.exe", "discovery": "2024-07-01 09:39:42", "added": "2024-07-01 09:39:42", "target": "#PE32INTEL_GUI", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "cd4d967936334fd3b0903187966a40ec"}
 {"id": 180212, "url": "http://77.105.132.27/rise2806.exe", "discovery": "2024-07-01 09:39:36", "added": "2024-07-01 09:39:36", "target": "#PE32INTEL_CMD", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "7a1e579cd94047458cfd63bce34faa24"}
@@ -499,12 +508,3 @@
 {"id": 179726, "url": "http://117.201.236.50:57497/i", "discovery": "2024-06-30 23:21:32", "added": "2024-06-30 23:21:32", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "1cadb6a71a8c4f0ba854d57863633c0f"}
 {"id": 179725, "url": "http://117.198.8.243:37524/bin.sh", "discovery": "2024-06-30 23:21:24", "added": "2024-06-30 23:21:24", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "18d02f47713440409869e3c90f61972e"}
 {"id": 179724, "url": "http://117.198.13.163:55261/i", "discovery": "2024-06-30 23:21:19", "added": "2024-06-30 23:21:19", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "e74f4cc28fe344028c945b6f7f1e52b6"}
-{"id": 179723, "url": "http://117.193.170.81:40940/i", "discovery": "2024-06-30 23:21:15", "added": "2024-06-30 23:21:15", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "5b00d3941e2f4204a31fd855fde1ddfc"}
-{"id": 179722, "url": "http://115.63.181.245:44631/Mozi.m", "discovery": "2024-06-30 23:20:57", "added": "2024-06-30 23:20:57", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "f35d158fe89c46cbb2e8fdd5db237152"}
-{"id": 179721, "url": "http://115.56.121.58:52251/i", "discovery": "2024-06-30 23:20:52", "added": "2024-06-30 23:20:52", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "3a2d39fd665c4eb3a2c35667250a981c"}
-{"id": 179720, "url": "http://115.55.129.73:59986/i", "discovery": "2024-06-30 23:20:45", "added": "2024-06-30 23:20:45", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "56a95929dee1404fa006d081a1a1581e"}
-{"id": 179719, "url": "https://id-css-rechungapp.cfolks.pl/app/cssv2/ui/app/auth/flow/mycss-login/ext/logina.html", "discovery": "2024-06-30 22:42:29", "added": "2024-06-30 23:07:26", "target": "myCSS", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "7000d2f9e7f12b27bfa50f19448f7108"}
-{"id": 179718, "url": "https://philiberthier10.ac-page.com/gestiontwint?test=true", "discovery": "2024-06-30 22:22:27", "added": "2024-06-30 23:06:28", "target": "TWINT", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "985bbd6673cf66db410872ef23c20d07"}
-{"id": 179717, "url": "http://private-ch4t.pages.dev", "discovery": "2024-06-30 22:46:22", "added": "2024-06-30 22:46:22", "target": "Whatsapp", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "78fed50335f7e8ef5ed4fe986fcbc5ca"}
-{"id": 179716, "url": "http://espaceameiisante.com", "discovery": "2024-06-30 22:36:28", "added": "2024-06-30 22:36:28", "target": "FR-GOV", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "3f83b8a4fa0a053aa95b33cd7ede3380"}
-{"id": 179715, "url": "http://wallet-connect-a0k.pages.dev", "discovery": "2024-06-30 22:24:31", "added": "2024-06-30 22:24:31", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "acb0be702054e08772edefe23dadfdf6"}
