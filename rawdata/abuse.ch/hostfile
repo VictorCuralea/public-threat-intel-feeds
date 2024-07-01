@@ -1,11 +1,22 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-07-01 09:39:59 UTC                        #
+# Last updated: 2024-07-01 12:32:40 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	zug-login.com
+127.0.0.1	agovaccess-ch.com
+127.0.0.1	b2cidp-mobilier.com
+127.0.0.1	eportal-be.com
+127.0.0.1	eportal-bs.com
+127.0.0.1	finanzportal-vermogenzsentrum.com
+127.0.0.1	finanzportal-vermogenzsentrum.net
+127.0.0.1	getgrammerly.com
+127.0.0.1	loginzug.com
+127.0.0.1	portals-swisslife.com
+127.0.0.1	sso-geneveid.com
 127.0.0.1	cx5519.com
 127.0.0.1	evilos.cc
 127.0.0.1	gebeus.ru
@@ -7754,4 +7765,4 @@
 127.0.0.1	v2202002114563109588.megasrv.de
 127.0.0.1	movil-bancsabadell.com
 127.0.0.1	x-paketverfolgung.com
-# Number of entries: 7748
+# Number of entries: 7759
