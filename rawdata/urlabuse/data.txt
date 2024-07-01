@@ -6,8 +6,13 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-01 20:00:03 UTC
+# UPDATE: 2024-07-01 21:00:03 UTC
 ############### END COMMENTS ###############
+{"id": 180522, "url": "https://twint.ch-fr.de/de/pay/79469380", "discovery": "2024-07-01 20:48:30", "added": "2024-07-01 20:48:30", "target": "TWINT", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "73d4c6afda3818b4eed207da82be0ad1"}
+{"id": 180521, "url": "https://qol.xvj.mybluehost.me/SBB/index/", "discovery": "2024-07-01 20:48:28", "added": "2024-07-01 20:48:28", "target": "SwissPass", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "1ff4542c35d91b25fd3ffb64baca43e0"}
+{"id": 180520, "url": "https://bdp.xrd.mybluehost.me/crm/", "discovery": "2024-07-01 20:44:24", "added": "2024-07-01 20:44:24", "target": "Other", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "7676b1a102dd42c2c8a0b7115a7edb50"}
+{"id": 180519, "url": "http://fusionsmarthash.pages.dev", "discovery": "2024-07-01 20:30:31", "added": "2024-07-01 20:30:31", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "22b941df8587e5f2679266c06e9784b7"}
+{"id": 180518, "url": "http://direct-revshares.pages.dev", "discovery": "2024-07-01 20:14:28", "added": "2024-07-01 20:14:28", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "3dc498fc3ab9f038a6a70f85ae66ba62"}
 {"id": 180517, "url": "http://88.233.69.203:43420/i", "discovery": "2024-07-01 19:46:09", "added": "2024-07-01 19:46:09", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "f9a25b34c8c34475b74dfe2cedb01c0f"}
 {"id": 180516, "url": "http://88.233.69.203:43420/bin.sh", "discovery": "2024-07-01 19:46:01", "added": "2024-07-01 19:46:01", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "3b7e38528b2f47f29cacfa9597223e5e"}
 {"id": 180515, "url": "http://61.3.134.33:58889/i", "discovery": "2024-07-01 19:44:55", "added": "2024-07-01 19:44:55", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "d8e27e8897da4af597157eb41bfdf1b0"}
@@ -503,8 +508,3 @@
 {"id": 180025, "url": "http://112.93.202.38:34724/i", "discovery": "2024-07-01 09:06:58", "added": "2024-07-01 09:06:58", "target": "#ELF32_MIPSv1", "reporter": "lrudbot", "AbuseType": "malware", "UUID": "0bca9d2b0c0d4db5a8fc85590a55a727"}
 {"id": 180024, "url": "http://110.83.154.149:36377/bin.sh", "discovery": "2024-07-01 09:06:57", "added": "2024-07-01 09:06:57", "target": "#ELF32ARM_EABI4", "reporter": "lrudbot", "AbuseType": "malware", "UUID": "3ae2115940fc43948459705e2b7e872a"}
 {"id": 180023, "url": "http://103.162.20.166/where/botx.x86", "discovery": "2024-07-01 09:06:53", "added": "2024-07-01 09:06:53", "target": "#ELF32INTEL_v1", "reporter": "lrudbot", "AbuseType": "malware", "UUID": "7bf0d7c4457e4ed6ac0c5cab5803ddd8"}
-{"id": 180022, "url": "http://103.162.20.166/where/botx.spc", "discovery": "2024-07-01 09:06:51", "added": "2024-07-01 09:06:51", "target": "#ELF32SPARC", "reporter": "lrudbot", "AbuseType": "malware", "UUID": "1e7d6119a6214443b375a88f3382b3c1"}
-{"id": 180021, "url": "http://103.162.20.166/where/botx.sh4", "discovery": "2024-07-01 09:06:49", "added": "2024-07-01 09:06:49", "target": "#ELF32SH", "reporter": "lrudbot", "AbuseType": "malware", "UUID": "88eb8a9a53fe47aa981b1c7fb4496a7d"}
-{"id": 180020, "url": "http://103.162.20.166/where/botx.ppc", "discovery": "2024-07-01 09:06:47", "added": "2024-07-01 09:06:47", "target": "#ELF32CISCO", "reporter": "lrudbot", "AbuseType": "malware", "UUID": "1ddf48bea38c4a6a92d2432125a28b8b"}
-{"id": 180019, "url": "http://103.162.20.166/where/botx.mpsl", "discovery": "2024-07-01 09:06:45", "added": "2024-07-01 09:06:45", "target": "#ELF32_MIPSv1", "reporter": "lrudbot", "AbuseType": "malware", "UUID": "e71bf2fa4cbb41ff94b459327515d560"}
-{"id": 180018, "url": "http://103.162.20.166/where/botx.mips", "discovery": "2024-07-01 09:06:43", "added": "2024-07-01 09:06:43", "target": "#ELF32MIPS", "reporter": "lrudbot", "AbuseType": "malware", "UUID": "82acea9c27f34731a5b5509b9ca048f7"}

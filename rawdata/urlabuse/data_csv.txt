@@ -6,9 +6,14 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-01 20:00:03 UTC
+# UPDATE: 2024-07-01 21:00:03 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+180522, 2024-07-01 20:48:30, 2024-07-01 20:48:30, phishing, 73d4c6afda3818b4eed207da82be0ad1, https://twint.ch-fr.de/de/pay/79469380
+180521, 2024-07-01 20:48:28, 2024-07-01 20:48:28, phishing, 1ff4542c35d91b25fd3ffb64baca43e0, https://qol.xvj.mybluehost.me/SBB/index/
+180520, 2024-07-01 20:44:24, 2024-07-01 20:44:24, phishing, 7676b1a102dd42c2c8a0b7115a7edb50, https://bdp.xrd.mybluehost.me/crm/
+180519, 2024-07-01 20:30:31, 2024-07-01 20:30:31, phishing, 22b941df8587e5f2679266c06e9784b7, http://fusionsmarthash.pages.dev
+180518, 2024-07-01 20:14:28, 2024-07-01 20:14:28, phishing, 3dc498fc3ab9f038a6a70f85ae66ba62, http://direct-revshares.pages.dev
 180517, 2024-07-01 19:46:09, 2024-07-01 19:46:09, malware, f9a25b34c8c34475b74dfe2cedb01c0f, http://88.233.69.203:43420/i
 180516, 2024-07-01 19:46:01, 2024-07-01 19:46:01, malware, 3b7e38528b2f47f29cacfa9597223e5e, http://88.233.69.203:43420/bin.sh
 180515, 2024-07-01 19:44:55, 2024-07-01 19:44:55, malware, d8e27e8897da4af597157eb41bfdf1b0, http://61.3.134.33:58889/i
@@ -504,8 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 180025, 2024-07-01 09:06:58, 2024-07-01 09:06:58, malware, 0bca9d2b0c0d4db5a8fc85590a55a727, http://112.93.202.38:34724/i
 180024, 2024-07-01 09:06:57, 2024-07-01 09:06:57, malware, 3ae2115940fc43948459705e2b7e872a, http://110.83.154.149:36377/bin.sh
 180023, 2024-07-01 09:06:53, 2024-07-01 09:06:53, malware, 7bf0d7c4457e4ed6ac0c5cab5803ddd8, http://103.162.20.166/where/botx.x86
-180022, 2024-07-01 09:06:51, 2024-07-01 09:06:51, malware, 1e7d6119a6214443b375a88f3382b3c1, http://103.162.20.166/where/botx.spc
-180021, 2024-07-01 09:06:49, 2024-07-01 09:06:49, malware, 88eb8a9a53fe47aa981b1c7fb4496a7d, http://103.162.20.166/where/botx.sh4
-180020, 2024-07-01 09:06:47, 2024-07-01 09:06:47, malware, 1ddf48bea38c4a6a92d2432125a28b8b, http://103.162.20.166/where/botx.ppc
-180019, 2024-07-01 09:06:45, 2024-07-01 09:06:45, malware, e71bf2fa4cbb41ff94b459327515d560, http://103.162.20.166/where/botx.mpsl
-180018, 2024-07-01 09:06:43, 2024-07-01 09:06:43, malware, 82acea9c27f34731a5b5509b9ca048f7, http://103.162.20.166/where/botx.mips
