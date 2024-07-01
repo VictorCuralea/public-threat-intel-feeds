@@ -6,8 +6,10 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-01 18:00:03 UTC
+# UPDATE: 2024-07-01 19:00:03 UTC
 ############### END COMMENTS ###############
+{"id": 180427, "url": "http://taiegrann.com", "discovery": "2024-07-01 18:22:27", "added": "2024-07-01 18:22:27", "target": "Telegram", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "f2164686f80d2fe7508650b29ee07426"}
+{"id": 180426, "url": "http://decentrazerofusion.pages.dev", "discovery": "2024-07-01 18:12:33", "added": "2024-07-01 18:12:33", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "9924e530f485fd1183001c6418a54778"}
 {"id": 180425, "url": "http://jijhdksgbubjkewhuijbbjhtg3uwfcbndfdzgvuk.pages.dev", "discovery": "2024-07-01 17:54:19", "added": "2024-07-01 17:54:19", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "4e0096110294dfb4e118ab7840a62f46"}
 {"id": 180424, "url": "http://od-cdn.arikacips.workers.dev", "discovery": "2024-07-01 17:50:18", "added": "2024-07-01 17:50:18", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "edb4258937564cebb38678212d03036d"}
 {"id": 180423, "url": "https://buckeye-express61454.activehosted.com/f/1", "discovery": "2024-07-01 17:49:41", "added": "2024-07-01 17:49:41", "target": "BT", "reporter": "urlabuse", "AbuseType": "phishing", "UUID": "d5aac8c89f6997db6d8f0531b3c0253a"}
@@ -506,5 +508,3 @@
 {"id": 179930, "url": "http://162.222.86.240:57355/Mozi.m", "discovery": "2024-07-01 05:28:41", "added": "2024-07-01 05:28:41", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "591aa4de1e524a38856e5cf4e4c98a15"}
 {"id": 179929, "url": "http://15.204.88.244/x86", "discovery": "2024-07-01 05:28:34", "added": "2024-07-01 05:28:34", "target": "#ELF64", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "20d4a54b599f4e9a97b4d23e61b79eb1"}
 {"id": 179928, "url": "http://15.204.88.244/sparc", "discovery": "2024-07-01 05:28:25", "added": "2024-07-01 05:28:25", "target": "#ELF32SPARC", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "390e59e8f5ba449fad0228160a4d79dd"}
-{"id": 179927, "url": "http://15.204.88.244/sh4", "discovery": "2024-07-01 05:28:15", "added": "2024-07-01 05:28:15", "target": "#ELF32SH", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "1932a9ccccc945cfb807bbf57ba37f41"}
-{"id": 179926, "url": "http://15.204.88.244/powerpc", "discovery": "2024-07-01 05:28:06", "added": "2024-07-01 05:28:06", "target": "#ELF32CISCO", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "89b89c0ef5b04a5da0b688ef2725f834"}
