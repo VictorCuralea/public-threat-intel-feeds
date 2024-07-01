@@ -6,9 +6,16 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-01 02:00:02 UTC
+# UPDATE: 2024-07-01 03:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+179785, 2024-07-01 02:28:08, 2024-07-01 02:28:08, phishing, 77184b9830d0402d5e74cbac44b31a5b, https://www.pazmarketing.com/10001/chosenmopol/0u9lketn3fqkdbk8ev4qrqvi.php?C0D00i171980082342a76b05c294d2d62f6dc0845e49acbf42a76b05c294d2d62f6dc0845e49acbf42a76b05c294d2d62f6dc0845e49acbf42a76b05c294d2d62f6dc0845e49acbf42a76b05c294d2d62f6dc0845e49acbf&login=yahoo@yahoo.com
+179784, 2024-07-01 02:26:57, 2024-07-01 02:20:30, phishing, 5a60b6c4eba2d055b2be79d98b598846, https://jeabweb.com/verifying_email/bapi/composite/v1/private/message/view_bEt=eyJhbGciOiJIUzI1NiJ9.eyJjdCI6ImEiLCJiIjoiMTAwNDU1MDAyOCIsInIiOiJodHRwczovL2FwcC5iaW5hbmNlLmNvbS9lbi9teS9zZXR0aW5ncy9wcm9maWxlP19kcD1MM2RsWW5acFpYY3ZkMlZpZG1sbGR6OTBlWEJsUFdSb/FptRjFiSFFtYm1WbFpFeHZaMmx1UFdaaGJITmxKblZ5YkQxaFNGSXdZMGhOTmt4NU9UTmtNMk4xV1cxc2RWbFhOV3BhVXpWcVlqSXdkbHBYTkhaaVdHdDJZekpXTUdSSGJIVmFN/index.html
+179783, 2024-07-01 02:26:11, 2024-07-01 02:10:22, phishing, 0166e89640b583e4421e53f0bd334475, https://vulcnmold.com/?email=yahoo@yahoo.com
+179782, 2024-07-01 02:24:27, 2024-07-01 02:05:26, phishing, f650198986e29ba894381473b2482d6e, https://netease-limit-2df4.7b9f5a1a8fb32e14fa27c18b.workers.dev/s82rb/YtZzi3iuZh/8S5tvUqCxXhcJQPv5yWG1b7xgen/c12E1/6/info/0/yahoo.com.tw/PmAgQPnM1fcGAed04AQC
+179781, 2024-07-01 02:23:30, 2024-07-01 02:23:30, phishing, 917047306dcfffcf5438821cb2618b4d, https://ipfs.io/ipfs/bafkreic2d6rw3vpyd7fnyxdrmfwmtgmumoc4e7ch7e26cp5xpp5mqn7n4i
+179780, 2024-07-01 02:22:43, 2024-07-01 01:57:06, phishing, 691e45a7b61c984215785e02a2229a3c, https://cloudflare-ipfs.com/ipfs/bafkreic2d6rw3vpyd7fnyxdrmfwmtgmumoc4e7ch7e26cp5xpp5mqn7n4i
+179779, 2024-07-01 02:00:18, 2024-07-01 02:00:18, phishing, 9f63e75fdd767edb096ea04645705016, http://s7zfssqp94qaz8afq9mvdo4036x9szdhatadkmscd.pages.dev
 179778, 2024-07-01 01:54:28, 2024-07-01 01:54:28, phishing, 3f3e44edab053ee1aa1763ca2751b5e5, http://dapfixsolutions.pages.dev
 179777, 2024-07-01 01:39:03, 2024-07-01 01:26:18, phishing, 61b772ce9573562a947afe87c3a03a42, https://secure.adnxs.com/clktrb?id=704169&redir=https://shangutex.archive.us-east-1.oortech.com/Webmail%20-%20Login.html
 179776, 2024-07-01 01:28:22, 2024-07-01 01:28:22, phishing, 3d3d1629287b9869529bc5b9c6cb383b, http://lender-abang.pages.dev
@@ -502,10 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 179288, 2024-06-30 09:07:46, 2024-06-30 09:07:46, malware, 466d9ec7480f45b29b6de70ec1bda70c, http://60.23.74.125:37024/i
 179287, 2024-06-30 09:07:43, 2024-06-30 09:07:43, malware, 6c9873cd168b44de95bdb0a0ae473b4c, http://60.23.124.138:55359/bin.sh
 179286, 2024-06-30 09:07:40, 2024-06-30 09:07:40, malware, a797251334184c9db70fa1d752126b69, http://60.22.94.99:50883/Mozi.m
-179285, 2024-06-30 09:07:38, 2024-06-30 09:07:38, malware, 1993f81ad9bd47aca22c868e5ee3ba63, http://60.22.94.99:50883/bin.sh
-179284, 2024-06-30 09:07:36, 2024-06-30 09:07:36, malware, 0503d677a55f4eb1bd9546e4f666c583, http://60.22.205.80:55062/bin.sh
-179283, 2024-06-30 09:07:33, 2024-06-30 09:07:33, malware, ebd4299f244346238f8ef34f6a2a72ac, http://60.18.107.60:35480/Mozi.m
-179282, 2024-06-30 09:07:31, 2024-06-30 09:07:31, malware, bba837558db5464dbb7e41ce9654c635, http://59.99.138.104:48894/Mozi.m
-179281, 2024-06-30 09:07:27, 2024-06-30 09:07:27, malware, e3960cc055294ad386ae0abdf1c5c9c4, http://59.98.193.128:39261/bin.sh
-179280, 2024-06-30 09:07:25, 2024-06-30 09:07:25, malware, 1e05c0802f3c4e9cb80a2b96e4038ba5, http://58.59.155.187:39964/Mozi.m
-179279, 2024-06-30 09:07:22, 2024-06-30 09:07:22, malware, 4390a6401f944e5891ce2ff60a0aa694, http://5.59.248.220/x86
