@@ -6,9 +6,19 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-01 08:00:02 UTC
+# UPDATE: 2024-07-01 09:00:03 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+180012, 2024-07-01 08:52:30, 2024-07-01 08:52:30, phishing, 8fffc5e2b29f4ef23eb06810360b9e0f, https://docs.google.com/presentation/d/e/2PACX-1vTyAm5sv5Fh24G07nR05ra8-EfyLi1e6ALc8DJSqybWyhVQwyQfwBiFZgjgUDGZVrMs5uBcukQI4enA/pub?start=false
+180011, 2024-07-01 08:42:33, 2024-07-01 08:42:33, phishing, ed7e499b495b5e388acb3038287b066c, https://bt-5upp0rt.weeblysite.com/
+180010, 2024-07-01 08:42:32, 2024-07-01 08:42:32, phishing, 88f338dd4fcbf7850c572f07796189cd, http://fusionzerodefy.pages.dev
+180009, 2024-07-01 08:23:59, 2024-07-01 08:04:28, phishing, 47c7b7159362971604a8d71c2b799c9a, https://mbwbm-101670.weeblysite.com/
+180008, 2024-07-01 08:23:45, 2024-07-01 08:04:26, phishing, 2bcf4c6a2dbaaf0f0547f59c5df04655, https://b-ts-dapper-site.webflow.io/
+180007, 2024-07-01 08:23:23, 2024-07-01 08:02:26, phishing, 5802de8b214bf13fd25ee3578d08ea21, https://btlntement-ed62ed.webflow.io/
+180006, 2024-07-01 08:23:13, 2024-07-01 07:58:36, phishing, 4f91752690b88fb9cf203e31fa332bf4, https://indigo111231.studio.site/
+180005, 2024-07-01 08:05:53, 2024-07-01 07:56:28, phishing, 88953a68c4dfb1423f48ff299892b9d5, https://campsite.bio/djakksk
+180004, 2024-07-01 08:00:49, 2024-07-01 06:12:33, phishing, f1cf77869e923be75058249c19824995, https://resultats2024.wixsite.com/my-site-1/
+180003, 2024-07-01 08:00:11, 2024-07-01 08:00:11, phishing, 78b1ebf9f756bdb48727898473e212cb, https://icc.webicsend.fr/?sdq=YcM6vX_TlhSPtOFbdK02LOuXtLv7HnBnzYQ0xl1T3HOom_NG3Ah_0LsgwAYm8uYKnIEHiAhXr-m_mCIn4bdt1kA-nr7S42eNhzMcLdSKJt75KME_CHagw83WqwVI7iNnePWj2IVUaf8YZGBJUBmNw0oj0eSYgj_s6Gkgre7q1LExnjYKegWsNcsIRX_rHgoA7xWsfmLRYgkXFXRiBZELlRS6RkbEYwE_UjDw-iKrn8DWG05f4A5Gj8co4cgjF8r3_RzOwBVmdy3Hb1tY7Q1xCS1E4e-37s0Da2g6lkxYtmZT-r2mvF_TnFGYchl5Hk5I1kJY26c3TaXJskaWjg_sN30mnBJBgc3hPCpJNRCx9V-7t_xsJzMRthzIpK4ao6jngfASlsioBBzh1PDUXvAWt9gKh1rooTmXrWb7DEMDFPiUqsK8Q4ZNFz_8kDEqwJU_PGZEgXzJGDWyTpwrpwBkHW-5gotpvhshNyXEx4XTyL-4TBRakVEhZU2fEGRI2D8AzIZgT2gb5VhVENBGdTVkRE1LYr7YE287_GdtRCOY9P0d5RM3bhxt6SkWDKBcBwhr
 180002, 2024-07-01 07:59:53, 2024-07-01 06:12:31, phishing, 63df8383dec752db98ae7644585474b4, https://mirror.webicsend.fr/20240626/4471f2efa8c1c7f39b6e4f956a6b39fe.html
 180001, 2024-07-01 07:59:28, 2024-07-01 06:10:32, phishing, 9c2bbede566ce455b27fdc632d7b2024, https://pjuylq.webwave.dev/
 180000, 2024-07-01 07:58:30, 2024-07-01 07:58:30, phishing, ef6b76b7e11dbaa020bd323381aaf28a, https://docs.google.com/presentation/d/e/2PACX-1vTG0nLtIiBw7aBGtC93fXPSD8VqpSYat2-MbQ6LMXw4NwkaRdOqTRBbS0oBAxJ7Tw3ctTi2q9eYguLa/pub?start=false
@@ -499,13 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 179515, 2024-06-30 17:39:42, 2024-06-30 17:39:42, malware, 6ed2f7f5da054fdd87d1f8ffc86396fe, http://117.251.162.32:36874/i
 179514, 2024-06-30 17:38:37, 2024-06-30 17:38:37, malware, fa69215e414740828be745281ce4fb04, http://117.248.168.165:55132/Mozi.m
 179513, 2024-06-30 17:36:59, 2024-06-30 17:36:59, malware, 7a3030fafb4445f2a2298036c77c5e3f, http://117.248.162.30:36559/i
-179512, 2024-06-30 17:36:50, 2024-06-30 17:36:50, malware, 6ec0f5e179dd47088b2d09376f027d2f, http://117.248.162.30:36559/bin.sh
-179511, 2024-06-30 17:35:42, 2024-06-30 17:35:42, malware, 8c240229ca8b425589767ff5af3e2da7, http://117.245.42.244:32964/Mozi.m
-179510, 2024-06-30 17:29:20, 2024-06-30 17:29:20, malware, 16371fd16f5843ceb9556b2962743e1f, http://117.215.241.74:46709/i
-179509, 2024-06-30 17:29:10, 2024-06-30 17:29:10, malware, 1dc68297489d473295c03792f9d725a3, http://117.215.241.74:46709/bin.sh
-179508, 2024-06-30 17:26:45, 2024-06-30 17:26:45, malware, 0a41566a0eb949c494b38cc45a405a34, http://117.208.229.42:35733/Mozi.m
-179507, 2024-06-30 17:26:23, 2024-06-30 17:26:23, malware, f0d14ffaec404109bc78ab7db0fc8377, http://117.208.214.40:48386/Mozi.m
-179506, 2024-06-30 17:25:47, 2024-06-30 17:25:47, malware, 96c6560f449544289b54081c2f52d7c8, http://117.207.74.75:39807/bin.sh
-179505, 2024-06-30 17:25:04, 2024-06-30 17:25:04, malware, c375c2e832b245f799c1f1755c558301, http://117.206.191.134:50043/bin.sh
-179504, 2024-06-30 17:25:01, 2024-06-30 17:25:01, malware, 6d87783cc89447fa85b2147582c28def, http://117.206.180.174:52316/bin.sh
-179503, 2024-06-30 17:24:47, 2024-06-30 17:24:47, malware, 63a45c73a79847ea95831ffa9d63a8dc, http://117.206.176.163:49510/i
