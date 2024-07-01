@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-01 00:00:03 UTC
+# UPDATE: 2024-07-01 01:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+179771, 2024-07-01 00:46:23, 2024-07-01 00:46:23, phishing, b9778b7a016f55880befb989443d4007, http://xpubdapp-application.pages.dev
+179770, 2024-07-01 00:34:24, 2024-07-01 00:34:24, phishing, 6749a8e9c2cd46d0026e3c533ad6f063, http://chancesa.shop
+179769, 2024-07-01 00:28:26, 2024-07-01 00:28:26, phishing, 20fe4d7e962f85f63a22f786e497dc10, http://msgr.com
 179768, 2024-06-30 23:52:21, 2024-06-30 23:52:21, phishing, 83799129b4827906900311a73dd25aa6, http://onedrive.arkepic.workers.dev
 179767, 2024-06-30 23:34:22, 2024-06-30 23:34:22, phishing, 0ad2fc7a00e9bc65d9121736e71234da, http://ameli-renouv-vitale.com
 179766, 2024-06-30 23:28:07, 2024-06-30 23:28:07, malware, 038390ba76684cf595e00b0fb6cc40c1, http://84.213.69.62:42272/i
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 179274, 2024-06-30 09:07:17, 2024-06-30 09:07:17, malware, 07b23ec215bd41798304a00501ccc009, http://45.128.232.240/arm4
 179273, 2024-06-30 09:07:16, 2024-06-30 09:07:16, malware, 05359c5550bd414da10146f52d082147, http://42.87.173.217:49985/bin.sh
 179272, 2024-06-30 09:07:14, 2024-06-30 09:07:14, malware, 97bb09ec6044471688bc4eeff7fb1860, http://42.56.161.225:60366/i
-179271, 2024-06-30 09:07:12, 2024-06-30 09:07:12, malware, 866a1a91bf2b4bb6bf634c54e881d496, http://42.56.10.147:51010/bin.sh
-179270, 2024-06-30 09:07:08, 2024-06-30 09:07:08, malware, fb1fc734f7aa449fbc9f34a5340f9674, http://42.53.252.114:38986/mozi.m
-179269, 2024-06-30 09:07:06, 2024-06-30 09:07:06, malware, 294c2a463551470490d3087efc5b4811, http://42.53.162.68:53417/i
