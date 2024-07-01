@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-07-01 18:02:41 UTC                        #
+# Last updated: 2024-07-01 22:14:51 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	heart-direct.online
 127.0.0.1	brithcaymo.com
 127.0.0.1	ernofilosta.com
 127.0.0.1	lofirenqveg.com
@@ -7761,20 +7762,4 @@
 127.0.0.1	mail.137-184-80-125.cprapid.com
 127.0.0.1	nris-d.mqpslop.com
 127.0.0.1	botnet.bydgoszcz.pl
-127.0.0.1	us.notfound.my.id
-127.0.0.1	ffvpn.vip
-127.0.0.1	toblo3.balad.shop
-127.0.0.1	www.ffvpn.vip
-127.0.0.1	163.227.29.34.bc.googleusercontent.com
-127.0.0.1	www.shuxh888.cc
-127.0.0.1	www.1319551.cc
-127.0.0.1	www.duckfoundation.org
-127.0.0.1	canna-oil.org
-127.0.0.1	www.handsofgodfoundation.org
-127.0.0.1	static.facebook.secureapp.tools
-127.0.0.1	notifications.google.secureapp.tools
-127.0.0.1	myaccount.google.secureapp.tools
-127.0.0.1	www.bumbiz.xyz
-127.0.0.1	rb-an-clk.org
-127.0.0.1	ynzxck.top
-# Number of entries: 7771
+# Number of entries: 7756
