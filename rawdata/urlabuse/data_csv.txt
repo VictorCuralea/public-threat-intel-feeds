@@ -6,9 +6,16 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-02 18:00:02 UTC
+# UPDATE: 2024-07-02 19:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+181392, 2024-07-02 19:00:00, 2024-07-02 14:43:08, phishing, 8edb6006b783728589cd894c6b6cab97, https://gateway.lighthouse.storage/ipfs/bafkreieglsdqo7y4vg7xjnedshnq3krveeu6opieffnkvdzgzrpvjrpy6i
+181391, 2024-07-02 18:59:48, 2024-07-02 14:38:41, phishing, cb8af1c1e4748d6e76018b9c50fab128, https://ipfs.eth.aragon.network/ipfs/bafybeifkx3qm5beqhf37ekwaufyr7ripm6uyndbzogxfdyrck4ztyfbyzi/?openboxmailer/auto/eMail.web/987FTmail.authenticate/checking_auth0/authenticate-userid/84778949884903948993839/
+181390, 2024-07-02 18:56:23, 2024-07-02 18:56:23, phishing, a12131d0b629922f6e6cb737bdf08c02, https://whb.ixy.mybluehost.me/Login/informatie/index.php
+181389, 2024-07-02 18:54:15, 2024-07-02 18:54:15, phishing, e0f0b01b029b84c5e5c31d39148142fb, https://ets.yhb.mybluehost.me/parcel/app/
+181388, 2024-07-02 18:46:11, 2024-07-02 18:46:11, phishing, d2ece4a47fe74bb15e34b4fc3dfc6ccf, http://login.offlce-sc.com
+181387, 2024-07-02 18:10:14, 2024-07-02 18:10:14, phishing, 8428f0f58cae3c601c09f169b87712e9, http://muitivhain.pages.dev
+181386, 2024-07-02 18:06:12, 2024-07-02 18:06:12, phishing, 68b8367d6b920ea1c98600736a832236, http://mesdemarches-ameli.com
 181385, 2024-07-02 17:42:12, 2024-07-02 17:42:12, phishing, da67e0bbfed0bb995098ad19ffdc0767, http://nnbtr.pages.dev
 181384, 2024-07-02 17:26:11, 2024-07-02 17:26:11, phishing, efa4d2e6ad7d52b3e08522db639946fa, https://support-bt.webflow.io/
 181383, 2024-07-02 17:24:57, 2024-07-02 17:24:57, malware, 00dc9eb8974546b38e9da1e281fcec36, http://66.54.98.43:57291/i
@@ -502,10 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 180895, 2024-07-02 07:25:50, 2024-07-02 07:25:50, malware, 25bce2c007764a6b85ec62c61c6168e2, http://182.112.76.34:53412/bin.sh
 180894, 2024-07-02 07:25:49, 2024-07-02 07:25:49, malware, 7edaaef9056d4c2cbb9fcfbfca9e6f79, http://182.112.31.225:57856/i
 180893, 2024-07-02 07:25:47, 2024-07-02 07:25:47, malware, 0cd0baeaf5284a7590591e5d12dff0b0, http://176.122.255.155:51620/bin.sh
-180892, 2024-07-02 07:25:46, 2024-07-02 07:25:46, malware, e2d08e471db7424ebb0d7b2b0221d919, http://125.44.246.222:42759/bin.sh
-180891, 2024-07-02 07:25:44, 2024-07-02 07:25:44, malware, f90209d8424947dcb3fc8c52b32b36af, http://123.7.220.178:60252/bin.sh
-180890, 2024-07-02 07:25:12, 2024-07-02 07:25:12, malware, 1b33e4bc89104627a0c0e44677a56f15, http://120.56.249.239:58662/bin.sh
-180889, 2024-07-02 07:25:11, 2024-07-02 07:25:11, malware, f970fda0a6534ee2920f0b7b9a421eae, http://119.189.198.246:34677/bin.sh
-180888, 2024-07-02 07:25:09, 2024-07-02 07:25:09, malware, 2de7bfc8101a42688af63d6cf60c6252, http://119.186.145.31:34227/Mozi.m
-180887, 2024-07-02 07:25:07, 2024-07-02 07:25:07, malware, a9cb43d1eb1b42249faa34f50bd0504b, http://119.179.253.99:32970/bin.sh
-180886, 2024-07-02 07:23:40, 2024-07-02 07:23:40, malware, f3c30685b29748808a9a70fbfb2f68a6, http://117.248.167.173:53244/bin.sh

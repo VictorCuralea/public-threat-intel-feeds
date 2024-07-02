@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-07-02 14:37:06 UTC                        #
+# Last updated: 2024-07-02 18:36:03 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	filesoftdownload.com
+127.0.0.1	o7labs.top
+127.0.0.1	downloadfilesoft.com
+127.0.0.1	www.botnet123.cc
+127.0.0.1	anything.line.pm
 127.0.0.1	arritswpoewroso.shop
 127.0.0.1	byorn.us
 127.0.0.1	dashboardproducts.info
@@ -7815,9 +7820,4 @@
 127.0.0.1	tuftoflokezdoriez.com
 127.0.0.1	yathohkolfaledtosun.net
 127.0.0.1	yayfolezdolemenegidiyo.net
-127.0.0.1	technologgies.com
-127.0.0.1	jenshol.com
-127.0.0.1	simorten.com
-127.0.0.1	investmentgblog.net
-127.0.0.1	protectionek.com
 # Number of entries: 7814
