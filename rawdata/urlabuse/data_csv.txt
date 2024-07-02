@@ -6,9 +6,28 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-02 14:00:01 UTC
+# UPDATE: 2024-07-02 15:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+181206, 2024-07-02 14:58:16, 2024-07-02 14:58:16, phishing, c5c6d532cffd3575b2b3b71890e2c4e3, http://sofaorg.pages.dev
+181205, 2024-07-02 14:46:15, 2024-07-02 14:46:15, phishing, deac3ac3d1177ffd84a9413b9a4f00f0, http://webdev54321.pages.dev
+181204, 2024-07-02 14:40:14, 2024-07-02 14:40:14, phishing, c3c8ddb8e781dc61880b33f74c08b847, http://ordivalicheqversa.pages.dev
+181203, 2024-07-02 14:40:12, 2024-07-02 14:40:12, phishing, 4f5825ef9672f7618c12e31054271b01, http://rebramaindapp.pages.dev
+181202, 2024-07-02 14:23:21, 2024-07-02 14:23:21, malware, 6ec85fdc91294fc8870f71faa83c2b59, https://scratchedcards.com/binary/scrscrscr
+181201, 2024-07-02 14:23:20, 2024-07-02 14:23:20, malware, cd0e19a6a516448181a731360587229e, https://nebulaquestcorporation.cc/cdnusa/invoiceupsstage
+181200, 2024-07-02 14:23:18, 2024-07-02 14:23:18, malware, ef2a79e3d3194ff397d762a6f871f221, https://amazon-gift-card.fermentechgsv.com/Document2
+181199, 2024-07-02 14:23:18, 2024-07-02 14:23:18, malware, 64b1ca7163fd41f8944ab51895c77338, https://amazon-gift-card.fermentechgsv.com/Document
+181198, 2024-07-02 14:23:17, 2024-07-02 14:23:17, malware, 83c46504c44b475eb9034b322f0407ae, http://77.105.133.27/download/123p.exe
+181197, 2024-07-02 14:22:02, 2024-07-02 14:22:02, malware, f0c041cd678747b2a57b1c86cae2a6f2, http://61.53.94.92:48003/bin.sh
+181196, 2024-07-02 14:21:39, 2024-07-02 14:21:39, malware, 2407010189a64d5595948fbf277c725f, http://60.216.82.204:50356/bin.sh
+181195, 2024-07-02 14:21:29, 2024-07-02 14:08:18, phishing, ad0937b3816e9da468d2653a2a42f38a, https://notevocaux0045124.wixsite.com/notevocaux024655
+181194, 2024-07-02 14:21:08, 2024-07-02 14:21:08, malware, de137d2c08f4416c9c158a6c1f77f4cb, http://59.99.107.13:46573/bin.sh
+181193, 2024-07-02 14:20:52, 2024-07-02 14:20:52, malware, a8fb664a4ae1491d9dbc9e7effae8914, http://59.93.22.128:33218/bin.sh
+181192, 2024-07-02 14:20:39, 2024-07-02 14:20:39, malware, 64df6bcf86cf4e5ca9c070d6f4c16cba, http://59.93.180.88:44760/i
+181191, 2024-07-02 14:19:55, 2024-07-02 14:04:13, phishing, 9ee1fd7122f86ff85d0d180544782d48, https://filthyguwop7.wixsite.com/my-site?user-agent=Mozilla/5.0%20(Windows%20NT%2010.0
+181190, 2024-07-02 14:18:15, 2024-07-02 14:18:15, phishing, 4c6d3f959995c751e9f81ba51d91632c, http://amendes-impayees.com
+181189, 2024-07-02 14:08:18, 2024-07-02 14:08:18, phishing, fe26f25e7fc97d0d73d4a1247c6f51d2, https://my-site-106630-104390.weeblysite.com/
+181188, 2024-07-02 14:00:15, 2024-07-02 14:00:15, phishing, a028e697fad040dd1457eb71e3eba2e4, http://cpam-sante.com
 181187, 2024-07-02 13:46:14, 2024-07-02 13:46:14, phishing, e71ec08ac3158d6c9b6844a2aa580789, https://docs.google.com/presentation/d/e/2PACX-1vS_9iPKMQanYxYIfjwFcskJHz2tq9xtpJfLPX1iDRYzlSmIszJQ9JuXBmkJr5NGWqRhozqrjKE3EPzf/pub?start=false
 181186, 2024-07-02 13:38:17, 2024-07-02 13:38:17, phishing, 049f80d0958f3cb7c9519c9560233b63, https://btincake.weeblysite.com/
 181185, 2024-07-02 13:33:32, 2024-07-02 13:33:32, malware, 343d5f1f817248af938103fbcd32c0d6, http://42.236.148.141:58835/i
@@ -490,22 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 180709, 2024-07-02 03:20:09, 2024-07-02 03:20:09, malware, 12f6d4dd00ac4deda3da4c1ce8d0bd09, http://112.248.192.134:48220/Mozi.m
 180708, 2024-07-02 03:20:05, 2024-07-02 03:20:05, malware, 6ecf6cba38024290804cbb54806e0e5a, http://105.96.25.193:46471/bin.sh
 180707, 2024-07-02 03:18:56, 2024-07-02 02:50:40, phishing, 96484fd556a5ecf04e4da9acc45227a3, https://pub-33c719c44d864a98be6aef3684c1a175.r2.dev/Allmoneyin.html
-180706, 2024-07-02 03:18:27, 2024-07-02 02:57:45, phishing, 2e3fff1d8471b878764357a72cbdaa13, https://firebasestorage.googleapis.com/v0/b/elon-c52f7.appspot.com/o/elonwatt.html?alt=media&token=sixass
-180705, 2024-07-02 03:18:16, 2024-07-02 03:18:16, phishing, e83d27117e8990cbe28a0992090890c4, http://teiagaeornn.com
-180704, 2024-07-02 03:15:38, 2024-07-02 02:16:44, phishing, 251bf3fc42fcffc9b99101a8d5fb6136, https://pub-31c2fcd6e6cf44a88727efb09a46b02a.r2.dev/encrypt.html#ZVdGb2IyOUFlV0ZvYjI4dVkyOXQ=&redirect=no_url
-180703, 2024-07-02 03:00:15, 2024-07-02 03:00:15, phishing, 41a7308adf551fd1e9961913792d48da, http://cold-night-7f63.353999763.workers.dev
-180702, 2024-07-02 02:54:18, 2024-07-02 02:54:18, phishing, 4bcb8be74cff947773cfc1797965f8d0, http://teiegvam.com
-180701, 2024-07-02 02:54:16, 2024-07-02 02:54:16, phishing, 164bb2d2613e0ca5d2133776fb50129f, http://teiegrom-g.com
-180700, 2024-07-02 02:52:19, 2024-07-02 02:52:19, phishing, 8861834e09144f44fb8f2ec35b124c19, http://teiegrsm.com
-180699, 2024-07-02 01:58:12, 2024-07-02 01:58:12, phishing, 2d6b55c6e701437d44d934a042b7efc0, http://defyseallong.pages.dev
-180698, 2024-07-02 01:56:14, 2024-07-02 01:56:14, phishing, eeaeeae06fc75e9d2058ec6c5a61b97e, http://unizuzadeeper.pages.dev
-180697, 2024-07-02 01:52:35, 2024-07-02 01:30:35, phishing, cceecae4d14acd93045f5dc25d3fe4d2, https://apresentacao-gratuita.online/ChianAdmin/edg/?info=eWFob29AeWFob28uY29t
-180696, 2024-07-02 01:47:52, 2024-07-02 01:23:53, phishing, b9900748bdb38b95c4e58d72d422e8d2, https://gateway.lighthouse.storage/ipfs/bafybeidlxeohbgnyqzia32lvjwl66gieg2fiq66obdioutrnnlaykkenxm
-180695, 2024-07-02 01:44:17, 2024-07-02 01:44:17, phishing, a287204a1e2e992b1556bc4a11af529c, http://sealvariationlong.pages.dev
-180694, 2024-07-02 01:36:10, 2024-07-02 01:36:10, phishing, fa8bf654e86a66e64d16cc6814bea155, http://test-a43.pages.dev
-180693, 2024-07-02 01:25:48, 2024-07-02 01:25:48, malware, 5199cf9dbe844b82b89c7057601529be, http://61.52.80.194:48256/i
-180692, 2024-07-02 01:25:47, 2024-07-02 01:25:47, malware, 2bf4c24dced840169eb868eb1cefa1ff, http://61.163.128.232:37639/Mozi.m
-180691, 2024-07-02 01:25:45, 2024-07-02 01:25:45, malware, 6639f64735554ebf804439b67386e4c6, http://59.99.100.77:40858/bin.sh
-180690, 2024-07-02 01:25:43, 2024-07-02 01:25:43, malware, b1c3c68aa73c4387ae6ed8bd7e433f5b, http://59.98.123.232:37894/Mozi.m
-180689, 2024-07-02 01:25:38, 2024-07-02 01:25:38, malware, 0fe5b0a76972468cafadfacea65fb9c5, http://59.98.123.232:37894/i
-180688, 2024-07-02 01:25:37, 2024-07-02 01:25:37, malware, cd0ee855759c4595a9af7c9faa26be01, http://59.98.123.232:37894/bin.sh
