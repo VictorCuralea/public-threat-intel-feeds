@@ -6,9 +6,15 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-02 08:00:01 UTC
+# UPDATE: 2024-07-02 09:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+180951, 2024-07-02 08:43:02, 2024-07-02 08:30:15, phishing, 6eb7fa43881578ab94ed5d302d47d879, https://gold263302.studio.site/
+180950, 2024-07-02 08:42:38, 2024-07-02 08:10:13, phishing, df535977f0496060701a070d4f58d6ce, https://ekanah7338.beefreedesign.com/v2Hd
+180949, 2024-07-02 08:40:17, 2024-07-02 08:40:17, phishing, 8657e2028da081ef9abc32892f6f5706, https://bt-108638.weeblysite.com/
+180948, 2024-07-02 08:32:17, 2024-07-02 08:32:17, phishing, 76f8711a6e29069ec31b2801053e5549, http://tr7nhqjekqxgtci8q8zy4pl8otszgjlj6t.site
+180947, 2024-07-02 08:26:16, 2024-07-02 08:26:16, phishing, a3b1e0b6f694c820ed5348168afb1250, https://my-site-105367-103420.weeblysite.com/
+180946, 2024-07-02 08:20:15, 2024-07-02 08:20:15, phishing, bb81769543c025e728e73643ce744f72, https://bfufh-103554.weeblysite.com/
 180945, 2024-07-02 07:30:46, 2024-07-02 07:18:12, phishing, 200ef5a61b442adfd67a251f3baa5b3b, https://broadbandmail1.limesurvey.net/443125?newtest=Y
 180944, 2024-07-02 07:30:36, 2024-07-02 07:10:15, phishing, 8918a6047f13540aa8ebbfc006983ee2, https://white491699.studio.site/
 180943, 2024-07-02 07:30:05, 2024-07-02 07:30:05, malware, 9539ce2849a74151873ed55d6301516c, http://93.123.85.239/miraint.x86
@@ -370,7 +376,6 @@ id, date_added, date_discovery, type, UUID, url
 180587, 2024-07-01 23:20:08, 2024-07-01 23:20:08, malware, fd2a681c2e1d4b3f92225715d2663c52, http://1.189.82.125:51670/i
 180586, 2024-07-01 23:20:06, 2024-07-01 23:20:06, malware, f7a64dcd901e44c38afc9b91c60c5917, http://1.189.82.125:51670/bin.sh
 180585, 2024-07-01 23:08:12, 2024-07-01 23:08:12, phishing, 802ead043bdbd96f1027efffb01ffcc3, http://vawegyghiaouwegsjhakjsgdsewrydi01.pages.dev
-180584, 2024-07-01 23:00:19, 2024-07-01 23:00:19, phishing, e5c16f42926d5f782e325bf547d5f5af, http://iimtokem.com
 180583, 2024-07-01 23:00:19, 2024-07-01 23:00:19, phishing, 46c04e8fff4e33100dd90e0b577500a8, http://iimtokem.com
 180582, 2024-07-01 22:44:14, 2024-07-01 22:44:14, phishing, 19408fee6fc8518d3708fdf3d1183acd, http://dappzillfix.pages.dev
 180581, 2024-07-01 22:03:07, 2024-07-01 22:03:07, phishing, 68db2fd296e65c886a66afc45b4e2ab1, http://tokenp0ckkt.shop
@@ -504,8 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 180453, 2024-07-01 19:22:41, 2024-07-01 19:22:41, malware, 54551c3685a8494299b65dd6c074b747, http://115.63.55.79:43560/Mozi.m
 180452, 2024-07-01 19:22:36, 2024-07-01 19:22:36, malware, c98140fcf0934a38b883891e2c3f5359, http://115.63.29.37:37141/Mozi.m
 180451, 2024-07-01 19:22:28, 2024-07-01 19:22:28, malware, 69dc8cc59c2e42a199656edc3fcf63c8, http://115.63.179.218:46124/Mozi.m
-180450, 2024-07-01 19:22:23, 2024-07-01 19:22:23, malware, e01e26f78fd2426c99528a8fa7d84197, http://115.58.117.151:53599/i
-180449, 2024-07-01 19:22:16, 2024-07-01 19:22:16, malware, 9727f7aa8abd41388632dd0fa2a60817, http://115.58.117.151:53599/bin.sh
-180448, 2024-07-01 19:22:13, 2024-07-01 19:22:13, malware, 8024feca1e66421582a852e0395a2a9a, http://115.55.226.196:37910/i
-180447, 2024-07-01 19:22:04, 2024-07-01 19:22:04, malware, b7982590d9cd4c4e8e95c1ee2e4ccece, http://115.55.226.196:37910/bin.sh
-180446, 2024-07-01 19:22:01, 2024-07-01 19:22:01, malware, f85567dafebc477989c546791b688be1, http://115.55.216.83:56324/i
