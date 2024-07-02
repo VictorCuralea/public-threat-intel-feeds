@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-02 00:00:01 UTC
+# UPDATE: 2024-07-02 01:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+180643, 2024-07-02 00:10:17, 2024-07-02 00:10:17, phishing, 237cda9b1201a9159bd10697190d716c, http://catbainu.pages.dev
 180642, 2024-07-01 23:30:12, 2024-07-01 23:30:12, phishing, a3815c8dc2355c6edaa5982a845493cc, http://account-update-settings.pages.dev
 180641, 2024-07-01 23:27:49, 2024-07-01 23:27:49, malware, a6f3ccabcc174239bf2aab945fbd075c, http://94.121.3.50:41461/bin.sh
 180640, 2024-07-01 23:27:47, 2024-07-01 23:27:47, malware, f7c787e8853d4d07abc85f8beebd486d, http://78.66.227.205:46761/i
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 180146, 2024-07-01 09:21:45, 2024-07-01 09:21:45, malware, 00594297e4ab4d7ab5daced8f5b10795, http://117.194.210.238:49143/bin.sh
 180145, 2024-07-01 09:21:40, 2024-07-01 09:20:32, phishing, 4f44fc082039c4ed6e7d31635d587c4a, https://nnehffj.webflow.io/
 180144, 2024-07-01 09:21:19, 2024-07-01 09:21:19, malware, 75ca867b0fea479980998bb8ee627fee, http://117.193.128.129:56420/i
-180143, 2024-07-01 09:21:02, 2024-07-01 09:21:02, malware, acbe9a78037548c9933fabef72f1e259, http://115.63.187.153:35307/i
