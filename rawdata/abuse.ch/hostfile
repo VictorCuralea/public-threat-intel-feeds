@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-07-02 09:14:29 UTC                        #
+# Last updated: 2024-07-02 10:16:22 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	d2ihtjoradhy1i.cloudfront.net
 127.0.0.1	blacktds.vip
 127.0.0.1	service-9cjgv9d1-1327547884.bj.tencentapigw.com.cn
 127.0.0.1	cs.love520.us.kg
@@ -7828,5 +7829,4 @@
 127.0.0.1	s-paketverfolgung.com
 127.0.0.1	undiny.ru
 127.0.0.1	mail.137-184-80-125.cprapid.com
-127.0.0.1	nris-d.mqpslop.com
 # Number of entries: 7823
