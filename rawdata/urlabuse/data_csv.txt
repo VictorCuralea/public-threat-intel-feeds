@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-02 02:00:02 UTC
+# UPDATE: 2024-07-02 03:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+180702, 2024-07-02 02:54:18, 2024-07-02 02:54:18, phishing, 4bcb8be74cff947773cfc1797965f8d0, http://teiegvam.com
+180701, 2024-07-02 02:54:16, 2024-07-02 02:54:16, phishing, 164bb2d2613e0ca5d2133776fb50129f, http://teiegrom-g.com
+180700, 2024-07-02 02:52:19, 2024-07-02 02:52:19, phishing, 8861834e09144f44fb8f2ec35b124c19, http://teiegrsm.com
 180699, 2024-07-02 01:58:12, 2024-07-02 01:58:12, phishing, 2d6b55c6e701437d44d934a042b7efc0, http://defyseallong.pages.dev
 180698, 2024-07-02 01:56:14, 2024-07-02 01:56:14, phishing, eeaeeae06fc75e9d2058ec6c5a61b97e, http://unizuzadeeper.pages.dev
 180697, 2024-07-02 01:52:35, 2024-07-02 01:30:35, phishing, cceecae4d14acd93045f5dc25d3fe4d2, https://apresentacao-gratuita.online/ChianAdmin/edg/?info=eWFob29AeWFob28uY29t
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 180205, 2024-07-01 09:34:27, 2024-07-01 09:34:27, malware, 852c2b54a8644503810eebcd38330a13, http://59.182.81.176:56338/i
 180204, 2024-07-01 09:34:22, 2024-07-01 09:34:22, malware, 810bbdda81c042f683d1b23cad255bc9, http://59.182.81.176:56338/bin.sh
 180203, 2024-07-01 09:34:20, 2024-07-01 09:34:20, malware, 54f7167bbc664404b524b468b7f2413f, http://59.178.223.73:35798/Mozi.m
-180202, 2024-07-01 09:34:00, 2024-07-01 09:34:00, malware, 0ddc2dbb151945aea32094f7fc8d06f7, http://42.231.182.202:54143/bin.sh
-180201, 2024-07-01 09:33:56, 2024-07-01 09:33:56, malware, 5b622db6cc854e8a8164b98d6f07b7f9, http://42.228.195.44:52113/bin.sh
-180200, 2024-07-01 09:33:52, 2024-07-01 09:33:52, malware, d96446345593414c90e2e968482c0e88, http://42.226.71.214:48714/i
