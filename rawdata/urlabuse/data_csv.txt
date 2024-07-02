@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-02 12:00:01 UTC
+# UPDATE: 2024-07-02 13:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+181088, 2024-07-02 12:58:12, 2024-07-02 12:58:12, phishing, fcb149b2c426f3af0c9c7d9aa795ce8e, http://manta-drop.pages.dev
 181087, 2024-07-02 11:56:15, 2024-07-02 11:56:15, phishing, 03ed9ce8bbf7c51be23645538dcf2376, http://kk612.top
 181086, 2024-07-02 11:52:13, 2024-07-02 11:52:13, phishing, d99a16798c4f274a22353088f4e7170d, http://telegram21sexxxneww.pages.dev
 181085, 2024-07-02 11:29:12, 2024-07-02 11:29:12, malware, 17143470778449819bfc4b422f094175, http://61.52.38.248:53654/i
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 180591, 2024-07-01 23:20:28, 2024-07-01 23:20:28, malware, 70156c4ad3cf4ccb9ac341e005a3611d, http://112.248.83.143:41945/bin.sh
 180590, 2024-07-01 23:20:26, 2024-07-01 23:20:26, malware, 8ba655ec833d41839ee5e57813c82a92, http://112.248.100.138:53339/i
 180589, 2024-07-01 23:20:23, 2024-07-01 23:20:23, malware, de314da1fe854bb6b941eb4787de49d1, http://112.248.100.138:53339/bin.sh
-180588, 2024-07-01 23:20:11, 2024-07-01 23:20:11, malware, 5ed64b0ab3b44170becc9362b74cbe11, http://111.179.181.18:37608/bin.sh
