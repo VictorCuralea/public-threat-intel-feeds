@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-02 20:00:02 UTC
+# UPDATE: 2024-07-02 21:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+181466, 2024-07-02 20:30:12, 2024-07-02 20:30:12, phishing, a04bf00048f61d5e2841723659bd93fc, http://translationmoneydomainragestrateionshere1.pages.dev
 181465, 2024-07-02 19:32:16, 2024-07-02 19:32:16, phishing, f5f60875332514baa0c6f2d066bbe2c6, http://perpsradarspot.pages.dev
 181464, 2024-07-02 19:27:26, 2024-07-02 19:27:26, malware, de7581771004467eaad53087097a9766, https://sylhetvoice.com/tmp/1.exe
 181463, 2024-07-02 19:27:25, 2024-07-02 19:27:25, malware, 18fd75e8d75045668ed363c890124367, http://61.53.47.84:46553/Mozi.m
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 180969, 2024-07-02 09:24:16, 2024-07-02 09:24:16, phishing, fbd92445b15810cf5767e1e10311ec60, http://passswis.diegomorenogonzalez.com
 180968, 2024-07-02 09:24:02, 2024-07-02 09:24:02, malware, 202cae723db74d66975cefb7922bcae0, http://117.212.53.218:55045/Mozi.m
 180967, 2024-07-02 09:23:36, 2024-07-02 09:23:36, malware, 7bb806037dd3436da68c4626c95b7b45, http://117.208.255.101:57253/bin.sh
-180966, 2024-07-02 09:23:34, 2024-07-02 09:23:34, malware, 238f71a8c59a4b2f8f0aa8ba872ef4f6, http://117.208.16.156:43083/Mozi.m
