@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-03 06:00:01 UTC
+# UPDATE: 2024-07-03 07:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+181798, 2024-07-03 06:28:16, 2024-07-03 06:28:16, phishing, 5d9a7fe8965429e5e4dcebd6fd04f0a0, http://telegram-te.icu
+181797, 2024-07-03 06:14:12, 2024-07-03 06:14:12, phishing, bc1d528fa1b512d9475167d5f3285d5a, http://windowmailredirectchecklisthhhwddsywsjmailboxkckjkdjvvhttp.pages.dev
+181796, 2024-07-03 06:11:14, 2024-07-03 06:07:47, phishing, 241ab3a633cfa5cea917fce258e05751, https://vvipstore.cloud/Ensbgah2xyb2lkd2dgdyc3BldGSRSFATHBpYWh5aGJubmcgDFREZW96eXd2emFoZmZvemt2YW1scvbsdwRhcnJMGB/microsoft/login.html#live@live.com
+181795, 2024-07-03 06:03:04, 2024-07-03 06:00:42, phishing, bf8eb3afad09dcde03bb9a024af6de3e, https://wingstake.buzz/#live@live.com
 181794, 2024-07-03 05:28:20, 2024-07-03 05:28:20, malware, 2dc1a8ba0727462c89e4ddce720bd29d, http://61.52.157.142:49304/i
 181793, 2024-07-03 05:28:19, 2024-07-03 05:28:19, malware, 62e6379a862b4d039f5037095392a26b, http://61.3.26.202:41670/i
 181792, 2024-07-03 05:27:47, 2024-07-03 05:27:47, malware, 427c831400d9441cb7d6a33dce1e2944, http://59.99.143.58:50569/Mozi.m
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 181301, 2024-07-02 16:06:14, 2024-07-02 16:06:14, phishing, bbbfadcff9b19b7a837117d4ef5a4456, http://pub-3f4f9c1a9b3c4305af0022c400bd54f9.r2.dev/autheroi.html
 181300, 2024-07-02 16:06:13, 2024-07-02 16:06:13, phishing, b9e0743bd494bd7d0b078c55ffc133f9, http://pub-4336695deae64820af8ea2eee84027df.r2.dev/index.html
 181299, 2024-07-02 16:06:03, 2024-07-02 16:06:03, phishing, 49b00ea9e553d529f78a0a3f31905b89, https://gateway.lighthouse.storage/ipfs/bafybeigmxitd7ypa7yyvbrhui3fuymoc5cwlhbzfn7rw6bcp2x22ljq6jm
-181298, 2024-07-02 16:05:59, 2024-07-02 16:05:59, phishing, be7cbf426500f954b2fa83c753334d0c, http://pub-65c60d3a289d4129a0670802fa2aaeb1.r2.dev/MicrosoftOutlook4.html
-181297, 2024-07-02 16:05:56, 2024-07-02 16:05:56, phishing, 67b8ccfd9a5b1ff57783cc481fa1cc41, http://cashum.unam.mx/wp-content/backups-dup-pro/imports/index.htm
-181296, 2024-07-02 16:05:55, 2024-07-02 16:05:55, phishing, dc00a0b108402434dd4336b763ffc6cc, http://pub-5e6b0686d1ed4b08a45463767e44da66.r2.dev/index.html
-181295, 2024-07-02 16:05:39, 2024-07-02 16:05:39, phishing, 5cbe0a944cc68b1f19852f3509c0258a, https://pub-b74c3231117d457093abaaae80dcb8a1.r2.dev/service.html
