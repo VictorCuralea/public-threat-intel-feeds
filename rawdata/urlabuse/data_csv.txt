@@ -6,9 +6,19 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-03 08:00:01 UTC
+# UPDATE: 2024-07-03 09:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+181879, 2024-07-03 08:56:10, 2024-07-03 08:56:10, phishing, eafd4a37e7eba045ddea5f80d1243dc2, http://devlet-giris-onlinekart.app
+181878, 2024-07-03 08:54:13, 2024-07-03 08:54:13, phishing, 8b6fc98a52b9793a1c4b2c58bbd0eed7, http://adminojihgvfcdgvbhbgvfcdfoeoeieururuiwkmngytfdrxgvyuncboop.pages.dev
+181877, 2024-07-03 08:46:16, 2024-07-03 08:46:16, phishing, 5b05f314e47edfc5cfa243bafcdb4d76, https://bt-broadband-universal-service-106470.weeblysite.com/
+181876, 2024-07-03 08:44:17, 2024-07-03 08:44:17, phishing, 853510e99380f83e89e386fa87dd5762, https://bt-109318.weeblysite.com/
+181875, 2024-07-03 08:44:14, 2024-07-03 08:44:14, phishing, bc99a778cb00c12fea05dea052832f07, https://docs.google.com/presentation/d/e/2PACX-1vT8wWk0vK0aSCOFfES4X6VJ0VXux3R6buaiKvAT85AZfT29cud3_1zl8YywoMim2_Hyc42Qky5agAEi/pub?start=false
+181874, 2024-07-03 08:42:18, 2024-07-03 08:42:18, phishing, 7f109286edab5b7474cf47ab1c9d6858, https://btyfh-107888.weeblysite.com/
+181873, 2024-07-03 08:42:18, 2024-07-03 08:42:18, phishing, 5407b3f974f4091cc3865ca8db3f9538, https://bt-home-100005.weeblysite.com/
+181872, 2024-07-03 08:42:17, 2024-07-03 08:42:17, phishing, 945130a295865147cca561ca1acef389, https://fgthr5y6h4545t.weebly.com/
+181871, 2024-07-03 08:14:11, 2024-07-03 07:06:16, phishing, 2924165fa29cf3271addc266ed479e80, https://orangesetup.000webhostapp.com/
+181870, 2024-07-03 08:13:27, 2024-07-03 07:04:16, phishing, f03fd8894105a3bc2f1068153b09d2d8, https://evamin274.wixsite.com/my-site/
 181869, 2024-07-03 07:28:21, 2024-07-03 07:28:21, malware, f8e50dbe37d44f1182f56db35611f631, http://81.215.202.162:57581/Mozi.m
 181868, 2024-07-03 07:28:18, 2024-07-03 07:28:18, malware, bf37d18373b34cb69209688f3fbcbc2a, http://77.105.132.27/lumma0207.exe
 181867, 2024-07-03 07:28:12, 2024-07-03 07:28:12, malware, 02fb916c0d9a4a1b8aef5aa16fd73d66, http://61.54.43.164:45468/bin.sh
@@ -499,13 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 181382, 2024-07-02 17:24:56, 2024-07-02 17:24:56, malware, 25cddd0e79eb452eb0f05510a06c6865, http://61.53.141.213:47260/i
 181381, 2024-07-02 17:24:54, 2024-07-02 17:24:54, malware, eaca6c073a5b4b4f8692638414b7464a, http://61.53.141.213:47260/bin.sh
 181380, 2024-07-02 17:24:33, 2024-07-02 17:24:33, malware, f2d5449f6de1478d9c722ce92e29859f, http://61.3.138.206:34932/bin.sh
-181379, 2024-07-02 17:24:20, 2024-07-02 17:24:20, malware, f142420f041b4844abac52973cf71309, http://59.99.214.230:45235/i
-181378, 2024-07-02 17:24:18, 2024-07-02 17:24:18, malware, dbb25ad716614d0dae80e5ea2696ef4d, http://59.99.214.230:45235/bin.sh
-181377, 2024-07-02 17:24:16, 2024-07-02 17:24:16, malware, 3417b06879f54a3f824479eb2fe0b103, http://59.93.182.80:38548/Mozi.m
-181376, 2024-07-02 17:23:57, 2024-07-02 17:23:57, malware, c5eee557e57d495f973a42573d7c0ad6, http://59.88.13.248:32811/i
-181375, 2024-07-02 17:23:49, 2024-07-02 17:23:49, malware, bc33b46f07ad45edbab49a0c2aa9a33d, http://59.184.59.3:57636/bin.sh
-181374, 2024-07-02 17:23:27, 2024-07-02 17:23:27, malware, bbff0e34b78a4e23828aff13e60460b3, http://59.178.158.79:35619/i
-181373, 2024-07-02 17:23:25, 2024-07-02 17:23:25, malware, cfeebe10ffb74e6b83c1391ecd6d62a0, http://58.23.80.34:35188/i
-181372, 2024-07-02 17:23:23, 2024-07-02 17:23:23, malware, 8bf4c979b0b94245b77e7d2cc53e470f, http://58.23.80.34:35188/bin.sh
-181371, 2024-07-02 17:23:21, 2024-07-02 17:23:21, malware, 19c69c78c02a45ccadf902a2a6260f95, http://42.230.29.153:54086/i
-181370, 2024-07-02 17:23:19, 2024-07-02 17:23:19, malware, 6309885c6fe84d128b2dc2abf67c14ce, http://42.224.56.143:37071/bin.sh
