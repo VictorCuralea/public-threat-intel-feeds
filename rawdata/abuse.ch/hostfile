@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-07-03 14:04:21 UTC                        #
+# Last updated: 2024-07-03 15:00:42 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	adobefallshomes.com
 127.0.0.1	1307777787-7caouzfrdq-bj.scf.tencentcs.com
 127.0.0.1	downloaddining.com
 127.0.0.1	qianxinnbplus.xyz
@@ -7751,11 +7752,4 @@
 127.0.0.1	dracumi.com
 127.0.0.1	ecs-116-205-161-207.compute.hwclouds-dns.com
 127.0.0.1	gayretoploforeztolezkoz.net
-127.0.0.1	tayhonkolimbinesos.net
-127.0.0.1	raygovalizrobinezcomez.net
-127.0.0.1	rayrovelemanze.com
-127.0.0.1	sevcikconcikdomilezdolerez.com
-127.0.0.1	sevdalimdolemezdidos.com
-127.0.0.1	teygolfaygoldoleriz.com
-127.0.0.1	zaryedtormentosco.net
-# Number of entries: 7752
+# Number of entries: 7746
