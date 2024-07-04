@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-04 00:00:01 UTC
+# UPDATE: 2024-07-04 01:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+182426, 2024-07-04 00:30:12, 2024-07-04 00:30:12, phishing, 44858065c4da2532320afdd8416ea64c, http://oneclickmailchange2986290ikksdbfisbvkofficeiroeopephtml.pages.dev
+182425, 2024-07-04 00:12:10, 2024-07-04 00:12:10, phishing, 8d2cbe4d94303fe669ffcce9e7571958, http://kejuiru94tufjsfvnnjfjsiiloitrutywurhfhfkgnnb457hf94983nphp.pages.dev
 182424, 2024-07-03 23:36:12, 2024-07-03 23:36:12, phishing, e6ebca4f49512b9a2e579cbd9505d0f9, http://adminojihgvfcdgvbhbgvfcdfoeoeieururuiwkmndjhdkskjncboop.pages.dev
 182423, 2024-07-03 23:26:00, 2024-07-03 23:26:00, malware, 56d9ba575e5741399629077a55e237df, http://static.242.130.55.162.clients.your-server.de/b13597c85f807692/vcruntime140.dll
 182422, 2024-07-03 23:25:58, 2024-07-03 23:25:58, malware, 236d11b64060415b972b5b8e38de94da, http://84.213.69.62:41447/bin.sh
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 181929, 2024-07-03 09:28:27, 2024-07-03 09:28:27, malware, 95736e8b8a6a44a9baccbc44fb74e86d, http://42.225.242.35:51192/i
 181928, 2024-07-03 09:28:26, 2024-07-03 09:28:26, malware, 25e7a86d5baf42cc901ac804631b5628, http://42.224.109.110:42374/bin.sh
 181927, 2024-07-03 09:28:24, 2024-07-03 09:28:24, malware, 4e9ca18d96034fe99e7d436bdc57945b, http://31.170.184.2:57020/i
-181926, 2024-07-03 09:28:24, 2024-07-03 09:28:24, malware, c262c6440a264f9db3ef7d70292c3194, http://27.206.237.234:38860/i
-181925, 2024-07-03 09:28:22, 2024-07-03 09:28:22, malware, 2a5b462df8a4442380cc631e55ef5908, http://221.13.251.3:53631/bin.sh
