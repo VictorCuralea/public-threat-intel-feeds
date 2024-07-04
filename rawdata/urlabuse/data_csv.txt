@@ -6,9 +6,26 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-04 08:00:01 UTC
+# UPDATE: 2024-07-04 09:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+182777, 2024-07-04 08:58:14, 2024-07-04 08:58:14, phishing, 8e71c11f1c23b86a8e6f0936f618bb19, https://sheikdosdados.com.br/or/.espace-.client/(;authentication.htm
+182776, 2024-07-04 08:56:17, 2024-07-04 08:56:17, phishing, f0d07caad673298a134fca30010e6daf, https://www.academia100limites.com.br/Y-g6TANK.php
+182775, 2024-07-04 08:55:01, 2024-07-04 08:52:14, phishing, 08415b80b91dca50ab9cb034d82f4005, https://receptionorange4.wixsite.com/my-site?user-agent=Mozilla/5.0 (Windows NT 10.0
+182774, 2024-07-04 08:54:49, 2024-07-04 08:52:14, phishing, cff2c72cf73c17e77bcb595f1dbb184e, https://signature-entreprise.orange-business.com/digisign/sign/aUFpaEcyakZsMlBqNjAwclNBbDE
+182773, 2024-07-04 08:54:13, 2024-07-04 08:54:13, phishing, 9da9be3cb72d431f7271dd32084811c7, https://identificationorangefr.weebly.com/
+182772, 2024-07-04 08:54:11, 2024-07-04 08:54:11, phishing, 507a17ada307c5c69d3034dc7d91b601, http://kalam-7eb4.warik96420.workers.dev
+182771, 2024-07-04 08:54:11, 2024-07-04 08:54:11, phishing, c0eb2bef0ca3448a7fa616c87d8fb5a0, http://edevlet-giris-turkiye.app
+182770, 2024-07-04 08:50:12, 2024-07-04 08:48:55, phishing, 435c25b4a243150f076ff76fbb807889, https://email.abad-ca.com/web/webmail4/#aol@aol.com
+182769, 2024-07-04 08:42:13, 2024-07-04 08:40:16, phishing, 86e399c77888095094b20b642d1a3653, https://cagianadda.wixsite.com/bluemail
+182768, 2024-07-04 08:41:46, 2024-07-04 08:38:24, phishing, 561f394f3052b9be79f98534943391b5, https://shipalertz.pro/
+182767, 2024-07-04 08:41:02, 2024-07-04 08:38:13, phishing, 2ba69da778a408fade28432bca07ce4f, https://cdow.top/
+182766, 2024-07-04 08:40:48, 2024-07-04 08:36:20, phishing, cbdbc6f763cbc3b8a5ca27a2b09e6c41, https://reuupload.wieosma.shop/
+182765, 2024-07-04 08:40:27, 2024-07-04 08:40:27, phishing, dee15ebd186b035c21d2ff3230b95bb3, https://bompentax.com/sa/Spass/CH/1.html?sbbch-connect?q=df&ehome&j-oin-us.x=6ac84ebf1751d8233fde63bf0ff289a56ac84ebf1751d8233fde63bf0ff289a5
+182764, 2024-07-04 08:40:15, 2024-07-04 08:36:16, phishing, 1d218458cfd4758c8e531eaa88924dc7, https://rs11-nyc.serverhostgroup.com/~viowkols/
+182763, 2024-07-04 08:38:29, 2024-07-04 08:38:29, phishing, e689a2d249e500fe081589db4af06938, https://jna.nxb.mybluehost.me/wp-admin/SBB/index/
+182762, 2024-07-04 08:38:15, 2024-07-04 08:38:15, phishing, 09542c2766777d6f65124142059cf30f, https://qri.nxb.mybluehost.me/LUCIA/NT/
+182761, 2024-07-04 08:36:16, 2024-07-04 08:36:16, phishing, e8a31d9f07667811b048beaa369e1880, https://bckup.icons-agency.com/.well-known/pki-validation/de
 182760, 2024-07-04 07:44:12, 2024-07-04 07:44:12, phishing, 5c81654c7c827f5315c9fb304d547053, http://agdunadgdge04.pages.dev
 182759, 2024-07-04 07:39:13, 2024-07-04 07:28:15, phishing, 68167200a68100afe5e940d25a1d1d6f, http://user-wewox86414.ibizeo.fr/
 182758, 2024-07-04 07:34:12, 2024-07-04 07:34:12, phishing, ee2be41660375296b627346051148ed3, http://mailrecordkjfkafhofficecheckmmmxzsecuritylinkshtml09q8776.pages.dev
@@ -492,20 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 182280, 2024-07-03 20:20:35, 2024-07-03 20:20:35, malware, 18c49db9b0a44d63a8b7aa830c95db84, http://115.61.12.3:34632/bin.sh
 182279, 2024-07-03 20:20:23, 2024-07-03 20:20:23, malware, 14fcd4e1a50841b49032add4b8a29f31, http://115.56.9.95:56536/bin.sh
 182278, 2024-07-03 20:20:11, 2024-07-03 20:20:11, malware, 56a9088024e44683870597143cda40d4, http://115.55.130.218:57077/bin.sh
-182277, 2024-07-03 20:20:09, 2024-07-03 20:20:09, malware, a992437e67a94b5da624f5de510f8315, http://112.247.83.66:56154/i
-182276, 2024-07-03 20:20:07, 2024-07-03 20:20:07, malware, 9a59254535a141b0a91421bc320a272f, http://112.247.83.66:56154/bin.sh
-182275, 2024-07-03 20:20:04, 2024-07-03 20:20:04, malware, 57bdeb4b646f488ebdd5a35e42f02608, http://103.42.55.251:9999/adrtest.apk
-182274, 2024-07-03 20:16:12, 2024-07-03 20:16:12, phishing, c1baf9fadc47b3681512be2523c607c8, http://onlythetruthcansetyoufree4.pages.dev
-182273, 2024-07-03 19:36:16, 2024-07-03 19:36:16, phishing, b2f69d7cc229d6d513120fb11f307137, http://teiegrgm.com
-182272, 2024-07-03 19:36:14, 2024-07-03 19:36:14, phishing, d63500bba665f62ce14393bd448e751b, http://superverse.pages.dev
-182271, 2024-07-03 19:28:18, 2024-07-03 19:28:18, phishing, 4c4f829c0c97ae8ed98ad2178a4d7b24, http://tg.kxyl1.cc
-182270, 2024-07-03 19:24:13, 2024-07-03 19:24:13, malware, c724a2e404734fe1a1dc84d8e5d9a46d, http://skf-mx.com/contact/Uvemqrtnws.vdf
-182269, 2024-07-03 19:21:20, 2024-07-03 19:21:20, malware, 32c84606c1b247f896eb0ee400034608, http://59.88.234.85:58456/bin.sh
-182268, 2024-07-03 19:21:18, 2024-07-03 19:21:18, malware, be76a56fac524b058012c811e842eb23, http://59.35.93.125:51642/Mozi.m
-182267, 2024-07-03 19:20:55, 2024-07-03 19:20:55, malware, dc5aa48f96784ec0b91638b1209bd3b8, http://42.233.106.40:39017/bin.sh
-182266, 2024-07-03 19:20:53, 2024-07-03 19:20:53, malware, b8daa01b796e44c9aec334ad0325d412, http://42.226.69.118:58723/i
-182265, 2024-07-03 19:20:52, 2024-07-03 19:20:52, malware, 4be19d07766f4429b339fd4f2483c41d, http://42.226.69.118:58723/bin.sh
-182264, 2024-07-03 19:20:10, 2024-07-03 19:20:10, malware, 698429d7c99244b09c55959ddb8abe98, http://185.172.128.116/Freshbuild.exe
-182263, 2024-07-03 19:20:08, 2024-07-03 19:20:08, malware, d60665e81dcd4cdfb0d45cc4faf65d47, http://182.126.102.194:58312/bin.sh
-182262, 2024-07-03 19:20:07, 2024-07-03 19:20:07, malware, 3d5f6c7736d940b6bcf77b8f5d59b5b6, http://182.122.218.36:50301/bin.sh
-182261, 2024-07-03 19:20:05, 2024-07-03 19:20:05, malware, 01dc9a3d6f03491db28af390625d8950, http://182.119.123.159:38662/Mozi.m
