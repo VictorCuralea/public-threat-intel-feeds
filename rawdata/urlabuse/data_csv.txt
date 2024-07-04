@@ -6,9 +6,21 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-04 06:00:01 UTC
+# UPDATE: 2024-07-04 07:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+182676, 2024-07-04 06:36:32, 2024-07-04 06:36:32, phishing, 2668ddada31934f6fe72da0a2aad53cf, http://telegram-zq.com
+182675, 2024-07-04 06:36:27, 2024-07-04 06:36:27, phishing, 2110fa7f4ed7ea625f2a82140b040a61, http://telegram-vn.com
+182674, 2024-07-04 06:36:18, 2024-07-04 06:36:18, phishing, b5d699bdcfbe95916682b3c6475f3646, http://telegrafm.com
+182673, 2024-07-04 06:36:13, 2024-07-04 06:36:13, phishing, 18bbe71cd4f9a6edec70e567dcf29de4, https://web.telegram-yz.com/
+182672, 2024-07-04 06:34:14, 2024-07-04 06:34:14, phishing, cf531236bafb9f5de566b34a63dd38e2, http://telegram-yz.com
+182671, 2024-07-04 06:16:54, 2024-07-04 04:55:22, phishing, c45ac39f37f5589befbb5b5c37d315a8, https://ipfs.io/ipfs/bafkreid2h3who2oew3wljvqy24ixqmsiu7toew7k7zajs4r2jkb7awvetm
+182670, 2024-07-04 06:15:47, 2024-07-04 04:36:24, phishing, f256a95d2b8aad525dabc173131d3e03, https://mavimpycare.com/0001/shp-0001/?client-id=dhl@dhl.com
+182669, 2024-07-04 06:15:13, 2024-07-04 01:45:53, phishing, 35b3993516bca15184fe3e257da61cf5, https://soilsouls.org/okoko/index.php?mail=yahoo@yahoo.com
+182668, 2024-07-04 06:14:25, 2024-07-04 06:14:25, phishing, ba290ad2bf023a8b789366945fe41309, https://ipfs.io/ipfs/QmPiDHi6qqtNGB5FwvBiggRtzM78Jo5LC78oeHQ6YPKmmR/index2vvm0107.html#live@live.com
+182667, 2024-07-04 06:13:23, 2024-07-04 01:38:06, phishing, 74d98b9130aac467ecb948df4eeda18e, https://cloudflare-ipfs.com/ipfs/QmPiDHi6qqtNGB5FwvBiggRtzM78Jo5LC78oeHQ6YPKmmR/index2vvm0107.html#live@live.com
+182666, 2024-07-04 06:04:12, 2024-07-04 06:04:12, phishing, 2810dfcb6255ca19b43f3f40897bbc37, http://vitabit.pages.dev
+182665, 2024-07-04 06:03:00, 2024-07-04 01:23:54, phishing, 48300f70e8a50bf9d9177d3b53f7f1ef, https://gateway.lighthouse.storage/ipfs/bafkreihr5ym3sn72nnj446r7zmbtfjbbfmbq2gqccqdw65nw45t4boez5m#live@live.com
 182664, 2024-07-04 05:26:50, 2024-07-04 05:26:50, malware, e08837e9bda548aaa144b482b583bcfb, http://69.18.252.223:51617/bin.sh
 182663, 2024-07-04 05:26:48, 2024-07-04 05:26:48, malware, 65528b2762f84da2b17555a95995fc5f, http://61.53.44.21:41304/i
 182662, 2024-07-04 05:26:36, 2024-07-04 05:26:36, malware, 7a143152663b42e08eb949a38101cb7f, http://61.52.158.38:57346/bin.sh
@@ -497,15 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 182179, 2024-07-03 15:31:26, 2024-07-03 15:31:26, malware, 7380dc7b06514ac9b01b337897c724a2, http://78.66.227.205:51890/bin.sh
 182178, 2024-07-03 15:31:25, 2024-07-03 15:31:25, malware, dffe089019b34f4eacf139f8b07bcad6, http://77.221.157.163/systemd.exe
 182177, 2024-07-03 15:31:22, 2024-07-03 15:31:22, malware, f284141f3096468184dd12c8890552fc, http://61.53.151.36:59468/i
-182176, 2024-07-03 15:31:21, 2024-07-03 15:31:21, malware, 9122e62e988e4bee8ff6b70f758e6488, http://61.53.151.36:59468/bin.sh
-182175, 2024-07-03 15:31:19, 2024-07-03 15:31:19, malware, 341c307251d546a4898fb65671b03a0f, http://61.53.100.100:57487/bin.sh
-182174, 2024-07-03 15:30:27, 2024-07-03 15:30:27, malware, 85fe5902e3d043d693a4ae687dc65f5d, http://59.97.113.99:46447/bin.sh
-182173, 2024-07-03 15:30:21, 2024-07-03 15:30:21, malware, eb1c85ad3a984bc3b1f89864dd273fb1, http://59.93.23.138:50573/Mozi.m
-182172, 2024-07-03 15:29:10, 2024-07-03 15:29:10, malware, 17504ccb4f6045d4ab8565ce4abe783d, http://59.182.127.30:33979/bin.sh
-182171, 2024-07-03 15:28:40, 2024-07-03 15:28:40, malware, 81f34ea4dd834c75946b636c5a2baf5f, http://42.238.232.187:57211/Mozi.m
-182170, 2024-07-03 15:28:39, 2024-07-03 15:28:39, malware, f2ea14814ed8485c95552753fdc78171, http://42.236.212.26:51886/i
-182169, 2024-07-03 15:28:37, 2024-07-03 15:28:37, malware, 62ba6f22f8b9493d9a6269bb97360c2b, http://42.228.125.47:34502/bin.sh
-182168, 2024-07-03 15:28:36, 2024-07-03 15:28:36, malware, f70bb1ad7c304156a4a819a034b3a91d, http://222.140.180.40:40554/i
-182167, 2024-07-03 15:28:34, 2024-07-03 15:28:34, malware, e49a98e02e784e4a85de5e9ce7a62018, http://222.140.180.40:40554/bin.sh
-182166, 2024-07-03 15:28:24, 2024-07-03 15:28:24, malware, 28de0917ca124eeea4e96a7df1dbc4ad, http://222.137.228.223:46583/Mozi.m
-182165, 2024-07-03 15:28:22, 2024-07-03 15:28:22, malware, 00e01c6e278e45118eb712866eb4fa65, http://221.13.234.120:34867/bin.sh
