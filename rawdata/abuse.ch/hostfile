@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-07-04 15:25:55 UTC                        #
+# Last updated: 2024-07-04 17:19:39 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	cdn.wnza.shop
+127.0.0.1	trusted-updates.germanywestcentral.cloudapp.azure.com
+127.0.0.1	temp.sftech.shop
 127.0.0.1	www.dpm-sael.com
 127.0.0.1	juderule.africa
 127.0.0.1	pcapi-server.com
@@ -7715,4 +7718,4 @@
 127.0.0.1	paxful.usaa.website
 127.0.0.1	infallible-lichterman.45-141-215-173.plesk.page
 127.0.0.1	monitor.cll5.fact.solutions
-# Number of entries: 7709
+# Number of entries: 7712
