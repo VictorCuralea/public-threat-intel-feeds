@@ -1,12 +1,19 @@
 ################################################################
 # ThreatFox IOCs: recent SHA256 hashes - CSV format            #
-# Last updated: 2024-07-04 15:50:11 UTC                        #
+# Last updated: 2024-07-04 19:39:27 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
 # "first_seen_utc","ioc_id","ioc_value","ioc_type","threat_type","fk_malware","malware_alias","malware_printable","last_seen_utc","confidence_level","reference","tags","anonymous","reporter"
+"2024-07-04 19:39:27", "1294631", "c36f650adbd3d2274ff5b8a86874d845293041710e149e96b7cc11f584b22dd6", "sha256_hash", "payload", "win.phobos", "None", "Phobos", "", "100", "", "Phobos,Ransomware", "0", "nickkuechel"
+"2024-07-04 19:39:27", "1294632", "560eb48d1b2104f4dc3b1607bf42b35e35dfe81272675040df305e0dc85ce33e", "sha256_hash", "payload", "win.phobos", "None", "Phobos", "", "100", "", "Phobos,Ransomware", "0", "nickkuechel"
+"2024-07-04 19:39:27", "1294633", "8f8d76d157e5e4dbd7210cb19ce27b3734147c430a534143c97b90c1f5e35249", "sha256_hash", "payload", "win.phobos", "None", "Phobos", "2024-07-04 19:39:27", "100", "", "Phobos,Ransomware", "0", "nickkuechel"
+"2024-07-04 19:39:27", "1294634", "00890b5ad6b94fd73a0f36ccba0d36cd198899c648c9331363dbd1140196fb3a", "sha256_hash", "payload", "win.phobos", "None", "Phobos", "", "100", "", "Phobos,Ransomware", "0", "nickkuechel"
+"2024-07-04 19:39:27", "1294635", "419e2c52b87ba2817d5001a4581b909adc557a9661184c55e40fc9ebc2a5f8e7", "sha256_hash", "payload", "win.phobos", "None", "Phobos", "", "100", "", "Phobos,Ransomware", "0", "nickkuechel"
+"2024-07-04 19:39:27", "1294636", "1abef22287ce3d4f8cf5a682532152813722677114b6c8e5f0a3db92fc45861a", "sha256_hash", "payload", "win.phobos", "None", "Phobos", "", "100", "", "Phobos,Ransomware", "0", "nickkuechel"
+"2024-07-04 19:39:27", "1294637", "9090b682c6219cb43f01d5b3342356ae85685992fac80e5e08667b54439932ea", "sha256_hash", "payload", "win.phobos", "None", "Phobos", "", "100", "", "Phobos,Ransomware", "0", "nickkuechel"
 "2024-07-04 15:50:11", "1294595", "3d686d48bf794ce3814f7001c4f5916733acf2eeab5140e373e0bd863f105a25", "sha256_hash", "payload", "win.dcrat", "DarkCrystal RAT", "DCRat", "", "100", "", "DCRAT,RAT", "0", "nickkuechel"
 "2024-07-04 15:50:11", "1294596", "abb458ad81038c5edd4909f4b41a2d05bfcaf6ea25e439679c988ed479e42862", "sha256_hash", "payload", "win.dcrat", "DarkCrystal RAT", "DCRat", "", "100", "", "DCRAT,RAT", "0", "nickkuechel"
 "2024-07-04 15:50:11", "1294597", "564da53b4bfb006eab7b88023aec9551d8d68da31dd567442dc35f1ff807e78e", "sha256_hash", "payload", "win.dcrat", "DarkCrystal RAT", "DCRat", "", "100", "", "DCRAT,RAT", "0", "nickkuechel"
@@ -192,4 +199,4 @@
 "2024-07-03 15:16:52", "1292972", "04ca4f891cf5c2c412c58340ec0de521f940f4b36c1b0b7f1aa1fdae080922aa", "sha256_hash", "payload", "win.formbook", "win.xloader", "Formbook", "", "95", "None", "None", "0", "Grim"
 "2024-07-03 15:16:49", "1292969", "898e1da2e8cd2b209e90b5aa9f662b13e96a412238059d9b925d023f00a43b2f", "sha256_hash", "payload", "win.coinminer", "None", "Coinminer", "", "95", "None", "None", "0", "Grim"
 "2024-07-03 15:16:46", "1292966", "62b1bf60394248d2c743ec6df0935d58e5009c9e04aab52da72ad712a57597b4", "sha256_hash", "payload", "win.dcrat", "DarkCrystal RAT", "DCRat", "", "95", "None", "None", "0", "Grim"
-# Number of entries: 185
+# Number of entries: 192
