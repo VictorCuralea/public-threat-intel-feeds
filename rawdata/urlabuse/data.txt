@@ -6,8 +6,10 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-04 02:00:01 UTC
+# UPDATE: 2024-07-04 03:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 182530, "url": "http://meetmeatthejunction5.pages.dev", "discovery": "2024-07-04 02:30:13", "added": "2024-07-04 02:30:13", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "7543a7b66ce04117b0c91e66ffaa4e80"}
+{"id": 182529, "url": "http://smartdapptradxx.pages.dev", "discovery": "2024-07-04 02:08:14", "added": "2024-07-04 02:08:14", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "b354bcc3cd9e7b2b03d59e6230b08e3d"}
 {"id": 182528, "url": "http://newsexxx18foryou.pages.dev", "discovery": "2024-07-04 01:28:10", "added": "2024-07-04 01:28:10", "target": "Telegram", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "f31473c54b5d2afd638e34b36a632b49"}
 {"id": 182527, "url": "http://84.213.69.62:41447/i", "discovery": "2024-07-04 01:28:01", "added": "2024-07-04 01:28:01", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "6b141b5cbeb347c9a721ced70c4cb954"}
 {"id": 182526, "url": "http://61.52.158.38:57346/i", "discovery": "2024-07-04 01:27:59", "added": "2024-07-04 01:27:59", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "12f1e7cefb404e008bf5adc9651d22b1"}
@@ -506,5 +508,3 @@
 {"id": 182033, "url": "https://btinternetuks.wixsite.com/my-site-1", "discovery": "2024-07-03 12:30:13", "added": "2024-07-03 12:37:24", "target": "BT", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "72f91bec26c76dc669db9c4b6bb28564"}
 {"id": 182032, "url": "http://dumalnpaqe.com", "discovery": "2024-07-03 12:04:15", "added": "2024-07-03 12:04:15", "target": "du(AE)", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "769d56138b3a6c8497b1470e615a32bd"}
 {"id": 182031, "url": "http://www.cercattori.it/", "discovery": "2024-07-03 11:30:18", "added": "2024-07-03 12:00:55", "target": "DHL", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "04828b97802a49ff725b028b25e8d367"}
-{"id": 182030, "url": "https://disneylog-in.com/", "discovery": "2024-07-03 11:30:16", "added": "2024-07-03 12:00:39", "target": "Disney+", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "b1b7e37407c6102d72ba39831ecce2e1"}
-{"id": 182029, "url": "https://ybm.xrd.mybluehost.me/TMS/BMB/RF/", "discovery": "2024-07-03 11:24:16", "added": "2024-07-03 11:59:59", "target": "DHL", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "78f360292575b73639a1a05c3958a0a0"}
