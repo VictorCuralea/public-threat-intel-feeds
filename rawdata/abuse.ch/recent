@@ -1,12 +1,19 @@
 ################################################################
 # ThreatFox IOCs: recent SHA256 hashes - CSV format            #
-# Last updated: 2024-07-04 19:39:27 UTC                        #
+# Last updated: 2024-07-05 10:56:03 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
 # "first_seen_utc","ioc_id","ioc_value","ioc_type","threat_type","fk_malware","malware_alias","malware_printable","last_seen_utc","confidence_level","reference","tags","anonymous","reporter"
+"2024-07-05 10:56:03", "1294739", "3fd2155ed05bcb8167b2d967ff8f140db66c646dbcef0ed6dc9d3b6685bd60d8", "sha256_hash", "payload", "win.rhysida", "None", "Rhysida", "", "75", "", "Rhysida Trojan", "0", "drb_ra"
+"2024-07-05 10:56:03", "1294740", "9f66708cb440a2c849457da724ae745263b94e9a30170568ed1a7004f0d405d6", "sha256_hash", "payload", "win.rhysida", "None", "Rhysida", "", "75", "", "Rhysida Trojan", "0", "drb_ra"
+"2024-07-05 10:56:03", "1294741", "7bff54dcaed42fbf825d0464b39106be6412822251cc7e68f12d1e8cccfc524e", "sha256_hash", "payload", "win.rhysida", "None", "Rhysida", "", "75", "", "Rhysida Trojan", "0", "drb_ra"
+"2024-07-05 10:56:03", "1294742", "6867e62933c94396e60754def16fe29d817a9671bf00c90e48d433a929b4c349", "sha256_hash", "payload", "win.rhysida", "None", "Rhysida", "", "75", "", "Rhysida Trojan", "0", "drb_ra"
+"2024-07-05 10:56:03", "1294743", "fd9e1f9284cdba556e9df2cb39f15bc38135b5a894d6bd271d8fd6882da5d42b", "sha256_hash", "payload", "win.rhysida", "None", "Rhysida", "", "75", "", "Rhysida Trojan", "0", "drb_ra"
+"2024-07-05 10:56:03", "1294744", "9db2c7d2b32abd9408aad9ca0891d405396ec09583ae463798ffa33599196eb8", "sha256_hash", "payload", "win.rhysida", "None", "Rhysida", "", "75", "", "Rhysida Trojan", "0", "drb_ra"
+"2024-07-05 10:56:03", "1294745", "960993e88b54f129eeae86860c400df1131333be6d2bbda271024985c8062dcb", "sha256_hash", "payload", "win.rhysida", "None", "Rhysida", "", "75", "", "Rhysida Trojan", "0", "drb_ra"
 "2024-07-04 19:39:27", "1294631", "c36f650adbd3d2274ff5b8a86874d845293041710e149e96b7cc11f584b22dd6", "sha256_hash", "payload", "win.phobos", "None", "Phobos", "", "100", "", "Phobos,Ransomware", "0", "nickkuechel"
 "2024-07-04 19:39:27", "1294632", "560eb48d1b2104f4dc3b1607bf42b35e35dfe81272675040df305e0dc85ce33e", "sha256_hash", "payload", "win.phobos", "None", "Phobos", "", "100", "", "Phobos,Ransomware", "0", "nickkuechel"
 "2024-07-04 19:39:27", "1294633", "8f8d76d157e5e4dbd7210cb19ce27b3734147c430a534143c97b90c1f5e35249", "sha256_hash", "payload", "win.phobos", "None", "Phobos", "2024-07-04 19:39:27", "100", "", "Phobos,Ransomware", "0", "nickkuechel"
@@ -199,4 +206,4 @@
 "2024-07-03 15:16:52", "1292972", "04ca4f891cf5c2c412c58340ec0de521f940f4b36c1b0b7f1aa1fdae080922aa", "sha256_hash", "payload", "win.formbook", "win.xloader", "Formbook", "", "95", "None", "None", "0", "Grim"
 "2024-07-03 15:16:49", "1292969", "898e1da2e8cd2b209e90b5aa9f662b13e96a412238059d9b925d023f00a43b2f", "sha256_hash", "payload", "win.coinminer", "None", "Coinminer", "", "95", "None", "None", "0", "Grim"
 "2024-07-03 15:16:46", "1292966", "62b1bf60394248d2c743ec6df0935d58e5009c9e04aab52da72ad712a57597b4", "sha256_hash", "payload", "win.dcrat", "DarkCrystal RAT", "DCRat", "", "95", "None", "None", "0", "Grim"
-# Number of entries: 192
+# Number of entries: 199
