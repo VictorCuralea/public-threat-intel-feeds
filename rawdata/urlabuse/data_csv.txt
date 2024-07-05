@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-05 18:00:01 UTC
+# UPDATE: 2024-07-05 19:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+184240, 2024-07-05 18:55:20, 2024-07-05 17:28:25, phishing, 1ce96f0a2ea09867bf23ffec9fea4a21, https://ipfs.io/ipfs/bafkreic7intzjnj746hcrgdbvs6xeg6tzdr2nen5jupl3nnpg7lucql4qy
+184239, 2024-07-05 18:30:17, 2024-07-05 18:30:17, phishing, 4b5f4d095eb4765c22fc43eb2a47c894, http://zynsoraxdefl.pages.dev
 184238, 2024-07-05 17:58:17, 2024-07-05 17:58:17, phishing, c3183a7c93230c0b9f156b1bebb8e9ca, http://smartreviseweb3.pages.dev
 184237, 2024-07-05 17:46:11, 2024-07-05 17:46:11, phishing, 2f1b99572191761b1637fe383e79b528, http://06tian-olu07auth-maggie07.pages.dev
 184236, 2024-07-05 17:32:37, 2024-07-05 17:32:37, malware, 5559fd9c412844e6a3370a0be449ac3e, http://77.91.77.81/lend/leg222.exe
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 183743, 2024-07-05 09:24:46, 2024-07-05 09:24:46, malware, 9e596603641b433199b60495f63f2e28, http://117.248.169.219:38470/i
 183742, 2024-07-05 09:24:44, 2024-07-05 09:24:44, malware, 0f6fd1bf21d242bdb38b4a6742ca87e8, http://117.248.169.219:38470/bin.sh
 183741, 2024-07-05 09:22:17, 2024-07-05 09:22:17, malware, e27ff0d4448c4302bb3be004b8ed1d56, http://117.217.82.17:53361/bin.sh
-183740, 2024-07-05 09:22:04, 2024-07-05 09:22:04, malware, 6d6cc259be0349d3ae05f2b0ee729d35, http://117.213.246.130:43904/bin.sh
-183739, 2024-07-05 09:20:32, 2024-07-05 09:20:32, malware, c1ac67d7a17542aa85a788c9ede4d073, http://117.194.163.3:56207/bin.sh
