@@ -6,9 +6,16 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-05 14:00:02 UTC
+# UPDATE: 2024-07-05 15:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+184020, 2024-07-05 14:32:17, 2024-07-05 14:32:17, phishing, 5027ae499cc66afd3d4f238775f42dad, http://usjyosckpe.top
+184019, 2024-07-05 14:32:17, 2024-07-05 14:32:17, phishing, fd8a31ef494128162c0be974cb3a2bbc, http://uscrlkgbth.top
+184018, 2024-07-05 14:30:16, 2024-07-05 14:30:16, phishing, 6c42c304d5620715a74adaa40a386782, http://uspvsicnrk.top
+184017, 2024-07-05 14:28:15, 2024-07-05 14:28:15, phishing, a779f28efde9a02e3fc5b057f70692e6, http://uskeqgtmuy.top
+184016, 2024-07-05 14:28:15, 2024-07-05 14:28:15, phishing, 6183fd0b65d7ee3033e720c6568fc2b2, http://usecrvwkoh.top
+184015, 2024-07-05 14:28:15, 2024-07-05 14:28:15, phishing, ace29b6feeca25fd722efc56a20c5b79, http://usqmspdoay.top
+184014, 2024-07-05 14:16:15, 2024-07-05 14:16:15, phishing, 15dc7994f620ac618a1a24e1b554f255, https://docs.google.com/presentation/d/e/2PACX-1vSOaxbAJyI-W6Z_oasYn0X6lnngwEEci188QnkZGR4qtLkCFhwztxDDDScZmGHRS0l0EV8lnhGA6CLd/pub?start=false
 184013, 2024-07-05 13:42:11, 2024-07-05 13:42:11, phishing, d599836ac9a10fc6efc611905a34568a, http://karaknetwork-rpcdebugtool.pages.dev
 184012, 2024-07-05 13:38:13, 2024-07-05 13:38:13, phishing, f5fa7c4161480b510b355796e04901e2, http://karak-network-apifix.pages.dev
 184011, 2024-07-05 13:32:55, 2024-07-05 13:32:55, malware, 1700673d7de04029ab57f73ffd672b0e, http://93.123.85.246/Okami.x86
@@ -502,10 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 183522, 2024-07-05 01:25:30, 2024-07-05 01:25:30, malware, b0661d9608e04bf99feef11595cc2432, http://59.97.124.144:45136/i
 183521, 2024-07-05 01:25:27, 2024-07-05 01:25:27, malware, 6ccb74995a1d4aa9bac2a1467a0d2024, http://59.89.9.26:47278/Mozi.m
 183520, 2024-07-05 01:25:25, 2024-07-05 01:25:25, malware, a22cc9e55b2746b1bf9d57e3c7ef64d9, http://59.89.10.103:43176/i
-183519, 2024-07-05 01:25:23, 2024-07-05 01:25:23, malware, 38e10e666bcd4df7836c05f2425eb35f, http://59.89.10.103:43176/bin.sh
-183518, 2024-07-05 01:25:22, 2024-07-05 01:25:22, malware, 31b96866f3234f24b5772dcd0be65630, http://59.178.252.52:45205/Mozi.m
-183517, 2024-07-05 01:25:03, 2024-07-05 01:25:03, malware, 681c7f1395c94f2493d6dd015ea8cae3, http://42.238.135.32:52099/i
-183516, 2024-07-05 01:25:02, 2024-07-05 01:25:02, malware, e95e469c3493413e84ffa96b62faa718, http://42.238.135.32:52099/bin.sh
-183515, 2024-07-05 01:24:50, 2024-07-05 01:24:50, malware, a0ea77706fd34ed59b4f7e798be4d0b9, http://42.226.73.138:58626/i
-183514, 2024-07-05 01:24:49, 2024-07-05 01:24:49, malware, 1baa4420ef3043d983b84389e4432078, http://42.226.69.199:54818/bin.sh
-183513, 2024-07-05 01:24:47, 2024-07-05 01:24:47, malware, 1c4d07b648a64f0d86222bcf6590787d, http://42.224.122.80:57626/Mozi.m
