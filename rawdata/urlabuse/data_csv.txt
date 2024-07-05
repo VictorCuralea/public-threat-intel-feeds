@@ -6,9 +6,14 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-05 08:00:02 UTC
+# UPDATE: 2024-07-05 09:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+183729, 2024-07-05 08:52:13, 2024-07-05 08:52:13, phishing, 7e4b37a2d333d3bcf8c11fbe3192cdc8, https://bt-104543.weeblysite.com/
+183728, 2024-07-05 08:42:15, 2024-07-05 08:42:15, phishing, 439e3ba44245fb1e10ed955c735ffb2d, https://bt-106784.weeblysite.com/
+183727, 2024-07-05 08:30:11, 2024-07-05 08:30:11, phishing, 1d8a67f327d07e5755e73e1e199a1d9b, http://cimico-07be84nkxk4ns3h3nkwnsbeiwsnwmssm.pages.dev
+183726, 2024-07-05 08:26:13, 2024-07-05 08:26:13, phishing, 44605f4c9f48fdfd763929a60e350c25, http://worker-red-morning-6762.viewnow939.workers.dev
+183725, 2024-07-05 08:14:21, 2024-07-05 08:14:21, phishing, f9b736531dfa7c213ae9df601e62bce5, http://tpzc.app
 183724, 2024-07-05 07:58:16, 2024-07-05 07:58:16, phishing, bf87d0e67cd23b649e060d44e119dd82, http://holdings-earnings.pages.dev
 183723, 2024-07-05 07:34:10, 2024-07-05 07:34:10, phishing, cd838c09d4bd18e4313357692a1df012, http://rojdingserijridhsjbalsisgser04.pages.dev
 183722, 2024-07-05 07:31:35, 2024-07-05 07:31:35, malware, d42f650af8484b2aa6e4fe17c723a2c4, http://85.28.47.30/69934896f997d5bb/vcruntime140.dll
@@ -504,8 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 183231, 2024-07-04 17:29:59, 2024-07-04 17:29:59, malware, 3cba07c8733f4e5c81806c913e7e809a, http://61.3.160.201:53044/i
 183230, 2024-07-04 17:29:01, 2024-07-04 17:29:01, malware, 21bbbf092f7d4299ae19eacc4a936624, http://59.97.214.157:39925/i
 183229, 2024-07-04 17:28:59, 2024-07-04 17:28:59, malware, 596c0675c4d4403580a23c2e3e9b93be, http://59.97.126.10:33047/i
-183228, 2024-07-04 17:28:57, 2024-07-04 17:28:57, malware, 6265a684028f45a2ab8cf7380ca7364d, http://59.97.122.71:59431/bin.sh
-183227, 2024-07-04 17:28:47, 2024-07-04 17:28:47, malware, b478c0a14cdd42ba8d15ef2fb20895ae, http://59.97.121.224:38382/i
-183226, 2024-07-04 17:28:05, 2024-07-04 17:28:05, malware, d243fa5da1e74c47b6070c52ca97ed94, http://59.89.231.161:57524/i
-183225, 2024-07-04 17:27:53, 2024-07-04 17:27:53, malware, e61d01544abc4258ab0034a645d8d1b1, http://59.89.1.43:46308/bin.sh
-183224, 2024-07-04 17:27:31, 2024-07-04 17:27:31, malware, 85ff9b14d7a549a28c64e41f9ea3ce0a, http://59.88.125.22:47912/i
