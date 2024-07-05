@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-05 20:00:01 UTC
+# UPDATE: 2024-07-05 21:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+184303, 2024-07-05 20:30:15, 2024-07-05 20:30:15, phishing, a6868e0410e31c2af04306b51f7df4f7, http://pcomainchaindapp.pages.dev
+184302, 2024-07-05 20:08:11, 2024-07-05 20:08:11, phishing, 95733b14e5339c89024001ac8a2cceee, http://loneidrinve048934x2894ios.pages.dev
 184301, 2024-07-05 19:25:28, 2024-07-05 19:25:28, malware, 815190d34b794bf8abf9cb245a14e7f5, http://61.53.252.2:55927/bin.sh
 184300, 2024-07-05 19:25:26, 2024-07-05 19:25:26, malware, a1e9aa9c403046228cf862058f63625c, http://61.52.156.215:57346/i
 184299, 2024-07-05 19:25:25, 2024-07-05 19:25:25, malware, 01d8ec5fdf8e40a490be96a61a1378ad, http://61.52.156.215:57346/bin.sh
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 183806, 2024-07-05 11:20:29, 2024-07-05 11:20:29, malware, b4ed89d001a9405cb8a7f5a150e2c6bb, http://112.248.111.86:57411/i
 183805, 2024-07-05 11:20:20, 2024-07-05 11:20:20, malware, d263e59f477943378dc3c5dc8f10632b, http://112.248.111.86:57411/bin.sh
 183804, 2024-07-05 11:20:18, 2024-07-05 11:20:18, malware, c06f760e29f84f2ea1ab83c388175ff3, http://112.247.26.157:33021/Mozi.m
-183803, 2024-07-05 11:20:13, 2024-07-05 11:20:13, malware, 13350ee7fe104d3cbf60eda840e117e9, http://112.239.123.122:59231/i
-183802, 2024-07-05 11:20:10, 2024-07-05 11:20:10, malware, eb1b72ee9c0144bd95f7b4f9a4dccd2d, http://112.239.123.122:59231/bin.sh
