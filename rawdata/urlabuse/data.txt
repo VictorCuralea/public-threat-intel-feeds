@@ -6,8 +6,13 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-05 06:00:01 UTC
+# UPDATE: 2024-07-05 07:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 183649, "url": "https://craonaingie.site/4da1c15bd536ff1/login.php", "discovery": "2024-07-05 06:26:17", "added": "2024-07-05 06:40:37", "target": "Orange", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "6fd2357bbcd5327b11d2c82954cfef65"}
+{"id": 183648, "url": "https://ipfs.io/ipfs/bafybeia5oqepzhi2ydfuix44zgeixb3hpi4syf4fp76p5iz6xqhffleu2u/", "discovery": "2024-07-05 06:38:40", "added": "2024-07-05 06:38:40", "target": "Generic Email", "reporter": "urlabuse", "AbuseType": "phishing", "UUID": "e062b9049261d9e56ead71795b6a82a3"}
+{"id": 183647, "url": "https://cloudflare-ipfs.com/ipfs/bafybeia5oqepzhi2ydfuix44zgeixb3hpi4syf4fp76p5iz6xqhffleu2u/", "discovery": "2024-07-05 06:25:28", "added": "2024-07-05 06:38:14", "target": "Generic Email", "reporter": "anonymous", "AbuseType": "phishing", "UUID": "6b638f2bfbffecdc8abc2d7b03eec0d8"}
+{"id": 183646, "url": "https://oscropodium.cc/aMiosM/feedback.php", "discovery": "2024-07-05 06:31:56", "added": "2024-07-05 06:36:50", "target": "Generic Phishing", "reporter": "anonymous", "AbuseType": "phishing", "UUID": "aca3283b5dce95f8994dbcd2508c6382"}
+{"id": 183645, "url": "https://domainemmsonline.weebly.com/", "discovery": "2024-07-05 06:26:15", "added": "2024-07-05 06:26:15", "target": "Other", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "59bf110d87871be13a611e5fc1ec80ef"}
 {"id": 183644, "url": "http://61.54.57.205:53720/i", "discovery": "2024-07-05 05:29:57", "added": "2024-07-05 05:29:57", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "d1b20782489a4d3582e0a26e8d18be77"}
 {"id": 183643, "url": "http://61.54.253.56:47031/i", "discovery": "2024-07-05 05:29:55", "added": "2024-07-05 05:29:55", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "96f1447033744ae396ed8d5925a3387e"}
 {"id": 183642, "url": "http://61.3.0.135:60178/i", "discovery": "2024-07-05 05:29:42", "added": "2024-07-05 05:29:42", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "26d8e146c54e47f8920b3039ce00c6b3"}
@@ -503,8 +508,3 @@
 {"id": 183151, "url": "https://storage.testnet.cere.network/170353/baebb4ihhi5tfhcymuo42kwwz7oywiuyjoxmzedijoekcz3s57cm3royh6u", "discovery": "2024-07-04 16:06:31", "added": "2024-07-04 16:06:31", "target": "Microsoft", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "40897e697124067a083b6b0a2d80f037"}
 {"id": 183150, "url": "https://pub-79054e2407ed4d948cfe2353a779d202.r2.dev/confirm.html", "discovery": "2024-07-04 16:06:25", "added": "2024-07-04 16:06:25", "target": "Microsoft", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "d7b7b3c2d99cd220b9bf02861b4990a7"}
 {"id": 183149, "url": "https://pub-f350397a253c48a5aa1ad4e92dc5f4e9.r2.dev/Alldomain-index.html", "discovery": "2024-07-04 16:06:21", "added": "2024-07-04 16:06:21", "target": "Microsoft", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "367cda9c72bd9291cb7665d6adfce347"}
-{"id": 183148, "url": "https://pub-84f841c1cbc3400d93d3ee7215e6f709.r2.dev/li537528352.html", "discovery": "2024-07-04 16:06:16", "added": "2024-07-04 16:06:16", "target": "Microsoft", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "73bdbcc7826b80e4a266ecc73c0ac093"}
-{"id": 183147, "url": "https://pub-722720be67154192a1102b2cf085d306.r2.dev/askm.html", "discovery": "2024-07-04 16:06:10", "added": "2024-07-04 16:06:10", "target": "Microsoft", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "034957a2fc5f23efd1d3995f9eef8ace"}
-{"id": 183146, "url": "https://pub-722720be67154192a1102b2cf085d306.r2.dev/mask1.html", "discovery": "2024-07-04 16:06:10", "added": "2024-07-04 16:06:10", "target": "Microsoft", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "0da53cd2396bbb475187e9b89fb763ef"}
-{"id": 183145, "url": "https://pub-d632e1a48ad344649f13deeb4ecf9a3a.r2.dev/artt.html", "discovery": "2024-07-04 16:06:06", "added": "2024-07-04 16:06:06", "target": "Microsoft", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "85b09f38e80a4ff425e9228953eacbfd"}
-{"id": 183144, "url": "https://wwwservicemsnlive-44741196.hubspotpagebuilder.com/outlive", "discovery": "2024-07-04 16:05:39", "added": "2024-07-04 16:05:39", "target": "Microsoft", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "58a6401b496e062b8b743d6d994b380f"}
