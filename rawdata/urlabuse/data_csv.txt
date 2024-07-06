@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-06 06:00:01 UTC
+# UPDATE: 2024-07-06 07:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+184685, 2024-07-06 06:48:17, 2024-07-06 06:48:17, phishing, 693d716655f8dcc3e384374c0d75a24e, http://flaree.evmtrustline.us
+184684, 2024-07-06 06:10:19, 2024-07-06 06:10:19, phishing, 9bb182b397ab5aa45e68b7cbaa662f85, http://kkci36x5.cc
 184683, 2024-07-06 05:32:17, 2024-07-06 05:32:17, phishing, fce0bbea2b84f4621639bdfac2b36ada, http://mail.ys6wgr.x6ahd.biz
 184682, 2024-07-06 05:23:29, 2024-07-06 05:23:29, malware, c0fcd11676da4a87a9838038230ff008, http://91.231.203.48:36856/Mozi.m
 184681, 2024-07-06 05:23:29, 2024-07-06 05:23:29, malware, 69856cefe3144423b34ed090af081710, http://61.54.56.53:36283/i
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 184188, 2024-07-05 17:26:15, 2024-07-05 17:26:15, phishing, 0185ebd0b38d504d52b4a780144ab9c2, http://alvaralop.pages.dev
 184187, 2024-07-05 17:26:14, 2024-07-05 17:26:14, malware, 22283f73a50d4584a52e4a8523ec513a, http://117.253.99.113:54470/i
 184186, 2024-07-05 17:26:11, 2024-07-05 17:26:11, malware, 62e0d74fa8d947eda5abc7c4751d02c7, http://117.253.99.113:54470/bin.sh
-184185, 2024-07-05 17:26:09, 2024-07-05 17:26:09, malware, 586160e6fe234b9aacdad0bed1219f4c, http://117.253.2.118:60615/bin.sh
-184184, 2024-07-05 17:25:44, 2024-07-05 17:25:44, malware, 4ada0733597245c0b6e5e71c07b2399e, http://117.252.170.254:40058/bin.sh
