@@ -6,8 +6,10 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-06 18:00:01 UTC
+# UPDATE: 2024-07-06 19:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 185316, "url": "http://app-auth.pages.dev", "discovery": "2024-07-06 18:36:15", "added": "2024-07-06 18:36:15", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "97219a13987e046453a818d38b0cf687"}
+{"id": 185315, "url": "http://shamilah-nurmala-liveroom.4pp4u.com", "discovery": "2024-07-06 18:34:12", "added": "2024-07-06 18:34:12", "target": "Telegram", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "2f9fdfb4a66b283ab31a94a0c346fc28"}
 {"id": 185314, "url": "https://inter.cybepol.online", "discovery": "2024-07-06 17:48:12", "added": "2024-07-06 17:48:12", "target": "Interpol", "reporter": "urlabuse", "AbuseType": "phishing", "UUID": "48fc7490cafd650a5dd6394ebe7cef6e"}
 {"id": 185313, "url": "http://61.54.61.71:37987/", "discovery": "2024-07-06 17:27:54", "added": "2024-07-06 17:27:54", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "58bde84dc997442c82ebeeb40fd60278"}
 {"id": 185312, "url": "http://61.54.50.206:50061/Mozi.m", "discovery": "2024-07-06 17:27:52", "added": "2024-07-06 17:27:52", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "fccb948b78e74ef795359bea492d9c2c"}
@@ -506,5 +508,3 @@
 {"id": 184819, "url": "http://61.53.87.83:40514/i", "discovery": "2024-07-06 09:31:05", "added": "2024-07-06 09:31:05", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "66381dee242147ed839100b3dc560d6e"}
 {"id": 184818, "url": "http://61.53.87.83:40514/bin.sh", "discovery": "2024-07-06 09:31:04", "added": "2024-07-06 09:31:04", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "8ed686ad572542b5bd175204fd8abe04"}
 {"id": 184817, "url": "http://61.53.74.71:39159/i", "discovery": "2024-07-06 09:31:02", "added": "2024-07-06 09:31:02", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "001508b9b8624c47bbff4e5deffac0d7"}
-{"id": 184816, "url": "http://61.53.74.71:39159/bin.sh", "discovery": "2024-07-06 09:31:01", "added": "2024-07-06 09:31:01", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "db63eea500124e57848d68ef38539f2c"}
-{"id": 184815, "url": "http://61.0.63.19:41173/Mozi.m", "discovery": "2024-07-06 09:30:59", "added": "2024-07-06 09:30:59", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "29748b218e4d440aa0486b1c450d66b5"}

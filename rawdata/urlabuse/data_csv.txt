@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-06 18:00:01 UTC
+# UPDATE: 2024-07-06 19:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+185316, 2024-07-06 18:36:15, 2024-07-06 18:36:15, phishing, 97219a13987e046453a818d38b0cf687, http://app-auth.pages.dev
+185315, 2024-07-06 18:34:12, 2024-07-06 18:34:12, phishing, 2f9fdfb4a66b283ab31a94a0c346fc28, http://shamilah-nurmala-liveroom.4pp4u.com
 185314, 2024-07-06 17:48:12, 2024-07-06 17:48:12, phishing, 48fc7490cafd650a5dd6394ebe7cef6e, https://inter.cybepol.online
 185313, 2024-07-06 17:27:54, 2024-07-06 17:27:54, malware, 58bde84dc997442c82ebeeb40fd60278, http://61.54.61.71:37987/
 185312, 2024-07-06 17:27:52, 2024-07-06 17:27:52, malware, fccb948b78e74ef795359bea492d9c2c, http://61.54.50.206:50061/Mozi.m
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 184819, 2024-07-06 09:31:05, 2024-07-06 09:31:05, malware, 66381dee242147ed839100b3dc560d6e, http://61.53.87.83:40514/i
 184818, 2024-07-06 09:31:04, 2024-07-06 09:31:04, malware, 8ed686ad572542b5bd175204fd8abe04, http://61.53.87.83:40514/bin.sh
 184817, 2024-07-06 09:31:02, 2024-07-06 09:31:02, malware, 001508b9b8624c47bbff4e5deffac0d7, http://61.53.74.71:39159/i
-184816, 2024-07-06 09:31:01, 2024-07-06 09:31:01, malware, db63eea500124e57848d68ef38539f2c, http://61.53.74.71:39159/bin.sh
-184815, 2024-07-06 09:30:59, 2024-07-06 09:30:59, malware, 29748b218e4d440aa0486b1c450d66b5, http://61.0.63.19:41173/Mozi.m
