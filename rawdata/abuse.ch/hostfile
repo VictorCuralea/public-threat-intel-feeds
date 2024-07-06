@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-07-06 06:45:56 UTC                        #
+# Last updated: 2024-07-06 10:44:46 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	113.125.179.13
+127.0.0.1	itechnetworkbd.com
 127.0.0.1	rejgroups.com
 127.0.0.1	br.suicide2024.xyz
 127.0.0.1	assignmentygassdyw.shop
@@ -7673,6 +7675,4 @@
 127.0.0.1	msprojectserver.com
 127.0.0.1	wmpupdate.com
 127.0.0.1	micros0fti.com
-127.0.0.1	updataus.com
-127.0.0.1	ns.tqrjfru.cn
 # Number of entries: 7669
