@@ -6,9 +6,14 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-06 20:00:01 UTC
+# UPDATE: 2024-07-06 21:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+185386, 2024-07-06 20:44:13, 2024-07-06 20:44:13, phishing, 921bdd1a996dcfc642961014904b0cd4, https://jcy.tor.mybluehost.me/-/FFS/41256998015633201792710/a9706d31a6c224189731966897ba4976/
+185385, 2024-07-06 20:42:22, 2024-07-06 20:42:22, phishing, 4601a70ec1eb1185e4e24c25f810c938, https://tuckawayshores.com/d6f4b1d3f0/v3/oevlogin/ui/app/auth/flow/swisspass-login-uid-pw-rem/username
+185384, 2024-07-06 20:42:22, 2024-07-06 20:42:22, phishing, 12f2e6aad260052c0f57943b57dcf46e, https://bendigobrokers.com.au/wp-sql.php
+185383, 2024-07-06 20:42:17, 2024-07-06 20:42:17, phishing, cdb65ca5b634389641c7cfd009193302, https://jcy.tor.mybluehost.me/-/FFS/41256998015633201792710/f76addeb715c171c64fa5aa1c04389e1/
+185382, 2024-07-06 20:34:13, 2024-07-06 20:34:13, phishing, 1708cd925ce823008be5263660cf6bb0, http://jdklasiowioeieuriefkfdlakdlksdjfhdlajslkdlkfjghldaioiwophp.pages.dev
 185381, 2024-07-06 19:46:13, 2024-07-06 19:46:13, phishing, bdac1ec9a51fc18f1812a2d46340ce55, http://ahinmakdhaewa03.pages.dev
 185380, 2024-07-06 19:25:04, 2024-07-06 19:25:04, malware, de0370dd327d4d9f8ec2f1b7aa5fb642, http://61.53.88.112:34603/Mozi.m
 185379, 2024-07-06 19:25:03, 2024-07-06 19:25:03, malware, 737507f2a7ca4ae0833d56884dde08a5, http://61.53.87.83:40514/
@@ -504,8 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 184889, 2024-07-06 11:21:28, 2024-07-06 11:21:28, malware, 71a6281c07e649cb90b22cade6690ce5, http://117.194.220.33:51417/bin.sh
 184888, 2024-07-06 11:21:05, 2024-07-06 11:21:05, malware, 360cc881b1e84a22867fc65a8c5fe103, http://115.58.113.205:53599/bin.sh
 184887, 2024-07-06 11:21:04, 2024-07-06 11:21:04, malware, 4ec36afeb9594f2686412b12ded12ea7, http://115.56.125.17:33367/bin.sh
-184886, 2024-07-06 11:21:02, 2024-07-06 11:21:02, malware, 0d88a69895474437aaabda81f17e0397, http://115.55.225.16:58614/bin.sh
-184885, 2024-07-06 11:21:00, 2024-07-06 11:21:00, malware, 36c70418cbb847bbb9bd93d3a981932f, http://115.55.192.50:36303/i
-184884, 2024-07-06 11:20:58, 2024-07-06 11:20:58, malware, 3ca479cd3c93431f942332abe86e5f0e, http://115.55.192.50:36303/bin.sh
-184883, 2024-07-06 11:20:23, 2024-07-06 11:20:23, malware, ad3c4f2b989a470a960e613dfba7aab6, http://113.221.16.131:46168/Mozi.a
-184882, 2024-07-06 11:20:17, 2024-07-06 11:20:17, malware, ec07bd8206c846e7b23c7bee0c9b6087, http://112.248.82.96:35809/i
