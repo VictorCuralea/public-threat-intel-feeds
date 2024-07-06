@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-06 22:00:01 UTC
+# UPDATE: 2024-07-06 23:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+185435, 2024-07-06 22:46:12, 2024-07-06 22:46:12, phishing, cd86815e6cf6d4f972624b3df0c3d736, http://lingering-surf-037c.6b75f5749df48e2e127a70.workers.dev
+185434, 2024-07-06 22:02:54, 2024-07-06 22:02:54, phishing, 06debbf0d125f7849b50bc2f1d1c2872, https://free.rammorningstar.loseyourip.com/
 185433, 2024-07-06 21:52:17, 2024-07-06 21:52:17, phishing, 6668641df92f76ac298f0b1bc2a804b4, http://hhh123.dynamic-dns.net
 185432, 2024-07-06 21:39:33, 2024-07-06 20:42:24, phishing, 7406a3632795506e64beb096eb29c663, https://zuverlassigkeit.com/aktualisierung/
 185431, 2024-07-06 21:24:10, 2024-07-06 21:24:10, malware, 84f52d7de90f41d4ab70b5e835ab7060, http://61.52.74.222:57307/i
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 184938, 2024-07-06 11:30:31, 2024-07-06 11:30:31, malware, 0ffb5f5fea444e328abf11fe5e683418, http://175.150.245.41:36252/
 184937, 2024-07-06 11:30:18, 2024-07-06 11:30:18, malware, bca7c8568dbb4ec186cae14bc253ecc3, http://171.36.220.219:41504/
 184936, 2024-07-06 11:30:17, 2024-07-06 11:30:17, phishing, a4c78a47abd09ed253208dd7bba1d3ed, https://kc.tokenpokcn.com/
-184935, 2024-07-06 11:30:16, 2024-07-06 11:30:16, malware, 2515edc6d9f1460081d57eee9952193a, http://125.44.25.122:57077/i
-184934, 2024-07-06 11:29:56, 2024-07-06 11:29:56, malware, 3c620d9f7ac34204a91906243a83ac55, http://123.5.179.106:48400/i
