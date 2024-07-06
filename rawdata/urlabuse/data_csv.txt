@@ -6,9 +6,14 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-06 16:00:01 UTC
+# UPDATE: 2024-07-06 17:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+185248, 2024-07-06 16:56:10, 2024-07-06 16:56:10, phishing, 5f5a35b79727c6a5e019de257ddd7d7a, http://h0egwujayomasaremyceue03.pages.dev
+185247, 2024-07-06 16:02:39, 2024-07-06 16:02:39, phishing, 4e93da7c9226ded0e2b68dff98547228, https://tele-en-lodox-dewe.vercel.app/
+185246, 2024-07-06 16:02:37, 2024-07-06 16:02:37, phishing, c0a699927777e22a752eb55207bde9e8, https://telegramtt.com/
+185245, 2024-07-06 16:02:24, 2024-07-06 16:02:24, phishing, 17816d28b221aa6e7c5ae839811f779f, http://tw2.gonewest.topmoto.pl/
+185244, 2024-07-06 16:02:12, 2024-07-06 16:02:12, phishing, c3c4ec4b5e0e2c2b8f8e208721b4f1f7, http://telegram-sex-btx.pages.dev/
 185243, 2024-07-06 15:26:23, 2024-07-06 15:26:23, malware, db3b2ec298d440aab8a9c76853626496, http://61.3.133.89:36319/i
 185242, 2024-07-06 15:26:21, 2024-07-06 15:26:21, malware, 1737a59c80604309bb7bebddc6eb75b2, http://61.3.133.89:36319/bin.sh
 185241, 2024-07-06 15:26:19, 2024-07-06 15:26:19, malware, abfff8b705c1466999a4a5f56e5397dd, http://61.3.133.156:39854/i
@@ -504,8 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 184751, 2024-07-06 09:24:05, 2024-07-06 09:24:05, malware, 757e429290e8457a9de2ac0658dc5d9e, http://117.220.146.230:43679/bin.sh
 184750, 2024-07-06 09:23:31, 2024-07-06 09:23:31, malware, 5cd20cac2e444ad7a62957373f2139db, http://117.215.243.39:54530/i
 184749, 2024-07-06 09:22:58, 2024-07-06 09:22:58, malware, 41c2b7d1b80c48d5a18f8164460fcf6d, http://117.208.212.19:38057/bin.sh
-184748, 2024-07-06 09:22:26, 2024-07-06 09:22:26, malware, 7396d914247d4d18a42ce6c9bcdb1f2b, http://117.207.28.239:52285/i
-184747, 2024-07-06 09:22:04, 2024-07-06 09:22:04, malware, fd433460d580460693dd099e579b7f0f, http://117.206.176.9:35104/i
-184746, 2024-07-06 09:21:22, 2024-07-06 09:21:22, malware, 7ec0106839714bfd8cb82f765ced451b, http://117.196.165.109:54041/i
-184745, 2024-07-06 09:21:13, 2024-07-06 09:21:13, malware, 6ccbe895932a410ba006cb7228b8b169, http://117.196.165.109:54041/bin.sh
-184744, 2024-07-06 09:20:44, 2024-07-06 09:20:44, malware, 64c4992852eb4398bf8182b2fdd9f8e0, http://117.194.174.239:55780/bin.sh
