@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-07-06 10:44:46 UTC                        #
+# Last updated: 2024-07-06 13:15:38 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	civilizzzationo.shop
 127.0.0.1	113.125.179.13
 127.0.0.1	itechnetworkbd.com
 127.0.0.1	rejgroups.com
@@ -7667,4 +7668,4 @@
 127.0.0.1	app.to-kgb.ru
 127.0.0.1	nifty-clarke.137-184-80-125.plesk.page
 127.0.0.1	qimen.top
-# Number of entries: 7661
+# Number of entries: 7662
