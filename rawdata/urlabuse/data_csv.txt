@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-06 02:00:01 UTC
+# UPDATE: 2024-07-06 03:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+184537, 2024-07-06 02:02:15, 2024-07-06 02:02:15, phishing, c25d6b2887311ffc8b6a14d529bca6f8, http://covalleymon.pages.dev
 184536, 2024-07-06 01:26:06, 2024-07-06 01:26:06, malware, 925fdc1eb6564fa1b68acefcf1edc755, http://91.239.77.159:43301/i
 184535, 2024-07-06 01:26:04, 2024-07-06 01:26:04, malware, 0d3281330f4a40b3a4438f554eb99593, http://61.1.237.191:51908/i
 184534, 2024-07-06 01:26:02, 2024-07-06 01:26:02, malware, 371e7dc766084a93a4ab22e04cf4359e, http://61.1.237.191:51908/bin.sh
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 184040, 2024-07-05 15:21:34, 2024-07-05 15:21:34, malware, c65a37a9a38b416689cb4194f6c8cf71, http://115.55.76.149:56645/bin.sh
 184039, 2024-07-05 15:21:32, 2024-07-05 15:21:32, malware, 4bfe44521d724ce887806f3160644cce, http://115.55.250.238:54871/i
 184038, 2024-07-05 15:21:30, 2024-07-05 15:21:30, malware, de7482f8e5954c539c7a92735a61b47f, http://115.55.228.208:56463/i
-184037, 2024-07-05 15:21:28, 2024-07-05 15:21:28, malware, f513838b95a24b8e8fc24e9376696d5d, http://115.55.228.208:56463/bin.sh
