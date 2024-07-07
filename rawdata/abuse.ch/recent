@@ -1,14 +1,37 @@
 ################################################################
 # ThreatFox IOCs: recent SHA256 hashes - CSV format            #
-# Last updated: 2024-07-07 16:47:00 UTC                        #
+# Last updated: 2024-07-07 16:56:07 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
 # "first_seen_utc","ioc_id","ioc_value","ioc_type","threat_type","fk_malware","malware_alias","malware_printable","last_seen_utc","confidence_level","reference","tags","anonymous","reporter"
-"2024-07-07 16:47:00", "1295659", "bc2d9e8fed9f7a2daa82fff0429e67b40a50a43f3f1014240ddf4930b7e8c174", "sha256_hash", "payload", "win.phobos", "None", "Phobos", "", "100", "", "Phobos,Ransomware", "0", "nickkuechel"
+"2024-07-07 16:56:07", "1295676", "b8e01564b3cb1cbef42d0622112d53bcff11b3ae25baf684c1953f0a1c9c9221", "sha256_hash", "payload", "win.remcos", "RemcosRAT,Remvio,Socmer", "Remcos", "", "100", "", "RAT,Remcos", "0", "nickkuechel"
+"2024-07-07 16:56:07", "1295677", "c09eb8a1ab2aefadcbe898040b91f19035a69f38c3c4e5bde1c8aa11da2c9589", "sha256_hash", "payload", "win.remcos", "RemcosRAT,Remvio,Socmer", "Remcos", "", "100", "", "RAT,Remcos", "0", "nickkuechel"
+"2024-07-07 16:56:07", "1295678", "d5dd7e6d9b9f155e643935b33f64dfc7d5c92f0ab3c29c2cff145e56afce8b32", "sha256_hash", "payload", "win.remcos", "RemcosRAT,Remvio,Socmer", "Remcos", "", "100", "", "RAT,Remcos", "0", "nickkuechel"
+"2024-07-07 16:56:07", "1295679", "48b535dbe2491b5fa3739f837219cf7d91a7598d9d0925c8048d32bb30ed3e68", "sha256_hash", "payload", "win.remcos", "RemcosRAT,Remvio,Socmer", "Remcos", "", "100", "", "RAT,Remcos", "0", "nickkuechel"
+"2024-07-07 16:56:07", "1295680", "e577d8d262b59c0ae162505b5a4a7af49879e51f7e22b9584042516184da4c13", "sha256_hash", "payload", "win.remcos", "RemcosRAT,Remvio,Socmer", "Remcos", "", "100", "", "RAT,Remcos", "0", "nickkuechel"
+"2024-07-07 16:56:07", "1295681", "ffb556595b7dcb1146b12054d8e3312857aa9ccd1581ed9d13c5cc04af162577", "sha256_hash", "payload", "win.remcos", "RemcosRAT,Remvio,Socmer", "Remcos", "", "100", "", "RAT,Remcos", "0", "nickkuechel"
+"2024-07-07 16:56:07", "1295682", "f8e8ba7e99ff779e9ba1f52447220b90887dce703bae4b8da961a77f1da672a0", "sha256_hash", "payload", "win.remcos", "RemcosRAT,Remvio,Socmer", "Remcos", "", "100", "", "RAT,Remcos", "0", "nickkuechel"
+"2024-07-07 16:56:07", "1295683", "68fe825525767d0aab2ba92e91eab4ce2496f10aa76e080d46e899bf444e6cff", "sha256_hash", "payload", "win.remcos", "RemcosRAT,Remvio,Socmer", "Remcos", "", "100", "", "RAT,Remcos", "0", "nickkuechel"
+"2024-07-07 16:56:07", "1295684", "298fdeef59b45156def0f0a22d8ebd398fa614bcf9b7ee24258c0c33179d206c", "sha256_hash", "payload", "win.remcos", "RemcosRAT,Remvio,Socmer", "Remcos", "", "100", "", "RAT,Remcos", "0", "nickkuechel"
+"2024-07-07 16:56:06", "1295662", "9efdd1b31c2322731f3cbec38852cc6e7319d99115dc692ebb413c6cbc762a06", "sha256_hash", "payload", "win.remcos", "RemcosRAT,Remvio,Socmer", "Remcos", "", "100", "", "RAT,Remcos", "0", "nickkuechel"
+"2024-07-07 16:56:06", "1295663", "e6817cfed2b621a7695adafa26c08460f4ac38a0f2a8c5cdc5906d69672d3ffa", "sha256_hash", "payload", "win.remcos", "RemcosRAT,Remvio,Socmer", "Remcos", "", "100", "", "RAT,Remcos", "0", "nickkuechel"
+"2024-07-07 16:56:06", "1295664", "efd6e3da1d021693d5cfa5395e51f901b692a3ddea6ce1a7a0f9e67e176b4058", "sha256_hash", "payload", "win.remcos", "RemcosRAT,Remvio,Socmer", "Remcos", "", "100", "", "RAT,Remcos", "0", "nickkuechel"
+"2024-07-07 16:56:06", "1295665", "a1b94e324beb19da2cabb254652df7c75dfcdad3c099012bb10e06448198d204", "sha256_hash", "payload", "win.remcos", "RemcosRAT,Remvio,Socmer", "Remcos", "", "100", "", "RAT,Remcos", "0", "nickkuechel"
+"2024-07-07 16:56:06", "1295666", "bb565cb82988981590cf413b076eb8c1a95ae230079df273f00151f1e56edc24", "sha256_hash", "payload", "win.remcos", "RemcosRAT,Remvio,Socmer", "Remcos", "", "100", "", "RAT,Remcos", "0", "nickkuechel"
+"2024-07-07 16:56:06", "1295667", "aecf8743b779f99fd9277a38c225d8016558fedad36f32cb81c9722587f7a322", "sha256_hash", "payload", "win.remcos", "RemcosRAT,Remvio,Socmer", "Remcos", "", "100", "", "RAT,Remcos", "0", "nickkuechel"
+"2024-07-07 16:56:06", "1295668", "fa8c553e4a364e01c3a1935a463394101c29c7c7654689838c6b648c237d598f", "sha256_hash", "payload", "win.remcos", "RemcosRAT,Remvio,Socmer", "Remcos", "", "100", "", "RAT,Remcos", "0", "nickkuechel"
+"2024-07-07 16:56:06", "1295669", "e69f809330603689d783324e958e2d7056fb78be17c2627ae7b98fe65ed91c43", "sha256_hash", "payload", "win.remcos", "RemcosRAT,Remvio,Socmer", "Remcos", "", "100", "", "RAT,Remcos", "0", "nickkuechel"
+"2024-07-07 16:56:06", "1295670", "da1db4621d532fda2cf5aa1d83b54a7d112a3d04ed1fa4f5459753a3de654ee6", "sha256_hash", "payload", "win.remcos", "RemcosRAT,Remvio,Socmer", "Remcos", "", "100", "", "RAT,Remcos", "0", "nickkuechel"
+"2024-07-07 16:56:06", "1295671", "dbb91efc31fbf89d7600d6ccf15e1e2febe432b3d757adce1269582611680f6c", "sha256_hash", "payload", "win.remcos", "RemcosRAT,Remvio,Socmer", "Remcos", "", "100", "", "RAT,Remcos", "0", "nickkuechel"
+"2024-07-07 16:56:06", "1295672", "6eedc70dbeeb29b5f978d19bde0a32b02c54b9c9699c6a3a97e6f20de816c86d", "sha256_hash", "payload", "win.remcos", "RemcosRAT,Remvio,Socmer", "Remcos", "", "100", "", "RAT,Remcos", "0", "nickkuechel"
+"2024-07-07 16:56:06", "1295673", "dc69e81692da39746371e9df42b66bb3ab2193860925c5227446a15bca82c712", "sha256_hash", "payload", "win.remcos", "RemcosRAT,Remvio,Socmer", "Remcos", "", "100", "", "RAT,Remcos", "0", "nickkuechel"
+"2024-07-07 16:56:06", "1295674", "96f97e20b3b31f75756cd279e3cbd7859cad88d6a1b1726ebf6933aa40c42b25", "sha256_hash", "payload", "win.remcos", "RemcosRAT,Remvio,Socmer", "Remcos", "", "100", "", "RAT,Remcos", "0", "nickkuechel"
+"2024-07-07 16:56:06", "1295675", "c8507b55aaf989c756c364b600c98789de3906fc4e69902716054d286d039859", "sha256_hash", "payload", "win.remcos", "RemcosRAT,Remvio,Socmer", "Remcos", "", "100", "", "RAT,Remcos", "0", "nickkuechel"
 "2024-07-07 16:47:00", "1295658", "45de59851d68929632346d6f894dc8c1b6a5c4197db83c2e33c60631efc0b39f", "sha256_hash", "payload", "win.phobos", "None", "Phobos", "", "100", "", "Phobos,Ransomware", "0", "nickkuechel"
+"2024-07-07 16:47:00", "1295659", "bc2d9e8fed9f7a2daa82fff0429e67b40a50a43f3f1014240ddf4930b7e8c174", "sha256_hash", "payload", "win.phobos", "None", "Phobos", "", "100", "", "Phobos,Ransomware", "0", "nickkuechel"
 "2024-07-07 16:06:47", "1295652", "e02cdfa2eda01b25a01fcfbda69c03225193d78cc5b6f618e828d3e1c9a83191", "sha256_hash", "payload", "win.neshta", "None", "neshta", "", "95", "None", "None", "0", "Grim"
 "2024-07-07 16:06:40", "1295649", "a337d575a5fef97dc3bc9e565d358d51112c3c031979041d7bfaa8208d9b4f07", "sha256_hash", "payload", "win.amadey", "None", "Amadey", "", "95", "None", "None", "0", "Grim"
 "2024-07-07 16:06:37", "1295646", "16473cd5055f3dd677d294a1689ddaaf8077fc444ae1ebb00c6bbf7515712957", "sha256_hash", "payload", "win.socks5_systemz", "None", "Socks5 Systemz", "", "95", "None", "None", "0", "Grim"
@@ -95,4 +118,4 @@
 "2024-07-06 15:05:20", "1295181", "9085e6327177bb47cf43a8d8ed0c24fcfd50cde4199c5130f2b97b2508e9aabc", "sha256_hash", "payload", "win.asyncrat", "None", "AsyncRAT", "2024-07-07 16:06:02", "95", "None", "None", "0", "Grim"
 "2024-07-06 15:05:16", "1295178", "7ca01cb68c03434dd6a45bd79206370dc69b8787825c5d26ec75dcc4a3b14f81", "sha256_hash", "payload", "win.coinminer", "None", "Coinminer", "2024-07-07 16:05:53", "95", "None", "None", "0", "Grim"
 "2024-07-06 15:05:11", "1295175", "ba8b5e47d1d20028cd7ddb4ea828ebc9e8b7d4c67b332544b8cd253ad606e3c4", "sha256_hash", "payload", "win.redline_stealer", "RECORDSTEALER", "RedLine Stealer", "2024-07-07 16:05:50", "95", "None", "None", "0", "Grim"
-# Number of entries: 88
+# Number of entries: 111
