@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-07 08:00:01 UTC
+# UPDATE: 2024-07-07 09:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+185775, 2024-07-07 08:46:15, 2024-07-07 08:46:15, phishing, 46fa6679b2269c966fd3930f9b16b27e, http://telegramax.top
+185774, 2024-07-07 08:36:17, 2024-07-07 08:36:17, phishing, 58579845f1fce1007253db5230c8d19a, http://telegrzm.vip
+185773, 2024-07-07 08:30:13, 2024-07-07 08:30:13, phishing, cdee469dcda86c001b8603e97897e503, http://kop-7v7.pages.dev
+185772, 2024-07-07 08:28:12, 2024-07-07 08:28:12, phishing, 18e00b7372adacb052fbaa34bd1874cc, http://sdgere4ew1.pages.dev
 185771, 2024-07-07 07:25:24, 2024-07-07 07:25:24, malware, 63ca7751cca74aee9bc9663b7592c5c8, http://77.91.77.80/devka/rama.exe
 185770, 2024-07-07 07:24:52, 2024-07-07 07:24:52, malware, 30969547363b46b2baf68fe4fe35cb06, http://61.0.187.103:48460/i
 185769, 2024-07-07 07:24:46, 2024-07-07 07:24:46, malware, 2e83255c657c4ca3a448b1616bcecc5b, http://61.0.187.103:48460/bin.sh
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 185278, 2024-07-06 17:22:09, 2024-07-06 17:22:09, malware, 14875e3301ea43938309c6e2db4d449d, http://117.222.253.229:54362/i
 185277, 2024-07-06 17:21:53, 2024-07-06 17:21:53, malware, 01642e6e2205463895d97a30667f619e, http://117.219.34.201:37908/i
 185276, 2024-07-06 17:21:51, 2024-07-06 17:21:51, malware, 12b1e659a7be470b8bd5548cccc81095, http://117.219.34.201:37908/bin.sh
-185275, 2024-07-06 17:21:50, 2024-07-06 17:21:50, malware, ba7e647b72264d7ab6a2fabddea6082c, http://117.217.80.216:35727/Mozi.m
-185274, 2024-07-06 17:21:48, 2024-07-06 17:21:48, malware, e9db6b33ddb8465e99171ad2d2e2d4b5, http://117.216.27.234:48696/Mozi.m
-185273, 2024-07-06 17:21:46, 2024-07-06 17:21:46, malware, 98e51b2b7a5e4fc091f39eebfe108063, http://117.215.138.208:39080/i
-185272, 2024-07-06 17:21:40, 2024-07-06 17:21:40, malware, 03fdcebec8ab41db9b6945f7c4722b34, http://117.215.138.208:39080/bin.sh
