@@ -1,11 +1,18 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-07-07 09:28:39 UTC                        #
+# Last updated: 2024-07-07 11:37:18 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	infodigitalbusiness.com
+127.0.0.1	itconsultoriayseguridad.com
+127.0.0.1	anchondrica.info
+127.0.0.1	mybadsite.com
+127.0.0.1	strykercp.com
+127.0.0.1	seetoo.ossadmin.site
+127.0.0.1	senesolde.com
 127.0.0.1	singaporebooking.com
 127.0.0.1	ww12.chainlistr.com
 127.0.0.1	correos.pa-ock.click
@@ -7626,4 +7633,4 @@
 127.0.0.1	dftrqgmt6hzf2.cloudfront.net
 127.0.0.1	d8g.lol
 127.0.0.1	service-oca34jj9-1257331363.sh.tencentapigw.com
-# Number of entries: 7620
+# Number of entries: 7627
