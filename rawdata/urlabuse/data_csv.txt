@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-07 00:00:01 UTC
+# UPDATE: 2024-07-07 01:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+185484, 2024-07-07 00:30:15, 2024-07-07 00:30:15, phishing, f182119db1a7921700846a1f842a4a14, http://dexdappsconnect.pages.dev
 185483, 2024-07-06 23:38:17, 2024-07-06 23:38:17, phishing, 327df389ddc523d552b8086249f5d476, http://cccc.zapto.org
 185482, 2024-07-06 23:23:41, 2024-07-06 23:23:41, malware, 3b61eda60b074a7d8c1afaa0b4d5c92d, http://90.84.234.68:43038/Mozi.a
 185481, 2024-07-06 23:23:24, 2024-07-06 23:23:24, malware, 4c4eb9d306974775b2ea548979f57041, http://59.99.201.142:39956/bin.sh
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 184987, 2024-07-06 11:48:15, 2024-07-06 11:48:15, phishing, 5e20b4b5886bf7d1978a06219c28894d, https://jg.tokenpokce.com/
 184986, 2024-07-06 11:46:19, 2024-07-06 11:46:19, phishing, 2cbc929c7b21a4391c38094b9202b73b, https://vt.tokenpokcn.com/
 184985, 2024-07-06 11:44:14, 2024-07-06 11:44:14, phishing, de340946424e304ff184261c0d8e7dd0, https://vt.tokenpokce.com/
-184984, 2024-07-06 11:42:19, 2024-07-06 11:42:19, phishing, cd5233373d2c2f0fcd20fb252ae416a3, https://mj.tokenpokcn.com/

@@ -6,8 +6,9 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-07 00:00:01 UTC
+# UPDATE: 2024-07-07 01:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 185484, "url": "http://dexdappsconnect.pages.dev", "discovery": "2024-07-07 00:30:15", "added": "2024-07-07 00:30:15", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "f182119db1a7921700846a1f842a4a14"}
 {"id": 185483, "url": "http://cccc.zapto.org", "discovery": "2024-07-06 23:38:17", "added": "2024-07-06 23:38:17", "target": "Telegram", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "327df389ddc523d552b8086249f5d476"}
 {"id": 185482, "url": "http://90.84.234.68:43038/Mozi.a", "discovery": "2024-07-06 23:23:41", "added": "2024-07-06 23:23:41", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "3b61eda60b074a7d8c1afaa0b4d5c92d"}
 {"id": 185481, "url": "http://59.99.201.142:39956/bin.sh", "discovery": "2024-07-06 23:23:24", "added": "2024-07-06 23:23:24", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "4c4eb9d306974775b2ea548979f57041"}
@@ -507,4 +508,3 @@
 {"id": 184987, "url": "https://jg.tokenpokce.com/", "discovery": "2024-07-06 11:48:15", "added": "2024-07-06 11:48:15", "target": "Token Pocket", "reporter": "lrurayd", "AbuseType": "phishing", "UUID": "5e20b4b5886bf7d1978a06219c28894d"}
 {"id": 184986, "url": "https://vt.tokenpokcn.com/", "discovery": "2024-07-06 11:46:19", "added": "2024-07-06 11:46:19", "target": "Token Pocket", "reporter": "lruray", "AbuseType": "phishing", "UUID": "2cbc929c7b21a4391c38094b9202b73b"}
 {"id": 184985, "url": "https://vt.tokenpokce.com/", "discovery": "2024-07-06 11:44:14", "added": "2024-07-06 11:44:14", "target": "Token Pocket", "reporter": "lrurayd", "AbuseType": "phishing", "UUID": "de340946424e304ff184261c0d8e7dd0"}
-{"id": 184984, "url": "https://mj.tokenpokcn.com/", "discovery": "2024-07-06 11:42:19", "added": "2024-07-06 11:42:19", "target": "Token Pocket", "reporter": "lruray", "AbuseType": "phishing", "UUID": "cd5233373d2c2f0fcd20fb252ae416a3"}
