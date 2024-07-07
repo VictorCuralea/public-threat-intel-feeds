@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-07 22:00:01 UTC
+# UPDATE: 2024-07-07 23:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+186376, 2024-07-07 22:52:15, 2024-07-07 22:52:15, phishing, 01f1a928af70850de6bb6d98c7346b34, http://uniswiftathbit.pages.dev
+186375, 2024-07-07 22:26:16, 2024-07-07 22:26:16, phishing, 9ec3e112c31ff0019fbd4de398424a43, http://perceptivesuperdogefil.pages.dev
+186374, 2024-07-07 22:04:15, 2024-07-07 22:04:15, phishing, f2ead8072f2ae90974dcf1ee168fdd33, http://assure-enligne-renouvellement.fr
+186373, 2024-07-07 22:00:12, 2024-07-07 22:00:12, phishing, 79c92e49d193e6a8d56cd0337b21ced8, http://aidatiadehmensorgla.hopto.org
 186372, 2024-07-07 21:52:18, 2024-07-07 21:52:18, phishing, 11c40ddc4494a5da2f4db60d0e0d767a, http://teiagnam.com
 186371, 2024-07-07 21:44:57, 2024-07-07 21:44:57, hacked, bc42364ddfdb9b46797652d0f8c1893c, http://autoscout24.de.conveline.com/
 186370, 2024-07-07 21:32:17, 2024-07-07 21:32:17, phishing, 549ccbe72a3bcc229b59cdf7f4284e21, http://quickfeatureszerion.pages.dev
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 185879, 2024-07-07 13:09:51, 2024-07-07 13:09:51, phishing, 5bdaa50c43d52eac7234a9f626b99694, https://pub-ff5bacf94a4d474b9c7cb1c0ba1c5e8f.r2.dev/script.html?email=3mail@b.c==
 185878, 2024-07-07 13:09:46, 2024-07-07 13:09:46, phishing, 9627dff5d778665b02e1033b620921f1, https://pub-adefabd73f2c47c6a402823a22bf9e9b.r2.dev/utility_base.html
 185877, 2024-07-07 13:09:45, 2024-07-07 13:09:45, phishing, da7e88de779b45388267d469cdfea89e, https://pub-8a9cc35a5303489d8d9b78fd89ba0b6f.r2.dev/Alldomain-index.html
-185876, 2024-07-07 13:09:44, 2024-07-07 13:09:44, phishing, c6dc85feab52f6783c359d50af934d2f, https://pub-8cc4fdf972304092b2aa97a68f50cd88.r2.dev/utility_base.html
-185875, 2024-07-07 13:09:41, 2024-07-07 13:09:41, phishing, ef2e9baac894787c531994b974d99663, https://pub-853a8c6d224746258050ceb1dd4dc8c3.r2.dev/response_auth.html
-185874, 2024-07-07 13:09:36, 2024-07-07 13:09:36, phishing, 23583bfd4bbc9d2f05ea1a30e2334658, https://pub-3a1ae8a2ee8f4628a8064fd57a07ac96.r2.dev/secure_response.html
-185873, 2024-07-07 13:09:35, 2024-07-07 13:09:35, phishing, 273a079a1197084be372e804ce23382c, https://pub-3165a2ed17b042c7962f7434e6e1f2bb.r2.dev/utility_base.html?folder=aCWpV1fSyg1F5PofijWt&ledge
