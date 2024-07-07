@@ -6,8 +6,15 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-07 18:00:01 UTC
+# UPDATE: 2024-07-07 19:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 186255, "url": "http://3hrdhd.pages.dev", "discovery": "2024-07-07 18:52:12", "added": "2024-07-07 18:52:12", "target": "Amazon", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "1fcead829824bc5ada7e4e2762fbbd7d"}
+{"id": 186254, "url": "http://autoscout24.de.conveline.com/551/Edinborg/base.apk", "discovery": "2024-07-07 18:47:29", "added": "2024-07-07 18:47:29", "target": "IRATA", "reporter": "urlabuse", "AbuseType": "malware", "UUID": "bd59e54c5dd5410b999a170d3b3863cb"}
+{"id": 186253, "url": "http://autoscout24.de.conveline.com/551/Edinborg/", "discovery": "2024-07-07 18:47:07", "added": "2024-07-07 18:47:07", "target": "Adliran", "reporter": "urlabuse", "AbuseType": "phishing", "UUID": "9e095f39c924d99045b8058fc1112a57"}
+{"id": 186252, "url": "http://santaanadedios.com/021/Edinborg/base.apk", "discovery": "2024-07-07 18:36:13", "added": "2024-07-07 18:36:13", "target": "IRATA", "reporter": "urlabuse", "AbuseType": "malware", "UUID": "9a96e1715f69447fab9c1565b6abb1ea"}
+{"id": 186251, "url": "http://santaanadedios.com/021/Edinborg/", "discovery": "2024-07-07 18:32:56", "added": "2024-07-07 18:32:56", "target": "Adliran", "reporter": "urlabuse", "AbuseType": "phishing", "UUID": "a778c64842ad199171dca141de70a60a"}
+{"id": 186250, "url": "http://santaanadedios.com/555/Edinborg/base.apk", "discovery": "2024-07-07 18:27:30", "added": "2024-07-07 18:27:30", "target": "IRATA", "reporter": "urlabuse", "AbuseType": "malware", "UUID": "68b0874cd7f84dec82bdb022cb42851c"}
+{"id": 186249, "url": "http://santaanadedios.com/555/Edinborg/", "discovery": "2024-07-07 18:27:19", "added": "2024-07-07 18:27:19", "target": "Adliran", "reporter": "urlabuse", "AbuseType": "phishing", "UUID": "5b6b7bbe067dac252ae960e748deed18"}
 {"id": 186248, "url": "http://77.105.132.27/vidar0607.exe", "discovery": "2024-07-07 17:26:25", "added": "2024-07-07 17:26:25", "target": "#PE32INTEL_CMD", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "e6477ff747024e1a99142d23e12bf128"}
 {"id": 186247, "url": "http://77.105.132.27/lumma0607.exe", "discovery": "2024-07-07 17:26:24", "added": "2024-07-07 17:26:24", "target": "#PE32INTEL_CMD", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "38b8f7ea69a3431d8877417bcc91a3cb"}
 {"id": 186246, "url": "http://61.52.226.226:46394/Mozi.m", "discovery": "2024-07-07 17:26:22", "added": "2024-07-07 17:26:22", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "daba644b0ff04e969fa6ec016850d013"}
@@ -501,10 +508,3 @@
 {"id": 185758, "url": "http://42.237.83.253:39837/bin.sh", "discovery": "2024-07-07 07:23:24", "added": "2024-07-07 07:23:24", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "f600db68fa494510aba322e7fde454e5"}
 {"id": 185757, "url": "http://39.81.153.190:40192/i", "discovery": "2024-07-07 07:23:23", "added": "2024-07-07 07:23:23", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "9ccaf75a6cc64dcfbf9952d215b89715"}
 {"id": 185756, "url": "http://39.81.153.190:40192/bin.sh", "discovery": "2024-07-07 07:23:21", "added": "2024-07-07 07:23:21", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "47369f1aa69b433bb28bdd3da94b476e"}
-{"id": 185755, "url": "http://27.216.3.248:53915/bin.sh", "discovery": "2024-07-07 07:23:20", "added": "2024-07-07 07:23:20", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "b263bca130a04dd285eaad66c5055814"}
-{"id": 185754, "url": "http://27.215.49.73:45905/i", "discovery": "2024-07-07 07:23:18", "added": "2024-07-07 07:23:18", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "2e64713c44874d92a57901ac5e149d04"}
-{"id": 185753, "url": "http://221.15.144.52:47483/bin.sh", "discovery": "2024-07-07 07:23:17", "added": "2024-07-07 07:23:17", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "fde28356255441f4862a7e74e9885eb7"}
-{"id": 185752, "url": "http://190.109.228.189:32973/Mozi.m", "discovery": "2024-07-07 07:22:55", "added": "2024-07-07 07:22:55", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "0fada0d165794d2ab5a27fa0458ed190"}
-{"id": 185751, "url": "http://182.60.15.89:43859/Mozi.m", "discovery": "2024-07-07 07:22:52", "added": "2024-07-07 07:22:52", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "738b5b721eef45c497a7fb7da3543d89"}
-{"id": 185750, "url": "http://182.121.95.101:51293/i", "discovery": "2024-07-07 07:22:49", "added": "2024-07-07 07:22:49", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "4e533cd56feb46fd99f28254ae7d3c13"}
-{"id": 185749, "url": "http://182.121.95.101:51293/bin.sh", "discovery": "2024-07-07 07:22:47", "added": "2024-07-07 07:22:47", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "2afffb2680b54da39e3a0659b4965018"}

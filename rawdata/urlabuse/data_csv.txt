@@ -6,9 +6,16 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-07 18:00:01 UTC
+# UPDATE: 2024-07-07 19:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+186255, 2024-07-07 18:52:12, 2024-07-07 18:52:12, phishing, 1fcead829824bc5ada7e4e2762fbbd7d, http://3hrdhd.pages.dev
+186254, 2024-07-07 18:47:29, 2024-07-07 18:47:29, malware, bd59e54c5dd5410b999a170d3b3863cb, http://autoscout24.de.conveline.com/551/Edinborg/base.apk
+186253, 2024-07-07 18:47:07, 2024-07-07 18:47:07, phishing, 9e095f39c924d99045b8058fc1112a57, http://autoscout24.de.conveline.com/551/Edinborg/
+186252, 2024-07-07 18:36:13, 2024-07-07 18:36:13, malware, 9a96e1715f69447fab9c1565b6abb1ea, http://santaanadedios.com/021/Edinborg/base.apk
+186251, 2024-07-07 18:32:56, 2024-07-07 18:32:56, phishing, a778c64842ad199171dca141de70a60a, http://santaanadedios.com/021/Edinborg/
+186250, 2024-07-07 18:27:30, 2024-07-07 18:27:30, malware, 68b0874cd7f84dec82bdb022cb42851c, http://santaanadedios.com/555/Edinborg/base.apk
+186249, 2024-07-07 18:27:19, 2024-07-07 18:27:19, phishing, 5b6b7bbe067dac252ae960e748deed18, http://santaanadedios.com/555/Edinborg/
 186248, 2024-07-07 17:26:25, 2024-07-07 17:26:25, malware, e6477ff747024e1a99142d23e12bf128, http://77.105.132.27/vidar0607.exe
 186247, 2024-07-07 17:26:24, 2024-07-07 17:26:24, malware, 38b8f7ea69a3431d8877417bcc91a3cb, http://77.105.132.27/lumma0607.exe
 186246, 2024-07-07 17:26:22, 2024-07-07 17:26:22, malware, daba644b0ff04e969fa6ec016850d013, http://61.52.226.226:46394/Mozi.m
@@ -502,10 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 185758, 2024-07-07 07:23:24, 2024-07-07 07:23:24, malware, f600db68fa494510aba322e7fde454e5, http://42.237.83.253:39837/bin.sh
 185757, 2024-07-07 07:23:23, 2024-07-07 07:23:23, malware, 9ccaf75a6cc64dcfbf9952d215b89715, http://39.81.153.190:40192/i
 185756, 2024-07-07 07:23:21, 2024-07-07 07:23:21, malware, 47369f1aa69b433bb28bdd3da94b476e, http://39.81.153.190:40192/bin.sh
-185755, 2024-07-07 07:23:20, 2024-07-07 07:23:20, malware, b263bca130a04dd285eaad66c5055814, http://27.216.3.248:53915/bin.sh
-185754, 2024-07-07 07:23:18, 2024-07-07 07:23:18, malware, 2e64713c44874d92a57901ac5e149d04, http://27.215.49.73:45905/i
-185753, 2024-07-07 07:23:17, 2024-07-07 07:23:17, malware, fde28356255441f4862a7e74e9885eb7, http://221.15.144.52:47483/bin.sh
-185752, 2024-07-07 07:22:55, 2024-07-07 07:22:55, malware, 0fada0d165794d2ab5a27fa0458ed190, http://190.109.228.189:32973/Mozi.m
-185751, 2024-07-07 07:22:52, 2024-07-07 07:22:52, malware, 738b5b721eef45c497a7fb7da3543d89, http://182.60.15.89:43859/Mozi.m
-185750, 2024-07-07 07:22:49, 2024-07-07 07:22:49, malware, 4e533cd56feb46fd99f28254ae7d3c13, http://182.121.95.101:51293/i
-185749, 2024-07-07 07:22:47, 2024-07-07 07:22:47, malware, 2afffb2680b54da39e3a0659b4965018, http://182.121.95.101:51293/bin.sh
