@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-07 10:00:01 UTC
+# UPDATE: 2024-07-07 11:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+185821, 2024-07-07 10:16:10, 2024-07-07 10:16:10, phishing, dcc324cf07d78ad3df71400dcb1bb991, http://onlyforsexsss.pages.dev
+185820, 2024-07-07 10:02:43, 2024-07-07 10:02:43, phishing, cd8ae99b0f97fbf60c6c4b36bf903c0a, https://lowongan-kerja-indo.4pp4u.vip/
 185819, 2024-07-07 09:24:41, 2024-07-07 09:24:41, malware, d4d70c0e892c4c198007b7da17c73cbd, http://61.3.141.229:50910/bin.sh
 185818, 2024-07-07 09:24:29, 2024-07-07 09:24:29, malware, be0231babc254970a978151106a7da39, http://59.99.211.84:36954/Mozi.m
 185817, 2024-07-07 09:24:17, 2024-07-07 09:24:17, malware, 8341e25bdf184a9f8c367e9b3712d4aa, http://59.89.7.243:34533/i
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 185324, 2024-07-06 19:20:11, 2024-07-06 19:20:11, malware, 71e4ab78990f49deae7883ce78bec012, http://112.239.127.131:55675/bin.sh
 185323, 2024-07-06 19:20:09, 2024-07-06 19:20:09, malware, 2f6e3ba958c04d68bb3b4d7c92da2a3f, http://102.212.241.73:57226/Mozi.m
 185322, 2024-07-06 19:20:07, 2024-07-06 19:20:07, malware, a1dcd5aecf034729b04c698db7128fdd, http://1.70.11.172:28788/.i
-185321, 2024-07-06 19:02:11, 2024-07-06 19:02:11, phishing, f259661be1ee8b64e9b3d551d6a1f5b9, https://web.tlgrm.app/
-185320, 2024-07-06 19:02:05, 2024-07-06 19:02:05, phishing, 5442fe5b502ca02d27ea3b61a6c3df8c, https://brownelllandcompany.com/onedrive
