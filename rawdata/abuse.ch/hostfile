@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-07-07 16:53:01 UTC                        #
+# Last updated: 2024-07-07 19:10:48 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	autodiscover.itechnetworkbd.com
+127.0.0.1	autoconfig.itechnetworkbd.com
+127.0.0.1	cpanel.itechnetworkbd.com
+127.0.0.1	ftp.itechnetworkbd.com
+127.0.0.1	webmail.itechnetworkbd.com
 127.0.0.1	anyone-blogging.gl.at.ply.gg
 127.0.0.1	www.dpm-sael.com
 127.0.0.1	9507c272a51ce8cefc8761591b2c50e6.fit
@@ -7634,4 +7639,4 @@
 127.0.0.1	api-encar.nibiru.pro
 127.0.0.1	bitrix.avtokuba.ru
 127.0.0.1	dftrqgmt6hzf2.cloudfront.net
-# Number of entries: 7628
+# Number of entries: 7633
