@@ -6,9 +6,17 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-08 07:00:02 UTC
+# UPDATE: 2024-07-08 08:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+186717, 2024-07-08 07:53:54, 2024-07-08 07:30:10, phishing, a8af32fef20d6c6b5debd9334d588deb, https://64xoexi.meusonhodeoferta.com/duooIKVSMCw5xUhXOGC8/c2ViYXN0aWVuLmF0dGFyZEBjb3JwLm92aC5jb20=
+186716, 2024-07-08 07:53:44, 2024-07-08 07:08:15, phishing, 22d0afb739e5eff444c47ab5d2d157e9, http://twint.angaben.org/de/receive/79469380
+186715, 2024-07-08 07:53:27, 2024-07-08 06:44:16, phishing, f60a0474f8131c1d551f6aafea3a1d0a, https://twint.soliditat.com/aktualisierung
+186714, 2024-07-08 07:53:16, 2024-07-08 06:44:15, phishing, 694dc0ac16f326d657969d7156b65476, http://g7.fr/erneuerung-information-de.com/
+186713, 2024-07-08 07:52:39, 2024-07-08 06:42:25, phishing, 574291f64e660f3a4abe1a66a5942c2d, https://twint.ws/de/receive/79469380
+186712, 2024-07-08 07:52:13, 2024-07-08 06:42:15, phishing, 75e4d5967d3ea12bb2e009a666dcaf84, https://twint.cybersicherhelt.com/de/receive/79469380
+186711, 2024-07-08 07:51:59, 2024-07-08 06:40:21, phishing, 795f6e53700eb8e359e17c7e0e81919e, https://post-ch-suivi.com/swisspost/app/
+186710, 2024-07-08 07:02:24, 2024-07-08 07:02:24, phishing, cbe748f0ae1fab04a66d15ff15a94283, https://btvsg.reinzvpn.my.id/
 186709, 2024-07-08 06:48:13, 2024-07-08 06:48:13, phishing, 658efba0b10156270ba5d617775c9e6d, http://mes-espace-renouvellement-enligne.fr
 186708, 2024-07-08 06:44:23, 2024-07-08 06:44:23, phishing, fdd8cf016370fbe8930aad57fd197185, http://promptsrevlite.pages.dev
 186707, 2024-07-08 06:42:23, 2024-07-08 06:42:23, phishing, bb886bc9e6a39d7f19eef675025b63e8, https://mail-wichtig-support.mybluehost.me/swiss/CHFINAL/4176b/
@@ -501,11 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 186220, 2024-07-07 17:23:14, 2024-07-07 17:23:14, malware, 77957ab749934ee0bbad43851e6c3272, http://119.112.23.253:37163/bin.sh
 186219, 2024-07-07 17:23:10, 2024-07-07 17:23:10, malware, 96dccc8bace4443f8650c1af484993bd, http://117.248.21.185:33562/i
 186218, 2024-07-07 17:23:07, 2024-07-07 17:23:07, malware, 236458ae584941e2a32648b4f7e0378b, http://117.248.21.185:33562/bin.sh
-186217, 2024-07-07 17:22:44, 2024-07-07 17:22:44, malware, d3732fe3cf7d44eaba7e678de79f5d8b, http://117.248.170.42:56233/i
-186216, 2024-07-07 17:22:41, 2024-07-07 17:22:41, malware, 382d9c442cd74cc09a2dd3c7c23d8a42, http://117.248.170.42:56233/bin.sh
-186215, 2024-07-07 17:22:39, 2024-07-07 17:22:39, malware, eb4e3eebe4dc4f24a9ce8dc89eeb1071, http://117.248.168.209:44878/Mozi.m
-186214, 2024-07-07 17:22:37, 2024-07-07 17:22:37, malware, 4babfa89bbe64aa6be1db0867474635f, http://117.248.165.12:54497/Mozi.m
-186213, 2024-07-07 17:22:35, 2024-07-07 17:22:35, malware, c69eda4acfb54f6d8b8d628f008e10c6, http://117.248.163.67:44909/i
-186212, 2024-07-07 17:22:33, 2024-07-07 17:22:33, malware, d2f52239afa5478aa8440dabd2de3661, http://117.248.163.67:44909/bin.sh
-186211, 2024-07-07 17:22:16, 2024-07-07 17:22:16, malware, e56ef8ac21a74f79903d1f099de7e46f, http://117.245.46.106:41507/bin.sh
-186210, 2024-07-07 17:22:14, 2024-07-07 17:22:14, malware, fcca8984452d4cc993443c92746276e7, http://117.223.3.90:44306/bin.sh

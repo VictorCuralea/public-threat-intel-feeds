@@ -6,8 +6,16 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-08 07:00:02 UTC
+# UPDATE: 2024-07-08 08:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 186717, "url": "https://64xoexi.meusonhodeoferta.com/duooIKVSMCw5xUhXOGC8/c2ViYXN0aWVuLmF0dGFyZEBjb3JwLm92aC5jb20=", "discovery": "2024-07-08 07:30:10", "added": "2024-07-08 07:53:54", "target": "Generic Email", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "a8af32fef20d6c6b5debd9334d588deb"}
+{"id": 186716, "url": "http://twint.angaben.org/de/receive/79469380", "discovery": "2024-07-08 07:08:15", "added": "2024-07-08 07:53:44", "target": "TWINT", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "22d0afb739e5eff444c47ab5d2d157e9"}
+{"id": 186715, "url": "https://twint.soliditat.com/aktualisierung", "discovery": "2024-07-08 06:44:16", "added": "2024-07-08 07:53:27", "target": "TWINT", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "f60a0474f8131c1d551f6aafea3a1d0a"}
+{"id": 186714, "url": "http://g7.fr/erneuerung-information-de.com/", "discovery": "2024-07-08 06:44:15", "added": "2024-07-08 07:53:16", "target": "Netflix", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "694dc0ac16f326d657969d7156b65476"}
+{"id": 186713, "url": "https://twint.ws/de/receive/79469380", "discovery": "2024-07-08 06:42:25", "added": "2024-07-08 07:52:39", "target": "TWINT", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "574291f64e660f3a4abe1a66a5942c2d"}
+{"id": 186712, "url": "https://twint.cybersicherhelt.com/de/receive/79469380", "discovery": "2024-07-08 06:42:15", "added": "2024-07-08 07:52:13", "target": "TWINT", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "75e4d5967d3ea12bb2e009a666dcaf84"}
+{"id": 186711, "url": "https://post-ch-suivi.com/swisspost/app/", "discovery": "2024-07-08 06:40:21", "added": "2024-07-08 07:51:59", "target": "SwissPost", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "795f6e53700eb8e359e17c7e0e81919e"}
+{"id": 186710, "url": "https://btvsg.reinzvpn.my.id/", "discovery": "2024-07-08 07:02:24", "added": "2024-07-08 07:02:24", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "cbe748f0ae1fab04a66d15ff15a94283"}
 {"id": 186709, "url": "http://mes-espace-renouvellement-enligne.fr", "discovery": "2024-07-08 06:48:13", "added": "2024-07-08 06:48:13", "target": "FR-GOV", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "658efba0b10156270ba5d617775c9e6d"}
 {"id": 186708, "url": "http://promptsrevlite.pages.dev", "discovery": "2024-07-08 06:44:23", "added": "2024-07-08 06:44:23", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "fdd8cf016370fbe8930aad57fd197185"}
 {"id": 186707, "url": "https://mail-wichtig-support.mybluehost.me/swiss/CHFINAL/4176b/", "discovery": "2024-07-08 06:42:23", "added": "2024-07-08 06:42:23", "target": "SwissPass", "reporter": "VERIFROMd", "AbuseType": "phishing", "UUID": "bb886bc9e6a39d7f19eef675025b63e8"}
@@ -500,11 +508,3 @@
 {"id": 186220, "url": "http://119.112.23.253:37163/bin.sh", "discovery": "2024-07-07 17:23:14", "added": "2024-07-07 17:23:14", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "77957ab749934ee0bbad43851e6c3272"}
 {"id": 186219, "url": "http://117.248.21.185:33562/i", "discovery": "2024-07-07 17:23:10", "added": "2024-07-07 17:23:10", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "96dccc8bace4443f8650c1af484993bd"}
 {"id": 186218, "url": "http://117.248.21.185:33562/bin.sh", "discovery": "2024-07-07 17:23:07", "added": "2024-07-07 17:23:07", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "236458ae584941e2a32648b4f7e0378b"}
-{"id": 186217, "url": "http://117.248.170.42:56233/i", "discovery": "2024-07-07 17:22:44", "added": "2024-07-07 17:22:44", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "d3732fe3cf7d44eaba7e678de79f5d8b"}
-{"id": 186216, "url": "http://117.248.170.42:56233/bin.sh", "discovery": "2024-07-07 17:22:41", "added": "2024-07-07 17:22:41", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "382d9c442cd74cc09a2dd3c7c23d8a42"}
-{"id": 186215, "url": "http://117.248.168.209:44878/Mozi.m", "discovery": "2024-07-07 17:22:39", "added": "2024-07-07 17:22:39", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "eb4e3eebe4dc4f24a9ce8dc89eeb1071"}
-{"id": 186214, "url": "http://117.248.165.12:54497/Mozi.m", "discovery": "2024-07-07 17:22:37", "added": "2024-07-07 17:22:37", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "4babfa89bbe64aa6be1db0867474635f"}
-{"id": 186213, "url": "http://117.248.163.67:44909/i", "discovery": "2024-07-07 17:22:35", "added": "2024-07-07 17:22:35", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "c69eda4acfb54f6d8b8d628f008e10c6"}
-{"id": 186212, "url": "http://117.248.163.67:44909/bin.sh", "discovery": "2024-07-07 17:22:33", "added": "2024-07-07 17:22:33", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "d2f52239afa5478aa8440dabd2de3661"}
-{"id": 186211, "url": "http://117.245.46.106:41507/bin.sh", "discovery": "2024-07-07 17:22:16", "added": "2024-07-07 17:22:16", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "e56ef8ac21a74f79903d1f099de7e46f"}
-{"id": 186210, "url": "http://117.223.3.90:44306/bin.sh", "discovery": "2024-07-07 17:22:14", "added": "2024-07-07 17:22:14", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "fcca8984452d4cc993443c92746276e7"}
