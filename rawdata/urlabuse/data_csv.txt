@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-08 02:00:02 UTC
+# UPDATE: 2024-07-08 03:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+186485, 2024-07-08 02:46:12, 2024-07-08 02:46:12, phishing, 21bf1a97aaa3c3f1782cbe162b205bd3, http://telegram-ivan-8is.pages.dev
+186484, 2024-07-08 02:25:31, 2024-07-08 02:09:40, phishing, a8c11dee1964a07270347f3f50e4c529, https://ipfs.io/ipfs/bafybeidqkacfztvxd2bwg6lpllnsiohyhyb5sfbyop2xfn75o25uez6bzi/canio/24dhli-pagem.html
+186483, 2024-07-08 02:23:37, 2024-07-08 01:46:04, phishing, 44946080f6d38681139372f67905bf0b, https://pub-c369f1cf772340f7ac9c051b1e8667e1.r2.dev/index.html
 186482, 2024-07-08 01:42:17, 2024-07-08 01:42:17, phishing, c20720979f188faf150dd72c44afeaae, http://telegram.dfyws.workers.dev
 186481, 2024-07-08 01:20:11, 2024-07-08 01:20:11, phishing, 04462ca90781def73d12c51d40d91bb3, http://mk-1hc.pages.dev
 186480, 2024-07-08 01:02:11, 2024-07-08 01:02:11, phishing, e30d74f3a6601da0753cfa91ef29033c, http://webk.pages.dev/page-bd2j-kpm.js
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 185988, 2024-07-07 13:33:03, 2024-07-07 13:33:03, malware, ba5ec319e63a42cab2ba1aa247ac3425, http://42.224.197.217:44908/bin.sh
 185987, 2024-07-07 13:32:52, 2024-07-07 13:32:52, malware, 3d532d61ef1441a4afc361dd8b4bdcd1, http://42.224.174.4:39599/bin.sh
 185986, 2024-07-07 13:32:50, 2024-07-07 13:32:50, malware, f5fff44c21274e089faba9c9f4677c2c, http://42.224.150.244:60575/bin.sh
-185985, 2024-07-07 13:32:49, 2024-07-07 13:32:49, malware, 5f0a5f9856334dd29bca98f8de338997, http://38.61.176.226:34427/Mozi.m
-185984, 2024-07-07 13:32:46, 2024-07-07 13:32:46, malware, ad7f592575c443b8b670e58aa0fdbb19, http://27.215.209.56:33526/i
-185983, 2024-07-07 13:32:44, 2024-07-07 13:32:44, malware, f2172441045041cea75a060171b143c9, http://27.215.209.56:33526/bin.sh
