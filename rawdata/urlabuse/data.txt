@@ -6,8 +6,13 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-08 10:00:01 UTC
+# UPDATE: 2024-07-08 11:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 186807, "url": "http://jdusiueiunjdnnadldksjsdhfgueryeuioququeueasdajaiwiuewiqphp.pages.dev", "discovery": "2024-07-08 10:50:11", "added": "2024-07-08 10:50:11", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "d82bc48cada1a828788ab4de5adf2bce"}
+{"id": 186806, "url": "http://swisspass.finance/", "discovery": "2024-07-08 10:40:10", "added": "2024-07-08 10:46:48", "target": "SwissPass", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "f8248c974323b3344346b1ba0f756dd6"}
+{"id": 186805, "url": "https://tuckawayshores.com/f1f0d2b3b6/v3/oevlogin/ui/app/auth/flow/swisspass-login-uid-pw-rem/username", "discovery": "2024-07-08 10:34:11", "added": "2024-07-08 10:34:11", "target": "SwissPass", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "cc1f5022f7f0ebaefcbd719f665b029f"}
+{"id": 186804, "url": "https://versandonline.com/", "discovery": "2024-07-08 10:22:13", "added": "2024-07-08 10:32:48", "target": "SwissPass", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "5b7455183d4fd600f76b15fd4ac9dff9"}
+{"id": 186803, "url": "https://telegramxforsexx18.pages.dev/", "discovery": "2024-07-08 10:02:14", "added": "2024-07-08 10:02:14", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "6785f764f38b2ad397c6fcfe7d7d6592"}
 {"id": 186802, "url": "http://santefrance-renouvellement.com", "discovery": "2024-07-08 09:36:22", "added": "2024-07-08 09:36:22", "target": "FR-GOV", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "2e5f88ad151aac138c56af8a49756836"}
 {"id": 186801, "url": "http://voucher-01-static.com/kvro/venture45.png", "discovery": "2024-07-08 09:32:40", "added": "2024-07-08 09:32:40", "target": "#ZIP", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "20d73e3ce1ea441aa87b91a6a1b8ea70"}
 {"id": 186800, "url": "http://voucher-01-static.com/kvro/589.txt", "discovery": "2024-07-08 09:32:38", "added": "2024-07-08 09:32:38", "target": "#ENCRYPTED", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "220d43e0114e4ccda65813dada0fed46"}
@@ -503,8 +508,3 @@
 {"id": 186310, "url": "http://yellowdaymarketing.com/c4b3b6e4d7/v3/oevlogin/ui/app/auth/flow/swisspass-login-uid-pw-rem/username", "discovery": "2024-07-07 19:32:23", "added": "2024-07-07 19:32:23", "target": "SwissPass", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "c64e15341eeca8a095620ee88b0109b4"}
 {"id": 186309, "url": "http://yellowdaymarketing.com/a5e2c5e0e4/v3/oevlogin/ui/app/auth/flow/swisspass-login-uid-pw-rem/username", "discovery": "2024-07-07 19:32:23", "added": "2024-07-07 19:32:23", "target": "SwissPass", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "f05d48a06f0abb5b7cb5c6a9c0037f49"}
 {"id": 186308, "url": "https://food-of-the-gods.com/cargo/home/", "discovery": "2024-07-07 19:32:18", "added": "2024-07-07 19:32:18", "target": "FedEx", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "fefd5f72f38d9d65c40f1b2c73abe092"}
-{"id": 186307, "url": "https://tuckawayshores.com/b7f9f4b1a8/v3/oevlogin/ui/app/auth/flow/swisspass-login-uid-pw-rem/username", "discovery": "2024-07-07 19:32:14", "added": "2024-07-07 19:32:14", "target": "SwissPass", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "8369924109746d39f94a8e76161ed795"}
-{"id": 186306, "url": "http://61.3.95.80:38537/bin.sh", "discovery": "2024-07-07 19:24:15", "added": "2024-07-07 19:24:15", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "f450db04a0ea4ca68b6ce6218d202363"}
-{"id": 186305, "url": "http://61.0.180.198:45052/i", "discovery": "2024-07-07 19:23:53", "added": "2024-07-07 19:23:53", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "d1e23710ac084826ab43b32c869f59ff"}
-{"id": 186304, "url": "http://61.0.146.174:41676/i", "discovery": "2024-07-07 19:23:51", "added": "2024-07-07 19:23:51", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "b5bda64152c54d228ac62152d5a52a40"}
-{"id": 186303, "url": "http://61.0.146.174:41676/bin.sh", "discovery": "2024-07-07 19:23:47", "added": "2024-07-07 19:23:47", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "23dffa494bdf4e32a3211dcf45785fb4"}
