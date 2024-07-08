@@ -6,9 +6,19 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-08 22:00:01 UTC
+# UPDATE: 2024-07-08 23:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+187257, 2024-07-08 22:54:16, 2024-07-08 22:54:16, phishing, f3abe8816862c7be26150cb4da25add9, http://dualboardmoonify.pages.dev
+187256, 2024-07-08 22:42:13, 2024-07-08 22:42:13, phishing, 511d168ebb98b31242971ac079e6e0fa, http://vla1dxw2x57vj.pages.dev
+187255, 2024-07-08 22:10:14, 2024-07-08 22:10:14, phishing, 0abaf1afceb8c9fc7fae784d4ebcb65f, http://decentralizedautofix.pages.dev
+187254, 2024-07-08 22:10:10, 2024-07-08 22:10:10, phishing, 3a1611f3cc64216fe3ff16301012c80a, http://dtyghgh2.pages.dev
+187253, 2024-07-08 22:05:03, 2024-07-08 22:05:03, phishing, 073341e92fb497dc7b4d1d75bd2d8516, http://radiobravafm.com.ar/wp-content/uploads/sites/8/2016/01/cgi-bin/login.php?access.x33047280321&&data.x=en_f9231c5c703babc88366450a6
+187252, 2024-07-08 22:04:50, 2024-07-08 22:04:50, phishing, 5c8f3f36e86d4acac7125b153dae5a5a, https://storage.testnet.cere.network/171723/baebb4ihw6yfzmtzta6s7wzv4q7e2ej7ov5gndie6c7kw6ksv35jlqf6ljm
+187251, 2024-07-08 22:04:32, 2024-07-08 22:04:32, phishing, 823875564430833cb9943645d4976fc7, https://pub-b7ad48ec29744198846769c5577516fe.r2.dev/eddie.html
+187250, 2024-07-08 22:03:32, 2024-07-08 22:03:32, phishing, 6d5efd0762435e1c755914e5f16927d0, https://wunjsoklaim.click/
+187249, 2024-07-08 22:02:53, 2024-07-08 22:02:53, phishing, e711a3bf98c5c1566c98320e336a5e09, https://vpn-1lh.pages.dev/
+187248, 2024-07-08 22:02:20, 2024-07-08 22:02:20, phishing, 89203ee136da4dd8c2e90ff34c564853, http://jointelegram.me/ispoofstore2/index.html
 187247, 2024-07-08 21:25:58, 2024-07-08 21:25:58, malware, cee54d13d5524ce1a6f4eb127dcf5a7a, https://dowhatthewealthydo.com/m/base.apk
 187246, 2024-07-08 21:25:34, 2024-07-08 21:25:34, phishing, 20b801c666e91cea8212b18d2fe739e8, https://dowhatthewealthydo.com/m
 187245, 2024-07-08 21:25:25, 2024-07-08 21:25:25, malware, f56835819fe943138a8601703dcb415d, http://61.52.159.109:57346/i
@@ -499,13 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 186760, 2024-07-08 09:24:21, 2024-07-08 09:24:21, malware, 1b244312d15b4fc8b5aa9d0ed826ad0a, http://117.221.163.36:39454/bin.sh
 186759, 2024-07-08 09:24:19, 2024-07-08 09:24:19, malware, 8c4c08f58bb541c3af770887dcb4a501, http://117.219.94.214:57542/bin.sh
 186758, 2024-07-08 09:23:56, 2024-07-08 09:23:56, malware, 76a5460584bd46a9afacf01dd10cdda5, http://117.216.158.14:48127/bin.sh
-186757, 2024-07-08 09:23:06, 2024-07-08 09:23:06, malware, 2ae5ff7fbd4f4684aa70e903cd819f6a, http://117.211.212.103:48888/bin.sh
-186756, 2024-07-08 09:22:38, 2024-07-08 09:22:38, malware, c56029abbc5d4177936cd05643b0d33a, http://117.208.20.218:52397/i
-186755, 2024-07-08 09:21:59, 2024-07-08 09:21:59, malware, 261c79d5e20f49a3ac269c509179337c, http://117.206.184.134:49637/bin.sh
-186754, 2024-07-08 09:21:57, 2024-07-08 09:21:57, malware, 33335254cebb4be7a51a2dff7c587305, http://117.203.113.222:60576/Mozi.m
-186753, 2024-07-08 09:21:50, 2024-07-08 09:21:50, malware, c5234da496e249afae4c573f58a8931e, http://117.202.70.23:54546/bin.sh
-186752, 2024-07-08 09:21:48, 2024-07-08 09:21:48, malware, 77fc20f2a3dc46fc91a128c389222f33, http://117.200.189.241:34598/bin.sh
-186751, 2024-07-08 09:20:36, 2024-07-08 09:20:36, malware, cd2628a859d046c3acee79c968fb8d28, http://115.55.249.252:41898/i
-186750, 2024-07-08 09:20:34, 2024-07-08 09:20:34, malware, bb7aacca51ea4c3591b17d3d25e8aeb2, http://115.55.249.252:41898/bin.sh
-186749, 2024-07-08 09:20:32, 2024-07-08 09:20:32, malware, a3b80dbe062a4d30b899523fcbe79623, http://115.52.247.149:42149/bin.sh
-186748, 2024-07-08 09:20:30, 2024-07-08 09:20:30, malware, 7ae0af1080db4512960c172b0e9545f4, http://112.248.108.197:49974/bin.sh
