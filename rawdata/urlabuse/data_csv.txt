@@ -6,9 +6,29 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-08 19:00:01 UTC
+# UPDATE: 2024-07-08 20:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+187219, 2024-07-08 19:26:11, 2024-07-08 19:26:11, phishing, 6e4062ddf9878ee7e89ce174c854ab59, http://outlook-office365.pages.dev
+187218, 2024-07-08 19:21:22, 2024-07-08 19:21:22, malware, b6cf44abb44049a498cbae4a131b94f8, http://59.91.91.32:57893/i
+187217, 2024-07-08 19:21:20, 2024-07-08 19:21:20, malware, 7f42cbba3de34c1d9a725333ea497c21, http://59.91.86.205:46629/i
+187216, 2024-07-08 19:21:07, 2024-07-08 19:21:07, malware, c80b23a6ddb94364834aa8634efa4673, http://39.174.238.94:55743/Mozi.a
+187215, 2024-07-08 19:21:06, 2024-07-08 19:21:06, malware, bb68f90696fd4ba48ba069031c9975cc, http://27.6.196.46:57185/i
+187214, 2024-07-08 19:21:04, 2024-07-08 19:21:04, malware, 5ed2225fafb941bdaa185fb596ff9df7, http://219.154.155.242:52113/i
+187213, 2024-07-08 19:21:03, 2024-07-08 19:21:03, malware, 13bba657fa4d4b4087caefb0958d7828, http://182.59.175.54:54780/bin.sh
+187212, 2024-07-08 19:21:00, 2024-07-08 19:21:00, malware, c9fb0665ce5243d3b87e88e7a951ed54, http://182.122.234.13:48618/bin.sh
+187211, 2024-07-08 19:20:59, 2024-07-08 19:20:59, malware, e735b6c8ae6b40de81ca2a642410930d, http://182.116.34.41:55424/Mozi.m
+187210, 2024-07-08 19:20:57, 2024-07-08 19:20:57, malware, 704a3a505afa4f84916cf04170777e1e, http://182.113.42.222:39202/Mozi.m
+187209, 2024-07-08 19:20:06, 2024-07-08 19:20:06, malware, e1f049a918504676883746824dbe2442, http://115.58.135.65:52319/i
+187208, 2024-07-08 19:16:13, 2024-07-08 19:16:13, phishing, 23f63511d860c988a9f4a7d02fce6137, http://9iuhgf4edxzasdrrewsxcfgydszxcvbnmjuytr4rfvcxzaq2wsxzsefghj.pages.dev
+187207, 2024-07-08 19:02:25, 2024-07-08 19:02:25, phishing, 30f79b0371bfa5749cc2958aaac30f59, https://vvskomplett.no/dev/tests/functional/config/login.php
+187206, 2024-07-08 19:02:04, 2024-07-08 19:02:04, phishing, 3962172be2da1a855ad5d060b796cb87, https://notifyhubss.net/47fbefe50u7ed44a34l81c46e3dl7b0a7d7d.html
+187205, 2024-07-08 19:01:19, 2024-07-08 19:01:19, phishing, f6a9c39baee3cb65d516a35a12fc978c, https://0nlinesecuremessagereader.micromupdateremotesecurereader.sbs/?ifOEy3=a2TsL
+187204, 2024-07-08 19:01:13, 2024-07-08 19:01:13, phishing, 12a65c5352474f0be7ee05cf709d1203, http://storage.testnet.cere.network/177522/baebb4icvhwithsbz7vvk4klb5ns3e5umc2wy3w2fwbf5lyhjowvm54vljq
+187203, 2024-07-08 19:01:03, 2024-07-08 19:01:03, phishing, a83473920f3aa6f7b783fd56d3f9d567, https://gw.ruangguru.com.jiran.fahrylvpn.my.id/
+187202, 2024-07-08 19:01:01, 2024-07-08 19:01:01, phishing, a668965d855d4c69bede4852c016f7df, https://jzrx-spins.com/k/
+187201, 2024-07-08 19:00:42, 2024-07-08 19:00:42, phishing, ecd3d39f175bf07689607500d7c6e7d6, https://telewebk.xyz/k/
+187200, 2024-07-08 19:00:39, 2024-07-08 19:00:39, phishing, f06073526b4a00666e3999ce3ef81ee5, https://telegranx.top/
 187199, 2024-07-08 18:42:15, 2024-07-08 18:42:15, phishing, 8ee8311b594ed39ae29d62219379ea50, https://hdgdg242526.weebly.com/
 187198, 2024-07-08 18:41:09, 2024-07-08 18:41:09, phishing, 0f4e680040716eabdef3d2448e01d98b, https://blackcurrant21147243.temporary-demo.site
 187197, 2024-07-08 18:40:51, 2024-07-08 18:34:13, phishing, 938cc95e0a6aee4dc5ecea285dc7a223, https://ikigia.w3spaces.com/index.html
@@ -489,23 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 186722, 2024-07-08 08:20:45, 2024-07-08 08:20:45, malware, baf69a6086e9496eb2e7fb582845d8e6, http://117.208.25.80:52747/Mozi.m
 186721, 2024-07-08 08:20:10, 2024-07-08 08:20:10, malware, 1827237ecc9f460a9cdb072641dbe1f7, http://115.61.114.4:37969/i
 186720, 2024-07-08 08:20:08, 2024-07-08 08:20:08, malware, ab3a7009fa0c43f7b15dbf33ed6f3a02, http://115.61.114.4:37969/bin.sh
-186719, 2024-07-08 08:20:06, 2024-07-08 08:20:06, malware, dffdd9e097db4ffc96a870f0e0146caa, http://115.56.10.24:33379/
-186718, 2024-07-08 08:02:17, 2024-07-08 08:02:17, phishing, 86330a07315f1a6c47663f0a38e23d00, https://bt-107617-108585.weeblysite.com/
-186717, 2024-07-08 07:53:54, 2024-07-08 07:30:10, phishing, a8af32fef20d6c6b5debd9334d588deb, https://64xoexi.meusonhodeoferta.com/duooIKVSMCw5xUhXOGC8/c2ViYXN0aWVuLmF0dGFyZEBjb3JwLm92aC5jb20=
-186716, 2024-07-08 07:53:44, 2024-07-08 07:08:15, phishing, 22d0afb739e5eff444c47ab5d2d157e9, http://twint.angaben.org/de/receive/79469380
-186715, 2024-07-08 07:53:27, 2024-07-08 06:44:16, phishing, f60a0474f8131c1d551f6aafea3a1d0a, https://twint.soliditat.com/aktualisierung
-186714, 2024-07-08 07:53:16, 2024-07-08 06:44:15, phishing, 694dc0ac16f326d657969d7156b65476, http://g7.fr/erneuerung-information-de.com/
-186713, 2024-07-08 07:52:39, 2024-07-08 06:42:25, phishing, 574291f64e660f3a4abe1a66a5942c2d, https://twint.ws/de/receive/79469380
-186712, 2024-07-08 07:52:13, 2024-07-08 06:42:15, phishing, 75e4d5967d3ea12bb2e009a666dcaf84, https://twint.cybersicherhelt.com/de/receive/79469380
-186711, 2024-07-08 07:51:59, 2024-07-08 06:40:21, phishing, 795f6e53700eb8e359e17c7e0e81919e, https://post-ch-suivi.com/swisspost/app/
-186710, 2024-07-08 07:02:24, 2024-07-08 07:02:24, phishing, cbe748f0ae1fab04a66d15ff15a94283, https://btvsg.reinzvpn.my.id/
-186709, 2024-07-08 06:48:13, 2024-07-08 06:48:13, phishing, 658efba0b10156270ba5d617775c9e6d, http://mes-espace-renouvellement-enligne.fr
-186708, 2024-07-08 06:44:23, 2024-07-08 06:44:23, phishing, fdd8cf016370fbe8930aad57fd197185, http://promptsrevlite.pages.dev
-186707, 2024-07-08 06:42:23, 2024-07-08 06:42:23, phishing, bb886bc9e6a39d7f19eef675025b63e8, https://mail-wichtig-support.mybluehost.me/swiss/CHFINAL/4176b/
-186706, 2024-07-08 06:40:16, 2024-07-08 06:40:16, phishing, 0d8ec6d17dad265f8699f51ea94a5ba6, http://cgipaksinfodis.com/cgi-bin
-186705, 2024-07-08 06:40:16, 2024-07-08 06:40:16, phishing, d00a9e1bd79fc11c1bf1150fc8294f3a, https://mail-wichtig-support.mybluehost.me/swiss/CHFINAL/2354b/
-186704, 2024-07-08 06:40:13, 2024-07-08 06:40:13, phishing, c65e16f28224efc6b14300d8ec42cf4e, https://pelinergin.com/lm.html
-186703, 2024-07-08 06:38:16, 2024-07-08 06:38:16, phishing, 2a7d0f8c0cd03cd6a108e94c90098605, https://eez.iqs.temporary.site/pakketomleiden/well-known/ch/
-186702, 2024-07-08 06:16:16, 2024-07-08 06:16:16, phishing, 73ddf4399f09cf54a4de751ec6ea58e3, http://promptsrevaccess-9xx.pages.dev
-186701, 2024-07-08 06:12:15, 2024-07-08 06:12:15, phishing, c1926bc2aed1bed61d692b9871623b1c, http://phoenixpower.pages.dev
-186700, 2024-07-08 05:34:10, 2024-07-08 05:34:10, phishing, c6bfefaecca1f4f0d4f5db3a8884601f, http://tgvbhgvcxvgbhjkdfyrgufbryfbherybhfb.pages.dev
