@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-08 12:00:02 UTC
+# UPDATE: 2024-07-08 13:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+186883, 2024-07-08 12:20:15, 2024-07-08 12:20:15, phishing, eaf76ffa1e697889b5658b0e188984cd, http://newestmigrevzcxn.pages.dev
+186882, 2024-07-08 12:08:12, 2024-07-08 12:08:12, phishing, a2a4bb3ee54e3a44e4fe01e332edaf02, http://yenib470.top
 186881, 2024-07-08 11:52:11, 2024-07-08 11:52:11, phishing, 55918eb04218df32cb9c626591b7a98c, http://hallsawar.pages.dev
 186880, 2024-07-08 11:42:11, 2024-07-08 11:42:11, phishing, 172bf0873952574d2a1ca7bee24f6ffc, http://aidatiadehemensorgulasana.org
 186879, 2024-07-08 11:40:15, 2024-07-08 11:40:15, phishing, 1d93e8814ba416f9b666bd0f875c9eb9, http://dureclharqes.shop
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 186386, 2024-07-07 23:20:39, 2024-07-07 23:20:39, malware, 978ce2c7d1f34ce695f402c455ad749b, http://117.195.83.84:53120/bin.sh
 186385, 2024-07-07 23:20:23, 2024-07-07 23:20:23, malware, 52b7495e4f3f43049ac3d1d2ef8eef6b, http://117.195.246.248:56136/bin.sh
 186384, 2024-07-07 23:20:21, 2024-07-07 23:20:21, malware, 705539da1dfb4e60bd2490eb4b883913, http://115.61.116.20:54378/i
-186383, 2024-07-07 23:20:19, 2024-07-07 23:20:19, malware, ca6f83d18a5049e6a23bb1e5586f485e, http://115.61.116.20:54378/bin.sh
-186382, 2024-07-07 23:20:17, 2024-07-07 23:20:17, malware, ecb1ff63699c473585c48ecda5769d1c, http://115.56.112.113:54416/i
