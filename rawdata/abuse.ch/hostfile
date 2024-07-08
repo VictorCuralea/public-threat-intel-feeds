@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-07-08 14:04:11 UTC                        #
+# Last updated: 2024-07-08 21:36:02 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	mint-stealer.top
 127.0.0.1	jiumi.eu.org
 127.0.0.1	upshare.wimscp.net
 127.0.0.1	jvjv2044duck33.duckdns.org
@@ -7343,4 +7344,4 @@
 127.0.0.1	hk-once.520226.xyz
 127.0.0.1	znwfb3.buzz
 127.0.0.1	d1railx6y20syj.cloudfront.net
-# Number of entries: 7337
+# Number of entries: 7338
