@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-08 00:00:01 UTC
+# UPDATE: 2024-07-08 01:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+186479, 2024-07-08 00:16:13, 2024-07-08 00:16:13, phishing, c3fb18a334b047d70a5cf54d3abc7942, http://bc-x0q.pages.dev
 186478, 2024-07-07 23:46:11, 2024-07-07 23:46:11, phishing, 5ac03f55c423c5dc69b97a5e6c7da60e, http://super-fire-1ca4.calimpj.workers.dev
 186477, 2024-07-07 23:36:12, 2024-07-07 23:36:12, phishing, 6b07db6c3fcefee8e1aa78b65111352c, http://od-mjj.huyucmw.workers.dev
 186476, 2024-07-07 23:29:08, 2024-07-07 23:29:08, malware, 2b8e79ddf7ff4f5b8372d002a0178566, http://nyxdwon.a2t6ujy.cn/android/douxianjie.apk
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 185982, 2024-07-07 13:32:42, 2024-07-07 13:32:42, malware, 574e5dae796841eb9c112821c5432e37, http://27.213.37.153:35761/i
 185981, 2024-07-07 13:32:41, 2024-07-07 13:32:41, malware, cfa2013d939b46e58f7549941d75ae69, http://27.213.37.153:35761/bin.sh
 185980, 2024-07-07 13:32:39, 2024-07-07 13:32:39, malware, fd936fdb734344a3b7fee7e922fc1a87, http://27.209.149.8:51788/Mozi.m
-185979, 2024-07-07 13:32:37, 2024-07-07 13:32:37, malware, 485b203c4fb94c5da157ffe46663fec6, http://27.209.149.8:51788/i
