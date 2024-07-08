@@ -6,9 +6,18 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-08 06:00:01 UTC
+# UPDATE: 2024-07-08 07:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+186709, 2024-07-08 06:48:13, 2024-07-08 06:48:13, phishing, 658efba0b10156270ba5d617775c9e6d, http://mes-espace-renouvellement-enligne.fr
+186708, 2024-07-08 06:44:23, 2024-07-08 06:44:23, phishing, fdd8cf016370fbe8930aad57fd197185, http://promptsrevlite.pages.dev
+186707, 2024-07-08 06:42:23, 2024-07-08 06:42:23, phishing, bb886bc9e6a39d7f19eef675025b63e8, https://mail-wichtig-support.mybluehost.me/swiss/CHFINAL/4176b/
+186706, 2024-07-08 06:40:16, 2024-07-08 06:40:16, phishing, 0d8ec6d17dad265f8699f51ea94a5ba6, http://cgipaksinfodis.com/cgi-bin
+186705, 2024-07-08 06:40:16, 2024-07-08 06:40:16, phishing, d00a9e1bd79fc11c1bf1150fc8294f3a, https://mail-wichtig-support.mybluehost.me/swiss/CHFINAL/2354b/
+186704, 2024-07-08 06:40:13, 2024-07-08 06:40:13, phishing, c65e16f28224efc6b14300d8ec42cf4e, https://pelinergin.com/lm.html
+186703, 2024-07-08 06:38:16, 2024-07-08 06:38:16, phishing, 2a7d0f8c0cd03cd6a108e94c90098605, https://eez.iqs.temporary.site/pakketomleiden/well-known/ch/
+186702, 2024-07-08 06:16:16, 2024-07-08 06:16:16, phishing, 73ddf4399f09cf54a4de751ec6ea58e3, http://promptsrevaccess-9xx.pages.dev
+186701, 2024-07-08 06:12:15, 2024-07-08 06:12:15, phishing, c1926bc2aed1bed61d692b9871623b1c, http://phoenixpower.pages.dev
 186700, 2024-07-08 05:34:10, 2024-07-08 05:34:10, phishing, c6bfefaecca1f4f0d4f5db3a8884601f, http://tgvbhgvcxvgbhjkdfyrgufbryfbherybhfb.pages.dev
 186699, 2024-07-08 05:26:42, 2024-07-08 05:26:42, malware, 4b66557270a143ef8836b4b78efce2b6, http://61.52.82.3:56081/i
 186698, 2024-07-08 05:26:22, 2024-07-08 05:26:22, malware, 8d2d67415bd3463db2fc6f48a74d8221, http://59.99.217.97:52537/bin.sh
@@ -500,12 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 186212, 2024-07-07 17:22:33, 2024-07-07 17:22:33, malware, d2f52239afa5478aa8440dabd2de3661, http://117.248.163.67:44909/bin.sh
 186211, 2024-07-07 17:22:16, 2024-07-07 17:22:16, malware, e56ef8ac21a74f79903d1f099de7e46f, http://117.245.46.106:41507/bin.sh
 186210, 2024-07-07 17:22:14, 2024-07-07 17:22:14, malware, fcca8984452d4cc993443c92746276e7, http://117.223.3.90:44306/bin.sh
-186209, 2024-07-07 17:22:12, 2024-07-07 17:22:12, malware, 38a52c827e3640d5ae1bc8fe488569cd, http://117.221.53.242:60970/bin.sh
-186208, 2024-07-07 17:22:10, 2024-07-07 17:22:10, malware, 7ed06b7b7d064aba829e0543732bcd1d, http://117.221.112.4:56391/bin.sh
-186207, 2024-07-07 17:21:43, 2024-07-07 17:21:43, malware, 14a11adf67fe4151a9ead18e3c4c9ac9, http://117.208.25.118:42110/i
-186206, 2024-07-07 17:21:41, 2024-07-07 17:21:41, malware, 51f94fba839a4a5eb2a7fafe7ea5a787, http://117.208.25.118:42110/bin.sh
-186205, 2024-07-07 17:21:39, 2024-07-07 17:21:39, malware, e193e08910494cd3b0932b3988eafa15, http://117.207.68.254:35738/i
-186204, 2024-07-07 17:21:36, 2024-07-07 17:21:36, malware, 40370431df5c4335b5347d14431f25fe, http://117.207.68.254:35738/bin.sh
-186203, 2024-07-07 17:21:13, 2024-07-07 17:21:13, malware, 6230a9b4e7a24a6b9ec49ba1cef63707, http://117.207.17.35:57383/bin.sh
-186202, 2024-07-07 17:21:11, 2024-07-07 17:21:11, malware, 61ed72d5924c457698f8747b7fa89784, http://117.206.134.142:52994/i
-186201, 2024-07-07 17:21:07, 2024-07-07 17:21:07, malware, 4b3caee11e0f4db58122d3ed9ba9f2bc, http://117.206.134.142:52994/bin.sh
