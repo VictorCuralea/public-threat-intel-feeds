@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-07-08 07:15:57 UTC                        #
+# Last updated: 2024-07-08 14:04:11 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	jiumi.eu.org
+127.0.0.1	upshare.wimscp.net
 127.0.0.1	jvjv2044duck33.duckdns.org
 127.0.0.1	ad4teg.com
 127.0.0.1	indialongvenomminister01connection.myddns.rocks
@@ -7353,105 +7355,4 @@
 127.0.0.1	soft.specialcraftbox.com
 127.0.0.1	ec2-52-5-62-203.compute-1.amazonaws.com
 127.0.0.1	esdm-internal.com
-127.0.0.1	alehej54.top
-127.0.0.1	alehmv64.top
-127.0.0.1	alejcw73.top
-127.0.0.1	alekah57.top
-127.0.0.1	alenep53.top
-127.0.0.1	aleqxd56.top
-127.0.0.1	alevfe67.top
-127.0.0.1	alexfy76.top
-127.0.0.1	alezop66.top
-127.0.0.1	alezqi75.top
-127.0.0.1	aleeyd31.top
-127.0.0.1	alefuk34.top
-127.0.0.1	alepvb33.top
-127.0.0.1	alerhb46.top
-127.0.0.1	alelof36.top
-127.0.0.1	alenjf44.top
-127.0.0.1	alensr26.top
-127.0.0.1	alesxu45.top
-127.0.0.1	alevju41.top
-127.0.0.1	alezjy47.top
-127.0.0.1	alezno43.top
-127.0.0.1	qonein9sb.top
-127.0.0.1	qonein9pt.top
-127.0.0.1	qoleven11vt.top
-127.0.0.1	qonein9ht.top
-127.0.0.1	qonein9pn.top
-127.0.0.1	qoleven11pt.top
-127.0.0.1	qoleven11sb.top
-127.0.0.1	qoleven11sr.top
-127.0.0.1	qoleven11ht.top
-127.0.0.1	qoleven11pn.top
-127.0.0.1	qofourt14sb.top
-127.0.0.1	qofourt14vt.top
-127.0.0.1	qofive5vt.top
-127.0.0.1	qofourt14pt.top
-127.0.0.1	qofourt14sr.top
-127.0.0.1	qofourt14ht.top
-127.0.0.1	qofourt14pn.top
-127.0.0.1	qofive5sr.top
-127.0.0.1	qofive5pt.top
-127.0.0.1	qofive5sb.top
-127.0.0.1	qofifteen15sb.top
-127.0.0.1	qofifteen15vt.top
-127.0.0.1	qofive5ht.top
-127.0.0.1	qofive5pn.top
-127.0.0.1	qofifteen15pt.top
-127.0.0.1	qitvelv12ht.top
-127.0.0.1	qofifteen15ht.top
-127.0.0.1	qitvelv12vs.top
-127.0.0.1	qiten10vs.top
-127.0.0.1	qithirt13vs.top
-127.0.0.1	qisix6ht.top
-127.0.0.1	qisix6vs.top
-127.0.0.1	qiten10ht.top
-127.0.0.1	qinein9vs.top
-127.0.0.1	qileven11vs.top
-127.0.0.1	qinein9ht.top
-127.0.0.1	qifourt14ht.top
-127.0.0.1	qifourt14vs.top
-127.0.0.1	qifive5pt.top
-127.0.0.1	qifive5vs.top
-127.0.0.1	qififteen15pt.top
-127.0.0.1	qififteen15vs.top
-127.0.0.1	qifive5ht.top
-127.0.0.1	qonein9vt.top
-127.0.0.1	qonein9sr.top
-127.0.0.1	qosix6ht.top
-127.0.0.1	qosix6pn.top
-127.0.0.1	qosix6sb.top
-127.0.0.1	qosix6pt.top
-127.0.0.1	qosix6sr.top
-127.0.0.1	qosix6vt.top
-127.0.0.1	qoten10pn.top
-127.0.0.1	qoten10ht.top
-127.0.0.1	qoten10pt.top
-127.0.0.1	qoten10sb.top
-127.0.0.1	qoten10sr.top
-127.0.0.1	qoten10vt.top
-127.0.0.1	qothirt13ht.top
-127.0.0.1	qothirt13pn.top
-127.0.0.1	qothirt13pt.top
-127.0.0.1	qothirt13sb.top
-127.0.0.1	qothirt13sr.top
-127.0.0.1	qothirt13vt.top
-127.0.0.1	qotvelv12ht.top
-127.0.0.1	qotvelv12pt.top
-127.0.0.1	qotvelv12pn.top
-127.0.0.1	qotvelv12sb.top
-127.0.0.1	qotvelv12sr.top
-127.0.0.1	qotvelv12vt.top
-127.0.0.1	qpfourt14ht.top
-127.0.0.1	qpfourt14sr.top
-127.0.0.1	qpleven11ht.top
-127.0.0.1	qpleven11sb.top
-127.0.0.1	qpleven11sr.top
-127.0.0.1	qpnein9ht.top
-127.0.0.1	qpnein9pt.top
-127.0.0.1	qpnein9sr.top
-127.0.0.1	qptvelv12ht.top
-127.0.0.1	qptvelv12sr.top
-127.0.0.1	qptwo2sr.top
-# Number of entries: 7448
+# Number of entries: 7349
