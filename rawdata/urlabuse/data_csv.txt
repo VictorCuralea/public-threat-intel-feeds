@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-09 11:00:01 UTC
+# UPDATE: 2024-07-09 12:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+187612, 2024-07-09 11:32:14, 2024-07-09 11:32:14, phishing, 0813beba2c8dc44a94164ece4ae299d4, https://dfghjgiuy.weeblysite.com/
+187611, 2024-07-09 11:04:14, 2024-07-09 11:04:14, phishing, 5a8c36deb360d81db80c48c867e7864e, http://cccc.hopto.org
+187610, 2024-07-09 11:02:10, 2024-07-09 11:02:10, phishing, 6566ff5ba63f4a75b79dbc1029adccb7, http://hello-world-rough-brook-6f8a.mikelad11.workers.dev
 187609, 2024-07-09 10:54:14, 2024-07-09 10:54:14, phishing, d80eadf0faed6063b2db358d18209be7, http://mail.pidekalett.com
 187608, 2024-07-09 10:38:24, 2024-07-09 10:30:14, phishing, bbc649220d7b747c94cf0200a50c5d1b, https://twint.solidltat.com/de/receive/bank/79469380
 187607, 2024-07-09 10:37:55, 2024-07-09 10:24:13, phishing, 03fa8ee03790b33dcb692853c01c2558, https://bt-cmp.link.cam/
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 187115, 2024-07-08 15:27:49, 2024-07-08 15:27:49, malware, a5ea9cf625044e2fa6fd214ba95da361, http://59.88.120.17:58743/bin.sh
 187114, 2024-07-08 15:27:47, 2024-07-08 15:27:47, malware, a14b858497454d3e8a9560169971a4fc, http://59.88.11.139:56854/Mozi.m
 187113, 2024-07-08 15:27:45, 2024-07-08 15:27:45, malware, 121f102acfe2454c9f43b519be27fed5, http://59.184.244.9:45451/bin.sh
-187112, 2024-07-08 15:27:43, 2024-07-08 15:27:43, malware, d38698d62cd846649fd50d6de5c706e3, http://59.184.242.191:39110/i
-187111, 2024-07-08 15:27:19, 2024-07-08 15:27:19, malware, fb313ad018564f19bb9fa78534b42966, http://59.182.233.180:51568/Mozi.m
-187110, 2024-07-08 15:27:10, 2024-07-08 14:52:14, phishing, a03825536edb1d1ae968198ee6ab6a68, https://internal5149.wixsite.com/my-site-1
