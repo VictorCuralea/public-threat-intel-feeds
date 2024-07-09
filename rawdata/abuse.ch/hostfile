@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-07-09 10:50:50 UTC                        #
+# Last updated: 2024-07-09 12:48:31 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	gitak.top
+127.0.0.1	openshift.echase.cn.cdn.dnsv1.com
 127.0.0.1	bflow-musico.fun
 127.0.0.1	stationacutwo.shop
 127.0.0.1	politics-installing.gl.at.ply.gg
@@ -7353,4 +7355,4 @@
 127.0.0.1	www.nvidiaapp.cloud
 127.0.0.1	o-paketverfolgung.com
 127.0.0.1	supershell.dongling.xyz
-# Number of entries: 7347
+# Number of entries: 7349
