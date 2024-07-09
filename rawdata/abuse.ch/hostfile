@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-07-08 21:36:02 UTC                        #
+# Last updated: 2024-07-09 06:27:44 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	hpr-rtlernt.com
 127.0.0.1	mint-stealer.top
 127.0.0.1	jiumi.eu.org
 127.0.0.1	upshare.wimscp.net
@@ -7341,5 +7342,4 @@
 127.0.0.1	supershell.dongling.xyz
 127.0.0.1	federalstudentaid-usdepartmentofeducation.tandemcyberops.co
 127.0.0.1	jhueby.diskstation.me
-127.0.0.1	hk-once.520226.xyz
 # Number of entries: 7336
