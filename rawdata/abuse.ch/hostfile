@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-07-09 08:49:01 UTC                        #
+# Last updated: 2024-07-09 10:50:50 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	bflow-musico.fun
+127.0.0.1	stationacutwo.shop
 127.0.0.1	politics-installing.gl.at.ply.gg
 127.0.0.1	busbookingjbg.com
 127.0.0.1	support.firewallsupportservers.com
@@ -7352,4 +7354,4 @@
 127.0.0.1	o-paketverfolgung.com
 127.0.0.1	supershell.dongling.xyz
 127.0.0.1	federalstudentaid-usdepartmentofeducation.tandemcyberops.co
-# Number of entries: 7346
+# Number of entries: 7348
