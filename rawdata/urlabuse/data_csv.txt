@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-09 02:00:01 UTC
+# UPDATE: 2024-07-09 03:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+187373, 2024-07-09 02:46:12, 2024-07-09 02:46:12, phishing, 422bcc6f5921fcddbdcf0bca16bd2984, http://sgrw72424526hsgfshsgss82763ussgsjstuiui2oiuysgksjasamsiut1.pages.dev
+187372, 2024-07-09 02:30:12, 2024-07-09 02:30:12, phishing, 124407a4cfce2d7d745c7549aae43760, http://hitnove.pages.dev
 187371, 2024-07-09 01:27:24, 2024-07-09 01:27:24, malware, 7ab1544a4c2d461d84abb47a89df54b6, http://nyxdwon.a2t6ujy.cn/android/ktjdyt.apk
 187370, 2024-07-09 01:25:31, 2024-07-09 01:25:31, malware, b8e14c1bbc3c48a6ad72ec03015ab48e, http://61.3.218.53:55757/bin.sh
 187369, 2024-07-09 01:25:29, 2024-07-09 01:25:29, malware, 949980a26c6f4112a49fb16a479fb4dc, http://61.0.177.130:35608/i
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 186876, 2024-07-08 11:31:47, 2024-07-08 11:31:47, malware, 876ee89016e749ab9ee919303c893f07, http://61.52.37.152:45132/bin.sh
 186875, 2024-07-08 11:31:45, 2024-07-08 11:31:45, malware, 285d08359a3046b3ae993fc2a8a5cf1e, http://59.99.139.152:47357/i
 186874, 2024-07-08 11:31:40, 2024-07-08 11:31:40, malware, 26a026647e4d4e3a9e3155af0061b110, http://59.99.139.152:47357/bin.sh
-186873, 2024-07-08 11:31:37, 2024-07-08 11:31:37, malware, d48d1fa0e41442e6a3369d698d411c52, http://59.97.119.253:33058/i
-186872, 2024-07-08 11:31:22, 2024-07-08 11:30:11, phishing, 55fa79b8fbb4dc93e34fbdac685a5ba9, https://www.smartsurvey.co.uk/s/0O8PTN/
