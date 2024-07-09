@@ -6,9 +6,21 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-09 16:00:01 UTC
+# UPDATE: 2024-07-09 17:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+187859, 2024-07-09 16:52:13, 2024-07-09 16:52:13, phishing, da5320f0b02d738e6e9f4d4c52cbec0b, https://my-site-107660-102150.weeblysite.com/
+187858, 2024-07-09 16:46:11, 2024-07-09 16:46:11, phishing, 65b1186caef496e6864d16087484e0c4, http://page-timeueubvb.pages.dev
+187857, 2024-07-09 16:13:51, 2024-07-09 16:08:20, phishing, 02d45090bd00c509936a20df10c36ff9, https://bt-serv23.weeblysite.com/
+187856, 2024-07-09 16:04:34, 2024-07-09 16:04:34, phishing, 7f2b3271df4112554fa45f47a57ac811, https://gateway.lighthouse.storage/ipfs/bafkreigpescqo26iybuazfuehh2t2xsv6uqw5pwkkgxhvpqlabewyujcuu
+187855, 2024-07-09 16:04:10, 2024-07-09 16:04:10, phishing, 9d7d48c32e635f1a84b260f73c27e736, https://ipfs.io/ipfs/bafkreig57owd3vrlwd725gfcj6g7bm7qrlw27mwnz527s6by4wa3sig2pu
+187854, 2024-07-09 16:04:06, 2024-07-09 16:04:06, phishing, 1d22e09c99738b640349bad03aeb8798, https://ipfs.io/ipfs/bafkreiauwo6sx2lg3dxnlcm6rhyx4nvhiujydm6bgby67bufh46e63hrdi
+187853, 2024-07-09 16:03:03, 2024-07-09 16:03:03, phishing, 0fe39c60ff69da2d047baa4206af923b, https://worker-warp2sub.geforce8800.workers.dev/
+187852, 2024-07-09 16:02:25, 2024-07-09 16:02:25, phishing, d1bce2cfe5becacda6b459553d138729, https://greatsona.pro/lander/n24-suraj2_1715875313/index.html
+187851, 2024-07-09 16:02:21, 2024-07-09 16:02:21, phishing, 64ab32e5e13beca6a281d5b4db16c545, https://tele-hots.vercel.app/
+187850, 2024-07-09 16:02:13, 2024-07-09 16:02:13, phishing, 51e2ee4099caa51859c253a847b67d22, https://bostempek.vercel.app/
+187849, 2024-07-09 16:02:13, 2024-07-09 16:02:13, phishing, 64df2de13699596fcc5a3171f4fac83f, https://tw-dj0.pages.dev/crypto.worker-9wi-02dm.js
+187848, 2024-07-09 16:00:11, 2024-07-09 16:00:11, phishing, ee37f45d01bfcda5ca3369f2a61d3950, http://hallsawards-pdf.pages.dev
 187847, 2024-07-09 15:56:11, 2024-07-09 15:56:11, phishing, c1a22fbd529c5c6fc6cc10f393e52b53, http://uaosjgreskaoynaserolfhgsjwerndvs03.pages.dev
 187846, 2024-07-09 15:55:50, 2024-07-09 15:50:15, phishing, c324e935621b274dd5ad342f08bdda33, https://twint.cyberslcherhelt.com/de/receive/79469380
 187845, 2024-07-09 15:55:26, 2024-07-09 15:52:14, phishing, 43fd1d82f3ee929e445db90f73655793, https://ch-trackingorder-expressonline.wpdevcloud.com/login/DHL2-F-Admin/DHL2-F-Admin/index.php
@@ -497,15 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 187362, 2024-07-09 01:23:59, 2024-07-09 01:23:59, malware, edbb158c2b554c108d397f947bb8b099, http://222.141.73.80:53201/bin.sh
 187361, 2024-07-09 01:23:58, 2024-07-09 01:23:58, malware, 6926176b241c493d800a4d2fe02042c4, http://221.15.49.176:50194/i
 187360, 2024-07-09 01:23:56, 2024-07-09 01:23:56, malware, 5b3427fc834a4c36828be7eb13548a02, http://221.14.50.99:55161/
-187359, 2024-07-09 01:23:55, 2024-07-09 01:23:55, malware, c886c68853d846e1badf16c728cd2477, http://221.1.245.129:49558/bin.sh
-187358, 2024-07-09 01:23:43, 2024-07-09 01:23:43, malware, 040687323c7a468da4dd2d435267c918, http://218.58.6.93:46124/i
-187357, 2024-07-09 01:23:41, 2024-07-09 01:23:41, malware, b4e9e58986424cb597742865436fcf14, http://182.126.117.186:45965/i
-187356, 2024-07-09 01:23:40, 2024-07-09 01:23:40, malware, d28c29aa4dd848c796e0b88e3a84361e, http://182.126.117.186:45965/bin.sh
-187355, 2024-07-09 01:23:29, 2024-07-09 01:23:29, malware, de980c511f9d40ff9633fe1ab44203f6, http://182.113.217.242:56791/i
-187354, 2024-07-09 01:23:27, 2024-07-09 01:23:27, malware, 5718432390f2441b9f25f70a11ad4c95, http://125.47.194.23:56360/i
-187353, 2024-07-09 01:23:24, 2024-07-09 01:23:24, malware, 75158e1d548a4b49964e29fd30436040, http://123.129.15.46:55133/Mozi.m
-187352, 2024-07-09 01:23:12, 2024-07-09 01:23:12, malware, bf1b1ddcc87e4fc483b259d36614f31f, http://117.255.100.192:57383/i
-187351, 2024-07-09 01:23:04, 2024-07-09 01:23:04, malware, c2ecd827846e4ae2a289b5f3a3ad3ce4, http://117.255.100.192:57383/bin.sh
-187350, 2024-07-09 01:23:02, 2024-07-09 01:23:02, malware, 229051822efe47a9900b484804d30247, http://117.254.173.235:37351/Mozi.a
-187349, 2024-07-09 01:22:59, 2024-07-09 01:22:59, malware, 1d8b4b98485042dda67aad80490d759b, http://117.248.174.177:33704/Mozi.m
-187348, 2024-07-09 01:22:17, 2024-07-09 01:22:17, malware, ce046bc76d654d73994b457370e2d987, http://117.245.39.76:48581/bin.sh
