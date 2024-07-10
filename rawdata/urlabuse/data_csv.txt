@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-10 00:00:01 UTC
+# UPDATE: 2024-07-10 01:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+188125, 2024-07-10 00:30:10, 2024-07-10 00:30:10, phishing, 96a27575422e8f2e4eb710bf5b67b4c0, http://nbfgdertyujkljuytrfgvbhtrtdfcbvnjhtrtf.pages.dev
 188124, 2024-07-09 23:44:15, 2024-07-09 23:44:15, phishing, d204c7130ae64e5cb6e50b925cdcdeec, http://telesgrnom.com
 188123, 2024-07-09 23:30:56, 2024-07-09 23:30:56, malware, e244eafbfe534db68078711cb3ccaf19, http://nyxdwon.a2t6ujy.cn/android/youduoduo.apk
 188122, 2024-07-09 23:28:51, 2024-07-09 23:28:51, malware, a47629c89d284269b5a6a4d10d01e3a1, http://81.232.132.14:37529/i
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 187628, 2024-07-09 12:21:21, 2024-07-09 12:21:21, malware, 509d68cd2cab4838acb6a051d0436590, http://115.63.44.178:42532/bin.sh
 187627, 2024-07-09 12:21:15, 2024-07-09 12:21:15, malware, 1a659d56f7344a06948b5ada7dd6fd2d, http://115.55.249.32:33579/i
 187626, 2024-07-09 12:21:12, 2024-07-09 12:21:12, malware, 8795a7f0d9e2434c8a1248de209bfee1, http://115.55.249.32:33579/bin.sh
-187625, 2024-07-09 12:21:10, 2024-07-09 12:21:10, malware, eb4dc2259a3449aaba985c55b6180fca, http://115.55.245.200:44454/
