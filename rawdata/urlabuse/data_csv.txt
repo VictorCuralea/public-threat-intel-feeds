@@ -6,9 +6,17 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-10 19:00:01 UTC
+# UPDATE: 2024-07-10 20:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+188713, 2024-07-10 19:40:53, 2024-07-10 19:40:53, phishing, 6ac381208efffafa46df90625cdf7bd1, https://bt-mail-102338.weeblysite.com/
+188712, 2024-07-10 19:15:05, 2024-07-10 17:50:15, phishing, 9c6156c91da301d529822c60df8ad23d, https://vevo191901.wixsite.com/my-site/?user-agent=Mozilla/5.0 (Windows NT 10.0
+188711, 2024-07-10 19:14:51, 2024-07-10 17:48:15, phishing, 92fa2da20b8e0e513e320adad769c3bb, https://tawny-peon-l07wxp.mystrikingly.com/
+188710, 2024-07-10 19:14:20, 2024-07-10 17:38:15, phishing, b76de189cb36277707cada3e4da88695, https://facturetabonement.blogdns.org/SCAM%20OR/
+188709, 2024-07-10 19:02:07, 2024-07-10 19:02:07, phishing, e4ea3d885bf902121d60f827deaa808d, https://sretrustmicrosoft.mrcnppl.us/?NoV9r=r6nI4
+188708, 2024-07-10 19:01:30, 2024-07-10 19:01:30, phishing, 91797b22e981cadddb506d30aec5dd2b, https://offcessupport.support/
+188707, 2024-07-10 19:01:05, 2024-07-10 19:01:05, phishing, cd6309a9a1f18ae61458536415d452bf, https://megapumps.xyz/
+188706, 2024-07-10 19:00:47, 2024-07-10 19:00:47, phishing, 9dba1ebfd7de24d8c02fb33d348cc525, https://telegramabc.com/
 188705, 2024-07-10 17:58:17, 2024-07-10 17:58:17, phishing, e372554011b3a4896152bc222d8741a4, https://dentalrevu.com/app/resgi-ob-id_user/Authentication.php
 188704, 2024-07-10 17:36:14, 2024-07-10 17:36:14, phishing, eda85258301ae147d70eb05d908eef17, https://bif.ikrmmouadi.uk/
 188703, 2024-07-10 17:00:17, 2024-07-10 17:00:17, phishing, 7adbe20a5d818e4c5c3775f2a7a1ff6e, http://login.mhsjetscxdas-ax.com
@@ -501,11 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 188216, 2024-07-10 03:22:56, 2024-07-10 03:22:56, malware, 3105ec770a554f27829779f1b0615920, http://123.13.148.170:41039/i
 188215, 2024-07-10 03:22:34, 2024-07-10 03:22:34, malware, b908693efd74474cad0f5ba75daff28d, http://117.254.99.90:49848/bin.sh
 188214, 2024-07-10 03:22:32, 2024-07-10 03:22:32, malware, c3582d7b03f04cf6b43ba9cb42e07353, http://117.254.97.68:47035/bin.sh
-188213, 2024-07-10 03:22:29, 2024-07-10 03:22:29, malware, 2a0a615af850495e854cfeae27d39a55, http://117.253.200.108:60106/i
-188212, 2024-07-10 03:22:27, 2024-07-10 03:22:27, malware, 93aee1e25f014e0c8449106cacb82bf7, http://117.248.48.43:50953/i
-188211, 2024-07-10 03:22:23, 2024-07-10 03:22:23, malware, 22dd5d338ecf4c799d208b5acd4e1fb9, http://117.248.48.43:50953/bin.sh
-188210, 2024-07-10 03:22:22, 2024-07-10 03:22:22, malware, c8b8d5218ba4439dbd00f962da6b1aaf, http://117.248.40.8:57807/Mozi.m
-188209, 2024-07-10 03:22:20, 2024-07-10 03:22:20, malware, ef815a5369a5403a89c772d25953653e, http://117.248.174.230:56642/bin.sh
-188208, 2024-07-10 03:22:02, 2024-07-10 03:22:02, malware, d70b482ba41e4f7ca63e8b8a9e09d9d7, http://117.248.135.207:37775/bin.sh
-188207, 2024-07-10 03:21:34, 2024-07-10 03:21:34, malware, 5abad4f2dcfd4d308fc0857bd7c5d1a5, http://117.217.138.87:48921/bin.sh
-188206, 2024-07-10 03:21:32, 2024-07-10 03:21:32, malware, 33817e20affe48019e33edf9a366a4d1, http://117.213.82.211:59680/bin.sh
