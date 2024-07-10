@@ -6,9 +6,14 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-10 20:00:01 UTC
+# UPDATE: 2024-07-10 21:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+188718, 2024-07-10 20:46:18, 2024-07-10 20:46:18, phishing, cac006e1ab27da8e3c64c5cf313cef7d, http://telegrram.icu
+188717, 2024-07-10 20:16:18, 2024-07-10 20:16:18, phishing, 255474bc09ae8a4c8e93583079f50a1f, http://11.gins.pro
+188716, 2024-07-10 20:12:17, 2024-07-10 20:12:17, phishing, f7700c75484af6a58966f0b76956639f, http://secureglobalforyoutoclaim.pages.dev
+188715, 2024-07-10 20:12:13, 2024-07-10 20:12:13, phishing, ba167eb90203a4cf88cde447be77b818, http://federalgovernmentneedstolookintotheeducationsector4.pages.dev
+188714, 2024-07-10 20:06:14, 2024-07-10 20:06:14, phishing, f8c0941550e589a30b41860597018cff, http://secureglobalrevvards.pages.dev
 188713, 2024-07-10 19:40:53, 2024-07-10 19:40:53, phishing, 6ac381208efffafa46df90625cdf7bd1, https://bt-mail-102338.weeblysite.com/
 188712, 2024-07-10 19:15:05, 2024-07-10 17:50:15, phishing, 9c6156c91da301d529822c60df8ad23d, https://vevo191901.wixsite.com/my-site/?user-agent=Mozilla/5.0 (Windows NT 10.0
 188711, 2024-07-10 19:14:51, 2024-07-10 17:48:15, phishing, 92fa2da20b8e0e513e320adad769c3bb, https://tawny-peon-l07wxp.mystrikingly.com/
@@ -504,8 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 188221, 2024-07-10 03:23:25, 2024-07-10 03:23:25, malware, e29373a0b0c344e78ec4bceff5ebfc49, http://182.116.20.217:49685/bin.sh
 188220, 2024-07-10 03:23:24, 2024-07-10 03:23:24, malware, 2bbaf815937245e8a39de34550d9faf9, http://125.46.200.206:50317/bin.sh
 188219, 2024-07-10 03:23:12, 2024-07-10 03:23:12, malware, 8cde4390665847e6804599284a855c96, http://125.45.146.4:39868/
-188218, 2024-07-10 03:23:10, 2024-07-10 03:23:10, malware, 556af55a5af4404da59e00ebb694057a, http://123.7.223.196:60088/bin.sh
-188217, 2024-07-10 03:23:08, 2024-07-10 03:23:08, malware, eb78329cf51242d28b81b0fea30ba01b, http://123.7.223.196:60088/
-188216, 2024-07-10 03:22:56, 2024-07-10 03:22:56, malware, 3105ec770a554f27829779f1b0615920, http://123.13.148.170:41039/i
-188215, 2024-07-10 03:22:34, 2024-07-10 03:22:34, malware, b908693efd74474cad0f5ba75daff28d, http://117.254.99.90:49848/bin.sh
-188214, 2024-07-10 03:22:32, 2024-07-10 03:22:32, malware, c3582d7b03f04cf6b43ba9cb42e07353, http://117.254.97.68:47035/bin.sh
