@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-10 17:00:02 UTC
+# UPDATE: 2024-07-10 18:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+188705, 2024-07-10 17:58:17, 2024-07-10 17:58:17, phishing, e372554011b3a4896152bc222d8741a4, https://dentalrevu.com/app/resgi-ob-id_user/Authentication.php
+188704, 2024-07-10 17:36:14, 2024-07-10 17:36:14, phishing, eda85258301ae147d70eb05d908eef17, https://bif.ikrmmouadi.uk/
+188703, 2024-07-10 17:00:17, 2024-07-10 17:00:17, phishing, 7adbe20a5d818e4c5c3775f2a7a1ff6e, http://login.mhsjetscxdas-ax.com
 188702, 2024-07-10 16:55:47, 2024-07-10 16:20:11, phishing, d37e7528a8b46856bb7fa2a8dcc4417b, https://d32fgx.webwave.dev/?forcePageWithoutCdn=true
 188701, 2024-07-10 16:55:39, 2024-07-10 15:08:13, phishing, 3027b270d348ad6350c82fb0a7d9aabd, https://twint.angabem.com/de/receive/79469380
 188700, 2024-07-10 16:55:26, 2024-07-10 15:04:12, phishing, af0458bf23229dd172cc5f103cc1dc17, https://angabem.com/twint.ch
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 188208, 2024-07-10 03:22:02, 2024-07-10 03:22:02, malware, d70b482ba41e4f7ca63e8b8a9e09d9d7, http://117.248.135.207:37775/bin.sh
 188207, 2024-07-10 03:21:34, 2024-07-10 03:21:34, malware, 5abad4f2dcfd4d308fc0857bd7c5d1a5, http://117.217.138.87:48921/bin.sh
 188206, 2024-07-10 03:21:32, 2024-07-10 03:21:32, malware, 33817e20affe48019e33edf9a366a4d1, http://117.213.82.211:59680/bin.sh
-188205, 2024-07-10 03:21:20, 2024-07-10 03:21:20, malware, 3f96dcfcb8654843adcac521e779ac4c, http://117.211.209.140:44393/mozi.m
-188204, 2024-07-10 03:21:18, 2024-07-10 03:21:18, malware, c43c81c3c7904dbb953dea7199faebad, http://117.208.162.75:60158/Mozi.m
-188203, 2024-07-10 03:21:15, 2024-07-10 03:21:15, malware, 8468172901ff47a9aa75a7656888af95, http://117.206.181.253:43836/i
