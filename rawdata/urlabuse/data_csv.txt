@@ -6,9 +6,20 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-10 12:00:01 UTC
+# UPDATE: 2024-07-10 13:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+188583, 2024-07-10 12:38:44, 2024-07-10 11:58:27, phishing, c6e6a76af680856233416d8425a39895, https://urlra.com/ReyyY
+188582, 2024-07-10 12:38:32, 2024-07-10 11:58:23, phishing, bf69b40d721d2b0c550490d4fd91c156, https://cuty.io/FVCgMeW
+188581, 2024-07-10 12:38:11, 2024-07-10 11:58:16, phishing, 9aa16e4e6cb7a6fa5eb2f4b8e34e4142, https://ogkyby.webwave.dev/?forcePageWithoutCdn=true
+188580, 2024-07-10 12:38:01, 2024-07-10 11:48:13, phishing, dddc597b788916cf888786891a9498fe, https://myoworld.online/myClientOrange/
+188579, 2024-07-10 12:36:10, 2024-07-10 12:36:10, phishing, 54b5e261303997e8202e003dc6ce4be6, http://semeoisjgaoeiwxbcnjshdue2.pages.dev
+188578, 2024-07-10 12:16:13, 2024-07-10 12:16:13, phishing, e1b66fdce946132002930a06cd9f86cf, http://7bq.9b6.mytemp.website
+188577, 2024-07-10 12:02:15, 2024-07-10 12:02:15, phishing, 045f52afaf137cc21e3422b212a6fa03, https://sites.google.com/view/polfortosido
+188576, 2024-07-10 12:02:15, 2024-07-10 12:02:15, phishing, 181ea115ed0de804e6c71c61a4fadfe2, https://lot.mouadchafik.uk/
+188575, 2024-07-10 12:00:25, 2024-07-10 12:00:25, phishing, cf9e02a7deb9d7f442ebe020bf30f2cb, https://huc.gro.mybluehost.me/or/sm/wp
+188574, 2024-07-10 12:00:23, 2024-07-10 12:00:23, phishing, 69fa7b7d03ff6033c3cb1ac2011450cc, https://app.kilounede.com/
+188573, 2024-07-10 12:00:15, 2024-07-10 12:00:15, phishing, 40af2fe7f2d330fe388d2e0c65f3c8bc, https://huc.gro.mybluehost.me/or/sm/wp/login/login.php
 188572, 2024-07-10 11:33:51, 2024-07-10 11:33:51, phishing, 9172cc7760f1a847efe6293df0dbe40a, https://clientetfacturation.webhop.org/SCAM%20OR/
 188571, 2024-07-10 11:33:39, 2024-07-10 11:12:15, phishing, 4775ae694af66848b6bbcd105cf97ff7, https://link.ac/6aGG95
 188570, 2024-07-10 11:30:10, 2024-07-10 11:30:10, malware, 5fc515bd82764e5db71ce3f960ffdeaf, http://61.53.120.131:35955/i
@@ -498,14 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 188086, 2024-07-09 23:24:42, 2024-07-09 23:24:42, malware, d4d2ea45af2745eba61b9d4b22607f13, http://123.5.169.190:59468/Mozi.m
 188085, 2024-07-09 23:24:40, 2024-07-09 23:24:40, malware, 2909d0e49e014a438176da1cf5f47a04, http://123.4.195.1:46033/i
 188084, 2024-07-09 23:24:38, 2024-07-09 23:24:38, malware, 91abb80047a64012aa4739c32e8f1c1c, http://123.234.123.41:37594/i
-188083, 2024-07-09 23:24:36, 2024-07-09 23:24:36, malware, 52be5ba5fe944c15b9b5215faa630222, http://123.234.123.41:37594/bin.sh
-188082, 2024-07-09 23:24:34, 2024-07-09 23:24:34, malware, a5acf5cc061740af98ddcba1d3546ded, http://123.129.134.135:59817/bin.sh
-188081, 2024-07-09 23:24:32, 2024-07-09 23:24:32, malware, 73dd791b7cd147caa7af49d21771d4db, http://118.79.75.96:40251/Mozi.m
-188080, 2024-07-09 23:24:19, 2024-07-09 23:24:19, malware, 6fa3efa8238b4aceb365937bef87a7d4, http://117.254.99.90:49848/i
-188079, 2024-07-09 23:23:27, 2024-07-09 23:23:27, malware, 2efe7b7496204b2f89fd180b5994ba89, http://117.248.165.38:42448/i
-188078, 2024-07-09 23:23:25, 2024-07-09 23:23:25, malware, 0b1a06093b534620ac5252f0ae22cf0f, http://117.248.165.38:42448/bin.sh
-188077, 2024-07-09 23:23:16, 2024-07-09 23:23:16, malware, eea933cee7d04433a6a935f0ecd4f75c, http://117.248.165.179:46545/bin.sh
-188076, 2024-07-09 23:23:14, 2024-07-09 23:23:14, malware, 8be9a60328bf4e3088e352b271c260f6, http://117.248.162.147:42675/bin.sh
-188075, 2024-07-09 23:23:12, 2024-07-09 23:23:12, malware, 1b8e1f12ceca4ec2ba907eb53702a7d7, http://117.248.161.51:56161/i
-188074, 2024-07-09 23:23:09, 2024-07-09 23:23:09, malware, bf000fbae400450a9212f90cc2f23c9c, http://117.248.160.254:44558/i
-188073, 2024-07-09 23:22:22, 2024-07-09 23:22:22, malware, 76491f1372344808a3e03c2683726b2c, http://117.217.51.130:46823/bin.sh
