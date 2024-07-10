@@ -6,9 +6,19 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-10 22:00:01 UTC
+# UPDATE: 2024-07-10 23:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+188732, 2024-07-10 22:46:17, 2024-07-10 22:46:17, phishing, 2ef2faf0644bb0c1b9a67b41cc90bd64, http://smartprotocolx.pages.dev
+188731, 2024-07-10 22:34:13, 2024-07-10 22:34:13, phishing, 443331f930676de09f6a1aea85856923, http://rf-ego.pages.dev
+188730, 2024-07-10 22:14:11, 2024-07-10 22:14:11, phishing, 291802402d6e5157bc0dcba4cd04fd5c, http://ewdfgf-4ph.pages.dev
+188729, 2024-07-10 22:03:43, 2024-07-10 22:03:43, phishing, f29862a3118a36c983dcb4d3566d86d3, http://federalgovernmentneedstolookintotheeducationsector3.pages.dev
+188728, 2024-07-10 22:03:36, 2024-07-10 22:03:36, phishing, e1ec793fd8e2ff791f3296a1a4663783, https://mail.microsoftsafe.top/Main/
+188727, 2024-07-10 22:03:27, 2024-07-10 22:03:27, phishing, f1fcc8d08eceaf29d122edc2ba6762be, https://microsoftsafe.top/Main/
+188726, 2024-07-10 22:03:19, 2024-07-10 22:03:19, phishing, ea5783d7a679da1d01894388e5327759, https://microsoftsafe.top/Main/index.html
+188725, 2024-07-10 22:02:51, 2024-07-10 22:02:51, phishing, 56126611d6589de70a2c368eee87a676, http://grouptelegram18plus.pages.dev/
+188724, 2024-07-10 22:02:30, 2024-07-10 22:02:30, phishing, bf5e9264b567a4297d7e9482e5dfb000, https://sardoreuro.com/
+188723, 2024-07-10 22:02:28, 2024-07-10 22:02:28, phishing, d93a87a7f194f1418fbbaf5f531511e8, https://kozakkapper.xyz/
 188722, 2024-07-10 21:38:17, 2024-07-10 21:38:17, phishing, 9e13c7518494e8b941fed6d340e289a4, http://optstakitech.pages.dev
 188721, 2024-07-10 21:20:12, 2024-07-10 21:20:12, phishing, 2ba19bffcf1ad24c16a10d9a74f2fd10, http://worker-tight-breeze-cc9d.institutional35.workers.dev
 188720, 2024-07-10 21:12:12, 2024-07-10 21:12:12, phishing, 29cdba7eafdfbb8b3731a52048132410, http://admincieueijniwiwieoeikcmnckaqooooeeeencnjcksdfgh.pages.dev
@@ -499,13 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 188235, 2024-07-10 03:24:21, 2024-07-10 03:24:21, malware, dd41fce8649546ba887dfe22803ae5e4, http://42.224.67.240:46094/i
 188234, 2024-07-10 03:24:20, 2024-07-10 03:24:20, malware, 56790d9c7a0940a9938ae265237975c2, http://38.61.153.4:46911/Mozi.m
 188233, 2024-07-10 03:24:17, 2024-07-10 03:24:17, malware, d6c3620372954165beddd9994e8dd16f, http://27.217.209.88:60044/i
-188232, 2024-07-10 03:24:15, 2024-07-10 03:24:15, malware, f479430b93e74bdcbbbfaef2123458c2, http://27.215.215.209:56337/i
-188231, 2024-07-10 03:24:14, 2024-07-10 03:24:14, malware, 0e803aacedbb48bdb7dd81874c905c6e, http://27.215.215.209:56337/bin.sh
-188230, 2024-07-10 03:24:13, 2024-07-10 03:24:13, malware, 97c9cb4709af4f39abbd9d61edf73c56, http://27.210.178.69:50334/i
-188229, 2024-07-10 03:24:10, 2024-07-10 03:24:10, malware, eb824aca016f4302a98d1a8abe33d315, http://27.210.178.69:50334/bin.sh
-188228, 2024-07-10 03:24:08, 2024-07-10 03:24:08, malware, a9dd6f94207f4637849f445541b54871, http://222.141.138.255:40952/Mozi.m
-188227, 2024-07-10 03:24:06, 2024-07-10 03:24:06, malware, 91044ad1817545e0bdec08e56aab5c0e, http://221.15.161.246:51241/i
-188226, 2024-07-10 03:24:04, 2024-07-10 03:24:04, malware, 092e3958caf6430493628a58fd8ab5bf, http://221.15.161.246:51241/bin.sh
-188225, 2024-07-10 03:24:03, 2024-07-10 03:24:03, malware, dc1cc3e95658404ca2beb40b43df75e3, http://219.155.8.39:38662/
-188224, 2024-07-10 03:23:31, 2024-07-10 03:23:31, malware, af394c8f00c84e51be146722e843607a, http://189.85.33.88:44630/Mozi.m
-188223, 2024-07-10 03:23:29, 2024-07-10 03:23:29, malware, 618a1d51d1fc4a02b047167cc8ac640b, http://182.56.240.163:51461/bin.sh
