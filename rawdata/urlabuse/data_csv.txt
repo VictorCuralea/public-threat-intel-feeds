@@ -6,9 +6,19 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-10 08:00:01 UTC
+# UPDATE: 2024-07-10 09:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+188380, 2024-07-10 08:48:18, 2024-07-10 08:48:18, phishing, aa7c7095e08fd3ef278f557647d97ea6, http://renouvellement-vitale2024.com
+188379, 2024-07-10 08:48:16, 2024-07-10 08:48:16, phishing, 21bc3ee7b6db1eecfde722ad38622020, http://renouvellement-vitale-enligne.com
+188378, 2024-07-10 08:46:12, 2024-07-10 08:46:12, phishing, 60dabaa11b875e07937b6f9c61b0d03d, http://renouvellement-vitale-sms.com
+188377, 2024-07-10 08:46:12, 2024-07-10 08:46:12, phishing, 94d364d9bb8572f4aaa001b819bfcde1, https://2024-bt-8942.webflow.io/
+188376, 2024-07-10 08:36:12, 2024-07-10 08:28:13, phishing, 15f6a0c9cd9f2a40fe4073ebd609c644, https://dub.sh/ghOSTiscrazyyy
+188375, 2024-07-10 08:36:02, 2024-07-10 08:36:02, phishing, e92eddf552f2ff47131a5c8d0edaa44e, https://btcomms-bt-com.webflow.io/
+188374, 2024-07-10 08:35:45, 2024-07-10 08:02:16, phishing, 5f97eaa07fa2569ffa87dc5edc71c2f0, https://dev-33134367466576.pantheonsite.io/
+188373, 2024-07-10 08:35:33, 2024-07-10 07:52:17, phishing, bc7e1e00eeaf297bb2ec816e958a40f1, https://my-meta-upgrad.com/login
+188372, 2024-07-10 08:02:13, 2024-07-10 08:02:13, phishing, f433ba8a5a8328c948c4be8ae215df30, http://desservermabagecloudsergeneratorjsjherjrsjgkkf.pages.dev
+188371, 2024-07-10 08:00:13, 2024-07-10 08:00:13, phishing, 9d985fc25201f6d79e5d1ebc992850e2, http://cbgbfbgn2.pages.dev
 188370, 2024-07-10 07:52:12, 2024-07-10 07:52:12, phishing, 6661efae623cbde2bab517fe1e8be948, https://u9g7w2wq.webflow.io/
 188369, 2024-07-10 07:40:24, 2024-07-10 07:40:24, phishing, a827ffd198c749a72cbb661c4205f734, http://c.vvanlink.icu
 188368, 2024-07-10 07:26:28, 2024-07-10 07:26:28, malware, 0f4fba4796e44ed6a7c2cbade642cdc7, http://61.3.219.12:45079/Mozi.m
@@ -499,13 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 187883, 2024-07-09 17:27:03, 2024-07-09 17:27:03, malware, 924afe1644cc438fa9a0e586720d14ce, http://27.222.175.201:55246/bin.sh
 187882, 2024-07-09 17:26:51, 2024-07-09 17:26:51, malware, aeed42fb2c2547febee0465adb8fec9a, http://219.157.63.132:37484/
 187881, 2024-07-09 17:26:49, 2024-07-09 17:26:49, malware, 9970e5d7d738450daceb88da23e1bc35, http://206.85.167.252:53160/bin.sh
-187880, 2024-07-09 17:25:47, 2024-07-09 17:25:47, malware, 3f3f31ced6f546de94234783fdcef6f8, http://123.9.10.210:48528/i
-187879, 2024-07-09 17:25:45, 2024-07-09 17:25:45, malware, be4e79ba477c466eb7ca52b87f8975a9, http://123.9.10.210:48528/bin.sh
-187878, 2024-07-09 17:25:43, 2024-07-09 17:25:43, malware, 6124fb84802d45c2829c2f650d8857f5, http://123.14.41.137:47732/i
-187877, 2024-07-09 17:25:41, 2024-07-09 17:25:41, malware, 987e11d81d904883bdb32882ff7042cb, http://123.14.41.137:47732/bin.sh
-187876, 2024-07-09 17:24:09, 2024-07-09 17:24:09, malware, b7df84a927164fd1afa9c16d6f4d26a9, http://117.252.161.42:57723/bin.sh
-187875, 2024-07-09 17:23:49, 2024-07-09 17:23:49, malware, 2e6b74a72342421bac98b080fb5e7967, http://117.248.173.75:56750/bin.sh
-187874, 2024-07-09 17:23:33, 2024-07-09 17:23:33, malware, 2bf156a0814c45dd8cb6454f905473ee, http://117.247.151.68:39604/bin.sh
-187873, 2024-07-09 17:23:11, 2024-07-09 17:23:11, malware, 34b0cd1efc014e80baa79ec080b44307, http://117.245.34.218:52700/bin.sh
-187872, 2024-07-09 17:23:09, 2024-07-09 17:23:09, malware, 0464c3558d9546d8b3b18a93175b45e3, http://117.223.1.163:60131/bin.sh
-187871, 2024-07-09 17:22:47, 2024-07-09 17:22:47, malware, 4422331a884044c88a78854bae67fa4b, http://117.219.85.183:57542/bin.sh
