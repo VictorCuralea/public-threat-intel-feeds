@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-10 02:00:01 UTC
+# UPDATE: 2024-07-10 03:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+188194, 2024-07-10 02:32:13, 2024-07-10 02:32:13, phishing, f4cb5a36cb2ae5867cf25649b668786d, http://processingref.pages.dev
 188193, 2024-07-10 01:26:37, 2024-07-10 01:26:37, malware, 1f07aab04dde40f4b7409522a6ba1bd2, http://77.81.87.111:55053/i
 188192, 2024-07-10 01:26:36, 2024-07-10 01:26:36, malware, 1255693b49454ab28d3528152a2f7424, http://77.81.87.111:55053/bin.sh
 188191, 2024-07-10 01:26:35, 2024-07-10 01:26:35, malware, 34abdfc1c69740c2adab90350884baaa, http://61.53.242.115:41928/i
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 187697, 2024-07-09 13:20:11, 2024-07-09 13:20:11, malware, 69659cc409104209aaaa8dcd803109d2, http://111.225.90.34:53140/Mozi.m
 187696, 2024-07-09 13:12:21, 2024-07-09 13:12:21, phishing, dbe6d4f69dd7f1d48bc37c40e5b37b0e, http://tokenpacknt.com
 187695, 2024-07-09 13:10:15, 2024-07-09 13:10:15, phishing, a34040e7bb4a518e777e8040760ef11b, http://tokenp0kczt.com
-187694, 2024-07-09 13:01:51, 2024-07-09 13:01:51, phishing, bbbcc4385a509764ba6ea2c442f5b413, https://www-bet600.com/
