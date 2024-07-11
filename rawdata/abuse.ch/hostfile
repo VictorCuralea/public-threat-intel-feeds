@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-07-11 06:10:25 UTC                        #
+# Last updated: 2024-07-11 10:58:05 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	linntopdmspqp.lol
+127.0.0.1	bmld.shop
+127.0.0.1	shared-celestial.com
 127.0.0.1	commission-machines.gl.at.ply.gg
 127.0.0.1	within-gym.gl.at.ply.gg
 127.0.0.1	data-dakota.gl.at.ply.gg
@@ -7322,4 +7325,4 @@
 127.0.0.1	www.onbuyhouses.xyz
 127.0.0.1	ns2.blueseaedu.com
 127.0.0.1	ns1.blueseaedu.com
-# Number of entries: 7316
+# Number of entries: 7319
