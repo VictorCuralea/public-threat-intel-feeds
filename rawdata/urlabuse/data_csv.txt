@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-11 00:00:02 UTC
+# UPDATE: 2024-07-11 01:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+188743, 2024-07-11 00:20:13, 2024-07-11 00:20:13, phishing, a06f85c3ccf37606b80f943e43e2c9cc, http://aipaddapps.pages.dev
+188742, 2024-07-11 00:10:12, 2024-07-11 00:10:12, phishing, adc74e1e099f3fe13b28a8c406768647, http://fantasticdomainmailserverautentication03.pages.dev
 188741, 2024-07-10 23:36:14, 2024-07-10 23:36:14, phishing, a0c5ea6b55b0a0a9af395d88c8276310, http://multiclick.pages.dev
 188740, 2024-07-10 23:36:11, 2024-07-10 23:36:11, phishing, b10e8674d90641c14421d8867e50af00, http://dogverse-ai.pages.dev
 188739, 2024-07-10 23:34:11, 2024-07-10 23:34:11, phishing, 9d25e2380892dce6f0005adba286b82b, http://doggy-ai.pages.dev
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 188246, 2024-07-10 03:25:23, 2024-07-10 03:25:23, malware, 178b897209994974a18b2029ddd378f9, http://61.3.11.52:55352/i
 188245, 2024-07-10 03:25:21, 2024-07-10 03:25:21, malware, 60aebaf2bc2448ef82605a8aa8cbb520, http://61.1.226.139:40276/bin.sh
 188244, 2024-07-10 03:25:20, 2024-07-10 03:25:20, malware, ece2d2ca2a7341d0b1ac49db801e7b80, http://59.99.109.150:47421/i
-188243, 2024-07-10 03:24:48, 2024-07-10 03:24:48, malware, fea20e5ccc194982b4c06b12a8beaede, http://59.93.129.245:45600/bin.sh
-188242, 2024-07-10 03:24:45, 2024-07-10 03:24:45, malware, 1bcbb95a24ea46fe96c0945621d72225, http://59.89.202.39:55031/i
