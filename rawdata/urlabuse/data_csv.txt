@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-11 22:00:01 UTC
+# UPDATE: 2024-07-11 23:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+189399, 2024-07-11 22:02:32, 2024-07-11 22:02:32, phishing, 98e90b0da39b5f6d36b9a0feb0df8a23, http://groupsextelegram.pages.dev/favicon.ico
+189398, 2024-07-11 22:02:25, 2024-07-11 22:02:25, phishing, a1ea390e2b5d47e9af61e91284b55c9b, https://bitgett.rr.nu/en/
+189397, 2024-07-11 22:02:16, 2024-07-11 22:02:16, phishing, 5b780a9c64b0de46edbb962d3b9f52cc, https://ava.game.naver.com.cf.cpkl.biz.id/
+189396, 2024-07-11 22:02:10, 2024-07-11 22:02:10, phishing, 8453f7917ded9d967621213160f755ca, https://telegram.muhyo.uz/
 189395, 2024-07-11 21:58:17, 2024-07-11 21:58:17, phishing, c8d69f1b2758317bf252bf8304c6deae, http://directorymonerofil.pages.dev
 189394, 2024-07-11 21:54:16, 2024-07-11 21:54:16, phishing, 8b48a2590cee2f414634c420fbdd38f6, http://sponsorlutanitim.xyz
 189393, 2024-07-11 21:52:10, 2024-07-11 21:52:10, phishing, 5f5660600b6ef1305bd395755fbf1c70, http://sponsorlutanitimlar.xyz
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 188902, 2024-07-11 13:26:10, 2024-07-11 13:26:10, malware, 3c7c2f09f3d0400abbe1c3de84e8cbec, http://117.200.147.233:44128/i
 188901, 2024-07-11 13:23:47, 2024-07-11 13:23:47, malware, 202b7eec77bb491e9f89f97f0d92a3eb, http://115.63.82.14:40177/i
 188900, 2024-07-11 13:23:45, 2024-07-11 13:23:45, malware, 189d3c3cf54246249a479222f416cb93, http://115.63.82.14:40177/bin.sh
-188899, 2024-07-11 13:23:43, 2024-07-11 13:23:43, malware, 1c02341ec8cc493e8b4a20351b9b0712, http://115.63.49.37:36243/i
-188898, 2024-07-11 13:23:41, 2024-07-11 13:23:41, malware, 05de6df64bc04abcaae557e7a2d1e1bf, http://115.62.33.191:53221/Mozi.m
-188897, 2024-07-11 13:23:39, 2024-07-11 13:23:39, malware, 122488d6f4934c6b8020f9fd561f15f1, http://115.58.89.109:53698/i
-188896, 2024-07-11 13:23:37, 2024-07-11 13:23:37, malware, 6bc8b28a9b9d468590be4eda09598942, http://115.58.89.109:53698/bin.sh
