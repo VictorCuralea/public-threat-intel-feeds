@@ -6,9 +6,23 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-11 18:00:01 UTC
+# UPDATE: 2024-07-11 19:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+189230, 2024-07-11 18:56:12, 2024-07-11 18:56:12, phishing, a02aaa39c8ff5a5713dfdbd8dd6c6cbb, http://mropr-pdf.pages.dev
+189229, 2024-07-11 18:46:17, 2024-07-11 18:46:17, phishing, 51a5840e9b3088fd9be2600ff710b32e, http://invest-8dh.pages.dev
+189228, 2024-07-11 18:44:13, 2024-07-11 18:44:13, phishing, e00a17b31a19896bed314c8f48690ed8, http://pdf-uaii.pages.dev
+189227, 2024-07-11 18:38:15, 2024-07-11 18:38:15, phishing, 5bcc942a2cde908104e33067f3a44276, http://hashdefymonero.pages.dev
+189226, 2024-07-11 18:34:55, 2024-07-11 18:34:55, malware, 4aba168d964d48d3bf2722147c3e23c7, http://60.246.235.10:42746/i
+189225, 2024-07-11 18:34:52, 2024-07-11 18:34:52, malware, 3707894590c247c3bd9fab3639175891, http://60.246.235.10:42746/bin.sh
+189224, 2024-07-11 18:34:48, 2024-07-11 18:34:48, malware, e5acd56a2c044369af6c414b36c59484, http://60.243.46.198:48214/i
+189223, 2024-07-11 18:28:45, 2024-07-11 18:28:45, malware, 88acb07b6e8542b88d0552bf1011fd05, http://59.93.230.193:39932/i
+189222, 2024-07-11 18:25:52, 2024-07-11 18:25:52, malware, 559b6015c74f4e399238bc88a1672648, http://59.93.129.243:38054/bin.sh
+189221, 2024-07-11 18:22:48, 2024-07-11 18:22:48, malware, 9d4e4c18a9494bf2b1a8e9d011921689, http://59.89.65.6:60203/Mozi.m
+189220, 2024-07-11 18:21:07, 2024-07-11 18:21:07, malware, 8730a4a86a9c490099f7003f528a4046, http://59.88.4.40:33766/i
+189219, 2024-07-11 18:21:04, 2024-07-11 18:21:04, malware, 5087c724c00543629a5f9563303b9121, http://59.88.4.40:33766/bin.sh
+189218, 2024-07-11 18:20:19, 2024-07-11 18:20:19, malware, 8a633367158f4ec4a0b03faa03d253a5, http://59.88.226.119:41935/i
+189217, 2024-07-11 18:20:16, 2024-07-11 18:20:16, malware, 0ce4634eedf54d2dbee7aa94b5a6a007, http://59.88.226.119:41935/bin.sh
 189216, 2024-07-11 17:50:10, 2024-07-11 17:50:10, phishing, cf7d5fc5b3d58015d48b1f33aa3fa0a9, http://direktdijitalin.app
 189215, 2024-07-11 17:44:10, 2024-07-11 17:44:10, phishing, 5f3e089d48c329516814010d80942969, http://msuaijdkurenjamsnju8475hsjdyeu4390oasmdkifuj4.pages.dev
 189214, 2024-07-11 17:35:00, 2024-07-11 17:35:00, malware, ef6c4aa513b04b5abb3bd63e523030eb, http://59.182.247.127:54044/bin.sh
@@ -495,17 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 188733, 2024-07-10 23:00:14, 2024-07-10 23:00:14, phishing, d8610c986e274bcb43fb36ea088c8389, http://fixxedapp.pages.dev
 188732, 2024-07-10 22:46:17, 2024-07-10 22:46:17, phishing, 2ef2faf0644bb0c1b9a67b41cc90bd64, http://smartprotocolx.pages.dev
 188731, 2024-07-10 22:34:13, 2024-07-10 22:34:13, phishing, 443331f930676de09f6a1aea85856923, http://rf-ego.pages.dev
-188730, 2024-07-10 22:14:11, 2024-07-10 22:14:11, phishing, 291802402d6e5157bc0dcba4cd04fd5c, http://ewdfgf-4ph.pages.dev
-188729, 2024-07-10 22:03:43, 2024-07-10 22:03:43, phishing, f29862a3118a36c983dcb4d3566d86d3, http://federalgovernmentneedstolookintotheeducationsector3.pages.dev
-188728, 2024-07-10 22:03:36, 2024-07-10 22:03:36, phishing, e1ec793fd8e2ff791f3296a1a4663783, https://mail.microsoftsafe.top/Main/
-188727, 2024-07-10 22:03:27, 2024-07-10 22:03:27, phishing, f1fcc8d08eceaf29d122edc2ba6762be, https://microsoftsafe.top/Main/
-188726, 2024-07-10 22:03:19, 2024-07-10 22:03:19, phishing, ea5783d7a679da1d01894388e5327759, https://microsoftsafe.top/Main/index.html
-188725, 2024-07-10 22:02:51, 2024-07-10 22:02:51, phishing, 56126611d6589de70a2c368eee87a676, http://grouptelegram18plus.pages.dev/
-188724, 2024-07-10 22:02:30, 2024-07-10 22:02:30, phishing, bf5e9264b567a4297d7e9482e5dfb000, https://sardoreuro.com/
-188723, 2024-07-10 22:02:28, 2024-07-10 22:02:28, phishing, d93a87a7f194f1418fbbaf5f531511e8, https://kozakkapper.xyz/
-188722, 2024-07-10 21:38:17, 2024-07-10 21:38:17, phishing, 9e13c7518494e8b941fed6d340e289a4, http://optstakitech.pages.dev
-188721, 2024-07-10 21:20:12, 2024-07-10 21:20:12, phishing, 2ba19bffcf1ad24c16a10d9a74f2fd10, http://worker-tight-breeze-cc9d.institutional35.workers.dev
-188720, 2024-07-10 21:12:12, 2024-07-10 21:12:12, phishing, 29cdba7eafdfbb8b3731a52048132410, http://admincieueijniwiwieoeikcmnckaqooooeeeencnjcksdfgh.pages.dev
-188719, 2024-07-10 21:06:10, 2024-07-10 21:06:10, phishing, 9bb5360dc8b51241db36dbdb159343d8, http://prepperationnameservertopdomainrealizations2.pages.dev
-188718, 2024-07-10 20:46:18, 2024-07-10 20:46:18, phishing, cac006e1ab27da8e3c64c5cf313cef7d, http://telegrram.icu
-188717, 2024-07-10 20:16:18, 2024-07-10 20:16:18, phishing, 255474bc09ae8a4c8e93583079f50a1f, http://11.gins.pro
