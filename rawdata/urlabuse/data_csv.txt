@@ -6,9 +6,30 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-11 20:00:01 UTC
+# UPDATE: 2024-07-11 21:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+189321, 2024-07-11 20:22:57, 2024-07-11 20:22:57, malware, 197e267c1e724508b45e855dc606c0ca, http://85.105.172.22:42033/i
+189320, 2024-07-11 20:22:55, 2024-07-11 20:22:55, malware, 5f39d6f5495842c3bb4d531ab86e75a3, http://85.105.172.22:42033/bin.sh
+189319, 2024-07-11 20:22:49, 2024-07-11 20:22:49, malware, bbf0f7b0516f4f26b7480de980a6c24c, http://85.105.172.22:42033/
+189318, 2024-07-11 20:22:45, 2024-07-11 20:22:45, malware, 33c599313ced42a0b2c54b944d11ab96, http://81.232.132.14:42269/bin.sh
+189317, 2024-07-11 20:22:44, 2024-07-11 20:22:44, malware, 295425fdccf949a4a977d17ff5c915df, http://80.210.27.206:65461/.i
+189316, 2024-07-11 20:22:40, 2024-07-11 20:22:40, malware, b7118e4f9ece41ccad471a9af9825905, http://78.188.192.66:40052/i
+189315, 2024-07-11 20:22:27, 2024-07-11 20:22:27, malware, a112c833a9dd4a9ab16a561c75afbb90, http://77.105.132.27/vidar0907.exe
+189314, 2024-07-11 20:22:25, 2024-07-11 20:22:25, malware, 229090baa4c54044903923978bee65d9, http://77.105.132.27/lumma0907.exe
+189313, 2024-07-11 20:22:22, 2024-07-11 20:22:22, malware, c8a1e5c1fca34bbda539be72a0223cf4, http://72.180.130.39:47101/i
+189312, 2024-07-11 20:22:21, 2024-07-11 20:22:21, malware, 819aba3fb1c641ffaa90eaa319a9d4bc, http://67.214.245.59:49157/Mozi.m
+189311, 2024-07-11 20:22:01, 2024-07-11 20:22:01, malware, 2629a760938743119ce541efc21d3934, http://61.53.83.21:43554/i
+189310, 2024-07-11 20:21:59, 2024-07-11 20:21:59, malware, 57e66d00d10f4f0ba116076228d58696, http://61.53.83.21:43554/bin.sh
+189309, 2024-07-11 20:21:58, 2024-07-11 20:21:58, malware, 8fc499c414fe42fea39ab3a04b3e71b4, http://61.53.73.193:55919/Mozi.m
+189308, 2024-07-11 20:21:56, 2024-07-11 20:21:56, malware, 594c0661f0084a5ea582cdfe5d0d1bef, http://61.53.241.132:41928/i
+189307, 2024-07-11 20:21:54, 2024-07-11 20:21:54, malware, 3c3dd16cc1e248ffbcacf4dabeadc4f6, http://61.53.241.132:41928/bin.sh
+189306, 2024-07-11 20:21:53, 2024-07-11 20:21:53, malware, 19cf8482769f42ff88f4ee7acee2f1fb, http://61.53.241.132:41928/
+189305, 2024-07-11 20:21:51, 2024-07-11 20:21:51, malware, e8a83aba3a544cf29cbb8c1eb57c3641, http://61.53.123.93:47260/i
+189304, 2024-07-11 20:21:49, 2024-07-11 20:21:49, malware, 93b83c05640944f1b1a9a6e31d8ac607, http://61.53.123.93:47260/bin.sh
+189303, 2024-07-11 20:20:33, 2024-07-11 20:20:33, malware, 3d796ae92a2d4a3ab40459a74e79e7ce, http://61.3.23.199:49473/Mozi.m
+189302, 2024-07-11 20:20:31, 2024-07-11 20:20:31, malware, a86f7bd8a6b84dafbcceae801733a958, http://61.3.220.32:60586/Mozi.m
+189301, 2024-07-11 20:04:11, 2024-07-11 20:04:11, phishing, a19a8f93baa7d38ddf4990f9091e49fb, http://xn--idatilemmrkz-8mc.site
 189300, 2024-07-11 19:38:15, 2024-07-11 19:38:15, phishing, a02eb68c64fb220bcdb9226ff2091b33, http://multifloopink.pages.dev
 189299, 2024-07-11 19:34:13, 2024-07-11 19:34:13, phishing, a933e0b7b8b2e95499ed8c3b6429ecdc, http://telegrcam.org
 189298, 2024-07-11 19:33:47, 2024-07-11 19:33:47, malware, f5816e6f2faa4f43bef0763619d68d3a, http://61.3.141.60:51174/bin.sh
@@ -488,24 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 188824, 2024-07-11 10:04:16, 2024-07-11 10:04:16, phishing, 1695aebb7fae82f2bbd122f69ca44e41, https://7365v4.com/
 188823, 2024-07-11 10:04:05, 2024-07-11 10:04:05, phishing, 992d197b3d5a55235fb8c4c18196fc58, https://7365v6.com/
 188822, 2024-07-11 10:04:02, 2024-07-11 10:04:02, phishing, 893fa839ad7f902854d12abce31a73db, https://kiv.mouniaelidrissi.uk/
-188821, 2024-07-11 10:03:56, 2024-07-11 10:03:56, phishing, b5360e02ab244b5237bc3b6b2055f144, https://abk.mzi.mybluehost.me/lobside/lom/sirkakif/login/login.php?#signin
-188820, 2024-07-11 10:02:57, 2024-07-11 10:02:57, phishing, 169bcb9eaefb26c925b5517115991f55, https://teiegron.xyz/
-188819, 2024-07-11 10:02:20, 2024-07-11 10:02:20, phishing, 7c2651f79516d8f8057f10d0ab4a3779, https://telegram.web-check.online/
-188818, 2024-07-11 10:02:13, 2024-07-11 10:02:13, phishing, 71c40ef4673521cdf4b9bd086023b4e8, http://telegram.dog/desktop
-188817, 2024-07-11 10:00:17, 2024-07-11 10:00:17, phishing, c90256f84247a6f81cd90fd298357616, https://pof.kolimodparsoli.uk/
-188816, 2024-07-11 09:34:13, 2024-07-11 09:34:13, phishing, 6707b9f36d6c85d74ddd7eb08d897a45, http://edevlet-cepte-sube-giristr.app
-188815, 2024-07-11 08:43:12, 2024-07-11 07:36:17, phishing, cca7845fa90d89d3c526f147c16e6acf, https://protocswizz24.net/?_=/rch/de/hilfe-und-kontakt/raiffeisen-login/passwort-vergessen.html%23KJWqMdlUlBn8PPpbQhzpgY3wcZJlFRGiow==
-188814, 2024-07-11 08:42:18, 2024-07-11 08:06:13, phishing, 85bbc7b68a7ff06fa45e1e0bc4817298, https://emcgaze.com/tracking/qaR9ZGxlZwZ2ZmpkAmxkAwZ4AGV4ZPM5qzS4qaR9ZQbjIt
-188813, 2024-07-11 08:38:18, 2024-07-11 08:38:18, phishing, f44ab5344b68bdc9bb0238c620a14b20, http://telegeram-na.org
-188812, 2024-07-11 08:38:18, 2024-07-11 08:38:18, phishing, 9e7ab103796e7824acba1483352e635d, http://telegeram-sv.org
-188811, 2024-07-11 08:37:45, 2024-07-11 07:36:16, phishing, c419d6ad7f56ca88e0812fae9fe0c4c9, https://booking.order-id003.eu/order/Cb29ekCi/
-188810, 2024-07-11 08:36:44, 2024-07-11 07:34:18, phishing, 0653149c735c4abb9f16d5b145bc1afa, https://seiluk.co.uk/nflxxxxxxx/MYACCOUNT-c8f2abfeff2f90717cbd899b66d2d792/profile/
-188809, 2024-07-11 08:36:34, 2024-07-11 07:34:18, phishing, 9d377348f1865c33d2776106591cf5be, https://www.happi-garden.com/dvjvjvfjnvjnjnfvnjjfvnjfnvj.html
-188808, 2024-07-11 08:36:16, 2024-07-11 08:36:16, phishing, 37cf4d9b45f0b43ecdc24d743c50fbd6, http://telegrtam.org
-188807, 2024-07-11 08:36:13, 2024-07-11 08:36:13, phishing, 0140b9cd1d1f4beb98797cd344ded58f, http://ghyyss101.hkqwo.com
-188806, 2024-07-11 08:14:14, 2024-07-11 08:14:14, phishing, 171e41fa074058b4317ba295b125322a, http://unipaxstorm.pages.dev
-188805, 2024-07-11 07:48:13, 2024-07-11 07:48:13, phishing, abf7ec65ad605c1f2a207bcc95985bbb, http://tesioewurdhjsieyytdodma02.pages.dev
-188804, 2024-07-11 07:36:25, 2024-07-11 07:36:25, phishing, 15217ac52c5d43085bc89017d99d94e7, https://umq.nxb.mybluehost.me/Portal/SBB/index/
-188803, 2024-07-11 07:34:21, 2024-07-11 07:34:21, phishing, 70bf5463325b0e8a8860ced6c7709f2e, https://opiekunki24.eu/wp-includes/main/BLUE/in.php
-188802, 2024-07-11 07:33:44, 2024-07-11 07:33:44, phishing, 5f85cdd2c2cab14c9f91b6e9ce30ed83, https://lazantsi.eu/nichanz/
-188801, 2024-07-11 07:33:32, 2024-07-11 07:18:15, phishing, d339878bbde679242305bad4c1e34cc5, http://y081197.ppp.asahi-net.or.jp:10001/cos.php
