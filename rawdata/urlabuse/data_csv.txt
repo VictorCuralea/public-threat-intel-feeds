@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-11 09:00:01 UTC
+# UPDATE: 2024-07-11 10:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+188816, 2024-07-11 09:34:13, 2024-07-11 09:34:13, phishing, 6707b9f36d6c85d74ddd7eb08d897a45, http://edevlet-cepte-sube-giristr.app
 188815, 2024-07-11 08:43:12, 2024-07-11 07:36:17, phishing, cca7845fa90d89d3c526f147c16e6acf, https://protocswizz24.net/?_=/rch/de/hilfe-und-kontakt/raiffeisen-login/passwort-vergessen.html%23KJWqMdlUlBn8PPpbQhzpgY3wcZJlFRGiow==
 188814, 2024-07-11 08:42:18, 2024-07-11 08:06:13, phishing, 85bbc7b68a7ff06fa45e1e0bc4817298, https://emcgaze.com/tracking/qaR9ZGxlZwZ2ZmpkAmxkAwZ4AGV4ZPM5qzS4qaR9ZQbjIt
 188813, 2024-07-11 08:38:18, 2024-07-11 08:38:18, phishing, f44ab5344b68bdc9bb0238c620a14b20, http://telegeram-na.org
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 188319, 2024-07-10 07:20:16, 2024-07-10 07:20:16, malware, ba424435a165425b9146bb65cfc0afb7, http://101.108.99.125:57064/i
 188318, 2024-07-10 07:18:12, 2024-07-10 07:18:12, phishing, 9dc50baf5a540d4d4a8b68c96bf94928, http://7gy6rffsuaygxhnzvududfvdheshdu3uyryhsgfaffeiidowehtxggahhe.pages.dev
 188317, 2024-07-10 07:03:05, 2024-07-10 07:03:05, phishing, 1adf3237ea91e61309de79be33573947, https://storage.testnet.cere.network/172671/baebb4ighcvednexiapof2btcgrrv3txmg6vkfc25zvp6a5zlrwxlvgmbd4
-188316, 2024-07-10 07:02:27, 2024-07-10 07:02:27, phishing, 2566d88576a48a36dd76cd882abd5442, https://slivtwitch.website/

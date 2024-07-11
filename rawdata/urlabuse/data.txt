@@ -6,8 +6,9 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-11 09:00:01 UTC
+# UPDATE: 2024-07-11 10:00:02 UTC
 ############### END COMMENTS ###############
+{"id": 188816, "url": "http://edevlet-cepte-sube-giristr.app", "discovery": "2024-07-11 09:34:13", "added": "2024-07-11 09:34:13", "target": "TR-GOV", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "6707b9f36d6c85d74ddd7eb08d897a45"}
 {"id": 188815, "url": "https://protocswizz24.net/?_=/rch/de/hilfe-und-kontakt/raiffeisen-login/passwort-vergessen.html%23KJWqMdlUlBn8PPpbQhzpgY3wcZJlFRGiow==", "discovery": "2024-07-11 07:36:17", "added": "2024-07-11 08:43:12", "target": "Raiffeisen", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "cca7845fa90d89d3c526f147c16e6acf"}
 {"id": 188814, "url": "https://emcgaze.com/tracking/qaR9ZGxlZwZ2ZmpkAmxkAwZ4AGV4ZPM5qzS4qaR9ZQbjIt", "discovery": "2024-07-11 08:06:13", "added": "2024-07-11 08:42:18", "target": "TWINT", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "85bbc7b68a7ff06fa45e1e0bc4817298"}
 {"id": 188813, "url": "http://telegeram-na.org", "discovery": "2024-07-11 08:38:18", "added": "2024-07-11 08:38:18", "target": "Telegram", "reporter": "lruray", "AbuseType": "phishing", "UUID": "f44ab5344b68bdc9bb0238c620a14b20"}
@@ -507,4 +508,3 @@
 {"id": 188319, "url": "http://101.108.99.125:57064/i", "discovery": "2024-07-10 07:20:16", "added": "2024-07-10 07:20:16", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "ba424435a165425b9146bb65cfc0afb7"}
 {"id": 188318, "url": "http://7gy6rffsuaygxhnzvududfvdheshdu3uyryhsgfaffeiidowehtxggahhe.pages.dev", "discovery": "2024-07-10 07:18:12", "added": "2024-07-10 07:18:12", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "9dc50baf5a540d4d4a8b68c96bf94928"}
 {"id": 188317, "url": "https://storage.testnet.cere.network/172671/baebb4ighcvednexiapof2btcgrrv3txmg6vkfc25zvp6a5zlrwxlvgmbd4", "discovery": "2024-07-10 07:03:05", "added": "2024-07-10 07:03:05", "target": "Microsoft", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "1adf3237ea91e61309de79be33573947"}
-{"id": 188316, "url": "https://slivtwitch.website/", "discovery": "2024-07-10 07:02:27", "added": "2024-07-10 07:02:27", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "2566d88576a48a36dd76cd882abd5442"}
