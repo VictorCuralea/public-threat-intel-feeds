@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-11 02:00:01 UTC
+# UPDATE: 2024-07-11 03:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+188750, 2024-07-11 02:27:33, 2024-07-11 01:51:29, phishing, 3b1f7883cee0e248b8ed2156d1ea6655, https://kargafase1.com/don/upload/?email=oracle@oracle.com
+188749, 2024-07-11 02:26:05, 2024-07-11 01:31:46, phishing, 57d162411662563e9974fe744c4aa6cf, https://gateway.lighthouse.storage/ipfs/bafkreiemd4nj6dwmmnixmzavw472m4tnfkwmycm2lprybvji5eeuhoonwi
+188748, 2024-07-11 02:24:13, 2024-07-11 02:24:13, phishing, 2beb8242c630d6ef576458ce39e20ca8, http://rgfgvgbg2.pages.dev
+188747, 2024-07-11 02:20:15, 2024-07-11 02:20:15, phishing, 9c0194ae6c00eebc8bccae900a1ef977, http://imttohden.com
 188746, 2024-07-11 01:54:18, 2024-07-11 01:54:18, phishing, af898bf8f18ea5890ab7f57dfe37ba15, http://platfor.pages.dev
 188745, 2024-07-11 01:40:15, 2024-07-11 01:40:15, phishing, 38b0c54b0bde0f51c027a3dd0e9e8a74, http://defyluhay.pages.dev
 188744, 2024-07-11 01:02:21, 2024-07-11 01:02:21, phishing, fc4462088ebe79b6f52c3fc36583b385, http://www.rocketpumps.info:443/
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 188253, 2024-07-10 04:01:33, 2024-07-10 04:01:33, phishing, 50396da6df11fd4bbce769061926df65, https://telegram.dog/+pE_SQR-LdQ9kZmJi?fbclid=PAZXh0bgNhZW0CMTEAAab5eDv1I3JcdJBgWAoIWvoMZPStdQ7-sx-psLipbbUvqeihGY5KrpcEgEM_aem_pEtzSuEiJBqsHjU6dGbmMA
 188252, 2024-07-10 04:01:05, 2024-07-10 04:01:05, phishing, 0916e1a18c7fe65d788eb74c77d0dd86, http://telegrmam.icu/
 188251, 2024-07-10 04:00:35, 2024-07-10 04:00:35, phishing, e6e8e843415887c4796248277e1f643a, https://singapure.absvpn.my.id/
-188250, 2024-07-10 03:25:45, 2024-07-10 03:25:45, malware, 03ba7ae5603948869d2a29b72d18cb7f, http://61.53.37.192:56609/Mozi.m
-188249, 2024-07-10 03:25:44, 2024-07-10 03:25:44, malware, 23857f750f8c40f194682089c74e26c9, http://61.52.79.135:56081/bin.sh
-188248, 2024-07-10 03:25:42, 2024-07-10 03:25:42, malware, c364049a2bcf45098594a34a0bb81ded, http://61.52.27.46:49878/Mozi.m
-188247, 2024-07-10 03:25:41, 2024-07-10 03:25:41, malware, 286b735b70ff41a0b776ea9b1c727ca7, http://61.3.137.0:59672/Mozi.m

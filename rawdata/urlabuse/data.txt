@@ -6,8 +6,12 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-11 02:00:01 UTC
+# UPDATE: 2024-07-11 03:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 188750, "url": "https://kargafase1.com/don/upload/?email=oracle@oracle.com", "discovery": "2024-07-11 01:51:29", "added": "2024-07-11 02:27:33", "target": "Generic Phishing", "reporter": "anonymous", "AbuseType": "phishing", "UUID": "3b1f7883cee0e248b8ed2156d1ea6655"}
+{"id": 188749, "url": "https://gateway.lighthouse.storage/ipfs/bafkreiemd4nj6dwmmnixmzavw472m4tnfkwmycm2lprybvji5eeuhoonwi", "discovery": "2024-07-11 01:31:46", "added": "2024-07-11 02:26:05", "target": "Generic Email", "reporter": "anonymous", "AbuseType": "phishing", "UUID": "57d162411662563e9974fe744c4aa6cf"}
+{"id": 188748, "url": "http://rgfgvgbg2.pages.dev", "discovery": "2024-07-11 02:24:13", "added": "2024-07-11 02:24:13", "target": "Amazon", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "2beb8242c630d6ef576458ce39e20ca8"}
+{"id": 188747, "url": "http://imttohden.com", "discovery": "2024-07-11 02:20:15", "added": "2024-07-11 02:20:15", "target": "imToken", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "9c0194ae6c00eebc8bccae900a1ef977"}
 {"id": 188746, "url": "http://platfor.pages.dev", "discovery": "2024-07-11 01:54:18", "added": "2024-07-11 01:54:18", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "af898bf8f18ea5890ab7f57dfe37ba15"}
 {"id": 188745, "url": "http://defyluhay.pages.dev", "discovery": "2024-07-11 01:40:15", "added": "2024-07-11 01:40:15", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "38b0c54b0bde0f51c027a3dd0e9e8a74"}
 {"id": 188744, "url": "http://www.rocketpumps.info:443/", "discovery": "2024-07-11 01:02:21", "added": "2024-07-11 01:02:21", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "fc4462088ebe79b6f52c3fc36583b385"}
@@ -504,7 +508,3 @@
 {"id": 188253, "url": "https://telegram.dog/+pE_SQR-LdQ9kZmJi?fbclid=PAZXh0bgNhZW0CMTEAAab5eDv1I3JcdJBgWAoIWvoMZPStdQ7-sx-psLipbbUvqeihGY5KrpcEgEM_aem_pEtzSuEiJBqsHjU6dGbmMA", "discovery": "2024-07-10 04:01:33", "added": "2024-07-10 04:01:33", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "50396da6df11fd4bbce769061926df65"}
 {"id": 188252, "url": "http://telegrmam.icu/", "discovery": "2024-07-10 04:01:05", "added": "2024-07-10 04:01:05", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "0916e1a18c7fe65d788eb74c77d0dd86"}
 {"id": 188251, "url": "https://singapure.absvpn.my.id/", "discovery": "2024-07-10 04:00:35", "added": "2024-07-10 04:00:35", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "e6e8e843415887c4796248277e1f643a"}
-{"id": 188250, "url": "http://61.53.37.192:56609/Mozi.m", "discovery": "2024-07-10 03:25:45", "added": "2024-07-10 03:25:45", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "03ba7ae5603948869d2a29b72d18cb7f"}
-{"id": 188249, "url": "http://61.52.79.135:56081/bin.sh", "discovery": "2024-07-10 03:25:44", "added": "2024-07-10 03:25:44", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "23857f750f8c40f194682089c74e26c9"}
-{"id": 188248, "url": "http://61.52.27.46:49878/Mozi.m", "discovery": "2024-07-10 03:25:42", "added": "2024-07-10 03:25:42", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "c364049a2bcf45098594a34a0bb81ded"}
-{"id": 188247, "url": "http://61.3.137.0:59672/Mozi.m", "discovery": "2024-07-10 03:25:41", "added": "2024-07-10 03:25:41", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "286b735b70ff41a0b776ea9b1c727ca7"}
