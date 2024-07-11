@@ -1,12 +1,14 @@
 ################################################################
 # ThreatFox IOCs: recent SHA256 hashes - CSV format            #
-# Last updated: 2024-07-11 15:55:07 UTC                        #
+# Last updated: 2024-07-11 15:55:25 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
 # "first_seen_utc","ioc_id","ioc_value","ioc_type","threat_type","fk_malware","malware_alias","malware_printable","last_seen_utc","confidence_level","reference","tags","anonymous","reporter"
+"2024-07-11 15:55:25", "1297143", "619b4e680f74f6c69a48837fd9ee5851be850035c46c12aaf0669139d1061de8", "sha256_hash", "payload", "win.lokipws", "Burkina,Loki,LokiBot,LokiPWS", "Loki Password Stealer (PWS)", "", "95", "None", "None", "0", "Grim"
+"2024-07-11 15:55:20", "1297140", "abc8791aca686d175c4059f78713272c2da4ccc0897a51505b5ec5eec3e41dab", "sha256_hash", "payload", "win.gcleaner", "None", "GCleaner", "", "95", "None", "None", "0", "Grim"
 "2024-07-11 15:55:14", "1297137", "7614f3191e218056402bb21b5349f37435d986f7d81954555d6b776df808b18e", "sha256_hash", "payload", "win.stealc", "None", "Stealc", "", "95", "None", "None", "0", "Grim"
 "2024-07-11 15:55:07", "1297134", "5fff5f8ae81b7a71be4c1ab4f92b118306685af72ac5ef643e7deb05b2893a51", "sha256_hash", "payload", "win.gcleaner", "None", "GCleaner", "", "95", "None", "None", "0", "Grim"
 "2024-07-11 15:54:59", "1297131", "3435a2f1f5d9f163ffcea72612eefe893cbcf1bc9964fa1f76d29096558882ec", "sha256_hash", "payload", "win.dcrat", "DarkCrystal RAT", "DCRat", "", "95", "None", "None", "0", "Grim"
@@ -197,4 +199,4 @@
 "2024-07-09 18:03:36", "1296218", "06f29306b273c4678e13d5d7a80ae9f5dc093da51e4115b5fe4a6ef7b1051103", "sha256_hash", "payload", "win.asyncrat", "None", "AsyncRAT", "", "95", "None", "None", "0", "Grim"
 "2024-07-09 18:03:33", "1296215", "546b5457cd26c9230fc49a456197aeeb761241adc2dd2774c37b1d3189968cb9", "sha256_hash", "payload", "win.stealc", "None", "Stealc", "", "95", "None", "None", "0", "Grim"
 "2024-07-09 18:03:29", "1296212", "480f83695dd50d652910613f062a934c85a8ac9bae32bb542e60255e8e85128e", "sha256_hash", "payload", "win.dcrat", "DarkCrystal RAT", "DCRat", "", "95", "None", "None", "0", "Grim"
-# Number of entries: 190
+# Number of entries: 192
