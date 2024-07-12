@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-12 02:00:01 UTC
+# UPDATE: 2024-07-12 03:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+189504, 2024-07-12 02:58:14, 2024-07-12 02:58:14, phishing, aa991520203813572ba0d6d141c124b8, http://gay-rooom-sg-privat.7s.com.tr
+189503, 2024-07-12 02:58:11, 2024-07-12 02:58:11, phishing, 688279f5bf08588a1eaacf51fd476971, http://zenthepanda.pages.dev
+189502, 2024-07-12 02:44:12, 2024-07-12 02:44:12, phishing, 3a0067f09845d8f4314f240ee528649d, http://somedomainvalidationserverauthinticationrequireds3.pages.dev
+189501, 2024-07-12 02:38:11, 2024-07-12 02:38:11, phishing, f2de901ecc2fa9df00dc2749f04bf611, http://dfhre2.pages.dev
 189500, 2024-07-12 01:27:21, 2024-07-12 01:27:21, malware, 3d9845fcd8894a99acedf6b54317a098, http://78.186.45.130:60138/i
 189499, 2024-07-12 01:27:19, 2024-07-12 01:27:19, malware, add36facb66544d88dd7ff1b183ab4b1, http://61.3.86.21:40534/i
 189498, 2024-07-12 01:27:14, 2024-07-12 01:27:14, malware, 2ac8d4e039594930bb684a59807b3e81, http://61.136.86.46:60547/i
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 189007, 2024-07-11 15:33:25, 2024-07-11 15:33:25, malware, 50e15ce1902e41128f41966a5940bc6e, http://125.44.214.30:51057/bin.sh
 189006, 2024-07-11 15:33:04, 2024-07-11 15:33:04, malware, b2cb2493c2184aebb9057f0e73274d43, http://125.42.10.57:36044/i
 189005, 2024-07-11 15:33:01, 2024-07-11 15:33:01, malware, ac80dc9a81f845c2832bd35e17aebe55, http://125.42.10.57:36044/bin.sh
-189004, 2024-07-11 15:32:47, 2024-07-11 15:32:47, malware, d08b46101c4a403f96adf1d120fdae05, http://125.168.185.113:37144/Mozi.m
-189003, 2024-07-11 15:32:45, 2024-07-11 15:32:45, malware, 8b52c21b95924993aef0b159d4083cfe, http://124.131.43.157:37684/Mozi.m
-189002, 2024-07-11 15:32:43, 2024-07-11 15:32:43, malware, c7c2c074d4a441ce820a5fdc5446231a, http://124.131.193.132:60665/i
-189001, 2024-07-11 15:32:41, 2024-07-11 15:32:41, malware, 0f5628dd7ce74342b08a1b17b863efbe, http://124.131.193.132:60665/bin.sh
