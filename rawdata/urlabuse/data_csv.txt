@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-12 18:00:01 UTC
+# UPDATE: 2024-07-12 19:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+190075, 2024-07-12 18:30:12, 2024-07-12 18:30:12, phishing, 28fc175f225b8529d3a0415507bf5d50, http://simxtrackredirecttszz.pages.dev
+190074, 2024-07-12 18:30:12, 2024-07-12 18:30:12, phishing, a8ed6f1eb89263f2ac3ca6b7615a11bb, http://simxtrackredirectsakrii87.pages.dev
+190073, 2024-07-12 18:16:12, 2024-07-12 18:16:12, phishing, 93476d115a1d1966535abad70c921707, http://roseon-world.pages.dev
 190072, 2024-07-12 17:42:14, 2024-07-12 17:42:14, phishing, 9633b69cbae8e5ea3a987630801a50e2, http://edd-5ch.pages.dev
 190071, 2024-07-12 17:32:37, 2024-07-12 17:32:37, malware, ad9577eb0d6f44d6a0bba25f6508c2c2, http://77.81.87.111:55175/bin.sh
 190070, 2024-07-12 17:32:36, 2024-07-12 17:32:36, malware, a433d46b88154db99b4df45db08f35e8, http://61.53.72.66:40175/i
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 189578, 2024-07-12 05:21:00, 2024-07-12 05:21:00, malware, b7394c47615147d296db706891cb38c0, http://117.208.215.197:58836/Mozi.m
 189577, 2024-07-12 05:20:48, 2024-07-12 05:20:48, malware, 4953ab4f2ff9484299e2feb55f6aa13e, http://117.207.173.123:37875/i
 189576, 2024-07-12 05:20:46, 2024-07-12 05:20:46, malware, 64a7ce1b000c41488aedc969b39b6df6, http://117.206.128.106:37501/i
-189575, 2024-07-12 05:20:37, 2024-07-12 05:20:37, malware, 81ef65c2afb8498b81873b43901ff0fd, http://117.198.25.34:55073/i
-189574, 2024-07-12 05:20:35, 2024-07-12 05:20:35, malware, 754957cffcf64e7db2a98f31e1d9f838, http://117.198.25.34:55073/bin.sh
-189573, 2024-07-12 05:20:20, 2024-07-12 05:20:20, malware, bfccce44ce394fe79da851fa4857ccf3, http://115.52.149.20:56572/bin.sh
