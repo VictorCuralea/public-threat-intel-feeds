@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-07-12 07:24:51 UTC                        #
+# Last updated: 2024-07-12 11:24:02 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	domaplc.top
 127.0.0.1	credit-ecommerce.gl.at.ply.gg
 127.0.0.1	daslkjfhi2.lol
 127.0.0.1	kooktaripa.com
@@ -7303,4 +7304,4 @@
 127.0.0.1	link.blueyonderllc.top
 127.0.0.1	topendpower.top
 127.0.0.1	blueyonderllc.top
-# Number of entries: 7297
+# Number of entries: 7298
