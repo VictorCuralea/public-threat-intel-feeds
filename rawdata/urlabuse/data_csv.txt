@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-12 12:00:02 UTC
+# UPDATE: 2024-07-12 13:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+189851, 2024-07-12 12:58:13, 2024-07-12 12:58:13, phishing, 9f914346076dcec5f0a627baa81dd328, http://xpubactivationprotocol.pages.dev
+189850, 2024-07-12 12:52:12, 2024-07-12 12:52:12, phishing, b63980da23d2e8a367b031da59aac0a2, http://mail.pilololrklo9.com
 189849, 2024-07-12 11:58:16, 2024-07-12 11:58:16, phishing, f72f9244f52dd643e6d2398a49102010, http://optstakihifiprompt.pages.dev
 189848, 2024-07-12 11:58:16, 2024-07-12 11:58:16, phishing, 95ffca535fc694387dc2d35f0d272305, http://depcloudreadyfare.pages.dev
 189847, 2024-07-12 11:38:10, 2024-07-12 11:38:10, phishing, b9757e261a794452d8e59c31e042a995, http://wakaitm.sarzirurdu.workers.dev
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 189354, 2024-07-11 21:26:32, 2024-07-11 21:26:32, malware, 57ba9123b65240f4b6be7626b7b6f8c6, http://123.10.137.5:47687/i
 189353, 2024-07-11 21:26:21, 2024-07-11 21:26:21, malware, 3a6da37d43e24a16956c11bc52c51ab2, http://120.238.189.72:44510/i
 189352, 2024-07-11 21:26:17, 2024-07-11 21:26:17, malware, 8d83096f99224f71819c8da911ce2530, http://119.183.30.115:38965/i
-189351, 2024-07-11 21:26:15, 2024-07-11 21:26:15, malware, 371ecfb4226644cf8101c74dab97a3a3, http://119.183.30.115:38965/bin.sh
-189350, 2024-07-11 21:26:13, 2024-07-11 21:26:13, malware, 5cc965cb300146a293afd19cd4aca293, http://119.180.220.26:42607/Mozi.m
