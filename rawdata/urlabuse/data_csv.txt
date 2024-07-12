@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-12 20:00:01 UTC
+# UPDATE: 2024-07-12 21:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+190146, 2024-07-12 20:46:39, 2024-07-12 18:56:13, phishing, f41879b68e78262445534b7f5f5e36c1, http://free-5264964.webadorsite.com/
+190145, 2024-07-12 20:45:24, 2024-07-12 16:04:22, phishing, 0d4f1bb0a66214381b4d6586852d8af6, https://post-ch.service-swiss.biz/252879950
+190144, 2024-07-12 20:34:15, 2024-07-12 20:34:15, phishing, e131990633d10c46ee75e24ef2327dba, http://gay-rooom-sg-privat.from40.biz.id
+190143, 2024-07-12 20:20:11, 2024-07-12 20:20:11, phishing, 2fdf2fbd059a3d19dea54a40b2f18356, http://hofo-eho.pages.dev
 190142, 2024-07-12 19:52:19, 2024-07-12 19:52:19, phishing, 68e878b1234eaf80c96fe5f0067d1846, http://optstalkeyever.pages.dev
 190141, 2024-07-12 19:34:06, 2024-07-12 19:34:06, malware, 616af7ec77d54351a5452a67f5588c1c, http://77.81.87.111:55175/i
 190140, 2024-07-12 19:34:06, 2024-07-12 19:34:06, malware, 2eadd5e5bd64440f87b0ddeae40644e9, http://77.45.129.99:48787/bin.sh
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 189649, 2024-07-12 07:24:11, 2024-07-12 07:24:11, malware, 4c15bc1cee8645b4a759fef4ac615461, http://123.9.103.229:48919/i
 189648, 2024-07-12 07:24:08, 2024-07-12 07:24:08, malware, 8d94874939814431875655dac49df8eb, http://123.9.103.229:48919/bin.sh
 189647, 2024-07-12 07:24:06, 2024-07-12 07:24:06, malware, e0c69836bce8425e896ba7719ca28c2a, http://123.4.188.84:55225/i
-189646, 2024-07-12 07:23:10, 2024-07-12 07:23:10, malware, fa19fb84e60a4a13be6c55489842e1c6, http://117.252.170.19:49226/Mozi.m
-189645, 2024-07-12 07:21:56, 2024-07-12 07:21:56, malware, c95982df3e144256b013f5b74ed3507b, http://117.219.85.246:37800/bin.sh
-189644, 2024-07-12 07:21:45, 2024-07-12 07:21:45, malware, c3174be150f840ef80cdcde6566847b4, http://117.214.8.218:41666/i
-189643, 2024-07-12 07:21:22, 2024-07-12 07:21:22, malware, 3827539fc24e4ddf9f9c362e07ceb78a, http://117.208.17.37:40894/bin.sh
