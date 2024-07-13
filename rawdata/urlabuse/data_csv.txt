@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-13 20:00:01 UTC
+# UPDATE: 2024-07-13 21:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+190929, 2024-07-13 20:58:15, 2024-07-13 20:58:15, phishing, a796a980ee2b2705cfe1a73f723a94e5, http://wd-bj8.pages.dev
+190928, 2024-07-13 20:52:17, 2024-07-13 20:52:17, phishing, 165ea0c0230eb971d2b14d077412a60e, http://duratempfarewell.pages.dev
+190927, 2024-07-13 20:48:14, 2024-07-13 20:48:14, phishing, 01e53292ba2a1ef57f31e76f3baa31ad, http://meetmeatthejunction2.pages.dev
+190926, 2024-07-13 20:36:12, 2024-07-13 20:36:12, phishing, 2ecc521b8132eccaca9809c38e351ff4, http://cep-giris-sube-gov.xyz
 190925, 2024-07-13 19:33:43, 2024-07-13 19:33:43, malware, 85f1d42514e34e67b91e441a05e124f5, http://93.123.85.136/arm
 190924, 2024-07-13 19:33:41, 2024-07-13 19:33:41, malware, 685df39f9e554b77b997c5fd70a48e4b, http://81.213.214.180:49123/i
 190923, 2024-07-13 19:33:39, 2024-07-13 19:33:39, malware, 97d7825a1be640c1957cc7f9d50a0f40, http://61.53.74.255:57856/i
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 190432, 2024-07-13 07:20:10, 2024-07-13 07:20:10, malware, c464701d72204c0ca95be3a3a851e615, http://112.248.60.118:41709/Mozi.m
 190431, 2024-07-13 07:20:08, 2024-07-13 07:20:08, malware, 709297dec81c4f32a843189968a88165, http://112.248.184.161:54155/i
 190430, 2024-07-13 07:20:06, 2024-07-13 07:20:06, malware, 1c89fa1f48634324a516a703225c6439, http://112.232.205.205:53347/bin.sh
-190429, 2024-07-13 07:02:13, 2024-07-13 07:02:13, phishing, 2da737f7c45b366381fbe5a4e0e4ad50, https://site51.shop/Tanha/LP/P/A/C/H/K/H/O/b/E/h/Roup/pay/
-190428, 2024-07-13 07:01:21, 2024-07-13 07:01:21, phishing, eb0ef9073b864d5620ebcf9c222d1bc1, https://site53.shop/Tanha/LP/P/A/C/H/K/H/O/b/E/h/Roup/pay/
-190427, 2024-07-13 07:01:21, 2024-07-13 07:01:21, phishing, b8b30d9d9cd437a73f068ce76a6a96d2, https://www.distritonorte.com.mx/js/config/information.php?access.x82474887686&&data.x=en_7bdeb709870cc7897ee3f3662
-190426, 2024-07-13 07:00:31, 2024-07-13 07:00:31, phishing, 608e19534502d1a7b75cffd08f8e3d7c, http://telegramcontact.pages.dev/
