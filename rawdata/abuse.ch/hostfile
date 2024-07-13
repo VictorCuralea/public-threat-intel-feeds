@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-07-13 08:20:32 UTC                        #
+# Last updated: 2024-07-13 14:51:12 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	areaseguras.con-ip.com
 127.0.0.1	rtc-moostas.com
 127.0.0.1	wtffckbeachpro2.com
 127.0.0.1	tonflux.com
@@ -7290,4 +7291,4 @@
 127.0.0.1	maixunkeji.com
 127.0.0.1	www.bofeng.com.cn
 127.0.0.1	debasesingle.life
-# Number of entries: 7284
+# Number of entries: 7285
