@@ -6,9 +6,17 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-13 06:00:01 UTC
+# UPDATE: 2024-07-13 07:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+190423, 2024-07-13 06:58:16, 2024-07-13 06:58:16, phishing, 4e67ae001156f7117d0b18daa5d04b37, http://ws.to-whatsapp.net
+190422, 2024-07-13 06:56:27, 2024-07-13 06:56:27, phishing, 4545689ea49dbfcc0a553913aaae8b6c, http://cn.to-whatsapp.net
+190421, 2024-07-13 06:56:17, 2024-07-13 06:56:17, phishing, c5c0910bcca4a73dd6c46f265558ef60, http://vn.to-whatsapp.shop
+190420, 2024-07-13 06:52:19, 2024-07-13 06:52:19, phishing, bac44f1d0d7b91487c04b5225030d9fe, http://as.to-whatsapp.net
+190419, 2024-07-13 06:48:19, 2024-07-13 06:48:19, phishing, ececb0e3e50af0eb812e7bd728d08e41, http://me.to-whatsapp.net
+190418, 2024-07-13 06:08:57, 2024-07-13 05:07:33, phishing, b2e816eaea23cb4d82f4e245ec113b91, https://richiinhome.com/validate/XLS/hhhh1.php?main_domain=https://yahoo.com.tw&email=info@yahoo.com.tw&subdomain=https://yahoo.com.tw
+190417, 2024-07-13 06:08:01, 2024-07-13 04:56:32, phishing, 4eac34d1995fea2f29dd6b1bd5927beb, https://lintang.openvisual.info/32-887-090724/?u=83C887&e=yahoo%40yahoo.com.tw&s3=&s4=
+190416, 2024-07-13 06:07:46, 2024-07-13 04:52:43, phishing, f8124731145e5a12e6b025f33bdc4574, https://verzasca.urethanescience.info/ga/click/2-333899629-21799-44561-87203-53816-1541b1db50-5713e2769b
 190415, 2024-07-13 05:27:41, 2024-07-13 05:27:41, malware, e3cd5b8a6590440988cb2f6c2fc2af4e, http://61.52.56.6:37953/i
 190414, 2024-07-13 05:27:40, 2024-07-13 05:27:40, malware, a31f64a336c64b3596ad9722f5615118, http://61.1.52.123:37932/bin.sh
 190413, 2024-07-13 05:27:18, 2024-07-13 05:27:18, malware, b8026d3bae7a41fdbf6ee97effef16b9, http://59.99.221.133:48959/bin.sh
@@ -501,11 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 189926, 2024-07-12 15:20:33, 2024-07-12 15:20:33, malware, d8a6e12897074b528c71ff8f8fa5e4b8, http://103.176.232.20:39132/i
 189925, 2024-07-12 15:20:31, 2024-07-12 15:20:31, malware, 54df561b12914ee888abb6f4dc592eb2, http://103.176.232.20:39132/bin.sh
 189924, 2024-07-12 15:20:10, 2024-07-12 15:20:10, malware, 5c61a35de1494cf498d4628ffd24b1d7, http://102.212.241.73:47022/bin.sh
-189923, 2024-07-12 15:04:11, 2024-07-12 15:04:11, phishing, 171af7fa575df4792ba61512deb57981, http://mboten-pareng-sambat.pages.dev
-189922, 2024-07-12 14:56:18, 2024-07-12 14:56:18, phishing, df2d2e2dfc52cff567e5cbff23be3943, http://akigmwcprnb.top
-189921, 2024-07-12 14:56:14, 2024-07-12 14:56:14, phishing, a75e53a82400bcb7fac3aaac220b2496, http://espace-enligne-sante.fr
-189920, 2024-07-12 14:52:51, 2024-07-12 13:42:10, phishing, da7c2631481e37fdf146ab5335c3948c, https://servicememovoice.fr/memovoice.html
-189919, 2024-07-12 14:52:35, 2024-07-12 14:32:16, phishing, e23a73d50e94c7923ac898fe00c682d9, https://cuty.io/JTAC
-189918, 2024-07-12 14:52:23, 2024-07-12 14:52:23, phishing, 06eb879ae03d538492e4fa20e80ea158, https://cycleaurty-sruierts-mckaubly.yolasite.com/
-189917, 2024-07-12 14:52:17, 2024-07-12 14:52:17, phishing, 97e84c85f55dad49d97330e8e2088134, http://pcmkfzuqnjg.top
-189916, 2024-07-12 14:51:57, 2024-07-12 14:30:16, phishing, b47463d36c54d57052e5a0b4a7ea0108, https://eeryusmae.info/

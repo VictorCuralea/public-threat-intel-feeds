@@ -6,8 +6,16 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-13 06:00:01 UTC
+# UPDATE: 2024-07-13 07:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 190423, "url": "http://ws.to-whatsapp.net", "discovery": "2024-07-13 06:58:16", "added": "2024-07-13 06:58:16", "target": "Whatsapp", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "4e67ae001156f7117d0b18daa5d04b37"}
+{"id": 190422, "url": "http://cn.to-whatsapp.net", "discovery": "2024-07-13 06:56:27", "added": "2024-07-13 06:56:27", "target": "Whatsapp", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "4545689ea49dbfcc0a553913aaae8b6c"}
+{"id": 190421, "url": "http://vn.to-whatsapp.shop", "discovery": "2024-07-13 06:56:17", "added": "2024-07-13 06:56:17", "target": "Whatsapp", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "c5c0910bcca4a73dd6c46f265558ef60"}
+{"id": 190420, "url": "http://as.to-whatsapp.net", "discovery": "2024-07-13 06:52:19", "added": "2024-07-13 06:52:19", "target": "Whatsapp", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "bac44f1d0d7b91487c04b5225030d9fe"}
+{"id": 190419, "url": "http://me.to-whatsapp.net", "discovery": "2024-07-13 06:48:19", "added": "2024-07-13 06:48:19", "target": "Whatsapp", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "ececb0e3e50af0eb812e7bd728d08e41"}
+{"id": 190418, "url": "https://richiinhome.com/validate/XLS/hhhh1.php?main_domain=https://yahoo.com.tw&email=info@yahoo.com.tw&subdomain=https://yahoo.com.tw", "discovery": "2024-07-13 05:07:33", "added": "2024-07-13 06:08:57", "target": "Generic Email", "reporter": "anonymous", "AbuseType": "phishing", "UUID": "b2e816eaea23cb4d82f4e245ec113b91"}
+{"id": 190417, "url": "https://lintang.openvisual.info/32-887-090724/?u=83C887&e=yahoo%40yahoo.com.tw&s3=&s4=", "discovery": "2024-07-13 04:56:32", "added": "2024-07-13 06:08:01", "target": "Bpost", "reporter": "anonymous", "AbuseType": "phishing", "UUID": "4eac34d1995fea2f29dd6b1bd5927beb"}
+{"id": 190416, "url": "https://verzasca.urethanescience.info/ga/click/2-333899629-21799-44561-87203-53816-1541b1db50-5713e2769b", "discovery": "2024-07-13 04:52:43", "added": "2024-07-13 06:07:46", "target": "Bpost", "reporter": "anonymous", "AbuseType": "phishing", "UUID": "f8124731145e5a12e6b025f33bdc4574"}
 {"id": 190415, "url": "http://61.52.56.6:37953/i", "discovery": "2024-07-13 05:27:41", "added": "2024-07-13 05:27:41", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "e3cd5b8a6590440988cb2f6c2fc2af4e"}
 {"id": 190414, "url": "http://61.1.52.123:37932/bin.sh", "discovery": "2024-07-13 05:27:40", "added": "2024-07-13 05:27:40", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "a31f64a336c64b3596ad9722f5615118"}
 {"id": 190413, "url": "http://59.99.221.133:48959/bin.sh", "discovery": "2024-07-13 05:27:18", "added": "2024-07-13 05:27:18", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "b8026d3bae7a41fdbf6ee97effef16b9"}
@@ -500,11 +508,3 @@
 {"id": 189926, "url": "http://103.176.232.20:39132/i", "discovery": "2024-07-12 15:20:33", "added": "2024-07-12 15:20:33", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "d8a6e12897074b528c71ff8f8fa5e4b8"}
 {"id": 189925, "url": "http://103.176.232.20:39132/bin.sh", "discovery": "2024-07-12 15:20:31", "added": "2024-07-12 15:20:31", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "54df561b12914ee888abb6f4dc592eb2"}
 {"id": 189924, "url": "http://102.212.241.73:47022/bin.sh", "discovery": "2024-07-12 15:20:10", "added": "2024-07-12 15:20:10", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "5c61a35de1494cf498d4628ffd24b1d7"}
-{"id": 189923, "url": "http://mboten-pareng-sambat.pages.dev", "discovery": "2024-07-12 15:04:11", "added": "2024-07-12 15:04:11", "target": "Telegram", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "171af7fa575df4792ba61512deb57981"}
-{"id": 189922, "url": "http://akigmwcprnb.top", "discovery": "2024-07-12 14:56:18", "added": "2024-07-12 14:56:18", "target": "USPS", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "df2d2e2dfc52cff567e5cbff23be3943"}
-{"id": 189921, "url": "http://espace-enligne-sante.fr", "discovery": "2024-07-12 14:56:14", "added": "2024-07-12 14:56:14", "target": "FR-GOV", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "a75e53a82400bcb7fac3aaac220b2496"}
-{"id": 189920, "url": "https://servicememovoice.fr/memovoice.html", "discovery": "2024-07-12 13:42:10", "added": "2024-07-12 14:52:51", "target": "Orange", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "da7c2631481e37fdf146ab5335c3948c"}
-{"id": 189919, "url": "https://cuty.io/JTAC", "discovery": "2024-07-12 14:32:16", "added": "2024-07-12 14:52:35", "target": "Orange", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "e23a73d50e94c7923ac898fe00c682d9"}
-{"id": 189918, "url": "https://cycleaurty-sruierts-mckaubly.yolasite.com/", "discovery": "2024-07-12 14:52:23", "added": "2024-07-12 14:52:23", "target": "Orange", "reporter": "urlabuse", "AbuseType": "phishing", "UUID": "06eb879ae03d538492e4fa20e80ea158"}
-{"id": 189917, "url": "http://pcmkfzuqnjg.top", "discovery": "2024-07-12 14:52:17", "added": "2024-07-12 14:52:17", "target": "USPS", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "97e84c85f55dad49d97330e8e2088134"}
-{"id": 189916, "url": "https://eeryusmae.info/", "discovery": "2024-07-12 14:30:16", "added": "2024-07-12 14:51:57", "target": "Orange", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "b47463d36c54d57052e5a0b4a7ea0108"}
