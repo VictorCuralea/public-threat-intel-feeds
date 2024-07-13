@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-13 11:00:02 UTC
+# UPDATE: 2024-07-13 12:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+190565, 2024-07-13 11:20:41, 2024-07-13 11:20:41, malware, 078ef9455e9c4fb69e5d696f5706ee35, http://61.3.213.201:48662/i
+190564, 2024-07-13 11:20:29, 2024-07-13 11:20:29, malware, 09c153ea6d8147c69c40c7beff6a8fc4, http://182.127.43.18:47252/bin.sh
+190563, 2024-07-13 11:20:18, 2024-07-13 11:20:18, malware, fe11c6d694114726b7a399e7a3ab367f, http://117.245.43.14:38103/bin.sh
+190562, 2024-07-13 11:20:06, 2024-07-13 11:20:06, malware, c3e0858e00284d899d68ad494bbcdefb, http://117.196.164.230:55950/i
 190561, 2024-07-13 10:58:14, 2024-07-13 10:58:14, phishing, e098c4adbc8de36e74d9ef318cb01b12, http://nouvelle-cartesante.info
 190560, 2024-07-13 10:45:10, 2024-07-13 10:45:10, phishing, 2c61dc08044f118728858b034b600bd0, https://amaniona.com/54332e07b/osm.php?aa=wahre&session=616d616e696f6e612e636f6d
 190559, 2024-07-13 10:45:00, 2024-07-13 10:45:00, phishing, 9f601b8fbfce21185fd7e5ada5a4fa2d, https://amaniona.com/54332e07b/redirect.php
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 190068, 2024-07-12 17:32:33, 2024-07-12 17:32:33, malware, b4152e152700475bb714f6c23f75f140, http://61.3.138.80:53912/Mozi.m
 190067, 2024-07-12 17:31:00, 2024-07-12 17:31:00, malware, 9a6830eed11c431eb7c6de4e4f01fc5d, http://59.97.220.230:55311/Mozi.m
 190066, 2024-07-12 17:30:57, 2024-07-12 17:30:57, malware, 5232ad17e3f94ac297ba1a6ca480ab50, http://59.97.126.65:41560/bin.sh
-190065, 2024-07-12 17:30:55, 2024-07-12 17:30:55, malware, c33f72ab4da048bb8d582e3fbc40d83a, http://59.97.115.147:37933/bin.sh
-190064, 2024-07-12 17:30:34, 2024-07-12 17:30:34, malware, 13f97d4e3aca46c89fd549f88b68ba24, http://59.95.91.5:39435/i
-190063, 2024-07-12 17:30:30, 2024-07-12 17:30:30, malware, 72a41cc9a28b4b0b9e3eb9677e0ca91f, http://59.95.91.5:39435/bin.sh
-190062, 2024-07-12 17:30:28, 2024-07-12 17:30:28, malware, a9aab063346d487e9b928233cda6cfba, http://59.95.91.184:37667/i
