@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-07-12 21:07:53 UTC                        #
+# Last updated: 2024-07-13 08:20:32 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	rtc-moostas.com
 127.0.0.1	wtffckbeachpro2.com
 127.0.0.1	tonflux.com
 127.0.0.1	ltdoffs.online
@@ -7291,4 +7292,4 @@
 127.0.0.1	debasesingle.life
 127.0.0.1	ns543320.ip-144-217-252.net
 127.0.0.1	ns1.cbhhb.com.cn
-# Number of entries: 7285
+# Number of entries: 7286
