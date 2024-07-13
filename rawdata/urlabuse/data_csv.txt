@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-13 02:00:02 UTC
+# UPDATE: 2024-07-13 03:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+190320, 2024-07-13 02:58:13, 2024-07-13 02:58:13, phishing, 907e514f9b1c1a329ad905db97aed8bf, http://whatsappdatiqqxxx.pages.dev
+190319, 2024-07-13 02:52:13, 2024-07-13 02:52:13, phishing, 0f46d2091496f92eb3ee42e0045e86e7, http://telegramgroupqq-e97.pages.dev
 190318, 2024-07-13 01:27:45, 2024-07-13 01:27:45, malware, 5401fc5903784e9dbbe25ecc4a43df80, http://61.1.52.162:51423/bin.sh
 190317, 2024-07-13 01:27:44, 2024-07-13 01:27:44, malware, 095634a06fb5489b8da63c738396551f, http://61.1.230.91:55692/i
 190316, 2024-07-13 01:27:31, 2024-07-13 01:27:31, malware, c6aa9f2d03fc4687b482d4954bd98d5e, http://61.0.214.91:50834/bin.sh
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 189823, 2024-07-12 11:25:27, 2024-07-12 11:25:27, malware, 5e84d71b48e5410b89250a3d45c62808, http://221.15.255.92:33256/i
 189822, 2024-07-12 11:25:26, 2024-07-12 11:25:26, malware, ae04756f6f864bc79c114763d467d43e, http://221.15.255.92:33256/bin.sh
 189821, 2024-07-12 11:25:24, 2024-07-12 11:25:24, malware, bc1b94617f9c415fb510ce743fea4b16, http://216.245.184.74/webdav/Windows_Services_AS.exe
-189820, 2024-07-12 11:24:55, 2024-07-12 11:24:55, malware, 440db6f10cba4db581028321a22d55a6, http://182.126.81.148:51972/Mozi.m
-189819, 2024-07-12 11:24:54, 2024-07-12 11:24:54, malware, 82812d289fd8428497b9068a6a95f1b0, http://182.125.112.92:34668/bin.sh
