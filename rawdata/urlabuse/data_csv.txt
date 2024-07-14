@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-14 00:00:01 UTC
+# UPDATE: 2024-07-14 01:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+190990, 2024-07-14 00:40:13, 2024-07-14 00:40:13, phishing, 52c4e3caa47b1564cf2f1a83783583e7, http://telegram-b4c.pages.dev
+190989, 2024-07-14 00:20:10, 2024-07-14 00:20:10, phishing, 5c1658954c133168fb19a86b9a35dc59, http://msgr.com
+190988, 2024-07-14 00:10:11, 2024-07-14 00:10:11, phishing, e12ebdfbd8e5316f62eb5ebd28ab2ce6, http://aprilfoolgonewrongtoday2.pages.dev
 190987, 2024-07-13 22:52:14, 2024-07-13 22:52:14, phishing, 542429120beb57b930037f7de7b44661, http://pan.baymin.workers.dev
 190986, 2024-07-13 22:42:12, 2024-07-13 22:42:12, phishing, 9e21950bde0b00b9bc5ecd0c0e7257cf, http://rosalinda-hot-sexo.pages.dev
 190985, 2024-07-13 22:38:10, 2024-07-13 22:38:10, phishing, 0515dfad979e959776eae724d7f61da8, http://desservermabagecloudsergeneratorjsjherjrsjgks.pages.dev
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 190493, 2024-07-13 09:25:44, 2024-07-13 09:25:44, malware, 4962b30dc9844e82bf199dd05451d527, http://123.9.53.193:59195/
 190492, 2024-07-13 09:25:42, 2024-07-13 09:25:42, malware, 26edbe18fc6c481386d97eac1c39c2e0, http://123.9.206.229:46349/
 190491, 2024-07-13 09:25:40, 2024-07-13 09:25:40, malware, ebed05c43af8431fb5e0f2a0fa0a2678, http://123.14.87.77:36719/bin.sh
-190490, 2024-07-13 09:25:37, 2024-07-13 09:25:37, malware, a9eba3e8c76c4cfb9fcfd024706bf05b, http://123.14.87.77:36719/
-190489, 2024-07-13 09:24:22, 2024-07-13 09:24:22, malware, 7b1b80b1d58a4f5eadc34a2f51b785e6, http://119.163.162.191:34629/bin.sh
-190488, 2024-07-13 09:23:40, 2024-07-13 09:23:40, malware, e06c95face084ebdb9c6038a05aad7b1, http://117.248.175.47:47475/bin.sh
