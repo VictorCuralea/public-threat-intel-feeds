@@ -6,7 +6,7 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-14 06:00:01 UTC
+# UPDATE: 2024-07-14 07:00:01 UTC
 ############### END COMMENTS ###############
 {"id": 191309, "url": "http://clearclink.pages.dev", "discovery": "2024-07-14 05:48:16", "added": "2024-07-14 05:48:16", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "1956b16410e33b493d1e07354e08819c"}
 {"id": 191308, "url": "http://dappclolink.pages.dev", "discovery": "2024-07-14 05:42:15", "added": "2024-07-14 05:42:15", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "3335ab086fa23ff648006ed1bde3806f"}
