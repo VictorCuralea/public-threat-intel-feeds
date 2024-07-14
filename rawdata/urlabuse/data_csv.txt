@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-14 08:00:02 UTC
+# UPDATE: 2024-07-14 09:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+191378, 2024-07-14 08:30:12, 2024-07-14 08:30:12, phishing, 6362dec6e238a0afb47affb299222c0d, http://poeorson.pages.dev
+191377, 2024-07-14 08:20:18, 2024-07-14 08:20:18, phishing, 13192023a355096587c1e7c9283277aa, https://ourservice1.angry.jp/ch
 191376, 2024-07-14 07:26:59, 2024-07-14 07:26:59, malware, d8cf1d19c1ce491bb35cded24d71eff9, http://95.15.98.207:39758/Mozi.m
 191375, 2024-07-14 07:26:55, 2024-07-14 07:26:55, malware, 6d53c5d4f13143ca87d72a25d4c84255, http://93.84.121.17:59995/Mozi.m
 191374, 2024-07-14 07:26:53, 2024-07-14 07:26:53, malware, d1d3b3f53720429ca829e9e78f41e5ee, http://61.54.42.153:43758/bin.sh
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 190881, 2024-07-13 19:28:00, 2024-07-13 19:28:00, malware, 42858077eebb430698d9191398ddd01b, http://119.183.1.7:33035/i
 190880, 2024-07-13 19:27:58, 2024-07-13 19:27:58, malware, c16ac2a2ba134a4badae7f36fd01f52b, http://119.183.1.7:33035/bin.sh
 190879, 2024-07-13 19:27:56, 2024-07-13 19:27:56, malware, 6c54f16e23d04c9da5be3fcd396ba0c7, http://119.179.248.81:37060/bin.sh
-190878, 2024-07-13 19:27:54, 2024-07-13 19:27:54, malware, 29aad8967432485fb6f8acc977a308df, http://119.163.162.191:34629/i
-190877, 2024-07-13 19:27:25, 2024-07-13 19:27:25, malware, 58479036848749f4949696aa8f955951, http://117.254.167.176:53960/Mozi.m
