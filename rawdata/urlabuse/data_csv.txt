@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-14 20:00:01 UTC
+# UPDATE: 2024-07-14 21:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+191862, 2024-07-14 20:29:19, 2024-07-14 19:06:16, phishing, 88ed807d611765fa80c344d9fb69aaca, https://compuper.com.pe/djvnjdvnjdnvjdjdnvjjvdnjnjv.html
+191861, 2024-07-14 20:28:58, 2024-07-14 19:06:10, phishing, 3b762bccd51cf5664c3a8b3555394a11, https://taikoairdro.com/net/N/login
 191860, 2024-07-14 19:10:15, 2024-07-14 19:10:15, phishing, 076aa25065ef65e8fb1e2d5e6aa705f2, http://wconn-netw.pages.dev
 191859, 2024-07-14 19:06:16, 2024-07-14 19:06:16, phishing, 0ca773fac89635a33d73d26881343e17, https://food-of-the-gods.com/ch/home/
 191858, 2024-07-14 19:04:33, 2024-07-14 19:04:33, phishing, 14e9d5d8b94e8bbc8d2f0dd96f43478c, http://pub-ec526bef8b544fe7ade8fe8050bcaf1c.r2.dev/index.html
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 191365, 2024-07-14 07:26:03, 2024-07-14 07:26:03, malware, 2fac288066854c6084c6e26e0c80dee8, http://59.89.7.98:49797/bin.sh
 191364, 2024-07-14 07:25:33, 2024-07-14 07:25:33, malware, a48485ca4f794642a93b2b6d09b274c9, http://59.184.251.63:51986/bin.sh
 191363, 2024-07-14 07:25:13, 2024-07-14 07:25:13, malware, 15283349608c4dc394720cf1405485da, http://59.182.94.45:54126/bin.sh
-191362, 2024-07-14 07:24:42, 2024-07-14 07:24:42, malware, b3a77833a1e745e6a9e70a7c5c7a82f7, http://59.178.181.30:59497/bin.sh
-191361, 2024-07-14 07:24:40, 2024-07-14 07:24:40, malware, 79800e24c6d741dc98a68643a8d1512f, http://59.178.100.140:36264/bin.sh
