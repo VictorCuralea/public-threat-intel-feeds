@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-14 10:00:02 UTC
+# UPDATE: 2024-07-14 11:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+191468, 2024-07-14 10:03:33, 2024-07-14 10:03:33, phishing, ccc4b3026650ddfc154dbba9f3ccca27, https://owa.sarbacame.com/owa/auth/
+191467, 2024-07-14 10:02:23, 2024-07-14 10:02:23, phishing, da892ef043b976d81a518e3cc4b106af, https://telegram18dating.sensualflirt69.com/
+191466, 2024-07-14 10:00:11, 2024-07-14 10:00:11, phishing, 143142736e1f4e0c29c2ea6b38395d69, http://mail.emirmerttel.com
 191465, 2024-07-14 09:27:20, 2024-07-14 09:27:20, malware, ffa0ece323734825b71f435f916a3e38, http://93.84.121.17:59995/bin.sh
 191464, 2024-07-14 09:27:18, 2024-07-14 09:27:18, malware, 8200c6f233654c9e999a803958008720, http://88.229.74.63:41250/Mozi.a
 191463, 2024-07-14 09:27:17, 2024-07-14 09:27:17, malware, e72d591d840b4912829a39d434d4814a, http://88.229.74.63:41250/i
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 190971, 2024-07-13 21:24:58, 2024-07-13 21:24:58, malware, 49489dd7a2904c41b79402198b90ae07, http://59.95.92.98:56311/i
 190970, 2024-07-13 21:24:36, 2024-07-13 21:24:36, malware, 55a7a7f73f114f64b1dfaadf15954f87, http://59.93.229.116:46187/i
 190969, 2024-07-13 21:24:24, 2024-07-13 21:24:24, malware, a45cd48808434b059d7b9167252da13b, http://59.93.20.195:54196/bin.sh
-190968, 2024-07-13 21:24:19, 2024-07-13 21:24:19, malware, a4e24b1073e44ac0a9ddfb4cec48fc64, http://59.93.184.208:51897/i
-190967, 2024-07-13 21:24:10, 2024-07-13 21:24:10, malware, b8bf55099d2f4fad8fdb7fae067125b6, http://59.93.184.114:35706/bin.sh
-190966, 2024-07-13 21:23:58, 2024-07-13 21:23:58, malware, 24ccbea3c87c49c9a86d3eb816c2e90e, http://59.91.95.113:44845/bin.sh
