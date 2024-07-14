@@ -6,8 +6,9 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-14 17:00:01 UTC
+# UPDATE: 2024-07-14 18:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 191842, "url": "http://zhifeiji.one", "discovery": "2024-07-14 17:10:13", "added": "2024-07-14 17:10:13", "target": "Telegram", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "1a40e59747b8450415f812cbc19aa198"}
 {"id": 191841, "url": "http://imtoken-lt.top", "discovery": "2024-07-14 16:46:30", "added": "2024-07-14 16:46:30", "target": "imToken", "reporter": "lruray", "AbuseType": "phishing", "UUID": "b9f10fde53d482c5c84728e66a35c268"}
 {"id": 191840, "url": "http://imtoken-yg.top", "discovery": "2024-07-14 16:46:28", "added": "2024-07-14 16:46:28", "target": "imToken", "reporter": "lruray", "AbuseType": "phishing", "UUID": "7fdfd61bae14b1939bde03a724acaf29"}
 {"id": 191839, "url": "http://imtoken-nc.top", "discovery": "2024-07-14 16:46:26", "added": "2024-07-14 16:46:26", "target": "imToken", "reporter": "lruray", "AbuseType": "phishing", "UUID": "ea18d63c4e667e456e4976f878540d0b"}
@@ -507,4 +508,3 @@
 {"id": 191345, "url": "http://182.121.232.178:56055/i", "discovery": "2024-07-14 07:23:35", "added": "2024-07-14 07:23:35", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "0af8551fe1404268ab728af722b0fe4e"}
 {"id": 191344, "url": "http://182.113.25.92:55400/i", "discovery": "2024-07-14 07:23:33", "added": "2024-07-14 07:23:33", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "9c2c3d49063e4109a94d5d0100fbe02e"}
 {"id": 191343, "url": "http://125.47.109.99:58248/i", "discovery": "2024-07-14 07:23:32", "added": "2024-07-14 07:23:32", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "12d407ecfcd3403e90628e1a248d6a18"}
-{"id": 191342, "url": "http://125.47.109.99:58248/bin.sh", "discovery": "2024-07-14 07:23:30", "added": "2024-07-14 07:23:30", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "837681492b6943388c1cb31da809ad6f"}
