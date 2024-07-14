@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-14 18:00:01 UTC
+# UPDATE: 2024-07-14 19:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+191844, 2024-07-14 18:38:15, 2024-07-14 18:38:15, phishing, 8cae0f1cd35ea994ea773c00b50801d9, http://integrate-rectifydapps.pages.dev
+191843, 2024-07-14 18:02:17, 2024-07-14 18:02:17, phishing, e89428502faf3634254fb8a6588789a4, http://waytosecureyourcion.pages.dev
 191842, 2024-07-14 17:10:13, 2024-07-14 17:10:13, phishing, 1a40e59747b8450415f812cbc19aa198, http://zhifeiji.one
 191841, 2024-07-14 16:46:30, 2024-07-14 16:46:30, phishing, b9f10fde53d482c5c84728e66a35c268, http://imtoken-lt.top
 191840, 2024-07-14 16:46:28, 2024-07-14 16:46:28, phishing, 7fdfd61bae14b1939bde03a724acaf29, http://imtoken-yg.top
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 191347, 2024-07-14 07:23:38, 2024-07-14 07:23:38, malware, 28f8a68adb464b0d8ea6e3eab07e6cd2, http://182.57.191.22:58296/bin.sh
 191346, 2024-07-14 07:23:37, 2024-07-14 07:23:37, malware, bbe77619830949a4b3429a8ece5f3d72, http://182.127.109.133:48714/i
 191345, 2024-07-14 07:23:35, 2024-07-14 07:23:35, malware, 0af8551fe1404268ab728af722b0fe4e, http://182.121.232.178:56055/i
-191344, 2024-07-14 07:23:33, 2024-07-14 07:23:33, malware, 9c2c3d49063e4109a94d5d0100fbe02e, http://182.113.25.92:55400/i
-191343, 2024-07-14 07:23:32, 2024-07-14 07:23:32, malware, 12d407ecfcd3403e90628e1a248d6a18, http://125.47.109.99:58248/i
