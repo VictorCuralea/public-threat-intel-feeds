@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-15 02:00:02 UTC
+# UPDATE: 2024-07-15 03:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+192154, 2024-07-15 02:32:15, 2024-07-15 02:32:15, phishing, f14e0079d6947c45f418709455d7481f, http://assurance-formulaire.com
 192153, 2024-07-15 01:44:13, 2024-07-15 01:44:13, phishing, 30ce1d7de3b2109e25f40ce533e3a0a8, http://gotracking.store
 192152, 2024-07-15 01:23:22, 2024-07-15 01:23:22, malware, b86b8f618d1c459e9983290dc37dc950, http://96.33.220.208:37759/bin.sh
 192151, 2024-07-15 01:23:21, 2024-07-15 01:23:21, malware, 01505cc687b84445a950a9832693c257, http://61.53.250.109:59851/i
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 191657, 2024-07-14 13:24:33, 2024-07-14 13:24:33, malware, 89cd33e65d1d49ea834bfc9490478fb4, http://123.9.96.251:50521/bin.sh
 191656, 2024-07-14 13:24:32, 2024-07-14 13:24:32, malware, 01416619b979498f9867d31d1863fa56, http://123.8.87.213:55705/i
 191655, 2024-07-14 13:24:29, 2024-07-14 13:24:29, malware, e7cd56b62c244fb9996d61a6c9b61811, http://120.61.74.20:35507/bin.sh
-191654, 2024-07-14 13:24:20, 2024-07-14 13:24:20, malware, 20a4cdf108ed468eb4bda67ee17467fd, http://120.57.219.243:53476/i
