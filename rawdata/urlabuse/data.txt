@@ -6,8 +6,17 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-15 16:00:01 UTC
+# UPDATE: 2024-07-15 17:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 192624, "url": "https://ipfs.io/ipfs/QmXAAovkz3s9HSTrq4djL37J5jHTYac99RYN6jRct3RtpD?filename=QmXAAovkz3s9HSTrq4djL37J5jHTYac99RYN6jRct3RtpD", "discovery": "2024-07-15 15:42:12", "added": "2024-07-15 16:36:36", "target": "Generic Phishing", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "3ab90c4fe1d2174d571dcb8a24117162"}
+{"id": 192623, "url": "https://waybill-ondemand.com/shipment", "discovery": "2024-07-15 15:34:10", "added": "2024-07-15 16:36:25", "target": "DHL", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "2bd05d46692b9cd0acb2557d3e254b7a"}
+{"id": 192622, "url": "http://fdee750c-package.quiggle.net/?fdee750c", "discovery": "2024-07-15 14:42:15", "added": "2024-07-15 16:36:03", "target": "DHL", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "370a11b44dc427bf7ebb1276eb6c9707"}
+{"id": 192621, "url": "http://05834359.amedsolution.ca/?9c156", "discovery": "2024-07-15 14:18:17", "added": "2024-07-15 16:35:39", "target": "DHL", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "1823cfbc68748f9bfc7addb6ce3045d9"}
+{"id": 192620, "url": "https://telegraem.lol/", "discovery": "2024-07-15 16:04:20", "added": "2024-07-15 16:04:20", "target": "Telegram", "reporter": "lruray", "AbuseType": "phishing", "UUID": "919fe8dd445f89663c1a94ce0db1150a"}
+{"id": 192619, "url": "https://djoker.xyz/", "discovery": "2024-07-15 16:03:27", "added": "2024-07-15 16:03:27", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "1416c00528072df9a30b0120a48326a2"}
+{"id": 192618, "url": "https://telegramsexmiranda.pages.dev/", "discovery": "2024-07-15 16:03:05", "added": "2024-07-15 16:03:05", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "a70f2ca85c7a8fb0664c5c7f6149e8a7"}
+{"id": 192617, "url": "https://panggah-oke-git-main-sfsdghs-projects.vercel.app/", "discovery": "2024-07-15 16:03:01", "added": "2024-07-15 16:03:01", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "855bcbd08f208fcc9822836a2de9c99a"}
+{"id": 192616, "url": "https://telegramso2.lol/", "discovery": "2024-07-15 16:02:21", "added": "2024-07-15 16:02:21", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "bb8adebbe91166bd9cc83f9600a6e975"}
 {"id": 192615, "url": "http://formulaire-assumaladie.org", "discovery": "2024-07-15 15:56:15", "added": "2024-07-15 15:56:15", "target": "FR-GOV", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "083996a455ad685ff0102234cc62bd7e"}
 {"id": 192614, "url": "http://brightvenus.pages.dev", "discovery": "2024-07-15 15:28:11", "added": "2024-07-15 15:28:11", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "16a17a8aabcc9d7c69c72091546d0883"}
 {"id": 192613, "url": "http://usps.bunxkozqilp.top", "discovery": "2024-07-15 15:20:16", "added": "2024-07-15 15:20:16", "target": "USPS", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "beeefe5bd3a7037b5bb87b38ba115ba6"}
@@ -499,12 +508,3 @@
 {"id": 192127, "url": "http://117.255.89.9:33676/i", "discovery": "2024-07-15 01:21:20", "added": "2024-07-15 01:21:20", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "e14ef4173ab54648bb381320b512be71"}
 {"id": 192126, "url": "http://117.253.7.40:53874/i", "discovery": "2024-07-15 01:21:13", "added": "2024-07-15 01:21:13", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "721dda11a93e41db87217c0d7575a0ff"}
 {"id": 192125, "url": "http://117.253.63.35:53703/i", "discovery": "2024-07-15 01:21:11", "added": "2024-07-15 01:21:11", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "1e448c427810496a822be1ffbf6e72e8"}
-{"id": 192124, "url": "http://117.253.162.217:38036/i", "discovery": "2024-07-15 01:20:54", "added": "2024-07-15 01:20:54", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "281d3f50f4e44840840a4fdd098ba0f0"}
-{"id": 192123, "url": "http://117.248.174.65:58695/bin.sh", "discovery": "2024-07-15 01:20:52", "added": "2024-07-15 01:20:52", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "0bb332f5ea604d578decb40010be4399"}
-{"id": 192122, "url": "http://117.248.163.192:51305/bin.sh", "discovery": "2024-07-15 01:20:50", "added": "2024-07-15 01:20:50", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "e8a1a28cdb394b8f8fdbba34b0066154"}
-{"id": 192121, "url": "http://117.208.222.245:48959/Mozi.m", "discovery": "2024-07-15 01:20:47", "added": "2024-07-15 01:20:47", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "fe25f93291d446ea803e708183446c10"}
-{"id": 192120, "url": "http://117.208.222.245:48959/i", "discovery": "2024-07-15 01:20:38", "added": "2024-07-15 01:20:38", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "4674dee2a3484b3ea12a809151950523"}
-{"id": 192119, "url": "http://117.208.218.152:45436/i", "discovery": "2024-07-15 01:20:13", "added": "2024-07-15 01:20:13", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "df4427c49ba84f129b3df38cbf9c3d32"}
-{"id": 192118, "url": "http://117.208.218.152:45436/bin.sh", "discovery": "2024-07-15 01:20:10", "added": "2024-07-15 01:20:10", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "0cd20b568b7a412b84c91f9e90459811"}
-{"id": 192117, "url": "http://117.195.85.30:60456/i", "discovery": "2024-07-15 01:20:07", "added": "2024-07-15 01:20:07", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "3c57eceebc0b4ffdbdb5d1d76865fb77"}
-{"id": 192116, "url": "http://112.248.187.0:45180/Mozi.m", "discovery": "2024-07-15 01:20:05", "added": "2024-07-15 01:20:05", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "5c63a44414674afd8f5fb3714e50a0e6"}
