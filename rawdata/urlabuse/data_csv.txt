@@ -6,9 +6,14 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-15 14:00:01 UTC
+# UPDATE: 2024-07-15 15:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+192607, 2024-07-15 14:34:13, 2024-07-15 14:34:13, phishing, 5132fa9341ff7f2773ba0e6f0624732e, http://pers0nal-m365l0qin.d0cusignet.workers.dev
+192606, 2024-07-15 14:12:12, 2024-07-15 14:12:12, phishing, 65acd12149e5480e2550d112f11e4e24, http://threeblackcrows.pages.dev
+192605, 2024-07-15 14:06:14, 2024-07-15 14:06:14, phishing, 592dfd7458e95ab26645cd78e340d47d, http://tonageara.duckdns.org
+192604, 2024-07-15 14:06:13, 2024-07-15 14:06:13, phishing, 2392b15cd8eb14eb77db8c430ceb6a6f, https://jol.ixy.mybluehost.me/php/php/login.php
+192603, 2024-07-15 14:04:13, 2024-07-15 14:04:13, phishing, fc06b951fa9a099f6ac2867ac5251ca6, https://xw5atwefouyjvg5t.anvil.app/UICVULKB7BXZOPS4XDFPWUA6
 192602, 2024-07-15 13:58:15, 2024-07-15 13:58:15, phishing, bcd6d3dc84fccac92a3c164ef94b1589, http://monnuge.duckdns.org
 192601, 2024-07-15 13:48:19, 2024-07-15 13:48:19, phishing, 31947265fbc1d9808545b20934b2badd, http://sourceblocksyn.webgit.top
 192600, 2024-07-15 13:44:27, 2024-07-15 13:44:27, phishing, 7efed7c9ba48cb73e0243b3b06ca6e9d, http://amouara.duckdns.org
@@ -504,8 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 192110, 2024-07-15 01:02:38, 2024-07-15 01:02:38, phishing, 39284240057a5f3a67c201550ddc3166, http://wkkdsppa.com/k/mtproto.worker-dhhboq8q.js
 192109, 2024-07-15 01:02:30, 2024-07-15 01:02:30, phishing, 438e249152baf3336238c33bae9c90ff, http://www.telegrvam.club/0.39680674213564693
 192108, 2024-07-15 00:42:12, 2024-07-15 00:42:12, phishing, 494d2ecdc7e2e7621be645a83cb7ff18, http://tyhthhkafhoewajfaeexchsbnjsndncn.pages.dev
-192107, 2024-07-14 23:44:10, 2024-07-14 23:44:10, phishing, d494dda65d169657800f6db96be06ab4, http://whatsappplinkszc.pages.dev
-192106, 2024-07-14 23:25:30, 2024-07-14 23:25:30, malware, 0e24d58985714700bc148cf362625172, http://61.53.253.98:40440/i
-192105, 2024-07-14 23:25:28, 2024-07-14 23:25:28, malware, 8e443d6ca05b4a4fac733bdb6bfc20fe, http://61.53.253.98:40440/bin.sh
-192104, 2024-07-14 23:25:10, 2024-07-14 23:25:10, malware, 6b5fe1f6c45043a1bd2772e823783e38, http://59.95.92.223:37818/mozi.m
-192103, 2024-07-14 23:25:08, 2024-07-14 23:25:08, malware, 7e37f454fcb14a389f651967542cee4d, http://59.89.232.159:44065/i

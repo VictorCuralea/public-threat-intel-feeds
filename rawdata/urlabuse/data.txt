@@ -6,8 +6,13 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-15 14:00:01 UTC
+# UPDATE: 2024-07-15 15:00:02 UTC
 ############### END COMMENTS ###############
+{"id": 192607, "url": "http://pers0nal-m365l0qin.d0cusignet.workers.dev", "discovery": "2024-07-15 14:34:13", "added": "2024-07-15 14:34:13", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "5132fa9341ff7f2773ba0e6f0624732e"}
+{"id": 192606, "url": "http://threeblackcrows.pages.dev", "discovery": "2024-07-15 14:12:12", "added": "2024-07-15 14:12:12", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "65acd12149e5480e2550d112f11e4e24"}
+{"id": 192605, "url": "http://tonageara.duckdns.org", "discovery": "2024-07-15 14:06:14", "added": "2024-07-15 14:06:14", "target": "Orange", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "592dfd7458e95ab26645cd78e340d47d"}
+{"id": 192604, "url": "https://jol.ixy.mybluehost.me/php/php/login.php", "discovery": "2024-07-15 14:06:13", "added": "2024-07-15 14:06:13", "target": "SwissPass", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "2392b15cd8eb14eb77db8c430ceb6a6f"}
+{"id": 192603, "url": "https://xw5atwefouyjvg5t.anvil.app/UICVULKB7BXZOPS4XDFPWUA6", "discovery": "2024-07-15 14:04:13", "added": "2024-07-15 14:04:13", "target": "Microsoft", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "fc06b951fa9a099f6ac2867ac5251ca6"}
 {"id": 192602, "url": "http://monnuge.duckdns.org", "discovery": "2024-07-15 13:58:15", "added": "2024-07-15 13:58:15", "target": "Orange", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "bcd6d3dc84fccac92a3c164ef94b1589"}
 {"id": 192601, "url": "http://sourceblocksyn.webgit.top", "discovery": "2024-07-15 13:48:19", "added": "2024-07-15 13:48:19", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "31947265fbc1d9808545b20934b2badd"}
 {"id": 192600, "url": "http://amouara.duckdns.org", "discovery": "2024-07-15 13:44:27", "added": "2024-07-15 13:44:27", "target": "Orange", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "7efed7c9ba48cb73e0243b3b06ca6e9d"}
@@ -503,8 +508,3 @@
 {"id": 192110, "url": "http://wkkdsppa.com/k/mtproto.worker-dhhboq8q.js", "discovery": "2024-07-15 01:02:38", "added": "2024-07-15 01:02:38", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "39284240057a5f3a67c201550ddc3166"}
 {"id": 192109, "url": "http://www.telegrvam.club/0.39680674213564693", "discovery": "2024-07-15 01:02:30", "added": "2024-07-15 01:02:30", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "438e249152baf3336238c33bae9c90ff"}
 {"id": 192108, "url": "http://tyhthhkafhoewajfaeexchsbnjsndncn.pages.dev", "discovery": "2024-07-15 00:42:12", "added": "2024-07-15 00:42:12", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "494d2ecdc7e2e7621be645a83cb7ff18"}
-{"id": 192107, "url": "http://whatsappplinkszc.pages.dev", "discovery": "2024-07-14 23:44:10", "added": "2024-07-14 23:44:10", "target": "Whatsapp", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "d494dda65d169657800f6db96be06ab4"}
-{"id": 192106, "url": "http://61.53.253.98:40440/i", "discovery": "2024-07-14 23:25:30", "added": "2024-07-14 23:25:30", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "0e24d58985714700bc148cf362625172"}
-{"id": 192105, "url": "http://61.53.253.98:40440/bin.sh", "discovery": "2024-07-14 23:25:28", "added": "2024-07-14 23:25:28", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "8e443d6ca05b4a4fac733bdb6bfc20fe"}
-{"id": 192104, "url": "http://59.95.92.223:37818/mozi.m", "discovery": "2024-07-14 23:25:10", "added": "2024-07-14 23:25:10", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "6b5fe1f6c45043a1bd2772e823783e38"}
-{"id": 192103, "url": "http://59.89.232.159:44065/i", "discovery": "2024-07-14 23:25:08", "added": "2024-07-14 23:25:08", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "7e37f454fcb14a389f651967542cee4d"}
