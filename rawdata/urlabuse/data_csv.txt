@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-15 20:00:02 UTC
+# UPDATE: 2024-07-15 21:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+192709, 2024-07-15 20:08:12, 2024-07-15 20:08:12, phishing, 9774a1bea851e936827bc01facc996f0, http://vghbjnkjnvcvbnm.pages.dev
 192708, 2024-07-15 19:52:10, 2024-07-15 19:52:10, phishing, e9297af5fdbe6abe743c0fdd6eb71a9a, http://d0cuusigne3vr.d0cuusigne1x.workers.dev
 192707, 2024-07-15 19:30:13, 2024-07-15 19:30:13, phishing, 89d27ff913e76a842890881612e54942, http://d0cuusignex1x.d0cuusigne1x1.workers.dev
 192706, 2024-07-15 19:25:13, 2024-07-15 19:25:13, malware, b38ae7f649e34fb98e238c6c1b1d4db4, http://61.52.72.104:51675/i
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 192212, 2024-07-15 05:21:23, 2024-07-15 05:21:23, malware, d61355b46ffb4de68365b423c53213c3, http://117.194.215.204:39347/i
 192211, 2024-07-15 05:21:20, 2024-07-15 05:21:20, malware, 33a46c43ec6c489e9a338050e58c92cd, http://117.194.170.148:49021/bin.sh
 192210, 2024-07-15 05:21:18, 2024-07-15 05:21:18, malware, 83162c5f8f3d4735b1f2d1114ba52910, http://115.61.108.118:46578/
-192209, 2024-07-15 05:21:17, 2024-07-15 05:21:17, malware, 95be598e8cf4409f9d9d8102abead48f, http://115.58.84.133:58626/
