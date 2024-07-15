@@ -6,9 +6,19 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-15 10:00:01 UTC
+# UPDATE: 2024-07-15 11:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+192451, 2024-07-15 10:28:10, 2024-07-15 10:12:15, phishing, 533d9d6acdb557120cc3ff6cc33d3163, https://privatkunden-mip-sunrise.gartenchales.com/ch/MEIN/
+192450, 2024-07-15 10:27:55, 2024-07-15 10:01:48, phishing, 8c62eb95c975d8e0d61d6f82f7bfcacd, https://mahitmt.in/b5658900nvc/shout.html#oracle@oracle.com
+192449, 2024-07-15 10:27:47, 2024-07-15 09:52:48, phishing, 2f873eb664dfd3163d99b34dabbcb783, https://gateway.lighthouse.storage/ipfs/bafkreiccqmamban4wcussg46sofwgp46w67fxdhbyn55uzsdwq7o3ursfy#oracle@oracle.com
+192448, 2024-07-15 10:04:29, 2024-07-15 10:04:29, phishing, 4e06189c1d6b5bd4e3228fe81f49138c, https://distritonorte.com.mx/js/config/login.php/
+192447, 2024-07-15 10:04:23, 2024-07-15 10:04:23, phishing, db9ac00b9cf03c2004a5954d32f91926, http://pub-d9922438f47d42eb9e9304e95f88dab1.r2.dev/xop.html
+192446, 2024-07-15 10:04:19, 2024-07-15 10:04:19, phishing, 5fe75059cf42e6b9af4dd287fcb0d7c7, http://pub-aeb14407c05d46268e869ff4b4e89ecb.r2.dev/index.html
+192445, 2024-07-15 10:03:27, 2024-07-15 10:03:27, phishing, 7f316c263497d32054dcbf061d1f890a, http://pub-1abc1c8b35d5420cb789e922413e42de.r2.dev/index.html
+192444, 2024-07-15 10:03:23, 2024-07-15 10:03:23, phishing, a6e96c4c6b683bf8b0a70f3354a7942c, https://hgytfd6tr567e45fvtvr7tre5er6tr5.joshnewman323.workers.dev/
+192443, 2024-07-15 10:02:45, 2024-07-15 10:02:45, phishing, 4f685f67855d41274d4d68ded9b7f03b, https://sgdo.suang.my.id/
+192442, 2024-07-15 10:02:32, 2024-07-15 10:02:32, phishing, bca103f4c3f83a9053dc0deea6d1a885, http://telegramtw1.org/
 192441, 2024-07-15 08:43:02, 2024-07-15 08:43:02, phishing, d87c84e51627edd0274b7485e575fecc, https://ontherail.top/_cypheronos_omni/zure/7d9a0d11cb36e12a68817aff945390de/login.php?login&_x_tr_sl=auto&_x_tr_tl=null&_x_tr_hl=null&_x_tr_pto=wapp&request_type=null&no_redrct=null&pcnt=null&no_psplash=null&pmax=null
 192440, 2024-07-15 08:42:54, 2024-07-15 08:36:14, phishing, 6f49ec8d209ebe3d8cefb03eb8d41a3f, https://armodion.s3.amazonaws.com/control_brasch.html?login=ZGFuaWVsLnNhbnRvc0BnYWxsaWtlci5jb20=
 192439, 2024-07-15 08:37:52, 2024-07-15 08:37:52, phishing, 037a8b8f291dfd3fc4794a290b8ee898, https://id-0606983.s3-tastewp.com
@@ -499,13 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 191954, 2024-07-14 21:30:00, 2024-07-14 21:30:00, malware, c3a66f27383a4560a6b14cd11ab988d9, http://182.127.4.51:41163/i
 191953, 2024-07-14 21:29:59, 2024-07-14 21:29:59, malware, 194688b61f334da99b7e093909ef86d2, http://182.127.4.51:41163/bin.sh
 191952, 2024-07-14 21:29:57, 2024-07-14 21:29:57, malware, 514bbd9b06b54a9686ccc1248f5aac4d, http://182.127.4.51:41163/
-191951, 2024-07-14 21:29:36, 2024-07-14 21:29:36, malware, f3e74c5ea9d44757898c1676d71ba08e, http://182.119.225.245:54068/i
-191950, 2024-07-14 21:29:34, 2024-07-14 21:29:34, malware, d87d3bc5339f46c1b915001b810355ab, http://182.119.225.245:54068/bin.sh
-191949, 2024-07-14 21:29:32, 2024-07-14 21:29:32, malware, b43eb82eca3b4af485899afd37b32b14, http://182.117.29.28:45327/bin.sh
-191948, 2024-07-14 21:29:31, 2024-07-14 21:29:31, malware, 5b411aeaf1a94536a9637045d6465e32, http://182.116.87.18:34200/Mozi.m
-191947, 2024-07-14 21:29:29, 2024-07-14 21:29:29, malware, cbb0ec2e2ea5478f8f9944078dca0276, http://125.47.87.137:35313/bin.sh
-191946, 2024-07-14 21:29:27, 2024-07-14 21:29:27, malware, 520e071883a44cf79272489225d49d58, http://124.131.105.13:59010/bin.sh
-191945, 2024-07-14 21:29:26, 2024-07-14 21:29:26, malware, a1cae5f30c47490eb1d47eecdd8ad819, http://123.9.23.96:39837/i
-191944, 2024-07-14 21:29:24, 2024-07-14 21:29:24, malware, b0913e46bcce4eea93ba52db39dd34fd, http://123.9.23.96:39837/bin.sh
-191943, 2024-07-14 21:29:21, 2024-07-14 21:29:21, malware, b900679ec90f48738eecfad6b9bd1cb6, http://123.5.184.234:39599/i
-191942, 2024-07-14 21:29:20, 2024-07-14 21:29:20, malware, 9a0010e12d3440978b1c6ddb8dcb3f25, http://123.14.50.250:50798/Mozi.m
