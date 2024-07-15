@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-15 18:00:01 UTC
+# UPDATE: 2024-07-15 19:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+192631, 2024-07-15 18:50:14, 2024-07-15 18:50:14, phishing, db39e98c2040ce30690cad524a5208da, http://xivvviokxxz.pages.dev
+192630, 2024-07-15 18:16:17, 2024-07-15 18:16:17, phishing, 1ce5596744dbeb175d22490d975d0c68, http://governance-mantanetwork.pages.dev
 192629, 2024-07-15 17:20:53, 2024-07-15 17:20:53, malware, c60f6de164be44f5a23ee9b1278f18d1, http://96.33.220.208:37759/
 192628, 2024-07-15 17:20:51, 2024-07-15 17:20:51, malware, 52df3b37003a400d8234fcb5d8dd94e7, http://61.53.253.98:40440/
 192627, 2024-07-15 17:20:50, 2024-07-15 17:20:50, malware, 0b6d23da84834f0f9bf083638249dc1e, http://222.134.175.7:53214/i
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 192134, 2024-07-15 01:21:48, 2024-07-15 01:21:48, malware, b32ad6f97fd54d3cb3e1ec1fbe8a92c1, http://218.29.31.82:44440/i
 192133, 2024-07-15 01:21:47, 2024-07-15 01:21:47, malware, 45b9288229394f9090c14707d4ff276e, http://200.37.190.3:33559/i
 192132, 2024-07-15 01:21:40, 2024-07-15 01:21:40, malware, 5b19cdee2f6046b0bf294ad01118c526, http://200.37.190.3:33559/bin.sh
-192131, 2024-07-15 01:21:34, 2024-07-15 01:21:34, malware, 4328390794bb4b8b935710ea10b449ea, http://182.60.14.77:35210/bin.sh
-192130, 2024-07-15 01:21:25, 2024-07-15 01:21:25, malware, 1a835cf5aba4410283fa578a4ac9db35, http://182.123.243.37:38201/Mozi.m
