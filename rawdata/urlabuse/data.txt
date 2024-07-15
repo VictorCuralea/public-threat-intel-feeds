@@ -6,7 +6,7 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-15 09:00:01 UTC
+# UPDATE: 2024-07-15 10:00:01 UTC
 ############### END COMMENTS ###############
 {"id": 192441, "url": "https://ontherail.top/_cypheronos_omni/zure/7d9a0d11cb36e12a68817aff945390de/login.php?login&_x_tr_sl=auto&_x_tr_tl=null&_x_tr_hl=null&_x_tr_pto=wapp&request_type=null&no_redrct=null&pcnt=null&no_psplash=null&pmax=null", "discovery": "2024-07-15 08:43:02", "added": "2024-07-15 08:43:02", "target": "Generic Email", "reporter": "urlabuse", "AbuseType": "phishing", "UUID": "d87c84e51627edd0274b7485e575fecc"}
 {"id": 192440, "url": "https://armodion.s3.amazonaws.com/control_brasch.html?login=ZGFuaWVsLnNhbnRvc0BnYWxsaWtlci5jb20=", "discovery": "2024-07-15 08:36:14", "added": "2024-07-15 08:42:54", "target": "Generic Email", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "6f49ec8d209ebe3d8cefb03eb8d41a3f"}
