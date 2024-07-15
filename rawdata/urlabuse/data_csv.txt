@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-15 00:00:02 UTC
+# UPDATE: 2024-07-15 01:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+192108, 2024-07-15 00:42:12, 2024-07-15 00:42:12, phishing, 494d2ecdc7e2e7621be645a83cb7ff18, http://tyhthhkafhoewajfaeexchsbnjsndncn.pages.dev
 192107, 2024-07-14 23:44:10, 2024-07-14 23:44:10, phishing, d494dda65d169657800f6db96be06ab4, http://whatsappplinkszc.pages.dev
 192106, 2024-07-14 23:25:30, 2024-07-14 23:25:30, malware, 0e24d58985714700bc148cf362625172, http://61.53.253.98:40440/i
 192105, 2024-07-14 23:25:28, 2024-07-14 23:25:28, malware, 8e443d6ca05b4a4fac733bdb6bfc20fe, http://61.53.253.98:40440/bin.sh
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 191611, 2024-07-14 13:06:19, 2024-07-14 13:06:19, phishing, b0d02393ef09c8cfc844005725a01195, https://www.distritonorte.com.mx/js/config/save.php
 191610, 2024-07-14 13:05:23, 2024-07-14 13:05:23, phishing, ee6d74aa1c51c85ac03e23b2d7cc2308, http://cistineas.za.com/office/office-3D8/
 191609, 2024-07-14 13:03:42, 2024-07-14 13:03:42, phishing, 9d74cfbd92de82ac1e842f361ab00631, https://telegram-datingfree-sex.pages.dev/
-191608, 2024-07-14 13:03:10, 2024-07-14 13:03:10, phishing, 8b44e117ec312e8e11f7654f3dec1433, https://api.gopay.com.z.cpkl.biz.id/

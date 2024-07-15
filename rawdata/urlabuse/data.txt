@@ -6,8 +6,9 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-15 00:00:01 UTC
+# UPDATE: 2024-07-15 01:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 192108, "url": "http://tyhthhkafhoewajfaeexchsbnjsndncn.pages.dev", "discovery": "2024-07-15 00:42:12", "added": "2024-07-15 00:42:12", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "494d2ecdc7e2e7621be645a83cb7ff18"}
 {"id": 192107, "url": "http://whatsappplinkszc.pages.dev", "discovery": "2024-07-14 23:44:10", "added": "2024-07-14 23:44:10", "target": "Whatsapp", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "d494dda65d169657800f6db96be06ab4"}
 {"id": 192106, "url": "http://61.53.253.98:40440/i", "discovery": "2024-07-14 23:25:30", "added": "2024-07-14 23:25:30", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "0e24d58985714700bc148cf362625172"}
 {"id": 192105, "url": "http://61.53.253.98:40440/bin.sh", "discovery": "2024-07-14 23:25:28", "added": "2024-07-14 23:25:28", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "8e443d6ca05b4a4fac733bdb6bfc20fe"}
@@ -507,4 +508,3 @@
 {"id": 191611, "url": "https://www.distritonorte.com.mx/js/config/save.php", "discovery": "2024-07-14 13:06:19", "added": "2024-07-14 13:06:19", "target": "Microsoft", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "b0d02393ef09c8cfc844005725a01195"}
 {"id": 191610, "url": "http://cistineas.za.com/office/office-3D8/", "discovery": "2024-07-14 13:05:23", "added": "2024-07-14 13:05:23", "target": "Microsoft", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "ee6d74aa1c51c85ac03e23b2d7cc2308"}
 {"id": 191609, "url": "https://telegram-datingfree-sex.pages.dev/", "discovery": "2024-07-14 13:03:42", "added": "2024-07-14 13:03:42", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "9d74cfbd92de82ac1e842f361ab00631"}
-{"id": 191608, "url": "https://api.gopay.com.z.cpkl.biz.id/", "discovery": "2024-07-14 13:03:10", "added": "2024-07-14 13:03:10", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "8b44e117ec312e8e11f7654f3dec1433"}
