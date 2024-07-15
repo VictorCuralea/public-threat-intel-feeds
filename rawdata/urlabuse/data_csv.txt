@@ -6,9 +6,14 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-15 17:00:01 UTC
+# UPDATE: 2024-07-15 18:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+192629, 2024-07-15 17:20:53, 2024-07-15 17:20:53, malware, c60f6de164be44f5a23ee9b1278f18d1, http://96.33.220.208:37759/
+192628, 2024-07-15 17:20:51, 2024-07-15 17:20:51, malware, 52df3b37003a400d8234fcb5d8dd94e7, http://61.53.253.98:40440/
+192627, 2024-07-15 17:20:50, 2024-07-15 17:20:50, malware, 0b6d23da84834f0f9bf083638249dc1e, http://222.134.175.7:53214/i
+192626, 2024-07-15 17:20:18, 2024-07-15 17:20:18, malware, 2543226e84664a8b93fcca333e84edf9, http://117.199.79.80:34166/bin.sh
+192625, 2024-07-15 17:20:06, 2024-07-15 17:20:06, malware, 2920e1f9057c462280cf45163f021751, http://115.61.108.118:46578/bin.sh
 192624, 2024-07-15 16:36:36, 2024-07-15 15:42:12, phishing, 3ab90c4fe1d2174d571dcb8a24117162, https://ipfs.io/ipfs/QmXAAovkz3s9HSTrq4djL37J5jHTYac99RYN6jRct3RtpD?filename=QmXAAovkz3s9HSTrq4djL37J5jHTYac99RYN6jRct3RtpD
 192623, 2024-07-15 16:36:25, 2024-07-15 15:34:10, phishing, 2bd05d46692b9cd0acb2557d3e254b7a, https://waybill-ondemand.com/shipment
 192622, 2024-07-15 16:36:03, 2024-07-15 14:42:15, phishing, 370a11b44dc427bf7ebb1276eb6c9707, http://fdee750c-package.quiggle.net/?fdee750c
@@ -504,8 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 192132, 2024-07-15 01:21:40, 2024-07-15 01:21:40, malware, 5b19cdee2f6046b0bf294ad01118c526, http://200.37.190.3:33559/bin.sh
 192131, 2024-07-15 01:21:34, 2024-07-15 01:21:34, malware, 4328390794bb4b8b935710ea10b449ea, http://182.60.14.77:35210/bin.sh
 192130, 2024-07-15 01:21:25, 2024-07-15 01:21:25, malware, 1a835cf5aba4410283fa578a4ac9db35, http://182.123.243.37:38201/Mozi.m
-192129, 2024-07-15 01:21:24, 2024-07-15 01:21:24, malware, a7615c42f39b41b68ff032f37503767d, http://123.129.153.34:52840/Mozi.m
-192128, 2024-07-15 01:21:22, 2024-07-15 01:21:22, malware, 56a3bf19d5384c45b1ab564e5ecace1a, http://119.162.69.157:43751/bin.sh
-192127, 2024-07-15 01:21:20, 2024-07-15 01:21:20, malware, e14ef4173ab54648bb381320b512be71, http://117.255.89.9:33676/i
-192126, 2024-07-15 01:21:13, 2024-07-15 01:21:13, malware, 721dda11a93e41db87217c0d7575a0ff, http://117.253.7.40:53874/i
-192125, 2024-07-15 01:21:11, 2024-07-15 01:21:11, malware, 1e448c427810496a822be1ffbf6e72e8, http://117.253.63.35:53703/i
