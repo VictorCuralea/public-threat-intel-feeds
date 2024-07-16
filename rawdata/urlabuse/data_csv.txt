@@ -6,9 +6,23 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-16 05:00:01 UTC
+# UPDATE: 2024-07-16 06:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+192949, 2024-07-16 05:22:38, 2024-07-16 05:22:38, malware, 8495705ae7f342feb31aab3eb8ad3827, http://61.52.74.185:49432/Mozi.m
+192948, 2024-07-16 05:22:06, 2024-07-16 05:22:06, malware, e52862aa1d434cc79b83949de5288447, http://42.230.216.254:51057/bin.sh
+192947, 2024-07-16 05:22:04, 2024-07-16 05:22:04, malware, b93f4adc39a9424e956f453e21c567f5, http://42.230.189.207:45867/i
+192946, 2024-07-16 05:22:03, 2024-07-16 05:22:03, malware, 81298869c9aa4981b94f3314e897d8fe, http://27.215.87.254:47858/i
+192945, 2024-07-16 05:21:41, 2024-07-16 05:21:41, malware, 97074cff59ad45199b0e7197ac3da532, http://219.156.125.101:54822/i
+192944, 2024-07-16 05:21:30, 2024-07-16 05:21:30, malware, acc5b66a7f37435583f7ee390e73c0c0, http://125.47.87.137:35313/i
+192943, 2024-07-16 05:21:28, 2024-07-16 05:21:28, malware, bb4d616eba214b2884fb91712af6d8d2, http://125.46.221.90:44876/i
+192942, 2024-07-16 05:21:26, 2024-07-16 05:21:26, malware, f725027ff78b43089b73062ca49db2d2, http://123.10.1.252:52099/i
+192941, 2024-07-16 05:20:23, 2024-07-16 05:20:23, malware, f56f166a2fdd4645ac715891012b94d4, http://117.217.47.243:49310/bin.sh
+192940, 2024-07-16 05:20:21, 2024-07-16 05:20:21, malware, 3391bead51e043529086ba6d8aedc27e, http://117.206.74.193:44406/i
+192939, 2024-07-16 05:20:09, 2024-07-16 05:20:09, malware, 2e6d5f47fcad47eeb32561cc9c6f0a24, http://117.195.90.152:51622/bin.sh
+192938, 2024-07-16 05:20:07, 2024-07-16 05:20:07, malware, c84ef0b931174cdb92fa0e2122ccaaef, http://115.55.249.193:53253/i
+192937, 2024-07-16 05:08:18, 2024-07-16 05:08:18, phishing, 77df15a34baabe26ba5d81eee470b705, http://us.apostzz.top
+192936, 2024-07-16 05:06:12, 2024-07-16 05:06:12, phishing, 162bc7a3ad51cd644894ed174ac266de, http://sdtgz.pages.dev
 192935, 2024-07-16 04:12:13, 2024-07-16 04:12:13, phishing, 67c97c70c71e4923d0de60a946a3a150, http://dulhonepaqe.thekingdomspot.com
 192934, 2024-07-16 04:05:35, 2024-07-16 04:05:35, phishing, 32a9367e2c386074c64d8af3c3495a51, https://post.nationalrent.ru/
 192933, 2024-07-16 04:05:23, 2024-07-16 04:05:23, phishing, b172bc28cb424077202bbce216f562e2, http://pub-076d2c6317804f5ab969093911feb686.r2.dev/most.html
@@ -495,17 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 192452, 2024-07-15 11:20:05, 2024-07-15 11:20:05, malware, 9ecdbbe5eda94359add8f6d6673380ca, http://112.226.226.1:53729/bin.sh
 192451, 2024-07-15 10:28:10, 2024-07-15 10:12:15, phishing, 533d9d6acdb557120cc3ff6cc33d3163, https://privatkunden-mip-sunrise.gartenchales.com/ch/MEIN/
 192450, 2024-07-15 10:27:55, 2024-07-15 10:01:48, phishing, 8c62eb95c975d8e0d61d6f82f7bfcacd, https://mahitmt.in/b5658900nvc/shout.html#oracle@oracle.com
-192449, 2024-07-15 10:27:47, 2024-07-15 09:52:48, phishing, 2f873eb664dfd3163d99b34dabbcb783, https://gateway.lighthouse.storage/ipfs/bafkreiccqmamban4wcussg46sofwgp46w67fxdhbyn55uzsdwq7o3ursfy#oracle@oracle.com
-192448, 2024-07-15 10:04:29, 2024-07-15 10:04:29, phishing, 4e06189c1d6b5bd4e3228fe81f49138c, https://distritonorte.com.mx/js/config/login.php/
-192447, 2024-07-15 10:04:23, 2024-07-15 10:04:23, phishing, db9ac00b9cf03c2004a5954d32f91926, http://pub-d9922438f47d42eb9e9304e95f88dab1.r2.dev/xop.html
-192446, 2024-07-15 10:04:19, 2024-07-15 10:04:19, phishing, 5fe75059cf42e6b9af4dd287fcb0d7c7, http://pub-aeb14407c05d46268e869ff4b4e89ecb.r2.dev/index.html
-192445, 2024-07-15 10:03:27, 2024-07-15 10:03:27, phishing, 7f316c263497d32054dcbf061d1f890a, http://pub-1abc1c8b35d5420cb789e922413e42de.r2.dev/index.html
-192444, 2024-07-15 10:03:23, 2024-07-15 10:03:23, phishing, a6e96c4c6b683bf8b0a70f3354a7942c, https://hgytfd6tr567e45fvtvr7tre5er6tr5.joshnewman323.workers.dev/
-192443, 2024-07-15 10:02:45, 2024-07-15 10:02:45, phishing, 4f685f67855d41274d4d68ded9b7f03b, https://sgdo.suang.my.id/
-192442, 2024-07-15 10:02:32, 2024-07-15 10:02:32, phishing, bca103f4c3f83a9053dc0deea6d1a885, http://telegramtw1.org/
-192441, 2024-07-15 08:43:02, 2024-07-15 08:43:02, phishing, d87c84e51627edd0274b7485e575fecc, https://ontherail.top/_cypheronos_omni/zure/7d9a0d11cb36e12a68817aff945390de/login.php?login&_x_tr_sl=auto&_x_tr_tl=null&_x_tr_hl=null&_x_tr_pto=wapp&request_type=null&no_redrct=null&pcnt=null&no_psplash=null&pmax=null
-192440, 2024-07-15 08:42:54, 2024-07-15 08:36:14, phishing, 6f49ec8d209ebe3d8cefb03eb8d41a3f, https://armodion.s3.amazonaws.com/control_brasch.html?login=ZGFuaWVsLnNhbnRvc0BnYWxsaWtlci5jb20=
-192439, 2024-07-15 08:37:52, 2024-07-15 08:37:52, phishing, 037a8b8f291dfd3fc4794a290b8ee898, https://id-0606983.s3-tastewp.com
-192438, 2024-07-15 08:37:44, 2024-07-15 08:32:13, phishing, 0388ee5de819c7dc1fe0820144e6e57b, https://dev-id-0809643.pantheonsite.io/szgi
-192437, 2024-07-15 08:35:41, 2024-07-15 08:35:41, phishing, 0a3ee872c17faa7c99b7cd41695cf2e6, https://scruarst-kreiat-scaey.yolasite.com
-192436, 2024-07-15 08:35:03, 2024-07-15 08:26:17, phishing, abf96f21b94309fe35d2f0ce9f4d2aa7, https://cuty.io/jqgji
