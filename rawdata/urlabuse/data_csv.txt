@@ -6,9 +6,18 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-16 14:00:01 UTC
+# UPDATE: 2024-07-16 15:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+193243, 2024-07-16 14:36:12, 2024-07-16 14:36:12, phishing, 2af3bf9d1e0b960292f3f329b2a61e27, http://secdocsm-365.sec-docs-m365.workers.dev
+193242, 2024-07-16 14:34:11, 2024-07-16 14:34:11, phishing, f0ab1939898aa738c1ccd27833c9f2a6, https://notevocal06202427.wixsite.com/notevocal06202427
+193241, 2024-07-16 14:33:48, 2024-07-16 14:32:15, phishing, a469f09938c77d35ccb8ad9892fd4c5e, https://notevocale15072024.squarespace.com/?utm_medium=social
+193240, 2024-07-16 14:31:22, 2024-07-16 14:31:22, phishing, 289fc917e11011797330926a1c80bf29, https://demolar.top/_trendefender_driod/zone/241fe8af1e038118cd817048a65f803e/login.php?login&_x_tr_sl=auto&_x_tr_tl=null&_x_tr_hl=null&_x_tr_pto=wapp&request_type=null&no_redrct=null&pcnt=null&no_psplash=null&pmax=null
+193239, 2024-07-16 14:31:10, 2024-07-16 14:29:15, phishing, 57d04fbacc81b94da26225d4f8a54e8c, https://transferlock.click/control_officialperry?login=yahoo@yahoo.com
+193238, 2024-07-16 14:29:56, 2024-07-16 14:22:14, phishing, 60a5670786a4c0683df69e03e632d4ff, https://notevocale202407.squarespace.com/?utm_medium=social
+193237, 2024-07-16 14:02:14, 2024-07-16 14:02:14, phishing, ca2acd32157567add49752f3cdb23a36, http://omtchchain.pages.dev
+193236, 2024-07-16 14:00:33, 2024-07-16 14:00:33, phishing, 81b5397474c1904016e835cef94bdaa4, http://a1005254.xsph.ru/dematerial-auto/wp-content/uploads/2024/07/Opro_latest6/login/ologin.php
+193235, 2024-07-16 14:00:10, 2024-07-16 13:58:14, phishing, 9b8beec7ca20c4bfc26ba4fd9e23d538, https://rb.gy/93s6h4
 193234, 2024-07-16 13:54:16, 2024-07-16 13:54:16, phishing, 58b460d9da97afa8dec1936411cc5bff, http://espaceameiisantes.com
 193233, 2024-07-16 13:32:38, 2024-07-16 13:32:38, malware, f215ed3fb0084bad8aef1bd9d4aa6d3f, http://78.186.45.130:58607/i
 193232, 2024-07-16 13:32:04, 2024-07-16 13:32:04, malware, f94050e9f61a48b5bc5248d7f308f474, http://73.171.230.140:38944/Mozi.a
@@ -500,12 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 192746, 2024-07-15 21:24:40, 2024-07-15 21:24:40, malware, b0acc617cc5b4d11a0c24e1d92d7a39a, http://42.235.190.163:42750/Mozi.m
 192745, 2024-07-15 21:24:38, 2024-07-15 21:24:38, malware, f6d2b0d6b7184ac186fedc557785b961, http://42.230.58.177:56069/bin.sh
 192744, 2024-07-15 21:24:37, 2024-07-15 21:24:37, malware, fac85058fdd7429b9f1674b785d089f4, http://42.230.191.127:54652/bin.sh
-192743, 2024-07-15 21:24:35, 2024-07-15 21:24:35, malware, 6b01aadec0694b62b568df21ef24e582, http://42.227.207.152:57993/i
-192742, 2024-07-15 21:24:34, 2024-07-15 21:24:34, malware, e5faee57cce440fea7a4c6532bdd5777, http://42.227.202.252:44404/i
-192741, 2024-07-15 21:24:33, 2024-07-15 21:24:33, malware, 63f185a935a0438ba6c6cf58413708fb, http://222.140.185.93:38642/bin.sh
-192740, 2024-07-15 21:24:31, 2024-07-15 21:24:31, malware, 07f8e3b901344665ab53d170bfe8cdc5, http://222.137.203.251:42592/
-192739, 2024-07-15 21:24:29, 2024-07-15 21:24:29, malware, 94cd81ecf42749c0ba4cc4d2ae69bc7d, http://222.134.175.117:60105/i
-192738, 2024-07-15 21:24:23, 2024-07-15 21:24:23, malware, ebca2fa6424742bfa9795cacfd660f1a, http://182.60.2.0:52492/bin.sh
-192737, 2024-07-15 21:24:22, 2024-07-15 21:24:22, malware, db386404057b4f8182b8a392e84fe8c6, http://182.56.208.244:49608/bin.sh
-192736, 2024-07-15 21:24:20, 2024-07-15 21:24:20, malware, 4fff094a1026413aad4257b14e3c2ccc, http://175.168.248.107:55174/i
-192735, 2024-07-15 21:24:18, 2024-07-15 21:24:18, malware, bba8938c37b54edf85ad4428a02bb079, http://125.44.41.29:36423/Mozi.m
