@@ -6,9 +6,15 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-16 15:00:02 UTC
+# UPDATE: 2024-07-16 16:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+193249, 2024-07-16 15:50:14, 2024-07-16 15:50:14, phishing, c0501bca3bdab6afa3ac27bcdbd2865e, http://usps.xrikvpjcfwg.top
+193248, 2024-07-16 15:44:18, 2024-07-16 15:44:18, phishing, 30faee6e424914dbc5a6d4351eb138af, http://usps.tvknhfjeiwp.top
+193247, 2024-07-16 15:44:13, 2024-07-16 15:44:13, phishing, 1114df9337c897929bac9a6678fcc666, http://diamondmine.pages.dev
+193246, 2024-07-16 15:38:11, 2024-07-16 15:38:11, phishing, 4a4d93dbc3a321cf26f262e6987501c5, https://wordpress-1301027-4731405.cloudwaysapps.com/wp-admin/login/iber24/index.php
+193245, 2024-07-16 15:36:16, 2024-07-16 15:36:16, phishing, b76845d6d6676deae475a726da1d8200, http://itsssl.com/IBvalidado
+193244, 2024-07-16 15:26:10, 2024-07-16 15:26:10, phishing, dccf86cb47b4b77e940e52f3991d975f, http://amsacusa.pages.dev
 193243, 2024-07-16 14:36:12, 2024-07-16 14:36:12, phishing, 2af3bf9d1e0b960292f3f329b2a61e27, http://secdocsm-365.sec-docs-m365.workers.dev
 193242, 2024-07-16 14:34:11, 2024-07-16 14:34:11, phishing, f0ab1939898aa738c1ccd27833c9f2a6, https://notevocal06202427.wixsite.com/notevocal06202427
 193241, 2024-07-16 14:33:48, 2024-07-16 14:32:15, phishing, a469f09938c77d35ccb8ad9892fd4c5e, https://notevocale15072024.squarespace.com/?utm_medium=social
@@ -503,9 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 192752, 2024-07-15 21:25:02, 2024-07-15 21:25:02, malware, d6f79535906247edab9e2ac133619dba, http://59.91.80.226:49464/i
 192751, 2024-07-15 21:25:00, 2024-07-15 21:25:00, malware, 60610c89ed7944618340ad5765e7e005, http://59.91.80.226:49464/bin.sh
 192750, 2024-07-15 21:24:58, 2024-07-15 21:24:58, malware, 6c13737115a7433e858992f1d6a04a68, http://59.89.193.63:60493/i
-192749, 2024-07-15 21:24:53, 2024-07-15 21:24:53, malware, 65a123af6b14440991f9a069cda18f31, http://59.184.62.69:53563/i
-192748, 2024-07-15 21:24:51, 2024-07-15 21:24:51, malware, 754f69284cfc4c96a18024a4f687f594, http://59.183.113.9:54876/bin.sh
-192747, 2024-07-15 21:24:45, 2024-07-15 21:24:45, malware, b5404b4fe0db4847b9a299dcaced1b13, http://59.182.114.172:58704/i
-192746, 2024-07-15 21:24:40, 2024-07-15 21:24:40, malware, b0acc617cc5b4d11a0c24e1d92d7a39a, http://42.235.190.163:42750/Mozi.m
-192745, 2024-07-15 21:24:38, 2024-07-15 21:24:38, malware, f6d2b0d6b7184ac186fedc557785b961, http://42.230.58.177:56069/bin.sh
-192744, 2024-07-15 21:24:37, 2024-07-15 21:24:37, malware, fac85058fdd7429b9f1674b785d089f4, http://42.230.191.127:54652/bin.sh

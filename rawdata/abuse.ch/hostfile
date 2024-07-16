@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-07-16 13:28:00 UTC                        #
+# Last updated: 2024-07-16 15:11:35 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	verose.top
 127.0.0.1	away-displays.gl.at.ply.gg
 127.0.0.1	answers-crisis.gl.at.ply.gg
 127.0.0.1	bigmouthudiop.shop
@@ -7362,5 +7363,4 @@
 127.0.0.1	shriramcarrentals.com
 127.0.0.1	shriram.loclx.io
 127.0.0.1	wuxiaoyun.com
-127.0.0.1	d328.net
 # Number of entries: 7357
