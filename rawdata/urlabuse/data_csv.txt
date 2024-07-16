@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-16 21:00:01 UTC
+# UPDATE: 2024-07-16 22:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+193460, 2024-07-16 21:54:15, 2024-07-16 21:54:15, phishing, 754c430c7df564bbd28c2367ae9baf2e, http://manta-network-2zu.pages.dev
 193459, 2024-07-16 20:48:15, 2024-07-16 20:48:15, phishing, d464ed82c561602baea24902a6af7818, http://edevlet-trgov-ceptesube.app
 193458, 2024-07-16 20:38:13, 2024-07-16 20:38:13, phishing, ce7af51a22ecc83b1e79e5977dce264e, http://hosiebrofamohugsdji1.pages.dev
 193457, 2024-07-16 20:25:46, 2024-07-16 20:10:17, phishing, 83171f499e945a1bb28245bd80015e6e, https://my.azizspcp.tech/SBB/SBB/
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 192963, 2024-07-16 07:20:53, 2024-07-16 07:20:53, malware, aef8e556b2374aa3ae18c0f90f65a056, http://125.44.43.87:45792/i
 192962, 2024-07-16 07:20:41, 2024-07-16 07:20:41, malware, 81aeb75d34c046628775afd689d5a756, http://119.179.236.34:54530/Mozi.m
 192961, 2024-07-16 07:20:08, 2024-07-16 07:20:08, malware, 0584c50eac7a468991183f9b8eb17a1d, http://115.55.237.121:33571/i
-192960, 2024-07-16 07:20:06, 2024-07-16 07:20:06, malware, 6ab41322f3a34f86b84906936e51c565, http://115.55.237.121:33571/bin.sh
