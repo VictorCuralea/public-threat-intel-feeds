@@ -6,9 +6,15 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-16 22:00:01 UTC
+# UPDATE: 2024-07-16 23:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+193466, 2024-07-16 22:30:50, 2024-07-16 22:30:50, phishing, 81dc595b7dacde57b8d130736bd5b2a7, http://bgy367.pages.dev
+193465, 2024-07-16 22:30:13, 2024-07-16 22:30:13, phishing, c88ad5f9193e555790522616c3378d70, http://masante-enligne.fr
+193464, 2024-07-16 22:08:15, 2024-07-16 22:08:15, phishing, cd70335ce1e9f846a40126c976ebd359, http://suivis-vitale.info
+193463, 2024-07-16 22:02:26, 2024-07-16 22:02:26, phishing, bcc38b319dd31eb415e700b960c437b7, https://ava.game.naver.com.sg2.sosis-berurat.works/
+193462, 2024-07-16 22:02:16, 2024-07-16 22:02:16, phishing, bf3c6057b4ea7ec427769e16ec15e446, http://zaxa.pages.dev/
+193461, 2024-07-16 22:02:14, 2024-07-16 22:02:14, phishing, eb1c15ea24c1be4a38ae25894bce9d34, https://deswafthyf.astrattt.com/
 193460, 2024-07-16 21:54:15, 2024-07-16 21:54:15, phishing, 754c430c7df564bbd28c2367ae9baf2e, http://manta-network-2zu.pages.dev
 193459, 2024-07-16 20:48:15, 2024-07-16 20:48:15, phishing, d464ed82c561602baea24902a6af7818, http://edevlet-trgov-ceptesube.app
 193458, 2024-07-16 20:38:13, 2024-07-16 20:38:13, phishing, ce7af51a22ecc83b1e79e5977dce264e, http://hosiebrofamohugsdji1.pages.dev
@@ -503,9 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 192969, 2024-07-16 07:21:11, 2024-07-16 07:21:11, malware, 80aa712e2cd045afb8beeabeabcaf8a3, http://5.230.253.197/bb74bd42fad94bde/msvcp140.dll
 192968, 2024-07-16 07:21:03, 2024-07-16 07:21:03, malware, 7f1dd683761b41bdb956f6dfcb4860b3, http://42.234.166.3:58315/i
 192967, 2024-07-16 07:21:00, 2024-07-16 07:21:00, malware, a4169249845d4d139e60cc5d8acf226d, http://42.227.202.252:44404/bin.sh
-192966, 2024-07-16 07:20:58, 2024-07-16 07:20:58, malware, cd4bfd0d62544ee0a989584c1c58a0fb, http://42.224.24.225:49158/Mozi.m
-192965, 2024-07-16 07:20:56, 2024-07-16 07:20:56, malware, 79fa149c8abc4e08886f03a5b0bec927, http://222.142.253.56:48300/bin.sh
-192964, 2024-07-16 07:20:54, 2024-07-16 07:20:54, malware, eafa5ac79bcd46498d33ab259c91d317, http://221.1.225.146:37694/bin.sh
-192963, 2024-07-16 07:20:53, 2024-07-16 07:20:53, malware, aef8e556b2374aa3ae18c0f90f65a056, http://125.44.43.87:45792/i
-192962, 2024-07-16 07:20:41, 2024-07-16 07:20:41, malware, 81aeb75d34c046628775afd689d5a756, http://119.179.236.34:54530/Mozi.m
-192961, 2024-07-16 07:20:08, 2024-07-16 07:20:08, malware, 0584c50eac7a468991183f9b8eb17a1d, http://115.55.237.121:33571/i
