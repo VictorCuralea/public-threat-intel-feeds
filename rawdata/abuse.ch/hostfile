@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-07-15 19:01:38 UTC                        #
+# Last updated: 2024-07-16 13:28:00 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	away-displays.gl.at.ply.gg
 127.0.0.1	answers-crisis.gl.at.ply.gg
 127.0.0.1	bigmouthudiop.shop
 127.0.0.1	declaredczxi.shop
@@ -7389,4 +7390,4 @@
 127.0.0.1	www.159-89-8-28.cprapid.com
 127.0.0.1	vps-zap816639-7.zap-srv.com
 127.0.0.1	ec2-43-204-108-99.ap-south-1.compute.amazonaws.com
-# Number of entries: 7383
+# Number of entries: 7384
