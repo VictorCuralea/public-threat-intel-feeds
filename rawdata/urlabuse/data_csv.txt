@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-16 00:00:01 UTC
+# UPDATE: 2024-07-16 01:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+192813, 2024-07-16 00:36:11, 2024-07-16 00:36:11, phishing, 1315b4c60c5bca63e21c3ee0f1d93812, http://aidatiadehmnsrglaonay.com
+192812, 2024-07-16 00:22:10, 2024-07-16 00:22:10, phishing, 5705356e6a2e26a68199c6a94658bd53, http://ttrtrr.pages.dev
+192811, 2024-07-16 00:02:12, 2024-07-16 00:02:12, phishing, 15d881825ce7876f474d0a587d35bd51, http://vercel-merge-apps.pages.dev
 192810, 2024-07-15 23:46:15, 2024-07-15 23:46:15, phishing, c99a97febb1a742a9309659d70b09f56, http://connect.walletwave.net
 192809, 2024-07-15 23:23:36, 2024-07-15 23:23:36, malware, 85f840e9db094f95b1a23213e6992bca, http://61.52.194.139:40196/i
 192808, 2024-07-15 23:23:35, 2024-07-15 23:23:35, malware, eed184e8603248a1ade8cfd104c4e57b, http://61.52.194.139:40196/bin.sh
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 192316, 2024-07-15 05:32:28, 2024-07-15 05:32:28, malware, fede8daa5dcf48f8ab3e15e6251f6cee, http://42.238.173.232:34119/i
 192315, 2024-07-15 05:32:26, 2024-07-15 05:32:26, malware, d8b2eefb16344d72938b375aa2a7e2a8, http://42.235.38.42:49713/
 192314, 2024-07-15 05:32:24, 2024-07-15 05:32:24, malware, 252174f3278644159ed1e41e6a5be24a, http://42.234.151.244:39446/i
-192313, 2024-07-15 05:32:23, 2024-07-15 05:32:23, malware, 7d9c3330e0234f9ba7d2cb7a44cbab8d, http://42.234.151.244:39446/bin.sh
-192312, 2024-07-15 05:32:21, 2024-07-15 05:32:21, malware, 050c44b68f134193b1a1c936a596baba, http://42.234.148.72:47280/i
-192311, 2024-07-15 05:32:20, 2024-07-15 05:32:20, malware, 0730d4c74dc247a68c88cd6cbdaec878, http://42.234.148.72:47280/bin.sh
