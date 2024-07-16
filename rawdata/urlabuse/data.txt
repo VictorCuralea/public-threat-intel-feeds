@@ -6,8 +6,13 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-16 20:00:01 UTC
+# UPDATE: 2024-07-16 21:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 193459, "url": "http://edevlet-trgov-ceptesube.app", "discovery": "2024-07-16 20:48:15", "added": "2024-07-16 20:48:15", "target": "TR-GOV", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "d464ed82c561602baea24902a6af7818"}
+{"id": 193458, "url": "http://hosiebrofamohugsdji1.pages.dev", "discovery": "2024-07-16 20:38:13", "added": "2024-07-16 20:38:13", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "ce7af51a22ecc83b1e79e5977dce264e"}
+{"id": 193457, "url": "https://my.azizspcp.tech/SBB/SBB/", "discovery": "2024-07-16 20:10:17", "added": "2024-07-16 20:25:46", "target": "SwissPass", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "83171f499e945a1bb28245bd80015e6e"}
+{"id": 193456, "url": "https://accountprotection-spt.com/spotifycaptcha/", "discovery": "2024-07-16 19:36:18", "added": "2024-07-16 20:07:17", "target": "Spotify", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "eb09a128cef7086c1a9cea1c854e2461"}
+{"id": 193455, "url": "http://sonikcoin-dapps.pages.dev", "discovery": "2024-07-16 20:04:13", "added": "2024-07-16 20:04:13", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "5711ebcbd4c67bf397c05ecbd7cd3447"}
 {"id": 193454, "url": "https://wordpress-1301234-4732317.cloudwaysapps.com/wp-admin/es/", "discovery": "2024-07-16 19:58:15", "added": "2024-07-16 19:58:15", "target": "IberCaja", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "995fa4a01540c7ba13c51a939bb4ca3a"}
 {"id": 193453, "url": "http://61.3.25.90:50059/bin.sh", "discovery": "2024-07-16 19:28:02", "added": "2024-07-16 19:28:02", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "6e4019514f1d4f28865c319b39aa26f2"}
 {"id": 193452, "url": "http://61.3.16.254:49836/Mozi.m", "discovery": "2024-07-16 19:27:59", "added": "2024-07-16 19:27:59", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "1009e6a5d71f496ea18e250d9e79fed7"}
@@ -503,8 +508,3 @@
 {"id": 192962, "url": "http://119.179.236.34:54530/Mozi.m", "discovery": "2024-07-16 07:20:41", "added": "2024-07-16 07:20:41", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "81aeb75d34c046628775afd689d5a756"}
 {"id": 192961, "url": "http://115.55.237.121:33571/i", "discovery": "2024-07-16 07:20:08", "added": "2024-07-16 07:20:08", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "0584c50eac7a468991183f9b8eb17a1d"}
 {"id": 192960, "url": "http://115.55.237.121:33571/bin.sh", "discovery": "2024-07-16 07:20:06", "added": "2024-07-16 07:20:06", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "6ab41322f3a34f86b84906936e51c565"}
-{"id": 192959, "url": "https://www.kuschh.one/", "discovery": "2024-07-16 07:04:17", "added": "2024-07-16 07:04:17", "target": "Microsoft", "reporter": "lrucbotd", "AbuseType": "phishing", "UUID": "dd626d8994536c2f9900818689ede8d9"}
-{"id": 192958, "url": "http://kuschh.one", "discovery": "2024-07-16 07:03:13", "added": "2024-07-16 07:03:13", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "68fc8b8b1015d79750c73aab12ec773b"}
-{"id": 192957, "url": "https://wallett.rr.nu/", "discovery": "2024-07-16 07:02:14", "added": "2024-07-16 07:02:14", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "ec872c78f86cf8cb526e35459690bc5f"}
-{"id": 192956, "url": "https://sparq.eu/wp-content/themes/flexible/BLUE/in.php", "discovery": "2024-07-16 06:58:12", "added": "2024-07-16 06:58:12", "target": "Swisscom", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "3f9664e9a7b73d8239457087d24ded42"}
-{"id": 192955, "url": "http://free-for-live-cam-a31.pages.dev", "discovery": "2024-07-16 06:50:13", "added": "2024-07-16 06:50:13", "target": "Whatsapp", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "dbf738f4c344a1a81ea89bfe62ec4537"}
