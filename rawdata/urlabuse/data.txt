@@ -6,7 +6,7 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-16 08:00:01 UTC
+# UPDATE: 2024-07-16 09:00:01 UTC
 ############### END COMMENTS ###############
 {"id": 192975, "url": "https://btcommsinfo.weebly.com/", "discovery": "2024-07-16 07:48:14", "added": "2024-07-16 07:48:14", "target": "Microsoft", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "536c6cbec1ce358f579b76cc7397c8ab"}
 {"id": 192974, "url": "https://kundensupport-swisscom.eu/neu/", "discovery": "2024-07-16 07:40:15", "added": "2024-07-16 07:40:15", "target": "Swisscom", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "c3c274b02dd0cf1af65c67cb65733e84"}
