@@ -6,8 +6,13 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-16 12:00:01 UTC
+# UPDATE: 2024-07-16 13:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 193148, "url": "https://explorer.check-oursoffer.com/46-882-030724/", "discovery": "2024-07-16 11:50:12", "added": "2024-07-16 12:20:51", "target": "Postnord", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "d3e34f25d81dedc0a3674ede0f587e98"}
+{"id": 193147, "url": "https://notevocaux190624.wixsite.com/notevocaux190624", "discovery": "2024-07-16 12:19:32", "added": "2024-07-16 12:19:32", "target": "Orange", "reporter": "urlabuse", "AbuseType": "phishing", "UUID": "efd1685a4769e04066e761f70eec1b6b"}
+{"id": 193146, "url": "https://notevocale202407.squarespace.com/home?utm_medium=social", "discovery": "2024-07-16 11:46:19", "added": "2024-07-16 12:17:52", "target": "Orange", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "680229675ae1d7397a4a32a67fca9812"}
+{"id": 193145, "url": "http://cp28533.tw1.ru/", "discovery": "2024-07-16 12:02:20", "added": "2024-07-16 12:02:20", "target": "Orange", "reporter": "urlabuse", "AbuseType": "phishing", "UUID": "b2b744e7141c793a867cb0a8a460eec6"}
+{"id": 193144, "url": "https://gratuit-5286646.webadorsite.com/", "discovery": "2024-07-16 11:48:21", "added": "2024-07-16 12:01:40", "target": "Orange", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "1e8a05548d8af6226c1a9aae00177408"}
 {"id": 193143, "url": "http://lingering-king-583a.mendharry042.workers.dev", "discovery": "2024-07-16 11:56:10", "added": "2024-07-16 11:56:10", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "2cafa1545f0523f87a7be3195307f8c7"}
 {"id": 193142, "url": "http://silent-glade-4690.mendharry042.workers.dev", "discovery": "2024-07-16 11:54:13", "added": "2024-07-16 11:54:13", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "709f26e24b8ac7c2e7e46d3b6eadea77"}
 {"id": 193141, "url": "https://c4acm053.caspio.com/dp/9e80e000a0d8f532ef0544189022", "discovery": "2024-07-16 11:44:23", "added": "2024-07-16 11:52:05", "target": "Generic Email", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "d2f41eca8d68689d3b49055aa855446e"}
@@ -503,8 +508,3 @@
 {"id": 192651, "url": "http://117.193.171.24:57513/Mozi.m", "discovery": "2024-07-15 19:20:31", "added": "2024-07-15 19:20:31", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "689b0175993b4c4599af7f77501323a8"}
 {"id": 192650, "url": "http://115.51.100.157:60575/i", "discovery": "2024-07-15 19:20:28", "added": "2024-07-15 19:20:28", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "34894cf852dd4732b39c48c6353ec1f2"}
 {"id": 192649, "url": "http://112.248.109.94:37856/i", "discovery": "2024-07-15 19:20:16", "added": "2024-07-15 19:20:16", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "a6921fd88de546e690dfd0e5992b0dcc"}
-{"id": 192648, "url": "http://112.239.123.20:54109/i", "discovery": "2024-07-15 19:20:14", "added": "2024-07-15 19:20:14", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "4081c068b4484c7b9c1c6264e6a3e85a"}
-{"id": 192647, "url": "http://112.239.123.20:54109/bin.sh", "discovery": "2024-07-15 19:20:12", "added": "2024-07-15 19:20:12", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "c35734162e3548608ead39aa6d65fbc8"}
-{"id": 192646, "url": "http://111.225.91.60:53140/Mozi.m", "discovery": "2024-07-15 19:20:10", "added": "2024-07-15 19:20:10", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "754545b98ac84edc85131f8547f12e5f"}
-{"id": 192645, "url": "http://101.108.76.228:35736/", "discovery": "2024-07-15 19:20:06", "added": "2024-07-15 19:20:06", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "fa18964534c24313920b5a318105cdc8"}
-{"id": 192644, "url": "https://audioworkspro.com/vfil/", "discovery": "2024-07-15 19:05:57", "added": "2024-07-15 19:05:57", "target": "Microsoft", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "7d2a5b34a430c89db85073e05239fd9d"}
