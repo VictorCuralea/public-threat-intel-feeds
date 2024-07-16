@@ -6,8 +6,10 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-16 02:00:01 UTC
+# UPDATE: 2024-07-16 03:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 192878, "url": "http://telegram-grupo-sexo-102.pages.dev", "discovery": "2024-07-16 02:20:11", "added": "2024-07-16 02:20:11", "target": "Telegram", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "1ac667fc73e5313c632d8010bceebc53"}
+{"id": 192877, "url": "http://usps.abxdtcvylsu.top", "discovery": "2024-07-16 02:06:17", "added": "2024-07-16 02:06:17", "target": "USPS", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "f1c0716d508f47dcaeb3afa5ff28b423"}
 {"id": 192876, "url": "http://tpxz.yfps3ls.cn/rj/8904.apk", "discovery": "2024-07-16 01:27:29", "added": "2024-07-16 01:27:29", "target": "#ZIP", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "1c20c249138c4d6b90f6139989820574"}
 {"id": 192875, "url": "http://61.0.184.191:58402/i", "discovery": "2024-07-16 01:24:56", "added": "2024-07-16 01:24:56", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "2b1d7c23bfae4bb8a1947584be9a84ea"}
 {"id": 192874, "url": "http://61.0.184.191:58402/bin.sh", "discovery": "2024-07-16 01:24:48", "added": "2024-07-16 01:24:48", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "c2009271ae8b4676ba225055e92855ae"}
@@ -506,5 +508,3 @@
 {"id": 192381, "url": "https://www.retrovisormaster.com/wp-content/themes/twentynineteen/sass/elements/colors/", "discovery": "2024-07-15 06:10:15", "added": "2024-07-15 07:59:16", "target": "Netflix", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "831a1b87e03558f9042bb2de1c6140c3"}
 {"id": 192380, "url": "https://pub-a70e3e0f438144df9bc4be7d4849317c.r2.dev/checc.html", "discovery": "2024-07-15 06:10:14", "added": "2024-07-15 07:57:39", "target": "Wells Fargo", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "fbd154da01a148f453869668cf8a2a83"}
 {"id": 192379, "url": "https://sbr-co.ir/nt", "discovery": "2024-07-15 06:10:13", "added": "2024-07-15 07:55:39", "target": "email", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "3a87f70c189f6d065a3ab94486d4fd9b"}
-{"id": 192378, "url": "http://cgh65r3-2.pages.dev", "discovery": "2024-07-15 07:46:11", "added": "2024-07-15 07:46:11", "target": "Amazon", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "95a105d99f978ad75e7c424a21783351"}
-{"id": 192377, "url": "http://94.121.3.50:57308/Mozi.m", "discovery": "2024-07-15 07:23:40", "added": "2024-07-15 07:23:40", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "33f494ca485a4ab18fde32e7ad34f5ff"}
