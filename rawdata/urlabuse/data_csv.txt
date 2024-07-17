@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-17 18:00:02 UTC
+# UPDATE: 2024-07-17 19:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+193992, 2024-07-17 18:54:13, 2024-07-17 18:54:13, phishing, 9c0343e903bf6794171cdff272af2d80, http://mail.mertahmetele.com
 193991, 2024-07-17 17:29:36, 2024-07-17 17:29:36, malware, 557db2ab95954dca86612985f491a3c8, http://79.116.9.186:58647/.i
 193990, 2024-07-17 17:28:33, 2024-07-17 17:28:33, malware, 96e79fd093e345a5bcc097ed01035ebe, http://59.93.234.166:53547/i
 193989, 2024-07-17 17:28:31, 2024-07-17 17:28:31, malware, d65a25521e474e08a7d14918bf4f5749, http://59.93.181.43:58566/bin.sh
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 193495, 2024-07-16 23:23:58, 2024-07-16 23:23:58, malware, 080b5147831343e2b224fc65ddbe3253, http://117.214.198.10:40345/i
 193494, 2024-07-16 23:23:01, 2024-07-16 23:23:01, malware, a92ca8f26f1d43ed8db3d059d27f09d5, http://117.211.209.80:34472/bin.sh
 193493, 2024-07-16 23:22:39, 2024-07-16 23:22:39, malware, 2a8ce8661c154d1bbb328e72f37e1691, http://117.208.219.15:59058/Mozi.m
-193492, 2024-07-16 23:22:16, 2024-07-16 23:22:16, malware, ff997cd553ba4b34bd55c156b24dd7e4, http://117.206.78.80:59416/bin.sh
