@@ -6,9 +6,25 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-17 11:00:02 UTC
+# UPDATE: 2024-07-17 12:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+193775, 2024-07-17 11:20:44, 2024-07-17 11:20:44, malware, 882371d0001443ba88e9e1b38548fe18, http://42.235.191.86:53518/i
+193774, 2024-07-17 11:20:35, 2024-07-17 11:20:35, malware, ccbf2b66e2f641ceb8e7a8e20840531e, http://27.207.225.153:56054/Mozi.m
+193773, 2024-07-17 11:20:33, 2024-07-17 11:20:33, malware, 1b4a181c68fe41fb8f775f7cb204e90c, http://219.156.125.101:54822/Mozi.m
+193772, 2024-07-17 11:20:31, 2024-07-17 11:20:31, malware, b72062b40c1248a0ad3f14ab61b910a2, http://218.29.29.146:44440/i
+193771, 2024-07-17 11:20:30, 2024-07-17 11:20:30, malware, 698b599f426a44818edfc017f6c7e14c, http://2.55.98.253:42514/i
+193770, 2024-07-17 11:20:29, 2024-07-17 11:20:29, malware, 3de11b0203c44a80ace0d5fef656612b, http://182.112.30.171:40175/i
+193769, 2024-07-17 11:20:27, 2024-07-17 11:20:27, malware, 6caf40ed912f470a83bedbcbd30609b3, http://177.92.240.168:47635/i
+193768, 2024-07-17 11:20:24, 2024-07-17 11:20:24, malware, 9e12a7e8d72f45ce8036b1f3a9ed00db, http://123.8.157.98:51637/i
+193767, 2024-07-17 11:20:23, 2024-07-17 11:20:23, malware, ccb952d96f2b4d45b775a554149263ff, http://120.61.74.237:56178/i
+193766, 2024-07-17 11:20:18, 2024-07-17 11:20:18, malware, 9ce20725782c464dbe3aaded62a256df, http://117.248.168.58:35071/i
+193765, 2024-07-17 11:20:16, 2024-07-17 11:20:16, malware, f224f5c6e51e45ac91ca17c7113d9333, http://117.248.165.47:58003/Mozi.m
+193764, 2024-07-17 11:20:14, 2024-07-17 11:20:14, malware, d9a66899e7fa4e3ba851d4ca6cb94354, http://117.216.151.118:33264/Mozi.m
+193763, 2024-07-17 11:20:12, 2024-07-17 11:20:12, malware, d6aaa4e45ebe4946841e9748c2669c24, http://117.196.160.34:57991/Mozi.m
+193762, 2024-07-17 11:20:10, 2024-07-17 11:20:10, malware, 79dc7b77fbb74fbba76991fccca05e98, http://115.55.254.163:55146/Mozi.m
+193761, 2024-07-17 11:20:07, 2024-07-17 11:20:07, malware, 7bc0cc7f6ff845e5a8157907641ff6d4, http://115.55.130.88:48515/i
+193760, 2024-07-17 11:20:05, 2024-07-17 11:20:05, malware, 54aacb2c421345bf9ea79ffbcce27d7d, http://115.48.48.121:52450/i
 193759, 2024-07-17 10:32:12, 2024-07-17 10:32:12, phishing, 48be86c0c49ced136201bbad53d554e2, http://wallstreetmeme-xyz.pages.dev
 193758, 2024-07-17 10:13:23, 2024-07-17 10:13:23, phishing, 72aa7f39b4ed86c20dac5b016fdd1ba9, http://rfvtgb1.pages.dev
 193757, 2024-07-17 10:03:08, 2024-07-17 10:03:08, phishing, 8480ff3df83d7da350154b9953f6b5b7, https://pub-5b0a118dda134295a570e5927e002a03.r2.dev/index.html
@@ -493,19 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 193278, 2024-07-16 17:20:42, 2024-07-16 17:20:42, malware, 376a2184665c4d68900e89ba2a54f5f1, http://115.55.254.120:41869/i
 193277, 2024-07-16 17:20:40, 2024-07-16 17:20:40, malware, 3d1de06d7ed340e38eb0ed924d67a978, http://115.55.245.167:48133/i
 193276, 2024-07-16 17:20:38, 2024-07-16 17:20:38, malware, 4c20af160aea44459a1370d2503721b0, http://115.48.140.6:48866/Mozi.m
-193275, 2024-07-16 17:20:36, 2024-07-16 17:20:36, malware, 66a46bfaabad46f1b93693528210920b, http://112.248.81.221:57816/i
-193274, 2024-07-16 17:20:34, 2024-07-16 17:20:34, malware, 9f6d6f2460a34dd58632a951e610a93e, http://112.245.159.170:60561/i
-193273, 2024-07-16 17:20:32, 2024-07-16 17:20:32, malware, a6c613e595be49a5a582efc266b1a91c, http://112.245.159.170:60561/bin.sh
-193272, 2024-07-16 17:20:29, 2024-07-16 17:20:29, malware, 6681d310633a4dab853656692d6cac74, http://112.239.101.51:55524/i
-193271, 2024-07-16 17:20:27, 2024-07-16 17:20:27, malware, e4a0336afcee4ae5ad8d8f3b46615dc0, http://112.230.168.191:38343/Mozi.m
-193270, 2024-07-16 16:52:12, 2024-07-16 16:52:12, phishing, 2cc8349f0b9fbe8a393cb57355b535d8, http://ajsuieokdujyh6748950osklmijuyahnhd093wuu844iskn3.pages.dev
-193269, 2024-07-16 16:36:14, 2024-07-16 16:36:14, phishing, d79c59a6ead30ef54b0794170f4d9edc, http://conamaogerie.duckdns.org
-193268, 2024-07-16 16:34:36, 2024-07-16 15:52:14, phishing, cf48e6204f2d0891ff29f2b45c17970c, https://email.kjbm.laidleracademy.com/c/eJx0kD1r6zAUhn-NtFxi9Gklg4bLvRgC3TJ0NMfScazEkowlp6S_vpjS0qXrOe_HwwvO5S3VPngruDKtVMoICsvSJ4ho73CDIRxKzSuOa061HJY1-83VkBP1livJmKFouRGcS3aUmmKEMPcRS4Er9vW5oIWt5gi7p__8FkyeTlap0St0J6HN0BopBec4tpp73xqPTNJgBROKGd5yrqXWDQPn_JG1x9NomG5PRLH7bYjNDMHPuIIDj_HZuBzpbKdal0LkXyI6IroaHs374Jr4HOYNp1xqE5GI7vJ6_rdLXvI1JCI6-oW-Q-La-xwhJPtbzWqFgzXPISFRbI9-C6lxEy2h4veuWgvFaLWXUPHP-T8R8sf5YcVHAAAA__-cyH78
-193267, 2024-07-16 16:34:12, 2024-07-16 16:34:12, phishing, f3abb4a75eac1ba69ed3c126a8af8ce1, http://aldsf.eespl.com
-193266, 2024-07-16 16:33:58, 2024-07-16 16:33:58, phishing, aff485745b70491e5e452d4f3254f517, https://tiv.zbc.mybluehost.me/SWICA/Login/CH/
-193265, 2024-07-16 16:32:12, 2024-07-16 15:50:15, phishing, 7c01da013ef46f221b01061cbe9a67bc, https://tiv.zbc.mybluehost.me/SWICA/Login/
-193264, 2024-07-16 16:30:16, 2024-07-16 15:24:11, phishing, ea6669b16877e61d5354bf493d9d7969, https://southern-glow-number.glitch.me/
-193263, 2024-07-16 16:06:50, 2024-07-16 16:06:50, phishing, 757b94ecdc51bd02a8d4b63e0b06ff69, https://m.g8i4.30116702.com/
-193262, 2024-07-16 16:06:17, 2024-07-16 16:06:17, phishing, 189fa947de5f126121de3bfbdd8ffe58, https://ipfs.io/ipfs/QmbMHN8CA8GkJ1RCXxnvuFzEFaWAkm4FbE5fxHAzdMhz7g?filename=wzcdiettimqysa8gu.html
-193261, 2024-07-16 16:06:16, 2024-07-16 16:06:16, phishing, ee650102dee49f10dfe98db2d192274e, https://ipfs.io/ipfs/bafkreibzfnnxsnsjjcm2xzszbvap4gpuco5qktqyikdxsxiieipprosazu
-193260, 2024-07-16 16:06:07, 2024-07-16 16:06:07, phishing, aaf1baf65e1b2a7700b613692007b15d, http://owa-mail.daruouz54qf30.amplifyapp.com/
