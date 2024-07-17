@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-17 02:00:01 UTC
+# UPDATE: 2024-07-17 03:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+193597, 2024-07-17 02:54:12, 2024-07-17 02:54:12, phishing, 324a013436032b3c6265d1b06cdb10e5, http://1453739412166210.xyz
+193596, 2024-07-17 02:36:16, 2024-07-17 02:36:16, phishing, 5f60609076b64baf4b3bbfc4f1d035b6, http://usps.kgmlptqsjcf.top
+193595, 2024-07-17 02:32:19, 2024-07-17 02:32:19, phishing, 41943e7710e8ece23c1bbc6cb7e2d32b, http://usps.xtpskueqhia.top
+193594, 2024-07-17 02:28:19, 2024-07-17 02:28:19, phishing, ff5d52c6c846a96cdff7c2a03709957b, http://usps.msvonaeftrp.top
 193593, 2024-07-17 01:21:46, 2024-07-17 01:21:46, malware, 1c9a078c788b44648e9a05245d0feb6a, http://83.219.1.198:58449/bin.sh
 193592, 2024-07-17 01:21:45, 2024-07-17 01:21:45, malware, 7d93788d0dd541ebb0f7e64f182db4d8, http://61.52.74.185:49432/bin.sh
 193591, 2024-07-17 01:21:44, 2024-07-17 01:21:44, malware, 0e931cf0d42945cfb4f7892bd8f1adfa, http://61.52.209.177:33624/bin.sh
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 193100, 2024-07-16 11:23:20, 2024-07-16 11:23:20, malware, 43092b69bcfc402fb568fee925fba260, http://117.253.104.110:33745/bin.sh
 193099, 2024-07-16 11:23:04, 2024-07-16 11:23:04, malware, e455e3fa83eb410eb6741634da2dee05, http://117.248.165.71:52073/i
 193098, 2024-07-16 11:23:01, 2024-07-16 11:23:01, malware, 7c654265a7474b4691a816794360294e, http://117.248.164.5:57604/Mozi.m
-193097, 2024-07-16 11:22:57, 2024-07-16 11:22:57, malware, a31dcfad6bfb4c3eac3aa00afa45afe4, http://117.248.164.178:34704/Mozi.m
-193096, 2024-07-16 11:22:55, 2024-07-16 11:22:55, malware, a7e37bca79ee4918b641e6a0d623e3cc, http://117.248.161.88:40563/i
-193095, 2024-07-16 11:22:53, 2024-07-16 11:22:53, malware, b0e2dfb8420d430c8f0cb1820666a19e, http://117.245.44.85:41605/i
-193094, 2024-07-16 11:22:22, 2024-07-16 11:22:22, malware, 8f99ad4929d549f0a268b201351732c4, http://117.242.235.91:34702/i
