@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-17 00:00:01 UTC
+# UPDATE: 2024-07-17 01:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+193571, 2024-07-17 00:58:10, 2024-07-17 00:58:10, phishing, 3e38b14acc27a5bb77924841ea719610, http://coinnodesweb.pages.dev
 193570, 2024-07-16 23:29:51, 2024-07-16 23:29:51, malware, f6d301f0f2c747a0819137a1b18c9c2f, http://90.225.118.172:52491/i
 193569, 2024-07-16 23:29:49, 2024-07-16 23:29:49, malware, 4ce572e131a14f74b4d3c312f83ac0ce, http://81.232.132.14:58301/i
 193568, 2024-07-16 23:29:48, 2024-07-16 23:29:48, malware, 97ee0f5856b44bd48c9f765f6356e24d, http://77.91.77.80/solo/chart.exe
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 193074, 2024-07-16 11:20:26, 2024-07-16 11:20:26, malware, 39c37ff97bf9419b9a2acbc8d3e1b6e7, http://115.55.254.120:41869/
 193073, 2024-07-16 11:20:23, 2024-07-16 11:20:23, malware, 929ca58472f74afabebc62c81acf0d12, http://115.55.246.89:48495/bin.sh
 193072, 2024-07-16 11:20:13, 2024-07-16 11:20:13, malware, 3d38de6deb894fde960553c688c2c6d5, http://115.52.251.152:46393/bin.sh
-193071, 2024-07-16 11:20:11, 2024-07-16 11:20:11, malware, 9b4e14e46e324de583926d140af87450, http://107.173.143.46/M1507T/csrss.exe

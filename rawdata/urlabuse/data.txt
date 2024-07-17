@@ -6,8 +6,9 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-17 00:00:01 UTC
+# UPDATE: 2024-07-17 01:00:02 UTC
 ############### END COMMENTS ###############
+{"id": 193571, "url": "http://coinnodesweb.pages.dev", "discovery": "2024-07-17 00:58:10", "added": "2024-07-17 00:58:10", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "3e38b14acc27a5bb77924841ea719610"}
 {"id": 193570, "url": "http://90.225.118.172:52491/i", "discovery": "2024-07-16 23:29:51", "added": "2024-07-16 23:29:51", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "f6d301f0f2c747a0819137a1b18c9c2f"}
 {"id": 193569, "url": "http://81.232.132.14:58301/i", "discovery": "2024-07-16 23:29:49", "added": "2024-07-16 23:29:49", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "4ce572e131a14f74b4d3c312f83ac0ce"}
 {"id": 193568, "url": "http://77.91.77.80/solo/chart.exe", "discovery": "2024-07-16 23:29:48", "added": "2024-07-16 23:29:48", "target": "#PE32INTEL_GUI", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "97ee0f5856b44bd48c9f765f6356e24d"}
@@ -507,4 +508,3 @@
 {"id": 193074, "url": "http://115.55.254.120:41869/", "discovery": "2024-07-16 11:20:26", "added": "2024-07-16 11:20:26", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "39c37ff97bf9419b9a2acbc8d3e1b6e7"}
 {"id": 193073, "url": "http://115.55.246.89:48495/bin.sh", "discovery": "2024-07-16 11:20:23", "added": "2024-07-16 11:20:23", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "929ca58472f74afabebc62c81acf0d12"}
 {"id": 193072, "url": "http://115.52.251.152:46393/bin.sh", "discovery": "2024-07-16 11:20:13", "added": "2024-07-16 11:20:13", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "3d38de6deb894fde960553c688c2c6d5"}
-{"id": 193071, "url": "http://107.173.143.46/M1507T/csrss.exe", "discovery": "2024-07-16 11:20:11", "added": "2024-07-16 11:20:11", "target": "#PE32INTEL_GUI", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "9b4e14e46e324de583926d140af87450"}
