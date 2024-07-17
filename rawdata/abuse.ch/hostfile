@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-07-17 14:32:12 UTC                        #
+# Last updated: 2024-07-17 17:31:32 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	poolpush.pro
+127.0.0.1	cryptonomiconf.me
+127.0.0.1	confbesttop.xyz
+127.0.0.1	trymyconf.com
 127.0.0.1	doortseropa.com
 127.0.0.1	isomicrotich.com
 127.0.0.1	oakgrovetraining.com
@@ -7333,4 +7337,4 @@
 127.0.0.1	hei.ttss66.co
 127.0.0.1	sacacaa.com
 127.0.0.1	1.ttss66.co
-# Number of entries: 7327
+# Number of entries: 7331
