@@ -6,9 +6,21 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-17 08:00:01 UTC
+# UPDATE: 2024-07-17 09:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+193725, 2024-07-17 08:48:15, 2024-07-17 08:48:15, phishing, eccdc5251fc83576b6b666ee2531df38, http://tdtalk.top
+193724, 2024-07-17 08:42:13, 2024-07-17 08:42:13, phishing, 5485fe6365ed44991c8ba1b39856fbd7, https://orange.wefuniile.com/rms-orange.fr-voicemail-facture-devis-htmlconfirmation_e034320b8a346dc3e/
+193723, 2024-07-17 08:34:13, 2024-07-17 08:34:13, phishing, 94ef223daa601778f3af9028116accda, https://sites.google.com/view/likontredsepo
+193722, 2024-07-17 08:32:15, 2024-07-17 08:32:15, phishing, 32e77eaae674062492f326e90ffa2c85, https://boy.ikraamalfossbaro.uk/
+193721, 2024-07-17 08:30:13, 2024-07-17 08:30:13, phishing, f3ab77c247f7240bf9158eccd7604d8d, http://accounts-auth.pages.dev
+193720, 2024-07-17 08:10:28, 2024-07-17 01:32:53, phishing, 129244032aee6f363fa00b01dcff3f57, https://giod1n.web.app/host:-login.yahoo.com.tw:3586
+193719, 2024-07-17 08:08:22, 2024-07-17 07:40:10, phishing, 1e02a585075d79cb48e429448ba32675, https://webmail.sportechrnexico.com/webmail2/11.jsp?accountID=yahoo.com?761167515/auth/logon.aspx?replaceCurrent=1&url=https://mail.%2f#yahoo@yahoo.com
+193718, 2024-07-17 08:07:56, 2024-07-17 07:27:56, phishing, 0ebe870c2b2df099a8abcf5b6baa9e85, https://webmail.sportechrnexico.com/webmail2/#hotmail@hotmail.com
+193717, 2024-07-17 08:06:56, 2024-07-17 05:52:52, phishing, a577a21c17268969d74bc61d4cb3df30, https://unleashglobalacademy.com/login/index.html?userid=oracle@oracle.com
+193716, 2024-07-17 08:06:46, 2024-07-17 05:46:00, phishing, 1d918f6dd318f895bef6deb76cd59000, https://www.lotemp.com/wp-content/plugins/redux-framework/redux-core/languages/hidden/mnman/index.php#eWFob29AeWFob28uY29t
+193715, 2024-07-17 08:05:40, 2024-07-17 08:05:40, phishing, 7deaa913fc03c32bd884ee849ef55054, https://ipfs.io/ipfs/bafkreifihn4cscl4jbl764mjkegkanzu67c7v6qxq7ind6vd5e3ond7ctm
+193714, 2024-07-17 08:03:58, 2024-07-17 05:41:13, phishing, 6353d04c2442a24292b182c071659fe7, https://cloudflare-ipfs.com/ipfs/bafkreifihn4cscl4jbl764mjkegkanzu67c7v6qxq7ind6vd5e3ond7ctm
 193713, 2024-07-17 07:56:16, 2024-07-17 07:56:16, phishing, 376eb5d7cf42dc6ba13617e2575a103c, http://ex.giprosm.ru
 193712, 2024-07-17 07:27:45, 2024-07-17 07:27:45, malware, 601f9658cea24120aca590f083c2aa90, http://www.security-santander.eu/
 193711, 2024-07-17 07:27:01, 2024-07-17 07:27:01, malware, a984f9e69c454571ad6e928ac6ac6559, http://83.219.1.198:58449/i
@@ -497,15 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 193228, 2024-07-16 13:31:45, 2024-07-16 13:31:45, malware, 37ac092ee8a842879e38bdb6fbbce81c, http://61.163.198.140:37321/bin.sh
 193227, 2024-07-16 13:31:43, 2024-07-16 13:31:43, malware, 70c063facfa849df8ea71c6bb61482d6, http://61.0.180.114:51608/
 193226, 2024-07-16 13:31:42, 2024-07-16 13:31:42, malware, 213261e1ffa24cd19f40ae50fd1bc86d, http://59.99.223.194:50153/bin.sh
-193225, 2024-07-16 13:31:18, 2024-07-16 13:31:18, malware, 43956cd4aafb4bf9b12b3901b5a86eae, http://59.99.212.63:57348/Mozi.m
-193224, 2024-07-16 13:31:05, 2024-07-16 13:31:05, malware, bf2927214367486f91232543ccc83e57, http://59.97.115.29:56821/Mozi.m
-193223, 2024-07-16 13:31:01, 2024-07-16 13:31:01, malware, 8d9ea436009c4facac6c2537cc51da9f, http://59.93.19.42:52265/bin.sh
-193222, 2024-07-16 13:30:59, 2024-07-16 13:30:59, malware, aa8607d378df49ed9fdd2d12d01bdaa8, http://59.93.129.6:59989/Mozi.m
-193221, 2024-07-16 13:30:47, 2024-07-16 13:30:47, malware, 2012b3e86a074168b00f5f183a8827f3, http://59.89.69.178:48727/i
-193220, 2024-07-16 13:30:45, 2024-07-16 13:30:45, malware, 0766dac734434a24ac78cfcdbea43fd3, http://59.89.68.20:35259/i
-193219, 2024-07-16 13:30:43, 2024-07-16 13:30:43, malware, 2babee5509924742a2cfe09f6a10fef0, http://59.89.236.184:48567/bin.sh
-193218, 2024-07-16 13:30:41, 2024-07-16 13:30:41, malware, fd2840f7122c4ef298e1a9456c302d9d, http://59.89.0.214:35706/i
-193217, 2024-07-16 13:29:51, 2024-07-16 13:29:51, malware, 348dd33cab054deeb932cf261c45c18d, http://59.182.231.24:35195/Mozi.m
-193216, 2024-07-16 13:29:49, 2024-07-16 13:29:49, malware, c7b80a6abcef4e12999281d96c97e64b, http://42.231.88.76:45827/i
-193215, 2024-07-16 13:29:48, 2024-07-16 13:29:48, malware, 3bb7c2a848ac4725b63537b7e104dd51, http://42.227.236.6:38899/bin.sh
-193214, 2024-07-16 13:29:46, 2024-07-16 13:29:46, malware, 90c4841f71ca4aaa84ecae72f4c41c28, http://42.224.24.225:49158/i
