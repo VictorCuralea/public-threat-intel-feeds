@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-17 06:00:01 UTC
+# UPDATE: 2024-07-17 07:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+193676, 2024-07-17 06:06:10, 2024-07-17 06:06:10, phishing, 924a373be0a51e925040368abb5783de, http://onlychatsexss.pages.dev
 193675, 2024-07-17 05:54:13, 2024-07-17 05:54:13, phishing, b3a15c9f4c3f4d38204c6f4121b71215, http://kikoskgktp.cc
 193674, 2024-07-17 05:24:45, 2024-07-17 05:24:45, malware, 8553d749c4924cffad886cfa80abbc77, http://61.52.209.177:33624/i
 193673, 2024-07-17 05:24:24, 2024-07-17 05:24:24, malware, 47e2003a7030404d922b654d0225ff89, http://59.99.213.156:51956/bin.sh
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 193179, 2024-07-16 13:25:34, 2024-07-16 13:25:34, malware, 5fe2405a355947bba9006d1fcb6ded34, http://117.245.37.155:60918/i
 193178, 2024-07-16 13:25:32, 2024-07-16 13:25:32, malware, d34653bc9ba2472b83f6c7f6c061ca8e, http://117.245.37.148:56702/bin.sh
 193177, 2024-07-16 13:25:19, 2024-07-16 13:25:19, malware, 01daafbf736348618582d64c8206132c, http://117.242.238.163:52078/
-193176, 2024-07-16 13:25:07, 2024-07-16 13:25:07, malware, 6505777507bb46f5ac1862751311ade0, http://117.235.67.73:49230/bin.sh

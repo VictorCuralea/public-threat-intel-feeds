@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-07-17 04:50:10 UTC                        #
+# Last updated: 2024-07-17 06:42:15 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	tax-sri.gl.at.ply.gg
+127.0.0.1	matrixxcloud.duckdns.org
 127.0.0.1	365officemail.com
 127.0.0.1	hippieblissprovising.com
 127.0.0.1	verose.top
@@ -7356,4 +7358,4 @@
 127.0.0.1	saldanha.top
 127.0.0.1	7070bc8.sytes.net
 127.0.0.1	shomyo.secru.it
-# Number of entries: 7350
+# Number of entries: 7352
