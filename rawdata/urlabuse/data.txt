@@ -6,8 +6,17 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-17 12:00:01 UTC
+# UPDATE: 2024-07-17 13:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 193784, "url": "https://cz92549.tw1.ru/credit", "discovery": "2024-07-17 12:47:10", "added": "2024-07-17 12:47:10", "target": "Credit Agricole", "reporter": "urlabuse", "AbuseType": "phishing", "UUID": "3312767bfe155e391178c5f44dd89172"}
+{"id": 193783, "url": "http://aaw.pages.dev", "discovery": "2024-07-17 12:46:10", "added": "2024-07-17 12:46:10", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "8c6c9ff3be390661eb126696f5d73d5d"}
+{"id": 193782, "url": "https://regulation-crca-6764c40d0344f87b1ce65d8.webflow.io", "discovery": "2024-07-17 12:46:05", "added": "2024-07-17 12:46:05", "target": "Credit Agricole", "reporter": "urlabuse", "AbuseType": "phishing", "UUID": "759e517f47362100d5d93b108ae2f8bc"}
+{"id": 193781, "url": "https://t.co/nrw8J6okch", "discovery": "2024-07-17 12:28:13", "added": "2024-07-17 12:45:28", "target": "Credit Agricole", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "3b37a4c6fa7ba4f86ab5f2b27d8dc309"}
+{"id": 193780, "url": "http://mailmountdocumentf06ae12a89c54ce1afaf5cb4ff328ea7off.pages.dev", "discovery": "2024-07-17 12:36:10", "added": "2024-07-17 12:36:10", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "5a505b09641703e3bbd4827592505bf4"}
+{"id": 193779, "url": "https://id-08090531.s1-tastewp.com", "discovery": "2024-07-17 12:30:05", "added": "2024-07-17 12:30:05", "target": "Orange", "reporter": "urlabuse", "AbuseType": "phishing", "UUID": "98892a4fff7cface5591b45779898bf7"}
+{"id": 193778, "url": "https://dev-id-021245.pantheonsite.io/q0ay", "discovery": "2024-07-17 12:16:13", "added": "2024-07-17 12:29:07", "target": "Orange", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "fe4ae988fbf07b5105abdcbe32c2a87a"}
+{"id": 193777, "url": "http://manta-claim-93x.pages.dev", "discovery": "2024-07-17 12:24:15", "added": "2024-07-17 12:24:15", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "65160dc1f0fcb40bef240b9360bbc4fa"}
+{"id": 193776, "url": "http://login-microsoft.pages.dev", "discovery": "2024-07-17 12:18:10", "added": "2024-07-17 12:18:10", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "5ec62ff83c032dd2d0f3220bb901309b"}
 {"id": 193775, "url": "http://42.235.191.86:53518/i", "discovery": "2024-07-17 11:20:44", "added": "2024-07-17 11:20:44", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "882371d0001443ba88e9e1b38548fe18"}
 {"id": 193774, "url": "http://27.207.225.153:56054/Mozi.m", "discovery": "2024-07-17 11:20:35", "added": "2024-07-17 11:20:35", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "ccbf2b66e2f641ceb8e7a8e20840531e"}
 {"id": 193773, "url": "http://219.156.125.101:54822/Mozi.m", "discovery": "2024-07-17 11:20:33", "added": "2024-07-17 11:20:33", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "1b4a181c68fe41fb8f775f7cb204e90c"}
@@ -499,12 +508,3 @@
 {"id": 193287, "url": "http://117.194.221.246:57710/i", "discovery": "2024-07-16 17:21:53", "added": "2024-07-16 17:21:53", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "f786d71f53a34026b2ec17c0401cfc57"}
 {"id": 193286, "url": "http://115.63.181.230:55458/i", "discovery": "2024-07-16 17:20:59", "added": "2024-07-16 17:20:59", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "8194d457d5724bbaaf7229e97042b292"}
 {"id": 193285, "url": "http://115.63.13.120:51293/i", "discovery": "2024-07-16 17:20:57", "added": "2024-07-16 17:20:57", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "2574340bec8c4faf8548c19159f7475a"}
-{"id": 193284, "url": "http://115.63.13.120:51293/bin.sh", "discovery": "2024-07-16 17:20:55", "added": "2024-07-16 17:20:55", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "0394527c080e4da0844b65af995b5271"}
-{"id": 193283, "url": "http://115.58.134.56:37265/bin.sh", "discovery": "2024-07-16 17:20:53", "added": "2024-07-16 17:20:53", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "6e0fe31a0d3e435480dc132f0393510e"}
-{"id": 193282, "url": "http://115.56.146.178:48003/Mozi.m", "discovery": "2024-07-16 17:20:50", "added": "2024-07-16 17:20:50", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "5a247a21f34b4f31867472f01c5090ba"}
-{"id": 193281, "url": "http://115.56.146.178:48003/bin.sh", "discovery": "2024-07-16 17:20:48", "added": "2024-07-16 17:20:48", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "902928a210364901996f8efcf85cdb86"}
-{"id": 193280, "url": "http://115.55.74.55:39385/bin.sh", "discovery": "2024-07-16 17:20:46", "added": "2024-07-16 17:20:46", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "51c5ff9ae4fe488da3bfd50ce946bc01"}
-{"id": 193279, "url": "http://115.55.6.35:59880/bin.sh", "discovery": "2024-07-16 17:20:44", "added": "2024-07-16 17:20:44", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "e719c9fc99ea448eaf9b6fe310c4d1e0"}
-{"id": 193278, "url": "http://115.55.254.120:41869/i", "discovery": "2024-07-16 17:20:42", "added": "2024-07-16 17:20:42", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "376a2184665c4d68900e89ba2a54f5f1"}
-{"id": 193277, "url": "http://115.55.245.167:48133/i", "discovery": "2024-07-16 17:20:40", "added": "2024-07-16 17:20:40", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "3d1de06d7ed340e38eb0ed924d67a978"}
-{"id": 193276, "url": "http://115.48.140.6:48866/Mozi.m", "discovery": "2024-07-16 17:20:38", "added": "2024-07-16 17:20:38", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "4c20af160aea44459a1370d2503721b0"}
