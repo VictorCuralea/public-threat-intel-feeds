@@ -6,9 +6,19 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-17 14:00:01 UTC
+# UPDATE: 2024-07-17 15:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+193829, 2024-07-17 14:27:03, 2024-07-17 14:26:16, phishing, 14ac469dc189648d617f7e830cfc11b9, https://0uync.nr3xc.com/0uynC/#bWF4LnNjaG9lbmhvbHplckB2aXNlY2EuY2g%3D
+193828, 2024-07-17 14:26:22, 2024-07-17 14:24:12, phishing, 70c68d4ef5614366d62dcdcc8b146b93, https://servicetelepaiementstationnementgvfrfps.vercel.app/
+193827, 2024-07-17 14:26:14, 2024-07-17 14:22:24, phishing, d489fa4c19b2c8d0062f2eac5786acb6, https://qjwisuqwu.supersurvey.com/
+193826, 2024-07-17 14:26:04, 2024-07-17 14:26:04, phishing, 9b1e90bf0ef4859004aca7599ecae13e, https://bt-login-page-104909.weeblysite.com/
+193825, 2024-07-17 14:25:14, 2024-07-17 13:58:19, phishing, c8b2b207ef6dbf8f5c91e3a3b0fc63cc, http://site9626485.92.webydo.com/?v=1
+193824, 2024-07-17 14:24:11, 2024-07-17 14:24:11, phishing, 9603ead25ebdba196e0dcd2ca1822d49, https://scgautheregiosncafsfr.duckdns.org/auth/g9GHv2/login.php?id=94455819
+193823, 2024-07-17 14:24:11, 2024-07-17 14:24:11, phishing, 088cd9d4f9f4d1c266f30bf1ab264c91, https://scgautheregiosncafsfr.duckdns.org/auth/?pwd=sg
+193822, 2024-07-17 14:22:16, 2024-07-17 14:22:16, phishing, dce9a99c7e9023c21b49f81defed0a42, http://usps.postzz.top
+193821, 2024-07-17 14:22:13, 2024-07-17 14:22:13, phishing, 2b49f4aafd7f8e59b1215f11232ff781, https://sites.google.com/view/bilalesssbia09
+193820, 2024-07-17 14:20:23, 2024-07-17 14:20:23, phishing, 257e9f9629e3e1956f74e7e92f50a9a2, http://usps.postmp.top
 193819, 2024-07-17 13:35:45, 2024-07-17 13:35:45, phishing, 5ce1624d0602c0ca2992058292b9d267, https://notevoicevocal00.wixsite.com/notevoicevocal00
 193818, 2024-07-17 13:35:37, 2024-07-17 13:20:18, phishing, 3eb7c08d4bd0b644b430f6897d150030, https://cuty.io/DzBIFX31
 193817, 2024-07-17 13:35:21, 2024-07-17 13:08:22, phishing, ee06aec4050e06861ce43fed38d4febf, http://rtrdirfjvcsqlkfcd.info/
@@ -499,13 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 193332, 2024-07-16 18:21:55, 2024-07-16 18:21:55, malware, da5893c4a65945f59a5ec06724c5508f, http://182.127.104.244:35876/bin.sh
 193331, 2024-07-16 18:21:54, 2024-07-16 18:21:54, malware, 43de958d35e741229a0c1aaf1a1e353c, http://182.126.99.154:56500/bin.sh
 193330, 2024-07-16 18:21:52, 2024-07-16 18:21:52, malware, beb0e9f772db4e0c9203f432151234cc, http://182.126.113.240:52601/bin.sh
-193329, 2024-07-16 18:21:51, 2024-07-16 18:21:51, malware, 4f98e560e92b48658a84dc654a216c6b, http://182.121.43.171:59468/
-193328, 2024-07-16 18:21:49, 2024-07-16 18:21:49, malware, 6d2c59c6a3584e1bb20ca004bc6a1546, http://182.116.120.247:47260/i
-193327, 2024-07-16 18:21:47, 2024-07-16 18:21:47, malware, 2247486239ed4adea222afc640a6658e, http://182.116.120.247:47260/bin.sh
-193326, 2024-07-16 18:21:45, 2024-07-16 18:21:45, malware, d6699e5e102e4d7599156c960296d0e6, http://182.112.30.171:40175/Mozi.m
-193325, 2024-07-16 18:21:14, 2024-07-16 18:21:14, malware, 1648cfe23fd9469c8d85b61789805686, http://125.47.93.74:51241/i
-193324, 2024-07-16 18:21:12, 2024-07-16 18:21:12, malware, 5c50aa38fb2a4b0db924d16a0f9dee42, http://125.46.143.160:50594/bin.sh
-193323, 2024-07-16 18:21:09, 2024-07-16 18:21:09, malware, 1101376670f747c59d51d4deb6fbde01, http://125.44.29.3:34603/bin.sh
-193322, 2024-07-16 18:21:07, 2024-07-16 18:21:07, malware, 1dad25a679224485816aee841d6d6497, http://125.43.92.19:57193/bin.sh
-193321, 2024-07-16 18:20:35, 2024-07-16 18:20:35, malware, 143c1fba6e0b43e49a2929f626a6472b, http://123.14.12.220:56175/i
-193320, 2024-07-16 18:20:33, 2024-07-16 18:20:33, malware, 1d347831b72a4e1a987ea39799a974b7, http://123.14.12.220:56175/bin.sh

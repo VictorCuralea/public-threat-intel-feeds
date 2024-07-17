@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-07-17 13:40:23 UTC                        #
+# Last updated: 2024-07-17 14:32:12 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	doortseropa.com
+127.0.0.1	isomicrotich.com
 127.0.0.1	oakgrovetraining.com
 127.0.0.1	ccrhs.shop
 127.0.0.1	othergate.site
@@ -7342,6 +7344,4 @@
 127.0.0.1	static.113.214.202.116.clients.your-server.de
 127.0.0.1	free-cdn.tech
 127.0.0.1	cdn3.ru
-127.0.0.1	www.cy-security.de
-127.0.0.1	zero3.kentest.fyi
 # Number of entries: 7338
