@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-07-17 11:10:05 UTC                        #
+# Last updated: 2024-07-17 13:40:23 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	oakgrovetraining.com
+127.0.0.1	ccrhs.shop
 127.0.0.1	othergate.site
 127.0.0.1	australiaivf.com
 127.0.0.1	eventgrids.online
@@ -7342,19 +7344,4 @@
 127.0.0.1	cdn3.ru
 127.0.0.1	www.cy-security.de
 127.0.0.1	zero3.kentest.fyi
-127.0.0.1	ntc-telecomcorporation.workers.dev
-127.0.0.1	mail-depo-gov-pk.ntc-telecomcorporation.workers.dev
-127.0.0.1	mail-dgdp-gov-pk.ntc-telecomcorporation.workers.dev
-127.0.0.1	mail-hit-gov-pk.ntc-telecomcorporation.workers.dev
-127.0.0.1	mail-paf-gov-pk.ntc-telecomcorporation.workers.dev
-127.0.0.1	alfalahtransct-bank.servehttp.com
-127.0.0.1	cloud-ntdc.servehttp.com
-127.0.0.1	e-servicesptclnetpk.servehttp.com
-127.0.0.1	e-supportntc.servehttp.com
-127.0.0.1	financeptcl-govpk.servehttp.com
-127.0.0.1	flysmart-piac.servehttp.com
-127.0.0.1	ogdclcloud-mysharep.servehalflife.com
-127.0.0.1	services-ptclnetpk.servehttp.com
-127.0.0.1	wetransfer.servehttp.com
-127.0.0.1	shiningmoons.org
-# Number of entries: 7351
+# Number of entries: 7338
