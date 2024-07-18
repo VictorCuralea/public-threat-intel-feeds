@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-18 22:00:02 UTC
+# UPDATE: 2024-07-18 23:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+194933, 2024-07-18 22:36:17, 2024-07-18 22:36:17, phishing, 0247dda0dc7064b985c385aecf84a5fa, http://migtranclick.pages.dev
+194932, 2024-07-18 22:30:15, 2024-07-18 22:30:15, phishing, 249b56324e843be991efe9487051f00f, http://dappfixosclick.pages.dev
 194931, 2024-07-18 21:27:55, 2024-07-18 21:27:55, malware, ceb6614c5e8843b7a387498c52ed70fd, http://90.225.118.172:52491/Mozi.m
 194930, 2024-07-18 21:26:36, 2024-07-18 21:26:36, malware, 61577eed23a04837acf6aa8d0481aa6b, http://59.88.247.73:53107/bin.sh
 194929, 2024-07-18 21:25:30, 2024-07-18 21:25:30, malware, ec1e7f82fd504ec0adbb2357b51c7644, http://59.182.128.129:60964/bin.sh
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 194436, 2024-07-18 09:21:05, 2024-07-18 09:21:05, malware, a01b27f1a4744244baf3a0ed623d3b05, http://117.201.18.132:46809/i
 194435, 2024-07-18 09:21:01, 2024-07-18 09:21:01, malware, 5181dd0d65de4a9fa3bc1b828f9eb586, http://117.201.18.132:46809/bin.sh
 194434, 2024-07-18 09:20:38, 2024-07-18 09:20:38, malware, 38fad3497fe3476dacf72b27b5841308, http://115.62.118.56:51260/bin.sh
-194433, 2024-07-18 09:20:36, 2024-07-18 09:20:36, malware, 0e00f106459144198d4f2ce5799293ac, http://115.59.58.66:59287/bin.sh
-194432, 2024-07-18 09:20:34, 2024-07-18 09:20:34, malware, 798115922a124f9cb44e32c23097ff46, http://115.49.232.72:56853/bin.sh
