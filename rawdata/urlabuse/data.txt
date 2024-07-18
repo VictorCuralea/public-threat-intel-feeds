@@ -6,7 +6,7 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-18 02:00:01 UTC
+# UPDATE: 2024-07-18 03:00:01 UTC
 ############### END COMMENTS ###############
 {"id": 194217, "url": "http://61.162.215.216:58436/Mozi.m", "discovery": "2024-07-18 01:27:10", "added": "2024-07-18 01:27:10", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "d1ed587ee8054d88b74710bb5676332f"}
 {"id": 194216, "url": "http://61.0.176.51:51640/i", "discovery": "2024-07-18 01:26:58", "added": "2024-07-18 01:26:58", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "89d543ff5de74cd285618caf3128c4a3"}
