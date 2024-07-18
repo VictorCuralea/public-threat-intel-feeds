@@ -6,8 +6,13 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-18 08:00:01 UTC
+# UPDATE: 2024-07-18 09:00:02 UTC
 ############### END COMMENTS ###############
+{"id": 194414, "url": "https://fl6398.craftum.io/portail", "discovery": "2024-07-18 08:35:42", "added": "2024-07-18 08:35:42", "target": "Orange", "reporter": "urlabuse", "AbuseType": "phishing", "UUID": "eb49829783b47733304e19597da0748e"}
+{"id": 194413, "url": "https://auth-chorus-pro.jimdosite.com/", "discovery": "2024-07-18 08:32:14", "added": "2024-07-18 08:35:15", "target": "FR-GOV", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "3a37d353df95c5a27e26289ec18e8e4c"}
+{"id": 194412, "url": "https://cuty.io/Latql3bg", "discovery": "2024-07-18 08:24:16", "added": "2024-07-18 08:28:44", "target": "Orange", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "b7af3c834988cbb059dbb07f5ef923bb"}
+{"id": 194411, "url": "https://lbmall.webwave.dev/?forcePageWithoutCdn=true", "discovery": "2024-07-18 08:16:13", "added": "2024-07-18 08:28:32", "target": "Orange", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "0a424375072743a218d2f1f7564969b0"}
+{"id": 194410, "url": "https://actorpediatr.ru/WgaVE/#b", "discovery": "2024-07-18 07:50:12", "added": "2024-07-18 08:09:04", "target": "Microsoft", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "699ec30d924944ffadd5ab84bccf17aa"}
 {"id": 194409, "url": "http://imtoken-bv.net", "discovery": "2024-07-18 07:56:14", "added": "2024-07-18 07:56:14", "target": "imToken", "reporter": "lruray", "AbuseType": "phishing", "UUID": "ed8745563130bd0075441a0828a5692a"}
 {"id": 194408, "url": "http://imtoken-de.net", "discovery": "2024-07-18 07:56:13", "added": "2024-07-18 07:56:13", "target": "imToken", "reporter": "lruray", "AbuseType": "phishing", "UUID": "7bc3d908e11abfcf2563ddb281d22630"}
 {"id": 194407, "url": "http://imtoken-bj.net", "discovery": "2024-07-18 07:56:13", "added": "2024-07-18 07:56:13", "target": "imToken", "reporter": "lruray", "AbuseType": "phishing", "UUID": "ef3c36a719063c7a74a59b3c6cd5a42e"}
@@ -503,8 +508,3 @@
 {"id": 193917, "url": "https://imtoken3.com", "discovery": "2024-07-17 16:16:48", "added": "2024-07-17 16:16:48", "target": "imToken", "reporter": "lruray", "AbuseType": "phishing", "UUID": "911a606073859d24447f6f5055d4dbfc"}
 {"id": 193916, "url": "https://imtoken-ca.com", "discovery": "2024-07-17 16:16:38", "added": "2024-07-17 16:16:38", "target": "imToken", "reporter": "lruray", "AbuseType": "phishing", "UUID": "71ba6a22376983e2d17b3960023e1aeb"}
 {"id": 193915, "url": "https://imtoken-etc.com", "discovery": "2024-07-17 16:16:24", "added": "2024-07-17 16:16:24", "target": "imToken", "reporter": "lruray", "AbuseType": "phishing", "UUID": "c97bc8a2dae7f71cf54c910fed56c6cc"}
-{"id": 193914, "url": "https://imtoken-bi.com", "discovery": "2024-07-17 16:16:20", "added": "2024-07-17 16:16:20", "target": "imToken", "reporter": "lruray", "AbuseType": "phishing", "UUID": "8120907b6aad78ea13e1708e24a740c8"}
-{"id": 193913, "url": "https://rawthot.github.io/facebook-clone", "discovery": "2024-07-17 16:15:30", "added": "2024-07-17 16:15:30", "target": "Facebook", "reporter": "lrugbot", "AbuseType": "phishing", "UUID": "54e294a9a814df47b9595715ff40a29b"}
-{"id": 193912, "url": "https://pub-ff5bacf94a4d474b9c7cb1c0ba1c5e8f.r2.dev/script.html?email=3mail@b.c==", "discovery": "2024-07-17 16:15:28", "added": "2024-07-17 16:15:28", "target": "Microsoft", "reporter": "lrugbot", "AbuseType": "phishing", "UUID": "3f22ca34e2efea472b961582d2961c76"}
-{"id": 193911, "url": "https://pub-adefabd73f2c47c6a402823a22bf9e9b.r2.dev/utility_base.html", "discovery": "2024-07-17 16:15:24", "added": "2024-07-17 16:15:24", "target": "Other", "reporter": "lrugbot", "AbuseType": "phishing", "UUID": "6098c036f3f1c901f132bfcd89e1c335"}
-{"id": 193910, "url": "https://pub-8a9cc35a5303489d8d9b78fd89ba0b6f.r2.dev/Alldomain-index.html", "discovery": "2024-07-17 16:15:22", "added": "2024-07-17 16:15:22", "target": "Microsoft", "reporter": "lrugbot", "AbuseType": "phishing", "UUID": "9427b10e2f297d5e9a4155a9d2d47dc1"}
