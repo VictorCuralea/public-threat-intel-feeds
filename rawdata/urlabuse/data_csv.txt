@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-18 20:00:02 UTC
+# UPDATE: 2024-07-18 21:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+194888, 2024-07-18 20:28:15, 2024-07-18 20:28:15, phishing, 7256e27f18eb9be86d8d0725364121ef, http://eden.mtalk.com.br
+194887, 2024-07-18 20:14:15, 2024-07-18 20:14:15, phishing, 9c064aca218838e80a7e3d0f863f6bbb, http://sante-vitalecarte.com
 194886, 2024-07-18 19:58:17, 2024-07-18 19:58:17, phishing, 6aef5cdb8a7137e562ac0118d1771c5d, http://cairo-finance.pages.dev
 194885, 2024-07-18 19:32:12, 2024-07-18 19:32:12, phishing, 567b47c900ce74bdabb3a58c48465eb0, http://milagro-file.pages.dev
 194884, 2024-07-18 19:28:44, 2024-07-18 19:28:44, malware, 134907f4e3a0486a923119ea9f5df738, http://95.132.76.190:49304/Mozi.m
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 194391, 2024-07-18 07:25:26, 2024-07-18 07:25:26, malware, 8ae018b3cec04df1b9e28cae09b49713, http://42.234.100.141:42207/bin.sh
 194390, 2024-07-18 07:25:24, 2024-07-18 07:25:24, malware, 34d0f2d300e24caeaf349292fba12ff2, http://42.231.105.48:58931/bin.sh
 194389, 2024-07-18 07:25:23, 2024-07-18 07:25:23, malware, 82fa71f330864eb39b9168db05da3486, http://42.227.203.73:46874/i
-194388, 2024-07-18 07:25:21, 2024-07-18 07:25:21, malware, a2a5cf5b9ce64559b2218cd68e677f49, http://42.224.197.13:49158/
-194387, 2024-07-18 07:25:19, 2024-07-18 07:25:19, malware, 2610ce8107154fb982f1c1d38f1be97b, http://27.215.125.221:49944/bin.sh
