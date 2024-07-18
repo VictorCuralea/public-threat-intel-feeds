@@ -6,9 +6,16 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-18 10:00:01 UTC
+# UPDATE: 2024-07-18 11:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+194501, 2024-07-18 10:26:17, 2024-07-18 10:26:17, phishing, aa494dd22786e14bc5fecf25276330bb, http://cloudrizz.pages.dev
+194500, 2024-07-18 10:06:08, 2024-07-18 10:06:08, phishing, f44a896c92c3602dc4ce53c2dba5d129, https://1111365.biz/
+194499, 2024-07-18 10:04:53, 2024-07-18 10:04:11, phishing, c9a12887cd59c4cdfbcd188773152906, https://ncjhfyueiwkldfjrheuiopwriu.pages.dev/?2QT4fwpMeJf36P=redacted@redacted.tld
+194498, 2024-07-18 10:03:55, 2024-07-18 10:03:55, phishing, 93b109f45557550f22b84547fcb77ff8, https://ipfs.io/ipfs/bafkreibx2kenioseyhtbjel4e46nxhhjowj3doorenma4rtwimwwms5zlq
+194497, 2024-07-18 10:03:18, 2024-07-18 10:03:18, phishing, 739e5b2797a2b8be3e33517f3f6657d6, https://telegram-vn.com/
+194496, 2024-07-18 10:02:56, 2024-07-18 10:02:56, phishing, 6b38095980089490ec2dc87c0c7b8ff8, https://web.telegrcam.cc/
+194495, 2024-07-18 10:02:20, 2024-07-18 10:02:20, phishing, fbe7b14b26db3d6b67aa9dcf790dda5f, http://send-secret-message-here.pages.dev/
 194494, 2024-07-18 09:54:19, 2024-07-18 09:54:19, phishing, 107b041ecf2412a104a3b8d3c6821f1c, http://demo3.php520.shop
 194493, 2024-07-18 09:32:13, 2024-07-18 09:32:13, phishing, 32efba47b365155e89af1d0d25f4b812, http://versefixcloud.pages.dev
 194492, 2024-07-18 09:27:19, 2024-07-18 09:27:19, malware, 32207c11eb764f559556e87251faa0fb, http://94.240.47.154:51250/Mozi.m
@@ -502,10 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 194004, 2024-07-17 19:20:30, 2024-07-17 19:20:30, malware, bee0dabafd7c4d49b6954bbd12db9258, http://117.175.161.221:49267/i
 194003, 2024-07-17 19:20:26, 2024-07-17 19:20:26, malware, 7ac726fbb82d4cf7a0169f1e483b428a, http://115.63.165.180:37505/bin.sh
 194002, 2024-07-17 19:20:24, 2024-07-17 19:20:24, malware, 078da46baa114372a6ad9772acd5d5b3, http://115.55.23.62:42814/bin.sh
-194001, 2024-07-17 19:20:22, 2024-07-17 19:20:22, malware, 8d5a676813e941aeb832334a44c0bc12, http://115.55.130.13:33454/i
-194000, 2024-07-17 19:20:20, 2024-07-17 19:20:20, malware, 1774fca009f04d4ba48587a59dd12259, http://115.51.23.141:40961/Mozi.m
-193999, 2024-07-17 19:20:18, 2024-07-17 19:20:18, malware, 143af4fb7cff400a973e1905837417bd, http://112.248.247.129:51587/i
-193998, 2024-07-17 19:20:05, 2024-07-17 19:20:05, malware, 7b4c1c3e86934a9bab26e0c1c16b13dc, http://103.120.132.113:46742/mozi.m
-193997, 2024-07-17 19:05:45, 2024-07-17 19:05:45, phishing, 34ac51be5c06039ba37ef057b9fb6727, https://www.1111365.live/
-193996, 2024-07-17 19:04:05, 2024-07-17 19:04:05, phishing, 1af487c9f273cf4fab84e137c38db3e0, https://pub-486819dbe3c44a98a489cbcd39e88361.r2.dev/unite.html
-193995, 2024-07-17 19:03:09, 2024-07-17 19:03:09, phishing, ddeaa1874e06241cf5df4bac70e7d58b, https://escrowofthewest.pctutor.us/?3qEV0p=Jyp0
