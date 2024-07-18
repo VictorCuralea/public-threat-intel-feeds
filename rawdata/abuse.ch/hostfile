@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-07-17 19:22:31 UTC                        #
+# Last updated: 2024-07-18 05:18:23 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	mrat23009.dyndns.org
 127.0.0.1	scar77747.duckdns.org
 127.0.0.1	poolpush.pro
 127.0.0.1	cryptonomiconf.me
@@ -7332,4 +7333,4 @@
 127.0.0.1	broler.shop
 127.0.0.1	yadongrec.com
 127.0.0.1	api.broler.shop
-# Number of entries: 7326
+# Number of entries: 7327
