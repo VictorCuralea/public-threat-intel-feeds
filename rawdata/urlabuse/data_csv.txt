@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-18 18:00:01 UTC
+# UPDATE: 2024-07-18 19:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+194836, 2024-07-18 18:30:13, 2024-07-18 18:30:13, phishing, 4282a06fb954e87fb304f227ea9e8a1c, http://od-proxy.lm379.workers.dev
+194835, 2024-07-18 18:24:12, 2024-07-18 18:24:12, phishing, 35276e048ea821c3067616e5f4fa71d4, http://upsgmbh.eu
+194834, 2024-07-18 18:08:15, 2024-07-18 18:08:15, phishing, 941eccc42a069648eb2b54e39d53f854, http://misty-truth-68f6.foepetpan.workers.dev
 194833, 2024-07-18 17:56:22, 2024-07-18 17:56:22, phishing, 29ea242cd0c07c09c6599c7e090e3712, http://assurance-maladie-vitale.info
 194832, 2024-07-18 17:50:17, 2024-07-18 17:50:17, phishing, 7d87f4541a9c066531db3f82b62b0964, http://optsbuildfi.pages.dev
 194831, 2024-07-18 17:30:06, 2024-07-18 17:30:06, malware, 9e65fa416b424f438cdc8fca86459976, http://mamallan.life/new_clip.exe
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 194339, 2024-07-18 05:26:31, 2024-07-18 05:26:31, malware, 4941307d80f841409c94dcdce58be32f, http://91.239.77.159:32874/i
 194338, 2024-07-18 05:26:30, 2024-07-18 05:26:30, malware, 5b9aa7014cc349bfb0452a7a08432e41, http://61.53.89.155:47260/i
 194337, 2024-07-18 05:26:28, 2024-07-18 05:26:28, malware, e93db60733aa4fcabcd0b8c5790f550b, http://61.53.43.190:43698/i
-194336, 2024-07-18 05:26:26, 2024-07-18 05:26:26, malware, 9d2cee1a578c40b6a94f953cb15b39d6, http://61.53.43.190:43698/bin.sh
-194335, 2024-07-18 05:26:24, 2024-07-18 05:26:24, malware, e18b17b4ccf04c1ba40f4cdee5b34a9d, http://61.53.254.125:40440/Mozi.m
-194334, 2024-07-18 05:26:01, 2024-07-18 05:26:01, malware, f363e32f01234e06b779eb1ec44bb715, http://59.99.215.241:55696/Mozi.m
