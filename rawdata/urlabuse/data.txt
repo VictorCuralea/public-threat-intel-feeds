@@ -6,8 +6,10 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-18 00:00:01 UTC
+# UPDATE: 2024-07-18 01:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 194142, "url": "http://cimtele.pages.dev", "discovery": "2024-07-18 00:34:12", "added": "2024-07-18 00:34:12", "target": "Telegram", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "3335e8a42ef7709b97f50bc695598cdd"}
+{"id": 194141, "url": "http://dfgdhte22.pages.dev", "discovery": "2024-07-18 00:20:12", "added": "2024-07-18 00:20:12", "target": "Amazon", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "6edb8dc3aedaec72b0d4a5627c6b75a3"}
 {"id": 194140, "url": "http://61.53.220.231:40800/i", "discovery": "2024-07-17 23:27:14", "added": "2024-07-17 23:27:14", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "f2e682831bc945d8ab04443a8353ba36"}
 {"id": 194139, "url": "http://59.99.45.219:47303/Mozi.m", "discovery": "2024-07-17 23:26:22", "added": "2024-07-17 23:26:22", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "7766911ac558445e86b93ca07458b284"}
 {"id": 194138, "url": "http://59.99.220.9:43116/Mozi.m", "discovery": "2024-07-17 23:26:20", "added": "2024-07-17 23:26:20", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "2a9f072f007b49928770d531d513cfee"}
@@ -506,5 +508,3 @@
 {"id": 193645, "url": "http://coinfrexwallet.readiwork.com", "discovery": "2024-07-17 04:50:17", "added": "2024-07-17 04:50:17", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "009edeb398eeab342910f97cb94835d6"}
 {"id": 193644, "url": "http://unipokabased.pages.dev", "discovery": "2024-07-17 04:32:14", "added": "2024-07-17 04:32:14", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "31931e02f5460aab0ead3601163a6ae3"}
 {"id": 193643, "url": "http://manta-7i9.pages.dev", "discovery": "2024-07-17 04:30:12", "added": "2024-07-17 04:30:12", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "08e00e11484dff6af3694fa3162f0d5d"}
-{"id": 193642, "url": "http://somujayrpysoijboneusweszdhg02.pages.dev", "discovery": "2024-07-17 04:30:10", "added": "2024-07-17 04:30:10", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "75a5f2a75fbb15b5e3a89ae34409189c"}
-{"id": 193641, "url": "http://www.smgases.com/off/indexnew.html", "discovery": "2024-07-17 04:05:38", "added": "2024-07-17 04:05:38", "target": "Microsoft", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "c0dd2c750d9447219f0e034f2ca18b7c"}
