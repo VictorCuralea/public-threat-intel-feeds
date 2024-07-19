@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-19 00:00:01 UTC
+# UPDATE: 2024-07-19 01:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+195017, 2024-07-19 00:46:14, 2024-07-19 00:46:14, phishing, 7721e7a57a596480994156f3560c1769, http://ystg4.se-r-ta.biz.id
+195016, 2024-07-19 00:26:15, 2024-07-19 00:26:15, phishing, ed80ae1da5f028656cf05ae32acd9e04, http://fbscontenttest.com
 195015, 2024-07-18 23:39:01, 2024-07-18 23:39:01, phishing, a40ae646f7646c236a9355fcbc595899, https://smaesatir.com/z%E2%80%8C%E2%80%8C%E2%80%8C%E2%80%8C%E2%80%8C%E2%80%8C%E2%80%8C%E2%80%8C%E2%80%8C%E2%80%8C%E2%80%8C%E2%80%8C%E2%80%8C%E2%80%8C%E2%80%8C%E2%80%8C%E2%80%8C%E2%80%8C%E2%80%8C%E2%80%8C%E2%80%8C%E2%80%8C/dashbord
 195014, 2024-07-18 23:38:15, 2024-07-18 23:38:15, phishing, b5dbd6caba178e4de7345156153feb73, http://daperchain.pages.dev
 195013, 2024-07-18 23:31:37, 2024-07-18 23:31:37, malware, 12938d9027f44fcd993211cfb15b9c10, http://61.53.89.242:55919/bin.sh
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 194520, 2024-07-18 11:20:35, 2024-07-18 11:20:35, malware, 6cdba5b4d35b4dd39e0fca86372f6e78, http://115.62.118.56:51260/i
 194519, 2024-07-18 11:20:33, 2024-07-18 11:20:33, malware, b4d2cac092bf4085a7a3b6896be37e10, http://115.56.188.185:33400/bin.sh
 194518, 2024-07-18 11:20:31, 2024-07-18 11:20:31, malware, d2af4ea7d894482a9fe65cd21e1037cd, http://115.55.23.62:42814/i
-194517, 2024-07-18 11:20:29, 2024-07-18 11:20:29, malware, 2cf074daecda4a27bd0b19cd2276ae3e, http://115.52.6.18:42213/i
-194516, 2024-07-18 11:20:27, 2024-07-18 11:20:27, malware, d4ab29e6176f4eaba1491800bc8eab8e, http://115.52.6.18:42213/bin.sh
