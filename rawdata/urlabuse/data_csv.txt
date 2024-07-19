@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-19 20:00:01 UTC
+# UPDATE: 2024-07-19 21:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+195590, 2024-07-19 20:50:10, 2024-07-19 20:50:10, phishing, 52539fb5390e04ecd59b17adc2254b33, http://saiosghsuwyremncbeoiau02.pages.dev
+195589, 2024-07-19 20:36:12, 2024-07-19 20:36:12, phishing, a15c02332958c717f9b6a87d65c9353b, http://wiopesalfhksiemainsoedkines1.pages.dev
+195588, 2024-07-19 20:16:10, 2024-07-19 20:16:10, phishing, 5d1ba8e3efd6463222008528a99b9040, http://agfdhoeguyatsngcomuisnoatbf1.pages.dev
+195587, 2024-07-19 20:12:19, 2024-07-19 20:12:19, phishing, 516efac2bce12cd7c13659586df4e73a, https://www.trois.kr/vodData/
 195586, 2024-07-19 19:52:12, 2024-07-19 19:52:12, phishing, db7b1220389ebe0941dc42f7be5c0257, http://rectifynodesapp-dey.pages.dev
 195585, 2024-07-19 19:21:04, 2024-07-19 19:21:04, malware, 29f8e77823e041cbb8b2746a58eb97ed, http://61.53.88.173:52886/
 195584, 2024-07-19 19:20:30, 2024-07-19 19:20:30, malware, 9ee4da44918849168e2de132cc3bef07, http://61.1.244.109:44707/i
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 195092, 2024-07-19 03:23:31, 2024-07-19 03:23:31, malware, 59f95a9be2584cae9be4387530af6b17, http://39.90.145.10:59654/i
 195091, 2024-07-19 03:23:30, 2024-07-19 03:23:30, malware, b6898162f9cc4155b565654c7fdfea29, http://39.86.66.139:39843/i
 195090, 2024-07-19 03:23:28, 2024-07-19 03:23:28, malware, e6e00d0939e3437681e39a577c160f88, http://39.86.66.139:39843/bin.sh
-195089, 2024-07-19 03:23:17, 2024-07-19 03:23:17, malware, 1c0158d7cb3e46b990a3ac992c7f253e, http://27.217.139.28:35916/i
-195088, 2024-07-19 03:23:05, 2024-07-19 03:23:05, malware, b95c0332c7e745d5a74b767e61f2e949, http://219.157.144.161:46029/i
-195087, 2024-07-19 03:23:04, 2024-07-19 03:23:04, malware, d1e85f0831bc4e55bab0606aa2d11462, http://219.155.192.196:44131/bin.sh
-195086, 2024-07-19 03:23:02, 2024-07-19 03:23:02, malware, f7153da3943b4fd7b2cd0f6360b54de7, http://196.189.41.142:54790/bin.sh
