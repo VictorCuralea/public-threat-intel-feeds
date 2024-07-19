@@ -6,9 +6,15 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-19 08:00:02 UTC
+# UPDATE: 2024-07-19 09:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+195251, 2024-07-19 08:54:16, 2024-07-19 08:54:16, phishing, 41cacdb1fad2c1adff70f8bec2d816d8, http://cyberrdraccesspro.duckdns.org
+195250, 2024-07-19 08:46:16, 2024-07-19 08:46:16, phishing, 93268d6d0aaab7505f149527754d95f1, http://ordinalsbot.pages.dev
+195249, 2024-07-19 08:21:50, 2024-07-19 08:16:12, phishing, 8b2d159336200b7fbcf0c81fe9758ab4, https://d04jd.seiasa.com/c2b5qqoedtor3rudeaq3b2rbsjgney5reubi4e5lb24u7dclo7vy
+195248, 2024-07-19 08:05:50, 2024-07-19 07:56:13, phishing, f7e0f505681dd361531e39d3275748c7, https://smartlink2.metricool.com/public/smartlink/384905874
+195247, 2024-07-19 08:05:38, 2024-07-19 08:05:38, phishing, 1c1adc9206db233de88e76fd2064340b, https://bt-verify-admin.pagedemo.co/
+195246, 2024-07-19 08:05:26, 2024-07-19 07:52:15, phishing, 6d59e9d0a5d11273abf02342ffd4fe67, https://btbroadband.studio.site/
 195245, 2024-07-19 07:29:28, 2024-07-19 07:29:28, malware, c26a92b4df734c4a8d455b4a5a5cc580, http://61.53.47.234:44667/bin.sh
 195244, 2024-07-19 07:29:26, 2024-07-19 07:29:26, malware, 559e65d953d14497ac8ecb9d5703f476, http://61.53.159.33:47764/bin.sh
 195243, 2024-07-19 07:29:24, 2024-07-19 07:29:24, malware, 957d52d2e5ba4252a777820379222014, http://61.53.140.192:35955/i
@@ -503,9 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 194754, 2024-07-18 15:28:11, 2024-07-18 15:28:11, malware, faf481da52b545d59111c3523f1eeb20, http://60.211.46.89:33035/bin.sh
 194753, 2024-07-18 15:28:10, 2024-07-18 15:28:10, malware, 03f130937aac4207ad5d8ffada241213, http://59.99.212.165:51190/bin.sh
 194752, 2024-07-18 15:27:58, 2024-07-18 15:27:58, malware, 423310ff75c44ff3a5dd296a11fb0788, http://59.99.197.255:42453/Mozi.m
-194751, 2024-07-18 15:27:55, 2024-07-18 15:27:55, malware, 7b35893b011646a0a34c43abf38fa215, http://59.97.117.76:54429/i
-194750, 2024-07-18 15:27:33, 2024-07-18 15:27:33, malware, de6e8cb31ad5417894dc21e3d43d93e5, http://59.94.149.88:36483/Mozi.m
-194749, 2024-07-18 15:27:11, 2024-07-18 15:27:11, malware, 2b13ddcd2c60459da963cae18c7420d2, http://59.92.189.250:40503/i
-194748, 2024-07-18 15:27:09, 2024-07-18 15:27:09, malware, c91040535a734286acba34fa1527977b, http://59.91.80.78:54492/Mozi.m
-194747, 2024-07-18 15:26:14, 2024-07-18 15:26:14, phishing, e96139ce39d125963533310754550622, http://usps.kjwicbumrgq.top
-194746, 2024-07-18 15:25:30, 2024-07-18 15:25:30, malware, 663a4cc16a044ed58a57ed62203687b5, http://42.239.229.219:41551/bin.sh
