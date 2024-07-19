@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-19 12:00:01 UTC
+# UPDATE: 2024-07-19 13:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+195360, 2024-07-19 12:40:10, 2024-07-19 12:40:10, phishing, 2ee8ed6055c33010b379b2e4882c47ba, http://6yy6w5y5y6w56yh56.pages.dev
+195359, 2024-07-19 12:10:12, 2024-07-19 12:10:12, phishing, 8505755c92892ccbb0bfa2ba4460dfbf, http://siuhpagwesbvazxlckjweroiuqazbxm.pages.dev
 195358, 2024-07-19 11:58:16, 2024-07-19 11:58:16, phishing, 4662056557a2f567cb54d23bdac3b3e5, http://wbe-icluod.com
 195357, 2024-07-19 11:57:12, 2024-07-19 11:57:12, phishing, b15363c6c0a7c223797c5194670ff805, https://fdenyer.wixsite.com/my-site-1
 195356, 2024-07-19 11:56:44, 2024-07-19 11:52:15, phishing, 2f4ff42b4a34ea17cb16283b47cc15b8, https://campsite.bio/btmaibox
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 194863, 2024-07-18 19:24:59, 2024-07-18 19:24:59, malware, a3b4b75d635f4ddca66194c23be7b716, http://123.14.66.127:60007/i
 194862, 2024-07-18 19:24:57, 2024-07-18 19:24:57, malware, eeb1be4d589e4d9384abca7a1764a393, http://123.14.66.127:60007/bin.sh
 194861, 2024-07-18 19:24:55, 2024-07-18 19:24:55, malware, 3ccd28d2c8d84bcfa4bb1a5fd9e0be41, http://123.12.234.245:58626/
-194860, 2024-07-18 19:24:53, 2024-07-18 19:24:53, malware, 58c9c10769a741389fedd1814b5a0dee, http://120.86.246.170:43276/Mozi.a
-194859, 2024-07-18 19:24:50, 2024-07-18 19:24:50, malware, 27b1515a98324ee69f04a00166170f33, http://119.179.251.0:37191/i
