@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-19 02:00:01 UTC
+# UPDATE: 2024-07-19 03:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+195063, 2024-07-19 02:56:16, 2024-07-19 02:56:16, phishing, 7e3d94b1ec77f0e86f46a37a5fe060b6, http://loomsteadifydao.pages.dev
+195062, 2024-07-19 02:42:11, 2024-07-19 02:42:11, phishing, 1126714eb16bcc46be675c9eed67dad2, http://notinstagram.travelwithyan2017.workers.dev
 195061, 2024-07-19 01:52:13, 2024-07-19 01:52:13, phishing, c0b3223f1d312168465489a6521b26fe, http://web3auto.pages.dev
 195060, 2024-07-19 01:38:15, 2024-07-19 01:38:15, phishing, 46c85d7ec7dbb74274c0737466222aab, http://flxsyncc.pages.dev
 195059, 2024-07-19 01:24:26, 2024-07-19 01:24:26, malware, a18660fdcfc04cbfbea9a298dae0ab8f, http://namphuctourist.com/tmp/1.exe
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 194566, 2024-07-18 11:30:14, 2024-07-18 11:30:14, malware, 5dc5dcbecb2643689f89d2a1c01591bd, http://27.215.141.18:57353/Mozi.m
 194565, 2024-07-18 11:29:51, 2024-07-18 11:29:51, malware, 9d7c94a356c64d7ba7561b42e6188b9e, http://222.142.255.205:33077/i
 194564, 2024-07-18 11:29:49, 2024-07-18 11:29:49, malware, ebe05b7bfef84461bb7b5c168b31a631, http://222.142.255.205:33077/bin.sh
-194563, 2024-07-18 11:29:48, 2024-07-18 11:29:48, malware, 4880c080d92747b7a3ef24e6edf00633, http://222.139.230.17:57317/i
-194562, 2024-07-18 11:29:46, 2024-07-18 11:29:46, malware, 7b053062d5fa4fad8fd18da86cfbacf0, http://222.138.202.48:54569/Mozi.m
