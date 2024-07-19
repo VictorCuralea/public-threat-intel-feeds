@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-19 17:00:02 UTC
+# UPDATE: 2024-07-19 18:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+195515, 2024-07-19 17:38:11, 2024-07-19 17:38:11, phishing, 12564ca694306cac89f9ad6c92671694, http://docssecurem365.docsseecure365.workers.dev
+195514, 2024-07-19 17:28:13, 2024-07-19 17:28:13, phishing, 14055c8fef0e034269bab62d25eb2011, http://docsseecure365.docsseecure365.workers.dev
+195513, 2024-07-19 17:08:27, 2024-07-19 17:08:27, phishing, f99cb2b43087e9e8726e0ad24d218769, https://servicesofee248.weeblysite.com/
+195512, 2024-07-19 17:08:10, 2024-07-19 17:06:14, phishing, 122c09663c72df180908482c560830dd, https://www.dropbox.com/scl/fi/eh90r4eud3alpnmphw553/BT-MESSAGE.paper?rlkey=12exlbiy5viecxorj80xym473
 195511, 2024-07-19 16:46:13, 2024-07-19 16:46:13, phishing, 426c5b05294819805979f3ef2be15760, http://drgs-pdf.pages.dev
 195510, 2024-07-19 16:32:35, 2024-07-19 16:32:35, malware, 121c1b8a93bd4a65917982f242eb87c5, http://61.53.89.242:55919/i
 195509, 2024-07-19 16:32:34, 2024-07-19 16:32:34, malware, a5453be5bdb14c39ad654291be3bd22e, http://61.53.81.241:44441/i
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 195017, 2024-07-19 00:46:14, 2024-07-19 00:46:14, phishing, 7721e7a57a596480994156f3560c1769, http://ystg4.se-r-ta.biz.id
 195016, 2024-07-19 00:26:15, 2024-07-19 00:26:15, phishing, ed80ae1da5f028656cf05ae32acd9e04, http://fbscontenttest.com
 195015, 2024-07-18 23:39:01, 2024-07-18 23:39:01, phishing, a40ae646f7646c236a9355fcbc595899, https://smaesatir.com/z%E2%80%8C%E2%80%8C%E2%80%8C%E2%80%8C%E2%80%8C%E2%80%8C%E2%80%8C%E2%80%8C%E2%80%8C%E2%80%8C%E2%80%8C%E2%80%8C%E2%80%8C%E2%80%8C%E2%80%8C%E2%80%8C%E2%80%8C%E2%80%8C%E2%80%8C%E2%80%8C%E2%80%8C%E2%80%8C/dashbord
-195014, 2024-07-18 23:38:15, 2024-07-18 23:38:15, phishing, b5dbd6caba178e4de7345156153feb73, http://daperchain.pages.dev
-195013, 2024-07-18 23:31:37, 2024-07-18 23:31:37, malware, 12938d9027f44fcd993211cfb15b9c10, http://61.53.89.242:55919/bin.sh
-195012, 2024-07-18 23:29:54, 2024-07-18 23:29:54, malware, af19f423aba842d99342bbc62eb16642, http://60.208.180.30:33054/bin.sh
-195011, 2024-07-18 23:29:53, 2024-07-18 23:29:53, malware, ca1bb2f9c3e943f2a576c4938ccfd154, http://59.97.117.115:45366/Mozi.m

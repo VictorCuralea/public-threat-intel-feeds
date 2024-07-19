@@ -6,8 +6,12 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-19 17:00:02 UTC
+# UPDATE: 2024-07-19 18:00:02 UTC
 ############### END COMMENTS ###############
+{"id": 195515, "url": "http://docssecurem365.docsseecure365.workers.dev", "discovery": "2024-07-19 17:38:11", "added": "2024-07-19 17:38:11", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "12564ca694306cac89f9ad6c92671694"}
+{"id": 195514, "url": "http://docsseecure365.docsseecure365.workers.dev", "discovery": "2024-07-19 17:28:13", "added": "2024-07-19 17:28:13", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "14055c8fef0e034269bab62d25eb2011"}
+{"id": 195513, "url": "https://servicesofee248.weeblysite.com/", "discovery": "2024-07-19 17:08:27", "added": "2024-07-19 17:08:27", "target": "BT", "reporter": "urlabuse", "AbuseType": "phishing", "UUID": "f99cb2b43087e9e8726e0ad24d218769"}
+{"id": 195512, "url": "https://www.dropbox.com/scl/fi/eh90r4eud3alpnmphw553/BT-MESSAGE.paper?rlkey=12exlbiy5viecxorj80xym473", "discovery": "2024-07-19 17:06:14", "added": "2024-07-19 17:08:10", "target": "BT", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "122c09663c72df180908482c560830dd"}
 {"id": 195511, "url": "http://drgs-pdf.pages.dev", "discovery": "2024-07-19 16:46:13", "added": "2024-07-19 16:46:13", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "426c5b05294819805979f3ef2be15760"}
 {"id": 195510, "url": "http://61.53.89.242:55919/i", "discovery": "2024-07-19 16:32:35", "added": "2024-07-19 16:32:35", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "121c1b8a93bd4a65917982f242eb87c5"}
 {"id": 195509, "url": "http://61.53.81.241:44441/i", "discovery": "2024-07-19 16:32:34", "added": "2024-07-19 16:32:34", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "a5453be5bdb14c39ad654291be3bd22e"}
@@ -504,7 +508,3 @@
 {"id": 195017, "url": "http://ystg4.se-r-ta.biz.id", "discovery": "2024-07-19 00:46:14", "added": "2024-07-19 00:46:14", "target": "Facebook", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "7721e7a57a596480994156f3560c1769"}
 {"id": 195016, "url": "http://fbscontenttest.com", "discovery": "2024-07-19 00:26:15", "added": "2024-07-19 00:26:15", "target": "Facebook", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "ed80ae1da5f028656cf05ae32acd9e04"}
 {"id": 195015, "url": "https://smaesatir.com/z%E2%80%8C%E2%80%8C%E2%80%8C%E2%80%8C%E2%80%8C%E2%80%8C%E2%80%8C%E2%80%8C%E2%80%8C%E2%80%8C%E2%80%8C%E2%80%8C%E2%80%8C%E2%80%8C%E2%80%8C%E2%80%8C%E2%80%8C%E2%80%8C%E2%80%8C%E2%80%8C%E2%80%8C%E2%80%8C/dashbord", "discovery": "2024-07-18 23:39:01", "added": "2024-07-18 23:39:01", "target": "Saham Edalat", "reporter": "urlabuse", "AbuseType": "phishing", "UUID": "a40ae646f7646c236a9355fcbc595899"}
-{"id": 195014, "url": "http://daperchain.pages.dev", "discovery": "2024-07-18 23:38:15", "added": "2024-07-18 23:38:15", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "b5dbd6caba178e4de7345156153feb73"}
-{"id": 195013, "url": "http://61.53.89.242:55919/bin.sh", "discovery": "2024-07-18 23:31:37", "added": "2024-07-18 23:31:37", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "12938d9027f44fcd993211cfb15b9c10"}
-{"id": 195012, "url": "http://60.208.180.30:33054/bin.sh", "discovery": "2024-07-18 23:29:54", "added": "2024-07-18 23:29:54", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "af19f423aba842d99342bbc62eb16642"}
-{"id": 195011, "url": "http://59.97.117.115:45366/Mozi.m", "discovery": "2024-07-18 23:29:53", "added": "2024-07-18 23:29:53", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "ca1bb2f9c3e943f2a576c4938ccfd154"}
