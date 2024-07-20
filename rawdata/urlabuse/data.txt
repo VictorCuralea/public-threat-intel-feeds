@@ -6,8 +6,10 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-20 02:00:01 UTC
+# UPDATE: 2024-07-20 03:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 195816, "url": "http://shoayuywgsajnvxlzkowiuytazuhdgve03.pages.dev", "discovery": "2024-07-20 02:32:10", "added": "2024-07-20 02:32:10", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "6cd58b8286f9299ea9c0ca506b5a526a"}
+{"id": 195815, "url": "http://9i9u8y7t6t77y.pages.dev", "discovery": "2024-07-20 02:14:10", "added": "2024-07-20 02:14:10", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "e89c06392db63fc1cba59ddcd79e58db"}
 {"id": 195814, "url": "http://gsuywerhdjqasyeoilshgdfweuwe03.pages.dev", "discovery": "2024-07-20 01:52:10", "added": "2024-07-20 01:52:10", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "5ac6171d4e25cf4c6dbb1240c88df218"}
 {"id": 195813, "url": "http://61.53.149.23:48714/", "discovery": "2024-07-20 01:25:48", "added": "2024-07-20 01:25:48", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "1cd83276efbd4a5faa14ba558e014c55"}
 {"id": 195812, "url": "http://61.3.130.28:35024/Mozi.m", "discovery": "2024-07-20 01:25:06", "added": "2024-07-20 01:25:06", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "2865584d164e4775b77797d58e2dd134"}
@@ -506,5 +508,3 @@
 {"id": 195318, "url": "https://unitedsky.eu/wp-includes/main/migros/", "discovery": "2024-07-19 10:08:15", "added": "2024-07-19 10:16:34", "target": "Migros", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "e8328cda13526ad6141c12f8cfa1e54a"}
 {"id": 195317, "url": "http://whatsappplinkwj.pages.dev", "discovery": "2024-07-19 10:16:11", "added": "2024-07-19 10:16:11", "target": "Whatsapp", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "1fbd584c2a06d9e461af470ce5f72bb2"}
 {"id": 195316, "url": "https://fghjkhgfhjdfgh.weebly.com/", "discovery": "2024-07-19 10:07:01", "added": "2024-07-19 10:07:01", "target": "BT", "reporter": "urlabuse", "AbuseType": "phishing", "UUID": "a2120084374088c205c836522f405930"}
-{"id": 195315, "url": "https://flowcv.me/bt-broadband3242ws", "discovery": "2024-07-19 09:50:11", "added": "2024-07-19 10:06:49", "target": "BT", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "66ac486adeda894d0b2156a7af69145c"}
-{"id": 195314, "url": "https://www.hb1402.asia/a/", "discovery": "2024-07-19 10:04:27", "added": "2024-07-19 10:04:27", "target": "Telegram", "reporter": "lruubotd", "AbuseType": "phishing", "UUID": "10d6a0827c41122723c6c88477d4ca8b"}
