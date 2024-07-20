@@ -6,8 +6,9 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-20 06:00:01 UTC
+# UPDATE: 2024-07-20 07:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 195932, "url": "http://t0kenpoekct.moe", "discovery": "2024-07-20 06:48:13", "added": "2024-07-20 06:48:13", "target": "Token Pocket", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "e41bd1810abf4115cb6d0a23e4a3558f"}
 {"id": 195931, "url": "http://google-web.zhz99.workers.dev", "discovery": "2024-07-20 05:58:10", "added": "2024-07-20 05:58:10", "target": "Telegram", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "d89e61126c8017322635f868b4738515"}
 {"id": 195930, "url": "http://sioaurtheskjfnmcziuywkwepolsjhsu02.pages.dev", "discovery": "2024-07-20 05:56:10", "added": "2024-07-20 05:56:10", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "256bfdf9dbff2a64900e0bd7ee94d6a9"}
 {"id": 195929, "url": "http://gogkeduasdjhfplcdfhgweacdf01.pages.dev", "discovery": "2024-07-20 05:50:14", "added": "2024-07-20 05:50:14", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "09ac519ecd9d9e55993f94601f764d50"}
@@ -507,4 +508,3 @@
 {"id": 195435, "url": "http://teieragm.com", "discovery": "2024-07-19 15:30:29", "added": "2024-07-19 15:30:29", "target": "Telegram", "reporter": "lruray", "AbuseType": "phishing", "UUID": "e142e3ec12a9383b6f7d9ee1bc4b2eff"}
 {"id": 195434, "url": "http://teiepram.com", "discovery": "2024-07-19 15:30:27", "added": "2024-07-19 15:30:27", "target": "Telegram", "reporter": "lruray", "AbuseType": "phishing", "UUID": "efd0adc4db247f9c7448060256d1ad36"}
 {"id": 195433, "url": "http://teiedram.com", "discovery": "2024-07-19 15:30:25", "added": "2024-07-19 15:30:25", "target": "Telegram", "reporter": "lruray", "AbuseType": "phishing", "UUID": "11f110979ebea50468e656ca623cfb4d"}
-{"id": 195432, "url": "http://teieorgm.com", "discovery": "2024-07-19 15:30:22", "added": "2024-07-19 15:30:22", "target": "Telegram", "reporter": "lruray", "AbuseType": "phishing", "UUID": "bed99a83998ae3fa818b237faea11bb9"}
