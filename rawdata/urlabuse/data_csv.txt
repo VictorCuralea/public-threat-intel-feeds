@@ -6,9 +6,21 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-20 16:00:01 UTC
+# UPDATE: 2024-07-20 17:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+196344, 2024-07-20 16:39:58, 2024-07-20 16:20:15, phishing, c1b6816676dd92fffdcdbcf734bae7c7, https://www.dropbox.com/scl/fi/7vvmydsql9hm941kiocjy/BT-Mail-Access.paper?rlkey=4tdnb3k9mkinjvlqxdl5g3dwz
+196343, 2024-07-20 16:39:48, 2024-07-20 16:34:15, phishing, ec64019dba83fb05a4a78f1a2946450f, https://bt-page-103593.weeblysite.com/
+196342, 2024-07-20 16:38:59, 2024-07-20 15:58:16, phishing, 383a78c3cd0528ce7af409457151a7c1, https://www.dropbox.com/scl/fi/blbess4m3earfuq7wpygb/BT-MESSAGE.papert?rlkey=3hwb83n15f2x8xgnu61mydlxv
+196341, 2024-07-20 16:38:49, 2024-07-20 16:08:13, phishing, 2364662ec86d9cdc945a1e210bbf47b6, https://btmanagement-109694.weeblysite.com/
+196340, 2024-07-20 16:38:31, 2024-07-20 15:46:15, phishing, 138c5d3f43657e2f316f2266b3f71121, https://mail-1021.weeblysite.com/
+196339, 2024-07-20 16:38:21, 2024-07-20 15:32:15, phishing, 694dd559edd4f67e21cf7d0fa9ed21dc, https://my-site-102713-101511.weeblysite.com/
+196338, 2024-07-20 16:14:16, 2024-07-20 16:14:16, phishing, bf8d6d8c6b943b38ebe523038d4b6c5e, http://mail.grubiclik.duckdns.org
+196337, 2024-07-20 16:14:15, 2024-07-20 16:14:15, phishing, c1fdbe4f893cf3844dcac3996ff99cef, http://grubiclik.duckdns.org
+196336, 2024-07-20 16:12:14, 2024-07-20 16:12:14, phishing, 9af670f89c227cbf706de3820d6fdb5a, http://bikonyemegomtoneannemoooasdwuronnenyemdigachromegosobakili.pages.dev
+196335, 2024-07-20 16:04:16, 2024-07-20 16:04:16, phishing, 383db25273b93c9549ec89b8a11b5898, https://login-auth-60ce.microsoft365officeonline.workers.dev/
+196334, 2024-07-20 16:03:13, 2024-07-20 16:03:13, phishing, 11bf009cfe4c1f9324df0feb17392698, https://www.telegram.yt/
+196333, 2024-07-20 16:02:41, 2024-07-20 16:02:41, phishing, c5a494780b1536d0914f64e843567c0e, https://web.whatsapp.com.sg.aiovpn.my.id/
 196332, 2024-07-20 15:29:18, 2024-07-20 15:29:18, malware, 3bd787fe4dbf4c5bbe4660110c9e79b9, http://61.52.157.52:45619/Mozi.m
 196331, 2024-07-20 15:29:11, 2024-07-20 15:29:11, malware, fa9acb5103d64e6d85462d51d5a12ed7, http://61.3.90.131:47547/bin.sh
 196330, 2024-07-20 15:28:06, 2024-07-20 15:28:06, malware, 46da4ef2edc0420ea627099ec18c76be, http://59.93.180.50:47483/Mozi.m
@@ -497,15 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 195847, 2024-07-20 03:22:26, 2024-07-20 03:22:26, malware, 7f45a4cfe8ae4ed28247ac5dc16fd35a, http://59.89.192.222:51254/i
 195846, 2024-07-20 03:22:24, 2024-07-20 03:22:24, malware, b0cfcddc317b43ac9379f82b42c33b12, http://59.184.242.173:35922/Mozi.m
 195845, 2024-07-20 03:22:22, 2024-07-20 03:22:22, malware, 143f5dac00c54f9594362237b11c019a, http://42.239.229.219:41551/i
-195844, 2024-07-20 03:22:21, 2024-07-20 03:22:21, malware, 4ad016814ac547be9daa5311ae0ad7db, http://36.104.221.166:53651/bin.sh
-195843, 2024-07-20 03:22:18, 2024-07-20 03:22:18, malware, 9e7656ff0c2b4bfda58abc7f0399da96, http://27.215.48.241:47738/
-195842, 2024-07-20 03:22:17, 2024-07-20 03:22:17, malware, c9074e7f5a234c3999dbe446a7165282, http://222.137.42.198:59739/i
-195841, 2024-07-20 03:22:15, 2024-07-20 03:22:15, malware, 79575e9caec243e3b814a15294968ca2, http://219.157.202.241:56009/bin.sh
-195840, 2024-07-20 03:22:14, 2024-07-20 03:22:14, malware, 83a8d01df99f4f4fbcb793e5553adc1e, http://185.196.10.57/selectex-file-host/gold.exe
-195839, 2024-07-20 03:22:12, 2024-07-20 03:22:12, malware, 84295a1ac26f4c1dad89dbe7b11675a4, http://182.127.152.68:38612/bin.sh
-195838, 2024-07-20 03:22:11, 2024-07-20 03:22:11, malware, 7ca9f283db4248f3b4c5da578ee63094, http://182.116.118.161:57856/i
-195837, 2024-07-20 03:22:09, 2024-07-20 03:22:09, malware, 91f5abca806f4036a101ba7ac4c575f2, http://125.45.59.239:54140/Mozi.m
-195836, 2024-07-20 03:22:07, 2024-07-20 03:22:07, malware, 6397956cd37849719c61add3faeede95, http://125.45.10.228:59395/Mozi.m
-195835, 2024-07-20 03:22:02, 2024-07-20 03:22:02, malware, 13c1823e8ed0423688800f44549046a3, http://125.41.1.49:37447/Mozi.m
-195834, 2024-07-20 03:22:00, 2024-07-20 03:22:00, malware, 5f47548ac8c14bb387724f991cfc45eb, http://123.8.163.92:52439/bin.sh
-195833, 2024-07-20 03:21:58, 2024-07-20 03:21:58, malware, f6e3e3b509b2414389ef79c9ae5214d9, http://120.61.199.120:56629/i
