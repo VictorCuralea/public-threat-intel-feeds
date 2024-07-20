@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-07-19 15:52:01 UTC                        #
+# Last updated: 2024-07-20 07:30:38 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	fyn001.ddns.net
 127.0.0.1	magaanthem.com
 127.0.0.1	geotravelsgi.xyz
 127.0.0.1	wilderglamour.com
@@ -7278,4 +7279,4 @@
 127.0.0.1	kstz5.cn
 127.0.0.1	vpn637782190.softether.net
 127.0.0.1	cloudflairly.com
-# Number of entries: 7272
+# Number of entries: 7273
