@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-20 20:00:01 UTC
+# UPDATE: 2024-07-20 21:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+196406, 2024-07-20 20:50:28, 2024-07-20 20:50:28, phishing, 9f0f90392ec478fded4604e37ab27d55, http://bsdfwegwe2.pages.dev
+196405, 2024-07-20 20:36:13, 2024-07-20 20:36:13, phishing, d5b25ac06edb44c614cd79b245af992b, http://hyggso.hbwym.com
+196404, 2024-07-20 20:30:15, 2024-07-20 20:30:15, phishing, 5eff1f544c9742341f5ee1786a6c072c, http://avenoneripple.pages.dev
 196403, 2024-07-20 19:50:11, 2024-07-20 19:50:11, phishing, 46c3f9a62dd7973f808e46e5f91cd1dd, http://guhguy4.pages.dev
 196402, 2024-07-20 19:32:19, 2024-07-20 19:32:19, phishing, 321b64e5719de365271c6e4e2252a001, http://awssgg.atomic.my.id
 196401, 2024-07-20 19:12:10, 2024-07-20 19:12:10, phishing, e2f099230a236ae5b4df52007841a82c, http://xxxdatingsexx.pages.dev
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 195909, 2024-07-20 05:24:32, 2024-07-20 05:24:32, malware, 7b82073e36a64589a005f475f5986f8e, http://125.47.84.116:34789/bin.sh
 195908, 2024-07-20 05:24:30, 2024-07-20 05:24:30, malware, fcc108b5ce2c4877b68f641b8d4cfe91, http://125.47.62.34:43296/bin.sh
 195907, 2024-07-20 05:24:18, 2024-07-20 05:24:18, malware, 1f484237966e4076970c5b5172cc47e5, http://125.41.221.181:60857/i
-195906, 2024-07-20 05:24:16, 2024-07-20 05:24:16, malware, bacf373b06784016a1f6febdff737763, http://125.40.128.233:45473/i
-195905, 2024-07-20 05:24:14, 2024-07-20 05:24:14, malware, ff852bce84314852a34a35cf28f39722, http://123.4.48.209:42121/bin.sh
-195904, 2024-07-20 05:24:13, 2024-07-20 05:24:13, malware, 4f65aac78cd94135aa1c095ee32192f6, http://123.14.197.250:34394/Mozi.m
