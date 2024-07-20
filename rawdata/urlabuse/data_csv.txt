@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-20 08:00:01 UTC
+# UPDATE: 2024-07-20 09:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+195995, 2024-07-20 08:54:15, 2024-07-20 08:54:15, phishing, 95c7b7ca3d66f895e41461f4706ac6f1, http://fsghixjksytgxbvslwoiystwvhaywush02.pages.dev
+195994, 2024-07-20 08:38:14, 2024-07-20 08:38:14, phishing, 5c3ebed315cd1adb3126b4ab93d01697, http://airdropmanta.pages.dev
+195993, 2024-07-20 08:16:15, 2024-07-20 08:16:15, phishing, f3d1bb4f460db58423c5a1e19f67b3d7, http://mantairdrop.pages.dev
 195992, 2024-07-20 07:44:24, 2024-07-20 07:44:24, phishing, 4ac2e9a3df379ac6e6fe2c376bb64f00, https://sco.ubp.mybluehost.me/ch/
 195991, 2024-07-20 07:32:13, 2024-07-20 07:32:13, phishing, 288f128caa8441cbcf4e5c40b89bb834, http://56r6t656tr55.pages.dev
 195990, 2024-07-20 07:28:22, 2024-07-20 07:28:22, malware, 49d6b79de5c64482a74ea45a1d7c8cd1, http://79.137.192.15/FirstZ.exe
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 195498, 2024-07-19 16:28:14, 2024-07-19 16:28:14, malware, 3be1d089222f47618d332ebb00e9071c, http://42.224.65.56:57403/
 195497, 2024-07-19 16:28:11, 2024-07-19 16:28:11, malware, 9690f2c9ee8c42cf8bdd8466cd696068, http://222.138.181.178:58708/
 195496, 2024-07-19 16:28:09, 2024-07-19 16:28:09, malware, 5fb9cf1c3413455cbfa5633ab33a9d1b, http://222.138.127.49:43683/
-195495, 2024-07-19 16:28:08, 2024-07-19 16:28:08, malware, 8d3ffa1815ce4ef486946ae11f01d2e2, http://221.15.185.42:54756/bin.sh
-195494, 2024-07-19 16:27:56, 2024-07-19 16:27:56, malware, 5e5510951ea643f285ee7d5372df5604, http://219.155.73.114:56904/i
-195493, 2024-07-19 16:27:35, 2024-07-19 16:27:35, malware, 9315b5ae7db04d859c1ba0121c710316, http://200.91.207.83:55855/i
