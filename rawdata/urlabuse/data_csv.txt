@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-21 00:00:02 UTC
+# UPDATE: 2024-07-21 01:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+196425, 2024-07-21 00:58:19, 2024-07-21 00:58:19, phishing, da0d4ff5e84e960c84948ec71ba568d1, http://offtest.pages.dev
+196424, 2024-07-21 00:36:17, 2024-07-21 00:36:17, phishing, d121d79a500f97c20db102617f1f5dd3, http://sparkling-snow-2928.svome.workers.dev
+196423, 2024-07-21 00:34:16, 2024-07-21 00:34:16, phishing, 05245f27e425e45b2747c34d18cdf7b6, http://off1.pages.dev
+196422, 2024-07-21 00:22:11, 2024-07-21 00:22:11, phishing, 3bf1eb8efeaed6534ac3815d6b6d7d3d, http://oluwanimodupeeyenwwnnemmaduakwanaguzimuchinekennao.pages.dev
 196421, 2024-07-20 23:58:10, 2024-07-20 23:58:10, phishing, 2c6abf4b0120bcb6d2095411c4539436, http://agricole-marac.pages.dev
 196420, 2024-07-20 23:40:14, 2024-07-20 23:40:14, phishing, bac0aaa25dc0be7559e57bdab571268d, http://magahatokesclaims.pages.dev
 196419, 2024-07-20 23:10:14, 2024-07-20 23:10:14, phishing, 0a12808a92cc9c77bec2bdeae7013669, http://multiplyxclick.pages.dev
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 195928, 2024-07-20 05:29:28, 2024-07-20 05:29:28, malware, ad89ff5685744072a3aad1c6f92675a7, http://61.53.45.105:54152/Mozi.a
 195927, 2024-07-20 05:29:26, 2024-07-20 05:29:26, malware, 454f751f40e44c82b34b8db328908f4b, http://61.53.221.250:38243/i
 195926, 2024-07-20 05:29:24, 2024-07-20 05:29:24, malware, 19d172c1bce74fe2b5eaa80e325258a7, http://61.3.87.19:45554/Mozi.m
-195925, 2024-07-20 05:29:22, 2024-07-20 05:29:22, malware, 50f28c1778824a8eabbbb507cf8ebd26, http://61.3.209.52:40894/bin.sh
-195924, 2024-07-20 05:29:00, 2024-07-20 05:29:00, malware, a356a85e3002438aad0ec0f3fc0f2740, http://59.93.183.179:53753/Mozi.m
-195923, 2024-07-20 05:28:58, 2024-07-20 05:28:58, malware, 356b04555f7c4a5ebd1ce0aab3960578, http://59.93.149.90:52934/bin.sh
-195922, 2024-07-20 05:28:41, 2024-07-20 05:28:41, malware, 61b31296b60d4e519be493066749f759, http://59.91.94.203:53349/Mozi.m
