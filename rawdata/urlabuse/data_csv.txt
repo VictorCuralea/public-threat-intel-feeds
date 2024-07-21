@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-21 05:00:01 UTC
+# UPDATE: 2024-07-21 06:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+196447, 2024-07-21 05:34:13, 2024-07-21 05:34:13, phishing, f46c229193d1719e855adc2947ec6521, http://optiscore.com
+196446, 2024-07-21 05:32:12, 2024-07-21 05:32:12, phishing, c6e2fae5069276e97a3cf8e629aef302, http://gay-commuity.t3le-4pp.com
+196445, 2024-07-21 05:02:13, 2024-07-21 05:02:13, phishing, 9b7c9a8c6ef18fad5f369bd1e85e1e3b, http://solitary-sea-f972.mmiloud.workers.dev
 196444, 2024-07-21 04:06:29, 2024-07-21 04:06:29, phishing, c1128cf69ba235f38e3f6e4c2ce5d0c2, http://telegrmal.fit/
 196443, 2024-07-21 04:06:26, 2024-07-21 04:06:26, phishing, 6c14bfc3992f7852a8550f61be0d237b, http://telegral.fit/
 196442, 2024-07-21 04:06:07, 2024-07-21 04:06:07, phishing, 3650dfee4ce63819c5fe3da8c5087661, https://csb-wefow2.netlify.app/
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 195950, 2024-07-20 07:21:52, 2024-07-20 07:21:52, malware, 7a9fe59cef49481682762e2bda415e0b, http://117.208.143.178:38846/i
 195949, 2024-07-20 07:21:48, 2024-07-20 07:21:48, malware, 84b7ea870f894346b0ddc8ba6a7595a5, http://117.208.143.178:38846/bin.sh
 195948, 2024-07-20 07:21:38, 2024-07-20 07:21:38, malware, 437e45dc13c8408191f513a40df84cbb, http://117.207.24.15:55078/i
-195947, 2024-07-20 07:21:37, 2024-07-20 07:21:37, malware, cd89b9d9c2cf47a8a339c89c80113f78, http://117.206.75.225:60448/Mozi.m
-195946, 2024-07-20 07:21:24, 2024-07-20 07:21:24, malware, 2467850f8ab948d388d14f24925bea81, http://117.206.129.79:49383/i
-195945, 2024-07-20 07:21:00, 2024-07-20 07:21:00, malware, 4e6a49fce84f4bada88f7c0e69c92dd9, http://117.196.174.162:60666/i
