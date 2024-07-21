@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-20 23:00:01 UTC
+# UPDATE: 2024-07-21 00:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+196421, 2024-07-20 23:58:10, 2024-07-20 23:58:10, phishing, 2c6abf4b0120bcb6d2095411c4539436, http://agricole-marac.pages.dev
+196420, 2024-07-20 23:40:14, 2024-07-20 23:40:14, phishing, bac0aaa25dc0be7559e57bdab571268d, http://magahatokesclaims.pages.dev
+196419, 2024-07-20 23:10:14, 2024-07-20 23:10:14, phishing, 0a12808a92cc9c77bec2bdeae7013669, http://multiplyxclick.pages.dev
 196418, 2024-07-20 22:50:16, 2024-07-20 22:50:16, phishing, e2f494c173c2b12f3bc98fdadb5a5f7f, http://smartprotocols.pages.dev
 196417, 2024-07-20 22:46:13, 2024-07-20 22:46:13, phishing, 00228c7fa045c52d62c5fe89a2e1eb7e, http://whatsappme-6dr.pages.dev
 196416, 2024-07-20 22:30:14, 2024-07-20 22:30:14, phishing, 071d9d6fbd1366fe1c000b44ee02b4f0, http://livemigraznoweasn.pages.dev
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 195924, 2024-07-20 05:29:00, 2024-07-20 05:29:00, malware, a356a85e3002438aad0ec0f3fc0f2740, http://59.93.183.179:53753/Mozi.m
 195923, 2024-07-20 05:28:58, 2024-07-20 05:28:58, malware, 356b04555f7c4a5ebd1ce0aab3960578, http://59.93.149.90:52934/bin.sh
 195922, 2024-07-20 05:28:41, 2024-07-20 05:28:41, malware, 61b31296b60d4e519be493066749f759, http://59.91.94.203:53349/Mozi.m
-195921, 2024-07-20 05:28:39, 2024-07-20 05:28:39, malware, 5718551cbde0486787c7f9bc3e9b717f, http://59.88.4.184:50478/Mozi.m
-195920, 2024-07-20 05:28:37, 2024-07-20 05:28:37, malware, aa503ef2ea4a4935bdb360d67c2d34ec, http://59.183.116.164:49037/bin.sh
-195919, 2024-07-20 05:28:27, 2024-07-20 05:28:27, malware, 043bcd2be49945d2bc4965db2e625ba6, http://42.231.95.44:49299/i
