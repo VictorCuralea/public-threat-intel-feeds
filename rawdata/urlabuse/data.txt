@@ -6,8 +6,11 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-21 12:00:01 UTC
+# UPDATE: 2024-07-21 13:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 196494, "url": "http://launchpadsapps.pages.dev", "discovery": "2024-07-21 12:46:15", "added": "2024-07-21 12:46:15", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "d8a91fee73015056e6efb2386f55ab5d"}
+{"id": 196493, "url": "http://restormedicine.pages.dev", "discovery": "2024-07-21 12:44:12", "added": "2024-07-21 12:44:12", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "31ca999bef0214e9d032ca015849023b"}
+{"id": 196492, "url": "http://xrpcmainadpp.pages.dev", "discovery": "2024-07-21 12:24:13", "added": "2024-07-21 12:24:13", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "436394d12487048ae0995e4d98674efb"}
 {"id": 196491, "url": "https://www.dropbox.com/scl/fi/zxqqk285lgygw49fx2ygf/BT-VOICE-NOTIFICATION.papert?rlkey=xedcvkevbh92kzs0q76ostp6p", "discovery": "2024-07-21 11:04:14", "added": "2024-07-21 11:31:24", "target": "BT", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "3c5eca4652f5c26e09e0789514ec5805"}
 {"id": 196490, "url": "http://42.234.97.188:42207/bin.sh", "discovery": "2024-07-21 11:20:18", "added": "2024-07-21 11:20:18", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "da60d89e23f042ec9673d55bb2c8ce5e"}
 {"id": 196489, "url": "http://31.14.57.173:38182/i", "discovery": "2024-07-21 11:20:16", "added": "2024-07-21 11:20:16", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "6c66ea79f0b744ef84352c7abc6f824f"}
@@ -505,6 +508,3 @@
 {"id": 195997, "url": "http://112.232.217.248:52535/bin.sh", "discovery": "2024-07-20 09:20:17", "added": "2024-07-20 09:20:17", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "2cde5c4eafac4389932b7c2becdbd376"}
 {"id": 195996, "url": "http://gjsoiuehgdugenlsdisjhewas01.pages.dev", "discovery": "2024-07-20 09:00:11", "added": "2024-07-20 09:00:11", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "b2bbad1d761ce4f4ae548a8bc0deb3d8"}
 {"id": 195995, "url": "http://fsghixjksytgxbvslwoiystwvhaywush02.pages.dev", "discovery": "2024-07-20 08:54:15", "added": "2024-07-20 08:54:15", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "95c7b7ca3d66f895e41461f4706ac6f1"}
-{"id": 195994, "url": "http://airdropmanta.pages.dev", "discovery": "2024-07-20 08:38:14", "added": "2024-07-20 08:38:14", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "5c3ebed315cd1adb3126b4ab93d01697"}
-{"id": 195993, "url": "http://mantairdrop.pages.dev", "discovery": "2024-07-20 08:16:15", "added": "2024-07-20 08:16:15", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "f3d1bb4f460db58423c5a1e19f67b3d7"}
-{"id": 195992, "url": "https://sco.ubp.mybluehost.me/ch/", "discovery": "2024-07-20 07:44:24", "added": "2024-07-20 07:44:24", "target": "CH-GOV", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "4ac2e9a3df379ac6e6fe2c376bb64f00"}

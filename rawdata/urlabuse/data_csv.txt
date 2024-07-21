@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-21 12:00:01 UTC
+# UPDATE: 2024-07-21 13:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+196494, 2024-07-21 12:46:15, 2024-07-21 12:46:15, phishing, d8a91fee73015056e6efb2386f55ab5d, http://launchpadsapps.pages.dev
+196493, 2024-07-21 12:44:12, 2024-07-21 12:44:12, phishing, 31ca999bef0214e9d032ca015849023b, http://restormedicine.pages.dev
+196492, 2024-07-21 12:24:13, 2024-07-21 12:24:13, phishing, 436394d12487048ae0995e4d98674efb, http://xrpcmainadpp.pages.dev
 196491, 2024-07-21 11:31:24, 2024-07-21 11:04:14, phishing, 3c5eca4652f5c26e09e0789514ec5805, https://www.dropbox.com/scl/fi/zxqqk285lgygw49fx2ygf/BT-VOICE-NOTIFICATION.papert?rlkey=xedcvkevbh92kzs0q76ostp6p
 196490, 2024-07-21 11:20:18, 2024-07-21 11:20:18, malware, da60d89e23f042ec9673d55bb2c8ce5e, http://42.234.97.188:42207/bin.sh
 196489, 2024-07-21 11:20:16, 2024-07-21 11:20:16, malware, 6c66ea79f0b744ef84352c7abc6f824f, http://31.14.57.173:38182/i
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 195997, 2024-07-20 09:20:17, 2024-07-20 09:20:17, malware, 2cde5c4eafac4389932b7c2becdbd376, http://112.232.217.248:52535/bin.sh
 195996, 2024-07-20 09:00:11, 2024-07-20 09:00:11, phishing, b2bbad1d761ce4f4ae548a8bc0deb3d8, http://gjsoiuehgdugenlsdisjhewas01.pages.dev
 195995, 2024-07-20 08:54:15, 2024-07-20 08:54:15, phishing, 95c7b7ca3d66f895e41461f4706ac6f1, http://fsghixjksytgxbvslwoiystwvhaywush02.pages.dev
-195994, 2024-07-20 08:38:14, 2024-07-20 08:38:14, phishing, 5c3ebed315cd1adb3126b4ab93d01697, http://airdropmanta.pages.dev
-195993, 2024-07-20 08:16:15, 2024-07-20 08:16:15, phishing, f3d1bb4f460db58423c5a1e19f67b3d7, http://mantairdrop.pages.dev
-195992, 2024-07-20 07:44:24, 2024-07-20 07:44:24, phishing, 4ac2e9a3df379ac6e6fe2c376bb64f00, https://sco.ubp.mybluehost.me/ch/
