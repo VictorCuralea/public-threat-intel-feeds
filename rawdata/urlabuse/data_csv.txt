@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-21 08:00:01 UTC
+# UPDATE: 2024-07-21 09:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+196464, 2024-07-21 08:04:04, 2024-07-21 07:42:13, phishing, 5bc38a8f635a312fd889a3889fa0a0d6, https://dca72e5f98.nxcli.io/rechnung/?token=
+196463, 2024-07-21 08:03:38, 2024-07-21 07:42:13, phishing, a6a3acf3b137486c319782741c695f05, https://netdfsdfsd.blogspot.com/
+196462, 2024-07-21 08:00:15, 2024-07-21 08:00:15, phishing, 75bea2413f2b6ad166677d002089c66a, http://od.475483076.workers.dev
 196461, 2024-07-21 07:54:10, 2024-07-21 07:54:10, phishing, 442f15dbadca7ce81ce113ff59a779fc, http://uchukutupepperdemobolanleshsshegenawetinudeow.pages.dev
 196460, 2024-07-21 07:44:14, 2024-07-21 07:44:14, phishing, 9140103b1adc39b19cf185489e7ca851, https://mmj.jln.mybluehost.me/ch/SWSP/index.php
 196459, 2024-07-21 07:42:20, 2024-07-21 07:42:20, phishing, 028cd7ca7973324578d59abbb23a0810, https://ucv.jxc.mybluehost.me/SBB/sbb.ch/index/
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 195967, 2024-07-20 07:25:27, 2024-07-20 07:25:27, malware, 8564e239f7744a819da0e69a907dfb5c, http://123.12.24.25:39987/Mozi.m
 195966, 2024-07-20 07:25:05, 2024-07-20 07:25:05, malware, 17213ff23bf9473891be19d63de3a5eb, http://120.211.70.4:53809/i
 195965, 2024-07-20 07:25:03, 2024-07-20 07:25:03, malware, 9fd9ff4eba3e4688ba7118952e4db916, http://119.179.214.83:60811/i
-195964, 2024-07-20 07:25:02, 2024-07-20 07:25:02, malware, 463a1cd5550748758eea8d8ff65e51b2, http://119.179.214.83:60811/bin.sh
-195963, 2024-07-20 07:25:00, 2024-07-20 07:25:00, malware, 666bc91b4ded42feab896bd4d21703de, http://119.178.222.46:51079/i
-195962, 2024-07-20 07:24:57, 2024-07-20 07:24:57, malware, 3a91f406c83d4df49fb3073c87b36589, http://119.178.222.46:51079/bin.sh
