@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-07-20 14:41:46 UTC                        #
+# Last updated: 2024-07-21 16:46:01 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	vector.mineheaven.org
+127.0.0.1	multipleonlinegahiddenzonline.organiccrap.com
+127.0.0.1	welovebadge.com
 127.0.0.1	jesusgabrielahumadalora09.con-ip.com
 127.0.0.1	fyn001.ddns.net
 127.0.0.1	magaanthem.com
@@ -7239,5 +7242,4 @@
 127.0.0.1	ns2.triumphp.com
 127.0.0.1	ns1.triumphp.com
 127.0.0.1	heiyejiang.tpddns.cn
-127.0.0.1	sys.tcc-internal.com
-# Number of entries: 7234
+# Number of entries: 7236
