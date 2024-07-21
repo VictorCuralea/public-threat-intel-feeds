@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-21 14:00:01 UTC
+# UPDATE: 2024-07-21 15:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+196517, 2024-07-21 14:20:11, 2024-07-21 14:20:11, phishing, 27a296b892de7e9593987d649619b126, https://getbuy.pk/ch/index.php
 196516, 2024-07-21 13:52:11, 2024-07-21 13:52:11, phishing, e6be8f365c3396e06a37931d1adfe8d0, http://mail.cenkakmaztr.com
 196515, 2024-07-21 13:46:16, 2024-07-21 13:46:16, phishing, 79de0ce7f0f962bb726cf775d7a6e635, http://satellite-doge1.pages.dev
 196514, 2024-07-21 13:41:27, 2024-07-21 13:38:16, phishing, 669613194ec84e0b229f9d8084cc009f, https://twint.ch-7w6.lat/de/pay/35920?type=2
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 196020, 2024-07-20 09:22:30, 2024-07-20 09:22:30, malware, 93bd35453b3e457091928e32210c0b90, http://117.206.190.55:44242/Mozi.m
 196019, 2024-07-20 09:22:17, 2024-07-20 09:22:17, malware, e5c3d225b20340d49737c40c43715412, http://117.205.56.68:41362/bin.sh
 196018, 2024-07-20 09:21:52, 2024-07-20 09:21:52, malware, 98ca6d0364ff4d5080595d832ed6c8c1, http://117.195.242.188:41904/i
-196017, 2024-07-20 09:21:28, 2024-07-20 09:21:28, malware, 51d8c3c86b994ed5a4a7572349164bc0, http://115.62.6.191:41957/Mozi.m
