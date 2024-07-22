@@ -6,9 +6,41 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-22 00:00:01 UTC
+# UPDATE: 2024-07-22 01:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+196975, 2024-07-22 00:38:15, 2024-07-22 00:38:15, phishing, 8f9bd54f84a1269ccd8e9e1edcfb86f8, http://migrate-roseon.pages.dev
+196974, 2024-07-22 00:26:14, 2024-07-22 00:26:14, phishing, 24977a18e137ebef93b9773ee6c804a6, http://nodedapps-ypredict.pages.dev
+196973, 2024-07-22 00:24:51, 2024-07-22 00:24:51, malware, ec282078d6894c1a83e340fe35aeaee7, http://91.92.246.18/bins/hoho.m68k
+196972, 2024-07-22 00:24:51, 2024-07-22 00:24:51, malware, c542ab6188454398b5bfc04147c0e3fb, http://91.92.246.18/bins/hoho.i486
+196971, 2024-07-22 00:24:50, 2024-07-22 00:24:50, malware, 33e28cc9b24a4b62ad91636be73be651, http://91.92.246.18/bins/hoho.arm7
+196970, 2024-07-22 00:24:49, 2024-07-22 00:24:49, malware, 3c2cda654f5b4af58620494ecf2f3d36, http://91.92.246.18/bins/hoho.arm5
+196969, 2024-07-22 00:24:49, 2024-07-22 00:24:49, malware, de503d908082459c86f64f434fce86f6, http://91.92.246.18/bins/hoho.arm4
+196968, 2024-07-22 00:24:48, 2024-07-22 00:24:48, malware, 47937ec7b0f44b90b0f3c3907102df5a, http://91.92.246.18/bins/hoho.arc
+196967, 2024-07-22 00:24:48, 2024-07-22 00:24:48, malware, 4bfe2db78f1d4d82acf6ac924ed8b04f, http://89.147.111.100:8080/aN7jD0qO6kT5bK5bQ4eR8fE1xP7hL2vK/vcruntime140.dll
+196966, 2024-07-22 00:24:47, 2024-07-22 00:24:47, malware, 465a70c4491b4151af15d11aa06ed19f, http://89.147.111.100:8080/aN7jD0qO6kT5bK5bQ4eR8fE1xP7hL2vK/sqlite3.dll
+196965, 2024-07-22 00:24:27, 2024-07-22 00:24:27, malware, 1500e92020ea4b04bbbf3e8b136dacd9, http://89.147.111.100:8080/aN7jD0qO6kT5bK5bQ4eR8fE1xP7hL2vK/msvcp140.dll
+196964, 2024-07-22 00:24:20, 2024-07-22 00:24:20, malware, 5c1f13d60965486f843eb814c604f687, http://86.106.119.113/aN7jD0qO6kT5bK5bQ4eR8fE1xP7hL2vK/vcruntime140.dll
+196963, 2024-07-22 00:24:20, 2024-07-22 00:24:20, malware, ea3255b3b84f4beea16b3d329ed4c2b2, http://86.106.119.113/aN7jD0qO6kT5bK5bQ4eR8fE1xP7hL2vK/sqlite3.dll
+196962, 2024-07-22 00:23:59, 2024-07-22 00:23:59, malware, fc404a1e62b2447eab79a7703caa87b1, http://86.106.119.113/aN7jD0qO6kT5bK5bQ4eR8fE1xP7hL2vK/msvcp140.dll
+196961, 2024-07-22 00:23:53, 2024-07-22 00:23:53, malware, 96267d062426415f9c6bf798b99c0849, http://85.28.47.116/aN7jD0qO6kT5bK5bQ4eR8fE1xP7hL2vK/vcruntime140.dll
+196960, 2024-07-22 00:23:53, 2024-07-22 00:23:53, malware, 3b4bbe8c721445d586e8b2936c4781c2, http://85.28.47.116/aN7jD0qO6kT5bK5bQ4eR8fE1xP7hL2vK/sqlite3.dll
+196959, 2024-07-22 00:23:35, 2024-07-22 00:23:35, malware, 32f5f81940e1454b96d1aee47b4e1d29, http://85.28.47.116/aN7jD0qO6kT5bK5bQ4eR8fE1xP7hL2vK/msvcp140.dll
+196958, 2024-07-22 00:23:07, 2024-07-22 00:23:07, malware, 94348c65e122402092b9fe91b6fe5da7, http://61.54.42.83:55126/i
+196957, 2024-07-22 00:23:05, 2024-07-22 00:23:05, malware, 5bc40323575f43c98dd4afeda24fbb91, http://61.54.42.83:55126/bin.sh
+196956, 2024-07-22 00:23:03, 2024-07-22 00:23:03, malware, 5d1b18e7468d46fe9446c7b34c56a2ee, http://61.52.85.167:49432/i
+196955, 2024-07-22 00:23:02, 2024-07-22 00:23:02, malware, 8301f616fea5487187e55b68bbeee615, http://61.52.157.52:45619/i
+196954, 2024-07-22 00:23:00, 2024-07-22 00:23:00, malware, bbb84774e6f34ef3bf3c964604ab95bc, http://61.52.157.52:45619/bin.sh
+196953, 2024-07-22 00:22:28, 2024-07-22 00:22:28, malware, 904bdd2fc8ea4eb9a67cf7c4ab76a196, http://61.1.240.160:43835/Mozi.m
+196952, 2024-07-22 00:22:26, 2024-07-22 00:22:26, malware, acc340835cd040198bb41e9e71ae3d23, http://60.214.34.20:43132/Mozi.m
+196951, 2024-07-22 00:22:10, 2024-07-22 00:22:10, phishing, dc892a23863d1e6520931a6c5612d808, http://wk.pl
+196950, 2024-07-22 00:22:04, 2024-07-22 00:22:04, malware, 9fa5374721904e57986c1acd23ecb68b, http://59.99.215.143:52934/bin.sh
+196949, 2024-07-22 00:22:02, 2024-07-22 00:22:02, malware, ee60ab0117df43e8b1a978621a6ed419, http://59.99.214.111:46777/Mozi.m
+196948, 2024-07-22 00:22:00, 2024-07-22 00:22:00, malware, 23443e9f12284b6c9b07a1ef18d28506, http://59.99.130.247:34429/Mozi.m
+196947, 2024-07-22 00:21:19, 2024-07-22 00:21:19, malware, ce1f201967e540d1a2ef2604901cb57b, http://59.95.94.101:42108/bin.sh
+196946, 2024-07-22 00:21:17, 2024-07-22 00:21:17, malware, cd909d14b80d4352a1e10e75d561d883, http://59.93.239.157:36064/bin.sh
+196945, 2024-07-22 00:21:15, 2024-07-22 00:21:15, malware, 329f1f92a4894347abc2183496c15df1, http://59.93.18.35:41228/bin.sh
+196944, 2024-07-22 00:21:06, 2024-07-22 00:21:06, malware, 63b34228f85d43f885ef325cd3c8a4c9, http://59.91.82.242:53608/bin.sh
 196943, 2024-07-21 23:34:40, 2024-07-21 23:34:40, malware, 657f614368bb4bacae527438fc7867d9, http://59.184.250.151:52127/Mozi.m
 196942, 2024-07-21 23:34:38, 2024-07-21 23:34:38, malware, fbabb386728c49cd8fe49481113cd76b, http://59.182.138.201:42370/bin.sh
 196941, 2024-07-21 23:34:15, 2024-07-21 23:34:15, malware, 4dc076e6c0034bb58126eaea766d7dad, http://45.139.104.237/d/xd.x86
@@ -477,35 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 196478, 2024-07-21 10:24:13, 2024-07-21 10:24:13, phishing, a360b0d743e0cee16664e8f584766dd0, http://imtokenk.com
 196477, 2024-07-21 10:22:16, 2024-07-21 10:22:16, phishing, 7306050a80fef0ce4915d0bf7d0f197b, http://imtoakan.com
 196476, 2024-07-21 10:04:11, 2024-07-21 10:04:11, phishing, 84c2fe242083937adcde742c62fdbf53, https://fantred.com/
-196475, 2024-07-21 10:03:46, 2024-07-21 10:03:46, phishing, c2a5343a41fb5be5075d70fc9e965a6d, https://ipfs.eth.aragon.network/ipfs/bafkreibjoigvkh75ejawpl3n7lypu4x2mbeofekradwuqrop5a7bhfwk44
-196474, 2024-07-21 10:03:37, 2024-07-21 10:03:37, phishing, 556ecf2290049073cf4d5ce4d4c3ffd2, https://www.fnxx.info/p57c30784i8f074f96i9fb1786e714e5e214.html/
-196473, 2024-07-21 10:03:08, 2024-07-21 10:03:08, phishing, aad1f082900bbb7f52be0fcf44b5141c, https://hetonet.org/sas2sa
-196472, 2024-07-21 10:02:32, 2024-07-21 10:02:32, phishing, dd79b7c5c281655922090e93a157bb85, https://redirectjoyboy3.pages.dev/
-196471, 2024-07-21 10:02:25, 2024-07-21 10:02:25, phishing, 55fb6d3f5d4e47fbbb8c61f8bc6d4c59, https://match-see.ru/inter
-196470, 2024-07-21 10:02:11, 2024-07-21 10:02:11, phishing, e2debcd7b4d586e1753ae4300c1e2e29, https://tg.hispa-net.com/
-196469, 2024-07-21 10:00:12, 2024-07-21 10:00:12, phishing, daa208ba19eefa086735268fc007219c, https://supplieradvisor.ciamlogin.com/3159c7b1-0c6d-42f1-9929-f2bd2daef8bf/oauth2/v2.0/authorize?client_id=24527ed8-70ec-4b3c-9d39-d9e70c6094a4&redirect_uri=https%3A%2F%2Fconsole-dev.supplieradvisor.com%2Fsignin-oidc&response_type=code&scope=openid%20profile%20offline_access&code_challenge=WXJZvQ66qBLZTPs_GwF8MjciKeajP6Sd_4YDjUxNeuY&code_challenge_method=S256&response_mode=form_post&nonce=638571526880359627.ZTE1ZGJiMjEtZmZiYy00M2E3LWIwOTUtNGRlN2ZkNzUyNzc3YWI0MzA3OWEtYTE4Yy00Nzc1LWJkYzYtNDkzZmQ2NWQ1Mjhh&client_info=1&x-client-brkrver=IDWeb.2.20.0.0&state=CfDJ8BRXxx0cgfRDvWlwKdvTsMDN7iSKcUvb7y22nNGj4X7UwIx_yvCWNtKI3lsZJfIAccBvsDgr-4EK5Hd7I1VDcyrtzYIgWTVlxroWV6tIpfDHAkiTjoQq8RAZss9HZb3QIuiPnoGVb6Omih9bDG4Ls0DnarvRKlfCFv0qq0VJh4tytk9wWDMj2_CREjKONa_2PU0eZjOfjQSkRLyPIhGKZKmpknDpVjU3-XO_6S8tFkRa0JxZsPg641unUUMJ6S6lfQ_eDOpbjNXUrOPYWQclVNYVMIxatSlV49lYu3tCwGERxHai3Ff8uX6vv4Yjc8HF0qOnQwJ29iQX_ry_Wo64sQcZVAwBCtz-iAHak5uaBAEBVBHb3gnB_-WER_altwormeKXnJpcEClOW4zTJaogVCA&x-client-SKU=ID_NET8_0&x-client-ver=7.6.0.0
-196468, 2024-07-21 09:58:17, 2024-07-21 09:58:17, phishing, 92bbc4aefef89927c78e9c8d8aefe6a7, http://console-dev.supplieradvisor.com
-196467, 2024-07-21 09:50:13, 2024-07-21 09:50:13, phishing, 3cc4df3afaca857c37c8af4d660844dc, http://authresolver.pages.dev
-196466, 2024-07-21 09:34:16, 2024-07-21 09:34:16, phishing, 152009cb1978b8aac93ff6910e5822a4, http://web.telegbam.org
-196465, 2024-07-21 09:32:13, 2024-07-21 09:32:13, phishing, b171d1741afe7e27dd5f6001204172fb, http://web.hao4.lol
-196464, 2024-07-21 08:04:04, 2024-07-21 07:42:13, phishing, 5bc38a8f635a312fd889a3889fa0a0d6, https://dca72e5f98.nxcli.io/rechnung/?token=
-196463, 2024-07-21 08:03:38, 2024-07-21 07:42:13, phishing, a6a3acf3b137486c319782741c695f05, https://netdfsdfsd.blogspot.com/
-196462, 2024-07-21 08:00:15, 2024-07-21 08:00:15, phishing, 75bea2413f2b6ad166677d002089c66a, http://od.475483076.workers.dev
-196461, 2024-07-21 07:54:10, 2024-07-21 07:54:10, phishing, 442f15dbadca7ce81ce113ff59a779fc, http://uchukutupepperdemobolanleshsshegenawetinudeow.pages.dev
-196460, 2024-07-21 07:44:14, 2024-07-21 07:44:14, phishing, 9140103b1adc39b19cf185489e7ca851, https://mmj.jln.mybluehost.me/ch/SWSP/index.php
-196459, 2024-07-21 07:42:20, 2024-07-21 07:42:20, phishing, 028cd7ca7973324578d59abbb23a0810, https://ucv.jxc.mybluehost.me/SBB/sbb.ch/index/
-196458, 2024-07-21 07:40:20, 2024-07-21 07:40:20, phishing, eaed7f13e41edf6b95ca102efa960b3f, https://mcas.me/spass/login.php
-196457, 2024-07-21 07:40:11, 2024-07-21 07:40:11, phishing, 5f749c5ad656dd22bfcd972733f87642, https://hotel-neptun.ge/m/redirect.html
-196456, 2024-07-21 07:36:13, 2024-07-21 07:36:13, phishing, 89e0b5f22ddc43274cc0534250a0ffc5, http://lkghytfgbnj22.pages.dev
-196455, 2024-07-21 07:16:16, 2024-07-21 07:16:16, phishing, 592a59081bc5463f41972ab5666bfedf, http://mail.grubwatsspp.duckdns.org
-196454, 2024-07-21 07:16:15, 2024-07-21 07:16:15, phishing, 1a51a0709603cc715fa85a71548b53ba, http://grubwatsspp.duckdns.org
-196453, 2024-07-21 07:00:56, 2024-07-21 07:00:56, phishing, de302e7dec2c50be2bcea044360ac750, https://ting1201.asia/a/
-196452, 2024-07-21 07:00:49, 2024-07-21 07:00:49, phishing, eef980d356498355a7e1ce29737e1981, https://premka-uz.buzz/
-196451, 2024-07-21 07:00:38, 2024-07-21 07:00:38, phishing, 64f48f5672507324b449fa786d8a5449, https://teiegrqm.top/
-196450, 2024-07-21 07:00:27, 2024-07-21 07:00:27, phishing, 909e4f0da722a271ec1f857e1219c32d, https://updates.netflix.com.sgvpn.area.biz.id/
-196449, 2024-07-21 07:00:19, 2024-07-21 07:00:19, phishing, f8632be8a042b870fd14a5c8ba22cb04, https://graph.instagram.com.sgvpn.area.biz.id/
-196448, 2024-07-21 07:00:13, 2024-07-21 07:00:13, phishing, 5b7e59a8eb0cc21b3c9bdb9387720ca6, https://ojo-lali-turrr.pages.dev/
-196447, 2024-07-21 05:34:13, 2024-07-21 05:34:13, phishing, f46c229193d1719e855adc2947ec6521, http://optiscore.com
-196446, 2024-07-21 05:32:12, 2024-07-21 05:32:12, phishing, c6e2fae5069276e97a3cf8e629aef302, http://gay-commuity.t3le-4pp.com
-196445, 2024-07-21 05:02:13, 2024-07-21 05:02:13, phishing, 9b7c9a8c6ef18fad5f369bd1e85e1e3b, http://solitary-sea-f972.mmiloud.workers.dev
-196444, 2024-07-21 04:06:29, 2024-07-21 04:06:29, phishing, c1128cf69ba235f38e3f6e4c2ce5d0c2, http://telegrmal.fit/
