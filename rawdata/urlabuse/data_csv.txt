@@ -6,9 +6,14 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-22 17:00:01 UTC
+# UPDATE: 2024-07-22 18:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+197490, 2024-07-22 17:56:14, 2024-07-22 17:56:14, phishing, 779115fc3e72df8b14ee2508af09b96c, https://b13nfz9.myrdbx.io/login/viseca/
+197489, 2024-07-22 17:56:14, 2024-07-22 17:56:14, phishing, d0c34bd87712bec755d92fbd776a8ec0, https://swissone2024.blogspot.com/
+197488, 2024-07-22 17:50:15, 2024-07-22 17:50:15, phishing, 6f8b3c891501d49585f90eed59740fa9, http://infloper.duckdns.org
+197487, 2024-07-22 17:28:12, 2024-07-22 17:28:12, phishing, e099c79b2cfbbb6f33d1b02d858bf689, http://treupassc1lient-m365d0xacesss.d4docusignn.workers.dev
+197486, 2024-07-22 17:02:11, 2024-07-22 17:02:11, phishing, fcdac564a34c6adcb03faeb2976aaf9b, http://lastdelivery.myvnc.com
 197485, 2024-07-22 16:44:21, 2024-07-22 16:41:59, phishing, ce79d60c2e359cb8c7c64256e4352ce2, http://edbia.ir/%f0%9d%93%bc%e2%80%8c%e2%80%8c/
 197484, 2024-07-22 16:42:15, 2024-07-22 16:42:15, phishing, 1f42b5422219b5ea7d68800890481d5f, http://redirected-protocol.pages.dev
 197483, 2024-07-22 16:25:06, 2024-07-22 16:25:06, malware, 3bdc0f503b814567bfefbe6cb7eea830, http://61.53.133.164:44373/i
@@ -504,8 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 196993, 2024-07-22 01:22:32, 2024-07-22 01:22:32, malware, d5802e73ce1d409ba52d79291d55d544, http://117.216.189.23:59944/bin.sh
 196992, 2024-07-22 01:22:30, 2024-07-22 01:22:30, malware, f9b3bb0d37334a6880930a47b19bc6ab, http://117.216.17.2:59619/Mozi.m
 196991, 2024-07-22 01:22:21, 2024-07-22 01:22:21, malware, 17a112006314491cb5ddb0a6c9036fc4, http://117.216.159.83:58411/i
-196990, 2024-07-22 01:22:16, 2024-07-22 01:22:16, malware, 548c6cd7e83e4db1908784d520263ea8, http://117.216.159.83:58411/bin.sh
-196989, 2024-07-22 01:22:15, 2024-07-22 01:22:15, malware, 57a47ddf8a0e45949b585fdad4dbb6d8, http://117.215.223.108:39205/i
-196988, 2024-07-22 01:21:51, 2024-07-22 01:21:51, malware, 697839ea00e340719e7f3e2c2ee0a2a8, http://117.215.220.207:39731/bin.sh
-196987, 2024-07-22 01:21:46, 2024-07-22 01:21:46, malware, 06437eecb00a41c89b4b9c247936517b, http://117.208.216.50:38015/i
-196986, 2024-07-22 01:21:41, 2024-07-22 01:21:41, malware, 3a385601c86e4a2a95d59f6dd429e3ba, http://117.206.189.63:50059/i
