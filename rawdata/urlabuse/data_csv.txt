@@ -6,9 +6,17 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-22 14:00:01 UTC
+# UPDATE: 2024-07-22 15:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+197386, 2024-07-22 14:44:11, 2024-07-22 14:44:11, phishing, 43bad403d78a693e52f809757392e16c, http://scarletmail-rutgers.pages.dev
+197385, 2024-07-22 14:42:23, 2024-07-22 14:28:19, phishing, 55c6956b88625d7b780543b8128e50f8, https://pre-approved.booking-listing-930737.com/en/hotel/lovely-villa-bellagio/1721579112
+197384, 2024-07-22 14:36:11, 2024-07-22 14:36:11, phishing, 9131762451e5e1d5bfed38a910b7855f, http://page-timenhjyjyfc1-ats.pages.dev
+197383, 2024-07-22 14:30:14, 2024-07-22 14:30:14, phishing, 2dda7ad804dbd6051b07c46546f9ef67, http://file-pil.pages.dev
+197382, 2024-07-22 14:22:38, 2024-07-22 14:16:10, phishing, 6f4b28baf09e1fd071b3f3979fb88387, https://postachdey.top/ch/
+197381, 2024-07-22 14:22:17, 2024-07-22 14:22:17, phishing, 4b6901146bbd20c9031edcd8c3f9e655, http://re-accessco.pages.dev
+197380, 2024-07-22 14:18:19, 2024-07-22 14:18:19, phishing, dcffeef86b4cc57894ea580cc0451ec8, http://usps.hikoqmxltvs.top
+197379, 2024-07-22 14:18:13, 2024-07-22 14:18:13, phishing, ce5e580fbfb743074d7914bf368bddd0, http://emdr-pdf.pages.dev
 197378, 2024-07-22 13:51:13, 2024-07-22 12:57:14, phishing, 33fe5a43654a4e5be3cae9c4c28eba43, https://zeniford.com/verifying_email/bapi/composite/v1/private/message/view_bEt=eyJhbGciOiJIUzI1NiJ9.eyJjdCI6ImEiLCJiIjoiMTAwNDU1MDAyOCIsInIiOiJodHRwczovL2FwcC5iaW5hbmNlLmNvbS9lbi9teS9zZXR0aW5ncy9wcm9maWxlP19kcD1MM2RsWW5acFpYY3ZkMlZpZG1sbGR6OTBlWEJsUFdSb/FptRjFiSFFtYm1WbFpFeHZaMmx1UFdaaGJITmxKblZ5YkQxaFNGSXdZMGhOTmt4NU9UTmtNMk4xV1cxc2RWbFhOV3BhVXpWcVlqSXdkbHBYTkhaaVdHdDJZekpXTUdSSGJIVmFNM/live.html
 197377, 2024-07-22 13:50:21, 2024-07-22 13:28:17, phishing, 24ef7c7db8c84f90284f45c0da19def1, https://site-k54cg.powerappsportals.com/microsoft-online-portal-fghfv57657687-787serh-redirect-login-31/#ZXhhbXBsZUBleGFtcGxlLmNvbQ%3D%3D
 197376, 2024-07-22 13:47:17, 2024-07-22 12:36:26, phishing, 4608718d149355026a9a4b7b4803409f, https://authorchristopher.com/Z/login.htm#yahoo@yahoo.com
@@ -501,11 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 196889, 2024-07-21 23:24:12, 2024-07-21 23:24:12, malware, e92fe294cbf749908be2f6611d6c98c3, http://117.219.61.30:58218/Mozi.m
 196888, 2024-07-21 23:23:40, 2024-07-21 23:23:40, malware, efe7b237ff42440f9bca17fa5458ae0c, http://117.216.22.157:42715/bin.sh
 196887, 2024-07-21 23:23:17, 2024-07-21 23:23:17, malware, c1982b349e9742aa8efb71d160fd0609, http://117.213.93.106:53513/Mozi.m
-196886, 2024-07-21 23:23:15, 2024-07-21 23:23:15, malware, a54dc8f7b4bc4e1bafb4639ae1c2f582, http://117.212.219.179:51239/Mozi.m
-196885, 2024-07-21 23:22:32, 2024-07-21 23:22:32, malware, 47f1740f3d96407a805dd2f49036bcb7, http://117.207.157.88:35369/bin.sh
-196884, 2024-07-21 23:22:06, 2024-07-21 23:22:06, malware, 65ac6b897eb14a9cb3353877363adae7, http://117.205.63.73:35459/i
-196883, 2024-07-21 23:22:04, 2024-07-21 23:22:04, malware, 944d1c412a684f46b3045a86b2f5ea64, http://117.205.63.73:35459/bin.sh
-196882, 2024-07-21 23:21:08, 2024-07-21 23:21:08, malware, 87252f962d424e1a8ea406f44d6a8b14, http://117.195.234.105:42275/bin.sh
-196881, 2024-07-21 23:21:06, 2024-07-21 23:21:06, malware, 7bb737299bf94413a6424c19cd69ecee, http://117.194.209.226:46099/i
-196880, 2024-07-21 23:21:04, 2024-07-21 23:21:04, malware, a8c54adebf6a4d2fbe416629748c2d92, http://115.63.33.120:53194/Mozi.m
-196879, 2024-07-21 23:21:02, 2024-07-21 23:21:02, malware, 305642662c2e439c9c35e0f092568245, http://115.59.159.130:34461/i
