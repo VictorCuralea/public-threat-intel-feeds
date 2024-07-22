@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-07-22 09:18:48 UTC                        #
+# Last updated: 2024-07-22 19:43:52 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	linternadc24.duckdns.org
+127.0.0.1	desquare27.duckdns.org
+127.0.0.1	cisadhsgov.org
+127.0.0.1	berrebyre.com
+127.0.0.1	filesoftdownload.shop
 127.0.0.1	lihtgyimm.com
 127.0.0.1	c.cnc.gay
 127.0.0.1	xjp.cyberspeed.baby
@@ -7205,4 +7210,4 @@
 127.0.0.1	duorhytm.fun
 127.0.0.1	epsilon-spaceworld.com
 127.0.0.1	api.su57.fun
-# Number of entries: 7199
+# Number of entries: 7204
