@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-22 06:00:01 UTC
+# UPDATE: 2024-07-22 07:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+197173, 2024-07-22 06:16:15, 2024-07-22 06:16:15, phishing, d94ac02b2ee96e737319f9411539f5ad, http://revaccess.pages.dev
+197172, 2024-07-22 06:08:13, 2024-07-22 06:08:13, phishing, eaa54ad22d1d673ab5217f2d260469b3, http://dapphypgecko.pages.dev
 197171, 2024-07-22 05:40:11, 2024-07-22 05:40:11, phishing, f5d71f5812e03dd2d787b0b0d7420503, http://t.theracan.org
 197170, 2024-07-22 05:37:11, 2024-07-22 04:24:30, phishing, 86ab74ca467538ab20d0d11c2a9304ba, https://swimony.com/wp-includes/net/upload/?email=yahoo@yahoo.com
 197169, 2024-07-22 05:36:11, 2024-07-22 02:04:14, phishing, 2980c1f0f0c3ab81d7853d7741fb0a87, https://mofibasket.com/1234/water/index.html
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 196676, 2024-07-21 19:23:49, 2024-07-21 19:23:49, malware, c7dbce1e16eb44709b1798c4933869a7, http://117.248.161.79:58912/Mozi.m
 196675, 2024-07-21 19:22:36, 2024-07-21 19:22:36, malware, ee68ceeccd6d439fa9482acdd7557eac, http://117.235.119.179:44974/i
 196674, 2024-07-21 19:22:34, 2024-07-21 19:22:34, malware, afe1fe2714514341b81dd2e59d8e5a82, http://117.235.119.179:44974/bin.sh
-196673, 2024-07-21 19:22:12, 2024-07-21 19:22:12, malware, 7f2cac6081be46c99bae3f398cd0245c, http://117.215.222.174:46958/mozi.m
-196672, 2024-07-21 19:22:09, 2024-07-21 19:22:09, malware, 80b0015032894bcaabd352c694c2ef12, http://117.214.12.91:42175/i
