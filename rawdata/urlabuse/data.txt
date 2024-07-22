@@ -6,7 +6,7 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-22 02:00:02 UTC
+# UPDATE: 2024-07-22 03:00:01 UTC
 ############### END COMMENTS ###############
 {"id": 197073, "url": "http://turningpointt.pages.dev", "discovery": "2024-07-22 01:42:11", "added": "2024-07-22 01:42:11", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "265137a7faaeb559dd2de46334376aa4"}
 {"id": 197072, "url": "http://93.123.85.204/bot.x86_64", "discovery": "2024-07-22 01:26:51", "added": "2024-07-22 01:26:51", "target": "#ELF64", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "42a28bda6c91482ca42d4c337636d5c0"}
