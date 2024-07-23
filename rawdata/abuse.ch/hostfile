@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-07-23 08:22:28 UTC                        #
+# Last updated: 2024-07-23 11:32:50 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	components-resort.gl.at.ply.gg
 127.0.0.1	overclockingmachines.info
 127.0.0.1	jdd.nimade.top
 127.0.0.1	trinnodolart.com
@@ -7207,4 +7208,4 @@
 127.0.0.1	macgains.duckdns.org
 127.0.0.1	buy-dnd.shop
 127.0.0.1	service-2o2bxyq2-1308102940.gz.apigw.tencentcs.com
-# Number of entries: 7201
+# Number of entries: 7202
