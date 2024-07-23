@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-07-23 05:52:00 UTC                        #
+# Last updated: 2024-07-23 08:22:28 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	overclockingmachines.info
 127.0.0.1	jdd.nimade.top
 127.0.0.1	trinnodolart.com
 127.0.0.1	linternadc24.duckdns.org
@@ -7208,4 +7209,4 @@
 127.0.0.1	service-2o2bxyq2-1308102940.gz.apigw.tencentcs.com
 127.0.0.1	microsoftwindows.one
 127.0.0.1	jogard.duckdns.org
-# Number of entries: 7202
+# Number of entries: 7203

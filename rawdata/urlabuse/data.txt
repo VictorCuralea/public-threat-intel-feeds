@@ -6,8 +6,13 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-23 08:00:01 UTC
+# UPDATE: 2024-07-23 09:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 198003, "url": "http://e.ake2.cyou", "discovery": "2024-07-23 08:50:16", "added": "2024-07-23 08:50:16", "target": "Whatsapp", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "dadbeaa58e8e4b8a22b5015c170abc15"}
+{"id": 198002, "url": "https://lrt.swq.mybluehost.me/s1/spp/login/", "discovery": "2024-07-23 08:32:12", "added": "2024-07-23 08:34:16", "target": "Spotify", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "ec9b8d3fa747bd6c939b756b304c2bbc"}
+{"id": 198001, "url": "https://digitalclik.it/srs", "discovery": "2024-07-23 08:20:12", "added": "2024-07-23 08:34:00", "target": "SwissPass", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "5cbf58a2dfddada7cc09d44eac57f6cb"}
+{"id": 198000, "url": "http://wesd2-de5.pages.dev", "discovery": "2024-07-23 08:11:44", "added": "2024-07-23 08:11:44", "target": "Amazon", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "c77ed2c143baaf466a2fd632f770742e"}
+{"id": 197999, "url": "http://haker.coinbili.com", "discovery": "2024-07-23 08:06:16", "added": "2024-07-23 08:06:16", "target": "imToken", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "8567d9e7cab5241c827e800592938c6b"}
 {"id": 197998, "url": "https://t.co/Gh7p29EQJ7", "discovery": "2024-07-23 02:50:23", "added": "2024-07-23 07:48:01", "target": "Generic Phishing", "reporter": "anonymous", "AbuseType": "phishing", "UUID": "739eb51c54849b178e46acdf162fa180"}
 {"id": 197997, "url": "https://pub-9204f20e06e047fc844db30aa53e5d5c.r2.dev/index.html", "discovery": "2024-07-23 02:46:16", "added": "2024-07-23 07:45:41", "target": "Microsoft", "reporter": "anonymous", "AbuseType": "phishing", "UUID": "668246a4ecf8646198daccfd836c5d97"}
 {"id": 197996, "url": "https://t.co/8TZqF4WioB", "discovery": "2024-07-23 02:42:20", "added": "2024-07-23 07:44:43", "target": "Microsoft", "reporter": "anonymous", "AbuseType": "phishing", "UUID": "3605e4e59c3d639bb15bcd7e691cdac6"}
@@ -503,8 +508,3 @@
 {"id": 197506, "url": "https://maskdwv.free.nf/?i=1", "discovery": "2024-07-22 19:04:59", "added": "2024-07-22 19:04:59", "target": "Microsoft", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "8508242c2e100499c1166b4908976ba8"}
 {"id": 197505, "url": "http://samnong.co.kr/data/member/config/login.php", "discovery": "2024-07-22 19:04:56", "added": "2024-07-22 19:04:56", "target": "Microsoft", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "c1f8a7b7f7ff7dca555a3ef588088e23"}
 {"id": 197504, "url": "http://kog.pages.dev", "discovery": "2024-07-22 19:04:12", "added": "2024-07-22 19:04:12", "target": "Yahoo!", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "8e02a6bfe195db58a2ca89c5756658b8"}
-{"id": 197503, "url": "http://jhgfderewazxcfdrtyuikjhtgbvftyhgvcdedcvbnjygfdwedxzxfghbv1.pages.dev", "discovery": "2024-07-22 18:50:10", "added": "2024-07-22 18:50:10", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "b727d3fba5159ef910716f31790c642e"}
-{"id": 197502, "url": "http://7z3-iyzdk1raj3tpjisqgrgah0nn-0763xsqv8acz-gib4sa1qro5k-6o1.pages.dev", "discovery": "2024-07-22 18:46:14", "added": "2024-07-22 18:46:14", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "2f9e8872886ef68ebd142b111010e6ef"}
-{"id": 197501, "url": "https://postachde.top/ch/", "discovery": "2024-07-22 17:56:19", "added": "2024-07-22 18:26:41", "target": "SwissPost", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "0b9df911cb2183bfd62e531174bb7428"}
-{"id": 197500, "url": "https://login-svvisspass.eu/sbb/pass/eb23c/", "discovery": "2024-07-22 17:54:12", "added": "2024-07-22 18:26:27", "target": "SwissPass", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "1b672d87c411a58af872dbdad10d00c8"}
-{"id": 197499, "url": "https://konkreta.com.br/sxxs", "discovery": "2024-07-22 17:54:12", "added": "2024-07-22 18:26:17", "target": "SwissPass", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "7b2bf4e983c317054818efc5ba25515e"}
