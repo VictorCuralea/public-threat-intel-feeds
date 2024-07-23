@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-23 14:00:01 UTC
+# UPDATE: 2024-07-23 15:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+198240, 2024-07-23 14:56:15, 2024-07-23 14:56:15, phishing, b384c89b6c17a37734662a1e8874775a, http://services-renouvellement.com
+198239, 2024-07-23 14:56:13, 2024-07-23 14:56:13, phishing, 30ba31ea69e38118078a4e5b1ab9a55a, https://wevercomemailbx.weebly.com/
+198238, 2024-07-23 14:32:12, 2024-07-23 14:32:12, phishing, 533f00938f73928a2fb586b1a23c7350, http://grupoacert.gallera.net
+198237, 2024-07-23 14:28:13, 2024-07-23 14:28:13, phishing, 9fff0a7766aa550a044b65b776a926ab, http://tgpremkokz.store
 198236, 2024-07-23 13:49:04, 2024-07-23 13:36:14, phishing, bee9eca8e395d11cdb1bdfe9fd46ddd5, https://keepo.io/mifsfdeftoutlook/
 198235, 2024-07-23 13:47:58, 2024-07-23 13:36:12, phishing, 3f8f1a0047f1c04aed9e46662ef148ba, https://mailseoutlooookdrivreety.s3.us-east-005.backblazeb2.com/glogin.html
 198234, 2024-07-23 13:43:37, 2024-07-23 13:30:15, phishing, b0fd20bbfd88c6906b3b21f5d9d5d5a7, https://jimrwhitelaw.wixsite.com/my-site-1
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 197743, 2024-07-23 00:22:08, 2024-07-23 00:22:08, malware, bbf3897ec0ce43c6840d600173f8061e, http://59.99.210.168:43486/i
 197742, 2024-07-23 00:21:52, 2024-07-23 00:21:52, malware, 2458f4c4166b406b95843e1acc0ec922, http://59.99.135.55:57891/bin.sh
 197741, 2024-07-23 00:21:46, 2024-07-23 00:21:46, malware, 2da27d7cb5bb4b1189a121571b483f9b, http://59.99.131.52:41228/i
-197740, 2024-07-23 00:21:44, 2024-07-23 00:21:44, malware, fa84d424c96e49b29eaae27d51a0762a, http://59.99.131.52:41228/bin.sh
-197739, 2024-07-23 00:21:42, 2024-07-23 00:21:42, malware, a7af18cc744745a486c94152147f0358, http://59.98.121.250:51083/i
-197738, 2024-07-23 00:21:41, 2024-07-23 00:21:41, malware, 608cc7fd91894ecd9abb378fe7016460, http://59.97.210.240:50271/Mozi.m
-197737, 2024-07-23 00:21:28, 2024-07-23 00:21:28, malware, 857c7accfefc4181a0946156b7db2c7e, http://59.97.124.138:45089/Mozi.m
