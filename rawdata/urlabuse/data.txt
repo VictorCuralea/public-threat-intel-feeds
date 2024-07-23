@@ -6,8 +6,11 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-23 02:00:01 UTC
+# UPDATE: 2024-07-23 03:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 197825, "url": "http://dulhonepaqe.happypandaplanners.com", "discovery": "2024-07-23 02:40:15", "added": "2024-07-23 02:40:15", "target": "du(AE)", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "117a0d5a971fb4c72175f0c89c96f8de"}
+{"id": 197824, "url": "https://normalis.heteml.net/wp-includes/access/edg/index.php?info=yahoo@yahoo.com", "discovery": "2024-07-23 01:43:52", "added": "2024-07-23 02:21:14", "target": "Yahoo!", "reporter": "anonymous", "AbuseType": "phishing", "UUID": "7cb40ec8a35df907dc2f11c00ff1065d"}
+{"id": 197823, "url": "https://gateway.lighthouse.storage/ipfs/bafkreigrtgwtkavzfncjspl6sndlkqe7byiuflvtmx4dthsa6gswph52w4", "discovery": "2024-07-23 01:37:15", "added": "2024-07-23 02:20:36", "target": "Generic Email", "reporter": "anonymous", "AbuseType": "phishing", "UUID": "38c6f2b9a12318c89089844068b52e51"}
 {"id": 197822, "url": "http://aproveerdxntermcess.ydns.eu", "discovery": "2024-07-23 01:26:12", "added": "2024-07-23 01:26:12", "target": "Facebook", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "5a3d42ae710e765cc1981e12663dba8b"}
 {"id": 197821, "url": "http://98.167.84.211:51642/i", "discovery": "2024-07-23 01:24:37", "added": "2024-07-23 01:24:37", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "2ef3d0d2436d465d813536831b47171a"}
 {"id": 197820, "url": "http://98.167.84.211:51642/", "discovery": "2024-07-23 01:24:35", "added": "2024-07-23 01:24:35", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "3f96fa633fdd4ee8994c64f811f02b96"}
@@ -505,6 +508,3 @@
 {"id": 197328, "url": "http://115.50.178.160:57229/i", "discovery": "2024-07-22 13:20:18", "added": "2024-07-22 13:20:18", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "3545960827ec4877bd99d59a1aca0bae"}
 {"id": 197327, "url": "http://115.50.178.160:57229/bin.sh", "discovery": "2024-07-22 13:20:16", "added": "2024-07-22 13:20:16", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "68976297c2f24befb794842dd585fffb"}
 {"id": 197326, "url": "http://115.48.145.252:43954/i", "discovery": "2024-07-22 13:20:14", "added": "2024-07-22 13:20:14", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "a921cd6f86e14df8a1ec52083bc6190c"}
-{"id": 197325, "url": "http://115.48.145.252:43954/bin.sh", "discovery": "2024-07-22 13:20:11", "added": "2024-07-22 13:20:11", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "80dccd7487404ffdbcfa4896ced92e0b"}
-{"id": 197324, "url": "http://112.245.158.4:60561/bin.sh", "discovery": "2024-07-22 13:20:09", "added": "2024-07-22 13:20:09", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "51b0e16425064f72b4373690df4db14f"}
-{"id": 197323, "url": "http://110.180.140.12:39673/Mozi.m", "discovery": "2024-07-22 13:20:07", "added": "2024-07-22 13:20:07", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "4f28b7dfdd1b43b6ae6fef3e79087a6e"}
