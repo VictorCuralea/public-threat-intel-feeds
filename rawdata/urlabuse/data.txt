@@ -6,8 +6,10 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-23 12:00:01 UTC
+# UPDATE: 2024-07-23 13:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 198172, "url": "http://ecosystemsolutions.ssott.com", "discovery": "2024-07-23 12:44:21", "added": "2024-07-23 12:44:21", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "1822d69a1267b32321ffde8175651ab8"}
+{"id": 198171, "url": "https://padanatubi.com/?x=example@example.com", "discovery": "2024-07-23 12:36:12", "added": "2024-07-23 12:36:12", "target": "Microsoft", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "e0f262f2100258edc17597a02ae8308f"}
 {"id": 198170, "url": "http://85.28.47.60/7939a6d45c749897/vcruntime140.dll", "discovery": "2024-07-23 11:31:48", "added": "2024-07-23 11:31:48", "target": "#PE32DLL_CMD", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "6054d078fc8e4910af45a176af9f8d2d"}
 {"id": 198169, "url": "http://85.28.47.60/7939a6d45c749897/sqlite3.dll", "discovery": "2024-07-23 11:31:48", "added": "2024-07-23 11:31:48", "target": "#PE32DLL_CMD", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "a0ea405744ab491eaf27f663ad8f0c88"}
 {"id": 198168, "url": "http://85.28.47.60/7939a6d45c749897/msvcp140.dll", "discovery": "2024-07-23 11:31:36", "added": "2024-07-23 11:31:36", "target": "#PE32DLL_CMD", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "a5c10470b8744ed5beaae72b163c8435"}
@@ -506,5 +508,3 @@
 {"id": 197675, "url": "http://194.147.16.158/bot.arm", "discovery": "2024-07-22 23:29:00", "added": "2024-07-22 23:29:00", "target": "#ELF32ARM_v1", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "41b40ff4ae2344a4ba17885acc661461"}
 {"id": 197674, "url": "http://up.houhuayuan.workers.dev", "discovery": "2024-07-22 23:28:13", "added": "2024-07-22 23:28:13", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "e41c50aba6db086169768afa4890c89a"}
 {"id": 197673, "url": "http://193.221.95.207/linux_amd64", "discovery": "2024-07-22 23:27:02", "added": "2024-07-22 23:27:02", "target": "#ELF64", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "ee06c20788a6434f9773aed094d79530"}
-{"id": 197672, "url": "http://193.221.95.207/linux_386", "discovery": "2024-07-22 23:26:18", "added": "2024-07-22 23:26:18", "target": "#ELF32INTEL_v1", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "8445602565504674bd6e68b5461a2105"}
-{"id": 197671, "url": "http://190.109.230.232:46967/Mozi.m", "discovery": "2024-07-22 23:25:36", "added": "2024-07-22 23:25:36", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "c153389e0cbb4d71bf700f019ad9a310"}

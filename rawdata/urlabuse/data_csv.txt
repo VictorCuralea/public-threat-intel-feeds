@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-23 12:00:01 UTC
+# UPDATE: 2024-07-23 13:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+198172, 2024-07-23 12:44:21, 2024-07-23 12:44:21, phishing, 1822d69a1267b32321ffde8175651ab8, http://ecosystemsolutions.ssott.com
+198171, 2024-07-23 12:36:12, 2024-07-23 12:36:12, phishing, e0f262f2100258edc17597a02ae8308f, https://padanatubi.com/?x=example@example.com
 198170, 2024-07-23 11:31:48, 2024-07-23 11:31:48, malware, 6054d078fc8e4910af45a176af9f8d2d, http://85.28.47.60/7939a6d45c749897/vcruntime140.dll
 198169, 2024-07-23 11:31:48, 2024-07-23 11:31:48, malware, a0ea405744ab491eaf27f663ad8f0c88, http://85.28.47.60/7939a6d45c749897/sqlite3.dll
 198168, 2024-07-23 11:31:36, 2024-07-23 11:31:36, malware, a5c10470b8744ed5beaae72b163c8435, http://85.28.47.60/7939a6d45c749897/msvcp140.dll
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 197675, 2024-07-22 23:29:00, 2024-07-22 23:29:00, malware, 41b40ff4ae2344a4ba17885acc661461, http://194.147.16.158/bot.arm
 197674, 2024-07-22 23:28:13, 2024-07-22 23:28:13, phishing, e41c50aba6db086169768afa4890c89a, http://up.houhuayuan.workers.dev
 197673, 2024-07-22 23:27:02, 2024-07-22 23:27:02, malware, ee06c20788a6434f9773aed094d79530, http://193.221.95.207/linux_amd64
-197672, 2024-07-22 23:26:18, 2024-07-22 23:26:18, malware, 8445602565504674bd6e68b5461a2105, http://193.221.95.207/linux_386
-197671, 2024-07-22 23:25:36, 2024-07-22 23:25:36, malware, c153389e0cbb4d71bf700f019ad9a310, http://190.109.230.232:46967/Mozi.m
