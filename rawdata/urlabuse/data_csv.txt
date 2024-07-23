@@ -6,9 +6,14 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-23 20:00:01 UTC
+# UPDATE: 2024-07-23 21:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+198425, 2024-07-23 20:39:10, 2024-07-23 20:39:10, phishing, 8869946faeff55eaee155936369f86fa, https://egytechcenter.com/ADL/
+198424, 2024-07-23 20:38:53, 2024-07-23 20:38:53, malware, db5334aece8e4b45af9597c3788b14bd, https://egytechcenter.com/maisht/app.apk
+198423, 2024-07-23 20:35:04, 2024-07-23 20:35:04, phishing, f69d95c072b92f18c8f9a2361ea45811, https://egytechcenter.com/maisht/
+198422, 2024-07-23 20:27:28, 2024-07-23 18:54:16, phishing, 22734b474b9e62e4aad2b2ab3abb2fa4, https://www.dropbox.com/scl/fi/iomhnf6jctrmibzqqywqn/BT-VOICE-MAIL.paper?rlkey=h7btpsspwogzy649oj9jip562
+198421, 2024-07-23 20:19:44, 2024-07-23 20:19:44, phishing, 6a56215413ed7fbdc1f95db0ceca1558, https://jd-ltd.weeblysite.com
 198420, 2024-07-23 19:58:14, 2024-07-23 19:58:14, phishing, 38f68adfda36a8246fd8044b9d853b85, http://bashpromstdh.pages.dev
 198419, 2024-07-23 19:58:13, 2024-07-23 19:58:13, phishing, 452fa8192dc898725896b83404cbdf29, http://bashpromstdh.pages.dev
 198418, 2024-07-23 19:38:14, 2024-07-23 19:38:14, phishing, 373c050551a68247579dd0ab683b5505, http://cronosconnect.pages.dev
@@ -504,8 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 197928, 2024-07-23 05:24:24, 2024-07-23 05:24:24, malware, 8cf081efc6d24014908dc3b5613e947f, http://39.74.86.226:59627/bin.sh
 197927, 2024-07-23 05:24:22, 2024-07-23 05:24:22, malware, 7d156db780ae4800b981bfbd3f1596d1, http://27.215.176.69:45927/bin.sh
 197926, 2024-07-23 05:24:20, 2024-07-23 05:24:20, malware, 6f471946a2f249e280b5ac677724ec0d, http://27.206.95.137:60608/i
-197925, 2024-07-23 05:24:18, 2024-07-23 05:24:18, malware, 482a5f73d6f242c6b61b05872df92b97, http://27.206.95.137:60608/bin.sh
-197924, 2024-07-23 05:24:16, 2024-07-23 05:24:16, malware, 88c70f670e56426e8c691219040f7a7d, http://27.194.32.92:45075/Mozi.m
-197923, 2024-07-23 05:24:15, 2024-07-23 05:24:15, malware, 105c1e3732a043eea175ec850b2e23b7, http://221.15.197.52:46445/i
-197922, 2024-07-23 05:24:13, 2024-07-23 05:24:13, malware, f0b073ee33c94fb19d62aac0a6bcd8f6, http://221.14.175.56:55608/bin.sh
-197921, 2024-07-23 05:24:11, 2024-07-23 05:24:11, malware, 4f801044e3dc43bb845348df1fa52c84, http://182.127.120.51:49107/i
