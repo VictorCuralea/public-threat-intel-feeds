@@ -6,7 +6,7 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-23 22:00:01 UTC
+# UPDATE: 2024-07-23 23:00:01 UTC
 ############### END COMMENTS ###############
 {"id": 198470, "url": "http://bashpromsrtdh.pages.dev", "discovery": "2024-07-23 21:58:12", "added": "2024-07-23 21:58:12", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "d792f7aa0ded38a254ebd5697aebd67d"}
 {"id": 198469, "url": "http://91.92.244.238/d6212e86883d3906/vcruntime140.dll", "discovery": "2024-07-23 21:28:50", "added": "2024-07-23 21:28:50", "target": "#PE32DLL_CMD", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "3a8ae9b083164acc9d265e4308866272"}
