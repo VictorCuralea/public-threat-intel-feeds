@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-07-23 12:47:12 UTC                        #
+# Last updated: 2024-07-23 12:59:43 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	knoxvillevideoproductions.com
 127.0.0.1	peleinufele.kozow.com
 127.0.0.1	components-resort.gl.at.ply.gg
 127.0.0.1	overclockingmachines.info
@@ -7201,10 +7202,4 @@
 127.0.0.1	f0867029.xsph.ru
 127.0.0.1	lmanage.net
 127.0.0.1	karasergkaravaev6.fvds.ru
-127.0.0.1	snf-893982.vm.okeanos.grnet.gr
-127.0.0.1	159.89.8.28.sslip.io
-127.0.0.1	ip-89-38-131-70-98573.vps.hosted-by-mvps.net
-127.0.0.1	107-172-89-198.nip.io
-127.0.0.1	www.idn15r69vh3fwhzclfoeuaoy.today
-127.0.0.1	macgains.duckdns.org
-# Number of entries: 7201
+# Number of entries: 7196
