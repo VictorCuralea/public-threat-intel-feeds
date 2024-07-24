@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-24 20:00:01 UTC
+# UPDATE: 2024-07-24 21:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+199248, 2024-07-24 20:48:19, 2024-07-24 20:48:19, phishing, c0963075cc0a3c5af1de8a0030a7768f, http://ff-members-garena.io.vn
+199247, 2024-07-24 20:46:15, 2024-07-24 20:46:15, phishing, df08f65523b7518c4fa50082e11af7c0, http://fasfasfas332dsa.click
+199246, 2024-07-24 20:00:17, 2024-07-24 20:00:17, phishing, ffe33b878aa7e6c1b03415797674c3b2, http://scalindefywhirlhold.pages.dev
 199245, 2024-07-24 19:52:39, 2024-07-24 19:52:39, phishing, e12c63d159ecc8225430b12dcc21f7be, https://q3faetwgsrtgsrtyhjkfjkffjhfjhefhjerhjrehjerhjhjgrhjgrjghj.weeblysite.com/
 199244, 2024-07-24 19:28:31, 2024-07-24 19:28:31, malware, 5c9f183ce553436d84fd69cbd3d4a39d, http://90.225.118.172:47218/Mozi.m
 199243, 2024-07-24 19:28:30, 2024-07-24 19:28:30, malware, 571956b59c0641ea8c124d48762d35e4, http://61.53.95.4:50693/bin.sh
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 198751, 2024-07-24 07:25:07, 2024-07-24 07:25:07, malware, c6926b6cb8d749fc9366a62d808ae030, http://182.127.124.231:55400/bin.sh
 198750, 2024-07-24 07:25:05, 2024-07-24 07:25:05, malware, 7376f0b95b3843c4b561aaaacd51779a, http://182.117.119.47:49464/i
 198749, 2024-07-24 07:25:04, 2024-07-24 07:25:04, malware, cd4adbf52f2144f685aab60df33da9e0, http://182.117.119.47:49464/bin.sh
-198748, 2024-07-24 07:24:41, 2024-07-24 07:24:41, malware, ab4e6fb55f064745a7fbfbbeeecd16f7, http://125.99.18.220:41097/i
-198747, 2024-07-24 07:24:37, 2024-07-24 07:24:37, malware, 0ef12a53319a4d4cb365cb6a6c13db2d, http://125.45.55.146:47764/Mozi.m
-198746, 2024-07-24 07:24:35, 2024-07-24 07:24:35, malware, 5075319edbf74c4fbb789e03e9e06c08, http://125.41.73.222:51096/bin.sh
