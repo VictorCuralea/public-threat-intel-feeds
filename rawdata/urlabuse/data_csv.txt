@@ -6,9 +6,15 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-24 22:00:01 UTC
+# UPDATE: 2024-07-24 23:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+199298, 2024-07-24 22:40:12, 2024-07-24 22:40:12, phishing, e3b31b9cc75facf9307c807e600738d5, http://secrummd0cx.a0120015.workers.dev
+199297, 2024-07-24 22:04:13, 2024-07-24 22:04:13, phishing, 99d0d7c9c0479b7177107de7bff2909c, http://outsidesource.isecuresnd3-msft.workers.dev
+199296, 2024-07-24 22:03:26, 2024-07-24 22:03:26, phishing, 5bf011c3a28f683bbb43513cdb464047, https://hardbin.com/ipfs/bafybeidkgmy4bnevqpu44iv5lxat3ptm3uvm27tvr2cwb72vsecllhfcs4
+199295, 2024-07-24 22:03:24, 2024-07-24 22:03:24, phishing, fbb2080637acb5a6156656f27deddbeb, https://securedocument.novaec0rp.co/
+199294, 2024-07-24 22:03:14, 2024-07-24 22:03:14, phishing, 181639d8e82f31bea003f23784faad79, https://ipfs.io/ipfs/QmNgRP22mMfCLf7bZ8s5gmmBVMt2cAiNGq6F6SQ1PB2NzS?filename=kpb1vx836zmd6n28b.html
+199293, 2024-07-24 22:00:12, 2024-07-24 22:00:12, phishing, 5b2af81c1d8be894ad2199c791050af6, http://sameshapes.isecuresnd3-msft.workers.dev
 199292, 2024-07-24 21:24:28, 2024-07-24 21:24:28, malware, a99fc809273c4f00ace651e0c59bbc1e, http://88.250.50.11:55797/i
 199291, 2024-07-24 21:24:26, 2024-07-24 21:24:26, malware, f345ee7dbd3f4e349bb5517756c2e9fc, http://61.52.43.59:33891/Mozi.m
 199290, 2024-07-24 21:24:24, 2024-07-24 21:24:24, malware, d614f98d1d714dbb93454cfbb98b0ea4, http://61.3.136.219:50396/Mozi.m
@@ -503,9 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 198801, 2024-07-24 09:21:20, 2024-07-24 09:21:20, malware, 6be9bbabd8e04491b1c02a1c7ebb84ff, http://117.208.21.186:39229/i
 198800, 2024-07-24 09:20:57, 2024-07-24 09:20:57, malware, 6ae79ed9cbe84c0b8ab964fd0320cd16, http://117.206.129.253:37552/Mozi.m
 198799, 2024-07-24 09:20:55, 2024-07-24 09:20:55, malware, 13f18444eb0c4417b9a2006289c14528, http://115.58.129.149:43790/Mozi.m
-198798, 2024-07-24 09:20:53, 2024-07-24 09:20:53, malware, 3109367675d841e88ba264958e3900f9, http://115.55.196.180:57387/Mozi.m
-198797, 2024-07-24 09:20:51, 2024-07-24 09:20:51, malware, d8137fd2fb774f27b1ac4bb5f498621c, http://115.50.3.59:38813/i
-198796, 2024-07-24 09:20:49, 2024-07-24 09:20:49, malware, 42356451787e4f7f9a982a98142c5ab0, http://112.248.100.2:34286/i
-198795, 2024-07-24 09:20:47, 2024-07-24 09:20:47, malware, 527bba8072c54adaacd44c0876227642, http://112.248.100.2:34286/bin.sh
-198794, 2024-07-24 09:14:15, 2024-07-24 09:14:15, phishing, 98d61de8184b533c4da51ecbd0a52e4e, https://swis-raifeisen.mybluehost.me/swiss/CHFINAL/CHFINALE/
-198793, 2024-07-24 08:44:47, 2024-07-24 08:44:17, phishing, e77522650bed5695c492f01f57c01953, https://bt-108054.weeblysite.com/
