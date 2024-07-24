@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-07-24 06:31:51 UTC                        #
+# Last updated: 2024-07-24 10:30:22 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	sticky.oystergardening.name
 127.0.0.1	insurance-helmet.gl.at.ply.gg
 127.0.0.1	knoxvillevideoproductions.com
 127.0.0.1	peleinufele.kozow.com
@@ -7182,5 +7183,4 @@
 127.0.0.1	dns.trackgroup.net
 127.0.0.1	loja5.seugrupotodimo.com
 127.0.0.1	dev.dunedincasino.co.nz
-127.0.0.1	ns1.veriernano.com
 # Number of entries: 7177
