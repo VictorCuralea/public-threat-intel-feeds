@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-24 00:00:01 UTC
+# UPDATE: 2024-07-24 01:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+198505, 2024-07-24 00:46:13, 2024-07-24 00:46:13, phishing, d11d3484d9b150455ffa126864dbbbd8, http://we-isy.pages.dev
+198504, 2024-07-24 00:36:15, 2024-07-24 00:36:15, phishing, bc23078916aed31afc3b5fea439a26c5, http://fix-chainmiscue.pages.dev
+198503, 2024-07-24 00:26:13, 2024-07-24 00:26:13, phishing, b479d66bcbcd8641432f1a2ad272b76f, http://msgr.com
 198502, 2024-07-23 23:24:36, 2024-07-23 23:24:36, malware, f423ad2567f140d0961ed54e00729094, http://94.121.3.50:53392/Mozi.m
 198501, 2024-07-23 23:24:33, 2024-07-23 23:24:33, malware, f59ba0a7714745ab958fdaf8bd9b3a81, http://81.215.202.162:57581/Mozi.a
 198500, 2024-07-23 23:24:30, 2024-07-23 23:24:30, malware, 3e46339710664f41b58ab58b0e7880c2, http://61.53.150.34:42696/Mozi.m
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 198008, 2024-07-23 09:20:05, 2024-07-23 09:20:05, malware, e7b4d9218e544d9585a52d68a49fca2f, http://102.22.217.148:37712/Mozi.a
 198007, 2024-07-23 09:18:17, 2024-07-23 09:18:17, phishing, 11a878dd4e5659a8c0f5f33233b4d31c, http://livemigrazuarnse.pages.dev
 198006, 2024-07-23 09:14:16, 2024-07-23 09:14:16, phishing, 77169b5f8ab31dc576d8ed522ee5f390, https://mvx.tor.mybluehost.me/wp-content/plugins/-/CFF/2024/717b52c468e2253af73a35792f6ef36d/
-198005, 2024-07-23 09:12:15, 2024-07-23 09:12:15, phishing, d1ece62c8260aaf11a8114c6eabfdd51, http://lumpars.pages.dev
-198004, 2024-07-23 09:00:13, 2024-07-23 09:00:13, phishing, c0c35b757f8f67066bf4cf84f3515e07, http://jktykuk.pages.dev
-198003, 2024-07-23 08:50:16, 2024-07-23 08:50:16, phishing, dadbeaa58e8e4b8a22b5015c170abc15, http://e.ake2.cyou

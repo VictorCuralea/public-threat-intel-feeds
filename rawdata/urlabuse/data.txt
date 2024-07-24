@@ -6,8 +6,11 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-24 00:00:01 UTC
+# UPDATE: 2024-07-24 01:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 198505, "url": "http://we-isy.pages.dev", "discovery": "2024-07-24 00:46:13", "added": "2024-07-24 00:46:13", "target": "Yahoo!", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "d11d3484d9b150455ffa126864dbbbd8"}
+{"id": 198504, "url": "http://fix-chainmiscue.pages.dev", "discovery": "2024-07-24 00:36:15", "added": "2024-07-24 00:36:15", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "bc23078916aed31afc3b5fea439a26c5"}
+{"id": 198503, "url": "http://msgr.com", "discovery": "2024-07-24 00:26:13", "added": "2024-07-24 00:26:13", "target": "Facebook", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "b479d66bcbcd8641432f1a2ad272b76f"}
 {"id": 198502, "url": "http://94.121.3.50:53392/Mozi.m", "discovery": "2024-07-23 23:24:36", "added": "2024-07-23 23:24:36", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "f423ad2567f140d0961ed54e00729094"}
 {"id": 198501, "url": "http://81.215.202.162:57581/Mozi.a", "discovery": "2024-07-23 23:24:33", "added": "2024-07-23 23:24:33", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "f59ba0a7714745ab958fdaf8bd9b3a81"}
 {"id": 198500, "url": "http://61.53.150.34:42696/Mozi.m", "discovery": "2024-07-23 23:24:30", "added": "2024-07-23 23:24:30", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "3e46339710664f41b58ab58b0e7880c2"}
@@ -505,6 +508,3 @@
 {"id": 198008, "url": "http://102.22.217.148:37712/Mozi.a", "discovery": "2024-07-23 09:20:05", "added": "2024-07-23 09:20:05", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "e7b4d9218e544d9585a52d68a49fca2f"}
 {"id": 198007, "url": "http://livemigrazuarnse.pages.dev", "discovery": "2024-07-23 09:18:17", "added": "2024-07-23 09:18:17", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "11a878dd4e5659a8c0f5f33233b4d31c"}
 {"id": 198006, "url": "https://mvx.tor.mybluehost.me/wp-content/plugins/-/CFF/2024/717b52c468e2253af73a35792f6ef36d/", "discovery": "2024-07-23 09:14:16", "added": "2024-07-23 09:14:16", "target": "SwissPass", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "77169b5f8ab31dc576d8ed522ee5f390"}
-{"id": 198005, "url": "http://lumpars.pages.dev", "discovery": "2024-07-23 09:12:15", "added": "2024-07-23 09:12:15", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "d1ece62c8260aaf11a8114c6eabfdd51"}
-{"id": 198004, "url": "http://jktykuk.pages.dev", "discovery": "2024-07-23 09:00:13", "added": "2024-07-23 09:00:13", "target": "Amazon", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "c0c35b757f8f67066bf4cf84f3515e07"}
-{"id": 198003, "url": "http://e.ake2.cyou", "discovery": "2024-07-23 08:50:16", "added": "2024-07-23 08:50:16", "target": "Whatsapp", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "dadbeaa58e8e4b8a22b5015c170abc15"}
