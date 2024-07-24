@@ -1,12 +1,15 @@
 ################################################################
 # ThreatFox IOCs: recent SHA256 hashes - CSV format            #
-# Last updated: 2024-07-23 19:36:16 UTC                        #
+# Last updated: 2024-07-24 17:58:54 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
 # "first_seen_utc","ioc_id","ioc_value","ioc_type","threat_type","fk_malware","malware_alias","malware_printable","last_seen_utc","confidence_level","reference","tags","anonymous","reporter"
+"2024-07-24 17:58:54", "1303488", "6eebe67d08930118f2f319754188b288feef58f2def0b44d049609b860165614", "sha256_hash", "payload", "win.sys10", "None", "Sys10", "", "95", "None", "None", "0", "Grim"
+"2024-07-24 17:58:50", "1303485", "a059c482aaffa0b377503f809e76f9614d84a9e6bb9767d58dca9265eb1027e3", "sha256_hash", "payload", "win.safenet", "None", "SafeNet", "", "95", "None", "None", "0", "Grim"
+"2024-07-24 17:58:46", "1303482", "a807ac6487f19b91cd6af5b8329c7c2e9fda482b5a738e9e78dd72681c5e2035", "sha256_hash", "payload", "win.vobfus", "Beebone", "Vobfus", "", "95", "None", "None", "0", "Grim"
 "2024-07-23 19:36:16", "1303414", "3a3fa66aba25c3846c5dd47688768b35cba3ad311f018691ea43f9ea6849506a", "sha256_hash", "payload", "win.stealc", "None", "Stealc", "", "95", "None", "None", "0", "Grim"
 "2024-07-23 19:36:12", "1303411", "c8033bfdd783bfb5e70cce877726f850fccf88b4558790e212f84debc538a9b6", "sha256_hash", "payload", "win.stealc", "None", "Stealc", "", "95", "None", "None", "0", "Grim"
 "2024-07-23 19:36:09", "1303408", "66684bce0a0958501514c8b839b19f04858e624fca3215eff8c5c656c48ca806", "sha256_hash", "payload", "win.stealc", "None", "Stealc", "", "95", "None", "None", "0", "Grim"
@@ -76,4 +79,4 @@
 "2024-07-23 19:32:18", "1303215", "9de7148d3092790bc8e26c6a047225aeaab66550e546a3fa372b50425bd76b41", "sha256_hash", "payload", "win.stealc", "None", "Stealc", "", "95", "None", "None", "0", "Grim"
 "2024-07-23 19:32:14", "1303212", "9ed2ba2061707cc329f4899230784c0090e4f6aa467c6fbe4825ec27f8cef0d9", "sha256_hash", "payload", "win.stealc", "None", "Stealc", "", "95", "None", "None", "0", "Grim"
 "2024-07-23 19:32:11", "1303209", "d95b6633dda753ff3d155c488e0d0033ffa970be199d655320e57846833566bd", "sha256_hash", "payload", "win.formbook", "win.xloader", "Formbook", "", "95", "None", "None", "0", "Grim"
-# Number of entries: 69
+# Number of entries: 72
