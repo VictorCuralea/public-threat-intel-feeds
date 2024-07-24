@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-24 06:00:02 UTC
+# UPDATE: 2024-07-24 07:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+198701, 2024-07-24 06:54:10, 2024-07-24 06:54:10, phishing, 88c2fd4fb847388a77d87ad24057fbf0, http://edevlet-ceptesube-giris.app
+198700, 2024-07-24 06:44:16, 2024-07-24 06:44:16, phishing, 6bcd3b36865e904fc8d6f83ffbb5b27b, http://boardverasguardianfi.pages.dev
 198699, 2024-07-24 05:32:40, 2024-07-24 05:32:40, phishing, 934035c50af06429905f2e27b41bad9b, http://teleguram.org
 198698, 2024-07-24 05:32:17, 2024-07-24 05:32:17, phishing, a2f3b137feb6f7ccc857ed4d11639fc7, http://noneveraboardpad.pages.dev
 198697, 2024-07-24 05:30:16, 2024-07-24 05:30:16, phishing, f03a5d9df0b0e79548ab7c5a036e35df, http://telegram-dii.org
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 198204, 2024-07-23 13:24:09, 2024-07-23 13:24:09, malware, bd172db10a974ee881961ed633049134, http://182.126.116.133:39027/Mozi.m
 198203, 2024-07-23 13:24:08, 2024-07-23 13:24:08, malware, a16fb8b11c604b6e9c94855de6665687, http://182.125.113.50:34668/bin.sh
 198202, 2024-07-23 13:23:56, 2024-07-23 13:23:56, malware, 4a8a18a1d8104e57a4fb7d8d4cc1b2ab, http://182.117.50.46:47314/Mozi.m
-198201, 2024-07-23 13:23:45, 2024-07-23 13:23:45, malware, 63d8f34dd81b418a89d0c4301eb1ae5b, http://123.5.184.15:50975/
-198200, 2024-07-23 13:23:43, 2024-07-23 13:23:43, malware, 883db06057234f96ae20ceecfcf7cb8b, http://123.5.156.94:55555/bin.sh
