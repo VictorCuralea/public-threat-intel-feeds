@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-25 18:00:01 UTC
+# UPDATE: 2024-07-25 19:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+200015, 2024-07-25 18:43:23, 2024-07-25 18:02:14, phishing, 0b529b943e83fd4032f882741b678bd2, https://joescamp31389.activehosted.com/f/1
+200014, 2024-07-25 18:36:15, 2024-07-25 18:36:15, phishing, 580ddb581a20129406f137ebc8c8fec8, http://mail.kelectricalservices.com
+200013, 2024-07-25 18:30:10, 2024-07-25 18:30:10, phishing, 77f5aaffe7ce7674638146f4518eff04, http://papet-westley-a22.pages.dev
 200012, 2024-07-25 17:52:11, 2024-07-25 17:52:11, phishing, ee0b3f4bce4d3ee8cd42f459105bf582, http://secrumaomlinq1.thachathan-tha.workers.dev
 200011, 2024-07-25 17:28:31, 2024-07-25 17:28:31, malware, e5adb2db40ab41c7bc94449b0bef1ded, http://94.156.69.235/uwu/sh4
 200010, 2024-07-25 17:28:31, 2024-07-25 17:28:31, malware, a69df6f39ad444a6bf145531a92301ac, http://94.156.69.235/uwu/ppc
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 199518, 2024-07-25 07:20:16, 2024-07-25 07:20:16, malware, 6cfea972490441f78776026a84f91e2a, http://115.48.217.125:54803/Mozi.m
 199517, 2024-07-25 07:20:13, 2024-07-25 07:20:13, malware, 0351a473877c402dab754b64dadfbd96, http://115.48.131.200:36586/Mozi.m
 199516, 2024-07-25 07:20:11, 2024-07-25 07:20:11, malware, aed730f7646a4917b7435fea149321e3, http://114.228.0.239:57764/Mozi.a
-199515, 2024-07-25 07:20:06, 2024-07-25 07:20:06, malware, 61441d6b372f4df38f82042796670420, http://112.248.62.120:40794/bin.sh
-199514, 2024-07-25 07:12:32, 2024-07-25 04:03:12, phishing, 7817905203d06db9b5fe0c56577d30d4, https://facebook.com+login%3Dsecure+settings%3Dprivate@ipfs.io/ipfs/bafybeih6j2lwzz2whtprqnfghz6bjgr4dfhhquqjher4dlpt6f34n757zu/vicwebmail.html
-199513, 2024-07-25 07:12:22, 2024-07-25 03:48:22, phishing, 24b1ed0a5131c26764b8e94c38f5c38e, https://pub-250381984a5745a9b9a79b2ce079b3a4.r2.dev/original%20wetransfer4488.html#yahoo@yahoo.com
