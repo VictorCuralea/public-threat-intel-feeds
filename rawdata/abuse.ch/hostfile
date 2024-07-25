@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-07-24 14:44:10 UTC                        #
+# Last updated: 2024-07-25 06:53:36 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	troia23.duckdns.org
 127.0.0.1	denaumtz.com
 127.0.0.1	sticky.oystergardening.name
 127.0.0.1	insurance-helmet.gl.at.ply.gg
@@ -7170,4 +7171,4 @@
 127.0.0.1	xmr.index-gpt.pro
 127.0.0.1	ns1.inpex589.info
 127.0.0.1	newdomainfortesteenestle.com
-# Number of entries: 7164
+# Number of entries: 7165
