@@ -6,8 +6,14 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-25 12:00:01 UTC
+# UPDATE: 2024-07-25 13:00:02 UTC
 ############### END COMMENTS ###############
+{"id": 199751, "url": "https://snowy-frog-0982.on.fleek.co/", "discovery": "2024-07-25 12:39:34", "added": "2024-07-25 12:47:48", "target": "Generic Phishing", "reporter": "anonymous", "AbuseType": "phishing", "UUID": "21db4c38bc11d04b5f25fee287b600e3"}
+{"id": 199750, "url": "http://edevlet-basvuru-comtr.app", "discovery": "2024-07-25 12:30:11", "added": "2024-07-25 12:30:11", "target": "TR-GOV", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "47b1e6dcd658c5b4c618c51d76bc8fc6"}
+{"id": 199749, "url": "http://atocent.online", "discovery": "2024-07-25 12:20:17", "added": "2024-07-25 12:20:17", "target": "AU-GOV", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "3ac664b2bb2439709e93e291195f009e"}
+{"id": 199748, "url": "http://fantasticdomainmailserverautentication01.pages.dev", "discovery": "2024-07-25 12:20:13", "added": "2024-07-25 12:20:13", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "b53bda8e6f33cdd9ea987355473019da"}
+{"id": 199747, "url": "https://my-site-101219-103728.weeblysite.com", "discovery": "2024-07-25 12:19:06", "added": "2024-07-25 12:19:06", "target": "BT", "reporter": "urlabuse", "AbuseType": "phishing", "UUID": "a6c5771b4299beaffea4f255baaba817"}
+{"id": 199746, "url": "https://hyperfollow.com/sidsingarhotmailcom", "discovery": "2024-07-25 12:12:15", "added": "2024-07-25 12:18:51", "target": "BT", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "4253569663b401cd3c6517d410dc12be"}
 {"id": 199745, "url": "http://fake.cloudexp.de", "discovery": "2024-07-25 11:50:13", "added": "2024-07-25 11:50:13", "target": "Facebook", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "385bcbd33d5100a1a3f0ef992e8164a6"}
 {"id": 199744, "url": "https://j-101887.square.site/", "discovery": "2024-07-25 11:46:25", "added": "2024-07-25 11:46:25", "target": "BT", "reporter": "urlabuse", "AbuseType": "phishing", "UUID": "c95f7fa9dd4f1de6fa0cc95cefde4a0b"}
 {"id": 199743, "url": "https://british-solution-inc.weeblysite.com/", "discovery": "2024-07-25 11:46:15", "added": "2024-07-25 11:46:15", "target": "BT", "reporter": "urlabuse", "AbuseType": "phishing", "UUID": "47c7287812135f6c6e9e868f330dce47"}
@@ -502,9 +508,3 @@
 {"id": 199254, "url": "http://115.214.229.188:55321/Mozi.m", "discovery": "2024-07-24 21:20:11", "added": "2024-07-24 21:20:11", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "603a1dddb249416088bc21f30d65c01c"}
 {"id": 199253, "url": "http://114.228.0.239:57764/bin.sh", "discovery": "2024-07-24 21:20:09", "added": "2024-07-24 21:20:09", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "0b7acd12a27f42569d2c8640649a60da"}
 {"id": 199252, "url": "http://105.154.117.131:50505/Mozi.m", "discovery": "2024-07-24 21:20:06", "added": "2024-07-24 21:20:06", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "ed87408e06f2496ca08b8eaf4c8c8461"}
-{"id": 199251, "url": "http://d0cx5gtewayoffice.isecuresnd3-msft.workers.dev", "discovery": "2024-07-24 21:16:11", "added": "2024-07-24 21:16:11", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "cd68f14af6742d9075e16d6b426c2377"}
-{"id": 199250, "url": "http://groupwhatsappsex.pages.dev", "discovery": "2024-07-24 21:14:12", "added": "2024-07-24 21:14:12", "target": "Whatsapp", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "1986e4b65f6569f1d7b926fb48f929cf"}
-{"id": 199249, "url": "http://cold-bread-c1b4.calebhavens1987.workers.dev", "discovery": "2024-07-24 21:04:11", "added": "2024-07-24 21:04:11", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "15ef069aefe6fe301451f4b8c76da852"}
-{"id": 199248, "url": "http://ff-members-garena.io.vn", "discovery": "2024-07-24 20:48:19", "added": "2024-07-24 20:48:19", "target": "Facebook", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "c0963075cc0a3c5af1de8a0030a7768f"}
-{"id": 199247, "url": "http://fasfasfas332dsa.click", "discovery": "2024-07-24 20:46:15", "added": "2024-07-24 20:46:15", "target": "TR-GOV", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "df08f65523b7518c4fa50082e11af7c0"}
-{"id": 199246, "url": "http://scalindefywhirlhold.pages.dev", "discovery": "2024-07-24 20:00:17", "added": "2024-07-24 20:00:17", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "ffe33b878aa7e6c1b03415797674c3b2"}
