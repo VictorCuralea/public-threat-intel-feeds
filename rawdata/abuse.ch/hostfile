@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-07-25 14:26:11 UTC                        #
+# Last updated: 2024-07-25 16:29:02 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	soft-download123file.xyz
+127.0.0.1	packedbrick.com
 127.0.0.1	imc1.top
 127.0.0.1	novidadesfresquinhas.online
 127.0.0.1	office-adr.com
@@ -7074,5 +7076,4 @@
 127.0.0.1	andaluciabeach.net
 127.0.0.1	ns.chrome-crash.com
 127.0.0.1	server1.updateservice.store
-127.0.0.1	strongdomainsercgerhhost.com
-# Number of entries: 7069
+# Number of entries: 7070
