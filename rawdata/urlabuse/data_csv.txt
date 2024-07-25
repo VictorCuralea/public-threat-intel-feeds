@@ -6,9 +6,26 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-25 08:00:01 UTC
+# UPDATE: 2024-07-25 09:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+199594, 2024-07-25 08:15:23, 2024-07-25 08:00:41, phishing, 0072b8886cf69eca2b5585a5af0f132e, https://twint-connect.duckdns.org/index.php
+199593, 2024-07-25 08:15:03, 2024-07-25 08:00:29, phishing, 5434bc95f767df194f669802377f6d4b, https://pub-658ae7dc904e4b3eb1eadd40bcf254cc.r2.dev/udw.html
+199592, 2024-07-25 08:14:43, 2024-07-25 08:00:18, phishing, 8a14b324fee9331f1d696b9eb48d90f3, https://13888383890920093.s3.amazonaws.com/1778820009820290902453.html#international%40gustavkaeser.com%23actnR
+199591, 2024-07-25 08:14:29, 2024-07-25 07:58:24, phishing, 3ca4bf5346bd1b712eecc754c5c05595, https://pub-875b4af3a9aa4d68a5c5c13310e182ba.r2.dev/1778820009820290902453.html#international@gustavkaeser.com
+199590, 2024-07-25 08:14:07, 2024-07-25 07:58:17, phishing, 53e8cae1bf63a208bba4cd30d13db025, https://jwq.fvs.mybluehost.me/TMB/BMB/RF/
+199589, 2024-07-25 08:13:47, 2024-07-25 07:56:14, phishing, e0fbe1d8d259e890832b55a79a1d7fa1, https://swisspasssbb.com/ch-de/sbb/
+199588, 2024-07-25 08:10:13, 2024-07-25 08:10:13, phishing, 6b5604c1c79a98ec67dc0921e7b91f45, http://avjmgujmn2.pages.dev
+199587, 2024-07-25 08:02:21, 2024-07-25 08:02:21, phishing, 93c0fd01ef7c20829fc44af08e13f151, https://b13nfz9.myrdbx.io/de/login/dsny/
+199586, 2024-07-25 08:02:15, 2024-07-25 08:02:15, phishing, 82ba30eb2465498f60b54e5c1120c52e, https://www.goindia.ir/adminer/poster
+199585, 2024-07-25 08:02:13, 2024-07-25 08:02:13, phishing, e681b0ea948bda222266fd1e39f33286, https://auth-app-btbusiness.webflow.io/
+199584, 2024-07-25 08:02:12, 2024-07-25 08:02:12, phishing, 337cce9d508ac809ffad28256d1685ac, https://serwer2043802.home.pl/lo-siemiatycze23/bloger/PostFinance/auth/login.php
+199583, 2024-07-25 08:00:33, 2024-07-25 08:00:33, phishing, f881f23a95163e2cdefd76e635af2b3b, https://smsjh673398.blogspot.com/
+199582, 2024-07-25 08:00:27, 2024-07-25 08:00:27, phishing, 54db99e2cfe63a416901d0ece3921581, https://goindia.ir/adminer/poster
+199581, 2024-07-25 08:00:22, 2024-07-25 08:00:22, phishing, dada46aedba4f25b2e697e6ed73c1b6a, https://ytz.zca.mybluehost.me/sssssssssssssss/vbxmoulaaappp/951e48e54eba1d292c82bc97bdc9e7a4/
+199580, 2024-07-25 08:00:18, 2024-07-25 08:00:18, phishing, 9edc87aa5557a9c1fc88409b3a1ee872, https://kzh.zzt.mybluehost.me/TMS/signin.php?enc='.md5(time()).'
+199579, 2024-07-25 08:00:15, 2024-07-25 08:00:15, phishing, 77bc97e81f4d644ddb7b2264c26b1d17, https://serwer2043802.home.pl/biblioteka2018/szablon/PostFinance/auth/login.php
+199578, 2024-07-25 08:00:15, 2024-07-25 08:00:15, phishing, 86de774117b54a1bdd6864cbf0b5784c, http://tg-01.kdcloud.workers.dev
 199577, 2024-07-25 07:58:16, 2024-07-25 07:58:16, phishing, e3fadcca46917364c3589a9dc66a6cb5, https://intra-etnet.weebly.com/
 199576, 2024-07-25 07:58:14, 2024-07-25 07:58:14, phishing, 6ac9d236dc35da0f347d9834b803ac9d, https://foxtec-dz.com/man.html
 199575, 2024-07-25 07:29:20, 2024-07-25 07:29:20, malware, 49943ab525584f958d246f3f47e7b843, http://61.53.109.111:48455/bin.sh
@@ -492,20 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 199097, 2024-07-24 15:56:11, 2024-07-24 15:56:11, phishing, 5ac40e1d14d335755e4de9653541e311, http://delusional.fishcakes.workers.dev
 199096, 2024-07-24 15:34:12, 2024-07-24 15:34:12, phishing, 8551ca518c4ede07134595434bc1bc4d, https://pub-8eef07edc82e4f02a6ee4c5d4919cc6a.r2.dev/a.htm
 199095, 2024-07-24 15:33:22, 2024-07-24 15:33:22, malware, da2d0b5c34e3475ea21f33527f500373, http://88.250.50.11:55797/bin.sh
-199094, 2024-07-24 15:33:18, 2024-07-24 15:33:18, malware, 992d519aaf794137834b73ccdb6d3b95, http://77.81.87.111:46401/bin.sh
-199093, 2024-07-24 15:33:15, 2024-07-24 15:33:15, malware, 9cc6df5d3b214d55866669a0d38161d6, http://61.53.92.42:58042/i
-199092, 2024-07-24 15:32:53, 2024-07-24 15:32:53, malware, 9fa34b32517f4f679e7746d692662939, http://61.3.23.152:41007/i
-199091, 2024-07-24 15:32:43, 2024-07-24 15:32:43, malware, 1779940daa34470da9b1aacc61d75e18, http://61.3.23.152:41007/bin.sh
-199090, 2024-07-24 15:32:10, 2024-07-24 15:32:10, malware, 3400db8eb26649e29739898255e0be87, http://61.163.158.36:41267/bin.sh
-199089, 2024-07-24 15:31:33, 2024-07-24 15:31:33, malware, f6ad7911628045db9565c6c0242d9de8, http://59.99.208.190:55287/bin.sh
-199088, 2024-07-24 15:31:26, 2024-07-24 15:31:26, malware, cb86a4c92e1345d39805133e2b54b985, http://59.97.125.109:56156/i
-199087, 2024-07-24 15:31:23, 2024-07-24 15:31:23, malware, 0bac63d3379b4bfb8ba64d9f976d144f, http://59.97.121.18:57525/Mozi.m
-199086, 2024-07-24 15:31:10, 2024-07-24 15:31:10, malware, ed5ea7c383da46129326e7214a7f186e, http://59.97.115.25:57908/i
-199085, 2024-07-24 15:30:41, 2024-07-24 15:30:41, malware, c9c19baf1b5742f69d4c9e461ead2ced, http://59.91.91.67:45718/
-199084, 2024-07-24 15:30:38, 2024-07-24 15:30:38, malware, dd2fd4268eae4a1c8c60e567fcadb249, http://59.91.162.241:47676/bin.sh
-199083, 2024-07-24 15:30:37, 2024-07-24 15:30:37, malware, 64de163eda6740b9a6579a2d8acc2c74, http://59.88.250.177:57276/bin.sh
-199082, 2024-07-24 15:30:19, 2024-07-24 15:30:19, malware, 9148e16ee59543f1b72252c79df5bd08, http://59.88.152.82:34229/i
-199081, 2024-07-24 15:30:18, 2024-07-24 15:30:18, malware, 2da9a361597d4c0e8ed3aae8aaf4d0a3, http://59.88.152.82:34229/bin.sh
-199080, 2024-07-24 15:29:42, 2024-07-24 15:29:42, malware, 808c688e1c5d449b825c91de12fd41da, http://59.183.128.122:53994/i
-199079, 2024-07-24 15:28:58, 2024-07-24 15:28:58, malware, 66ad1c9408f74d698128dadacce1b105, http://42.233.104.98:40280/i
-199078, 2024-07-24 15:28:57, 2024-07-24 15:28:57, malware, d6cdd8f36fd84f04b3540075ff326755, http://42.228.40.122:40196/i
