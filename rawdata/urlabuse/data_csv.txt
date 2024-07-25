@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-25 02:00:02 UTC
+# UPDATE: 2024-07-25 03:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+199394, 2024-07-25 02:58:10, 2024-07-25 02:58:10, phishing, 16c47a112cd6090dc57db1a776392fc4, http://khalesidating.pages.dev
+199393, 2024-07-25 02:56:12, 2024-07-25 02:56:12, phishing, 3f47f6404058b972dc73947f7db3b4b0, http://logmalasdosd.pages.dev
+199392, 2024-07-25 02:42:11, 2024-07-25 02:42:11, phishing, 026cddf0a048358dc0ba21899bf2b443, http://halitasarla.com.tr
+199391, 2024-07-25 02:08:17, 2024-07-25 02:08:17, phishing, 66e206d2ca20060067f2212ba527fc9e, http://new-way-to-protect-your-cion.pages.dev
 199390, 2024-07-25 01:50:11, 2024-07-25 01:50:11, phishing, 07c0b5f2e92b86b895f266624d6c5d6e, http://jdtey2.pages.dev
 199389, 2024-07-25 01:40:15, 2024-07-25 01:40:15, phishing, d1a3210e02b4391a0b0449192e99acdd, http://banxicomx.com
 199388, 2024-07-25 01:26:18, 2024-07-25 01:26:18, malware, 4ab9a3772fa8452e9559f452c71a752a, http://61.3.172.122:49000/
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 198897, 2024-07-24 11:25:22, 2024-07-24 11:25:22, malware, 8377ba18763a4f03bc6148489467d8c8, http://42.230.184.95:54157/i
 198896, 2024-07-24 11:25:20, 2024-07-24 11:25:20, malware, 6977766f0ec44d378e5bf791654c2437, http://42.227.202.15:34428/
 198895, 2024-07-24 11:24:59, 2024-07-24 11:24:59, malware, 7ede253774374830b3f994e5af80a4bd, http://39.82.114.226:48304/i
-198894, 2024-07-24 11:24:57, 2024-07-24 11:24:57, malware, 11d458bea1484be783489c4a62b23f1b, http://27.215.183.134:34934/bin.sh
-198893, 2024-07-24 11:24:54, 2024-07-24 11:24:54, malware, 2c9b3e339b844d4692e4f26d54ca8963, http://222.140.182.128:58100/Mozi.m
-198892, 2024-07-24 11:24:53, 2024-07-24 11:24:53, malware, cc4a73710eb7442eb3eb651556d7881d, http://222.137.74.225:60724/i
-198891, 2024-07-24 11:24:51, 2024-07-24 11:24:51, malware, cdc23ea257c448e6b70a370bc5109747, http://222.137.74.225:60724/bin.sh
