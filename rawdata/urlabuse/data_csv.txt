@@ -6,9 +6,17 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-26 20:00:01 UTC
+# UPDATE: 2024-07-26 21:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+200502, 2024-07-26 20:36:15, 2024-07-26 20:36:15, phishing, e971c94ce6a48afb395b6601e3757ede, http://ybg3t.kv-f.biz.id
+200501, 2024-07-26 20:28:12, 2024-07-26 20:28:12, phishing, 43a0ea96de30eceabce165261e7acd0f, http://adzharimoksmartdomainsearchspecialservice04.pages.dev
+200500, 2024-07-26 20:25:45, 2024-07-26 20:25:45, malware, 204c79b6b55a44a085130c4fa2fa464c, https://166.88.141.219/privs/RoguePotato.zip
+200499, 2024-07-26 20:25:43, 2024-07-26 20:25:43, malware, 3f5233084eff48aeb3ed2f67d4fd7566, https://166.88.141.219/privs/RogueOxidResolver.exe
+200498, 2024-07-26 20:25:42, 2024-07-26 20:25:42, malware, d0f871cd66ec4383a6af76ec6a06c416, https://166.88.141.219/privs/chisel.exe
+200497, 2024-07-26 20:24:38, 2024-07-26 20:24:38, malware, f3793b2dc1204bf784b5266fc4a18284, https://166.88.141.219/privs/2023.exe
+200496, 2024-07-26 20:23:26, 2024-07-26 20:23:26, malware, 7dfba686ec93434ea4855d92668b2cad, http://66.54.98.43:60629/Mozi.m
+200495, 2024-07-26 20:18:15, 2024-07-26 20:18:15, phishing, 86d84b6f63870c4cb767cd0d47a0626d, http://bhm.gwx.temporary.site
 200494, 2024-07-26 19:46:11, 2024-07-26 19:46:11, phishing, 538b55c0caa9d3cf799712519c775ee2, http://rpcdebug-tool.pages.dev
 200493, 2024-07-26 19:40:15, 2024-07-26 19:40:15, phishing, 3a29585b1ed971c9d0d955f5e4eca358, http://mail.ghyyss172.hkqwo.com
 200492, 2024-07-26 19:38:13, 2024-07-26 19:38:13, phishing, 29567ef59caefba94970f6b47361071d, http://ghyyss171.hkqwo.com
@@ -501,11 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 200005, 2024-07-25 17:28:29, 2024-07-25 17:28:29, malware, 7adcd501576e438ab1cb8cf2b77262a7, http://94.156.69.235/uwu/arm5
 200004, 2024-07-25 17:28:29, 2024-07-25 17:28:29, malware, 9efe8f3e7b3e4695b17557bb3e716a50, http://61.53.253.227:55704/i
 200003, 2024-07-25 17:28:27, 2024-07-25 17:28:27, malware, 7f0ee8c839ab481e8577b84183206157, http://61.52.174.242:60016/Mozi.m
-200002, 2024-07-25 17:27:25, 2024-07-25 17:27:25, malware, 04ea3da7e97b4947bf705cdb0eab3cb6, http://59.97.127.196:42992/
-200001, 2024-07-25 17:26:13, 2024-07-25 17:26:13, malware, f2b20bf42b2d44b890a7455ae53b9268, http://59.92.81.132:54505/i
-200000, 2024-07-25 17:24:50, 2024-07-25 17:24:50, malware, 61220dbbf1ef4a94b449ebaaa21ab6c9, http://42.239.153.85:42818/i
-199999, 2024-07-25 17:24:48, 2024-07-25 17:24:48, malware, 293f77203e374838aebcaeda7dbff5a4, http://42.235.153.246:50596/Mozi.m
-199998, 2024-07-25 17:24:47, 2024-07-25 17:24:47, malware, 603872fe2b9747f392ffb51ab433c80e, http://42.230.39.87:48714/bin.sh
-199997, 2024-07-25 17:24:45, 2024-07-25 17:24:45, malware, 5b3c92a664d943cbbe0b91849c9da392, http://42.227.236.219:48640/bin.sh
-199996, 2024-07-25 17:24:35, 2024-07-25 17:24:35, malware, b4729cfb06ad40f68e239d995f37bd88, http://27.215.212.17:33835/Mozi.m
-199995, 2024-07-25 17:24:33, 2024-07-25 17:24:33, malware, 663f9a8133554a10aa952e3bdb4ca999, http://27.215.176.175:60410/Mozi.m
