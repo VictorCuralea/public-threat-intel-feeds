@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-26 06:00:02 UTC
+# UPDATE: 2024-07-26 07:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+200190, 2024-07-26 06:54:17, 2024-07-26 06:54:17, phishing, 14c60e086ae0a445ec4eeae436677892, http://whatssapp.icu
+200189, 2024-07-26 06:46:15, 2024-07-26 06:46:15, phishing, 438033309a9c3b373cd6f48cb015aaa3, http://rev-sharesdapps.pages.dev
+200188, 2024-07-26 06:38:19, 2024-07-26 06:38:19, phishing, 4113a081e0f885c68406aad3e8b6ed52, http://sgapalah.atomic.my.id
+200187, 2024-07-26 06:38:14, 2024-07-26 06:38:14, phishing, b54ed68eaabcc4bc410de0234134d18f, https://frezik-art.pl/inancer/eimo/478755/auth/login.php
 200186, 2024-07-26 05:34:11, 2024-07-26 05:34:11, phishing, d1103c9c9d01f5945951a8d02fb7b4c9, http://emreatamanlar.com
 200185, 2024-07-26 05:28:12, 2024-07-26 05:28:12, phishing, 858e5c4806224835d7968b97c1d55157, http://mail.emreatamanlar.com
 200184, 2024-07-26 05:21:23, 2024-07-26 05:21:23, malware, 058bc9326a504849a22c32d19d753ed6, http://92.154.92.135:51209/i
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 199693, 2024-07-25 11:24:04, 2024-07-25 11:24:04, malware, f52f1890dfba45189c4273a6838445ad, http://117.245.44.75:59020/bin.sh
 199692, 2024-07-25 11:23:11, 2024-07-25 11:23:11, malware, 0057bba46a744be782462ed9275f6dcc, http://117.235.63.219:50957/bin.sh
 199691, 2024-07-25 11:23:08, 2024-07-25 11:23:08, malware, ec3f616a019a4f1d919b1177f42fcce8, http://117.222.254.176:38539/bin.sh
-199690, 2024-07-25 11:23:03, 2024-07-25 11:23:03, malware, 933659ae8b22423ab5b26284451f0200, http://117.222.120.50:46266/i
-199689, 2024-07-25 11:22:35, 2024-07-25 11:22:35, malware, f9efde81874244afa199eb20c6e5f367, http://117.219.46.43:43297/bin.sh
-199688, 2024-07-25 11:22:23, 2024-07-25 11:22:23, malware, 625d9215ad4d44ae9d20e4a74db9f2a9, http://117.219.36.143:50372/i
-199687, 2024-07-25 11:22:11, 2024-07-25 11:22:11, malware, 2be9ccb999f34acd82ef550134ec2781, http://117.217.87.123:54267/Mozi.m
