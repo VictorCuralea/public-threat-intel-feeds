@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-26 00:00:02 UTC
+# UPDATE: 2024-07-26 01:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+200129, 2024-07-26 00:01:25, 2024-07-26 00:01:25, malware, ea74411d05c14b749185eb5e2b0d8ec1, https://molmoli.click/data/6766446991/payment/X547WVZ2/saham-new/site/download.php
 200128, 2024-07-25 23:59:17, 2024-07-25 23:59:17, phishing, 12bd5a0f8860da30ffd10d6719b22845, https://molmoli.click/data/6766446991/payment/X547WVZ2/saham-new
 200127, 2024-07-25 23:48:44, 2024-07-25 23:48:44, phishing, e80f77085394a82a856d284c073ebfa1, http://vflores.shop/
 200126, 2024-07-25 23:46:08, 2024-07-25 23:46:08, phishing, d3efab1743cb60f595ee84916a562a21, http://svyazki-p2p.com/
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 199632, 2024-07-25 09:26:51, 2024-07-25 09:26:51, malware, 60c0cb34d94e4f94921ea18029f2c5ca, http://219.156.100.144:45298/bin.sh
 199631, 2024-07-25 09:26:41, 2024-07-25 09:26:41, malware, 35047039f7fa44d7a6a03c3e7901f47a, http://196.191.66.189:58616/i
 199630, 2024-07-25 09:26:39, 2024-07-25 09:26:39, malware, 5fb5ed2449fd4298864a58eb1ec9972f, http://196.191.66.189:58616/bin.sh
-199629, 2024-07-25 09:26:34, 2024-07-25 09:26:34, malware, f12ddd10285245359fdd46324b640661, http://182.126.246.38:47484/i
