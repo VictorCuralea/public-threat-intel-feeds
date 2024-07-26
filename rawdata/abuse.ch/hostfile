@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-07-25 16:29:02 UTC                        #
+# Last updated: 2024-07-26 05:47:52 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	subtitlez0.duckdns.org
+127.0.0.1	subtitle42.duckdns.org
+127.0.0.1	thomas-partly.gl.at.ply.gg
+127.0.0.1	id-diesel.gl.at.ply.gg
 127.0.0.1	soft-download123file.xyz
 127.0.0.1	packedbrick.com
 127.0.0.1	imc1.top
@@ -7076,4 +7080,4 @@
 127.0.0.1	andaluciabeach.net
 127.0.0.1	ns.chrome-crash.com
 127.0.0.1	server1.updateservice.store
-# Number of entries: 7070
+# Number of entries: 7074
