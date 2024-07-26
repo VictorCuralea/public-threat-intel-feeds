@@ -6,9 +6,20 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-26 12:00:01 UTC
+# UPDATE: 2024-07-26 13:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+200286, 2024-07-26 12:58:12, 2024-07-26 12:58:12, phishing, faac128744dd51ae23712cb9d96aff11, http://dsradxzxvhujtuytrfsfg5dgsjkiofpfnjugsy65fgw8e9urimujsnjmb4.pages.dev
+200285, 2024-07-26 12:48:00, 2024-07-26 12:40:11, phishing, 681f8303d0f83fcd1baca93c561060ff, https://lookbillbttbtmonthly.webflow.io/
+200284, 2024-07-26 12:38:01, 2024-07-26 12:08:16, phishing, ede919674bed59b503c25de80d95be5a, https://joescamp.wixsite.com/my-site-1
+200283, 2024-07-26 12:36:29, 2024-07-26 12:36:29, phishing, 80d0a4f75bf03e74f18a3ec78d3aa131, http://tokenparwadise.mom
+200282, 2024-07-26 12:36:27, 2024-07-26 12:36:27, phishing, 7890bb2648d8607c1e2461c8437eb987, http://tokenpar1adse.mom
+200281, 2024-07-26 12:36:19, 2024-07-26 12:36:19, phishing, 232c47bb1b90a2af0523779e28133dd0, http://tokenprism.mom
+200280, 2024-07-26 12:36:17, 2024-07-26 12:36:17, phishing, 9e8165f8ecb3ff23bbbc9814c9daa7dd, http://tokenpdr1adise.mom
+200279, 2024-07-26 12:36:17, 2024-07-26 12:36:17, phishing, a9f9aac6a50b793f4b6d4d28be49a554, http://tokenpar13dise.mom
+200278, 2024-07-26 12:34:14, 2024-07-26 12:34:14, phishing, 6e434aad709778bcdd006fc5b14f55b8, http://tokenpar1afise.mom
+200277, 2024-07-26 12:28:12, 2024-07-26 12:28:12, phishing, 23b3f4cbc603c8ebef00c59f63078a48, http://htrewrtknbvcfsazsqwerertyujlnbgfryfcb.pages.dev
+200276, 2024-07-26 12:06:32, 2024-07-26 12:00:13, phishing, 12204321138b45ad03bead3b927b01e2, https://mailchrist.weebly.com/
 200275, 2024-07-26 11:38:21, 2024-07-26 11:38:21, phishing, 3e963475c3932061d4979d735484c761, http://decentralized.defdc.com
 200274, 2024-07-26 11:34:17, 2024-07-26 11:34:17, phishing, 2832c72d135cab940af0bfa47aa7b7ae, https://jpq.dhy.mybluehost.me/00/per/
 200273, 2024-07-26 11:28:11, 2024-07-26 11:20:14, phishing, 5eaa7523aaec9c2a4f184b7173d9eba7, https://armannlakeltd.wixsite.com/btinternet
@@ -498,14 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 199789, 2024-07-25 13:25:38, 2024-07-25 13:25:38, malware, 3321ef372f0649ddaec46420730f6ac7, http://222.137.69.229:58535/i
 199788, 2024-07-25 13:25:36, 2024-07-25 13:25:36, malware, 871e411293e24bcdbc65d4d14bfb22f7, http://222.134.162.233:53858/i
 199787, 2024-07-25 13:25:35, 2024-07-25 13:25:35, malware, 7dddd893d87c4417b06dcb16480cf438, http://222.134.162.233:53858/bin.sh
-199786, 2024-07-25 13:25:18, 2024-07-25 13:25:18, malware, 5d14ad699b9d41009d68968c8fe7d247, http://221.1.226.133:55739/Mozi.m
-199785, 2024-07-25 13:25:16, 2024-07-25 13:25:16, malware, 6484afb428e545aeb872ca434d473bb1, http://219.155.62.29:50247/Mozi.m
-199784, 2024-07-25 13:25:15, 2024-07-25 13:25:15, malware, 7251f460f76e449dac37b97046064e7d, http://200.111.102.27:33439/bin.sh
-199783, 2024-07-25 13:25:04, 2024-07-25 13:25:04, malware, 79bae4af329c4e2280ee65f340a876e0, http://182.119.60.168:46199/bin.sh
-199782, 2024-07-25 13:24:40, 2024-07-25 13:24:40, malware, 0ee59708604b403f99430417ae6bede2, http://120.61.28.207:58204/i
-199781, 2024-07-25 13:24:38, 2024-07-25 13:24:38, malware, 49ecbd95e5654020a5925308a4edae31, http://120.61.28.207:58204/bin.sh
-199780, 2024-07-25 13:24:28, 2024-07-25 13:24:28, malware, 1719e576227e4c04b539974f767ebfc9, http://119.187.160.130:48878/i
-199779, 2024-07-25 13:23:43, 2024-07-25 13:23:43, malware, b09b2dba098b4b85b5d6ea3977c7e208, http://117.248.173.72:34366/bin.sh
-199778, 2024-07-25 13:23:41, 2024-07-25 13:23:41, malware, 6a71602c2c224a7ea5325b23391e4d5f, http://117.245.7.121:40828/Mozi.m
-199777, 2024-07-25 13:23:39, 2024-07-25 13:23:39, malware, a06567acf07f4cf7aecbf65f182b4a91, http://117.245.44.75:59020/i
-199776, 2024-07-25 13:23:17, 2024-07-25 13:23:17, malware, d6125c47df2e41b3885da2a4f5ab6fe9, http://117.245.34.63:46486/Mozi.m
