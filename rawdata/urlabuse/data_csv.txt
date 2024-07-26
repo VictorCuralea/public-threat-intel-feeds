@@ -6,9 +6,27 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-26 04:00:01 UTC
+# UPDATE: 2024-07-26 05:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+200170, 2024-07-26 04:52:12, 2024-07-26 04:52:12, phishing, e39e29dc559ec3372c091ce0ab64dec5, http://ghyyss154.hkqwo.com
+200169, 2024-07-26 04:50:22, 2024-07-26 04:50:22, phishing, 61aa0510dc0fd4286dfb9b09c5929e4c, http://mail.ghyyss155.hkqwo.com
+200168, 2024-07-26 04:50:14, 2024-07-26 04:50:14, phishing, 212e5b97da121eef61c02420f74370a6, http://ghyyss148.hkqwo.com
+200167, 2024-07-26 04:46:14, 2024-07-26 04:46:14, phishing, 116de7d02102b89dd6e817306255bbec, http://ghyyss147.hkqwo.com
+200166, 2024-07-26 04:46:14, 2024-07-26 04:46:14, phishing, 2b561ff1f85cc4c73ff5264b4846ac36, http://mail.ghyyss148.hkqwo.com
+200165, 2024-07-26 04:44:13, 2024-07-26 04:44:13, phishing, 98e003f62f2c4bdd14cc0b02cf6f1a38, http://mail.ghyyss153.hkqwo.com
+200164, 2024-07-26 04:42:13, 2024-07-26 04:42:13, phishing, f5da38c4dc4540895d4ea21211b56e62, http://ghyyss150.hkqwo.com
+200163, 2024-07-26 04:42:13, 2024-07-26 04:42:13, phishing, 8a3b6bc2325427a4ce80ebd23f767148, http://ghyyss157.hkqwo.com
+200162, 2024-07-26 04:42:13, 2024-07-26 04:42:13, phishing, a0f969d244b0d31b9514524294441af9, http://mail.ghyyss157.hkqwo.com
+200161, 2024-07-26 04:06:29, 2024-07-26 04:06:29, phishing, 828bb3e68db65d32e18d005023988356, https://www.cleanbird.in/pics/images/config/information.php?access.x61397958850&&data.x=en_28096b447c33574088ff9163d
+200160, 2024-07-26 04:06:17, 2024-07-26 04:06:17, phishing, 0221a4809d78e8ae7b14fc31704f08a3, https://ipfs.io/ipfs/QmVYHDwaiJrPdFcj5oBuyr4vXYi5XKKhTzVcPU7hX3TNQy?filename=4g74cv25m7pp2r7zv.html
+200159, 2024-07-26 04:05:49, 2024-07-26 04:05:49, phishing, ee9f99b41df601a56cee5f57c88e6d0a, https://lawlibrary.cookcountyil.gov/iii/cas/logout?url=https%3A%2F%2Fipfs.io%2Fipfs%2FQmVYHDwaiJrPdFcj5oBuyr4vXYi5XKKhTzVcPU7hX3TNQy%3Ffilename%3D4g74cv25m7pp2r7zv.html
+200158, 2024-07-26 04:05:27, 2024-07-26 04:05:27, phishing, 0a6a52c64f023037fb1d44ddce480ba1, https://login-microsoftonline-com.ryansun.online/
+200157, 2024-07-26 04:04:49, 2024-07-26 04:04:49, phishing, ea6ba1e9a32daa290b5d19214f97fb88, http://worker-warp2sub.geforce8800.workers.dev/
+200156, 2024-07-26 04:04:29, 2024-07-26 04:04:29, phishing, c531af1f5e029d097533532a041f7ad6, http://www.makemillion.pw.ytwwrntym.com/
+200155, 2024-07-26 04:04:13, 2024-07-26 04:04:13, phishing, 4014c2f7fe498fd9826b1c291437bcd6, http://telegramgroupsexx69.pages.dev/
+200154, 2024-07-26 04:04:09, 2024-07-26 04:04:09, phishing, 3e1c0efeb032fa985ce57ef4def80b1d, http://www.makemillions.pw.ytwwrntym.com/
+200153, 2024-07-26 04:02:10, 2024-07-26 04:02:10, phishing, 80da5cbccf8f2123701348bb5344ed28, https://telegramgroups3x.vercel.app/
 200152, 2024-07-26 03:21:21, 2024-07-26 03:21:21, malware, 09809002cf134f44a76b78c2cd40b440, http://85.28.47.30/bingo/joom.exe
 200151, 2024-07-26 03:21:20, 2024-07-26 03:21:20, malware, 30f46d3966e44c6ea1fd41c1a180d3ad, http://59.91.87.77:34393/i
 200150, 2024-07-26 03:21:01, 2024-07-26 03:21:01, malware, d97b20f142e3445b8ec26ab8285b2f2b, http://42.227.200.47:34437/i
@@ -491,21 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 199673, 2024-07-25 10:48:15, 2024-07-25 10:48:15, phishing, 5cbe6220f5e7c6e27b3cb50813e8c457, http://ckkoc.hkqwo.com
 199672, 2024-07-25 10:46:12, 2024-07-25 10:46:12, phishing, 7146d02694b6d9f91cef8812591359d8, http://mail.ckkoc.hkqwo.com
 199671, 2024-07-25 10:19:08, 2024-07-25 10:10:41, phishing, 7708425f89a5262c777a16beca95370f, https://email-10.moengage.com/v1/emailclick?q=x9ycxyqq8BGE3Hmf3tkZsd7miz_PMtbtZqkCsMlogcQQvqA576A-oHqRSJnK_EiBn_lan68iZyCmTFPpPeQ0WqYKBzorubOteuRNa_33wmzDhZoaN9Jnri2bat7hpe8CZ6nI0Kg4VLxdj1CBY4PQ7UYpoBUy18ZlTNMy.YtWVWDxIXyuOwqpf2dqnQNgClMgY84-T590kPVrJeJJDYouaSJ.1QAKHlvHlk5HlDmqIon5w.o-J5QASslDSqaMMncn7_RVkMVRfuhC0lbH59QVxZC1IGZJuuwQWVs.PK4Ew7dR6QMz-77TTN2cFbVaGeQ.ZonQ.OwRj7xdMCCyJMjc15V67MU6S-bQakREqyPRQ8TRv.hFovLTF4tbRyddo3zOvmTKaw2msJ_za7_66KI..NwLYS9XCEuQ7Y0L8tC8VPW70hbE4iabYwkFlzN8YTfNtlHaK7hf5jESfPOxQ8SVWCL3NtIQ#Y2lzY29AY2lzY28uY29t
-199670, 2024-07-25 10:18:56, 2024-07-25 10:18:56, phishing, 450decef8138abf6227f69cba7a24b83, https://site-webmailb-com-access-login-387348hjr83478uhjerh34u78347uery.powerappsportals.com/mailanebale-8787hdgyu4ydfhghd878348yehghd87348yrgeyye873467ytyery87346674676ytey73487657yerytyer786/#cisco@cisco.com
-199669, 2024-07-25 10:18:42, 2024-07-25 10:05:29, phishing, 365895a906cd4448a4b401f4e8e234be, https://thewardles0.wixsite.com/my-site-1
-199668, 2024-07-25 10:18:30, 2024-07-25 09:58:30, phishing, 4eaaa0e62104c8f099e4923771d93ee5, https://pub-ca0eeb51b7c348fcb7efec0aabe0cf4a.r2.dev/qm.html
-199667, 2024-07-25 10:05:14, 2024-07-25 10:05:14, phishing, c0dae303ea2e6c55b084cdf5ce37a204, http://owa.bladehosts.com/
-199666, 2024-07-25 10:04:58, 2024-07-25 10:04:58, phishing, 495e0c433132214f630ab08f66430c09, http://courtlianefyi.byethost24.com/ss.html
-199665, 2024-07-25 10:04:52, 2024-07-25 10:04:52, phishing, c029aaa20e09bb77c3312406330e2531, https://netfimarketing.com/fd833af96p38af4a3509a8cd86bwaa6ca3a2.html/
-199664, 2024-07-25 10:02:57, 2024-07-25 10:02:57, phishing, c12b0730cada04b01b894ef69533b523, https://sg-do.sandyvpn.my.id/
-199663, 2024-07-25 10:02:45, 2024-07-25 10:02:45, phishing, b7a77b102e56d7c8263ac2b66c442a68, https://3.big4money.com/
-199662, 2024-07-25 10:02:41, 2024-07-25 10:02:41, phishing, 467ab124348c118b6759018676028015, http://telegramforhookups1.vercel.app/
-199661, 2024-07-25 10:02:29, 2024-07-25 10:02:29, phishing, 209a6822ec75842c3b0599c1a4f7ff18, http://telegramgareng01.vercel.app/
-199660, 2024-07-25 10:02:25, 2024-07-25 10:02:25, phishing, 421205012f0912c654f092ac682ebdd7, https://www888.rr.nu/
-199659, 2024-07-25 10:02:21, 2024-07-25 10:02:21, phishing, 60f8946eb2e356072f942ebb8691316d, http://telehot-eta.vercel.app/
-199658, 2024-07-25 10:02:13, 2024-07-25 10:02:13, phishing, e3d9f135c2ea5fc85a98395506d617da, http://jancokkkkk.pages.dev/
-199657, 2024-07-25 09:50:22, 2024-07-25 09:43:20, phishing, be0cdbe08932f047930cd40d2a91037f, https://ipfs.io/ipfs/bafybeicvd5nvjfboz6exjoceuzrzw62btw2qqxcv2xxeuchm2wmm5kfjh4
-199656, 2024-07-25 09:50:10, 2024-07-25 09:38:24, phishing, d27d4bdc993089677bd3320d2b457e05, https://forum.fontlab.com/index.php?thememode=full;redirect=https://ipfs.io/ipfs/bafybeicvd5nvjfboz6exjoceuzrzw62btw2qqxcv2xxeuchm2wmm5kfjh4
-199655, 2024-07-25 09:37:05, 2024-07-25 09:34:14, phishing, 7ada0e8ed5ad13b4c270518ec5bb65f6, https://bt-108984.weeblysite.com/
-199654, 2024-07-25 09:36:52, 2024-07-25 09:28:41, phishing, 63ad6cf22d4a4eea492c8b197fca862a, https://ipfs.io/ipfs/bafkreib3yrhmpd6telt23jhn3k6m6gf37xbafptdw3qkjqc36daf6pd2gm?filename=imonin.html
-199653, 2024-07-25 09:28:54, 2024-07-25 09:28:54, malware, baca219baecf4d90a176a631a447ced5, http://94.156.69.235/uwu/x86
