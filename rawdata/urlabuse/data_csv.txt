@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-26 08:00:01 UTC
+# UPDATE: 2024-07-26 09:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+200221, 2024-07-26 08:41:44, 2024-07-26 08:41:44, phishing, f98a0c322018e52b200cb76a654dab4d, https://realcaptcha.com/ntx/main/dashboard
+200220, 2024-07-26 08:22:16, 2024-07-26 08:22:16, phishing, cd4b757b1ba9e1766d5de7cdf2ed8e26, http://usps.rqsbqfrbdbs.top
 200219, 2024-07-26 07:52:16, 2024-07-26 07:52:16, phishing, 8974211bdec7e6104355c48cc6457198, http://autorildo.mtalk.com.br
 200218, 2024-07-26 07:46:15, 2024-07-26 07:46:15, phishing, b40e1bc597652186fea26451820b1c36, http://ledekranikimyapar.com
 200217, 2024-07-26 07:30:24, 2024-07-26 07:25:58, phishing, 07bd0fbe0a52dd8c5b9d9d9e3e145510, https://pub-624d0d59179845128acaf77e4cf09e4d.r2.dev/C0aojNQI98HXVP.html#cisco@cisco.com
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 199724, 2024-07-25 11:27:16, 2024-07-25 11:27:16, malware, 6fe368bd65cd43aa900cc57b5c4758df, http://42.226.79.51:37791/bin.sh
 199723, 2024-07-25 11:27:05, 2024-07-25 11:27:05, malware, d24295a919af47e699150de0382c5939, http://27.215.211.42:43583/bin.sh
 199722, 2024-07-25 11:27:03, 2024-07-25 11:27:03, malware, aeeb13e5ee8d445c9c23a4ca2c8d6de5, http://27.215.183.134:34934/i
-199721, 2024-07-25 11:27:02, 2024-07-25 11:27:02, malware, 819faca424974ba4b3d9f63e79e15eb0, http://223.8.221.139:35731/bin.sh
-199720, 2024-07-25 11:26:59, 2024-07-25 11:26:59, malware, 10345c1c670542de95ccd4a0e4e28028, http://222.142.193.149:53208/i
