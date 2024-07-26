@@ -6,9 +6,15 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-26 14:00:02 UTC
+# UPDATE: 2024-07-26 15:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+200306, 2024-07-26 14:50:42, 2024-07-26 14:50:42, phishing, 5b8ac278bd0fbd2120517d8069fe43df, https://bt-103354.weeblysite.com
+200305, 2024-07-26 14:50:28, 2024-07-26 14:42:15, phishing, ccbe02faaf6362f58f24cbfa757c6acd, https://smartlink3.metricool.com/public/smartlink/btmail
+200304, 2024-07-26 14:38:15, 2024-07-26 14:38:15, phishing, bcbee5764a81e85f0d763ca3e7c73a2f, http://formuassurance.com
+200303, 2024-07-26 14:34:16, 2024-07-26 14:34:16, phishing, cb5a23bd3d1c3558430480596577359b, http://teleargle.bond
+200302, 2024-07-26 14:33:08, 2024-07-26 14:30:11, phishing, 16258baad0176e7224529a749d08cea6, https://dk118633.activehosted.com/f/1
+200301, 2024-07-26 14:22:19, 2024-07-26 14:22:19, phishing, f3d8f3149774645da677f9c43f61130d, http://usps.qfpdmrwcpqp.top
 200300, 2024-07-26 13:22:02, 2024-07-26 13:22:02, malware, 20d5f3fb5d2045289cdce012a07aea16, http://61.53.222.51:38243/Mozi.m
 200299, 2024-07-26 13:21:51, 2024-07-26 13:21:51, malware, 1e8d771720954ca29bbd0b8188a30ab8, http://59.88.10.216:35204/bin.sh
 200298, 2024-07-26 13:21:44, 2024-07-26 13:21:44, malware, 68b3593dd2f34ce6a946090c12ab19b6, http://45.178.248.35:10288/Mozi.m
@@ -503,9 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 199809, 2024-07-25 13:27:55, 2024-07-25 13:27:55, malware, d755bcf029a14fd3b7823c9e33c5dc2c, http://59.93.224.144:35955/i
 199808, 2024-07-25 13:27:53, 2024-07-25 13:27:53, phishing, 06ad91c719998d681e6afed2cf2a527b, https://www.dropbox.com/scl/fi/t6n1gh818lsgot5xqk8al/BT-BROADBAND-MESSAGE.paper?dl=0&rlkey=6bxdqc94kh92vd1vnfqyk0mcb
 199807, 2024-07-25 13:27:33, 2024-07-25 13:27:33, malware, 0fa0ac40fea349569e08a8e46bc59cf4, http://59.91.90.88:42163/Mozi.m
-199806, 2024-07-25 13:26:57, 2024-07-25 13:26:57, malware, 99b87273f9134dc9ab0b19a7745a99ff, http://59.88.237.247:33514/bin.sh
-199805, 2024-07-25 13:26:38, 2024-07-25 13:26:38, malware, d1d71b9d022b4fa2a1c5780ae8194534, http://58.47.91.248:35282/i
-199804, 2024-07-25 13:26:22, 2024-07-25 13:26:22, malware, 0759e5ab10574e9784fc34514ff30f96, http://42.231.79.51:44793/Mozi.m
-199803, 2024-07-25 13:26:20, 2024-07-25 13:26:20, malware, 9bf089f43b7041ee80feb582f1f333e6, http://42.230.63.162:32845/i
-199802, 2024-07-25 13:26:19, 2024-07-25 13:26:19, malware, c89adc736d294dd48b9302ccc2af5048, http://42.230.63.162:32845/bin.sh
-199801, 2024-07-25 13:26:18, 2024-07-25 13:26:18, malware, 2e9d7977b8064f4892284bee0e5a8361, http://42.230.229.105:33223/i
