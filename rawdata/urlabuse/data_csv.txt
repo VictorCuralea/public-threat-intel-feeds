@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-26 02:00:01 UTC
+# UPDATE: 2024-07-26 03:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+200138, 2024-07-26 02:40:12, 2024-07-26 02:40:12, phishing, ffa2f82eca214b73b14f49bf332a4250, http://retojsbronfrs01.pages.dev
+200137, 2024-07-26 02:28:12, 2024-07-26 02:28:12, phishing, 93f77fd8528a05c992642b61d304db9c, http://free-for-live-cam11-9gi.pages.dev
 200136, 2024-07-26 01:20:37, 2024-07-26 01:20:37, malware, c398c55a6a3d4027a971f21a092b595e, http://59.91.87.77:34393/bin.sh
 200135, 2024-07-26 01:20:34, 2024-07-26 01:20:34, malware, 7b586a80fd1d4175929c18fd57f3ef34, http://222.137.98.189:48321/Mozi.m
 200134, 2024-07-26 01:20:23, 2024-07-26 01:20:23, malware, 11a2c574c8c4464e807e5eee89a86858, http://117.199.77.78:57898/Mozi.m
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 199641, 2024-07-25 09:27:36, 2024-07-25 09:27:36, malware, 80fa7a127484404c8d10b154e24e2e3d, http://42.230.57.183:53604/i
 199640, 2024-07-25 09:27:35, 2024-07-25 09:27:35, malware, 32e0a8d68f694fcebf0ec788fbed3336, http://27.215.86.30:39788/bin.sh
 199639, 2024-07-25 09:27:33, 2024-07-25 09:27:33, malware, ba778f8d0f22405188b7489c9182ff82, http://27.215.213.160:56878/bin.sh
-199638, 2024-07-25 09:27:11, 2024-07-25 09:27:11, malware, b7f3bae48fea479291a67ddccf8b0b15, http://222.142.193.149:53208/bin.sh
-199637, 2024-07-25 09:26:59, 2024-07-25 09:26:59, malware, 122e80abbe894adf81225f656074afb8, http://222.140.182.128:58100/i
