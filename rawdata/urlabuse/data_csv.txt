@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-27 06:00:02 UTC
+# UPDATE: 2024-07-27 07:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+200877, 2024-07-27 06:10:11, 2024-07-27 06:10:11, phishing, 561739f4e26673d9e101836d0f6202c0, http://floral-heart-eeff.3p3ka4x.workers.dev
 200876, 2024-07-27 05:30:09, 2024-07-27 05:30:09, malware, eae6c1425c0b417bad52c17551490a99, http://61.52.37.35:55281/Mozi.m
 200875, 2024-07-27 05:30:07, 2024-07-27 05:30:07, malware, ba938bcbefcc4c259368edbac52b5229, http://61.3.220.244:48852/i
 200874, 2024-07-27 05:29:46, 2024-07-27 05:29:46, malware, 454a755d3cc5465699702deaaf46ba2e, http://59.99.218.216:47367/i
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 200380, 2024-07-26 18:22:12, 2024-07-26 18:22:12, phishing, c7fbab66e2e2245ce680d6084e609d19, http://docusign-pdf.pages.dev
 200379, 2024-07-26 18:22:01, 2024-07-26 18:22:01, malware, e1df23eccb794cd3b3ffd81082b0cde0, http://221.13.248.42:50130/i
 200378, 2024-07-26 18:21:59, 2024-07-26 18:21:59, malware, 807e158b2f6e4f7fbbbb65f3c15d1d26, http://219.157.48.105:54501/Mozi.m
-200377, 2024-07-26 18:21:58, 2024-07-26 18:21:58, malware, 7cfddebb7bc9459ba0a8bfbdfb5bf5c7, http://219.155.192.37:53010/i
