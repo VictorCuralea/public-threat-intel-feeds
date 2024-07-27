@@ -6,9 +6,14 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-27 00:00:01 UTC
+# UPDATE: 2024-07-27 01:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+200572, 2024-07-27 00:58:26, 2024-07-27 00:58:26, phishing, 15b767fcdd2e9b6e2b5003d0ab5e3c71, https://arthomes.homes/
+200571, 2024-07-27 00:45:45, 2024-07-27 00:45:45, phishing, 01f9d8b11c041a15e0ad1454ccc90a2d, https://narrowholetenantperfect.com/1
+200570, 2024-07-27 00:41:25, 2024-07-27 00:41:25, phishing, 34a7f51e395aac2674fae8a72d15231b, https://fametech-cb4spn82ul5xab.ashvisiom.com/9yrpx7acdteu9h3mxdd1/i2k9kyytmviywmB0xZ2VuLzg5OTczMDQ1Ni80Mzg2MDc0ODIvaW5mby84MDk5Mjc3ODMvZmFtZXRlY2guY29tLnR3L056VXpNREExTlRjeg==
+200569, 2024-07-27 00:41:04, 2024-07-27 00:18:29, phishing, 68e3b44d5a9cbcf9aab88d6f94911b12, https://fametech-87fwrfgongel5c.ashvisiom.com/r3mgxbimrtqds9057xkc/ylzv4i3ay4f6fmB0xZ2VuLzg5OTczMDQ1Ni80Mzg2MDc0ODIvaW5mby84MDk5Mjc3ODMvZmFtZXRlY2guY29tLnR3L056V
+200568, 2024-07-27 00:39:37, 2024-07-27 00:13:01, phishing, eda9dc05510fe46a92763ca5515e05a9, https://crimson-mode-0c42.yellowprivate.workers.dev/388252028/425835377/1260072759gB0xZ2VuLzg5OTczMDQ1Ni80Mzg2MDc0ODIvaW5mby84MDk5Mjc3ODMvZmFtZXRlY2guY29tLnR3L056VXpNREExTlRjeg==
 200567, 2024-07-26 23:30:54, 2024-07-26 23:30:54, malware, 93f0eba324e94b67a2420d277484dcd8, http://61.54.41.62:48106/bin.sh
 200566, 2024-07-26 23:30:53, 2024-07-26 23:30:53, malware, 4f1517d07e974b9c8adc3cc6da487e7c, http://61.53.41.39:47102/Mozi.m
 200565, 2024-07-26 23:29:51, 2024-07-26 23:29:51, malware, e554537ecff1443bb10247021013f2e7, http://59.99.211.79:45521/Mozi.m
@@ -504,8 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 200075, 2024-07-25 21:23:01, 2024-07-25 21:23:01, malware, d6b293c7eb5e48f3901639215f7a0d27, http://123.4.64.211:53153/Mozi.m
 200074, 2024-07-25 21:22:59, 2024-07-25 21:22:59, malware, f12cf5c1b9144c41b2abb2dfd344bd68, http://123.129.128.199:56040/bin.sh
 200073, 2024-07-25 21:22:57, 2024-07-25 21:22:57, malware, 49da4aae6eee42beab63d6bf80c6a0be, http://123.11.13.129:40147/i
-200072, 2024-07-25 21:22:55, 2024-07-25 21:22:55, malware, 95cae1f67c7a4791addb34b9a6371cff, http://119.189.205.136:45462/bin.sh
-200071, 2024-07-25 21:22:53, 2024-07-25 21:22:53, malware, 3546af55e5d940ebb6317219c1e1e51f, http://117.253.109.226:54598/i
-200070, 2024-07-25 21:22:51, 2024-07-25 21:22:51, malware, cb4d970a59204a34bf73ea8a2aaa51d7, http://117.253.109.226:54598/bin.sh
-200069, 2024-07-25 21:22:29, 2024-07-25 21:22:29, malware, 8dde5e568c314c3e8c82f69f87f18181, http://117.248.47.97:35966/i
-200068, 2024-07-25 21:22:27, 2024-07-25 21:22:27, malware, cd06d58f9a214bb49cca9142b0fcd2e6, http://117.248.47.97:35966/bin.sh
