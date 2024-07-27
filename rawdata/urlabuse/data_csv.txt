@@ -6,9 +6,17 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-27 18:00:01 UTC
+# UPDATE: 2024-07-27 19:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+201307, 2024-07-27 18:58:16, 2024-07-27 18:58:16, phishing, fd45aa48d47680169c5a665b60ab176d, https://skylarkspb.ru/raiffeisentwint/clients-prives.html?P=
+201306, 2024-07-27 18:56:19, 2024-07-27 18:56:19, phishing, de769ce57da7b2501f7658df281f5027, http://token.tg
+201305, 2024-07-27 18:46:12, 2024-07-27 18:46:12, phishing, 7df94988266a258152d62857dd0fa731, https://ytz.zca.mybluehost.me/comssss/ab-liouka602.mmapo/d8386c45c74f05eced01033177b55660/
+201304, 2024-07-27 18:44:16, 2024-07-27 18:44:16, phishing, d4f75cdfa27f0767f1ff2f84c642b179, http://tokepcoket.pro
+201303, 2024-07-27 18:44:11, 2024-07-27 18:44:11, phishing, 16f1bfe96ba570dba17dd9d383d314b3, https://www.unionferro.it/wp-admin/js/n/coma.html
+201302, 2024-07-27 18:40:16, 2024-07-27 18:40:16, phishing, 1a641fe1a99b0c1af0b113caf1ccdd33, http://metaslppad.pages.dev
+201301, 2024-07-27 18:38:15, 2024-07-27 18:38:15, phishing, 76cfdfcb65551db0769a03e3a10209a5, https://mundoembalagens.com.br/
+201300, 2024-07-27 18:30:14, 2024-07-27 18:30:14, phishing, a0b1d5639623b994411a15d5d251119a, http://liveclazrairvneas.pages.dev
 201299, 2024-07-27 17:48:10, 2024-07-27 17:48:10, phishing, b0d207599366ee75a43c97d14d5d5ff7, http://worker-yellow-river-20cd.kadracirzi.workers.dev
 201298, 2024-07-27 17:29:52, 2024-07-27 17:29:52, malware, ae8c7b9766554a908af307f4d54911ed, http://95.137.210.155:52172/bin.sh
 201297, 2024-07-27 17:29:51, 2024-07-27 17:29:51, malware, a0a9f3e8bc6a44f7aad7b7815869edd6, http://95.0.79.226:39688/i
@@ -501,11 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 200810, 2024-07-27 04:25:56, 2024-07-27 04:25:56, malware, adbf23bae6664ffa995ccfdbf8e76001, http://59.98.194.179:52932/bin.sh
 200809, 2024-07-27 04:25:54, 2024-07-27 04:25:54, malware, e2cc768de5764a349bdff00e990b0d8e, http://59.97.116.59:52691/i
 200808, 2024-07-27 04:25:22, 2024-07-27 04:25:22, malware, 6cdcf11dd64747cdb8af86734083d9f0, http://59.95.134.32:38017/Mozi.m
-200807, 2024-07-27 04:24:57, 2024-07-27 04:24:57, malware, e40b054c80f9405595b2124b4404c3e3, http://59.94.155.134:48413/bin.sh
-200806, 2024-07-27 04:24:51, 2024-07-27 04:24:51, malware, 32a39d79dc684e7a83c3b465894b6c17, http://59.93.185.74:44282/Mozi.m
-200805, 2024-07-27 04:24:14, 2024-07-27 04:24:14, malware, 055ad45afa6844b5a47d23db18e9ef0f, http://59.91.93.34:40150/Mozi.m
-200804, 2024-07-27 04:24:02, 2024-07-27 04:24:02, malware, 8f4dc2d4e79840bc99e6994f2f36c379, http://59.89.225.76:59926/Mozi.m
-200803, 2024-07-27 04:24:00, 2024-07-27 04:24:00, malware, a5d24f069b5242d5b1813a63d5865104, http://59.88.148.201:55940/Mozi.m
-200802, 2024-07-27 04:23:43, 2024-07-27 04:23:43, malware, 246788b9dd1942439e375c52eaf280ad, http://59.184.78.177:59412/Mozi.m
-200801, 2024-07-27 04:22:30, 2024-07-27 04:22:30, malware, 174274f9824a4e7fbd0db429df5ee3c5, http://59.182.131.14:43625/Mozi.m
-200800, 2024-07-27 04:22:29, 2024-07-27 04:22:29, malware, 06fb413d7b13444d9291f20c0da93c25, http://59.182.111.236:53602/i
