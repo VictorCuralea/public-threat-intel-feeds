@@ -6,9 +6,16 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-27 20:00:01 UTC
+# UPDATE: 2024-07-27 21:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+201401, 2024-07-27 20:42:13, 2024-07-27 20:42:13, phishing, 7ed6af5b25f7a3af5d97c09e36bd40d0, http://connectdappxyz.pages.dev
+201400, 2024-07-27 20:32:14, 2024-07-27 20:32:14, phishing, 0b286a24a52721429aada3b2aa77b527, http://brandynude.pages.dev
+201399, 2024-07-27 20:30:17, 2024-07-27 20:30:17, phishing, 55aeef2e8654a52a20aa4e50df472d6a, http://usps.rjvmrkepubn.top
+201398, 2024-07-27 20:20:18, 2024-07-27 20:20:18, phishing, a2b0ff0dc5605350b75e0c30b262070a, http://usps.gmvytakrjqv.top
+201397, 2024-07-27 20:16:12, 2024-07-27 20:16:12, phishing, d5be77db92afabe1fc9beae7e44120c1, http://apprestrctn.duckdns.org
+201396, 2024-07-27 20:08:12, 2024-07-27 20:08:12, phishing, 65fd03a407819ad439ca7f1d77b68a10, http://roundcube003mailrecieptajfkwj7354178174html99830http23mail.pages.dev
+201395, 2024-07-27 20:02:12, 2024-07-27 20:02:12, phishing, caf5fa244e9935dddd2af54c95288b2f, http://tutuyutu.pages.dev
 201394, 2024-07-27 19:44:15, 2024-07-27 19:44:15, phishing, 10746aad3600a0e8caf7d1f6e29bf658, http://bitsupportfix.pages.dev
 201393, 2024-07-27 19:26:49, 2024-07-27 19:26:49, malware, 31fc8464cf1a4e62933f6e79876c630d, http://95.137.238.144:37743/bin.sh
 201392, 2024-07-27 19:26:47, 2024-07-27 19:26:47, malware, e3bf251119764cfaa71b42b61984b622, http://95.137.210.155:52172/i
@@ -502,10 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 200904, 2024-07-27 07:24:30, 2024-07-27 07:24:30, malware, bea7264c7e104b5980e9de311fedb378, http://219.155.172.89:54589/bin.sh
 200903, 2024-07-27 07:24:29, 2024-07-27 07:24:29, malware, b8875298f8dd45398ba47371d4cba33a, http://203.194.107.101:49669/i
 200902, 2024-07-27 07:24:26, 2024-07-27 07:24:26, malware, 0aa562d1edd846cd931e2d06226c6980, http://182.127.154.214:52277/bin.sh
-200901, 2024-07-27 07:24:24, 2024-07-27 07:24:24, malware, 598c8d4fcc464c7c96f75d72dc7b320f, http://182.127.121.54:54092/i
-200900, 2024-07-27 07:24:23, 2024-07-27 07:24:23, malware, ea261476245b48d3ad4f29e452f2d83a, http://182.127.121.54:54092/bin.sh
-200899, 2024-07-27 07:24:21, 2024-07-27 07:24:21, malware, 2f9ffa9ad9a64135988dcce12aa36522, http://182.120.49.182:37301/i
-200898, 2024-07-27 07:24:19, 2024-07-27 07:24:19, malware, 5c3ef17d30bb4455b1245dddfab65633, http://182.120.49.182:37301/bin.sh
-200897, 2024-07-27 07:24:18, 2024-07-27 07:24:18, malware, 38a1a774ad3c4df59e06710e82ff0785, http://182.113.26.230:34762/bin.sh
-200896, 2024-07-27 07:24:16, 2024-07-27 07:24:16, malware, cd4c02be13cc47009ff77840e5da8545, http://138.207.174.248:56411/bin.sh
-200895, 2024-07-27 07:24:13, 2024-07-27 07:24:13, malware, 6824e7c0631142b2a8f1dc2eff8afb93, http://123.129.128.199:56040/i
