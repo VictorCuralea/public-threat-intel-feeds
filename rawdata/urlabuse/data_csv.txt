@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-27 22:00:02 UTC
+# UPDATE: 2024-07-27 23:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+201454, 2024-07-27 22:56:15, 2024-07-27 22:56:15, phishing, f24848f5aebca2453489cbc276a70e26, http://mycommon.zapto.org
 201453, 2024-07-27 21:40:15, 2024-07-27 21:40:15, phishing, 46d0b519dce758fa4de352459cb5d973, http://steamtitaniumcrypt.pages.dev
 201452, 2024-07-27 21:26:35, 2024-07-27 21:26:35, malware, 36488838e655442296bce73df3658a85, http://95.137.212.78:52334/i
 201451, 2024-07-27 21:26:34, 2024-07-27 21:26:34, malware, 7e803e41476c43fd940e67f0a1fa615b, http://78.92.194.255:42983/i
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 200957, 2024-07-27 09:29:19, 2024-07-27 09:29:19, malware, 60049c0d2f5b49d88591dee70426963b, http://123.5.169.254:54109/bin.sh
 200956, 2024-07-27 09:29:17, 2024-07-27 09:29:17, malware, 6e7450d57ef54d3290e67260c98dc0e1, http://123.4.72.74:51974/i
 200955, 2024-07-27 09:29:15, 2024-07-27 09:29:15, malware, 2edbbf5aa685427fb23ac7edcec0be07, http://123.4.72.74:51974/bin.sh
-200954, 2024-07-27 09:29:13, 2024-07-27 09:29:13, malware, 603307581c684ac5bc4d098e073cfbe5, http://123.129.135.158:58549/bin.sh
