@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-27 08:00:02 UTC
+# UPDATE: 2024-07-27 09:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+200925, 2024-07-27 08:50:14, 2024-07-27 08:50:14, phishing, 527165dd9b201120bac277a011941fc1, http://fixweb3connect.pages.dev
+200924, 2024-07-27 08:44:20, 2024-07-27 08:44:20, phishing, de4d2d7248895fed124a9b4c24a95e78, http://tele-gram.icu
+200923, 2024-07-27 08:42:15, 2024-07-27 08:42:15, phishing, a591e34ea3dcf588bb89fc4e40116c67, http://telegarm-com.icu
+200922, 2024-07-27 08:14:14, 2024-07-27 08:14:14, phishing, c8f45341bc1a67a7e4be2b7c7aa92583, http://tw2-mzd.pages.dev
 200921, 2024-07-27 07:40:11, 2024-07-27 07:40:11, phishing, f37d0b67756f353def445a4a74ccd4f2, http://a0ca727fcd37da2a7e64bf27ac6bd.pages.dev
 200920, 2024-07-27 07:25:46, 2024-07-27 07:25:46, malware, de54dc5ea29f42c79b8f89b1fa8dd055, https://atlpvt.com/tmp/2.exe
 200919, 2024-07-27 07:25:44, 2024-07-27 07:25:44, malware, b926419d79ec40adb351071e02e4a12c, http://95.137.193.51:54088/Mozi.m
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 200428, 2024-07-26 19:20:54, 2024-07-26 19:20:54, malware, 34fddb76899747e9b3469ae29a987f26, http://115.55.240.138:50482/bin.sh
 200427, 2024-07-26 19:20:52, 2024-07-26 19:20:52, malware, 0c03e8a530b647169ce21f2a3300d0e0, http://115.55.240.138:50482/
 200426, 2024-07-26 19:20:50, 2024-07-26 19:20:50, malware, 40509113c9d94b9d989c35e616914b0b, http://115.55.239.234:53604/Mozi.m
-200425, 2024-07-26 19:20:48, 2024-07-26 19:20:48, malware, ee6a4594a608406385213663317b38d0, http://115.55.237.88:54579/bin.sh
-200424, 2024-07-26 19:20:46, 2024-07-26 19:20:46, malware, fbae8162f1de4cb6bb024209917472f9, http://115.55.226.185:58614/bin.sh
-200423, 2024-07-26 19:20:44, 2024-07-26 19:20:44, malware, eefebcf51d5145b29d4f0a3d5f37f065, http://115.55.226.185:58614/
-200422, 2024-07-26 19:20:41, 2024-07-26 19:20:41, malware, 0b6df0cdefeb4041b2548b3504968940, http://115.55.128.198:33776/Mozi.m
