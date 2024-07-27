@@ -6,8 +6,12 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-27 12:00:02 UTC
+# UPDATE: 2024-07-27 13:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 201070, "url": "http://service-de-livraison.info", "discovery": "2024-07-27 12:56:13", "added": "2024-07-27 12:56:13", "target": "UPS", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "aecfcd2c46e188708a8bf098384465b4"}
+{"id": 201069, "url": "http://token-poxket.net", "discovery": "2024-07-27 12:54:19", "added": "2024-07-27 12:54:19", "target": "Token Pocket", "reporter": "lruray", "AbuseType": "phishing", "UUID": "aa386262d97ef839d641f075cd1068c8"}
+{"id": 201068, "url": "http://tokenpbpket.net", "discovery": "2024-07-27 12:52:18", "added": "2024-07-27 12:52:18", "target": "Token Pocket", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "6258f40eb551f6d76dd53af15f686bf6"}
+{"id": 201067, "url": "http://truluyclick.pages.dev", "discovery": "2024-07-27 12:20:15", "added": "2024-07-27 12:20:15", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "9ae7c92911df2e87260b0ecdc045297b"}
 {"id": 201066, "url": "https://www.dropbox.com/scl/fi/3q52qfd8lis29v9rhza38/BT-VOICE-NOTIFICATION.papert?dl=0", "discovery": "2024-07-27 11:00:15", "added": "2024-07-27 11:31:54", "target": "BT", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "cc005ccf4e66a98278165a5168cb42db"}
 {"id": 201065, "url": "https://genevievebarker0156433.activehosted.com/f/1", "discovery": "2024-07-27 10:56:13", "added": "2024-07-27 11:31:42", "target": "BT", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "895746b1a3e764ad9cf769bc6e39d5b0"}
 {"id": 201064, "url": "http://95.132.76.190:56559/i", "discovery": "2024-07-27 11:27:05", "added": "2024-07-27 11:27:05", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "fd818ba4338746acb0a0359a71f46ba8"}
@@ -504,7 +508,3 @@
 {"id": 200573, "url": "http://metamega.live/coins.isix.exchange/outlook.php?email=m***@w****.com", "discovery": "2024-07-27 01:03:49", "added": "2024-07-27 01:03:49", "target": "Microsoft", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "8e300d02b1a57e31b9d4e7ea1ca9e7f5"}
 {"id": 200572, "url": "https://arthomes.homes/", "discovery": "2024-07-27 00:58:26", "added": "2024-07-27 00:58:26", "target": "Facebook", "reporter": "urlabuse", "AbuseType": "phishing", "UUID": "15b767fcdd2e9b6e2b5003d0ab5e3c71"}
 {"id": 200571, "url": "https://narrowholetenantperfect.com/1", "discovery": "2024-07-27 00:45:45", "added": "2024-07-27 00:45:45", "target": "Facebook", "reporter": "urlabuse", "AbuseType": "phishing", "UUID": "01f9d8b11c041a15e0ad1454ccc90a2d"}
-{"id": 200570, "url": "https://fametech-cb4spn82ul5xab.ashvisiom.com/9yrpx7acdteu9h3mxdd1/i2k9kyytmviywmB0xZ2VuLzg5OTczMDQ1Ni80Mzg2MDc0ODIvaW5mby84MDk5Mjc3ODMvZmFtZXRlY2guY29tLnR3L056VXpNREExTlRjeg==", "discovery": "2024-07-27 00:41:25", "added": "2024-07-27 00:41:25", "target": "Generic Email", "reporter": "urlabuse", "AbuseType": "phishing", "UUID": "34a7f51e395aac2674fae8a72d15231b"}
-{"id": 200569, "url": "https://fametech-87fwrfgongel5c.ashvisiom.com/r3mgxbimrtqds9057xkc/ylzv4i3ay4f6fmB0xZ2VuLzg5OTczMDQ1Ni80Mzg2MDc0ODIvaW5mby84MDk5Mjc3ODMvZmFtZXRlY2guY29tLnR3L056V", "discovery": "2024-07-27 00:18:29", "added": "2024-07-27 00:41:04", "target": "Generic Email", "reporter": "anonymous", "AbuseType": "phishing", "UUID": "68e3b44d5a9cbcf9aab88d6f94911b12"}
-{"id": 200568, "url": "https://crimson-mode-0c42.yellowprivate.workers.dev/388252028/425835377/1260072759gB0xZ2VuLzg5OTczMDQ1Ni80Mzg2MDc0ODIvaW5mby84MDk5Mjc3ODMvZmFtZXRlY2guY29tLnR3L056VXpNREExTlRjeg==", "discovery": "2024-07-27 00:13:01", "added": "2024-07-27 00:39:37", "target": "Generic Email", "reporter": "anonymous", "AbuseType": "phishing", "UUID": "eda9dc05510fe46a92763ca5515e05a9"}
-{"id": 200567, "url": "http://61.54.41.62:48106/bin.sh", "discovery": "2024-07-26 23:30:54", "added": "2024-07-26 23:30:54", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "93f0eba324e94b67a2420d277484dcd8"}
