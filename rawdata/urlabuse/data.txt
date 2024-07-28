@@ -6,8 +6,9 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-28 18:00:02 UTC
+# UPDATE: 2024-07-28 19:00:02 UTC
 ############### END COMMENTS ###############
+{"id": 202138, "url": "http://yeoisgdoiuhdysidaryjewsg4.pages.dev", "discovery": "2024-07-28 18:46:12", "added": "2024-07-28 18:46:12", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "3f6c1e2805d39da8a4cb74404ac62914"}
 {"id": 202137, "url": "http://95.137.253.64:57551/i", "discovery": "2024-07-28 17:31:10", "added": "2024-07-28 17:31:10", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "1a68bd152914482284aaf3ea1d7394d2"}
 {"id": 202136, "url": "http://95.137.238.51:54115/bin.sh", "discovery": "2024-07-28 17:31:08", "added": "2024-07-28 17:31:08", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "7ab5fcc5a28f4dc494e0a493f0fc4cb0"}
 {"id": 202135, "url": "http://95.137.223.208:49984/bin.sh", "discovery": "2024-07-28 17:31:07", "added": "2024-07-28 17:31:07", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "b48b9671860c406c877ace1629d944ce"}
@@ -507,4 +508,3 @@
 {"id": 201641, "url": "http://117.219.185.2:56070/Mozi.m", "discovery": "2024-07-28 05:21:54", "added": "2024-07-28 05:21:54", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "bbef824011fe455fa1f5bae0d80488b0"}
 {"id": 201640, "url": "http://117.217.163.86:45363/i", "discovery": "2024-07-28 05:21:52", "added": "2024-07-28 05:21:52", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "cb197a9a878f4895bc2902ef5cb3af04"}
 {"id": 201639, "url": "http://117.208.29.43:58166/Mozi.m", "discovery": "2024-07-28 05:21:50", "added": "2024-07-28 05:21:50", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "f1617e47786a44a182329ffc7fae4d9f"}
-{"id": 201638, "url": "http://117.208.223.228:40308/Mozi.m", "discovery": "2024-07-28 05:21:33", "added": "2024-07-28 05:21:33", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "94377ceaa8c94f848b32cb5a35495c6c"}
