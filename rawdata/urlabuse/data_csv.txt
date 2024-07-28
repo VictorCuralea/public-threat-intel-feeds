@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-28 14:00:01 UTC
+# UPDATE: 2024-07-28 15:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+202010, 2024-07-28 14:52:11, 2024-07-28 14:52:11, phishing, b6677e4592f1f9d3ea6badcd23ca4978, http://vc-2i1.pages.dev
 202009, 2024-07-28 13:42:17, 2024-07-28 13:42:17, phishing, fe2957c9530e2ff67164cb059c7b34ee, http://whatoppsx.com
 202008, 2024-07-28 13:26:41, 2024-07-28 13:26:41, malware, 21a0e1b5e1764d078dd54c713d12d8fa, http://95.137.238.51:54115/i
 202007, 2024-07-28 13:26:40, 2024-07-28 13:26:40, malware, 42458c2cb8c94f4b91a25b35e440e04c, http://95.137.223.46:33840/bin.sh
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 201513, 2024-07-27 23:25:23, 2024-07-27 23:25:23, malware, 77b8a94b6a784e9b95dc5b028a6917e2, http://62.212.43.115:51879/bin.sh
 201512, 2024-07-27 23:25:02, 2024-07-27 23:25:02, malware, 30108239fa3b4703bb42439b5382163e, http://59.97.116.125:51213/i
 201511, 2024-07-27 23:24:50, 2024-07-27 23:24:50, malware, 8e5d9d2487dc469f9c1cce54b589df84, http://59.95.92.33:45202/i
-201510, 2024-07-27 23:24:48, 2024-07-27 23:24:48, malware, 17e5a5afa5fb4c209679e42b61f60bd0, http://59.95.92.33:45202/bin.sh
