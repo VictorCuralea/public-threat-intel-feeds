@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-28 06:00:01 UTC
+# UPDATE: 2024-07-28 07:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+201688, 2024-07-28 06:20:12, 2024-07-28 06:20:12, phishing, 75eb423fda7ebb3b62ab11d6ba2a266b, http://multivhian.pages.dev
 201687, 2024-07-28 05:26:41, 2024-07-28 05:26:41, malware, 3b5bd611a86f438fa10e2ee52c8756aa, http://95.137.225.223:53924/Mozi.m
 201686, 2024-07-28 05:26:39, 2024-07-28 05:26:39, malware, ea054fb3f00143a4b6d2abb3f5312158, http://95.137.217.231:34369/bin.sh
 201685, 2024-07-28 05:26:37, 2024-07-28 05:26:37, malware, 5394397dcf1b4d1bbbb2ce1e6d612a19, http://95.137.213.74:53430/i
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 201191, 2024-07-27 15:24:08, 2024-07-27 15:24:08, malware, 3f9f44ba29004286ad01c2d8da63fcdc, http://123.9.108.126:54155/i
 201190, 2024-07-27 15:24:06, 2024-07-27 15:24:06, malware, 2622773ca4734dc19aede68c8298949e, http://123.8.53.150:44269/i
 201189, 2024-07-27 15:24:04, 2024-07-27 15:24:04, malware, b90f4e00895949ff9bffd280f68217cf, http://123.5.172.215:40081/i
-201188, 2024-07-27 15:24:01, 2024-07-27 15:24:01, malware, 3715b0fbe46d495a92ef662ed28458cd, http://123.10.226.217:36357/bin.sh
