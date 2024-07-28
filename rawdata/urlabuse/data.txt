@@ -6,8 +6,20 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-28 20:00:01 UTC
+# UPDATE: 2024-07-28 21:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 202214, "url": "http://gxdfg.pages.dev", "discovery": "2024-07-28 20:54:12", "added": "2024-07-28 20:54:12", "target": "Telegram", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "98023a3240d9bffca1af486b6311dd0d"}
+{"id": 202213, "url": "http://4010.nnuhuik.name.na", "discovery": "2024-07-28 20:51:50", "added": "2024-07-28 20:51:50", "target": "AEON CARD", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "657a45148d1e530326f812f8be482770"}
+{"id": 202212, "url": "http://6455.udidjnx.name.na", "discovery": "2024-07-28 20:45:55", "added": "2024-07-28 20:45:55", "target": "AEON CARD", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "81a4075a3f28dbccac682c059f466bc2"}
+{"id": 202211, "url": "http://6471.kptgiww.name.na", "discovery": "2024-07-28 20:44:43", "added": "2024-07-28 20:44:43", "target": "AEON CARD", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "6544add010874b7917b33b4945173bf2"}
+{"id": 202210, "url": "http://1034.iawfgmj.name.na", "discovery": "2024-07-28 20:40:12", "added": "2024-07-28 20:40:12", "target": "AEON CARD", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "a6998a35f2a23f804b276d1d184b0249"}
+{"id": 202209, "url": "http://6154.eztaqir.name.na", "discovery": "2024-07-28 20:39:41", "added": "2024-07-28 20:39:41", "target": "AEON CARD", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "c64058b68e57d83376d66ce5398faf0e"}
+{"id": 202208, "url": "http://hbkceae.duckdns.org", "discovery": "2024-07-28 20:28:15", "added": "2024-07-28 20:28:15", "target": "Orange", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "fa8d9a6b81860c81021615339cde0cad"}
+{"id": 202207, "url": "http://infertrated.pages.dev", "discovery": "2024-07-28 20:26:17", "added": "2024-07-28 20:26:17", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "41afc4b2b44c560d131fbc676cbf439c"}
+{"id": 202206, "url": "http://5522.hblwyhw.name.na", "discovery": "2024-07-28 20:16:53", "added": "2024-07-28 20:16:53", "target": "AEON CARD", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "2c1e6f5633085d304ac927072f3c5f89"}
+{"id": 202205, "url": "http://3607.suzwwry.name.na", "discovery": "2024-07-28 20:15:29", "added": "2024-07-28 20:15:29", "target": "AEON CARD", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "0c3aa23a305cad61f08979a78eae1a92"}
+{"id": 202204, "url": "http://6788.dnmisaa.name.na", "discovery": "2024-07-28 20:11:55", "added": "2024-07-28 20:11:55", "target": "AEON CARD", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "b07ddc209d20ca3074a9a3f17210d395"}
+{"id": 202203, "url": "http://6383.gactjee.name.na", "discovery": "2024-07-28 20:10:37", "added": "2024-07-28 20:10:37", "target": "AEON CARD", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "719220862325a6c3f26a2df944b223a6"}
 {"id": 202202, "url": "http://5655.zekpxde.name.na", "discovery": "2024-07-28 19:59:19", "added": "2024-07-28 19:59:19", "target": "AEON CARD", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "edd0b69ec07f08b7c6247f09a9b35e16"}
 {"id": 202201, "url": "http://4875.uetuiek.name.na", "discovery": "2024-07-28 19:56:21", "added": "2024-07-28 19:56:21", "target": "AEON CARD", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "c215dfb3670d07c2e279f590cc3615fb"}
 {"id": 202200, "url": "http://5721.adnnpcz.name.na", "discovery": "2024-07-28 19:53:23", "added": "2024-07-28 19:53:23", "target": "AEON CARD", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "dd509573f94e33dd12d16f6b3765eb36"}
@@ -496,15 +508,3 @@
 {"id": 201717, "url": "http://123.4.71.150:41227/bin.sh", "discovery": "2024-07-28 07:24:10", "added": "2024-07-28 07:24:10", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "36b53dd085be40ebb98ed0c59f87faec"}
 {"id": 201716, "url": "http://123.4.130.188:59681/bin.sh", "discovery": "2024-07-28 07:24:07", "added": "2024-07-28 07:24:07", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "667362b914614cf081dbd7d764739658"}
 {"id": 201715, "url": "http://123.14.248.160:33021/", "discovery": "2024-07-28 07:24:05", "added": "2024-07-28 07:24:05", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "fae104d5ddcd4aa5ad97b6c5f788a16a"}
-{"id": 201714, "url": "http://123.10.54.166:33181/Mozi.m", "discovery": "2024-07-28 07:24:03", "added": "2024-07-28 07:24:03", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "f8f528d7420a466bb50caf7c78b7dcb3"}
-{"id": 201713, "url": "http://123.10.13.113:44903/i", "discovery": "2024-07-28 07:24:01", "added": "2024-07-28 07:24:01", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "aedccf25bea849dea276b83a38f50ce1"}
-{"id": 201712, "url": "http://120.211.201.252:51867/bin.sh", "discovery": "2024-07-28 07:23:59", "added": "2024-07-28 07:23:59", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "40f58445acbc4d51ae1a738a86ef5e4c"}
-{"id": 201711, "url": "http://119.183.128.107:60174/Mozi.m", "discovery": "2024-07-28 07:23:58", "added": "2024-07-28 07:23:58", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "42c621bdd2e84f318773de0223cbb822"}
-{"id": 201710, "url": "http://118.250.6.103:53546/bin.sh", "discovery": "2024-07-28 07:23:55", "added": "2024-07-28 07:23:55", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "0845cedf6afb4e108c1a2e66c6ad49dc"}
-{"id": 201709, "url": "http://8378.whxcsip.name.na", "discovery": "2024-07-28 07:23:29", "added": "2024-07-28 07:23:29", "target": "AEON CARD", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "b4e9b7ae95b860da97e9382986af2484"}
-{"id": 201708, "url": "http://117.245.6.0:38907/Mozi.m", "discovery": "2024-07-28 07:22:57", "added": "2024-07-28 07:22:57", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "75deb2cf85ad4a78b988bd5ea3178e6a"}
-{"id": 201707, "url": "http://117.242.202.224:56635/bin.sh", "discovery": "2024-07-28 07:22:35", "added": "2024-07-28 07:22:35", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "be7560286cf940a4af4a834237dae828"}
-{"id": 201706, "url": "http://117.223.5.141:54313/bin.sh", "discovery": "2024-07-28 07:22:31", "added": "2024-07-28 07:22:31", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "826779e23ee541f1a98518ca6a913b65"}
-{"id": 201705, "url": "http://117.223.108.40:40726/Mozi.m", "discovery": "2024-07-28 07:22:29", "added": "2024-07-28 07:22:29", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "cf7e930b6ca542f887fbed6014dd71f5"}
-{"id": 201704, "url": "http://117.222.252.112:53678/bin.sh", "discovery": "2024-07-28 07:22:26", "added": "2024-07-28 07:22:26", "target": "#ELF32_MIPSv1", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "d4c158c277fa4a2e843eafdfed401fc2"}
-{"id": 201703, "url": "http://7081.uhodtcc.name.na", "discovery": "2024-07-28 07:22:24", "added": "2024-07-28 07:22:24", "target": "AEON CARD", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "51fdb1f55d4cea94f116df48417ba28a"}
