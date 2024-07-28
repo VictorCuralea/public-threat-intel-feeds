@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-28 00:00:02 UTC
+# UPDATE: 2024-07-28 01:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+201519, 2024-07-28 00:00:13, 2024-07-28 00:00:13, phishing, b18d4f9aaf9dadf8fe1b2447e8ea9e45, http://76ue5e5u7uje5u7.pages.dev
 201518, 2024-07-27 23:40:15, 2024-07-27 23:40:15, phishing, 021f94965974eb5d2321af339f128dfc, http://modemaindapp.pages.dev
 201517, 2024-07-27 23:40:15, 2024-07-27 23:40:15, phishing, 61476351636459831342b662619982e0, http://ups.sendungsstatus.click
 201516, 2024-07-27 23:32:12, 2024-07-27 23:32:12, phishing, e6d6050c5f51fda7642eda6c367e8235, http://modedappmain.pages.dev
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 201022, 2024-07-27 11:20:13, 2024-07-27 11:20:13, malware, 0bb96fcfd0524c1cb5eecdebb711b039, http://115.55.219.38:51808/i
 201021, 2024-07-27 11:20:11, 2024-07-27 11:20:11, malware, 3e0e4a70c56548fe9236c72f236f5876, http://115.50.227.95:38813/i
 201020, 2024-07-27 11:20:09, 2024-07-27 11:20:09, malware, ffa54505ede1443790931105e690ea30, http://115.50.227.95:38813/bin.sh
-201019, 2024-07-27 11:20:07, 2024-07-27 11:20:07, malware, cd3673a6d6014f278eb0ab03699e8a57, http://112.247.69.29:45087/i
