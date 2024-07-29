@@ -6,9 +6,19 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-29 10:00:01 UTC
+# UPDATE: 2024-07-29 11:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+202793, 2024-07-29 10:52:40, 2024-07-29 10:52:40, phishing, e92ee7b546136e46b524c9c75c948bcd, http://ww-pb365.cc
+202792, 2024-07-29 10:18:13, 2024-07-29 10:18:13, phishing, 079be8c39dbb81bcdb573e096326faf4, http://mail.emirkiyap.com
+202791, 2024-07-29 10:04:15, 2024-07-29 10:04:15, phishing, c21b6e0a5f9c5f0a0553aef5b51c2d59, https://web.bank.rs.ru/CookieAuth.dll?GetLogon?curl=Z2Fowa&reason=0&formdir=1
+202790, 2024-07-29 10:04:08, 2024-07-29 09:56:12, phishing, d7f6afedd8c913b6d7556b968dd1ef92, https://post-serve.icu/de?t=qnuEh
+202789, 2024-07-29 10:03:53, 2024-07-29 10:03:53, phishing, 73a9e8aaf0bf92e200aee63b4501c1e6, https://web.bank.rs.ru/
+202788, 2024-07-29 10:03:51, 2024-07-29 10:03:51, phishing, 518c42c05ec3f8431f761898c6122688, https://webs.bank.rs.ru/
+202787, 2024-07-29 10:03:45, 2024-07-29 10:03:45, phishing, 7162c97687b875cb7475a27a68341321, http://pub-c9e64147d3574630a977dc0fc6d899b0.r2.dev/MicrosoftOutlook2.html
+202786, 2024-07-29 10:03:18, 2024-07-29 08:54:11, phishing, f31c567463e899a6c37746b07a1d8371, https://ee-pending.web.app/
+202785, 2024-07-29 10:02:24, 2024-07-29 10:02:24, phishing, 6c8897484951f4257fd978f1fe36c308, https://www.telegramrederictiononsite.online/
+202784, 2024-07-29 10:02:10, 2024-07-29 10:02:10, phishing, dd91de2a1f932d85d937ff4c23097259, https://telegramdatingsextwo.pages.dev/
 202783, 2024-07-29 09:56:13, 2024-07-29 09:56:13, phishing, 449d20d2844a34a4913bbc3cc29b7b36, https://twint.vouchrem.com/redeem/15486850/?src=
 202782, 2024-07-29 09:48:13, 2024-07-29 09:48:13, phishing, 388a4cdd369d8ac7bbd5749bef65c439, http://testingdomains.ru
 202781, 2024-07-29 09:44:12, 2024-07-29 09:44:12, phishing, 398b56bed7b64023fa851ce15f6ee70b, http://espace-ameli-en-ligne.fr
@@ -499,13 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 202296, 2024-07-28 23:23:30, 2024-07-28 23:23:30, malware, 08dfb636f15142cd88e6fe67fd5b2f91, http://176.74.114.253:39718/i
 202295, 2024-07-28 23:23:19, 2024-07-28 23:23:19, malware, f75ca91df5f842c6a2b2e05ce1c73f7a, http://176.74.109.222:54925/i
 202294, 2024-07-28 23:23:18, 2024-07-28 23:23:18, malware, 41572b3ded894b83bc64fc39e2bd5164, http://176.74.108.129:48713/bin.sh
-202293, 2024-07-28 23:23:17, 2024-07-28 23:23:17, malware, 60cb03a492024502800d0139f96925a6, http://176.74.107.26:56959/i
-202292, 2024-07-28 23:23:15, 2024-07-28 23:23:15, malware, 71e325bf3eff4c4d80bf47af670eddb2, http://176.74.107.152:54268/Mozi.m
-202291, 2024-07-28 23:23:14, 2024-07-28 23:23:14, malware, c8d220fae06746be94f840a1025baf56, http://176.74.107.125:44038/i
-202290, 2024-07-28 23:23:12, 2024-07-28 23:23:12, malware, 5c517bc7428143b08971c67bbeb5e62f, http://176.74.106.146:48119/i
-202289, 2024-07-28 23:23:11, 2024-07-28 23:23:11, malware, d5859826adeb4d1f9952c722bf408e3b, http://176.74.106.128:39702/i
-202288, 2024-07-28 23:22:29, 2024-07-28 23:22:29, malware, 002dfcba38144ced98caac8b43648b78, http://125.45.48.32:57334/
-202287, 2024-07-28 23:22:27, 2024-07-28 23:22:27, malware, e8263cf539ca457f9f7c634fc1bbb4ce, http://125.44.220.16:34663/Mozi.m
-202286, 2024-07-28 23:22:25, 2024-07-28 23:22:25, malware, f7a5b0106b8a41ba8603a7f733bceebf, http://125.43.73.61:45268/
-202285, 2024-07-28 23:22:23, 2024-07-28 23:22:23, malware, c3478e36b95f4b4295d79d442e841aff, http://123.9.198.68:53424/i
-202284, 2024-07-28 23:22:21, 2024-07-28 23:22:21, malware, db70020f50e54165addcbf402666a577, http://123.5.150.196:50452/bin.sh
