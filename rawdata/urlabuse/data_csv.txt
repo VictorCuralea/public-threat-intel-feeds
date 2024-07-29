@@ -6,9 +6,16 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-29 08:00:01 UTC
+# UPDATE: 2024-07-29 09:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+202726, 2024-07-29 08:52:32, 2024-07-29 08:24:12, phishing, a84493ac88d20c3d0a5e084b4f240d25, https://konto-swisspass.eu/
+202725, 2024-07-29 08:32:25, 2024-07-29 08:32:25, phishing, 1ddf13f4ebf6af1f745caf7c5535f986, http://p36511.cc
+202724, 2024-07-29 08:02:07, 2024-07-29 07:50:16, phishing, d1c4bc60052cdb685034621eca0d5a7f, https://antar.antaresengenharia.com/login.php
+202723, 2024-07-29 08:01:44, 2024-07-29 07:48:14, phishing, 5b01612e8de0a112de18773c59b93a6a, https://mycssrefuch.sviluppo.host/lndexx/app/auth/flow/mycss-login/ext
+202722, 2024-07-29 08:01:10, 2024-07-29 07:14:17, phishing, 260b92dd4d693f5941ab3ddef442ee99, https://ageeandageelaw.com/rou/h/figarland.php
+202721, 2024-07-29 08:00:51, 2024-07-29 07:14:14, phishing, 9333c8365546f534c0e22c2bb49320e6, https://dev-ovhroundcube14.pantheonsite.io/roundcube/
+202720, 2024-07-29 08:00:21, 2024-07-29 07:12:15, phishing, d455bbb4b706bc989a368e9d52a0b623, https://zfs.jwz.mybluehost.me/website_d2651255/wp-content/uploads/swisraaaa/login.htm
 202719, 2024-07-29 07:59:26, 2024-07-29 07:04:21, phishing, f4918e2d07bd716b38b64e7d11d889db, https://nia.sga.mybluehost.me/dashboard
 202718, 2024-07-29 07:59:14, 2024-07-29 06:52:12, phishing, 62db8843655a1a9e63255bfb67465b95, http://391421-c9d0a.preview.sitejet.io/
 202717, 2024-07-29 07:50:13, 2024-07-29 07:50:13, phishing, b5c3e6a16c4f17b2d61ab5517674f9b3, https://www.tutbuzz.com/online.html
@@ -502,10 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 202229, 2024-07-28 21:23:37, 2024-07-28 21:23:37, malware, 6f14017b99994e2d9837e49467996564, http://120.61.64.119:38721/
 202228, 2024-07-28 21:23:34, 2024-07-28 21:23:34, malware, a3d46970c34a4666afe2aa0208325eb0, http://120.61.18.222:33371/i
 202227, 2024-07-28 21:23:29, 2024-07-28 21:23:29, malware, 58e00883d14e4499a64fe96bcc65d04b, http://117.26.72.120:51806/i
-202226, 2024-07-28 21:22:52, 2024-07-28 21:22:52, malware, 2fa5bbe2bc894151911503fd00300e64, http://117.254.96.198:53778/i
-202225, 2024-07-28 21:22:41, 2024-07-28 21:22:41, malware, 73278e94631b4c58a9dbaf55d10a6048, http://117.252.161.111:52710/Mozi.m
-202224, 2024-07-28 21:22:39, 2024-07-28 21:22:39, malware, fe5c5d6d8b994b10946d18b133054bf0, http://117.248.171.167:47452/Mozi.m
-202223, 2024-07-28 21:22:00, 2024-07-28 21:22:00, malware, 568887a3b53c4b9ea6aabae62eed177b, http://117.248.161.237:58233/Mozi.m
-202222, 2024-07-28 21:21:17, 2024-07-28 21:21:17, malware, 9cee812b61004b678e18af7895e1d248, http://117.242.232.3:49797/Mozi.m
-202221, 2024-07-28 21:21:12, 2024-07-28 21:21:12, malware, 27285ca6e137467b879f2f160fc2d5bc, http://117.241.51.205:48354/Mozi.m
-202220, 2024-07-28 21:20:38, 2024-07-28 21:20:38, malware, 444489549c7b4c9eaaf2e9c7ac9a869e, http://117.206.182.26:46667/bin.sh

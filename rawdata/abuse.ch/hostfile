@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-07-28 17:58:43 UTC                        #
+# Last updated: 2024-07-29 08:02:29 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	securitynull.duckdns.org
+127.0.0.1	wowsecurityspider.duckdns.org
+127.0.0.1	serak.top
 127.0.0.1	cnc.gay
 127.0.0.1	euphorianet.xyz
 127.0.0.1	idea-bernard.gl.at.ply.gg
@@ -7009,4 +7012,4 @@
 127.0.0.1	euunclaimedpymt.com
 127.0.0.1	stachmentsuprimeresult.com
 127.0.0.1	miner.eastestsite.com
-# Number of entries: 7003
+# Number of entries: 7006
