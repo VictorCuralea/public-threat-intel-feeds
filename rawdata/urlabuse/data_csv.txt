@@ -6,9 +6,15 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-29 19:00:02 UTC
+# UPDATE: 2024-07-29 20:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+203127, 2024-07-29 19:04:19, 2024-07-29 19:04:19, phishing, ced13983dc4173ffa548635906ff0d7f, https://px5wkf67sojxamodz7sfdr5ycafwviwxp5zhvx7r4wgrsvipz5wq.ar-io.dev/fftlF9-Tk3Axw8_kUce4EAtqotd_cnrf8eWNGVUPz20
+203126, 2024-07-29 19:03:59, 2024-07-29 19:03:59, phishing, d672f575de46e231684568800801f056, https://jwrojy2mmsurfwo6tajgc7mnlqvxyi72ftglmgqls2yaporzvd7a.ar-io.dev/TaLk40xkqRLZ3pgSYX2NXCt8I_oszLYaC5awB7o5qP4
+203125, 2024-07-29 19:03:13, 2024-07-29 19:03:13, phishing, 472f026139dcabfaa3a8244348b89e31, https://admin.shark404.com/
+203124, 2024-07-29 19:02:49, 2024-07-29 19:02:49, phishing, fefc7b27edcea42c446f994860313e01, https://tele-gram.store/
+203123, 2024-07-29 19:02:27, 2024-07-29 19:02:27, phishing, 7a2739cc6314ecdcdb1a3d6b46cab338, https://telegram.grafana.es/
+203122, 2024-07-29 19:00:15, 2024-07-29 19:00:15, phishing, 78916924585c126f00726162878ae6f0, http://sadasdsfsdd33fw.click
 203121, 2024-07-29 18:20:14, 2024-07-29 18:20:14, phishing, 050f803f5fe9d23a07ebeb993f4bde58, https://borey-ra.ru/htdocs/fr/fr/1/doc/start_index.php
 203120, 2024-07-29 18:18:15, 2024-07-29 18:18:15, phishing, 2f6d9bedf4d92f21036100a74980b381, https://cskhvienthong.com/.quarantine/fr
 203119, 2024-07-29 18:18:13, 2024-07-29 18:18:13, phishing, b1866a4aa0ed6cbd096c029cba49fa05, http://chat.mercadolivreseguranca.com
@@ -503,9 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 202630, 2024-07-29 07:02:13, 2024-07-29 07:02:13, phishing, 6b4c541a2b58ba8a6d5728a40549b2f7, https://premikd.store/
 202629, 2024-07-29 05:28:34, 2024-07-29 05:28:34, malware, 7edd78abd53e451bb43d741b01bed9ef, http://95.137.249.196:52300/i
 202628, 2024-07-29 05:28:33, 2024-07-29 05:28:33, malware, 9254efff814a47f7bede73b975f779ce, http://95.137.249.196:52300/bin.sh
-202627, 2024-07-29 05:28:32, 2024-07-29 05:28:32, malware, 3bcdf1b808bb4bb798c0b7e586f2bfe8, http://95.137.244.238:44957/Mozi.m
-202626, 2024-07-29 05:28:30, 2024-07-29 05:28:30, malware, 8c5aee2e6aef4e04918d38f02ad0801d, http://95.137.223.127:53911/i
-202625, 2024-07-29 05:28:29, 2024-07-29 05:28:29, malware, 0bf362f1c84e446fbaf96af07dc7fc43, http://95.137.212.13:33930/bin.sh
-202624, 2024-07-29 05:28:28, 2024-07-29 05:28:28, malware, 691b082fae294eecaf70d8409b894492, http://95.137.206.17:57456/i
-202623, 2024-07-29 05:28:27, 2024-07-29 05:28:27, malware, b48a678a657b493aa0018fa1b17f2c57, http://95.137.206.17:57456/bin.sh
-202622, 2024-07-29 05:28:25, 2024-07-29 05:28:25, malware, 1bbe07d2e4b148deb809dda995c8f9cf, http://95.137.182.55:51939/bin.sh
