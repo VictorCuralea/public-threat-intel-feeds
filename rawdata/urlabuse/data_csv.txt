@@ -6,9 +6,14 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-29 18:00:01 UTC
+# UPDATE: 2024-07-29 19:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+203121, 2024-07-29 18:20:14, 2024-07-29 18:20:14, phishing, 050f803f5fe9d23a07ebeb993f4bde58, https://borey-ra.ru/htdocs/fr/fr/1/doc/start_index.php
+203120, 2024-07-29 18:18:15, 2024-07-29 18:18:15, phishing, 2f6d9bedf4d92f21036100a74980b381, https://cskhvienthong.com/.quarantine/fr
+203119, 2024-07-29 18:18:13, 2024-07-29 18:18:13, phishing, b1866a4aa0ed6cbd096c029cba49fa05, http://chat.mercadolivreseguranca.com
+203118, 2024-07-29 18:16:15, 2024-07-29 18:16:15, phishing, d338bdfbe23a07d076cb287b6a491f1e, http://telegrazm.org
+203117, 2024-07-29 18:06:15, 2024-07-29 18:06:15, phishing, 416007fd8a2520bbe3470b032283b777, https://borey-ra.ru/htdocs/fr/fr/
 203116, 2024-07-29 17:37:08, 2024-07-29 16:26:19, phishing, 53bae6015e6cfbfc7746495b6b77af98, https://classes2024gouv.fr/
 203115, 2024-07-29 17:28:11, 2024-07-29 17:28:11, phishing, ed293193fd26977f66f916d54656fd19, http://dulhonepaqe.kingtablegroup.com
 203114, 2024-07-29 17:23:46, 2024-07-29 17:23:46, malware, d15b181118b0400a95a9ecf5cb84eedb, http://95.137.223.241:42128/i
@@ -504,8 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 202624, 2024-07-29 05:28:28, 2024-07-29 05:28:28, malware, 691b082fae294eecaf70d8409b894492, http://95.137.206.17:57456/i
 202623, 2024-07-29 05:28:27, 2024-07-29 05:28:27, malware, b48a678a657b493aa0018fa1b17f2c57, http://95.137.206.17:57456/bin.sh
 202622, 2024-07-29 05:28:25, 2024-07-29 05:28:25, malware, 1bbe07d2e4b148deb809dda995c8f9cf, http://95.137.182.55:51939/bin.sh
-202621, 2024-07-29 05:28:24, 2024-07-29 05:28:24, malware, e0b4fd9e9b2e48d4b39255029d026add, http://61.53.46.140:56609/i
-202620, 2024-07-29 05:28:22, 2024-07-29 05:28:22, malware, 8fe9cc5b2b5b4cccaa856e1eada6f0b1, http://61.53.251.208:55704/i
-202619, 2024-07-29 05:28:21, 2024-07-29 05:28:21, malware, 571e5fd789a34c8a9b4b439e38131638, http://61.52.170.147:38710/
-202618, 2024-07-29 05:28:19, 2024-07-29 05:28:19, malware, 6b0064fdc79d4d3eaf8ec88b65b3a850, http://59.96.176.126:41502/i
-202617, 2024-07-29 05:28:17, 2024-07-29 05:28:17, malware, 8f4ea981b2844a2dbede9aa69ad710a6, http://59.95.84.197:48385/Mozi.m
