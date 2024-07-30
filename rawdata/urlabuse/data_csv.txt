@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-30 20:00:01 UTC
+# UPDATE: 2024-07-30 21:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+203990, 2024-07-30 20:58:13, 2024-07-30 20:58:13, phishing, 4373e7a00f1ee736854660a08d82002b, http://cb0178.pages.dev
+203989, 2024-07-30 20:50:11, 2024-07-30 20:50:11, phishing, 1ba65ffe72319384284543d026da4d2f, http://docusign-pdf-secure.pages.dev
+203988, 2024-07-30 20:48:17, 2024-07-30 20:48:17, phishing, 8f5b753e3c949dc5357f887ed66bc752, http://iciciphone.com
+203987, 2024-07-30 20:12:13, 2024-07-30 20:12:13, phishing, 051006398bb224118eb0339c3bd2313e, https://godi1smystrenght.weebly.com/
 203986, 2024-07-30 19:50:16, 2024-07-30 19:50:16, phishing, 94b73068f21ad63aab9f1ce2ade06328, https://britishtele3.weebly.com/?utm_source=hoobe
 203985, 2024-07-30 19:36:15, 2024-07-30 19:36:15, phishing, fe7482e69e486de5fcdcb229a184da26, http://caisse-assurance-maladie.info
 203984, 2024-07-30 19:27:55, 2024-07-30 19:27:55, malware, 305ee031f42e4d9cb562b95cf5bd3a2f, http://95.137.182.244:35388/i
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 203493, 2024-07-30 11:31:57, 2024-07-30 11:31:57, malware, f62d9ff1d63a4333b35b631eb75a81f4, http://176.74.75.158:44182/Mozi.m
 203492, 2024-07-30 11:31:56, 2024-07-30 11:31:56, malware, d5fcb7695a304e40a5f49aad1df1bba1, http://176.74.71.10:33635/Mozi.m
 203491, 2024-07-30 11:31:55, 2024-07-30 11:31:55, malware, 9e8cbc267f624777915850a164108f8d, http://176.74.120.200:36005/i
-203490, 2024-07-30 11:31:53, 2024-07-30 11:31:53, malware, 0d85e016638042d89db83a556670d937, http://176.74.120.152:33303/bin.sh
-203489, 2024-07-30 11:31:52, 2024-07-30 11:31:52, malware, 9e9db5b7d4ea4e59ae5a7c54c9229ff3, http://176.74.113.32:49855/i
-203488, 2024-07-30 11:31:51, 2024-07-30 11:31:51, malware, bc9e9006f61d46d9ae0e9edce33eea98, http://176.74.109.227:56555/i
-203487, 2024-07-30 11:31:50, 2024-07-30 11:31:50, malware, 78e294a577f945dcbb2498c1fc75b749, http://125.40.114.22:56682/Mozi.m
