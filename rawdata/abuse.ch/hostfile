@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-07-30 06:37:39 UTC                        #
+# Last updated: 2024-07-30 07:19:58 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	portal.sharjahconnect.online
 127.0.0.1	02radiantquagmire.buzz
 127.0.0.1	03rhapsodyeclipse.buzz
 127.0.0.1	05renaissancecryptic.buzz
@@ -7042,4 +7043,4 @@
 127.0.0.1	ns1.gac-oa.com
 127.0.0.1	dns.atchesonprint.com
 127.0.0.1	c1.tqrjfru.cn
-# Number of entries: 7036
+# Number of entries: 7037
