@@ -6,9 +6,19 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-30 22:00:01 UTC
+# UPDATE: 2024-07-30 23:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+204082, 2024-07-30 22:42:14, 2024-07-30 22:42:14, phishing, b97a8b7e31cb9765a2d413f374822ca9, http://zkleveldegreeverse.pages.dev
+204081, 2024-07-30 22:40:11, 2024-07-30 22:40:11, phishing, 324286d63d72bd3eb16df26d83cd25c4, http://official-dating-world.pages.dev
+204080, 2024-07-30 22:40:10, 2024-07-30 22:40:10, phishing, 70db2c8883f53af295a776153a490343, http://official-dating-world.pages.dev
+204079, 2024-07-30 22:36:10, 2024-07-30 22:36:10, phishing, 42602633f05b6261f42c628488ad5551, http://sjdfoeusoednhskiuovescenisu03.pages.dev
+204078, 2024-07-30 22:20:13, 2024-07-30 22:20:13, phishing, ac6c1c71909c647074d61da00aefd54f, http://wieneraidapp.pages.dev
+204077, 2024-07-30 22:03:03, 2024-07-30 22:03:03, phishing, 8c448e2175c347c2dfed1879d1bcea79, https://www.middletennesseeroofcoatingservice.com/
+204076, 2024-07-30 22:02:53, 2024-07-30 22:02:53, phishing, 3b090c8e22262648fefa647aaa0e4d8c, https://cambodiaviralcollection.msge4.my.id/main.php
+204075, 2024-07-30 22:02:51, 2024-07-30 22:02:51, phishing, eead0867c3ed3e941b8d7a48711fe3a9, https://twebk.netlify.app/
+204074, 2024-07-30 22:02:33, 2024-07-30 22:02:33, phishing, 01c22e3e35a172042cd3ceb2d0bfd7ea, https://id1.aeeew.my.id/
+204073, 2024-07-30 22:02:19, 2024-07-30 22:02:19, phishing, a83de30fba72e5e57e9c35b1c4cfe21d, https://id1.sonowicak1809.workers.dev/
 204072, 2024-07-30 21:29:54, 2024-07-30 21:29:54, malware, 083206a4edfc4638bdd0c4317d10670e, https://dogspillars.com/319e1b7572097780/vcruntime140.dll
 204071, 2024-07-30 21:29:53, 2024-07-30 21:29:53, malware, 3aa45787e4504358b72ac32bf5495a09, https://dogspillars.com/319e1b7572097780/sqlite3.dll
 204070, 2024-07-30 21:29:34, 2024-07-30 21:29:34, malware, bc6677158177413ca4d7adc96b4dd6d5, https://dogspillars.com/319e1b7572097780/msvcp140.dll
@@ -499,13 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 203585, 2024-07-30 13:29:11, 2024-07-30 13:29:11, malware, 4627435709b346c890e98faeb251da1c, http://117.208.209.125:43557/bin.sh
 203584, 2024-07-30 13:28:53, 2024-07-30 13:28:53, malware, f3f6f89c37514bf7baba0cd5049a7979, http://117.208.16.72:54067/i
 203583, 2024-07-30 13:28:01, 2024-07-30 13:28:01, malware, fed89d8dd911421bb9c963dd3faac745, http://117.206.64.85:56615/bin.sh
-203582, 2024-07-30 13:26:48, 2024-07-30 13:26:48, malware, 8b05bf80fdbd43fa91e6db877c9459f6, http://117.203.112.29:42566/Mozi.m
-203581, 2024-07-30 13:26:12, 2024-07-30 13:26:12, phishing, 0cad56c14a8fedc9d53a69f07244ba06, http://mail.emirkiyaptr.com
-203580, 2024-07-30 13:22:56, 2024-07-30 13:22:56, malware, 9e18c4e5fc764317963ae1f92c1d2f55, http://115.63.10.150:48630/i
-203579, 2024-07-30 13:22:53, 2024-07-30 13:22:53, malware, ced9a0e3231545ea8d3076c66eb9047d, http://115.61.7.201:53176/bin.sh
-203578, 2024-07-30 13:22:51, 2024-07-30 13:22:51, malware, 57be788f120d426cb9fca33b0edcfaf4, http://115.61.52.144:50136/i
-203577, 2024-07-30 13:22:50, 2024-07-30 13:22:50, malware, 3d1ccec4ecfe4bc6a650a690df69bb5b, http://115.61.52.144:50136/bin.sh
-203576, 2024-07-30 13:22:48, 2024-07-30 13:22:48, malware, dd956da38bcf4ec485e9e131babdf81e, http://115.61.115.159:58622/i
-203575, 2024-07-30 13:22:45, 2024-07-30 13:22:45, malware, b3b15bdb3dcb4c2babb4d0e5906ec428, http://115.61.115.159:58622/bin.sh
-203574, 2024-07-30 13:22:43, 2024-07-30 13:22:43, malware, 1ec87e0b6b6343a98b94ffd17540ef11, http://115.59.4.201:40618/i
-203573, 2024-07-30 13:22:10, 2024-07-30 13:22:10, malware, 3337e74970ba47cea0567801717d0865, http://115.56.42.169:38234/bin.sh
