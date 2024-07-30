@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-07-30 07:19:58 UTC                        #
+# Last updated: 2024-07-30 12:48:03 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	bymett.com
+127.0.0.1	bluetreewater.com
 127.0.0.1	portal.sharjahconnect.online
 127.0.0.1	02radiantquagmire.buzz
 127.0.0.1	03rhapsodyeclipse.buzz
@@ -7036,5 +7038,4 @@
 127.0.0.1	ramzanlee.fvds.ru
 127.0.0.1	asp.keyshape.net
 127.0.0.1	allsmt.cam
-127.0.0.1	srryapi.store
-# Number of entries: 7031
+# Number of entries: 7032
