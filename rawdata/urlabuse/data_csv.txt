@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-30 06:00:01 UTC
+# UPDATE: 2024-07-30 07:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+203349, 2024-07-30 06:58:14, 2024-07-30 06:58:14, phishing, c70db1ba661663d6f1ceff1872279a51, http://smartguardiantechpad.pages.dev
+203348, 2024-07-30 06:16:21, 2024-07-30 06:16:21, phishing, fdf12c7c460a87f9082158c4976fb6d6, http://token.tpwalletapp.cc
 203347, 2024-07-30 05:24:06, 2024-07-30 05:24:06, malware, 24f83863c1824ac8adf12b41030bb7ed, http://95.137.206.156:45097/i
 203346, 2024-07-30 05:23:45, 2024-07-30 05:23:45, malware, b92001ac2bed430aba4661eb7ad5ff86, http://222.142.241.199:42285/i
 203345, 2024-07-30 05:23:43, 2024-07-30 05:23:43, malware, 4a94d1ae584342fb945145726c643dcb, http://195.164.132.134:24421/.i
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 202852, 2024-07-29 11:26:56, 2024-07-29 11:26:56, malware, 845cce6f15684eacaac296afa15899f9, http://59.88.7.35:51535/Mozi.m
 202851, 2024-07-29 11:26:16, 2024-07-29 11:26:16, phishing, 7dc23ad37d86a41f0dbe1aeefe83eb41, http://webbtrades.pages.dev
 202850, 2024-07-29 11:26:13, 2024-07-29 11:26:13, malware, 44872b6312fd4577a31937d7d4e1b261, http://42.231.42.232:47357/i
-202849, 2024-07-29 11:26:11, 2024-07-29 11:26:11, malware, d904a09c39f44615b234c38a323887f8, http://42.230.35.3:40831/bin.sh
-202848, 2024-07-29 11:26:10, 2024-07-29 11:26:10, malware, af4496cfbebc4b56af1c39ba2e984591, http://42.225.197.211:54394/bin.sh
