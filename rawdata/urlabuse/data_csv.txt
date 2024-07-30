@@ -6,9 +6,28 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-30 02:00:02 UTC
+# UPDATE: 2024-07-30 03:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+203290, 2024-07-30 02:42:17, 2024-07-30 02:42:17, phishing, cf2cfa64a2cb54895c6cf1d6f6466298, http://liveairdclazmersn.pages.dev
+203289, 2024-07-30 02:42:13, 2024-07-30 02:42:13, phishing, 95ecea8babd43626b28308f2ee8b2555, http://ckara482.sa.com
+203288, 2024-07-30 02:34:13, 2024-07-30 02:34:13, phishing, 9ffed6039f28c37a3972fe43b1c6aba1, http://hello-world-floral-scene-7022.joe-ace.workers.dev
+203287, 2024-07-30 02:28:12, 2024-07-30 02:28:12, phishing, cdea44c5b3df7b3d9020e3911a011495, http://join-mywhatsapp.pages.dev
+203286, 2024-07-30 02:21:54, 2024-07-30 02:21:54, malware, 74ab3ad234324fb6b7166df861616b0a, http://95.137.206.156:45097/bin.sh
+203285, 2024-07-30 02:21:53, 2024-07-30 02:21:53, malware, f8a183ee251746c69235cf5bc516ad3b, http://95.137.168.121:51635/i
+203284, 2024-07-30 02:21:52, 2024-07-30 02:21:52, malware, 979e6085d87b4ee1acb7215232bba4c2, http://95.137.168.121:51635/bin.sh
+203283, 2024-07-30 02:21:51, 2024-07-30 02:21:51, malware, b5c66ecdcab44b79b4995e04956d59c5, http://91.239.77.159:33363/bin.sh
+203282, 2024-07-30 02:21:20, 2024-07-30 02:21:20, malware, 48178b8da1014ee18e53810d6e0791ec, http://59.95.88.70:49740/Mozi.m
+203281, 2024-07-30 02:21:10, 2024-07-30 02:21:10, malware, baf5be12ebaa4263a09ab2371588a382, http://42.231.252.13:55525/Mozi.m
+203280, 2024-07-30 02:21:08, 2024-07-30 02:21:08, malware, f096286a840c4a9d9c21460b8c2d1544, http://37.55.131.77:39403/bin.sh
+203279, 2024-07-30 02:20:57, 2024-07-30 02:20:57, malware, 5a05de62608a4284850679656334e5e7, http://182.120.53.213:46847/Mozi.m
+203278, 2024-07-30 02:20:56, 2024-07-30 02:20:56, malware, 16eba89f84ca404e808234a8dcb46186, http://182.119.9.244:37619/i
+203277, 2024-07-30 02:20:49, 2024-07-30 02:20:49, malware, 73fe0da96d1a47bfbfeee3792527f789, http://148.103.220.4:52835/i
+203276, 2024-07-30 02:20:40, 2024-07-30 02:20:40, malware, 7ef54779710948dba3c5112767811367, http://119.187.239.62:54939/bin.sh
+203275, 2024-07-30 02:20:28, 2024-07-30 02:20:28, malware, e1075d7cecf04adc8f22813b96b48a6d, http://113.238.76.97:60548/bin.sh
+203274, 2024-07-30 02:20:15, 2024-07-30 02:20:15, phishing, ea95e11ac6cc96ce73a3681c6327764b, http://bububu.io
+203273, 2024-07-30 02:03:18, 2024-07-30 01:51:38, phishing, 217d4f091fa3a395f428b98666bdf2c1, https://heda-prom.hr/license/favicon/inc/?email=cisco@cisco.com
+203272, 2024-07-30 02:02:47, 2024-07-30 01:41:25, phishing, 9d38adfd49e1a75c1e9886fe982fb852, https://ttlogistics.lv/.cr20/cisco@cisco.com
 203271, 2024-07-30 01:58:56, 2024-07-30 01:36:53, phishing, 4995a7ffb73605d48464ff5f08c4df11, https://sagegoldenspring.in/ad/app/index.php?client-request-id=cisco@cisco.com#url=https%3A%2F%2Fquarantine.messagereportcisco.com%2Flogin%2F
 203270, 2024-07-30 01:14:15, 2024-07-30 01:14:15, phishing, d4f7561681fa5637ca8a6eb384139b67, http://ordiscalingwhirling.pages.dev
 203269, 2024-07-30 01:05:44, 2024-07-30 01:05:44, phishing, 5756dbfb392f6446619d535f48ecaa85, https://pub-ae5e84921a3e49eab2b2dd5d20f371d9.r2.dev/innit.html
@@ -490,22 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 202793, 2024-07-29 10:52:40, 2024-07-29 10:52:40, phishing, e92ee7b546136e46b524c9c75c948bcd, http://ww-pb365.cc
 202792, 2024-07-29 10:18:13, 2024-07-29 10:18:13, phishing, 079be8c39dbb81bcdb573e096326faf4, http://mail.emirkiyap.com
 202791, 2024-07-29 10:04:15, 2024-07-29 10:04:15, phishing, c21b6e0a5f9c5f0a0553aef5b51c2d59, https://web.bank.rs.ru/CookieAuth.dll?GetLogon?curl=Z2Fowa&reason=0&formdir=1
-202790, 2024-07-29 10:04:08, 2024-07-29 09:56:12, phishing, d7f6afedd8c913b6d7556b968dd1ef92, https://post-serve.icu/de?t=qnuEh
-202789, 2024-07-29 10:03:53, 2024-07-29 10:03:53, phishing, 73a9e8aaf0bf92e200aee63b4501c1e6, https://web.bank.rs.ru/
-202788, 2024-07-29 10:03:51, 2024-07-29 10:03:51, phishing, 518c42c05ec3f8431f761898c6122688, https://webs.bank.rs.ru/
-202787, 2024-07-29 10:03:45, 2024-07-29 10:03:45, phishing, 7162c97687b875cb7475a27a68341321, http://pub-c9e64147d3574630a977dc0fc6d899b0.r2.dev/MicrosoftOutlook2.html
-202786, 2024-07-29 10:03:18, 2024-07-29 08:54:11, phishing, f31c567463e899a6c37746b07a1d8371, https://ee-pending.web.app/
-202785, 2024-07-29 10:02:24, 2024-07-29 10:02:24, phishing, 6c8897484951f4257fd978f1fe36c308, https://www.telegramrederictiononsite.online/
-202784, 2024-07-29 10:02:10, 2024-07-29 10:02:10, phishing, dd91de2a1f932d85d937ff4c23097259, https://telegramdatingsextwo.pages.dev/
-202783, 2024-07-29 09:56:13, 2024-07-29 09:56:13, phishing, 449d20d2844a34a4913bbc3cc29b7b36, https://twint.vouchrem.com/redeem/15486850/?src=
-202782, 2024-07-29 09:48:13, 2024-07-29 09:48:13, phishing, 388a4cdd369d8ac7bbd5749bef65c439, http://testingdomains.ru
-202781, 2024-07-29 09:44:12, 2024-07-29 09:44:12, phishing, 398b56bed7b64023fa851ce15f6ee70b, http://espace-ameli-en-ligne.fr
-202780, 2024-07-29 09:44:10, 2024-07-29 09:44:10, phishing, f460c613c8a4f2b6710c36ef01aa43d1, http://kontol-kekar-dating.pages.dev
-202779, 2024-07-29 09:39:03, 2024-07-29 09:39:03, phishing, 8547f47f0cb5ba19bacb8a57d0dc6d36, http://3657.inimbcm.name.na
-202778, 2024-07-29 09:29:33, 2024-07-29 09:29:33, malware, a3a6a50ce8b946e98c3008949ef74317, http://95.137.250.238:38649/Mozi.m
-202777, 2024-07-29 09:29:31, 2024-07-29 09:29:31, malware, ee725396ee844f798a24fe9c639039f1, http://95.137.223.47:38924/bin.sh
-202776, 2024-07-29 09:29:30, 2024-07-29 09:29:30, malware, 8b6b3d19cab441e28935ae6be23315a3, http://95.137.182.55:51939/i
-202775, 2024-07-29 09:29:28, 2024-07-29 09:29:28, malware, 36942c2d41694d97b22f77b684200b2e, http://95.137.159.244:60519/Mozi.m
-202774, 2024-07-29 09:29:17, 2024-07-29 09:29:17, malware, 8569188d0c6648819dec2f54b8a2c3a4, http://61.53.47.247:54152/i
-202773, 2024-07-29 09:29:15, 2024-07-29 09:29:15, malware, 5ec840bb298044c18fd3557fc5a79d8e, http://61.52.195.69:34389/i
-202772, 2024-07-29 09:28:44, 2024-07-29 09:28:44, malware, d2746f7d10b34455b63e8ab300986259, http://60.9.213.84:54178/i
