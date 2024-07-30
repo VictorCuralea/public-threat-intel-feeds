@@ -6,9 +6,14 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-30 09:00:02 UTC
+# UPDATE: 2024-07-30 10:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+203409, 2024-07-30 09:56:20, 2024-07-30 09:56:20, phishing, 32e9d3b0a55d3bfdb2b4425e17598cf8, https://westerndeliverylogisticscompany.com/wp-content/plugins/wpcargo/includes/sbb/
+203408, 2024-07-30 09:54:16, 2024-07-30 09:54:16, phishing, 2d09cb7ace5e2b22d5ad1ff817027d93, https://zeetotal.com/wp-content/t
+203407, 2024-07-30 09:54:14, 2024-07-30 09:54:14, phishing, 2fb7e9d62fb7c709cbb748e1be8ac915, https://xrphealthcare.com/a/i/
+203406, 2024-07-30 09:54:14, 2024-07-30 09:54:14, phishing, 52b5103a5a57297d65be642035e3201c, https://bonanzasolar.com.br/index3.php
+203405, 2024-07-30 09:28:16, 2024-07-30 09:28:16, phishing, a9b81c79922b226726332efa6e43f721, http://icloud-com.vip
 203404, 2024-07-30 08:59:55, 2024-07-30 08:58:14, phishing, 3a8aebe2f1775b0a8b68bb4635cbb3c6, https://free-5338907.webadorsite.com/
 203403, 2024-07-30 08:48:17, 2024-07-30 08:48:17, phishing, c2ca9b5f5570b058e982f18290d57584, http://usps.jmwtbpacfvy.top
 203402, 2024-07-30 08:20:15, 2024-07-30 08:20:15, phishing, c4b8e324f300eec81d56fd4e2875d56e, https://docs.google.com/presentation/d/e/2PACX-1vQTTlJ8KdwzfWN9JndriU1L_BzBQx1cjJD8LKds4uCV_6XSaXQTBfQCMlwMBFglYrHbqWGGBB3Ub8EV/pub?start=false
@@ -504,8 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 202912, 2024-07-29 14:20:40, 2024-07-29 14:20:40, malware, de2bea3c710d476e8d3d573de61c8c50, http://115.55.245.237:53253/i
 202911, 2024-07-29 14:20:38, 2024-07-29 14:20:38, malware, 92390fc4b70140f1b85faa3453271c48, http://115.55.245.237:53253/bin.sh
 202910, 2024-07-29 14:20:36, 2024-07-29 14:20:36, malware, de4484a3fc9642b388d741febcbae7e0, http://115.55.232.36:47374/Mozi.m
-202909, 2024-07-29 14:20:34, 2024-07-29 14:20:34, malware, a4642a53c5454df59598214c121566a1, http://115.55.10.20:58401/i
-202908, 2024-07-29 14:20:32, 2024-07-29 14:20:32, malware, 5c6af38b693e4732a9bc0ca17a0ee6bb, http://115.51.6.87:52648/bin.sh
-202907, 2024-07-29 14:20:30, 2024-07-29 14:20:30, malware, 8eee05b16dcd465dab182353012a125a, http://115.50.6.30:44052/Mozi.m
-202906, 2024-07-29 14:20:28, 2024-07-29 14:20:28, malware, d2e46737e5ed4f76bcf92fe52be73e81, http://115.48.150.218:34022/Mozi.m
-202905, 2024-07-29 14:20:26, 2024-07-29 14:20:26, malware, b10cce91a8054644adc8ff7622a96118, http://113.221.98.142:52224/Mozi.m
