@@ -6,9 +6,14 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-31 20:00:01 UTC
+# UPDATE: 2024-07-31 21:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+204834, 2024-07-31 20:58:18, 2024-07-31 20:58:18, phishing, 3c7b8d3c3a9a8348538cae557df9d710, https://ldy.imtoken-sg.xyz/im/?mF0OxWM8
+204833, 2024-07-31 20:56:17, 2024-07-31 20:56:17, phishing, f0919b8a27b06011dd0d5527dfc1847f, http://yingshihu.com
+204832, 2024-07-31 20:48:48, 2024-07-31 20:48:48, phishing, 298c62db2e0fb753329a4fe362502a48, https://solitary-butterfly-6763.on.fleek.co/
+204831, 2024-07-31 20:48:13, 2024-07-31 20:48:13, phishing, 748d08cbc4ee7cf53e930a81f2af8daf, https://ipfs.io/ipfs/bafkreie7p6moptelumtfmyvsezhvhkmodefri3jg52cpd3sf6bsy6dxubu#example@example.com
+204830, 2024-07-31 20:14:15, 2024-07-31 20:14:15, phishing, 84ac8d3c2b5700d3db2a3a7230280203, http://xxxdatingsexxx.pages.dev
 204829, 2024-07-31 19:52:13, 2024-07-31 19:52:13, phishing, cd5cb2dc7878a36d7dc9e0e07dfee642, http://houss.pages.dev
 204828, 2024-07-31 19:26:06, 2024-07-31 19:26:06, malware, 7190ca5f5b0e4c09b0d55c3d3f12ab90, http://95.137.253.133:56718/bin.sh
 204827, 2024-07-31 19:25:55, 2024-07-31 19:25:55, malware, 9dad0e5616ff41af9e4cbb0eaeda75cf, http://95.132.68.187:34785/i
@@ -504,8 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 204337, 2024-07-31 05:28:30, 2024-07-31 05:28:30, malware, 91e0c9f8604f45039a1fc5a7dc70242b, http://89.163.251.149/319e1b7572097780/msvcp140.dll
 204336, 2024-07-31 05:28:24, 2024-07-31 05:28:24, malware, 94a6d4498fa846fa99263b08fb412dc7, http://61.53.157.177:55650/bin.sh
 204335, 2024-07-31 05:28:22, 2024-07-31 05:28:22, malware, 80747cf03f004bb3a2d9e88bd92fb412, http://61.52.41.247:12972/i
-204334, 2024-07-31 05:28:21, 2024-07-31 05:28:21, malware, bb6bb5d31609434cb1afd40ffa5f30ae, http://61.52.41.247:12972/bin.sh
-204333, 2024-07-31 05:26:34, 2024-07-31 05:26:34, malware, d8cd9eedfbea42b6baa808cd834df801, http://59.93.161.26:50390/bin.sh
-204332, 2024-07-31 05:26:22, 2024-07-31 05:26:22, malware, f204915ac102421e9eeb4b848ba0e139, http://59.88.11.99:60281/
-204331, 2024-07-31 05:26:07, 2024-07-31 05:26:07, malware, 4d14b1ce67f04dee902685599a4dd34e, http://59.184.73.186:53873/bin.sh
-204330, 2024-07-31 05:26:05, 2024-07-31 05:26:05, malware, 8e5e09130a17434ab9916956c49490cb, http://59.184.251.157:48543/bin.sh
