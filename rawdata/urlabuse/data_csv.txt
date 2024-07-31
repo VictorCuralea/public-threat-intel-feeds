@@ -6,9 +6,20 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-31 12:00:01 UTC
+# UPDATE: 2024-07-31 13:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+204536, 2024-07-31 12:56:10, 2024-07-31 12:56:10, phishing, 4e691bde9078648528276f8516d20e3c, http://004-n4s.pages.dev
+204535, 2024-07-31 12:50:14, 2024-07-31 12:50:14, phishing, dfebff01250d2cc5a6f9626a21eed927, http://shopiabeauty.pages.dev
+204534, 2024-07-31 12:34:08, 2024-07-31 12:34:08, phishing, 96ce390e5020ab2ff9e92f4c825e04b1, https://ivt-qs5ft1s8mvcgfn.ashvisiom.com/pdrgohdue2ia75pka16p/6l86yoi0f1n86mB0xZ2VuLzk3NTQyMDExMi8xNzcwNjYxOTA2L2F4aGF1c2VuLzYyMDAwODU0My9pdnQuYmF1Zy5ldGh6LmNoL01UazFNRFl5TWpZNE5RPT0=
+204533, 2024-07-31 12:28:26, None, phishing, e9d89fdd2cc8be93bb994177705cde43, https://www.dropbox.com/scl/fi/dg7lyq99xkwrdmr5j68oy/M.paper?rlkey=ca0ousbct5srb1szbpgwh3fhy
+204532, 2024-07-31 12:23:32, None, phishing, e8db9b732858e92d1f2c1a2786b55a86, https://pqx.yhy.mybluehost.me/1cb3a6b869b3266836c4b1860fce3d38
+204531, 2024-07-31 12:22:44, 2024-07-31 12:22:44, phishing, e5cdf0eede33749f2e5f827227c6d8bd, https://motel72421.wixsite.com/btco
+204530, 2024-07-31 12:22:33, 2024-07-31 12:12:15, phishing, 004a3d8533a66d3e7ad2d06d41f82145, https://crimson-mode-0c42.yellowprivate.workers.dev/1992502101/48001712/1459192180gB0xZ2VuLzk3NTQyMDExMi8xNzcwNjYxOTA2L2F4aGF1c2VuLzYyMDAwODU0My9pdnQuYmF1Zy5ldGh6LmNoL01UazFNRFl5TWpZNE5RPT0=
+204529, 2024-07-31 12:22:17, None, phishing, 1105bcf71f41126334895dbe1e08f437, https://swisstw.com/de/receive/79469380
+204528, 2024-07-31 12:22:05, 2024-07-31 12:12:11, phishing, 13a7aab6b877e3994b5d815c164c0fa7, https://ivt-oddb3qi4xlpyjj.ashvisiom.com/odird58gd26y1mt3q6ll/gmwpl90ge9sdxmB0xZ2VuLzk3NTQyMDExMi8xNzcwNjYxOTA2L2F4aGF1c2VuLzYyMDAwODU0My9pdnQuYmF1Zy5ldGh6LmNoL01UazFNRFl5TWpZNE5RPT0=
+204527, 2024-07-31 12:20:13, 2024-07-31 12:10:11, phishing, d5782c4dd9554cee878a01487b3edd67, https://swisstw.com/
+204526, 2024-07-31 12:04:40, 2024-07-31 11:56:13, phishing, 5f902056d3eca14bad724a30493131e0, https://setsuokato32688.activehosted.com/f/1
 204525, 2024-07-31 11:46:16, 2024-07-31 11:46:16, phishing, 8ec0d3d00570f099058df1f4a4834b96, http://connect2drop.pages.dev
 204524, 2024-07-31 11:39:47, 2024-07-31 11:39:47, phishing, 7a750a806f9cd78da865630abba48637, https://btcomms.wixsite.com/my-site-1
 204523, 2024-07-31 11:39:03, 2024-07-31 11:18:15, phishing, 7a0a08ad418b6709d750132c7c1d5650, https://www.dropbox.com/scl/fi/s8y7a8r0y8mug8ybfsqeu/British-Telecom.paper?rlkey=ho00ho3vg6lz3s20f5b6gdsn5
@@ -498,14 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 204039, 2024-07-30 21:25:53, 2024-07-30 21:25:53, malware, ecaa189de7df4f1faab093129c265dac, http://42.224.136.16:41358/i
 204038, 2024-07-30 21:25:52, 2024-07-30 21:25:52, malware, c56dc99cc674455e8a63d752ba924033, http://42.224.136.16:41358/bin.sh
 204037, 2024-07-30 21:25:50, 2024-07-30 21:25:50, malware, 8eb132e71e54482da71d2aac61366498, http://39.88.12.82:43824/Mozi.m
-204036, 2024-07-30 21:25:49, 2024-07-30 21:25:49, malware, 8adff168f4af4ca2be96b8ecbda09b4f, http://38.137.248.50:55248/bin.sh
-204035, 2024-07-30 21:25:48, 2024-07-30 21:25:48, malware, ced3d948841a44f696a4688e8a081021, http://27.7.131.103:58684/i
-204034, 2024-07-30 21:25:39, 2024-07-30 21:25:39, malware, c3d5a0b772b14930b8469ea9fd3cd312, http://27.215.80.126:44047/Mozi.m
-204033, 2024-07-30 21:25:37, 2024-07-30 21:25:37, malware, 873c26ccf782455f8e871ca52a18f1fa, http://27.215.50.148:42203/bin.sh
-204032, 2024-07-30 21:25:27, 2024-07-30 21:25:27, malware, d2b5bde2c1454ef89e00b871d61faca7, http://221.15.185.116:55281/i
-204031, 2024-07-30 21:25:25, 2024-07-30 21:25:25, malware, 3f2c7b2600bc476c830264654cfa91f2, http://221.15.185.116:55281/bin.sh
-204030, 2024-07-30 21:25:24, 2024-07-30 21:25:24, malware, 77396cedc5c54270b0d8f93a690cb3c5, http://221.14.46.95:35179/Mozi.m
-204029, 2024-07-30 21:25:23, 2024-07-30 21:25:23, malware, 65ed4d9324d9440294c83e2d7480877c, http://219.157.215.215:54392/Mozi.m
-204028, 2024-07-30 21:25:21, 2024-07-30 21:25:21, malware, 32d417ccaa034105a5c22572c5549eaf, http://212.18.104.197/SetupPacket
-204027, 2024-07-30 21:25:20, 2024-07-30 21:25:20, malware, 90dfc473c10340c78372a1deaae7283e, http://203.177.28.155:57078/bin.sh
-204026, 2024-07-30 21:25:17, 2024-07-30 21:25:17, malware, e6a55beb211645b6a38ea17e247ccca9, http://194.116.217.148/cb49fd59e9a61fbc/vcruntime140.dll
