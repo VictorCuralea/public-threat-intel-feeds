@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-31 00:00:01 UTC
+# UPDATE: 2024-07-31 01:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+204133, 2024-07-31 00:22:17, 2024-07-31 00:22:17, phishing, 1f5273b69aad54db332dfb773e19fd03, http://zealydegenerate.pages.dev
 204132, 2024-07-30 23:24:38, 2024-07-30 23:24:38, malware, 92e7cf20cb9943e2b33f4a37dc94b444, http://95.137.234.95:46687/i
 204131, 2024-07-30 23:24:36, 2024-07-30 23:24:36, malware, ba9092a87f9a4083853a137a3cc9d2e3, http://95.137.223.235:56649/i
 204130, 2024-07-30 23:24:35, 2024-07-30 23:24:35, malware, 38ef1294c17e40afb6e7fd4753a2564b, http://62.211.143.113:63234/.i
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 203636, 2024-07-30 14:33:13, 2024-07-30 14:33:13, malware, 8ac9b5fe22804699bb772fab0fc3fb70, http://176.74.101.60:39960/i
 203635, 2024-07-30 14:33:10, 2024-07-30 14:33:10, malware, 0892b9755ae8498495fa9d9d4fcf37df, http://176.74.101.60:39960/bin.sh
 203634, 2024-07-30 14:32:59, 2024-07-30 14:32:59, malware, efcb040c31474b3292d18fde9d6d4c4b, http://176.74.101.114:52272/i
-203633, 2024-07-30 14:32:57, 2024-07-30 14:32:57, malware, afe9f0644c674b52ab39dd082a9a5774, http://176.74.101.114:52272/bin.sh
