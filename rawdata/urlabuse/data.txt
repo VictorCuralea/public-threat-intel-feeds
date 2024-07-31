@@ -6,7 +6,7 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-31 06:00:01 UTC
+# UPDATE: 2024-07-31 07:00:01 UTC
 ############### END COMMENTS ###############
 {"id": 204346, "url": "http://ve780.venus.dedi.server-hosting.expert/319e1b7572097780/vcruntime140.dll", "discovery": "2024-07-31 05:29:02", "added": "2024-07-31 05:29:02", "target": "#PE32DLL_CMD", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "c93a153848564f6f9c387aaa6e83ec0c"}
 {"id": 204345, "url": "http://95.137.244.176:40044/Mozi.m", "discovery": "2024-07-31 05:28:59", "added": "2024-07-31 05:28:59", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "f5ef1d6c6a7a4e12aba280139976420e"}
