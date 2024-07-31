@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-07-30 18:03:51 UTC                        #
+# Last updated: 2024-07-31 16:38:39 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	myanswerpronto.com
 127.0.0.1	imtokcn.org
 127.0.0.1	megabahis664.com
 127.0.0.1	losttwister.com
@@ -6988,22 +6989,4 @@
 127.0.0.1	redflagssecurity.com
 127.0.0.1	www.redflagssecurity.com
 127.0.0.1	bots.gxz.me
-127.0.0.1	ns1.networkspacer.com
-127.0.0.1	waltonfoods.com
-127.0.0.1	ns1.waltonfoods.com
-127.0.0.1	ns1.globalusa.net
-127.0.0.1	globalusa.net
-127.0.0.1	asb-help-assistance.com
-127.0.0.1	networkspacer.com
-127.0.0.1	kennahammond.autos
-127.0.0.1	www.kennahammond.autos
-127.0.0.1	www.kayleycuevas.autos
-127.0.0.1	kayleycuevas.autos
-127.0.0.1	www.reidkelley.autos
-127.0.0.1	cademoses.autos
-127.0.0.1	www.madisonbartlett.autos
-127.0.0.1	www.cademoses.autos
-127.0.0.1	reidkelley.autos
-127.0.0.1	zzwibxun.jimmychunglin.com
-127.0.0.1	madisonbartlett.autos
-# Number of entries: 7000
+# Number of entries: 6983
