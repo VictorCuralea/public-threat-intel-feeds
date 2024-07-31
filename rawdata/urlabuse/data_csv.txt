@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-31 02:00:01 UTC
+# UPDATE: 2024-07-31 03:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+204204, 2024-07-31 02:00:14, 2024-07-31 02:00:14, phishing, e69600083467e7420224c95a14c36ac8, http://newwhitelistdex.pages.dev
 204203, 2024-07-31 01:54:10, 2024-07-31 01:54:10, phishing, 2115e28e9f690a4ccfbfca47915c6535, http://truyu.pages.dev
 204202, 2024-07-31 01:27:57, 2024-07-31 01:27:57, malware, 8881ae271f5c4e65bfdeb0a795a67d77, http://95.137.252.166:57426/i
 204201, 2024-07-31 01:27:56, 2024-07-31 01:27:56, malware, c67eb7f58d1846a2a3bd87f421ca4927, http://95.137.182.244:35388/bin.sh
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 203707, 2024-07-30 15:26:38, 2024-07-30 15:26:38, malware, 33ddbbf91c9f482b85f7f7a13029539f, http://182.127.120.147:36035/
 203706, 2024-07-30 15:26:26, 2024-07-30 15:26:26, malware, dc86ba387be746bfb9b7e95b353f267f, http://182.122.149.30:44578/i
 203705, 2024-07-30 15:26:24, 2024-07-30 15:26:24, malware, 9c3a70314a3e4acb868545c910384405, http://182.122.149.30:44578/bin.sh
-203704, 2024-07-30 15:26:22, 2024-07-30 15:26:22, malware, 16dc3cbecd954d78b3d02abbe6c41a5f, http://182.113.207.52:60481/i
