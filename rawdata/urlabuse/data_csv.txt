@@ -6,9 +6,16 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-07-31 04:00:02 UTC
+# UPDATE: 2024-07-31 05:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+204269, 2024-07-31 04:32:22, 2024-07-31 04:32:22, phishing, 94ebdfc340e1e007afd37e5b086a77df, http://telegyaam.cc
+204268, 2024-07-31 04:32:15, 2024-07-31 04:32:15, phishing, 5754a268515ca99b2f15ee918be2b63d, https://pub-fe304d7d194e4db3a3e8c8463a274ca6.r2.dev/login.html
+204267, 2024-07-31 04:30:21, 2024-07-31 04:30:21, phishing, b2891aaecc6c68ea73937a5ef1a7d87d, http://logins.storiesilluminated.us
+204266, 2024-07-31 04:24:19, 2024-07-31 04:24:19, phishing, f5e99282ec9e585ef0cf94eed7f3f2b8, http://mail.rmjja.mejwh.cfd
+204265, 2024-07-31 04:20:15, 2024-07-31 04:20:15, phishing, cae3bc112b559e5fd8e64db0d26045b7, http://rmjja.mejwh.cfd
+204264, 2024-07-31 04:06:18, 2024-07-31 04:06:18, phishing, bce2c4f60a9be97aef2ec1d95fdeb1b2, http://tele-guim.cc/
+204263, 2024-07-31 04:03:31, 2024-07-31 04:03:31, phishing, b296bc8ea5daefd89b9b344c814e038f, http://tlgr.org/
 204262, 2024-07-31 03:24:36, 2024-07-31 03:24:36, malware, 49abecd49bfa4c9e933b8ceafa3e0784, http://95.137.219.95:41509/Mozi.m
 204261, 2024-07-31 03:24:34, 2024-07-31 03:24:34, malware, f63b126b320143b193dda5eb3ddd5901, http://95.137.210.155:57207/i
 204260, 2024-07-31 03:24:33, 2024-07-31 03:24:33, malware, 512c2b00bb7d43dc91848b7aba1b3bc5, http://95.137.210.155:57207/bin.sh
@@ -502,10 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 203772, 2024-07-30 15:55:11, 2024-07-30 14:58:17, phishing, 0f1cf85ed888e8a7106350378d7cc73d, https://ipfs.io/ipfs/bafybeib7bwhs4onrf4slqw5uus6d7s7xnqebwzwbliafmpuaozy4mwvxoi/iinnnnnnnnnnnnndddddddaxx.shtml#bitcoin@casino.phish
 203771, 2024-07-30 15:33:40, 2024-07-30 15:33:40, malware, bd26a81ec5704a59b1131c1550b6817f, http://58.47.29.151:35282/Mozi.m
 203770, 2024-07-30 15:33:37, 2024-07-30 15:33:37, malware, a5354ead083549e7b0e35ea51731689d, http://42.239.240.114:35564/Mozi.m
-203769, 2024-07-30 15:33:35, 2024-07-30 15:33:35, malware, dbc42c6188854019ad57ef9f7e2df1a8, http://42.237.118.97:58029/Mozi.m
-203768, 2024-07-30 15:33:34, 2024-07-30 15:33:34, malware, 35d6ff0ec3d843fc9bac2568220d269e, http://42.232.228.121:46873/i
-203767, 2024-07-30 15:33:32, 2024-07-30 15:33:32, malware, 2e5bc75462c743999458f9175ce86fdb, http://42.232.228.121:46873/bin.sh
-203766, 2024-07-30 15:33:30, 2024-07-30 15:33:30, malware, f82936ebac0f4af7989003cf8b0caa19, http://42.230.45.248:34041/bin.sh
-203765, 2024-07-30 15:33:29, 2024-07-30 15:33:29, malware, 16808825c15642698274f8030dd2a641, http://42.230.218.135:56859/Mozi.m
-203764, 2024-07-30 15:33:27, 2024-07-30 15:33:27, malware, 50e332f66cf4442f95c9e597205abe07, http://42.228.47.189:46249/i
-203763, 2024-07-30 15:33:26, 2024-07-30 15:33:26, malware, 38f12c4674b742da9e4a7d054e97c403, http://42.228.47.189:46249/bin.sh
