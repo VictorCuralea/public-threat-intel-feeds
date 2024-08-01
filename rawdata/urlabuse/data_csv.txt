@@ -6,9 +6,17 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-01 02:00:01 UTC
+# UPDATE: 2024-08-01 03:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+205020, 2024-08-01 02:34:12, 2024-08-01 02:34:12, phishing, f203c415237bd6a2c7cb745820cffb64, http://hgfy-69i.pages.dev
+205019, 2024-08-01 02:31:26, 2024-08-01 02:10:57, phishing, 64e68a9935ce095452bbf374b2557080, https://pub-fa0ec144ac714cff9edae7c03d335864.r2.dev/ZsswDgYDVR0PAQH%253ABAQDAgGGMA8GA1UdEwEB%253AwQFMAMBAf8wEQYDVR0gBAowCDAG.html#x
+205018, 2024-08-01 02:30:55, 2024-08-01 02:03:45, phishing, 5795210446d569dd4c1edc55b9d5a871, https://course.padideit.com/wp-content/uploads/2024/07/retribution/Chameleon/Chameleon/en/login.html#gmail@gmail.com
+205017, 2024-08-01 02:28:09, 2024-08-01 01:46:06, phishing, b301ac815a7353fad5ca22f83b4f3de2, https://pub-0099c7d515c34b87af9410462666db12.r2.dev/phone.html#outlook@outlook.com
+205016, 2024-08-01 02:26:49, 2024-08-01 01:36:08, phishing, 10a931988c47aef6437f2bc8787ab89a, https://thoughtbulb.dev/nuik/?client-request-id=cisco@cisco.com
+205015, 2024-08-01 02:24:11, 2024-08-01 02:24:11, phishing, 8ded129411a8117e2504737a161f808a, http://wh4tsappd4tin9group.pages.dev
+205014, 2024-08-01 02:22:06, 2024-08-01 01:28:56, phishing, ae5dae7ba45ec61c7247ac0f470221c5, https://8uvns.pages.dev/xocl#yahoo@yahoo.com
+205013, 2024-08-01 02:12:15, 2024-08-01 02:12:15, phishing, 946b4a7c67e3e5004fe894bfbde93b5d, http://defix.pages.dev
 205012, 2024-08-01 01:25:40, 2024-08-01 01:25:40, malware, 033136f09c00471bb7b77ba56ce5ba0a, http://95.137.253.133:56718/i
 205011, 2024-08-01 01:25:38, 2024-08-01 01:25:38, malware, f230b0946d7146118716966141108a4a, http://95.137.252.20:48769/i
 205010, 2024-08-01 01:25:37, 2024-08-01 01:25:37, malware, 3859c1a556b44135846a4e6f48c845c9, http://95.137.180.214:35948/i
@@ -501,11 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 204523, 2024-07-31 11:39:03, 2024-07-31 11:18:15, phishing, 7a0a08ad418b6709d750132c7c1d5650, https://www.dropbox.com/scl/fi/s8y7a8r0y8mug8ybfsqeu/British-Telecom.paper?rlkey=ho00ho3vg6lz3s20f5b6gdsn5
 204522, 2024-07-31 11:38:33, 2024-07-31 11:38:33, phishing, 266d4b96d28e5414f2bb141a6d5d94bf, https://ffsfdts.weebly.com
 204521, 2024-07-31 11:38:16, 2024-07-31 10:56:16, phishing, 14064fd39744a7b536c8c3c2caecfae7, https://www.dropbox.com/scl/fi/av83rq75mbe8otu24zb2v/BT-VO.paper?rlkey=04ht6wdsgfrk689t9slejgm42
-204520, 2024-07-31 11:37:57, 2024-07-31 09:44:15, phishing, 53109924a47b6b49d83b6314dfff70d2, https://cfe.ihh.mybluehost.me/ubs/ubs/login.php
-204519, 2024-07-31 11:27:17, 2024-07-31 11:27:17, malware, 72358143e59c4484bbc2af19cf649103, http://95.137.252.20:48769/bin.sh
-204518, 2024-07-31 11:27:16, 2024-07-31 11:27:16, malware, b6e7ee5f96574b75a5c8a5fd3b057953, http://95.137.238.205:50232/bin.sh
-204517, 2024-07-31 11:27:15, 2024-07-31 11:27:15, malware, 2bd48ace523b41ca834f0eb99a8529ff, http://95.137.182.11:54476/bin.sh
-204516, 2024-07-31 11:27:13, 2024-07-31 11:27:13, malware, 53cacbb7056c427cbd8cdabde04dcb30, http://95.137.170.68:52675/i
-204515, 2024-07-31 11:27:12, 2024-07-31 11:27:12, malware, d5d8ee74063e4c10a6546d466518332b, http://95.137.170.68:52675/bin.sh
-204514, 2024-07-31 11:27:11, 2024-07-31 11:27:11, malware, 40cf8c5d0ca84ab1865151d81ed11f05, http://95.137.134.39:47020/i
-204513, 2024-07-31 11:27:10, 2024-07-31 11:27:10, malware, 54aacd3fa31d467c8cfb30d30090a22d, http://95.137.133.30:44693/Mozi.m
