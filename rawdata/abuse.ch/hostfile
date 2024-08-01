@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-07-31 16:38:39 UTC                        #
+# Last updated: 2024-08-01 00:36:04 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	suburand.com
+127.0.0.1	rebistars.com
 127.0.0.1	myanswerpronto.com
 127.0.0.1	imtokcn.org
 127.0.0.1	megabahis664.com
@@ -6975,4 +6977,4 @@
 127.0.0.1	emkd.ru
 127.0.0.1	tzitziklishop3.ddns.net
 127.0.0.1	wiund98272sb01jshbq.con-ip.com
-# Number of entries: 6969
+# Number of entries: 6971
