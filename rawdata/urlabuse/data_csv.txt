@@ -6,9 +6,17 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-01 12:00:01 UTC
+# UPDATE: 2024-08-01 13:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+205342, 2024-08-01 12:52:13, 2024-08-01 12:52:13, phishing, 77cf4b03e104d078a901938890eeb62e, http://pendletontimes.pages.dev
+205341, 2024-08-01 12:44:25, 2024-08-01 12:44:25, phishing, 4b4aa772987cf588cfac9649697c184f, https://lit-ref.pages.dev/Autentifikavimas
+205340, 2024-08-01 12:44:10, 2024-08-01 12:44:10, phishing, 5bd3645b8d5b37f5fdd0af2ba15faf99, http://wandering-bread-283e.skimpy.workers.dev
+205339, 2024-08-01 12:43:00, 2024-08-01 12:43:00, phishing, f87032291bf61fca4a14b8c0f243689a, https://c20074e9.dvilv-web.pages.dev
+205338, 2024-08-01 12:42:35, 2024-08-01 12:42:35, phishing, ec1d70b8e4f2c64112b9ba33abc8490b, https://c20074e9.dvilv-web.pages.dev/Autentificet
+205337, 2024-08-01 12:41:39, 2024-08-01 12:41:39, phishing, 14bdf74e84d64078b54e4d6c85688fcc, http://booklng-unlock.homes
+205336, 2024-08-01 12:40:33, 2024-08-01 12:40:33, phishing, 352545bbe6f09b8402bd148f9146bec9, https://schoolportalandbenefit.top/umsi/um.si.html
+205335, 2024-08-01 12:02:19, 2024-08-01 12:02:19, phishing, 1bd9bfe3d5df5800bd8b445d0300f96e, http://b.poos.cc
 205334, 2024-08-01 11:58:52, 2024-08-01 10:30:15, phishing, 69d0eefe20eb020916cec6ce54f699fb, https://my-site-101297-107378.weeblysite.com/
 205333, 2024-08-01 11:57:40, 2024-08-01 11:02:11, phishing, b77f062fac31c3966dc17efb680f9200, https://epws46.activehosted.com/f/1
 205332, 2024-08-01 11:56:57, 2024-08-01 09:20:20, phishing, 378fd2a556a7f4c32dd83af0531cb3cc, https://ipfs.io/ipfs/bafybeid66yencznf2ujjny4apw6k7dykbczu5jkokatecmb5kpfcfh56ii/BlueRoundcube.html#example@example.com
@@ -501,11 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 204845, 2024-07-31 21:22:21, 2024-07-31 21:22:21, malware, 836def5f73f64547b23afcc232c82b97, http://176.74.120.252:34397/Mozi.a
 204844, 2024-07-31 21:22:20, 2024-07-31 21:22:20, malware, f46970f229214d2fab1d82ccb0ef2aa9, http://153.152.44.153:33240/Mozi.a
 204843, 2024-07-31 21:22:14, 2024-07-31 21:22:14, malware, 2ac87b46257f4d8193ef9bdfabb7d7e0, http://147.45.44.131/files/ber.exe
-204842, 2024-07-31 21:22:12, 2024-07-31 21:22:12, malware, 50db57d9016942a198155d07ebd427c6, http://120.61.78.130:47423/
-204841, 2024-07-31 21:22:10, 2024-07-31 21:22:10, malware, 5ec8457d5e2a4e509e012b070139255b, http://120.61.4.27:39658/Mozi.m
-204840, 2024-07-31 21:22:08, 2024-07-31 21:22:08, malware, 9f60ceeee1314288a7961044e465d348, http://120.61.206.167:40326/i
-204839, 2024-07-31 21:21:45, 2024-07-31 21:21:45, malware, cde7bbd715bf47ea87a1d4d3103059c8, http://117.248.173.199:42234/i
-204838, 2024-07-31 21:21:12, 2024-07-31 21:21:12, malware, 387590b31e4f40ef94ccc2749d09ea43, http://117.214.8.80:36029/bin.sh
-204837, 2024-07-31 21:21:09, 2024-07-31 21:21:09, malware, 10a3039b722244978c19587fbaa2b478, http://117.211.41.11:44122/Mozi.m
-204836, 2024-07-31 21:20:42, 2024-07-31 21:20:42, malware, ac346f84763f4a1c9d04332d07565cca, http://117.195.138.115:51910/Mozi.m
-204835, 2024-07-31 21:20:17, 2024-07-31 21:20:17, malware, d5c77d4d9bb94664960a63f9696230a6, http://112.238.20.184:42208/i
