@@ -6,9 +6,14 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-01 20:00:01 UTC
+# UPDATE: 2024-08-01 21:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+205704, 2024-08-01 20:46:16, 2024-08-01 20:46:16, phishing, 29b64c4da94397221264ef1a9d44850c, http://reaoucxacnzxroa.pages.dev
+205703, 2024-08-01 20:42:10, 2024-08-01 20:42:10, phishing, ff7a3047c17a42a6334c3309b80c5b13, http://instagram.yardimveihbar.enesnai.online
+205702, 2024-08-01 20:22:14, 2024-08-01 20:22:14, phishing, 37b4bef119f48f91ade86b4391290e75, http://earning-avenue.pages.dev
+205701, 2024-08-01 20:10:11, 2024-08-01 20:10:11, phishing, d231bb1e743833420a516ce6089aeee2, http://desservermabagecloudsergeneratorjsjherjrsjgyxz.pages.dev
+205700, 2024-08-01 20:08:12, 2024-08-01 20:08:12, phishing, 66159786f8ca200e208925628830b30e, http://movewise-lb.com
 205699, 2024-08-01 19:25:33, 2024-08-01 19:25:33, malware, fd70e0b4d5394ad2ab5be2bb74bc9632, http://60.215.172.153:43911/bin.sh
 205698, 2024-08-01 19:25:32, 2024-08-01 19:25:32, malware, 1ddc803138934413bd7d91e9d1596da8, http://59.99.213.156:44615/i
 205697, 2024-08-01 19:25:30, 2024-08-01 19:25:30, malware, cb751d4d26fb4665bd3f95e9e71dfcfe, http://59.97.126.194:57714/bin.sh
@@ -504,8 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 205207, 2024-08-01 07:31:03, 2024-08-01 07:31:03, malware, 6486eaa4f0e648229b969834de51764a, http://62.212.35.155:50089/bin.sh
 205206, 2024-08-01 07:31:02, 2024-08-01 07:31:02, malware, c8babee073664e209647599c0e2e2951, http://61.52.41.25:42871/i
 205205, 2024-08-01 07:31:01, 2024-08-01 07:31:01, malware, 1c631d44f448490f9f1dd1bc1602a5ff, http://61.52.41.25:42871/bin.sh
-205204, 2024-08-01 07:30:49, 2024-08-01 07:30:49, malware, 94a4132c45a24f69a52817abed0bdc9c, http://61.168.50.23:56287/Mozi.m
-205203, 2024-08-01 07:30:27, 2024-08-01 07:30:27, malware, 70dac777b2ff4ae28555c73ef5c44289, http://61.0.182.142:41734/Mozi.m
-205202, 2024-08-01 07:29:54, 2024-08-01 07:29:54, malware, a1d625a95f97402b905935ee6ff05c99, http://59.97.122.152:38217/i
-205201, 2024-08-01 07:29:32, 2024-08-01 07:29:32, malware, fb1da50736a840118c39eb0d86acb05f, http://59.95.91.150:34158/i
-205200, 2024-08-01 07:29:31, 2024-08-01 07:29:31, malware, 12664725f36d4694bbe05437f615f013, http://59.93.180.143:57934/i
