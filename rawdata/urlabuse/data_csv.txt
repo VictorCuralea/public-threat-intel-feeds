@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-01 10:00:01 UTC
+# UPDATE: 2024-08-01 11:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+205280, 2024-08-01 10:50:17, 2024-08-01 10:50:17, phishing, 3eba4d6eb4e658454e7568e1b8b8f06e, http://holders-revshares.pages.dev
+205279, 2024-08-01 10:05:00, 2024-08-01 10:05:00, phishing, 7f49a758e91679c442cdf3e3047e17cc, http://blog.storrea.com/wp-content/admin/index
+205278, 2024-08-01 10:02:13, 2024-08-01 10:02:13, phishing, 18f078a87521c64926e864c5d3e9d605, http://telegram-fordating.vercel.app:443/
 205277, 2024-08-01 09:52:16, 2024-08-01 09:52:16, phishing, f3c5547376e2e6bcf9a40d926d8faf0a, http://ieuiajeo.duckdns.org
 205276, 2024-08-01 09:30:44, 2024-08-01 09:30:44, malware, edf55aa8278041dd9f4f2a981f854b70, http://95.137.214.180:59493/i
 205275, 2024-08-01 09:30:42, 2024-08-01 09:30:42, malware, f73e45a1ae1b4ba0a5db0822b847a5d9, http://95.137.213.59:57728/i
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 204783, 2024-07-31 19:20:11, 2024-07-31 19:20:11, malware, 0f7036ce22d948de8f8f9172f4febffa, http://105.101.154.126:38953/i
 204782, 2024-07-31 19:20:08, 2024-07-31 19:20:08, malware, e0582e929cb84e74ae84aff35881321d, http://105.101.154.126:38953/bin.sh
 204781, 2024-07-31 19:06:30, 2024-07-31 19:06:30, phishing, f6f36dab6b96d113392e69b1e4dca9d6, https://rahyaran.shop/news/data/6975292916/payment/2WbTe7dU/Mellat.php
-204780, 2024-07-31 19:03:11, 2024-07-31 19:03:11, phishing, 151c69d4caf453eeb4382b4e42de5af6, https://ipfs.io/ipfs/QmWpbm56wA3Kir85aLt5iisZexVT6tap3dMNywcSfSXYMU?filename=8j2x5afcwb.html
-204779, 2024-07-31 19:03:11, 2024-07-31 19:03:11, phishing, 7d2be961d9500137b106328903892554, https://bafybeico635wwm6znadbxsjgnz6ckzqkhzqv42ektphpz3cigoe5hvai74.ipfs.dweb.link/
-204778, 2024-07-31 19:02:54, 2024-07-31 19:02:54, phishing, 8db2b5bda66f94b57865cfb69d0c4133, http://io-at8.pages.dev/

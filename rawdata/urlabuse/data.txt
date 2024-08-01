@@ -6,8 +6,11 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-01 10:00:01 UTC
+# UPDATE: 2024-08-01 11:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 205280, "url": "http://holders-revshares.pages.dev", "discovery": "2024-08-01 10:50:17", "added": "2024-08-01 10:50:17", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "3eba4d6eb4e658454e7568e1b8b8f06e"}
+{"id": 205279, "url": "http://blog.storrea.com/wp-content/admin/index", "discovery": "2024-08-01 10:05:00", "added": "2024-08-01 10:05:00", "target": "Microsoft", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "7f49a758e91679c442cdf3e3047e17cc"}
+{"id": 205278, "url": "http://telegram-fordating.vercel.app:443/", "discovery": "2024-08-01 10:02:13", "added": "2024-08-01 10:02:13", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "18f078a87521c64926e864c5d3e9d605"}
 {"id": 205277, "url": "http://ieuiajeo.duckdns.org", "discovery": "2024-08-01 09:52:16", "added": "2024-08-01 09:52:16", "target": "Orange", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "f3c5547376e2e6bcf9a40d926d8faf0a"}
 {"id": 205276, "url": "http://95.137.214.180:59493/i", "discovery": "2024-08-01 09:30:44", "added": "2024-08-01 09:30:44", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "edf55aa8278041dd9f4f2a981f854b70"}
 {"id": 205275, "url": "http://95.137.213.59:57728/i", "discovery": "2024-08-01 09:30:42", "added": "2024-08-01 09:30:42", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "f73e45a1ae1b4ba0a5db0822b847a5d9"}
@@ -505,6 +508,3 @@
 {"id": 204783, "url": "http://105.101.154.126:38953/i", "discovery": "2024-07-31 19:20:11", "added": "2024-07-31 19:20:11", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "0f7036ce22d948de8f8f9172f4febffa"}
 {"id": 204782, "url": "http://105.101.154.126:38953/bin.sh", "discovery": "2024-07-31 19:20:08", "added": "2024-07-31 19:20:08", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "e0582e929cb84e74ae84aff35881321d"}
 {"id": 204781, "url": "https://rahyaran.shop/news/data/6975292916/payment/2WbTe7dU/Mellat.php", "discovery": "2024-07-31 19:06:30", "added": "2024-07-31 19:06:30", "target": "Shaparak", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "f6f36dab6b96d113392e69b1e4dca9d6"}
-{"id": 204780, "url": "https://ipfs.io/ipfs/QmWpbm56wA3Kir85aLt5iisZexVT6tap3dMNywcSfSXYMU?filename=8j2x5afcwb.html", "discovery": "2024-07-31 19:03:11", "added": "2024-07-31 19:03:11", "target": "Microsoft", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "151c69d4caf453eeb4382b4e42de5af6"}
-{"id": 204779, "url": "https://bafybeico635wwm6znadbxsjgnz6ckzqkhzqv42ektphpz3cigoe5hvai74.ipfs.dweb.link/", "discovery": "2024-07-31 19:03:11", "added": "2024-07-31 19:03:11", "target": "Microsoft", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "7d2be961d9500137b106328903892554"}
-{"id": 204778, "url": "http://io-at8.pages.dev/", "discovery": "2024-07-31 19:02:54", "added": "2024-07-31 19:02:54", "target": "Microsoft", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "8db2b5bda66f94b57865cfb69d0c4133"}
