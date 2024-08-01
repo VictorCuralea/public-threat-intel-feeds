@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-01 22:00:01 UTC
+# UPDATE: 2024-08-01 23:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+205750, 2024-08-01 22:02:28, 2024-08-01 22:02:28, phishing, 46de58ea3e242a3afcde7210b6a27fcc, https://pub-2693158235144c6f8d30dfab67f488b9.r2.dev/login.html
 205749, 2024-08-01 21:50:17, 2024-08-01 21:50:17, phishing, ea004e317648a8efd835567efe224f32, http://revenue-claim.pages.dev
 205748, 2024-08-01 21:44:13, 2024-08-01 21:44:13, phishing, 073b1c4357723a76842ca1d5ad85c4b1, http://whatsappxxx69.pages.dev
 205747, 2024-08-01 21:39:29, 2024-08-01 20:40:24, phishing, 2d93a557621b2d8027017121a35afc15, https://prime.habilitarchave.com
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 205253, 2024-08-01 09:26:18, 2024-08-01 09:26:18, malware, 39941a7251264faea8662fc09ede6690, http://182.117.48.172:48845/i
 205252, 2024-08-01 09:26:16, 2024-08-01 09:26:16, malware, e531c88408624e78a156b731b8f90bc8, http://182.117.48.172:48845/bin.sh
 205251, 2024-08-01 09:26:14, 2024-08-01 09:26:14, malware, 5cc51672bfb7497ea2c154200ceae756, http://182.113.202.100:54084/bin.sh
-205250, 2024-08-01 09:26:13, 2024-08-01 09:26:13, malware, d08c5d7ba5514977be9b0772eb8877e1, http://182.112.62.76:45233/bin.sh
