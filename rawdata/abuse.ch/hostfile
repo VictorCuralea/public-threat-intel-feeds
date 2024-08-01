@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-08-01 04:37:27 UTC                        #
+# Last updated: 2024-08-01 06:12:41 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	suecia12.duckdns.org
 127.0.0.1	goclamdep.net
 127.0.0.1	trafikexperten.com
 127.0.0.1	normalverkehr.com
@@ -6980,6 +6981,4 @@
 127.0.0.1	rss-bridge.emkd.ru
 127.0.0.1	ec2-15-206-164-202.ap-south-1.compute.amazonaws.com
 127.0.0.1	emkd.ru
-127.0.0.1	tzitziklishop3.ddns.net
-127.0.0.1	wiund98272sb01jshbq.con-ip.com
-# Number of entries: 6976
+# Number of entries: 6975
