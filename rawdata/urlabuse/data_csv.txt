@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-01 14:00:01 UTC
+# UPDATE: 2024-08-01 15:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+205438, 2024-08-01 14:58:13, 2024-08-01 14:58:13, phishing, 9e7d194936ae48708f128082b136d7f4, http://safeguards-aaq.pages.dev
+205437, 2024-08-01 14:44:31, 2024-08-01 14:44:31, phishing, be8c1d0b1fd1ca1ef4e345ab2b523a97, https://one.viseca.ch/
+205436, 2024-08-01 14:40:54, 2024-08-01 14:40:54, phishing, 60054d1b10dbe5d1fbcfa5e233e3efa4, https://www.dropbox.com/scl/fi/qamjc4rtsaeel8tio3gjb/BTinternet.papert?dl=0&rlkey=1fxvbn972pd3t2umqddy27c8s
+205435, 2024-08-01 14:08:17, 2024-08-01 14:08:17, phishing, 4dd9a5cd6269d4bf43c9661578ef6c05, http://any-gradualhash.pages.dev
 205434, 2024-08-01 13:29:19, 2024-08-01 13:29:19, phishing, 10571dd75c78841cf906c993685fd41f, https://pishkhan-dolati.com/my/Divar/pay/index.php
 205433, 2024-08-01 13:29:13, 2024-08-01 13:29:13, malware, ffa0e2e00ab747be9d0ddb8a7c4b8595, http://95.158.161.51:43719/i
 205432, 2024-08-01 13:29:12, 2024-08-01 13:29:12, malware, 6d6e5310637a4626a3e281eb9a99d033, http://95.137.223.241:54268/i
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 204941, 2024-07-31 23:23:45, 2024-07-31 23:23:45, malware, ada4895d0d4a4df494458d491258e7d5, http://42.231.205.86:59108/i
 204940, 2024-07-31 23:23:43, 2024-07-31 23:23:43, malware, 17755c96f3ea411aa043d5264a761ef5, http://42.230.37.187:48714/Mozi.m
 204939, 2024-07-31 23:23:40, 2024-07-31 23:23:40, malware, d70cdbd2f5314a06ba3b7ad1c24b7ffc, http://39.79.150.101:52400/bin.sh
-204938, 2024-07-31 23:23:39, 2024-07-31 23:23:39, malware, 29055e80c7064a07bffbd7fbf9ff33cd, http://27.220.213.119:59939/Mozi.m
-204937, 2024-07-31 23:23:37, 2024-07-31 23:23:37, malware, 5d5c162921484fb4bdc8dd51110266b7, http://27.215.211.134:58858/bin.sh
-204936, 2024-07-31 23:23:35, 2024-07-31 23:23:35, malware, ce9fb266387a4015954690750ac54109, http://27.209.179.109:47806/bin.sh
-204935, 2024-07-31 23:23:33, 2024-07-31 23:23:33, malware, b41f81bd18ac457e9ba5fcfaed150aaa, http://222.137.195.157:51375/Mozi.m
