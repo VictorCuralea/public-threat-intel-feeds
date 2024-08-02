@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-02 22:00:01 UTC
+# UPDATE: 2024-08-02 23:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+206701, 2024-08-02 22:02:18, 2024-08-02 22:02:18, phishing, aa424554956937122dbf035b195bf75a, http://exch500servaidatalogin-access-point-secure--peterpaul09283.replit.app/
+206700, 2024-08-02 22:01:08, 2024-08-02 22:01:08, phishing, 524d4fb87f9bc58433d729ee98db505f, https://ipfs.io/ipfs/QmexGEPQwayPF24zS4jK497359EqFt4tc8gvnfCcDdGYwu?filename=3jkadta48y.html
+206699, 2024-08-02 22:00:39, 2024-08-02 22:00:39, phishing, e251948149a66ed9820a47d8ce8fe7f5, https://gift-free-sex-with-me-and-my-friend.pages.dev/
+206698, 2024-08-02 22:00:15, 2024-08-02 22:00:15, phishing, 3e3423d27deb3ddf2006a277bb200a00, https://telegroom-rcfj.top/zz/
 206697, 2024-08-02 21:27:27, 2024-08-02 21:27:27, malware, 6f00222d3eab41f8a8945d02c23bbed7, http://88.250.50.11:60410/bin.sh
 206696, 2024-08-02 21:27:24, 2024-08-02 21:27:24, malware, 9724907179594089b46d2dc8cd53a483, http://83.219.1.198:59237/bin.sh
 206695, 2024-08-02 21:27:23, 2024-08-02 21:27:23, malware, dabe8b789536448da8c505a35c5fb91f, http://61.53.45.10:47102/
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 206204, 2024-08-02 09:24:06, 2024-08-02 09:24:06, malware, cec9d1ef61004a969961467c202a421d, http://125.44.212.109:47544/Mozi.m
 206203, 2024-08-02 09:24:04, 2024-08-02 09:24:04, malware, 50b5be11cc32411c89990b4041103d35, http://125.41.0.176:37378/i
 206202, 2024-08-02 09:24:02, 2024-08-02 09:24:02, malware, a0a36fd8954e4c4bb9a0fc2148ee7124, http://125.40.11.206:53639/i
-206201, 2024-08-02 09:24:01, 2024-08-02 09:24:01, malware, 684ff4622f344863bdc31be71fe376c1, http://123.14.51.39:55759/Mozi.m
-206200, 2024-08-02 09:23:59, 2024-08-02 09:23:59, malware, c6f6c6338d904bd19a622970fdb0f0e8, http://123.14.51.39:55759/bin.sh
-206199, 2024-08-02 09:23:57, 2024-08-02 09:23:57, malware, 8435f4d825d74754b99b3742dcbed14e, http://120.61.69.70:51922/bin.sh
-206198, 2024-08-02 09:23:42, 2024-08-02 09:23:42, malware, b4e3312533e84735a68f533c522565cd, http://119.186.36.112:46606/Mozi.m
