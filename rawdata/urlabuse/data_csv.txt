@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-02 20:00:02 UTC
+# UPDATE: 2024-08-02 21:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+206629, 2024-08-02 20:02:13, 2024-08-02 20:02:13, phishing, 8d9c56e662dbee1b3e78c363a9a644dc, http://telegram18sexxx-88h.pages.dev
 206628, 2024-08-02 19:54:14, 2024-08-02 19:54:14, phishing, 948d3879972c10d81092372646e86040, http://neutroalphadex.pages.dev
 206627, 2024-08-02 19:42:13, 2024-08-02 19:42:13, phishing, 2eb50a3711bcdcadbe3cd70cb7f04140, http://nodechain-apemax.pages.dev
 206626, 2024-08-02 19:25:36, 2024-08-02 19:25:36, malware, 2873fc85cb5a403e86be05b8288eadb9, http://95.214.27.196/where/botx.mpsl
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 206132, 2024-08-02 07:27:06, 2024-08-02 07:27:06, malware, 35f2f9ea883c4af7938305745b6b3bd3, http://222.142.194.120:35657/bin.sh
 206131, 2024-08-02 07:27:04, 2024-08-02 07:27:04, malware, a3c70397c6e54194b44ffd72cf494cd4, http://222.141.44.207:44052/
 206130, 2024-08-02 07:27:03, 2024-08-02 07:27:03, malware, 6af4e7f23c9a486bbcc679bb7c59eb57, http://222.140.238.174:58552/bin.sh
-206129, 2024-08-02 07:27:02, 2024-08-02 07:27:02, malware, be2bef29c1b34dad9e5b7d68fc8fc334, http://221.15.90.25:43089/Mozi.m
