@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-02 12:00:01 UTC
+# UPDATE: 2024-08-02 13:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+206299, 2024-08-02 12:52:52, 2024-08-02 12:50:15, phishing, ad0723a21b9d7161c69749b3f3f988c5, https://andybrown1951.wixsite.com/my-site-1
+206298, 2024-08-02 12:52:08, 2024-08-02 12:32:23, phishing, cbc83edc4f7e18333208a043682bc069, https://brown780583.studio.site/
+206297, 2024-08-02 12:51:40, 2024-08-02 12:40:13, phishing, 1e47c985bbdbddd134321ca4ed98ad54, https://arnulfo3888.hocoos.com/
 206296, 2024-08-02 11:52:12, 2024-08-02 11:52:12, phishing, 912dc970299371ede745cc3fd492a810, http://dulhonepaqe.yesafghanistan.com
 206295, 2024-08-02 11:44:34, 2024-08-02 11:30:20, phishing, 7d1c420d9b31bf3a1cee5a0bd0fa7951, https://wuwu201.weeblysite.com/
 206294, 2024-08-02 11:44:17, 2024-08-02 11:30:13, phishing, 1cb0e48f6ec71fa829a0888d1a8c4308, https://ricardo.link69329.site/20573490.567
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 205802, 2024-08-01 23:25:46, 2024-08-01 23:25:46, malware, 472c42100f2d468d949161a0dc50d848, http://59.89.8.207:56429/i
 205801, 2024-08-01 23:25:34, 2024-08-01 23:25:34, malware, d0d371544b6d4b8489dffcb7774d7436, http://59.184.77.43:46020/bin.sh
 205800, 2024-08-01 23:25:09, 2024-08-01 23:25:09, malware, 15909f12614a464f97ba7a740f595bdc, http://42.230.37.201:44702/bin.sh
-205799, 2024-08-01 23:25:07, 2024-08-01 23:25:07, malware, 9d3e6a52857d4be98badd7335a943147, http://42.227.205.97:43970/
-205798, 2024-08-01 23:25:06, 2024-08-01 23:25:06, malware, 601b482c0d10416397be1af593895246, http://42.226.65.14:57635/bin.sh
-205797, 2024-08-01 23:25:04, 2024-08-01 23:25:04, malware, 16056c2833464582a471a619ae99f958, http://42.224.175.94:55126/
