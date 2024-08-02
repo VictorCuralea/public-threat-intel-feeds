@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-02 00:00:01 UTC
+# UPDATE: 2024-08-02 01:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+205817, 2024-08-02 00:40:13, 2024-08-02 00:40:13, phishing, 5f7b6190c286d5d7a132663736076210, http://tgbot.c445233266.workers.dev
 205816, 2024-08-01 23:58:12, 2024-08-01 23:58:12, phishing, 301ce3b3681651f1af023701080d1b70, http://wispy-rice-d193.damnloaction.workers.dev
 205815, 2024-08-01 23:26:51, 2024-08-01 23:26:51, malware, f3804cb5f0934e789af5ab5aa9237fd0, http://95.137.247.103:35194/Mozi.m
 205814, 2024-08-01 23:26:50, 2024-08-01 23:26:50, malware, 6da55335396a4a50b58f54ac2bbaae93, http://95.137.189.106:40491/Mozi.m
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 205320, 2024-08-01 11:25:21, 2024-08-01 11:25:21, malware, 38565289134f4a1bbafa90e831c8e602, http://59.88.2.118:52073/mozi.m
 205319, 2024-08-01 11:24:58, 2024-08-01 11:24:58, malware, d24b6b187f1c40e192114e2cb79ecc9a, http://46.159.243.165:32861/Mozi.m
 205318, 2024-08-01 11:24:56, 2024-08-01 11:24:56, malware, 32ebb00627724810a1cccd2f68dd576c, http://42.231.250.25:35135/Mozi.m
-205317, 2024-08-01 11:24:55, 2024-08-01 11:24:55, malware, 7e85eebc96c6400c9c5d11ad6dcd4678, http://42.227.5.221:40961/i
