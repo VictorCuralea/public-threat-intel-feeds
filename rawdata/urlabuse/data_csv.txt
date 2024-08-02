@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-02 02:00:01 UTC
+# UPDATE: 2024-08-02 03:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+205895, 2024-08-02 02:52:16, 2024-08-02 02:52:16, phishing, a462045168fc59a1d04b7ecee5fb59c1, http://vip.xn--u0xa.xn--6qq986b3xl
+205894, 2024-08-02 02:21:38, 2024-08-02 01:32:55, phishing, e2549252d71903148a50e1bfce0541df, https://madavilajturismo.com.br/wp-admin/net/index.php?email=yahoo@yahoo.com
+205893, 2024-08-02 02:00:15, 2024-08-02 02:00:15, phishing, ecf4b347883e81135049625afcd78619, http://espace-demande-renouvellement.com
+205892, 2024-08-02 02:00:13, 2024-08-02 02:00:13, phishing, c8a67bcdea1a49d30791c1d85b262aed, http://telegram-group.pages.dev
 205891, 2024-08-02 01:28:27, 2024-08-02 01:28:27, malware, 861e020a484b40308414362e2d12c191, http://95.137.249.196:42860/i
 205890, 2024-08-02 01:28:26, 2024-08-02 01:28:26, malware, 4fa47ef9fdf14609a450b476b5a4f6f3, http://95.137.128.151:45403/Mozi.m
 205889, 2024-08-02 01:28:24, 2024-08-02 01:28:24, malware, c60706c56714400cbe0eb3349e728d8a, http://61.54.42.9:43742/Mozi.m
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 205398, 2024-08-01 13:25:18, 2024-08-01 13:25:18, malware, 340b681fe0bc41a5a0c5e8579cfae543, http://193.153.109.229:55560/bin.sh
 205397, 2024-08-01 13:25:05, 2024-08-01 13:25:05, malware, d682883c695047c09dcfe74fa25e7dff, https://pishkhan-dolati.com/my/tci/app/TCI.apk
 205396, 2024-08-01 13:24:51, 2024-08-01 13:24:51, phishing, 31c24106ca24a2571015d50e4a579868, https://pishkhan-dolati.com/my/tci/tci.php
-205395, 2024-08-01 13:24:44, 2024-08-01 13:24:44, malware, 70f39c5902f540f0acddb0088c148e6f, http://182.127.122.235:36967/i
-205394, 2024-08-01 13:24:42, 2024-08-01 13:24:42, malware, a7dfe6d0f576468995aa9821984d1708, http://182.119.221.110:57962/Mozi.m
-205393, 2024-08-01 13:24:40, 2024-08-01 13:24:40, malware, b4d59bf29678445b9068bd49ff8f9701, http://182.118.144.169:47883/i
-205392, 2024-08-01 13:24:39, 2024-08-01 13:24:39, malware, 7ed744037ed0433881264b17b655329a, http://182.112.1.123:54162/Mozi.m
