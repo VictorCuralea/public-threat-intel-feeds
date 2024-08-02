@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-02 18:00:01 UTC
+# UPDATE: 2024-08-02 19:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+206546, 2024-08-02 18:58:12, 2024-08-02 18:58:12, phishing, 95a15895c3207df31815b8a6bb81ee82, http://ommodnc2.pages.dev
+206545, 2024-08-02 18:28:13, 2024-08-02 18:28:13, phishing, 95163268a049596bbca6ad6c90d4809d, http://roninchat.pages.dev
+206544, 2024-08-02 18:01:59, 2024-08-02 17:56:13, phishing, 91ae3e936ec2a59a476fe0b6591138d5, https://www.dropbox.com/scl/fi/wtsxnc14zuie5nug1hn1o/BT-INTERNET-SERVICE.papert?dl=0
+206543, 2024-08-02 18:01:33, 2024-08-02 17:42:16, phishing, be1412080759b4f84114506062ae2e2b, https://www.dropbox.com/scl/fi/944letbmcifqa5i0bwxw5/BT-VOICE-NOTIFICATION.papert?rlkey=x4dfz1yyks3swiyxbrwt7w44p
 206542, 2024-08-02 17:28:42, 2024-08-02 17:28:42, malware, 30b3d6e89b2b4db58768a07ffd4aeeca, http://95.135.157.164:36849/bin.sh
 206541, 2024-08-02 17:28:41, 2024-08-02 17:28:41, malware, ef586364bc644a05a3377a7af6365181, http://83.219.1.198:59237/
 206540, 2024-08-02 17:28:40, 2024-08-02 17:28:40, malware, ed5a9db244e74ae789e53ab51c89d9b4, http://78.174.132.75:42754/bin.sh
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 206049, 2024-08-02 07:02:46, 2024-08-02 07:02:46, phishing, f3517b865a5729f7e6945ec0f8c0608c, https://exitjoin.com/
 206048, 2024-08-02 07:02:34, 2024-08-02 07:02:34, phishing, 0f9e760a22995ede5a8178b32663b01c, https://creativeservices.netflix.com.sg-vnt-2.sosis-berurat.live/
 206047, 2024-08-02 07:02:12, 2024-08-02 07:02:12, phishing, 36ad5fa8a0d88a028a1d9f68bf32e46b, http://s0.fsoall.ir/
-206046, 2024-08-02 07:02:12, 2024-08-02 07:02:12, phishing, 75140988516639d9c758a063f4429e8d, http://free-sex-with-me.pages.dev/
-206045, 2024-08-02 07:02:10, 2024-08-02 07:02:10, phishing, e0ab5df00669cca33b847870264ce83b, http://simxtrackredirecttszz.pages.dev/
-206044, 2024-08-02 06:58:14, 2024-08-02 06:58:14, phishing, 6d0985d9c2f1f80d4a8cadcac5325ffe, http://ihgg.hkqwo.com
-206043, 2024-08-02 06:54:12, 2024-08-02 06:54:12, phishing, 174ccc8d61f776b4672c14c063e8c8de, http://mail.ihgg.hkqwo.com

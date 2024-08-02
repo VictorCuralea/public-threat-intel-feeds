@@ -6,8 +6,12 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-02 18:00:01 UTC
+# UPDATE: 2024-08-02 19:00:02 UTC
 ############### END COMMENTS ###############
+{"id": 206546, "url": "http://ommodnc2.pages.dev", "discovery": "2024-08-02 18:58:12", "added": "2024-08-02 18:58:12", "target": "Amazon", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "95a15895c3207df31815b8a6bb81ee82"}
+{"id": 206545, "url": "http://roninchat.pages.dev", "discovery": "2024-08-02 18:28:13", "added": "2024-08-02 18:28:13", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "95163268a049596bbca6ad6c90d4809d"}
+{"id": 206544, "url": "https://www.dropbox.com/scl/fi/wtsxnc14zuie5nug1hn1o/BT-INTERNET-SERVICE.papert?dl=0", "discovery": "2024-08-02 17:56:13", "added": "2024-08-02 18:01:59", "target": "BT", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "91ae3e936ec2a59a476fe0b6591138d5"}
+{"id": 206543, "url": "https://www.dropbox.com/scl/fi/944letbmcifqa5i0bwxw5/BT-VOICE-NOTIFICATION.papert?rlkey=x4dfz1yyks3swiyxbrwt7w44p", "discovery": "2024-08-02 17:42:16", "added": "2024-08-02 18:01:33", "target": "BT", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "be1412080759b4f84114506062ae2e2b"}
 {"id": 206542, "url": "http://95.135.157.164:36849/bin.sh", "discovery": "2024-08-02 17:28:42", "added": "2024-08-02 17:28:42", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "30b3d6e89b2b4db58768a07ffd4aeeca"}
 {"id": 206541, "url": "http://83.219.1.198:59237/", "discovery": "2024-08-02 17:28:41", "added": "2024-08-02 17:28:41", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "ef586364bc644a05a3377a7af6365181"}
 {"id": 206540, "url": "http://78.174.132.75:42754/bin.sh", "discovery": "2024-08-02 17:28:40", "added": "2024-08-02 17:28:40", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "ed5a9db244e74ae789e53ab51c89d9b4"}
@@ -504,7 +508,3 @@
 {"id": 206049, "url": "https://exitjoin.com/", "discovery": "2024-08-02 07:02:46", "added": "2024-08-02 07:02:46", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "f3517b865a5729f7e6945ec0f8c0608c"}
 {"id": 206048, "url": "https://creativeservices.netflix.com.sg-vnt-2.sosis-berurat.live/", "discovery": "2024-08-02 07:02:34", "added": "2024-08-02 07:02:34", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "0f9e760a22995ede5a8178b32663b01c"}
 {"id": 206047, "url": "http://s0.fsoall.ir/", "discovery": "2024-08-02 07:02:12", "added": "2024-08-02 07:02:12", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "36ad5fa8a0d88a028a1d9f68bf32e46b"}
-{"id": 206046, "url": "http://free-sex-with-me.pages.dev/", "discovery": "2024-08-02 07:02:12", "added": "2024-08-02 07:02:12", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "75140988516639d9c758a063f4429e8d"}
-{"id": 206045, "url": "http://simxtrackredirecttszz.pages.dev/", "discovery": "2024-08-02 07:02:10", "added": "2024-08-02 07:02:10", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "e0ab5df00669cca33b847870264ce83b"}
-{"id": 206044, "url": "http://ihgg.hkqwo.com", "discovery": "2024-08-02 06:58:14", "added": "2024-08-02 06:58:14", "target": "Whatsapp", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "6d0985d9c2f1f80d4a8cadcac5325ffe"}
-{"id": 206043, "url": "http://mail.ihgg.hkqwo.com", "discovery": "2024-08-02 06:54:12", "added": "2024-08-02 06:54:12", "target": "Whatsapp", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "174ccc8d61f776b4672c14c063e8c8de"}
