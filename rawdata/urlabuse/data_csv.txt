@@ -6,9 +6,14 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-02 14:00:01 UTC
+# UPDATE: 2024-08-02 15:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+206385, 2024-08-02 14:44:13, 2024-08-02 14:44:13, phishing, 0d3518145813ace8e83af110ce79be22, http://brc20-c7f.pages.dev
+206384, 2024-08-02 14:21:47, 2024-08-02 14:14:11, phishing, 59cdd7e311ceae6752bc879fdf2e3bf1, https://sifortima.com/fr
+206383, 2024-08-02 14:21:37, 2024-08-02 14:21:37, phishing, c68377e4b63c982daecff6d11d98d926, https://cfspart-idp-impots-gouv-fr.siaftop.com/oauth2/1ca3e/
+206382, 2024-08-02 14:04:18, 2024-08-02 14:04:18, phishing, b576043819aeef1921c04e872b9c81eb, https://vus.oui.mybluehost.me/spc/
+206381, 2024-08-02 14:02:16, 2024-08-02 14:02:16, phishing, 7acba0f8eabafde27ad77313680d0b51, https://spc-swi.blogspot.com/
 206380, 2024-08-02 13:52:16, 2024-08-02 13:52:16, phishing, dfc43f87f4aa31c4e4407f7739f8ceca, https://mac2sell.ch/vmikeys/deutsch/RDGDESDZRFSYJNOI/index.php?FGDD=1#HDHKJDJDSSJDSJKJDSJDSDJJDSHYKJHGFG
 206379, 2024-08-02 13:50:17, 2024-08-02 13:50:17, phishing, a211079ebb689bf6cb5eea73f7f419f7, https://radiocristalonline.org/sbv9xk1f7/de/
 206378, 2024-08-02 13:32:34, 2024-08-02 13:32:34, malware, 0a28ab74742f43b38ad570df599bf11f, http://95.137.128.74:44303/Mozi.m
@@ -504,8 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 205888, 2024-08-02 01:28:22, 2024-08-02 01:28:22, malware, d206ab84e88842bdab5c00261142113d, http://61.53.83.109:59884/Mozi.m
 205887, 2024-08-02 01:27:51, 2024-08-02 01:27:51, malware, 24d49ff21c0949f49ceaceb3cae04baf, http://61.3.221.38:48517/i
 205886, 2024-08-02 01:27:39, 2024-08-02 01:27:39, malware, daf94fdcb01a4cc8b12cacc3fc1382bd, http://61.163.13.155:59683/i
-205885, 2024-08-02 01:27:37, 2024-08-02 01:27:37, malware, e3cdf658e43d4ae7b3e62fecc195dca0, http://61.0.99.220:60422/i
-205884, 2024-08-02 01:27:10, 2024-08-02 01:27:10, malware, 1b130b10cbef4d64832ff552a6876de3, http://59.91.90.73:37612/bin.sh
-205883, 2024-08-02 01:27:08, 2024-08-02 01:27:08, malware, cebd97cf985146b392097a990bea6c82, http://59.89.8.207:56429/bin.sh
-205882, 2024-08-02 01:27:06, 2024-08-02 01:27:06, malware, c4bed9b6fd5e4dbea9567ac8a2fc129b, http://59.184.77.43:46020/i
-205881, 2024-08-02 01:26:54, 2024-08-02 01:26:54, malware, 7ebf311bc4584eb3914b8b1f4ee3a5f8, http://59.178.34.8:58900/Mozi.m
