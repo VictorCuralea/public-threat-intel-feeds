@@ -6,8 +6,11 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-02 06:00:01 UTC
+# UPDATE: 2024-08-02 07:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 206044, "url": "http://ihgg.hkqwo.com", "discovery": "2024-08-02 06:58:14", "added": "2024-08-02 06:58:14", "target": "Whatsapp", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "6d0985d9c2f1f80d4a8cadcac5325ffe"}
+{"id": 206043, "url": "http://mail.ihgg.hkqwo.com", "discovery": "2024-08-02 06:54:12", "added": "2024-08-02 06:54:12", "target": "Whatsapp", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "174ccc8d61f776b4672c14c063e8c8de"}
+{"id": 206042, "url": "http://whsatapp-sc.com", "discovery": "2024-08-02 06:30:12", "added": "2024-08-02 06:30:12", "target": "Whatsapp", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "df9be2e9b2a9d9f715ca6a9dacb3a190"}
 {"id": 206041, "url": "http://monformulaire-en-ligne.com", "discovery": "2024-08-02 05:50:14", "added": "2024-08-02 05:50:14", "target": "FR-GOV", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "643ddcae2689439986c0e6cdbaf09a63"}
 {"id": 206040, "url": "http://ww7kv.pages.dev", "discovery": "2024-08-02 05:30:13", "added": "2024-08-02 05:30:13", "target": "Amazon", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "e964b0265919e2488e72873ec5902e59"}
 {"id": 206039, "url": "http://61.53.219.115:40019/bin.sh", "discovery": "2024-08-02 05:26:38", "added": "2024-08-02 05:26:38", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "123ecc8d02264414931e397df7aba3b7"}
@@ -505,6 +508,3 @@
 {"id": 205547, "url": "https://pub-9f815abf04ea46b0b5ccb895b7aa117a.r2.dev/index.html", "discovery": "2024-08-01 16:04:46", "added": "2024-08-01 16:04:46", "target": "Microsoft", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "a2607e74b4f21061938d54bc47584ada"}
 {"id": 205546, "url": "https://bafybeihja5dtdmru24vrkesucfqx6yusc2zne6bcsli7e3etpodwna4kxy.ipfs.dweb.link/", "discovery": "2024-08-01 16:04:12", "added": "2024-08-01 16:04:12", "target": "Microsoft", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "c880adfb8c544ef46d0cac7da721f76b"}
 {"id": 205545, "url": "https://quality-stuff.online/", "discovery": "2024-08-01 16:03:27", "added": "2024-08-01 16:03:27", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "b711d7569b6f17f451ebb0cb2ddf4658"}
-{"id": 205544, "url": "https://login.teiegramzh.org/", "discovery": "2024-08-01 16:03:24", "added": "2024-08-01 16:03:24", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "9866846fd9a5ef94a3fbfcc294668d7a"}
-{"id": 205543, "url": "https://telegram-sex-naughty18.pages.dev/", "discovery": "2024-08-01 16:03:22", "added": "2024-08-01 16:03:22", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "a34c24be780a406d6d2fe45930b6dd1e"}
-{"id": 205542, "url": "http://teledate-fors3x.vercel.app/", "discovery": "2024-08-01 16:03:05", "added": "2024-08-01 16:03:05", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "cd31dbf0a7d167fd672ef6840f500636"}
