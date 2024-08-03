@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-03 00:00:01 UTC
+# UPDATE: 2024-08-03 01:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+206755, 2024-08-03 00:32:17, 2024-08-03 00:32:17, phishing, be4584f42088e3a4eca8ffa7b35c0dbe, http://decentrilized-8mt.pages.dev
 206754, 2024-08-02 23:39:39, 2024-08-02 23:39:39, phishing, e8c4a5d9f4eab6c9c8f0c7f95714f16b, https://lt-ref.pages.dev/Autentifikavimas
 206753, 2024-08-02 23:39:08, 2024-08-02 23:39:08, phishing, 289a068ca7809936ce1a92599e18edcd, https://seb1.ru/quations/
 206752, 2024-08-02 23:37:04, 2024-08-02 23:37:04, phishing, b691e71065c62139080ee86cfa393971, https://dash-lt.pages.dev/Autentifikavimas
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 206258, 2024-08-02 11:20:06, 2024-08-02 11:20:06, malware, a181c5799425476985e1811e2797cf25, http://1.189.90.23:58729/i
 206257, 2024-08-02 11:08:13, 2024-08-02 11:08:13, phishing, aa49e7140b2120cb15548f0d60db0ba6, http://synchronise.pages.dev
 206256, 2024-08-02 10:54:11, 2024-08-02 10:54:11, phishing, fecfe0a5c12d90cdf388bf867052ed84, http://wallet-resolve.pages.dev
-206255, 2024-08-02 10:36:11, 2024-08-02 10:36:11, phishing, 767c04da2e5039e90a1a059528575e6f, http://perponchaintrade.pages.dev
