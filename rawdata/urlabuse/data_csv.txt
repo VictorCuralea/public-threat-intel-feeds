@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-03 08:00:01 UTC
+# UPDATE: 2024-08-03 09:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+207061, 2024-08-03 08:20:13, 2024-08-03 08:20:13, phishing, 32cb52622bfc6af7c3ab2a14bee9ce89, http://revshares-dashboard.pages.dev
 207060, 2024-08-03 07:54:12, 2024-08-03 07:54:12, phishing, ed981c66049dc32ff76831b32c367b3f, http://alisonsexygirl.pages.dev
 207059, 2024-08-03 07:32:11, 2024-08-03 07:32:11, phishing, 17462d5983d13ea8e61c055d0a9d55f4, http://11sdf3q4g.pages.dev
 207058, 2024-08-03 07:27:01, 2024-08-03 07:27:01, malware, 7a45ac77157549a789a8331711540a7b, http://95.137.223.46:37397/Mozi.m
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 206564, 2024-08-02 19:20:59, 2024-08-02 19:20:59, malware, f78395fd507641dca037dd728815dc03, http://117.213.47.182:60872/Mozi.m
 206563, 2024-08-02 19:20:50, 2024-08-02 19:20:50, malware, a55b6229d477431b8e7322cb9bedc416, http://117.212.160.247:36591/bin.sh
 206562, 2024-08-02 19:20:44, 2024-08-02 19:20:44, malware, af6d070b8a3e4438b428e17c005d886e, http://117.198.14.206:37304/i
-206561, 2024-08-02 19:20:42, 2024-08-02 19:20:42, malware, 05a2ae6a3b09468280626c85244967f6, http://117.198.13.240:55531/Mozi.m
