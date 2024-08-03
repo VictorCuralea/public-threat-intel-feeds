@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-08-02 12:27:13 UTC                        #
+# Last updated: 2024-08-03 02:47:11 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	tophooks.org
 127.0.0.1	health-wants.gl.at.ply.gg
 127.0.0.1	khongphaibotnet.servehttp.com
 127.0.0.1	dais7nsa.shop
@@ -7113,4 +7114,4 @@
 127.0.0.1	panal.statisticsong.com
 127.0.0.1	panel.statisticsong.com
 127.0.0.1	kami.magication.us
-# Number of entries: 7107
+# Number of entries: 7108
