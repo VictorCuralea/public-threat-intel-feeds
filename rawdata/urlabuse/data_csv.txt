@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-03 22:00:01 UTC
+# UPDATE: 2024-08-03 23:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+207519, 2024-08-03 22:17:37, 2024-08-03 22:17:37, phishing, 6a5578e1c7c1c5d55e3e44b6eced9b00, https://ipfs.io/ipfs/bafkreig2nmm2vlhhbteacfxziz5zh55ogyu7gklxg3n3sk22e4ofpwhcn4
+207518, 2024-08-03 22:17:19, 2024-08-03 22:17:19, phishing, 559cd1ea58fde321e453d62dce908d36, https://ipfs.io/ipfs/bafkreihim4teuid5kjnuifbic6knroql4nx674sfu5k33dfqe3goxj4xmi#
+207517, 2024-08-03 22:06:15, 2024-08-03 22:06:15, phishing, 486b4e01d4abbc969d557caeceeb05ee, http://uspsmn.icu
+207516, 2024-08-03 22:00:36, 2024-08-03 22:00:36, phishing, 12b6f14a8c5b68980b370eb2047267df, https://eplord.ru/
 207515, 2024-08-03 21:51:03, 2024-08-03 21:26:15, phishing, 4da1f20c61c60fd9ef9f38ef9fc5408d, https://login.wiseosi.com/?key=ADBWCypQVoodyajjAwFLsrfYGCRqsrjUpeJiReGNWTQlLeiNLjYegmiyFRndHNJMvDJBCkmsTYDqASIvEhnvBKjBdiLQmYzlKlkuYxawEHalsyWwCfSpDdrlltYAguldzYwvmozAE
 207514, 2024-08-03 21:42:15, 2024-08-03 21:42:15, phishing, fab4322b6c672506555dce5ce7884df5, https://guiasdevideojuegos.com/wp-admin/SBBSWISS/index/
 207513, 2024-08-03 21:40:15, 2024-08-03 21:40:15, phishing, fddd20404b786dba32bf545dc1f513e9, https://dousrishaadi.com/word.php
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 207022, 2024-08-03 07:24:02, 2024-08-03 07:24:02, malware, 6d9900956e5540caa0d8fbcd93f6a577, http://222.142.255.107:35737/i
 207021, 2024-08-03 07:24:01, 2024-08-03 07:24:01, malware, 56695fa8a60640fd96858c0e3aa441ae, http://222.142.255.107:35737/bin.sh
 207020, 2024-08-03 07:24:00, 2024-08-03 07:24:00, malware, 8b83f722169a41cbb51238c8a9e23ae8, http://222.142.251.168:34884/bin.sh
-207019, 2024-08-03 07:23:58, 2024-08-03 07:23:58, malware, 42fe5e69d60e42c499314bd1cc67b3d6, http://222.141.176.105:55705/i
-207018, 2024-08-03 07:23:55, 2024-08-03 07:23:55, malware, 419b1da40d744283845779fad8e23e74, http://222.139.53.11:41455/
-207017, 2024-08-03 07:23:45, 2024-08-03 07:23:45, malware, 2a108ed280e1464a89b12a2a4cccc0ea, http://222.137.26.234:49606/
-207016, 2024-08-03 07:23:43, 2024-08-03 07:23:43, malware, 444c38f0abe648a790839c45e9a10045, http://222.134.175.121:43922/bin.sh

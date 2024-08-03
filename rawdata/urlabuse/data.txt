@@ -6,8 +6,12 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-03 22:00:01 UTC
+# UPDATE: 2024-08-03 23:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 207519, "url": "https://ipfs.io/ipfs/bafkreig2nmm2vlhhbteacfxziz5zh55ogyu7gklxg3n3sk22e4ofpwhcn4", "discovery": "2024-08-03 22:17:37", "added": "2024-08-03 22:17:37", "target": "Generic Email", "reporter": "KTSC", "AbuseType": "phishing", "UUID": "6a5578e1c7c1c5d55e3e44b6eced9b00"}
+{"id": 207518, "url": "https://ipfs.io/ipfs/bafkreihim4teuid5kjnuifbic6knroql4nx674sfu5k33dfqe3goxj4xmi#", "discovery": "2024-08-03 22:17:19", "added": "2024-08-03 22:17:19", "target": "Generic Email", "reporter": "KTSC", "AbuseType": "phishing", "UUID": "559cd1ea58fde321e453d62dce908d36"}
+{"id": 207517, "url": "http://uspsmn.icu", "discovery": "2024-08-03 22:06:15", "added": "2024-08-03 22:06:15", "target": "USPS", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "486b4e01d4abbc969d557caeceeb05ee"}
+{"id": 207516, "url": "https://eplord.ru/", "discovery": "2024-08-03 22:00:36", "added": "2024-08-03 22:00:36", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "12b6f14a8c5b68980b370eb2047267df"}
 {"id": 207515, "url": "https://login.wiseosi.com/?key=ADBWCypQVoodyajjAwFLsrfYGCRqsrjUpeJiReGNWTQlLeiNLjYegmiyFRndHNJMvDJBCkmsTYDqASIvEhnvBKjBdiLQmYzlKlkuYxawEHalsyWwCfSpDdrlltYAguldzYwvmozAE", "discovery": "2024-08-03 21:26:15", "added": "2024-08-03 21:51:03", "target": "Wise", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "4da1f20c61c60fd9ef9f38ef9fc5408d"}
 {"id": 207514, "url": "https://guiasdevideojuegos.com/wp-admin/SBBSWISS/index/", "discovery": "2024-08-03 21:42:15", "added": "2024-08-03 21:42:15", "target": "SwissPass", "reporter": "VERIFROMd", "AbuseType": "phishing", "UUID": "fab4322b6c672506555dce5ce7884df5"}
 {"id": 207513, "url": "https://dousrishaadi.com/word.php", "discovery": "2024-08-03 21:40:15", "added": "2024-08-03 21:40:15", "target": "SwissPass", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "fddd20404b786dba32bf545dc1f513e9"}
@@ -504,7 +508,3 @@
 {"id": 207022, "url": "http://222.142.255.107:35737/i", "discovery": "2024-08-03 07:24:02", "added": "2024-08-03 07:24:02", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "6d9900956e5540caa0d8fbcd93f6a577"}
 {"id": 207021, "url": "http://222.142.255.107:35737/bin.sh", "discovery": "2024-08-03 07:24:01", "added": "2024-08-03 07:24:01", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "56695fa8a60640fd96858c0e3aa441ae"}
 {"id": 207020, "url": "http://222.142.251.168:34884/bin.sh", "discovery": "2024-08-03 07:24:00", "added": "2024-08-03 07:24:00", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "8b83f722169a41cbb51238c8a9e23ae8"}
-{"id": 207019, "url": "http://222.141.176.105:55705/i", "discovery": "2024-08-03 07:23:58", "added": "2024-08-03 07:23:58", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "42fe5e69d60e42c499314bd1cc67b3d6"}
-{"id": 207018, "url": "http://222.139.53.11:41455/", "discovery": "2024-08-03 07:23:55", "added": "2024-08-03 07:23:55", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "419b1da40d744283845779fad8e23e74"}
-{"id": 207017, "url": "http://222.137.26.234:49606/", "discovery": "2024-08-03 07:23:45", "added": "2024-08-03 07:23:45", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "2a108ed280e1464a89b12a2a4cccc0ea"}
-{"id": 207016, "url": "http://222.134.175.121:43922/bin.sh", "discovery": "2024-08-03 07:23:43", "added": "2024-08-03 07:23:43", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "444c38f0abe648a790839c45e9a10045"}
