@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-03 18:00:01 UTC
+# UPDATE: 2024-08-03 19:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+207418, 2024-08-03 18:32:15, 2024-08-03 18:32:15, phishing, b42351f2f6209f8024194cacd2333233, http://worker-weathered-queen-0052.aileensiddall.workers.dev
+207417, 2024-08-03 18:20:11, 2024-08-03 18:20:11, phishing, 3821a735ce0524686af631c32520c74b, http://moontaurusmeme.pages.dev
 207416, 2024-08-03 17:24:30, 2024-08-03 17:24:30, malware, 759a84faf6f4495ca1cea27be474dbb1, http://tengfeidn.com/down/jf/jf.exe
 207415, 2024-08-03 17:24:06, 2024-08-03 17:24:06, malware, 42b691264e75407bad63dcbd4df3a3e1, http://95.137.250.96:48254/Mozi.m
 207414, 2024-08-03 17:23:55, 2024-08-03 17:23:55, malware, 7364a5106b304cfe89b15f6c1676ad2f, http://61.53.43.195:56609/i
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 206921, 2024-08-03 05:23:42, 2024-08-03 05:23:42, malware, d5a9647e7721460bb77ff8f0cc390455, http://182.123.208.15:42084/i
 206920, 2024-08-03 05:23:41, 2024-08-03 05:23:41, malware, 22e8c13bcffa4950b239a64eedc37521, http://182.123.208.15:42084/bin.sh
 206919, 2024-08-03 05:23:27, 2024-08-03 05:23:27, malware, 8e6e13d6b3f941fbb36e80e756eee3ea, http://160.177.214.83:51229/Mozi.m
-206918, 2024-08-03 05:23:25, 2024-08-03 05:23:25, malware, 583273ecc5324c17a50f5af2915a8c69, http://125.47.92.174:58925/i
-206917, 2024-08-03 05:23:24, 2024-08-03 05:23:24, malware, 266e0d201acf4387a267b912b3fb56f3, http://123.11.242.78:48271/i
