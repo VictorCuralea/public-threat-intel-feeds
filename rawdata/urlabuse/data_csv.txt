@@ -6,9 +6,14 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-03 14:00:01 UTC
+# UPDATE: 2024-08-03 15:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+207310, 2024-08-03 14:54:14, 2024-08-03 14:54:14, phishing, 00ee7743497141d55ceebaad2be5067f, http://authenticationonlines.pages.dev
+207309, 2024-08-03 14:52:11, 2024-08-03 14:22:13, phishing, 4c6a64ff928a5622e63a8e5c44f28592, https://belltreetops.wixsite.com/my-site-1
+207308, 2024-08-03 14:51:59, 2024-08-03 14:48:17, phishing, c64f8086cda3cc74fcfebc1da2c434fe, https://abuturrab.com/nrd/Oxyde-China#x
+207307, 2024-08-03 14:51:46, 2024-08-03 14:28:42, phishing, 05900fad5f9db8debb67d9b4ace74bac, https://webmail.utfserver.com/index.php?email=x
+207306, 2024-08-03 14:32:17, 2024-08-03 14:32:17, phishing, 99a06b67e9e6d7323b13932bb0c914cb, http://guki.pages.dev
 207305, 2024-08-03 13:27:30, 2024-08-03 13:27:30, malware, a10a3b7553d644a080aaa0c4a9f3f581, http://95.137.137.237:50627/Mozi.m
 207304, 2024-08-03 13:27:29, 2024-08-03 13:27:29, malware, 2060af321d0c4d0eafc5280912ca5693, http://61.53.43.134:42496/i
 207303, 2024-08-03 13:27:28, 2024-08-03 13:27:28, malware, b682f758c7ad4214b897590162fe0d98, http://61.53.242.249:46469/bin.sh
@@ -504,8 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 206813, 2024-08-03 01:48:17, 2024-08-03 01:48:17, phishing, 0e92fb4b931af7742269dff71fd28673, http://app-icoud.com
 206812, 2024-08-03 01:24:21, 2024-08-03 01:24:21, malware, 6e31596fca7b44bdae0b32848467b0b0, http://83.219.1.198:59237/i
 206811, 2024-08-03 01:24:20, 2024-08-03 01:24:20, malware, a232549c2065403490eaf0419827c9b5, http://61.52.55.156:34671/Mozi.m
-206810, 2024-08-03 01:24:18, 2024-08-03 01:24:18, malware, 47ec77d786094065bcfa6c96c440ecd9, http://61.52.132.89:41070/i
-206809, 2024-08-03 01:24:08, 2024-08-03 01:24:08, malware, df8d89f479dc4c17beec841766c41123, http://61.3.213.33:56817/i
-206808, 2024-08-03 01:24:07, 2024-08-03 01:24:07, malware, 3d35e82fba464b4fbb3d5d49cdba42fe, http://59.99.209.58:41075/i
-206807, 2024-08-03 01:24:02, 2024-08-03 01:24:02, malware, 89b9d54517d340f5ad6a6c68ecf38ae0, http://59.97.118.239:39297/Mozi.a
-206806, 2024-08-03 01:24:00, 2024-08-03 01:24:00, malware, 9f3bbea61ffc45938c3b60a83e83ec89, http://59.93.203.93:60028/i
