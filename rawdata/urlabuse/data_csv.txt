@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-03 20:00:01 UTC
+# UPDATE: 2024-08-03 21:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+207470, 2024-08-03 20:59:21, 2024-08-03 20:46:11, phishing, 574c717e0665902c18060807cf4d946c, https://meet-gocgle.com/
 207469, 2024-08-03 19:25:54, 2024-08-03 19:25:54, malware, 01cd44340fbf4b01899fbddc7d1dc918, http://62.212.38.177:36992/Mozi.m
 207468, 2024-08-03 19:25:53, 2024-08-03 19:25:53, malware, e2b6fdf4646646b79e96da9b5ff2e2bb, http://61.54.70.77:42323/i
 207467, 2024-08-03 19:25:51, 2024-08-03 19:25:51, malware, c83f6ee6330745e19f017ae8e2b12a2a, http://61.52.159.211:59321/i
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 206973, 2024-08-03 07:20:28, 2024-08-03 07:20:28, malware, 0d9dc54339204da899bebc84a69cc9d9, http://115.55.254.26:43928/i
 206972, 2024-08-03 07:20:26, 2024-08-03 07:20:26, malware, 34a3d529f44b4c94a6094fafd1b92fdc, http://115.55.254.26:43928/bin.sh
 206971, 2024-08-03 07:20:15, 2024-08-03 07:20:15, malware, 7e172de33ecb438581054993da1a837e, http://115.55.234.66:56175/bin.sh
-206970, 2024-08-03 07:20:13, 2024-08-03 07:20:13, malware, d562c28ee07f4a7d89b31516fbc54c04, http://115.55.231.241:48757/i

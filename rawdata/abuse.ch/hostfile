@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-08-03 07:01:50 UTC                        #
+# Last updated: 2024-08-03 20:51:24 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	taysour6lakut1.duckdns.org
+127.0.0.1	taysour6lakut2.duckdns.org
+127.0.0.1	nickman12-46565.portmap.io
 127.0.0.1	ovh.atproxy.xyz
 127.0.0.1	expertoenexcel.com
 127.0.0.1	instalaymantiene.com
@@ -7093,4 +7096,4 @@
 127.0.0.1	can.comewithme.info
 127.0.0.1	copper-king.com
 127.0.0.1	invoce-social.com
-# Number of entries: 7087
+# Number of entries: 7090
