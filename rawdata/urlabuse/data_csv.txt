@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-04 22:00:01 UTC
+# UPDATE: 2024-08-04 23:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+208365, 2024-08-04 22:00:54, 2024-08-04 22:00:54, phishing, 473c0325b256e80a05feea5b608baea3, http://mokela.ru/
+208364, 2024-08-04 22:00:34, 2024-08-04 22:00:34, phishing, 2c9c999c2a0c39e7aa28bc2ecd2ffede, http://nizera.ru/
 208363, 2024-08-04 21:26:25, 2024-08-04 21:26:25, malware, 4cfd42b6c57d46ecaa072c987eb42c99, http://95.132.68.215:40488/i
 208362, 2024-08-04 21:26:18, 2024-08-04 21:26:18, malware, 0305da9f519d46bd965b7c38a0945398, http://61.52.105.24:43313/bin.sh
 208361, 2024-08-04 21:26:17, 2024-08-04 21:26:17, malware, f637bdd0784743708a721a59504a1a31, http://61.3.14.214:37567/Mozi.m
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 207868, 2024-08-04 09:25:57, 2024-08-04 09:25:57, malware, 553779cb1266462ab22e9fadb97c89d2, http://42.193.241.116:10886/SS.exe
 207867, 2024-08-04 09:25:49, 2024-08-04 09:25:49, malware, a471adb151cf44f7bac9570852ef6a20, http://39.86.146.125:49384/Mozi.m
 207866, 2024-08-04 09:25:47, 2024-08-04 09:25:47, malware, ecd0e4f360e14fc0b7f0e5613b31a34a, http://27.215.239.168:46911/bin.sh
-207865, 2024-08-04 09:25:37, 2024-08-04 09:25:37, malware, 548f6d60d1e541358cb0bfb20f5ddbe1, http://27.202.25.233:48074/bin.sh
-207864, 2024-08-04 09:25:33, 2024-08-04 09:25:33, malware, f17177a687964fa8ad82c76dd53fabf0, http://222.141.73.198:41917/i
