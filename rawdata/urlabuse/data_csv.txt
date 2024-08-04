@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-04 14:00:02 UTC
+# UPDATE: 2024-08-04 15:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+208079, 2024-08-04 14:12:13, 2024-08-04 14:12:13, phishing, 055c7e02e7a0056f9f8ba40ff4fc5ff8, http://droptruistsecurenovv.pages.dev
 208078, 2024-08-04 13:42:15, 2024-08-04 13:42:15, phishing, 94f1700f2d4a660b73b5b4e844388247, http://weekly-revshare.pages.dev
 208077, 2024-08-04 13:33:03, 2024-08-04 13:33:03, malware, 4a07ff34e95046bc8436221724f84bfd, http://95.137.247.65:35509/Mozi.m
 208076, 2024-08-04 13:33:01, 2024-08-04 13:33:01, malware, 32c8b56522a2402ca42dc8c0e2c97fda, http://91.92.251.170/a.exe
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 207582, 2024-08-03 23:25:07, 2024-08-03 23:25:07, malware, fbad2fe93e744b788e58102e6f1abb89, http://59.91.88.246:36910/Mozi.m
 207581, 2024-08-03 23:25:04, 2024-08-03 23:25:04, malware, c98476cbfd0244358cafb1dc498df06f, http://59.88.158.1:42323/Mozi.m
 207580, 2024-08-03 23:24:56, 2024-08-03 23:24:56, malware, 14cc818989754b19a9a5d4287e790f11, http://59.88.12.131:42370/Mozi.m
-207579, 2024-08-03 23:24:54, 2024-08-03 23:24:54, malware, 2220379d47f944fb9045ea4657ecc6ac, http://59.184.253.159:50521/Mozi.m
