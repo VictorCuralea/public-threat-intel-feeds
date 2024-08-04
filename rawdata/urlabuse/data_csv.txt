@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-04 20:00:02 UTC
+# UPDATE: 2024-08-04 21:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+208310, 2024-08-04 20:52:15, 2024-08-04 20:52:15, phishing, a9f775b57accd7cb687f027a7e9c8230, http://xn--renouvellement-sant-tzb.fr
+208309, 2024-08-04 20:30:15, 2024-08-04 20:30:15, phishing, 25b7857822c390266dde407f3bc1735a, http://monrenouvellementvitale-sante.fr
 208308, 2024-08-04 19:52:15, 2024-08-04 19:52:15, phishing, 34060f35d2de0dd84078981d506acf34, http://mertkelekcintr.com
 208307, 2024-08-04 19:48:11, 2024-08-04 19:48:11, phishing, f77bf440812132efe6e9f8f48b900aa5, http://mail.mertkelekcintr.com
 208306, 2024-08-04 19:29:41, 2024-08-04 19:29:41, malware, 2062af91e6e54a189ccbf8695c6fcadd, http://95.132.68.215:40488/bin.sh
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 207813, 2024-08-04 07:25:33, 2024-08-04 07:25:33, malware, fa68b07979f944c0bb3e311d672edf7d, http://27.215.110.249:33486/i
 207812, 2024-08-04 07:25:31, 2024-08-04 07:25:31, malware, 49cdb1ec03a34bdabb31f730ae3ac796, http://27.202.25.233:48074/i
 207811, 2024-08-04 07:25:30, 2024-08-04 07:25:30, malware, 5df3377e9eb447a1a2f0f647f65302a3, http://222.138.102.34:33649/i
-207810, 2024-08-04 07:25:28, 2024-08-04 07:25:28, malware, 7143c0172a9f4415958cc29c41c04c3c, http://222.138.102.34:33649/bin.sh
-207809, 2024-08-04 07:25:27, 2024-08-04 07:25:27, malware, e6e5d79d69c24af29068170d3af52c89, http://222.137.26.234:49606/bin.sh
