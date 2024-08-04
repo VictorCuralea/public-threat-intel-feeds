@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-04 00:00:01 UTC
+# UPDATE: 2024-08-04 01:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+207595, 2024-08-04 00:48:16, 2024-08-04 00:48:16, phishing, 7b9ae362e2a7f74b2f4df6ff0037226c, http://demande-cartevitale.com
 207594, 2024-08-03 23:26:41, 2024-08-03 23:26:41, malware, 4925db968ec34cd897f1f45c22dc8dc1, http://funletters.net/scenic/scenic1//sunset1.exe
 207593, 2024-08-03 23:26:40, 2024-08-03 23:26:40, malware, 162b8fda2af544bfa6e3373076f8def4, http://funletters.net/scenic/scenic1//mountain-pasture.exe
 207592, 2024-08-03 23:26:39, 2024-08-03 23:26:39, malware, 16f31d067b9640c9b3de01a02e1a7f98, http://funletters.net/scenic/scenic1//foggy-mountains.exe
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 207098, 2024-08-03 09:26:03, 2024-08-03 09:26:03, malware, 8524d0fad2c44dc1938bd7026e1411f2, http://182.121.157.154:37577/bin.sh
 207097, 2024-08-03 09:26:02, 2024-08-03 09:26:02, malware, 4d555718593b4c888d02f37aee79719f, http://182.119.183.245:33519/bin.sh
 207096, 2024-08-03 09:26:00, 2024-08-03 09:26:00, malware, a44f5db2d72f4c498d5ca51704c40a52, http://182.119.177.146:44029/bin.sh
-207095, 2024-08-03 09:25:59, 2024-08-03 09:25:59, malware, de31c2285a6847e88d36c6b4df34d1ed, http://182.113.31.153:55650/i

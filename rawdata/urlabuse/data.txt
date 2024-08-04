@@ -6,8 +6,9 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-04 00:00:01 UTC
+# UPDATE: 2024-08-04 01:00:02 UTC
 ############### END COMMENTS ###############
+{"id": 207595, "url": "http://demande-cartevitale.com", "discovery": "2024-08-04 00:48:16", "added": "2024-08-04 00:48:16", "target": "FR-GOV", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "7b9ae362e2a7f74b2f4df6ff0037226c"}
 {"id": 207594, "url": "http://funletters.net/scenic/scenic1//sunset1.exe", "discovery": "2024-08-03 23:26:41", "added": "2024-08-03 23:26:41", "target": "#PE32INTEL_GUI", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "4925db968ec34cd897f1f45c22dc8dc1"}
 {"id": 207593, "url": "http://funletters.net/scenic/scenic1//mountain-pasture.exe", "discovery": "2024-08-03 23:26:40", "added": "2024-08-03 23:26:40", "target": "#PE32INTEL_GUI", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "162b8fda2af544bfa6e3373076f8def4"}
 {"id": 207592, "url": "http://funletters.net/scenic/scenic1//foggy-mountains.exe", "discovery": "2024-08-03 23:26:39", "added": "2024-08-03 23:26:39", "target": "#PE32INTEL_GUI", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "16f31d067b9640c9b3de01a02e1a7f98"}
@@ -507,4 +508,3 @@
 {"id": 207098, "url": "http://182.121.157.154:37577/bin.sh", "discovery": "2024-08-03 09:26:03", "added": "2024-08-03 09:26:03", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "8524d0fad2c44dc1938bd7026e1411f2"}
 {"id": 207097, "url": "http://182.119.183.245:33519/bin.sh", "discovery": "2024-08-03 09:26:02", "added": "2024-08-03 09:26:02", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "4d555718593b4c888d02f37aee79719f"}
 {"id": 207096, "url": "http://182.119.177.146:44029/bin.sh", "discovery": "2024-08-03 09:26:00", "added": "2024-08-03 09:26:00", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "a44f5db2d72f4c498d5ca51704c40a52"}
-{"id": 207095, "url": "http://182.113.31.153:55650/i", "discovery": "2024-08-03 09:25:59", "added": "2024-08-03 09:25:59", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "de31c2285a6847e88d36c6b4df34d1ed"}
