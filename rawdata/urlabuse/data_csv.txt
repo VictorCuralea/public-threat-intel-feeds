@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-04 18:00:01 UTC
+# UPDATE: 2024-08-04 19:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+208216, 2024-08-04 18:54:14, 2024-08-04 18:54:14, phishing, 0057142fbf63a7324f4144ae66c2d7ce, http://cdn.forensax.de
+208215, 2024-08-04 18:28:15, 2024-08-04 18:28:15, phishing, a57fda58cc3e1537563a093cca404ea6, https://reigrow.com/wp-admins/index/
+208214, 2024-08-04 18:26:13, 2024-08-04 18:26:13, phishing, 88716f0f3dd2aaa7f4db4816008dfa14, https://apotec-bay.com/word.php
+208213, 2024-08-04 18:02:13, 2024-08-04 18:02:13, phishing, 914711c222aac81e050d92f42abad2cd, https://zwi.aay.mybluehost.me/chpass/CHFINAL/
 208212, 2024-08-04 17:24:39, 2024-08-04 17:24:39, malware, 0aa1ff1394ee42cda1318e6970ac770d, http://95.137.244.49:56972/Mozi.m
 208211, 2024-08-04 17:24:37, 2024-08-04 17:24:37, malware, 4db97215d15d44348a8733e982a5d6f4, http://95.132.68.215:40488/
 208210, 2024-08-04 17:24:33, 2024-08-04 17:24:33, malware, 813deaaba56649cfb3bf5c8d3b638404, http://78.180.203.155:33469/i
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 207719, 2024-08-04 05:21:22, 2024-08-04 05:21:22, malware, e7ae9d0f88b3438a98340dcc1b54897d, http://117.206.178.17:43200/bin.sh
 207718, 2024-08-04 05:21:10, 2024-08-04 05:21:10, malware, 9151c528c99842acb6d2033ab169d094, http://117.202.116.83:36798/i
 207717, 2024-08-04 05:20:37, 2024-08-04 05:20:37, malware, aa98cc45e7f5489991924602d1831104, http://115.98.23.200:48551/Mozi.m
-207716, 2024-08-04 05:20:36, 2024-08-04 05:20:36, malware, 185cbd851eca41558bf876bcf9d7ef29, http://115.61.16.206:53176/
-207715, 2024-08-04 05:20:34, 2024-08-04 05:20:34, malware, 6bd8304bb4c94c61b32a867cf1c1bc5d, http://115.59.9.233:46359/Mozi.m
-207714, 2024-08-04 05:20:32, 2024-08-04 05:20:32, malware, 3c95e36caba84890a210a69f819e8437, http://115.55.62.124:53156/bin.sh
-207713, 2024-08-04 05:20:21, 2024-08-04 05:20:21, malware, 658a2b5d57544303ba99e2a5f9c028b6, http://115.55.139.160:38609/i
