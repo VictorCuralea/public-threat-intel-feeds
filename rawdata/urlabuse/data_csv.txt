@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-04 12:00:02 UTC
+# UPDATE: 2024-08-04 13:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+207987, 2024-08-04 12:42:15, 2024-08-04 12:42:15, phishing, 9900b504845f29d9d40baac282baf187, http://covrsecurepoinvvalletnow.pages.dev
 207986, 2024-08-04 11:34:13, 2024-08-04 11:34:13, phishing, 722404267f0a6740d1c5f32df9cd7ad5, http://delugeguard.icu
 207985, 2024-08-04 11:28:36, 2024-08-04 11:28:36, malware, ff2378e50b1845cb9778da4e57bdd6f8, http://61.53.81.225:55268/bin.sh
 207984, 2024-08-04 11:28:35, 2024-08-04 11:28:35, malware, cf2c326c8ddc4fe5920b3f29f30c21b5, http://61.53.201.219:43188/i
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 207490, 2024-08-03 21:22:56, 2024-08-03 21:22:56, malware, 91ce38ca2c6f42fba10d9d8902dd88bd, http://120.61.3.30:58063/bin.sh
 207489, 2024-08-03 21:22:47, 2024-08-03 21:22:47, malware, 6f32694ced72477394b8dbaf3c37100a, http://120.61.21.82:48767/
 207488, 2024-08-03 21:22:29, 2024-08-03 21:22:29, malware, c594895485044735943a30b166039214, http://119.180.194.207:58972/Mozi.m
-207487, 2024-08-03 21:22:26, 2024-08-03 21:22:26, malware, e4331035981446d2bba0da05d76a7523, http://117.248.165.235:54156/i
