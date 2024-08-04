@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-04 08:00:01 UTC
+# UPDATE: 2024-08-04 09:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+207822, 2024-08-04 08:46:15, 2024-08-04 08:46:15, phishing, 95ae16c052cc7dffc8aa1b653cd50b0c, http://j8k8kl8nn6dcsfg69.duckdns.org
 207821, 2024-08-04 07:27:55, 2024-08-04 07:27:55, malware, 0735d84627b24006a1a412f0c38e8a02, http://61.53.35.168:55639/i
 207820, 2024-08-04 07:27:53, 2024-08-04 07:27:53, malware, 1c979a6072eb4e1bbcce172075730408, http://61.52.36.88:55564/bin.sh
 207819, 2024-08-04 07:27:04, 2024-08-04 07:27:04, malware, ee83ba75d24a4ae9841bcf7a0a3a4524, http://59.93.99.75:41822/bin.sh
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 207325, 2024-08-03 15:22:20, 2024-08-03 15:22:20, malware, b806927a18c54596be7735b0b78bfb23, http://117.208.246.121:37690/i
 207324, 2024-08-03 15:22:18, 2024-08-03 15:22:18, malware, 968b2ecfeba44d359fe4721e0882117d, http://117.208.246.121:37690/bin.sh
 207323, 2024-08-03 15:22:01, 2024-08-03 15:22:01, malware, 188767026e5446d397eda265f29309e6, http://117.208.243.248:54987/bin.sh
-207322, 2024-08-03 15:20:24, 2024-08-03 15:20:24, malware, e60bbffd73d04867ba3b9349eed8bbb4, http://115.99.18.60:53903/Mozi.m
