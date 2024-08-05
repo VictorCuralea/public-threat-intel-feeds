@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-08-04 12:30:25 UTC                        #
+# Last updated: 2024-08-05 06:51:44 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	sigma125789-39601.portmap.host
+127.0.0.1	blackangel.hopto.org
 127.0.0.1	cache.cloudswiftcdn.com
 127.0.0.1	cloud.tnewstraffic.com
 127.0.0.1	secure.gdcstatic.com
@@ -7063,5 +7065,4 @@
 127.0.0.1	modest-colden.104-168-102-175.plesk.page
 127.0.0.1	our.openarmscv.org
 127.0.0.1	i.wanna.see.20242525.xyz
-127.0.0.1	telergraml.org
-# Number of entries: 7058
+# Number of entries: 7059
