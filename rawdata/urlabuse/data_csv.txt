@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-05 02:00:01 UTC
+# UPDATE: 2024-08-05 03:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+208536, 2024-08-05 02:12:15, 2024-08-05 02:12:15, phishing, d2647326887c2af6d85f34505a572e92, http://any-revisedtenderchart.pages.dev
 208535, 2024-08-05 01:54:18, 2024-08-05 01:49:33, phishing, 06f7802eeb8c2fc2c2d50807b8f1e173, https://crjewellery.co.il/wp-content/plugins/wujdenx/linkdin/d/index.html?login=x
 208534, 2024-08-05 01:52:35, 2024-08-05 01:43:06, phishing, dc9bc4c669cf032a32c9a09175c9df9d, https://pub-1ef3904b81624205a55235d32afc592f.r2.dev/index.html
 208533, 2024-08-05 01:51:29, 2024-08-05 01:33:08, phishing, c03258a05218215875e74d55c350f897, https://acimo.org.br/wp-admin/zeee/WeTransfer/WeTransfer/WeTransfer/?X1=x
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 208039, 2024-08-04 13:26:52, 2024-08-04 13:26:52, malware, 8f191eb50c7b442e931cdca79db58f34, http://182.116.64.197:54792/i
 208038, 2024-08-04 13:26:50, 2024-08-04 13:26:50, malware, a5b64c78f9ab4245b3bb914d10e20d10, http://182.116.64.197:54792/bin.sh
 208037, 2024-08-04 13:26:49, 2024-08-04 13:26:49, malware, 10697ddba3c545dca77886137941347d, http://182.116.13.44:36967/bin.sh
-208036, 2024-08-04 13:26:45, 2024-08-04 13:26:45, malware, 9dc2101a3d284908b2bae28a45d59234, http://125.47.2.14:35740/Mozi.m
