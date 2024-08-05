@@ -6,9 +6,26 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-05 12:00:01 UTC
+# UPDATE: 2024-08-05 13:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+208926, 2024-08-05 12:54:12, 2024-08-05 12:54:12, phishing, 519aa3446fccd29adece5bba1afdafc9, http://mail.datemyass.space
+208925, 2024-08-05 12:52:14, 2024-08-05 12:52:14, phishing, 9a229ebafcebd55c567ab80d5e35c9f2, http://datemyass.space
+208924, 2024-08-05 12:34:43, 2024-08-05 12:34:13, phishing, e2cdc72a1b9def871517e13c0589b6d8, http://proteceg.com/lap01.html?F57013
+208923, 2024-08-05 12:30:11, 2024-08-05 12:24:13, phishing, ece2344841932e10f065041f266401f8, https://viewdocument.w3spaces.com/signintoviewfile-m5uxd.html
+208922, 2024-08-05 12:29:50, 2024-08-05 11:56:13, phishing, cb035bbcde5c44c85d2d0bc8f3025438, https://post-service.buzz/ch/
+208921, 2024-08-05 12:29:36, 2024-08-05 11:42:17, phishing, a172b5adc0518937e564d0c99372a1f9, https://bindspace.com/app/infomaniak/renewal.php
+208920, 2024-08-05 12:29:28, 2024-08-05 11:18:14, phishing, 379e56de7d8f0253eefc8cdd2e8de192, https://keznnnfga.blogspot.com/
+208919, 2024-08-05 12:29:18, 2024-08-05 11:16:25, phishing, cbf517bd4a9971e7f1de2d728dac88af, https://www.nbthcl.com/lap01.html
+208918, 2024-08-05 12:28:49, 2024-08-05 11:16:15, phishing, 2b4bf2417f4c5a784407fbae9d3ab8f3, https://post-serve.lat/ch
+208917, 2024-08-05 12:28:09, 2024-08-05 11:08:13, phishing, 52f428123d7cdf1414ddccbcb5f71f32, https://stapotwlnt.com/
+208916, 2024-08-05 12:27:51, 2024-08-05 11:06:23, phishing, dd17a62001a9cc6d93ec3d4d292d5c79, https://kalpavrikshatattoostudio.com/ch/
+208915, 2024-08-05 12:27:39, 2024-08-05 11:06:13, phishing, 216e48d843505f47aa1d21f5470a3da4, https://post-ch-news.top/de
+208914, 2024-08-05 12:27:06, 2024-08-05 11:04:21, phishing, e54d77a623d3e287c216d781d1bad786, https://kalpavrikshatattoostudio.com/ch/adresse.php
+208913, 2024-08-05 12:26:18, 2024-08-05 11:04:11, phishing, f6c1f558a4ebdf720b3c919a64a6c78b, https://sbtelecommsyncd.webflow.io/
+208912, 2024-08-05 12:25:51, 2024-08-05 10:24:07, phishing, bccf065a01f84afbed98c48e7739de10, https://gateway.lighthouse.storage/ipfs/bafkreigijuhowd57zmqudrkqk2ksauktec3bpx4ygllr4vumj6a7ugovwi?utm_source=promotions&utm_medium=email&utm_campaign=#x
+208911, 2024-08-05 12:25:42, 2024-08-05 10:08:15, phishing, 3ab39afbb5c7f67aea30e437da4a5586, https://upszahlung-ch.com/
+208910, 2024-08-05 12:25:31, 2024-08-05 09:56:14, phishing, bdc493aa4daed8596c6e0ff833f676a6, https://ubs-news.top/ch/
 208909, 2024-08-05 11:28:43, 2024-08-05 11:28:43, malware, b8fde351e5a648d895862bf2196a8f07, http://61.53.157.187:58627/Mozi.m
 208908, 2024-08-05 11:28:41, 2024-08-05 11:28:41, malware, 094ccb16bb0e4549bf678e1609086d18, http://61.52.157.218:45991/i
 208907, 2024-08-05 11:28:40, 2024-08-05 11:28:40, malware, 44a866abb3d74dbdb4e58a258e48b39d, http://61.52.157.218:45991/bin.sh
@@ -492,20 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 208429, 2024-08-04 23:24:49, 2024-08-04 23:24:49, malware, c2eaf864509246f992105352058e0195, http://59.184.253.83:40470/Mozi.m
 208428, 2024-08-04 23:24:48, 2024-08-04 23:24:48, malware, 53d5cc67aa6b4cd48cb43b340130640c, http://59.184.249.64:48222/i
 208427, 2024-08-04 23:24:43, 2024-08-04 23:24:43, malware, 8f8cfebd888348d4b0ddd20b77d678ba, http://59.183.100.187:33653/Mozi.m
-208426, 2024-08-04 23:24:41, 2024-08-04 23:24:41, malware, 37b307a4ba214a0ea94e3045dbbfc7df, http://59.182.252.127:46732/bin.sh
-208425, 2024-08-04 23:24:28, 2024-08-04 23:24:28, malware, 316a69ee678d43e4a6b0ed8128ed8979, http://59.178.148.110:40864/
-208424, 2024-08-04 23:24:26, 2024-08-04 23:24:26, malware, d030e70fe1a44d8ab9c1d565969e26fd, http://42.236.137.153:58470/i
-208423, 2024-08-04 23:24:24, 2024-08-04 23:24:24, malware, 5a14414d52ef4c77b153f172d76d8d9c, http://42.236.137.153:58470/
-208422, 2024-08-04 23:24:23, 2024-08-04 23:24:23, malware, 8395cf97842e43dea244de4fb970b85f, http://42.235.102.236:40894/bin.sh
-208421, 2024-08-04 23:24:21, 2024-08-04 23:24:21, malware, 44305dd2886f4a6fa76ed3e124ffccf9, http://42.227.166.74:38888/Mozi.m
-208420, 2024-08-04 23:24:19, 2024-08-04 23:24:19, malware, aa95d1eb4c71491bacd35db768a72f3c, http://42.227.166.74:38888/bin.sh
-208419, 2024-08-04 23:24:18, 2024-08-04 23:24:18, malware, a7513acd92fc481da4b0c8cbd7f4e862, http://42.225.50.156:44667/bin.sh
-208418, 2024-08-04 23:24:16, 2024-08-04 23:24:16, malware, 0ddcd5ae869b4922b9d9fea5c69ab1c1, http://27.215.239.168:46911/i
-208417, 2024-08-04 23:24:14, 2024-08-04 23:24:14, malware, 62e8e85262714dd9877045b6bffee2da, http://27.215.181.40:55657/Mozi.m
-208416, 2024-08-04 23:23:57, 2024-08-04 23:23:57, malware, 0b0bc5b7605e4bfe9d654dd9b1ed04b1, http://222.141.107.110:56894/Mozi.m
-208415, 2024-08-04 23:23:55, 2024-08-04 23:23:55, malware, 530ba3e3009e4aeb8ad42bb3b691e39b, http://222.140.186.223:53332/Mozi.m
-208414, 2024-08-04 23:23:54, 2024-08-04 23:23:54, malware, 06a02c828d234907a7dc6231ae120c17, http://222.139.78.222:50465/bin.sh
-208413, 2024-08-04 23:23:52, 2024-08-04 23:23:52, malware, 5c5ee13f6460455486b658d3ba4c6f84, http://222.138.206.87:48394/Mozi.m
-208412, 2024-08-04 23:23:50, 2024-08-04 23:23:50, malware, 8af67fb7996a4de398de4c4c8cd38347, http://222.138.206.87:48394/
-208411, 2024-08-04 23:23:49, 2024-08-04 23:23:49, malware, 07848ebcd0ed40efa07a50631a047df0, http://221.14.43.244:46457/mozi.m
-208410, 2024-08-04 23:23:47, 2024-08-04 23:23:47, malware, cd2169e6df7b4b39bcb15e68e5a92d10, http://219.157.212.127:34671/i
