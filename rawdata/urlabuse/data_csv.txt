@@ -6,9 +6,27 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-05 08:00:01 UTC
+# UPDATE: 2024-08-05 09:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+208771, 2024-08-05 08:58:10, 2024-08-05 08:58:10, phishing, 22035813e0d64eb5d7c363eb7d6ac1d6, https://docs.google.com/presentation/d/e/2PACX-1vQQXeux5Xz8Jup3sGQOIYEF0vy9s0x3ZOo25LBQ6VOKLMvUaGTiIpF2MQDFOwwibuOUpluPOlzj32MW/pub?start=false
+208770, 2024-08-05 08:44:10, 2024-08-05 08:44:10, phishing, c05b97ad94adefa5ab0caf4f63416c61, http://ww22vds.pages.dev
+208769, 2024-08-05 08:34:20, 2024-08-05 08:21:25, phishing, fd590149f0236b22dadfb9cbde6e7e4d, https://ngronam.click/control_acquisti?login=x&page=_dhl2&pmax=pmax
+208768, 2024-08-05 08:34:06, 2024-08-05 08:34:06, phishing, 53c3ac156bba7558c01328529440eadb, https://onomir.website/_oxyguards_oxy/ziri/b3b32a2d422265cd25c3323ed0157f81/_dhl2/login.php?login&_x_tr_sl=auto&_x_tr_tl=null&_x_tr_hl=null&_x_tr_pto=wapp&pcnt=null&pmax=pmax
+208767, 2024-08-05 08:33:47, 2024-08-05 08:15:26, phishing, 5e8e5e0d2a145dc10e8e2faffb8c8b1b, https://nolandline.com/wp-admin/retribution/webma/index.html#x
+208766, 2024-08-05 08:33:35, 2024-08-05 08:12:37, phishing, ecd388aa00172f72580a1f6d3615642d, https://setsuokato32835.activehosted.com/f/1
+208765, 2024-08-05 08:33:25, 2024-08-05 08:11:21, phishing, 196d6f3a3e6cb2e6dbf1f48ede13f4d3, https://dk11863348426.activehosted.com/f/1
+208764, 2024-08-05 08:33:17, 2024-08-05 08:02:42, phishing, 23fb45413df6085b689bd76a6d711d7b, https://ipfs.io/ipfs/bafybeieixiu3bhafvwn5wt62soqhz6jpeu3b64jyiynihl3lwkjpri363q/#x
+208763, 2024-08-05 08:33:05, 2024-08-05 08:02:16, phishing, 237ce77160b5f661ec821219599e6c94, https://dsdhsdjh.limesurvey.net/363333?newtest=Y
+208762, 2024-08-05 08:32:53, 2024-08-05 08:32:53, phishing, 0ceebc79d0e92e8c117fd86de36de579, https://bt-107705-109819.weeblysite.com/
+208761, 2024-08-05 08:32:38, 2024-08-05 08:32:38, phishing, b2d224a0ee9019f18e7150ffb3a9f5ea, https://orchid492688.studio.site/
+208760, 2024-08-05 08:32:25, 2024-08-05 08:00:00, phishing, 3cd4b2d8a3eb8d07e2fcb56377d75ab8, https://btinteernet.mypixieset.com/
+208759, 2024-08-05 08:32:15, 2024-08-05 08:32:15, phishing, 428174f353182cfd82066af0ec70af38, https://btinternetopenworlldd.weeblysite.com/
+208758, 2024-08-05 08:25:01, 2024-08-05 08:25:01, phishing, 408e3fad03ae3da55e535d528bab90db, http://telecgram.work
+208757, 2024-08-05 08:24:59, 2024-08-05 08:24:59, phishing, cf8b5c9e98b30a2fc0eee1ec11b6532c, http://telegtwram.work
+208756, 2024-08-05 08:24:59, 2024-08-05 08:24:59, phishing, 937781cbdb16dc167051499e87dfead0, http://telegrcam.work
+208755, 2024-08-05 08:24:58, 2024-08-05 08:24:58, phishing, 16296b1103f93e6d0d5b1a60337f0e85, http://telengram.work
+208754, 2024-08-05 08:22:23, 2024-08-05 08:22:23, phishing, 3f3cd1ab882a622f3d9ae61ebb237e0f, http://vitalesante-renouvellement.com
 208753, 2024-08-05 07:55:36, 2024-08-05 07:55:36, phishing, 0d90e2c1407bdee547d1b1d1c326ee82, http://2erytytu.pages.dev
 208752, 2024-08-05 07:54:29, 2024-08-05 07:49:24, phishing, 5bb2374c42fd8718ea0d246d760b221f, https://pub-ac222924d80047289a8304b5d5fdd293.r2.dev/seyi.html#x
 208751, 2024-08-05 07:51:40, 2024-08-05 07:51:40, phishing, 8eb91ec84b8a29a8314dfced21ae993e, http://web-whatsapp-tha.vip
@@ -491,21 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 208274, 2024-08-04 19:27:36, 2024-08-04 19:27:36, malware, 42565c92f4294f07b1326a411046cd80, http://45.137.64.40/hash/kill.exe
 208273, 2024-08-04 19:27:35, 2024-08-04 19:27:35, malware, 5e29ce44bcaf474487f9b367a176193a, http://45.137.64.40/hash/hash.exe
 208272, 2024-08-04 19:27:35, 2024-08-04 19:27:35, malware, 913bd8973c254c0b9c02a7c5a3d4ee6a, http://45.137.64.40/hash/cvekil.exe
-208271, 2024-08-04 19:27:35, 2024-08-04 19:27:35, malware, 31548ef56872493198e25184f765f0a3, http://45.137.64.40/hash/cve.exe
-208270, 2024-08-04 19:26:22, 2024-08-04 19:26:22, malware, bd9abea102ac4872b63f63e7fd1747c9, http://45.137.64.40/hash/atexec.exe
-208269, 2024-08-04 19:25:59, 2024-08-04 19:25:59, malware, 5df1fd44eed84efb89fdf887fff03de6, http://42.235.102.236:40894/
-208268, 2024-08-04 19:25:58, 2024-08-04 19:25:58, malware, b91b94f933e143cdb371096534ed3169, http://42.231.66.86:55133/Mozi.m
-208267, 2024-08-04 19:25:36, 2024-08-04 19:25:36, malware, 16cefb4098114ca3970232c39d3d2609, http://42.231.231.116:41959/Mozi.m
-208266, 2024-08-04 19:25:34, 2024-08-04 19:25:34, malware, c042ad3db2d4410eb097da87032478df, http://42.230.62.193:58505/i
-208265, 2024-08-04 19:25:33, 2024-08-04 19:25:33, malware, 75be4813b8764ef98eed064e6ca5f37b, http://42.230.62.193:58505/bin.sh
-208264, 2024-08-04 19:25:32, 2024-08-04 19:25:32, malware, a349092c3e384618b762957e713e58ec, http://42.228.221.205:43698/Mozi.m
-208263, 2024-08-04 19:25:00, 2024-08-04 19:25:00, malware, 4379575b953d497fab360d03d7c40395, http://27.215.181.40:55657/i
-208262, 2024-08-04 19:24:58, 2024-08-04 19:24:58, malware, 610e52a3ed38444689312ad855847149, http://27.215.181.40:55657/bin.sh
-208261, 2024-08-04 19:24:57, 2024-08-04 19:24:57, malware, 1533b85700834cf3bab386932eb0a09c, http://222.140.156.103:55099/i
-208260, 2024-08-04 19:24:55, 2024-08-04 19:24:55, malware, 7fbd0ee7b11c4169923015a9ecdd1463, http://222.140.156.103:55099/bin.sh
-208259, 2024-08-04 19:24:54, 2024-08-04 19:24:54, malware, 782740804c44468aabe5b35d6bf43653, http://221.14.206.44:57687/Mozi.m
-208258, 2024-08-04 19:24:52, 2024-08-04 19:24:52, malware, 91a5c9aba3104a24a4ff9389f3335862, http://219.157.35.149:42365/i
-208257, 2024-08-04 19:24:41, 2024-08-04 19:24:41, malware, 721f69d2811f4e96b32c958719638f81, http://210.76.45.207:40750/i
-208256, 2024-08-04 19:24:39, 2024-08-04 19:24:39, malware, 585c629e0a6f457489bbc0781e23d5bd, http://210.76.45.207:40750/bin.sh
-208255, 2024-08-04 19:24:25, 2024-08-04 19:24:25, malware, 848aa2caef4543f8870ec04212231c6d, http://183.92.205.128:58303/i
-208254, 2024-08-04 19:24:23, 2024-08-04 19:24:23, malware, 22ecd03fbf684ca7a125ca921588eaf5, http://183.92.205.128:58303/bin.sh
