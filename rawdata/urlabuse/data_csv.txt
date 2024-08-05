@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-05 14:00:01 UTC
+# UPDATE: 2024-08-05 15:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+209015, 2024-08-05 14:46:16, 2024-08-05 14:44:11, phishing, 62145be45f240e6f82b50b53ae32b64c, https://ekanah7338.beefreedesign.com/hCcC
+209014, 2024-08-05 14:46:07, 2024-08-05 14:46:07, phishing, 94ec55a1356293a872465c92894b297a, https://btgjh.weebly.com/
+209013, 2024-08-05 14:45:54, 2024-08-05 14:34:15, phishing, aea2eab98e4098676a835d9d38fb33c2, https://mailnow.limesurvey.net/111219?newtest=Y
+209012, 2024-08-05 14:45:46, 2024-08-05 14:45:46, phishing, 6eb51cba3989fec59f0eb9754ea13d7a, https://bt-internet-support-101981.weeblysite.com/
 209011, 2024-08-05 13:58:12, 2024-08-05 13:58:12, phishing, 2004b380ddbbb8cb8a5af09257be4018, http://a25f4d13f83d03f5eaf596d60.pages.dev
 209010, 2024-08-05 13:37:29, 2024-08-05 13:34:19, phishing, 18a6c7066b2c07fee00b37713fd83f21, https://oikuyhtrewq.w3spaces.com/index.html
 209009, 2024-08-05 13:37:21, 2024-08-05 13:37:21, phishing, e508ae67915e5f7c41d40193439b36ce, https://plum21253293.temporary-demo.site/
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 208518, 2024-08-05 01:25:31, 2024-08-05 01:25:31, malware, 5e851628e5af425dad7e1b0084697083, http://59.2.136.142:62018/.i
 208517, 2024-08-05 01:25:04, 2024-08-05 01:25:04, malware, 9360941351b7482f8d3d44ecda47ed4d, http://59.178.148.110:40864/Mozi.m
 208516, 2024-08-05 01:24:47, 2024-08-05 01:24:47, malware, cd45bf4457194968b026643177527371, http://42.236.137.153:58470/bin.sh
-208515, 2024-08-05 01:24:45, 2024-08-05 01:24:45, malware, ce63842744aa42ce882e3033003669c2, http://42.234.180.105:45437/Mozi.a
-208514, 2024-08-05 01:24:43, 2024-08-05 01:24:43, malware, 1f5419d8a5b247f69c9839389e2d1c70, http://42.231.46.19:38646/bin.sh
-208513, 2024-08-05 01:24:42, 2024-08-05 01:24:42, malware, 6a5acd6354d041a6a374094bc48418c1, http://42.228.239.59:37902/i
-208512, 2024-08-05 01:24:40, 2024-08-05 01:24:40, malware, 5f87ab858fe64fd382ca15f4ec73e84d, http://42.227.166.74:38888/i
