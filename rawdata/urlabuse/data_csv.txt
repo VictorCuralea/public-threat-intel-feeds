@@ -6,9 +6,18 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-05 16:00:02 UTC
+# UPDATE: 2024-08-05 17:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+209125, 2024-08-05 16:22:20, 2024-08-05 15:50:12, phishing, 59eaf1ec5f51898cebfaf20c3369c2e4, https://postlz.buzz/ch?a=TLoQe
+209124, 2024-08-05 16:17:55, 2024-08-05 15:50:17, phishing, 7ffb61c48022187c943b0560f4e421ff, https://postls.sbs/ch?a=kasge
+209123, 2024-08-05 16:16:55, 2024-08-05 14:56:14, phishing, 792e31740c94c3f3ff460a4e9c20354d, https://www.dropbox.com/scl/fi/px4piorhx9v5a14vclf86/Listen-Now-BT-Re-Activation-Waiting.paper?dl=0
+209122, 2024-08-05 16:05:15, 2024-08-05 16:05:15, phishing, 8956e932914e722960319ba79d475ee7, https://bertchou.com/wp-content/languages-old/config/information.php?access.x46606211185&&data.x=en_46d1f292ce7f053e538db5a77
+209121, 2024-08-05 16:05:11, 2024-08-05 16:05:11, phishing, 71a50af06bce6a3bccac8ec9786a2da9, http://pub-0603927d81c44c29945d86c4d44687c5.r2.dev/index.html
+209120, 2024-08-05 16:03:09, 2024-08-05 16:03:09, phishing, 53c7a64a09c3020354c33148142569a3, https://sayarhtoovpn.pages.dev/
+209119, 2024-08-05 16:02:44, 2024-08-05 16:02:44, phishing, ef3662e32a352869df50eef1bf558e51, https://care.pmang.game.naver.com.cf.cpkl.biz.id/
+209118, 2024-08-05 16:02:28, 2024-08-05 16:02:28, phishing, fd90ddd73c928a231d3098e10b6c65ca, https://telegramxgroups.pages.dev/
+209117, 2024-08-05 16:02:24, 2024-08-05 16:02:24, phishing, 8986b52d651d82146034c0dcd87b3cf7, http://telegram.dog/
 209116, 2024-08-05 15:56:13, 2024-08-05 15:56:13, phishing, bbbb0cad832c3c6845612db5b253450b, http://whatsapgrup.pages.dev
 209115, 2024-08-05 15:31:33, 2024-08-05 15:31:33, malware, f032373cddbd4415b3886f2b126a5ffa, http://61.53.84.206:49317/i
 209114, 2024-08-05 15:31:31, 2024-08-05 15:31:31, malware, 11ffd3d8dd154aba981d2268fa12247e, http://61.53.221.211:57112/i
@@ -500,12 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 208628, 2024-08-05 06:21:45, 2024-08-05 06:21:45, malware, cf1d60080ea84f6abc8a846dd1ef5a74, http://117.219.190.199:48520/i
 208627, 2024-08-05 06:21:28, 2024-08-05 06:21:28, malware, 82ae6c2c3b814aedb6f48ebb05cdbb34, http://117.219.190.199:48520/bin.sh
 208626, 2024-08-05 06:21:06, 2024-08-05 06:21:06, malware, 249eaf9e65134dafbe34a7f05d85e375, http://117.211.208.59:45413/bin.sh
-208625, 2024-08-05 06:21:02, 2024-08-05 06:21:02, malware, df0eeffcd0dd4ccf8121683026729afd, http://117.208.141.41:56282/Mozi.m
-208624, 2024-08-05 06:20:52, 2024-08-05 06:20:52, malware, 8ddde7918e51436e9a2d37953f173b3d, http://117.206.187.85:48246/i
-208623, 2024-08-05 06:20:32, 2024-08-05 06:20:32, malware, 5c54d184f96b4715adefe5c40aa83e95, http://117.196.165.70:40676/i
-208622, 2024-08-05 06:20:23, 2024-08-05 06:20:23, malware, dfecab57429b4755b28fd121aeab83e0, http://117.196.165.70:40676/bin.sh
-208621, 2024-08-05 06:20:21, 2024-08-05 06:20:21, malware, 2d8d5e9cb6294e028fde824c7801215d, http://117.196.122.25:57497/i
-208620, 2024-08-05 06:20:17, 2024-08-05 06:20:17, malware, c274bec31f3f49ec92251522cbd87801, http://117.195.181.164:50583/bin.sh
-208619, 2024-08-05 06:20:14, 2024-08-05 06:20:14, malware, a29d8165def44ae5921d6aad39de7c14, http://115.61.113.73:48027/i
-208618, 2024-08-05 06:20:13, 2024-08-05 06:20:13, malware, 2554584e6ed1474d8968843e8a1c6d03, http://115.61.113.73:48027/bin.sh
-208617, 2024-08-05 06:20:11, 2024-08-05 06:20:11, malware, 73682d4c30de49b89a326eba52552741, http://115.56.146.178:46280/bin.sh
