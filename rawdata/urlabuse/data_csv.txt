@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-05 20:00:01 UTC
+# UPDATE: 2024-08-05 21:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+209231, 2024-08-05 20:28:13, 2024-08-05 20:28:13, phishing, 2d5ae179e818310f4c6b4a8edb44c55e, http://tweb-nvg.pages.dev
+209230, 2024-08-05 20:04:13, 2024-08-05 20:04:13, phishing, 55a2b4f2a9763bba6df971502ac4d113, http://blockdag-network-rectification.pages.dev
 209229, 2024-08-05 19:28:17, 2024-08-05 19:28:17, malware, 7702488e615f48658264ad8dc6f9b899, http://61.53.90.240:35530/bin.sh
 209228, 2024-08-05 19:28:14, 2024-08-05 19:28:14, malware, 433ca7b2dfe94e8fae87a8662ad398d5, http://61.3.89.234:41210/bin.sh
 209227, 2024-08-05 19:28:09, 2024-08-05 19:28:09, malware, 57c0d37227794550a3076b6c322a3d35, http://61.2.46.7:36150/bin.sh
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 208734, 2024-08-05 07:25:27, 2024-08-05 07:25:27, malware, d125a8b2c99343b5ababa8f4426e063e, http://42.235.189.200:47997/bin.sh
 208733, 2024-08-05 07:25:25, 2024-08-05 07:25:25, malware, 17f7d60a990443b0b1f77277f7ed00dc, http://42.234.200.26:36584/bin.sh
 208732, 2024-08-05 07:25:24, 2024-08-05 07:25:24, malware, 6f7aa4b7bc454ccc8961f57890368801, http://42.233.105.236:48640/i
-208731, 2024-08-05 07:25:22, 2024-08-05 07:25:22, malware, 4890a51e98be4768b3a4bc414652145e, http://42.230.58.192:36779/
-208730, 2024-08-05 07:25:21, 2024-08-05 07:25:21, malware, 42623a98114a40bebd64a79e577f4a9a, http://42.226.73.197:33726/Mozi.m
