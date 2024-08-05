@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-05 05:00:01 UTC
+# UPDATE: 2024-08-05 06:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+208612, 2024-08-05 05:55:53, 2024-08-05 05:43:36, phishing, 9b0665fff61aea98072c016a6dfb8fa2, https://trackmytrip.in/CHINA/edg/?info=eEB4Lng=
 208611, 2024-08-05 04:56:45, 2024-08-05 04:18:39, phishing, fbc7b9f119346390673f45e4e7eeb104, https://bafkreidgjnvfjtc3d2udzohrvdd3iktkkfseyvh7tzv7mi3pbbel7gbm3e.ipfs.dweb.link/#x
 208610, 2024-08-05 04:38:13, 2024-08-05 04:38:13, phishing, bc6216cfddd47e7a462c34bf034a1660, http://tokenpockeo.cc
 208609, 2024-08-05 04:30:13, 2024-08-05 04:30:13, phishing, 236fcc62a3fac7903867df078b9a7fbd, http://dianbao.uk
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 208115, 2024-08-04 15:25:27, 2024-08-04 15:25:27, malware, 0b8322f4e05248aaa5eb020e711a1f3f, http://123.11.243.188:52721/Mozi.m
 208114, 2024-08-04 15:25:07, 2024-08-04 15:25:07, malware, d4492c4be06d4d0aaf1fa774f2c08c78, http://120.236.114.39:51643/bin.sh
 208113, 2024-08-04 15:25:05, 2024-08-04 15:25:05, malware, 842156cbd549406687fa1de9bc52c2c6, http://120.209.77.75:39824/i
-208112, 2024-08-04 15:25:05, 2024-08-04 15:12:14, phishing, ab32432e871b9741e5c65ea66308555d, https://pink631893.studio.site/
