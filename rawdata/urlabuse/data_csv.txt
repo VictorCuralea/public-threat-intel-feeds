@@ -6,9 +6,16 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-06 20:00:01 UTC
+# UPDATE: 2024-08-06 21:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+209712, 2024-08-06 20:36:19, 2024-08-06 20:28:12, phishing, 60874f86b3bdb51863322af4e888ced6, https://ssh2.zdlux.pe/friday.php
+209711, 2024-08-06 20:36:03, 2024-08-06 20:36:03, phishing, ca4f1029f9d64fc7c783504267e7f57c, https://btnewmailser.weebly.com
+209710, 2024-08-06 20:35:48, 2024-08-06 19:24:16, phishing, 3eaffb3b53613c9eaa155a59b44a663d, https://www.dropbox.com/scl/fi/rmdl6bcz8qnwqay9o4rlc/BT-MAILBOX-NOTIFICATION.papert?rlkey=qc30msdu7kiou3vm371z0els1
+209709, 2024-08-06 20:32:15, 2024-08-06 20:32:15, phishing, 2bb536893c1a2aade122648861d6f782, http://livemigrazusouvtwo.pages.dev
+209708, 2024-08-06 20:22:15, 2024-08-06 20:22:15, phishing, 733522eb3bc0aace921d50596ae4d3a9, http://dappwebfix.pages.dev
+209707, 2024-08-06 20:06:18, 2024-08-06 20:06:18, phishing, 5be075f6616552c49866faf72d08c1b6, http://cloudreffba.my.id
+209706, 2024-08-06 20:02:14, 2024-08-06 20:02:14, phishing, bbe9b4b26e124f809d41e6a2b1fafcc3, http://minings-revshares.pages.dev
 209705, 2024-08-06 19:26:14, 2024-08-06 19:26:14, phishing, aa6678fdefc98c6f815bfc5843323f39, http://recmainnets.pages.dev
 209704, 2024-08-06 19:15:45, 2024-08-06 18:44:21, phishing, 0da8195da79c335cbc1a89174e2803f2, https://postycha.icu/ch?a=Q_loS
 209703, 2024-08-06 19:12:15, 2024-08-06 18:46:13, phishing, 71999a74d7a507fb4fe69ae2966aa5ab, https://posatygtxgroup.icu/ch/
@@ -502,10 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 209215, 2024-08-05 19:25:17, 2024-08-05 19:25:17, malware, a2ef97dd6e8a449096c50a8e0c8b8a40, http://42.234.180.105:45437/bin.sh
 209214, 2024-08-05 19:25:16, 2024-08-05 19:25:16, malware, 1f7ebc539f364c2682eea9660959306b, http://42.232.212.230:44679/bin.sh
 209213, 2024-08-05 19:24:34, 2024-08-05 19:24:34, malware, 267a27500a4f482899fd909fe07e1d7b, http://39.88.135.61:47106/Mozi.m
-209212, 2024-08-05 19:24:02, 2024-08-05 19:24:02, malware, 08172d4a838540fbba5cd362505a6fe5, http://27.215.55.223:44180/i
-209211, 2024-08-05 19:24:00, 2024-08-05 19:24:00, malware, 804a1913a8c940038fddd08b4817a2c7, http://222.140.182.222:35487/Mozi.m
-209210, 2024-08-05 19:23:58, 2024-08-05 19:23:58, malware, 1d1375f912164b2f8f340e7bc04b7783, http://222.137.69.158:51970/bin.sh
-209209, 2024-08-05 19:23:57, 2024-08-05 19:23:57, malware, d1195c440d1648e5ab63d96672b220e5, http://221.14.206.44:57687/i
-209208, 2024-08-05 19:23:55, 2024-08-05 19:23:55, malware, 53f3afaa53504652bf1849b170db8cf9, http://221.13.233.121:59147/bin.sh
-209207, 2024-08-05 19:23:53, 2024-08-05 19:23:53, malware, b1cbebdfd3134c31bf66270830474c6d, http://221.1.225.22:37167/i
-209206, 2024-08-05 19:23:52, 2024-08-05 19:23:52, malware, 9ff8be51bb004f13a4d6706c8941db7e, http://221.1.225.22:37167/bin.sh
