@@ -6,8 +6,10 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-06 02:00:01 UTC
+# UPDATE: 2024-08-06 03:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 209425, "url": "http://iinet-net.pages.dev", "discovery": "2024-08-06 02:48:11", "added": "2024-08-06 02:48:11", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "a30c0e3e55734d4c02c7ae5fe2ea2090"}
+{"id": 209424, "url": "http://blocklaunchapp.pages.dev", "discovery": "2024-08-06 02:22:15", "added": "2024-08-06 02:22:15", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "01853bda5ae2e5b589a2d34a54adf860"}
 {"id": 209423, "url": "http://dulhonepaqe.caveatloansmelbourne.com", "discovery": "2024-08-06 01:50:13", "added": "2024-08-06 01:50:13", "target": "du(AE)", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "6b134a7607d99c38c0286819156e1502"}
 {"id": 209422, "url": "https://postls.cfd/ch?a=apmt2", "discovery": "2024-08-05 23:48:14", "added": "2024-08-06 01:48:17", "target": "SwissPost", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "433c78460fbdfae37aebe2c041ba0ab6"}
 {"id": 209421, "url": "http://62.212.54.90:37465/i", "discovery": "2024-08-06 01:26:17", "added": "2024-08-06 01:26:17", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "95c49cb190a24c3cb7341b37ec12f114"}
@@ -506,5 +508,3 @@
 {"id": 208928, "url": "http://110.49.167.189:41788/bin.sh", "discovery": "2024-08-05 13:20:08", "added": "2024-08-05 13:20:08", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "61848fc78edb46adb294ccb7fc16ca06"}
 {"id": 208927, "url": "https://owa-exchange-login-portal.d26963yarvus86.amplifyapp.com/", "discovery": "2024-08-05 13:05:46", "added": "2024-08-05 13:05:46", "target": "Microsoft", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "48ad38c195af9ea4cc1dc1897fd86dc2"}
 {"id": 208926, "url": "http://mail.datemyass.space", "discovery": "2024-08-05 12:54:12", "added": "2024-08-05 12:54:12", "target": "Telegram", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "519aa3446fccd29adece5bba1afdafc9"}
-{"id": 208925, "url": "http://datemyass.space", "discovery": "2024-08-05 12:52:14", "added": "2024-08-05 12:52:14", "target": "Telegram", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "9a229ebafcebd55c567ab80d5e35c9f2"}
-{"id": 208924, "url": "http://proteceg.com/lap01.html?F57013", "discovery": "2024-08-05 12:34:13", "added": "2024-08-05 12:34:43", "target": "Infomaniak", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "e2cdc72a1b9def871517e13c0589b6d8"}

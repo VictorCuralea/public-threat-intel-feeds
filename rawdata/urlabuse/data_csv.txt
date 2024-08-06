@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-06 02:00:01 UTC
+# UPDATE: 2024-08-06 03:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+209425, 2024-08-06 02:48:11, 2024-08-06 02:48:11, phishing, a30c0e3e55734d4c02c7ae5fe2ea2090, http://iinet-net.pages.dev
+209424, 2024-08-06 02:22:15, 2024-08-06 02:22:15, phishing, 01853bda5ae2e5b589a2d34a54adf860, http://blocklaunchapp.pages.dev
 209423, 2024-08-06 01:50:13, 2024-08-06 01:50:13, phishing, 6b134a7607d99c38c0286819156e1502, http://dulhonepaqe.caveatloansmelbourne.com
 209422, 2024-08-06 01:48:17, 2024-08-05 23:48:14, phishing, 433c78460fbdfae37aebe2c041ba0ab6, https://postls.cfd/ch?a=apmt2
 209421, 2024-08-06 01:26:17, 2024-08-06 01:26:17, malware, 95c49cb190a24c3cb7341b37ec12f114, http://62.212.54.90:37465/i
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 208928, 2024-08-05 13:20:08, 2024-08-05 13:20:08, malware, 61848fc78edb46adb294ccb7fc16ca06, http://110.49.167.189:41788/bin.sh
 208927, 2024-08-05 13:05:46, 2024-08-05 13:05:46, phishing, 48ad38c195af9ea4cc1dc1897fd86dc2, https://owa-exchange-login-portal.d26963yarvus86.amplifyapp.com/
 208926, 2024-08-05 12:54:12, 2024-08-05 12:54:12, phishing, 519aa3446fccd29adece5bba1afdafc9, http://mail.datemyass.space
-208925, 2024-08-05 12:52:14, 2024-08-05 12:52:14, phishing, 9a229ebafcebd55c567ab80d5e35c9f2, http://datemyass.space
-208924, 2024-08-05 12:34:43, 2024-08-05 12:34:13, phishing, e2cdc72a1b9def871517e13c0589b6d8, http://proteceg.com/lap01.html?F57013
