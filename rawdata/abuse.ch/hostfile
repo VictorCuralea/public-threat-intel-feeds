@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-08-06 09:17:29 UTC                        #
+# Last updated: 2024-08-06 17:57:32 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	peskpdfgif.shop
 127.0.0.1	werdotx.shop
 127.0.0.1	latest-wrong.gl.at.ply.gg
 127.0.0.1	didsit.com
@@ -6971,4 +6972,4 @@
 127.0.0.1	as.regcssv.com
 127.0.0.1	qw.regcssv.com
 127.0.0.1	alma27.duckdns.org
-# Number of entries: 6965
+# Number of entries: 6966

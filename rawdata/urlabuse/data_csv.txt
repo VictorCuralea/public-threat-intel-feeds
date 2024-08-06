@@ -6,9 +6,14 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-06 18:00:01 UTC
+# UPDATE: 2024-08-06 19:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+209686, 2024-08-06 18:44:24, 2024-08-06 18:44:24, phishing, 638281e1daef39337fe32223fcc764e1, https://szk.rxg.mybluehost.me/website_3a7f273f/sw/
+209685, 2024-08-06 18:42:21, 2024-08-06 18:42:21, phishing, 60d78ce2783b0356bcaead3868d075e0, https://foy.cdv.mybluehost.me/DHL_Final/
+209684, 2024-08-06 18:42:15, 2024-08-06 18:42:15, phishing, f85e6ac9cbec6a2e91d33dc6d042b2c3, https://cms.rs/sw.php
+209683, 2024-08-06 18:12:12, 2024-08-06 18:12:12, phishing, 01b73c144e2c582293b9f2a22a2275d8, http://kiririri.pages.dev
+209682, 2024-08-06 18:07:51, 2024-08-06 17:46:14, phishing, 2d35e226ccbf244789345c84fda8bd50, http://ccchepost.com/
 209681, 2024-08-06 17:46:37, 2024-08-06 17:46:37, phishing, 8c2bdbe7e9b7cfc02ff6a8040108380d, https://ddpd.998451245.xyz/ovh5ruxq/xaqrvZ/7
 209680, 2024-08-06 17:46:27, 2024-08-06 17:46:27, phishing, 488dd85f4a134eb076ac8ed87081d556, https://ddpd.898451245.xyz/ovh5ruxq/xaqrvZ/7
 209679, 2024-08-06 17:46:17, 2024-08-06 17:46:17, phishing, 5b5a7c4028b9cda5f3090a6dfb1d2fa6, https://ddpd.798451245.xyz/ovh5ruxq/xaqrvZ/7
@@ -504,8 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 209189, 2024-08-05 19:22:43, 2024-08-05 19:22:43, malware, 2e0698c524aa4a739201ed2e2cd60452, http://154.216.20.232/mpsl
 209188, 2024-08-05 19:22:43, 2024-08-05 19:22:43, malware, 4dd61c263ec2486b893706a91d71009d, http://154.216.20.232/mips
 209187, 2024-08-05 19:22:42, 2024-08-05 19:22:42, malware, 8b7ccf4785f5492e9492a5454b66c0d4, http://154.216.20.232/arm7
-209186, 2024-08-05 19:22:42, 2024-08-05 19:22:42, malware, 69e6de9c8ee443ff9f3c5575acef53d0, http://154.216.20.232/arm6
-209185, 2024-08-05 19:22:42, 2024-08-05 19:22:42, malware, 62c4ded6f8894e51a5c0089ce2622c82, http://154.216.20.232/arm5
-209184, 2024-08-05 19:22:41, 2024-08-05 19:22:41, malware, 820d505d14e14fc9ade418a17cdbe4b5, http://154.216.20.232/arm
-209183, 2024-08-05 19:22:41, 2024-08-05 19:22:41, malware, 2e9d45224a14441bb978664827d97b5f, http://125.42.245.90:56938/bin.sh
-209182, 2024-08-05 19:22:39, 2024-08-05 19:22:39, malware, 0662d25694ec4288ad0076641f276378, http://123.5.189.217:56494/i
