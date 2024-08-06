@@ -6,9 +6,28 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-06 10:00:02 UTC
+# UPDATE: 2024-08-06 11:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+209574, 2024-08-06 10:52:12, 2024-08-06 10:52:12, phishing, dbbd72824c0dd3e4968769a05925611d, http://ksjdowe2.pages.dev
+209573, 2024-08-06 10:45:56, 2024-08-06 10:45:56, phishing, 4ec87077a14b96e93b7c5a011b4cf9be, https://bt-comms-100018.weeblysite.com/
+209572, 2024-08-06 10:45:44, 2024-08-06 10:26:19, phishing, c85d1978c77d95789c4d87ee8190d02b, https://free-5362198.webadorsite.com/
+209571, 2024-08-06 10:45:34, 2024-08-06 10:26:16, phishing, 2b6a0651238bc0b2655ac37a1cd01a19, https://ameli.carte-actualisation.fr/
+209570, 2024-08-06 10:45:24, 2024-08-06 10:26:11, phishing, 74e7caa0f2d99f0b48dab5fc725f0f77, https://portail-reglement-dossier.com/
+209569, 2024-08-06 10:45:06, 2024-08-06 10:26:11, phishing, 63a889358e5c54f5f2e980921a929395, https://ma-cartevitale.fr/
+209568, 2024-08-06 10:44:48, 2024-08-06 10:26:10, phishing, 93d12d25c56e940bf5761f883c512960, https://guide-vitale.fr/
+209567, 2024-08-06 10:44:32, 2024-08-06 10:26:10, phishing, 31956b028febcb9a027a0fe12e79e0fe, https://ma-carte-en-ligne.fr/
+209566, 2024-08-06 10:44:20, 2024-08-06 10:24:19, phishing, 0ac8fcc6c5c2ec80b14435ed14dc699b, https://ma-relance-en-ligne.fr/
+209565, 2024-08-06 10:43:53, 2024-08-06 10:24:12, phishing, 912296e86347682ea868a32988c0118b, https://fr-dossiers.com/index.php
+209564, 2024-08-06 10:43:42, 2024-08-06 10:24:12, phishing, 6b7af7d2f816cb541541add1c7eef144, https://acounte-sante.info/
+209563, 2024-08-06 10:43:32, 2024-08-06 10:24:12, phishing, b93ff4edb39af6b350b96fb02d72da32, https://vitale-renouvellement.fr/
+209562, 2024-08-06 10:43:18, 2024-08-06 10:24:11, phishing, 4413b51929a4e90703dece0b614d76f7, https://santecartevitale-ameli.fr/
+209561, 2024-08-06 10:43:08, 2024-08-06 10:20:15, phishing, c563fced335b30133ad7ecbfb8789c0f, https://dearuser1.limesurvey.net/267719?newtest=Y
+209560, 2024-08-06 10:43:00, 2024-08-06 10:43:00, phishing, f4e6cd75a5a7c4006d3329d9c911ce81, https://bt-108278.weeblysite.com/
+209559, 2024-08-06 10:42:49, 2024-08-06 10:10:12, phishing, 733426884eab2b537abb9e1abd00fd7e, https://post-ch-news.one/de/
+209558, 2024-08-06 10:06:15, 2024-08-06 10:06:15, phishing, e6b3a92917e766660581408d163d6778, http://promptsrevclaim.pages.dev
+209557, 2024-08-06 10:03:02, 2024-08-06 10:03:02, phishing, 5062c5ab3ce97ebf8781188257f97597, http://telegramplusstur.pages.dev/,n/a,https:/openphish.com/feed.txt,23-jul-24,low,high
+209556, 2024-08-06 10:02:14, 2024-08-06 10:02:14, phishing, 9d487475d5b108c526491360927ce635, http://telregram.club/web
 209555, 2024-08-06 09:51:25, 2024-08-06 09:51:25, phishing, c9acd3f7bb26de0c9b88b18f7f410af9, https://netsulton0ses.buzz/m/?bGFuZz1lbiZyYW5kMT1ORlZ2cm90PSZzdj1wZGYmcmJveD1mcmFyYW16aTA=#user%40dom.tld
 209554, 2024-08-06 09:44:14, 2024-08-06 09:44:14, phishing, f248beea30b44bcb28f194f3b215b7af, http://telegram-dog.zhong-family.com
 209553, 2024-08-06 09:42:10, 2024-08-06 09:29:25, phishing, dba9692674e7668bc57c511a32016b1a, https://wichitataxicabservice-sanandresadriencarl.sandbox.multiscreensite.com/oei
@@ -490,22 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 209077, 2024-08-05 15:27:25, 2024-08-05 15:27:25, malware, dbd794bc0d30481f9c5685bb305d06a8, http://37.44.238.67/bins/bpJncUEIUmAgsWjqraqMMn5GluYkLUoPuW
 209076, 2024-08-05 15:27:25, 2024-08-05 15:27:25, malware, 15676b78a274448b9b874d3f66a04ab9, http://37.44.238.67/bins/8vEmyqB6zPykzUL4el08zYwL60DpfB6iNy
 209075, 2024-08-05 15:27:24, 2024-08-05 15:27:24, malware, 02c81f62c7024809bf922762a0c00916, http://37.44.238.67/bins/4GjvJv2WsEeK4KTW0T7MoUu6GFrVlEyqys
-209074, 2024-08-05 15:27:24, 2024-08-05 15:27:24, malware, 677df4a7a08742849cca83e37bdcefa8, http://37.44.238.67/bins/2cpQFAm7HV04FsKexa9uMBzKlDGABg5fBT
-209073, 2024-08-05 15:27:24, 2024-08-05 15:27:24, malware, aabee11f32134b18947da6e7250324c7, http://27.202.44.24:52528/Mozi.m
-209072, 2024-08-05 15:27:22, 2024-08-05 15:27:22, malware, 4f7368fb4739427797205873d582c827, http://222.140.157.127:57978/bin.sh
-209071, 2024-08-05 15:27:21, 2024-08-05 15:27:21, malware, ed81e12e287a4f028b5a2574100db168, http://222.139.73.170:45065/Mozi.m
-209070, 2024-08-05 15:27:19, 2024-08-05 15:27:19, malware, 3fe97d9a84634987b3a0be0304af18ae, http://222.137.69.158:51970/i
-209069, 2024-08-05 15:27:18, 2024-08-05 15:27:18, malware, 33bdb5d52ba542fa86d6106f97588e76, http://222.137.239.148:43819/i
-209068, 2024-08-05 15:26:57, 2024-08-05 15:26:57, malware, 0883f81ecf6c4f42a2a1e42c8c2cbce6, http://2.185.140.219:45262/bin.sh
-209067, 2024-08-05 15:26:32, 2024-08-05 15:26:32, malware, 0bf12b93a8c44e9e88bcd1f9618e07b8, http://182.127.124.175:45387/i
-209066, 2024-08-05 15:26:31, 2024-08-05 15:26:31, malware, 60c2e206e7974b2a8a07bce551ec3a09, http://182.127.124.175:45387/bin.sh
-209065, 2024-08-05 15:26:29, 2024-08-05 15:26:29, malware, 9e89bd6cfb674e7b97b7f0cd60a925ec, http://182.127.123.131:59012/i
-209064, 2024-08-05 15:26:28, 2024-08-05 15:26:28, malware, 206e77156687442ba0553c88e8fc6c51, http://182.124.117.240:36986/Mozi.m
-209063, 2024-08-05 15:26:26, 2024-08-05 15:26:26, malware, 92066124ecd44977a240c9040584df5d, http://182.119.227.14:54068/i
-209062, 2024-08-05 15:26:23, 2024-08-05 15:26:23, malware, 695e6436e3f34da7a82e977ba4017f9b, http://182.119.227.14:54068/bin.sh
-209061, 2024-08-05 15:26:21, 2024-08-05 15:26:21, malware, 3f146905e95f4d87942b803e925db689, http://182.116.123.144:33799/Mozi.m
-209060, 2024-08-05 15:26:20, 2024-08-05 15:26:20, malware, fa181546f87243fdb69c994c81dafc8f, http://182.116.122.179:38286/Mozi.m
-209059, 2024-08-05 15:26:18, 2024-08-05 15:26:18, malware, 5eb17ff53fdb46aeabfdee04fe7c4d37, http://182.116.12.245:43808/i
-209058, 2024-08-05 15:26:16, 2024-08-05 15:26:16, malware, f80b3edf621f450da581af27eac77575, http://182.116.12.245:43808/bin.sh
-209057, 2024-08-05 15:26:15, 2024-08-05 15:26:15, phishing, 0aaf0366ed4ab612892f4b18bd7b518b, http://terd.clementine-sefy.shop
-209056, 2024-08-05 15:26:13, 2024-08-05 15:26:13, malware, aef03482784b4af3bcc6912f23e72f47, http://176.74.81.219:46316/Mozi.m
