@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-05 23:00:01 UTC
+# UPDATE: 2024-08-06 00:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+209297, 2024-08-05 23:44:19, 2024-08-05 23:44:19, phishing, 7fa35d63c588ec5bb9ef053f9968fe2e, http://usps.pfrvsxtkfsr.top
 209296, 2024-08-05 22:54:31, 2024-08-05 22:54:31, phishing, 08c7e7587e9770b71d7931570cc6ab54, http://tok2np0ckjt.top
 209295, 2024-08-05 22:54:27, 2024-08-05 22:54:27, phishing, 7ed33c5a6ba1aea1d569a08e0821be8d, http://tok2np0ckkt.top
 209294, 2024-08-05 22:54:25, 2024-08-05 22:54:25, phishing, b2b3022421d9d722acc406899205ad27, http://tok2np0ckht.top
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 208800, 2024-08-05 09:24:15, 2024-08-05 09:24:15, malware, f1575153cbb44207bc2acef903b15a84, http://182.112.50.42:47414/bin.sh
 208799, 2024-08-05 09:24:13, 2024-08-05 09:24:13, malware, dd1fa0190fd34ca5b4e40a2ed9f6324e, http://182.112.11.105:55571/bin.sh
 208798, 2024-08-05 09:24:01, 2024-08-05 09:24:01, malware, b7c37d2762654eebb27cab704b70aec8, http://139.218.214.168:53763/Mozi.m
-208797, 2024-08-05 09:23:59, 2024-08-05 09:23:59, malware, 1f4d005ef5a14738abbd67be937dfc70, http://124.131.155.85:52400/i
