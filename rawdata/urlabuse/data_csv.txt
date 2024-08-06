@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-06 14:00:02 UTC
+# UPDATE: 2024-08-06 15:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+209594, 2024-08-06 14:54:17, 2024-08-06 14:54:17, phishing, 65d1ed7a5982c1c5e2f77188516274f0, http://tg.vp-telegram.com
+209593, 2024-08-06 14:26:14, 2024-08-06 14:26:14, phishing, 01d4852d7c824a6dd66835f068659096, http://techclasifydegenerate.pages.dev
 209592, 2024-08-06 13:50:10, 2024-08-06 13:30:11, phishing, 16e04e7955d3f6957118a10335681d82, https://post.infotrackxxh.top/d/
 209591, 2024-08-06 13:49:59, 2024-08-06 13:10:13, phishing, 896f160d05fd73a6836d89e7b5e15a55, https://ch-postsi.top/ch?a=vkBxW
 209590, 2024-08-06 13:49:36, 2024-08-06 12:46:15, phishing, b281c9fce1e8d3ac72a1b1487b15519f, http://oricul-denaturres.serveftp.net/.zustellversuch
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 209097, 2024-08-05 15:27:34, 2024-08-05 15:27:34, malware, c2c08669447e46148c5957467df7ca9e, http://37.44.238.75/bins/rTXnteGnn93dfOstrEOasxXXqGQ2rInU61
 209096, 2024-08-05 15:27:33, 2024-08-05 15:27:33, malware, 842f3299f6e04c70b5dfe2fa22d774ce, http://37.44.238.75/bins/R47OpVdwilbnyY6yCcL0KWNQs1oYCjOuPe
 209095, 2024-08-05 15:27:33, 2024-08-05 15:27:33, malware, 40bdd19573284f17be846bfd24d2ccb6, http://37.44.238.75/bins/o1KlQxcBl3RfqQL7zG2YMZChDur2XyW7rZ
-209094, 2024-08-05 15:27:32, 2024-08-05 15:27:32, malware, 0a4ec34d7d794523ba05fa89b89e9b99, http://37.44.238.75/bins/gGJIqCld032lUfErvEnt9mwuLIMjt1yOTS
-209093, 2024-08-05 15:27:32, 2024-08-05 15:27:32, malware, 077598920c554cb0a7a40bf3fdee5803, http://37.44.238.75/bins/clbvJjUAuql4HKwTEUnbimMOyxEzGr8CX7
