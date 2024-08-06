@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-08-05 07:30:32 UTC                        #
+# Last updated: 2024-08-06 05:39:12 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	latest-wrong.gl.at.ply.gg
+127.0.0.1	didsit.com
+127.0.0.1	kaitenc2.de
+127.0.0.1	writeindia.com
 127.0.0.1	armzrace.com
 127.0.0.1	atasensors.com
 127.0.0.1	bangnightclub.com
@@ -7019,4 +7023,4 @@
 127.0.0.1	c0mmit.top
 127.0.0.1	bot.shop4youv2.de
 127.0.0.1	bot.elite-likes.de
-# Number of entries: 7013
+# Number of entries: 7017
