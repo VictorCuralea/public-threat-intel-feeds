@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-06 11:00:01 UTC
+# UPDATE: 2024-08-06 12:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+209575, 2024-08-06 11:05:28, 2024-08-06 11:04:16, phishing, 91c60835dc7e942867362f572ff07209, https://www.dropbox.com/scl/fi/yj82a48bcs27oat1lp1k3/BTINTERNET.paper?dl=0
 209574, 2024-08-06 10:52:12, 2024-08-06 10:52:12, phishing, dbbd72824c0dd3e4968769a05925611d, http://ksjdowe2.pages.dev
 209573, 2024-08-06 10:45:56, 2024-08-06 10:45:56, phishing, 4ec87077a14b96e93b7c5a011b4cf9be, https://bt-comms-100018.weeblysite.com/
 209572, 2024-08-06 10:45:44, 2024-08-06 10:26:19, phishing, c85d1978c77d95789c4d87ee8190d02b, https://free-5362198.webadorsite.com/
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 209078, 2024-08-05 15:27:25, 2024-08-05 15:27:25, malware, 5dbbf5b6a44849748ee2a5290c35745c, http://37.44.238.67/bins/caak72W97tDc3EghxgOox2pYD4rZXRr9YX
 209077, 2024-08-05 15:27:25, 2024-08-05 15:27:25, malware, dbd794bc0d30481f9c5685bb305d06a8, http://37.44.238.67/bins/bpJncUEIUmAgsWjqraqMMn5GluYkLUoPuW
 209076, 2024-08-05 15:27:25, 2024-08-05 15:27:25, malware, 15676b78a274448b9b874d3f66a04ab9, http://37.44.238.67/bins/8vEmyqB6zPykzUL4el08zYwL60DpfB6iNy
-209075, 2024-08-05 15:27:24, 2024-08-05 15:27:24, malware, 02c81f62c7024809bf922762a0c00916, http://37.44.238.67/bins/4GjvJv2WsEeK4KTW0T7MoUu6GFrVlEyqys
