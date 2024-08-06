@@ -6,9 +6,16 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-06 09:00:01 UTC
+# UPDATE: 2024-08-06 10:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+209555, 2024-08-06 09:51:25, 2024-08-06 09:51:25, phishing, c9acd3f7bb26de0c9b88b18f7f410af9, https://netsulton0ses.buzz/m/?bGFuZz1lbiZyYW5kMT1ORlZ2cm90PSZzdj1wZGYmcmJveD1mcmFyYW16aTA=#user%40dom.tld
+209554, 2024-08-06 09:44:14, 2024-08-06 09:44:14, phishing, f248beea30b44bcb28f194f3b215b7af, http://telegram-dog.zhong-family.com
+209553, 2024-08-06 09:42:10, 2024-08-06 09:29:25, phishing, dba9692674e7668bc57c511a32016b1a, https://wichitataxicabservice-sanandresadriencarl.sandbox.multiscreensite.com/oei
+209552, 2024-08-06 09:42:00, 2024-08-06 09:42:00, phishing, 921a6676141330909a595911a4784b13, https://verificationkyc.io/pack/dhl/info.php
+209551, 2024-08-06 09:41:33, 2024-08-06 08:49:27, phishing, 0542b9d6dc1aeb55dd52ecca831e18c6, https://firebasestorage.googleapis.com/v0/b/sdy-2606f.appspot.com/o/RoundcubeWebmail.html?alt=media&token=b97a9dc0-c6c0-4823-8d0c-6248bbde28b1#x
+209550, 2024-08-06 09:28:13, 2024-08-06 09:28:13, phishing, 6687408ff4ef5958644d024058decd65, http://autumn-cake-0849.skimpy.workers.dev
+209549, 2024-08-06 09:22:17, 2024-08-06 09:22:17, phishing, 2f4427464bb110ee8a798d8155c94e08, http://everhashindexfil.pages.dev
 209548, 2024-08-06 08:46:14, 2024-08-06 08:46:14, phishing, 496479f98c288018bd3c95ced2da4370, http://videoviral56.utpkh.my.id
 209547, 2024-08-06 08:44:17, 2024-08-06 08:44:17, phishing, d06bef40305f064e573f309c95f00080, http://videoviral40.utpkh.my.id
 209546, 2024-08-06 08:44:17, 2024-08-06 08:44:17, phishing, efc97fd7bad3aa5127ae92a41a987a63, http://videoviral51.utpkh.my.id
@@ -502,10 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 209058, 2024-08-05 15:26:16, 2024-08-05 15:26:16, malware, f80b3edf621f450da581af27eac77575, http://182.116.12.245:43808/bin.sh
 209057, 2024-08-05 15:26:15, 2024-08-05 15:26:15, phishing, 0aaf0366ed4ab612892f4b18bd7b518b, http://terd.clementine-sefy.shop
 209056, 2024-08-05 15:26:13, 2024-08-05 15:26:13, malware, aef03482784b4af3bcc6912f23e72f47, http://176.74.81.219:46316/Mozi.m
-209055, 2024-08-05 15:26:12, 2024-08-05 15:26:12, malware, b878b2220e7643e39d926a3b1583bcce, http://176.74.66.227:55363/Mozi.m
-209054, 2024-08-05 15:25:51, 2024-08-05 15:25:51, malware, 4513f94e18464d3a90aa741311e58eab, http://125.44.38.185:33179/i
-209053, 2024-08-05 15:25:49, 2024-08-05 15:25:49, malware, e757c67c7eb040e78ace03123ea60ef7, http://125.44.38.185:33179/bin.sh
-209052, 2024-08-05 15:25:38, 2024-08-05 15:25:38, malware, bccae7cc1abf4922b95db398ca603dbb, http://124.131.155.85:52400/Mozi.m
-209051, 2024-08-05 15:25:36, 2024-08-05 15:25:36, malware, 929f8f201cb44857bf34779585d184b7, http://123.5.189.217:56494/
-209050, 2024-08-05 15:25:35, 2024-08-05 15:25:35, malware, c900e4e50b024b47a77f983df80bc4ab, http://123.232.195.11:44765/i
-209049, 2024-08-05 15:25:32, 2024-08-05 15:25:32, malware, 57b16997d4c6429882d05951216352a2, http://123.232.195.11:44765/bin.sh

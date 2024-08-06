@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-08-06 05:39:12 UTC                        #
+# Last updated: 2024-08-06 09:17:29 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	werdotx.shop
 127.0.0.1	latest-wrong.gl.at.ply.gg
 127.0.0.1	didsit.com
 127.0.0.1	kaitenc2.de
@@ -7009,4 +7010,4 @@
 127.0.0.1	pavementpreferencewjiao.site
 127.0.0.1	benddiscoleideasbridrew.site
 127.0.0.1	hovermeatglacierrjuw.site
-# Number of entries: 7003
+# Number of entries: 7004
