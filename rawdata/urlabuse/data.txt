@@ -6,8 +6,9 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-06 21:00:01 UTC
+# UPDATE: 2024-08-06 22:00:02 UTC
 ############### END COMMENTS ###############
+{"id": 209713, "url": "http://rexdapmode.pages.dev", "discovery": "2024-08-06 21:34:12", "added": "2024-08-06 21:34:12", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "476c33eac6e225da10c0ca65e4b7214c"}
 {"id": 209712, "url": "https://ssh2.zdlux.pe/friday.php", "discovery": "2024-08-06 20:28:12", "added": "2024-08-06 20:36:19", "target": "SwissPost", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "60874f86b3bdb51863322af4e888ced6"}
 {"id": 209711, "url": "https://btnewmailser.weebly.com", "discovery": "2024-08-06 20:36:03", "added": "2024-08-06 20:36:03", "target": "BT", "reporter": "urlabuse", "AbuseType": "phishing", "UUID": "ca4f1029f9d64fc7c783504267e7f57c"}
 {"id": 209710, "url": "https://www.dropbox.com/scl/fi/rmdl6bcz8qnwqay9o4rlc/BT-MAILBOX-NOTIFICATION.papert?rlkey=qc30msdu7kiou3vm371z0els1", "discovery": "2024-08-06 19:24:16", "added": "2024-08-06 20:35:48", "target": "BT", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "3eaffb3b53613c9eaa155a59b44a663d"}
@@ -507,4 +508,3 @@
 {"id": 209216, "url": "http://42.235.102.236:40894/i", "discovery": "2024-08-05 19:25:19", "added": "2024-08-05 19:25:19", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "ec477bb64dbe47919cfe54fc627c1152"}
 {"id": 209215, "url": "http://42.234.180.105:45437/bin.sh", "discovery": "2024-08-05 19:25:17", "added": "2024-08-05 19:25:17", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "a2ef97dd6e8a449096c50a8e0c8b8a40"}
 {"id": 209214, "url": "http://42.232.212.230:44679/bin.sh", "discovery": "2024-08-05 19:25:16", "added": "2024-08-05 19:25:16", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "1f7ebc539f364c2682eea9660959306b"}
-{"id": 209213, "url": "http://39.88.135.61:47106/Mozi.m", "discovery": "2024-08-05 19:24:34", "added": "2024-08-05 19:24:34", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "267a27500a4f482899fd909fe07e1d7b"}

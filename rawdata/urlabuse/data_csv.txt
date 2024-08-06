@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-06 21:00:01 UTC
+# UPDATE: 2024-08-06 22:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+209713, 2024-08-06 21:34:12, 2024-08-06 21:34:12, phishing, 476c33eac6e225da10c0ca65e4b7214c, http://rexdapmode.pages.dev
 209712, 2024-08-06 20:36:19, 2024-08-06 20:28:12, phishing, 60874f86b3bdb51863322af4e888ced6, https://ssh2.zdlux.pe/friday.php
 209711, 2024-08-06 20:36:03, 2024-08-06 20:36:03, phishing, ca4f1029f9d64fc7c783504267e7f57c, https://btnewmailser.weebly.com
 209710, 2024-08-06 20:35:48, 2024-08-06 19:24:16, phishing, 3eaffb3b53613c9eaa155a59b44a663d, https://www.dropbox.com/scl/fi/rmdl6bcz8qnwqay9o4rlc/BT-MAILBOX-NOTIFICATION.papert?rlkey=qc30msdu7kiou3vm371z0els1
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 209216, 2024-08-05 19:25:19, 2024-08-05 19:25:19, malware, ec477bb64dbe47919cfe54fc627c1152, http://42.235.102.236:40894/i
 209215, 2024-08-05 19:25:17, 2024-08-05 19:25:17, malware, a2ef97dd6e8a449096c50a8e0c8b8a40, http://42.234.180.105:45437/bin.sh
 209214, 2024-08-05 19:25:16, 2024-08-05 19:25:16, malware, 1f7ebc539f364c2682eea9660959306b, http://42.232.212.230:44679/bin.sh
-209213, 2024-08-05 19:24:34, 2024-08-05 19:24:34, malware, 267a27500a4f482899fd909fe07e1d7b, http://39.88.135.61:47106/Mozi.m
