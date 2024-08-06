@@ -6,8 +6,11 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-06 07:00:02 UTC
+# UPDATE: 2024-08-06 08:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 209516, "url": "http://telegrem.cc", "discovery": "2024-08-06 07:12:29", "added": "2024-08-06 07:12:29", "target": "Telegram", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "375261bbe05a092cc73bea657cd1f415"}
+{"id": 209515, "url": "http://telegream.cc", "discovery": "2024-08-06 07:12:16", "added": "2024-08-06 07:12:16", "target": "Telegram", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "0ebf9557ce371678c0ff0f830777e299"}
+{"id": 209514, "url": "https://tg.qhbet.co/", "discovery": "2024-08-06 07:03:05", "added": "2024-08-06 07:03:05", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "9c7aa4217edbf8356273f5cc9132e90c"}
 {"id": 209513, "url": "https://securemail.presstecuk.com/mo3/?account=x", "discovery": "2024-08-06 05:58:17", "added": "2024-08-06 06:24:43", "target": "Microsoft", "reporter": "anonymous", "AbuseType": "phishing", "UUID": "b5f87754a88c7b73c0208a66e6728b9e"}
 {"id": 209512, "url": "http://livemigraznsvtwo.pages.dev", "discovery": "2024-08-06 06:14:17", "added": "2024-08-06 06:14:17", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "ee0aa97056612882fe845859890c3c04"}
 {"id": 209511, "url": "https://elegantione.com/chinamailbox/Oxyde-China/#x", "discovery": "2024-08-06 05:27:26", "added": "2024-08-06 05:46:27", "target": "Generic Email", "reporter": "anonymous", "AbuseType": "phishing", "UUID": "f23c6287c3e74101ba928a987de8b93a"}
@@ -505,6 +508,3 @@
 {"id": 209019, "url": "http://112.249.125.69:57369/bin.sh", "discovery": "2024-08-05 15:20:10", "added": "2024-08-05 15:20:10", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "accbb783764f41a4964164ba79d135b5"}
 {"id": 209018, "url": "http://112.248.188.145:39032/i", "discovery": "2024-08-05 15:20:08", "added": "2024-08-05 15:20:08", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "f14924cc4d9046d4b492f5abcb3fd695"}
 {"id": 209017, "url": "http://112.248.114.185:55727/bin.sh", "discovery": "2024-08-05 15:20:07", "added": "2024-08-05 15:20:07", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "523e8ed79d0642999d5d107443f01805"}
-{"id": 209016, "url": "http://112.239.103.30:60662/i", "discovery": "2024-08-05 15:20:05", "added": "2024-08-05 15:20:05", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "8259fd5320774f3e91316d868feddfdd"}
-{"id": 209015, "url": "https://ekanah7338.beefreedesign.com/hCcC", "discovery": "2024-08-05 14:44:11", "added": "2024-08-05 14:46:16", "target": "BT", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "62145be45f240e6f82b50b53ae32b64c"}
-{"id": 209014, "url": "https://btgjh.weebly.com/", "discovery": "2024-08-05 14:46:07", "added": "2024-08-05 14:46:07", "target": "BT", "reporter": "urlabuse", "AbuseType": "phishing", "UUID": "94ec55a1356293a872465c92894b297a"}

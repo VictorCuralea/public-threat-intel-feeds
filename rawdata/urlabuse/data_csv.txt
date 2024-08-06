@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-06 07:00:02 UTC
+# UPDATE: 2024-08-06 08:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+209516, 2024-08-06 07:12:29, 2024-08-06 07:12:29, phishing, 375261bbe05a092cc73bea657cd1f415, http://telegrem.cc
+209515, 2024-08-06 07:12:16, 2024-08-06 07:12:16, phishing, 0ebf9557ce371678c0ff0f830777e299, http://telegream.cc
+209514, 2024-08-06 07:03:05, 2024-08-06 07:03:05, phishing, 9c7aa4217edbf8356273f5cc9132e90c, https://tg.qhbet.co/
 209513, 2024-08-06 06:24:43, 2024-08-06 05:58:17, phishing, b5f87754a88c7b73c0208a66e6728b9e, https://securemail.presstecuk.com/mo3/?account=x
 209512, 2024-08-06 06:14:17, 2024-08-06 06:14:17, phishing, ee0aa97056612882fe845859890c3c04, http://livemigraznsvtwo.pages.dev
 209511, 2024-08-06 05:46:27, 2024-08-06 05:27:26, phishing, f23c6287c3e74101ba928a987de8b93a, https://elegantione.com/chinamailbox/Oxyde-China/#x
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 209019, 2024-08-05 15:20:10, 2024-08-05 15:20:10, malware, accbb783764f41a4964164ba79d135b5, http://112.249.125.69:57369/bin.sh
 209018, 2024-08-05 15:20:08, 2024-08-05 15:20:08, malware, f14924cc4d9046d4b492f5abcb3fd695, http://112.248.188.145:39032/i
 209017, 2024-08-05 15:20:07, 2024-08-05 15:20:07, malware, 523e8ed79d0642999d5d107443f01805, http://112.248.114.185:55727/bin.sh
-209016, 2024-08-05 15:20:05, 2024-08-05 15:20:05, malware, 8259fd5320774f3e91316d868feddfdd, http://112.239.103.30:60662/i
-209015, 2024-08-05 14:46:16, 2024-08-05 14:44:11, phishing, 62145be45f240e6f82b50b53ae32b64c, https://ekanah7338.beefreedesign.com/hCcC
-209014, 2024-08-05 14:46:07, 2024-08-05 14:46:07, phishing, 94ec55a1356293a872465c92894b297a, https://btgjh.weebly.com/
