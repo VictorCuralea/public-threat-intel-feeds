@@ -6,9 +6,20 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-07 22:00:01 UTC
+# UPDATE: 2024-08-07 23:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+210706, 2024-08-07 22:16:54, 2024-08-07 22:16:54, phishing, f6851882d22e966a10c059a2d4840649, https://wheto.shop/data/7333996869/payment/ZbeUYW70/eblagh-new/?login
+210705, 2024-08-07 22:06:10, 2024-08-07 22:06:10, phishing, a3a98bce771395c978d1dce5a50a61bb, https://pub-c42c9b4bf2894b79ac5ea7ba7de796c4.r2.dev/index.html
+210704, 2024-08-07 22:04:44, 2024-08-07 22:04:44, phishing, 0ca52193414fa1b48c8a5aa389fa33f8, http://pub-614cf701e3864b06861d488e86368b1c.r2.dev/lokk.html
+210703, 2024-08-07 22:04:35, 2024-08-07 22:04:35, phishing, 79f6891ae73a2656fbaba74b7593fd29, http://pub-18d5a849f50b4f0599fe705f3bca6667.r2.dev/index.html
+210702, 2024-08-07 22:04:33, 2024-08-07 22:04:33, phishing, ac2e6dc5aa4aad379b5eaecb8ddc5bc3, http://mahantamengineering.in/utils/set_language.html?lang=pt&key=catalog_11194&return_url=https://pub-c42c9b4bf2894b79ac5ea7ba7de796c4.r2.dev/index.html
+210701, 2024-08-07 22:03:21, 2024-08-07 22:03:21, phishing, 84457a6960b6f61e5b62d49bf68951bb, https://pub-5c6a59ee8a3141be848f9a149167372d.r2.dev/index.html
+210700, 2024-08-07 22:03:13, 2024-08-07 22:03:13, phishing, b11c7e860f32641704f41e59aff83e55, http://pub-58e0355b1ce7447fad801c42dbea299f.r2.dev/linkable.html
+210699, 2024-08-07 22:03:07, 2024-08-07 22:03:07, phishing, 26f628814a4f63281371b249db2cd68d, http://pub-10db0c7b0e09403bb42162f52e2acdd7.r2.dev/compsob.html
+210698, 2024-08-07 22:02:20, 2024-08-07 22:02:20, phishing, fc70176d10c93eb46f2f15c0301e7c92, https://community-of-sex-crazy-girls.pages.dev/
+210697, 2024-08-07 22:02:18, 2024-08-07 22:02:18, phishing, f3b43e574758f354b403ebe2298e78d9, https://web.telagirem.top/
+210696, 2024-08-07 22:02:12, 2024-08-07 22:02:12, phishing, 8233873e78d960eb8633329ee5e81ef5, https://bucolic-kheer-bd252e.netlify.app/
 210695, 2024-08-07 21:32:15, 2024-08-07 21:32:15, phishing, 4279b427a37bf9da082063a282b9e3ac, http://service-renouvellement-vitale.fr
 210694, 2024-08-07 21:27:20, 2024-08-07 21:27:20, malware, 3c858a87e53e46e28b9be0347d0596dc, http://61.53.88.94:36125/Mozi.m
 210693, 2024-08-07 21:27:18, 2024-08-07 21:27:18, malware, f84259d9a32247759f8c23c3c7b6f3ad, http://61.53.82.189:48175/i
@@ -498,14 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 210209, 2024-08-07 10:05:19, 2024-08-07 10:05:19, phishing, b1d7ac09c93f4679ff286e552bb55ef9, https://c3650.cc/
 210208, 2024-08-07 10:03:22, 2024-08-07 10:03:22, phishing, 245f396f32741f902e658dcb8ac51a23, https://ecutcore.nowddns.com/
 210207, 2024-08-07 10:02:13, 2024-08-07 10:02:13, phishing, c0ddc590e001e589052511b764d61c73, https://telesexgroup.pages.dev/link-1
-210206, 2024-08-07 09:34:47, 2024-08-07 09:34:47, malware, 7fda7fb788de42a692a127bdf5651ab0, http://59.182.75.121:40628/Mozi.m
-210205, 2024-08-07 09:34:45, 2024-08-07 09:34:45, malware, 3484ce82f7644ef8a4e07078d0e2c899, http://59.182.106.193:47211/Mozi.m
-210204, 2024-08-07 09:34:27, 2024-08-07 09:34:27, malware, 2a2c80348baf46a09ffcc6eb0ac34626, http://59.180.173.28:49449/Mozi.m
-210203, 2024-08-07 09:33:55, 2024-08-07 09:33:55, malware, 58e04819b54f4701a2580855b0169851, http://42.231.66.252:58932/Mozi.m
-210202, 2024-08-07 09:33:43, 2024-08-07 09:33:43, malware, a6ea139693c242b9b998ad1beb9d7b2d, http://42.226.65.97:60511/i
-210201, 2024-08-07 09:33:42, 2024-08-07 09:33:42, malware, 2187207f653f41eaa10396cb8c7e6ff1, http://42.226.222.176:43637/Mozi.m
-210200, 2024-08-07 09:33:40, 2024-08-07 09:33:40, malware, cd01be2e9bdb42a3ac8c30ddc4302d51, http://42.225.202.21:55491/i
-210199, 2024-08-07 09:33:39, 2024-08-07 09:33:39, malware, f5a42e681caa463f95d8f8f85f81ab64, http://42.225.202.21:55491/bin.sh
-210198, 2024-08-07 09:33:36, 2024-08-07 09:27:29, phishing, 4194198149ce7eac9e7bb07d07d101f0, https://che-post.cfd/
-210197, 2024-08-07 09:33:28, 2024-08-07 09:33:28, malware, 7dcd75274a1a445980e4b18699ac3ca7, http://222.141.122.36:50979/bin.sh
-210196, 2024-08-07 09:33:23, 2024-08-07 09:27:27, phishing, 89070638184b54c81c1847b8534e7fb4, https://posatch.icu/
