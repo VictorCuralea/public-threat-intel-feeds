@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-07 11:00:01 UTC
+# UPDATE: 2024-08-07 12:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+210225, 2024-08-07 11:29:34, 2024-08-07 11:29:34, phishing, bb87f0d8e2a03f9377c79578ad38b8da, https://fewdaxz.org/
 210224, 2024-08-07 10:44:35, 2024-08-07 10:40:11, phishing, 6e80a5ff8653cbbb6b03a3dc80edbec9, https://jackywoor07943581.activehosted.com/f/1
 210223, 2024-08-07 10:44:11, 2024-08-07 10:30:14, phishing, e07f0a86734ee7f4288193200eaa5c67, https://www.dropbox.com/scl/fi/nrjq92axwy3etqc4453kf/BT-VOICE-NOTIFICATION.papert?rlkey=fl8zep5mg7h6452ph7eo2krrx
 210222, 2024-08-07 10:43:49, 2024-08-07 10:20:13, phishing, 2c7ca6671983f22e584b6dca0b6a4066, https://www.dropbox.com/scl/fi/xm9xx9q3hv309r6o7h4hv/BT-VOICE-MESSAGE.paper?rlkey=n6aof3v8zqb7pxqz62yyf2dux
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 209728, 2024-08-06 22:20:15, 2024-08-06 22:20:15, phishing, 899d3b21c8d5525e3ef237a83a231fd6, http://promptsrevapps.pages.dev
 209727, 2024-08-06 22:10:57, 2024-08-06 22:10:57, phishing, ede4154cdd3155bfabb7f4cf2edb8027, https://rawthot.github.io/facebook-clone
 209726, 2024-08-06 22:10:55, 2024-08-06 22:10:55, phishing, d88bf698fd3e8687e3260a6807c82773, https://pub-ff5bacf94a4d474b9c7cb1c0ba1c5e8f.r2.dev/script.html?email=3mail@b.c==
-209725, 2024-08-06 22:10:52, 2024-08-06 22:10:52, phishing, af5420d8d1fdacf0d8967af8175e2833, https://pub-adefabd73f2c47c6a402823a22bf9e9b.r2.dev/utility_base.html

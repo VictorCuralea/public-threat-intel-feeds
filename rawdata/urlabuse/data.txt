@@ -6,8 +6,9 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-07 11:00:01 UTC
+# UPDATE: 2024-08-07 12:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 210225, "url": "https://fewdaxz.org/", "discovery": "2024-08-07 11:29:34", "added": "2024-08-07 11:29:34", "target": "Adliran", "reporter": "urlabuse", "AbuseType": "phishing", "UUID": "bb87f0d8e2a03f9377c79578ad38b8da"}
 {"id": 210224, "url": "https://jackywoor07943581.activehosted.com/f/1", "discovery": "2024-08-07 10:40:11", "added": "2024-08-07 10:44:35", "target": "BT", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "6e80a5ff8653cbbb6b03a3dc80edbec9"}
 {"id": 210223, "url": "https://www.dropbox.com/scl/fi/nrjq92axwy3etqc4453kf/BT-VOICE-NOTIFICATION.papert?rlkey=fl8zep5mg7h6452ph7eo2krrx", "discovery": "2024-08-07 10:30:14", "added": "2024-08-07 10:44:11", "target": "BT", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "e07f0a86734ee7f4288193200eaa5c67"}
 {"id": 210222, "url": "https://www.dropbox.com/scl/fi/xm9xx9q3hv309r6o7h4hv/BT-VOICE-MESSAGE.paper?rlkey=n6aof3v8zqb7pxqz62yyf2dux", "discovery": "2024-08-07 10:20:13", "added": "2024-08-07 10:43:49", "target": "BT", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "2c7ca6671983f22e584b6dca0b6a4066"}
@@ -507,4 +508,3 @@
 {"id": 209728, "url": "http://promptsrevapps.pages.dev", "discovery": "2024-08-06 22:20:15", "added": "2024-08-06 22:20:15", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "899d3b21c8d5525e3ef237a83a231fd6"}
 {"id": 209727, "url": "https://rawthot.github.io/facebook-clone", "discovery": "2024-08-06 22:10:57", "added": "2024-08-06 22:10:57", "target": "Facebook", "reporter": "lrugbot", "AbuseType": "phishing", "UUID": "ede4154cdd3155bfabb7f4cf2edb8027"}
 {"id": 209726, "url": "https://pub-ff5bacf94a4d474b9c7cb1c0ba1c5e8f.r2.dev/script.html?email=3mail@b.c==", "discovery": "2024-08-06 22:10:55", "added": "2024-08-06 22:10:55", "target": "Microsoft", "reporter": "lrugbot", "AbuseType": "phishing", "UUID": "d88bf698fd3e8687e3260a6807c82773"}
-{"id": 209725, "url": "https://pub-adefabd73f2c47c6a402823a22bf9e9b.r2.dev/utility_base.html", "discovery": "2024-08-06 22:10:52", "added": "2024-08-06 22:10:52", "target": "Other", "reporter": "lrugbot", "AbuseType": "phishing", "UUID": "af5420d8d1fdacf0d8967af8175e2833"}
