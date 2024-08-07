@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-06 23:00:01 UTC
+# UPDATE: 2024-08-07 00:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+209730, 2024-08-06 23:56:15, 2024-08-06 23:56:15, phishing, 75455b24d57291c9298342a6477e9aa5, http://rectifynodedap.pages.dev
 209729, 2024-08-06 22:34:14, 2024-08-06 22:34:14, phishing, 33be33ae9e939b03389393e004c7d189, http://livemigraznesvtwo.pages.dev
 209728, 2024-08-06 22:20:15, 2024-08-06 22:20:15, phishing, 899d3b21c8d5525e3ef237a83a231fd6, http://promptsrevapps.pages.dev
 209727, 2024-08-06 22:10:57, 2024-08-06 22:10:57, phishing, ede4154cdd3155bfabb7f4cf2edb8027, https://rawthot.github.io/facebook-clone
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 209233, 2024-08-05 21:20:05, 2024-08-05 21:20:05, malware, 566d8e32376f42b88444dbd2726c120b, http://115.50.219.122:40818/bin.sh
 209232, 2024-08-05 21:12:17, 2024-08-05 21:12:17, phishing, daba94b96953730fcd3e1b6ecd0e554a, http://telegera.vip
 209231, 2024-08-05 20:28:13, 2024-08-05 20:28:13, phishing, 2d5ae179e818310f4c6b4a8edb44c55e, http://tweb-nvg.pages.dev
-209230, 2024-08-05 20:04:13, 2024-08-05 20:04:13, phishing, 55a2b4f2a9763bba6df971502ac4d113, http://blockdag-network-rectification.pages.dev

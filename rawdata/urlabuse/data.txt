@@ -6,8 +6,9 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-06 23:00:01 UTC
+# UPDATE: 2024-08-07 00:00:02 UTC
 ############### END COMMENTS ###############
+{"id": 209730, "url": "http://rectifynodedap.pages.dev", "discovery": "2024-08-06 23:56:15", "added": "2024-08-06 23:56:15", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "75455b24d57291c9298342a6477e9aa5"}
 {"id": 209729, "url": "http://livemigraznesvtwo.pages.dev", "discovery": "2024-08-06 22:34:14", "added": "2024-08-06 22:34:14", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "33be33ae9e939b03389393e004c7d189"}
 {"id": 209728, "url": "http://promptsrevapps.pages.dev", "discovery": "2024-08-06 22:20:15", "added": "2024-08-06 22:20:15", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "899d3b21c8d5525e3ef237a83a231fd6"}
 {"id": 209727, "url": "https://rawthot.github.io/facebook-clone", "discovery": "2024-08-06 22:10:57", "added": "2024-08-06 22:10:57", "target": "Facebook", "reporter": "lrugbot", "AbuseType": "phishing", "UUID": "ede4154cdd3155bfabb7f4cf2edb8027"}
@@ -507,4 +508,3 @@
 {"id": 209233, "url": "http://115.50.219.122:40818/bin.sh", "discovery": "2024-08-05 21:20:05", "added": "2024-08-05 21:20:05", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "566d8e32376f42b88444dbd2726c120b"}
 {"id": 209232, "url": "http://telegera.vip", "discovery": "2024-08-05 21:12:17", "added": "2024-08-05 21:12:17", "target": "Telegram", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "daba94b96953730fcd3e1b6ecd0e554a"}
 {"id": 209231, "url": "http://tweb-nvg.pages.dev", "discovery": "2024-08-05 20:28:13", "added": "2024-08-05 20:28:13", "target": "Telegram", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "2d5ae179e818310f4c6b4a8edb44c55e"}
-{"id": 209230, "url": "http://blockdag-network-rectification.pages.dev", "discovery": "2024-08-05 20:04:13", "added": "2024-08-05 20:04:13", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "55a2b4f2a9763bba6df971502ac4d113"}
