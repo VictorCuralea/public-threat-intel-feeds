@@ -1,12 +1,42 @@
 ################################################################
 # ThreatFox IOCs: recent SHA256 hashes - CSV format            #
-# Last updated: 2024-08-06 18:03:16 UTC                        #
+# Last updated: 2024-08-07 21:55:04 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
 # "first_seen_utc","ioc_id","ioc_value","ioc_type","threat_type","fk_malware","malware_alias","malware_printable","last_seen_utc","confidence_level","reference","tags","anonymous","reporter"
+"2024-08-07 21:55:09", "1307763", "c2cf1032ae671d0bcba6d625bc72236b125f864a1bb6114c6b96a8e0c91c6759", "sha256_hash", "payload", "win.remcos", "RemcosRAT,Remvio,Socmer", "Remcos", "", "95", "None", "None", "0", "Grim"
+"2024-08-07 21:55:04", "1307760", "2ed14fae52e98301da8761d3118dc86d36da2f027038a9fef759a1b5103482e5", "sha256_hash", "payload", "win.formbook", "win.xloader", "Formbook", "", "95", "None", "None", "0", "Grim"
+"2024-08-07 21:54:58", "1307757", "c1b33d9ce977f2a7c8577c0b88a45b5bd309f7cc73d5f68151d5d4e5aa10a523", "sha256_hash", "payload", "win.dostealer", "None", "DOSTEALER", "", "95", "None", "None", "0", "Grim"
+"2024-08-07 21:54:55", "1307754", "b5c54101374cc75a2e4b8960243fbccfe81c267d9e05af3b72e10b2fa812aff5", "sha256_hash", "payload", "win.formbook", "win.xloader", "Formbook", "", "95", "None", "None", "0", "Grim"
+"2024-08-07 21:54:52", "1307751", "d71e6536f07cb4e40237cf7132dd01b9d93ee06c07767f108cc1929f1f5b5b9c", "sha256_hash", "payload", "win.troystealer", "None", "troystealer", "", "95", "None", "None", "0", "Grim"
+"2024-08-07 21:54:48", "1307748", "ff1a81ba33a6328568c2c3fa6c02d90909322624fd07c76d9fb300e56d47092a", "sha256_hash", "payload", "win.strelastealer", "None", "StrelaStealer", "", "95", "None", "None", "0", "Grim"
+"2024-08-07 21:54:45", "1307745", "a275219d59c7a4d6af8647ab86a5fba4134aa15dacb327cada238d9abad7e6e3", "sha256_hash", "payload", "win.agent_tesla", "AgenTesla,AgentTesla,Negasteal", "Agent Tesla", "", "95", "None", "None", "0", "Grim"
+"2024-08-07 21:54:41", "1307742", "ec0abef5fb66cd68576c583e78297f1c1e270f66be5a04236b116d99b9ee5b0e", "sha256_hash", "payload", "win.formbook", "win.xloader", "Formbook", "", "95", "None", "None", "0", "Grim"
+"2024-08-07 21:54:38", "1307739", "339faca706c98cf8713cd3b56122442461c3810ab69988b1ef1ecd2275e33b41", "sha256_hash", "payload", "win.formbook", "win.xloader", "Formbook", "", "95", "None", "None", "0", "Grim"
+"2024-08-07 21:54:34", "1307736", "8485bf03cc8dcae3bbd2a1a7abfb54a91a6590e8f4da85c834c58c9debd4c07c", "sha256_hash", "payload", "win.formbook", "win.xloader", "Formbook", "", "95", "None", "None", "0", "Grim"
+"2024-08-07 21:54:31", "1307733", "cd4521a750a5be16379c573fda96dd95aa018eaa2029ed897586502bbe9b4ac5", "sha256_hash", "payload", "win.krakenkeylogger", "None", "KrakenKeylogger", "", "95", "None", "None", "0", "Grim"
+"2024-08-07 21:54:27", "1307730", "8b007841f87e02dcfda10bc0e2dafa28430901492f218329cce2a0cb4bbf984b", "sha256_hash", "payload", "win.agent_tesla", "AgenTesla,AgentTesla,Negasteal", "Agent Tesla", "", "95", "None", "None", "0", "Grim"
+"2024-08-07 21:54:23", "1307727", "c3a99726270b8bdb50ec74391f81b4009e6d3dedfb1ace4baaaa344268e19f37", "sha256_hash", "payload", "win.krakenkeylogger", "None", "KrakenKeylogger", "", "95", "None", "None", "0", "Grim"
+"2024-08-07 21:54:20", "1307724", "e50b43355e146acf66599838be695f264f1b55d5a95a3260ea426692d3ffce13", "sha256_hash", "payload", "win.redline_stealer", "RECORDSTEALER", "RedLine Stealer", "", "95", "None", "None", "0", "Grim"
+"2024-08-07 21:54:16", "1307721", "bef765aff3d916d8be504b604c0dc37afe3fd76260fe158508b778b5e4b85ddf", "sha256_hash", "payload", "win.coinminer", "None", "Coinminer", "", "95", "None", "None", "0", "Grim"
+"2024-08-07 21:54:13", "1307718", "6664b2f256e822c8576d023fb1e11714d47b00c26ead3e1e7049d71367bf48d8", "sha256_hash", "payload", "win.formbook", "win.xloader", "Formbook", "", "95", "None", "None", "0", "Grim"
+"2024-08-07 21:54:09", "1307715", "d3e597c7a7074ebbbf6def6c24c0b979de124435a2c9a01dcb9a36ee1c5864d8", "sha256_hash", "payload", "win.formbook", "win.xloader", "Formbook", "", "95", "None", "None", "0", "Grim"
+"2024-08-07 21:54:06", "1307712", "921ec74f64c67534a59a595ab238dd0274100bb5f66ba0597984fe289b120886", "sha256_hash", "payload", "win.krakenkeylogger", "None", "KrakenKeylogger", "", "95", "None", "None", "0", "Grim"
+"2024-08-07 21:54:02", "1307709", "d9863b7b710599bc2b308a0b78970da8c42ee5bc6d3dcda05c2de52a88125726", "sha256_hash", "payload", "win.krakenkeylogger", "None", "KrakenKeylogger", "", "95", "None", "None", "0", "Grim"
+"2024-08-07 21:53:58", "1307706", "660447bddf49de44d9557f197400c14a9e146f1fe8cc6fc5ec0acbc742bbb70b", "sha256_hash", "payload", "win.redline_stealer", "RECORDSTEALER", "RedLine Stealer", "", "95", "None", "None", "0", "Grim"
+"2024-08-07 21:53:54", "1307703", "8ac8568934d1a0ab9a9923449bf11c0d44d97abca0bcabd60b94348642f046ac", "sha256_hash", "payload", "win.formbook", "win.xloader", "Formbook", "", "95", "None", "None", "0", "Grim"
+"2024-08-07 21:53:49", "1307700", "2a1025eae11aa2da086cfecfcbdf8145b5e12803749b53dadc500d518e554987", "sha256_hash", "payload", "win.krakenkeylogger", "None", "KrakenKeylogger", "", "95", "None", "None", "0", "Grim"
+"2024-08-07 21:53:45", "1307697", "921ccf1fc29a415904231b079ce0bf549be6e1102e3ac376205aa609f2fcf731", "sha256_hash", "payload", "win.redline_stealer", "RECORDSTEALER", "RedLine Stealer", "", "95", "None", "None", "0", "Grim"
+"2024-08-07 21:53:41", "1307694", "c1e6e311409f2d2e4b80b63c58b3e625f518575425e94ee9f49999fe909ae40d", "sha256_hash", "payload", "win.gcleaner", "None", "GCleaner", "", "95", "None", "None", "0", "Grim"
+"2024-08-07 21:53:36", "1307691", "ee7a9c31140015d7a6aedf8068c3e0b8eae9641dd29d35803d27e30439e76586", "sha256_hash", "payload", "win.remcos", "RemcosRAT,Remvio,Socmer", "Remcos", "", "95", "None", "None", "0", "Grim"
+"2024-08-07 21:53:32", "1307688", "6bb392b6eeba84e927fdf06cdb73f4d7e1feca5ce6916b5871f29175f7e29e34", "sha256_hash", "payload", "win.redline_stealer", "RECORDSTEALER", "RedLine Stealer", "", "95", "None", "None", "0", "Grim"
+"2024-08-07 21:53:27", "1307685", "fc2b517f4b297388848a5fa60eb4f27abf59d080148d57cc4babb54a0f6f9f38", "sha256_hash", "payload", "win.dcrat", "DarkCrystal RAT", "DCRat", "", "95", "None", "None", "0", "Grim"
+"2024-08-07 21:53:23", "1307682", "66ca38af42e53349449285404e615428e59c1ec73f2b7e4901fc02c7d0c46e0a", "sha256_hash", "payload", "win.sigloader", "None", "SigLoader", "", "95", "None", "None", "0", "Grim"
+"2024-08-07 21:53:18", "1307679", "633b3cade3eac35d244499864b7951091dc5d8cbac3cb6dd4fa87a214be9c41c", "sha256_hash", "payload", "win.dcrat", "DarkCrystal RAT", "DCRat", "", "95", "None", "None", "0", "Grim"
+"2024-08-07 21:53:15", "1307676", "850752cfce58c44ce5d48735f4d53ccc1f8d12b7e1ae00d367d9c42103d9ad99", "sha256_hash", "payload", "win.krakenkeylogger", "None", "KrakenKeylogger", "", "95", "None", "None", "0", "Grim"
 "2024-08-06 18:03:16", "1307595", "6a4cc017ef258d74d25f45caccccc1bc0e26040fc98d4a89c2b1d3e9645d1a75", "sha256_hash", "payload", "win.redline_stealer", "RECORDSTEALER", "RedLine Stealer", "", "95", "None", "None", "0", "Grim"
 "2024-08-06 18:03:13", "1307592", "c4b2082f79ebdc8a4f26f02b599f995c7eca568b74e6db9f3fb2d89e4f2e3ef4", "sha256_hash", "payload", "win.gcleaner", "None", "GCleaner", "", "95", "None", "None", "0", "Grim"
 "2024-08-06 18:03:10", "1307589", "1b944cfab6268e511c3ea705224aa1e7fdf4b657450941b94f1258c0139378b7", "sha256_hash", "payload", "win.salgorea", "BadCake", "Salgorea", "", "95", "None", "None", "0", "Grim"
@@ -53,4 +83,4 @@
 "2024-08-06 18:00:53", "1307466", "4fa1ca606365828c737719be7a0c944771c4c9309896a71f46decb99ff76ff30", "sha256_hash", "payload", "win.krakenkeylogger", "None", "KrakenKeylogger", "", "95", "None", "None", "0", "Grim"
 "2024-08-06 18:00:50", "1307463", "5ba9c0369672e2fc6bfe9a4ab55d9c472338990d852c174329200b9771fa1093", "sha256_hash", "payload", "win.neshta", "None", "neshta", "", "95", "None", "None", "0", "Grim"
 "2024-08-06 17:57:34", "1307455", "e444365267beb3fdf5e0906369d7ce649972c78b635955a159de6c20c1e083f2", "sha256_hash", "payload", "unknown", "None", "Unknown malware", "", "75", "https://app.any.run/tasks/bb803634-e03c-4ca8-9f1a-992340a8ca8a/", "32-bits,peexe", "0", "stopransom"
-# Number of entries: 46
+# Number of entries: 76
