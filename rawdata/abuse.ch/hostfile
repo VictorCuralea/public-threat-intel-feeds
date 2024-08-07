@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-08-07 06:08:19 UTC                        #
+# Last updated: 2024-08-07 15:54:54 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	alphawatchrmf.com
 127.0.0.1	kyniemsro.com
 127.0.0.1	angela-kindly.with.playit.plus
 127.0.0.1	peskpdfgif.shop
@@ -6955,4 +6956,4 @@
 127.0.0.1	helpforhypnotherapists.com
 127.0.0.1	jubileemovement.org
 127.0.0.1	dicatindustrial.com
-# Number of entries: 6949
+# Number of entries: 6950
