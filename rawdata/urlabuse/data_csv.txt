@@ -6,9 +6,27 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-07 10:00:01 UTC
+# UPDATE: 2024-08-07 11:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+210224, 2024-08-07 10:44:35, 2024-08-07 10:40:11, phishing, 6e80a5ff8653cbbb6b03a3dc80edbec9, https://jackywoor07943581.activehosted.com/f/1
+210223, 2024-08-07 10:44:11, 2024-08-07 10:30:14, phishing, e07f0a86734ee7f4288193200eaa5c67, https://www.dropbox.com/scl/fi/nrjq92axwy3etqc4453kf/BT-VOICE-NOTIFICATION.papert?rlkey=fl8zep5mg7h6452ph7eo2krrx
+210222, 2024-08-07 10:43:49, 2024-08-07 10:20:13, phishing, 2c7ca6671983f22e584b6dca0b6a4066, https://www.dropbox.com/scl/fi/xm9xx9q3hv309r6o7h4hv/BT-VOICE-MESSAGE.paper?rlkey=n6aof3v8zqb7pxqz62yyf2dux
+210221, 2024-08-07 10:24:08, 2024-08-07 10:24:08, malware, afd6b8120eba453eaf1b1a38acffab03, http://95.137.234.95:46687/Mozi.m
+210220, 2024-08-07 10:23:48, 2024-08-07 10:23:48, malware, c22e734a4e2f46fe93b3e7ced8dd6015, http://61.53.220.114:35638/i
+210219, 2024-08-07 10:23:46, 2024-08-07 10:23:46, malware, 4a9a8c35fad14ec78b99cd771426d1c0, http://61.53.220.114:35638/bin.sh
+210218, 2024-08-07 10:23:44, 2024-08-07 10:23:44, malware, 9573e91c36ab470590938320d4278434, http://61.52.76.168:42894/bin.sh
+210217, 2024-08-07 10:23:14, 2024-08-07 10:23:14, malware, 0b95be1ef5d04efe8dbe80078ad5b527, http://61.3.142.248:43557/bin.sh
+210216, 2024-08-07 10:22:32, 2024-08-07 10:22:32, malware, 819fd1856a1c47719f4a32eabe4e8ab4, http://60.216.237.252:59131/Mozi.m
+210215, 2024-08-07 10:21:49, 2024-08-07 10:21:49, malware, 67254aa678db4309911f53f39114b43d, http://59.93.189.186:35128/i
+210214, 2024-08-07 10:21:46, 2024-08-07 10:21:46, malware, 5d19f2199dfc41b19a3ce29ca16a6677, http://59.93.189.186:35128/bin.sh
+210213, 2024-08-07 10:20:56, 2024-08-07 10:20:56, malware, aaa77908694143d9b14c2e5833561e58, http://59.93.17.170:44216/bin.sh
+210212, 2024-08-07 10:20:54, 2024-08-07 10:20:54, malware, df3c4e5558fc45ea8b0e4faf551b5ae4, http://59.91.163.177:35099/bin.sh
+210211, 2024-08-07 10:20:18, 2024-08-07 10:20:18, malware, c77329674e3c45d4984b7ef3dde69f6f, http://59.89.204.215:49972/
+210210, 2024-08-07 10:16:06, 2024-08-07 10:16:06, phishing, 96c7c0a7d63198872201c2b935b1b93b, https://bmiffiml.weeblysite.com/
+210209, 2024-08-07 10:05:19, 2024-08-07 10:05:19, phishing, b1d7ac09c93f4679ff286e552bb55ef9, https://c3650.cc/
+210208, 2024-08-07 10:03:22, 2024-08-07 10:03:22, phishing, 245f396f32741f902e658dcb8ac51a23, https://ecutcore.nowddns.com/
+210207, 2024-08-07 10:02:13, 2024-08-07 10:02:13, phishing, c0ddc590e001e589052511b764d61c73, https://telesexgroup.pages.dev/link-1
 210206, 2024-08-07 09:34:47, 2024-08-07 09:34:47, malware, 7fda7fb788de42a692a127bdf5651ab0, http://59.182.75.121:40628/Mozi.m
 210205, 2024-08-07 09:34:45, 2024-08-07 09:34:45, malware, 3484ce82f7644ef8a4e07078d0e2c899, http://59.182.106.193:47211/Mozi.m
 210204, 2024-08-07 09:34:27, 2024-08-07 09:34:27, malware, 2a2c80348baf46a09ffcc6eb0ac34626, http://59.180.173.28:49449/Mozi.m
@@ -491,21 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 209727, 2024-08-06 22:10:57, 2024-08-06 22:10:57, phishing, ede4154cdd3155bfabb7f4cf2edb8027, https://rawthot.github.io/facebook-clone
 209726, 2024-08-06 22:10:55, 2024-08-06 22:10:55, phishing, d88bf698fd3e8687e3260a6807c82773, https://pub-ff5bacf94a4d474b9c7cb1c0ba1c5e8f.r2.dev/script.html?email=3mail@b.c==
 209725, 2024-08-06 22:10:52, 2024-08-06 22:10:52, phishing, af5420d8d1fdacf0d8967af8175e2833, https://pub-adefabd73f2c47c6a402823a22bf9e9b.r2.dev/utility_base.html
-209724, 2024-08-06 22:10:49, 2024-08-06 22:10:49, phishing, 13f9109df71fd5c21226949deca3e012, https://pub-8cc4fdf972304092b2aa97a68f50cd88.r2.dev/utility_base.html
-209723, 2024-08-06 22:10:49, 2024-08-06 22:10:49, phishing, ec922972e01c8c6fc3ef900943ee73a3, https://pub-8a9cc35a5303489d8d9b78fd89ba0b6f.r2.dev/Alldomain-index.html
-209722, 2024-08-06 22:10:45, 2024-08-06 22:10:45, phishing, 49577a5b1b0ed4b4850e9b67da3eefe5, https://pub-853a8c6d224746258050ceb1dd4dc8c3.r2.dev/response_auth.html
-209721, 2024-08-06 22:10:40, 2024-08-06 22:10:40, phishing, ae189985f5291bb4aca362564074bd01, https://pub-3a1ae8a2ee8f4628a8064fd57a07ac96.r2.dev/secure_response.html
-209720, 2024-08-06 22:10:36, 2024-08-06 22:10:36, phishing, 10cbfabf381bf84dccd375fb48e15e4f, https://pub-3165a2ed17b042c7962f7434e6e1f2bb.r2.dev/utility_base.html?folder=aCWpV1fSyg1F5PofijWt&ledge
-209719, 2024-08-06 22:10:36, 2024-08-06 22:10:36, phishing, c7436879df876b04de3a2e2c187d1aa9, https://pub-26c27b235d494adca5cb267c04ef254a.r2.dev/secure_response.html
-209718, 2024-08-06 22:09:59, 2024-08-06 22:09:59, phishing, 3f9a0ec49a1559db04902426bf101322, https://member.freefiregarena.id.vn/Ty956HAhnI3W5kg1zB0PVVboMJkwTj264xYtVMbxBztTqFTqVFhg6HI35lUXLpEmMHnezC7pfiKrZrhLaHBe7gEIVV4ZXXggEh4O
-209717, 2024-08-06 22:06:28, 2024-08-06 22:06:28, phishing, b6bc04c7c59e17cb02e731e07ed96005, http://pub-4d560104a89740f899e90e13245f1971.r2.dev/alt_type.html
-209716, 2024-08-06 22:04:26, 2024-08-06 22:04:26, phishing, 64604a6e9dc116fabf49f094508c12ce, https://pub-9376264a4a16408198c4379488c1c55e.r2.dev/plum.html
-209715, 2024-08-06 22:03:11, 2024-08-06 22:03:11, phishing, 11f1cd9b9e14efda04eb856b3b6d4824, https://telegera.xyz/
-209714, 2024-08-06 22:00:16, 2024-08-06 22:00:16, phishing, 5f8fe2d7e21bcef839dd293ff49e0154, http://3.skysky.workers.dev
-209713, 2024-08-06 21:34:12, 2024-08-06 21:34:12, phishing, 476c33eac6e225da10c0ca65e4b7214c, http://rexdapmode.pages.dev
-209712, 2024-08-06 20:36:19, 2024-08-06 20:28:12, phishing, 60874f86b3bdb51863322af4e888ced6, https://ssh2.zdlux.pe/friday.php
-209711, 2024-08-06 20:36:03, 2024-08-06 20:36:03, phishing, ca4f1029f9d64fc7c783504267e7f57c, https://btnewmailser.weebly.com
-209710, 2024-08-06 20:35:48, 2024-08-06 19:24:16, phishing, 3eaffb3b53613c9eaa155a59b44a663d, https://www.dropbox.com/scl/fi/rmdl6bcz8qnwqay9o4rlc/BT-MAILBOX-NOTIFICATION.papert?rlkey=qc30msdu7kiou3vm371z0els1
-209709, 2024-08-06 20:32:15, 2024-08-06 20:32:15, phishing, 2bb536893c1a2aade122648861d6f782, http://livemigrazusouvtwo.pages.dev
-209708, 2024-08-06 20:22:15, 2024-08-06 20:22:15, phishing, 733522eb3bc0aace921d50596ae4d3a9, http://dappwebfix.pages.dev
-209707, 2024-08-06 20:06:18, 2024-08-06 20:06:18, phishing, 5be075f6616552c49866faf72d08c1b6, http://cloudreffba.my.id
