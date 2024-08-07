@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-07 20:00:01 UTC
+# UPDATE: 2024-08-07 21:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+210629, 2024-08-07 20:16:35, 2024-08-07 20:16:35, phishing, c64d1dbdb1ed514086be72bb39a794c6, http://authenticatorclick.pages.dev
+210628, 2024-08-07 20:03:37, 2024-08-07 19:12:11, phishing, f6fe03c64bb469d7f6d4ef4134a028fd, https://k96ufk66ai.beefreedesign.com/Nksx
 210627, 2024-08-07 19:28:37, 2024-08-07 19:28:37, malware, dc8335d6ddd34c638b93202f1f48548a, http://61.53.38.236:44667/Mozi.m
 210626, 2024-08-07 19:28:25, 2024-08-07 19:28:25, malware, bad68a85d65b481c9f44935f4af38037, http://61.3.22.135:43814/Mozi.m
 210625, 2024-08-07 19:28:23, 2024-08-07 19:28:23, malware, cd7e793dba644e8a850211f23786a811, http://61.3.20.192:41483/Mozi.m
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 210132, 2024-08-07 09:20:12, 2024-08-07 09:20:12, malware, 0e2e2dfb00fe4498a985bcdf732c4e88, http://110.49.167.189:41788/i
 210131, 2024-08-07 09:20:06, 2024-08-07 09:20:06, malware, 885aff36f8e1494b8aacbe83977e3c5f, http://106.58.119.88:35544/mozi.m
 210130, 2024-08-07 09:19:49, 2024-08-07 08:40:04, phishing, ec39181bdf08eaa553fea99974e77ea4, https://ipfs.io/ipfs/QmZ9e48TsY1RJ12MXRxFBKHuQ1L1Bw1CCPucJFVkWaAbr2/TTRGOPSISGGSJS-.html#x
-210129, 2024-08-07 09:18:24, 2024-08-07 08:56:12, phishing, c35bb69e36b7c4cf5fe68fea2cbed038, https://postch-delivery24.space/220707105
-210128, 2024-08-07 09:08:15, 2024-08-07 09:08:15, phishing, 4cd69f548d9690d68df34580d8fa8bd2, https://168.234.109.208.host.secureserver.net/Kundeservice077121/

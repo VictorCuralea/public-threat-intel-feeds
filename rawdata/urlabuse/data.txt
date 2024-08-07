@@ -6,8 +6,10 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-07 20:00:01 UTC
+# UPDATE: 2024-08-07 21:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 210629, "url": "http://authenticatorclick.pages.dev", "discovery": "2024-08-07 20:16:35", "added": "2024-08-07 20:16:35", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "c64d1dbdb1ed514086be72bb39a794c6"}
+{"id": 210628, "url": "https://k96ufk66ai.beefreedesign.com/Nksx", "discovery": "2024-08-07 19:12:11", "added": "2024-08-07 20:03:37", "target": "BT", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "f6fe03c64bb469d7f6d4ef4134a028fd"}
 {"id": 210627, "url": "http://61.53.38.236:44667/Mozi.m", "discovery": "2024-08-07 19:28:37", "added": "2024-08-07 19:28:37", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "dc8335d6ddd34c638b93202f1f48548a"}
 {"id": 210626, "url": "http://61.3.22.135:43814/Mozi.m", "discovery": "2024-08-07 19:28:25", "added": "2024-08-07 19:28:25", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "bad68a85d65b481c9f44935f4af38037"}
 {"id": 210625, "url": "http://61.3.20.192:41483/Mozi.m", "discovery": "2024-08-07 19:28:23", "added": "2024-08-07 19:28:23", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "cd7e793dba644e8a850211f23786a811"}
@@ -506,5 +508,3 @@
 {"id": 210132, "url": "http://110.49.167.189:41788/i", "discovery": "2024-08-07 09:20:12", "added": "2024-08-07 09:20:12", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "0e2e2dfb00fe4498a985bcdf732c4e88"}
 {"id": 210131, "url": "http://106.58.119.88:35544/mozi.m", "discovery": "2024-08-07 09:20:06", "added": "2024-08-07 09:20:06", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "885aff36f8e1494b8aacbe83977e3c5f"}
 {"id": 210130, "url": "https://ipfs.io/ipfs/QmZ9e48TsY1RJ12MXRxFBKHuQ1L1Bw1CCPucJFVkWaAbr2/TTRGOPSISGGSJS-.html#x", "discovery": "2024-08-07 08:40:04", "added": "2024-08-07 09:19:49", "target": "Microsoft", "reporter": "anonymous", "AbuseType": "phishing", "UUID": "ec39181bdf08eaa553fea99974e77ea4"}
-{"id": 210129, "url": "https://postch-delivery24.space/220707105", "discovery": "2024-08-07 08:56:12", "added": "2024-08-07 09:18:24", "target": "SwissPost", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "c35bb69e36b7c4cf5fe68fea2cbed038"}
-{"id": 210128, "url": "https://168.234.109.208.host.secureserver.net/Kundeservice077121/", "discovery": "2024-08-07 09:08:15", "added": "2024-08-07 09:08:15", "target": "Netflix", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "4cd69f548d9690d68df34580d8fa8bd2"}
