@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-08 20:00:01 UTC
+# UPDATE: 2024-08-08 21:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+211489, 2024-08-08 20:24:13, 2024-08-08 20:24:13, phishing, b2f70e851b5f6e166057d9f76411c2ea, https://zwi.aay.mybluehost.me/chpass/CHFINAL/0b86e/
+211488, 2024-08-08 20:20:14, 2024-08-08 20:20:14, phishing, 76c0f69cfd5cb7b583bf3241b51903fb, http://atr-bunm.ferymahbebas.com
+211487, 2024-08-08 20:18:15, 2024-08-08 20:18:15, phishing, 139c2c534c6c16789bc374816f4f6697, http://rb-platinum.manegerr.com
 211486, 2024-08-08 19:26:15, 2024-08-08 19:26:15, malware, 015913de519d41fdbb046862f359de52, http://59.96.165.14:52414/Mozi.m
 211485, 2024-08-08 19:25:52, 2024-08-08 19:25:52, malware, 286b3b2d2a6145ea802a8a5af7a79609, http://59.93.180.198:56616/Mozi.m
 211484, 2024-08-08 19:25:30, 2024-08-08 19:25:30, malware, ad5a5e2328c94a72ae4ed119235b9c35, http://59.89.66.69:56615/bin.sh
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 210992, 2024-08-08 05:42:12, 2024-08-08 05:42:12, phishing, 91fe464a9f5fed381d5f7638c1bf1ca7, http://ameli-vitale-maladie.com
 210991, 2024-08-08 05:28:13, 2024-08-08 05:28:13, malware, e2a1106ba30e4731ab9831b95d2e236d, http://61.53.89.59:43286/Mozi.a
 210990, 2024-08-08 05:27:58, 2024-08-08 05:27:58, malware, 98e96f3754644e1a8af3ddb17117fdbf, http://59.95.135.93:50214/i
-210989, 2024-08-08 05:27:55, 2024-08-08 05:27:55, malware, 3a14003e485940a38e1b32a787a3dc1e, http://59.95.135.93:50214/bin.sh
-210988, 2024-08-08 05:27:53, 2024-08-08 05:27:53, malware, 37b5700022ba4fa49fe4f7704edcfc20, http://59.93.183.71:48227/i
-210987, 2024-08-08 05:27:21, 2024-08-08 05:27:21, malware, 38a164af90a840beb15878904a79cb89, http://59.91.88.66:45762/bin.sh
