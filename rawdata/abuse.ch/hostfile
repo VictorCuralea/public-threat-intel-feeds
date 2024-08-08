@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-08-07 15:54:54 UTC                        #
+# Last updated: 2024-08-08 11:03:09 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	irprofiles.com
 127.0.0.1	alphawatchrmf.com
 127.0.0.1	kyniemsro.com
 127.0.0.1	angela-kindly.with.playit.plus
@@ -6948,4 +6949,4 @@
 127.0.0.1	lucid-albattani.104-168-102-175.plesk.page
 127.0.0.1	bold-clarke.104-168-102-175.plesk.page
 127.0.0.1	www.priceless-bose.104-168-102-175.plesk.page
-# Number of entries: 6942
+# Number of entries: 6943
