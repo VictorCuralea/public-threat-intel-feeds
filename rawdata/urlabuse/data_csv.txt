@@ -6,9 +6,20 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-09 00:00:02 UTC
+# UPDATE: 2024-08-09 01:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+211590, 2024-08-09 00:39:40, 2024-08-09 00:39:40, phishing, 06c593c1b9d9d6389c9fcace374ff6ad, https://omni-va.lat/post/
+211589, 2024-08-09 00:39:28, 2024-08-09 00:39:28, phishing, 8d7f0ada6f07e65d9c140fbcb8fc2354, https://omnivapost.com/ee/
+211588, 2024-08-09 00:38:07, 2024-08-09 00:38:07, phishing, 8e938e0f7fa458be80d3585898497eac, https://o1x.4734356.xyz/4c2furj7/9SnVxn/7
+211587, 2024-08-09 00:37:57, 2024-08-09 00:37:57, phishing, c70680668522fc8f0a3af5cf6ba30303, https://ollx.8734356.xyz/p0zz0w18/quxa4U/8
+211586, 2024-08-09 00:37:49, 2024-08-09 00:37:49, phishing, 69f7c2e54b4c9aa628467092009d5d1d, https://olx.sdesdel.shop/payment/8028bfe08e76/millennium
+211585, 2024-08-09 00:37:39, 2024-08-09 00:37:39, phishing, cfb55f26fa1559e40a8dda9b0ee0148c, https://olx.ynikow.pics/payment/8028bfe08e76/millennium
+211584, 2024-08-09 00:37:27, 2024-08-09 00:37:27, phishing, 3be1b3c77d10fe27b2ca6085d27bf8ad, https://olx.hlidaeno.pics/payment/8028bfe08e76/millennium
+211583, 2024-08-09 00:37:19, 2024-08-09 00:37:19, phishing, 0c43a6acf2512aac094a31a8b0dd4d3e, https://olx.devirota.pics/payment/8028bfe08e76/millennium
+211582, 2024-08-09 00:37:09, 2024-08-09 00:37:09, phishing, 9deb92aa3745fba7db01ac5971deeafc, https://olx.sersikow.lol/payment/8028bfe08e76/millennium
+211581, 2024-08-09 00:36:59, 2024-08-09 00:36:59, phishing, f29dfae296a5fa6da8a2b5d36d162c94, https://olx.maikoron.lol/payment/8028bfe08e76/millennium
+211580, 2024-08-09 00:26:27, 2024-08-09 00:20:14, phishing, 7056de5a1c0a35bb2b51544f5172a8cb, https://www.dropbox.com/scl/fi/q0wcn8g37ipdlponfbj7p/BT-INTERNET-COMMUNICATIONS.papert?dl=0
 211579, 2024-08-08 23:47:42, 2024-08-08 23:26:10, phishing, 928b6a83782aa977eaf92a4815a30f7c, https://ubs-ch-serve.icu/de?t=OvQNA
 211578, 2024-08-08 23:44:13, 2024-08-08 23:44:13, phishing, e4d6f33ffea87409b2da2b75783dcd71, https://suisse-sbb.com/IDX3/eov.php?id=e2ef524fbf3d9fe611d5a8e90fefdc9c
 211577, 2024-08-08 23:23:20, 2024-08-08 23:23:20, malware, 52867d3e4d0040de9369bcd439087f9a, http://61.3.138.135:40820/Mozi.m
@@ -498,14 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 211093, 2024-08-08 09:25:36, 2024-08-08 09:25:36, malware, 7b391baa7ad641febe33dc1d89e91d64, http://182.113.24.101:36489/bin.sh
 211092, 2024-08-08 09:25:34, 2024-08-08 09:25:34, malware, 4f12519b03774fb9b6d2273b4875b5cf, http://176.122.255.155:49520/i
 211091, 2024-08-08 09:25:34, 2024-08-08 09:25:34, malware, 7cff90ab46194b478ffccd8765dd654e, http://176.122.255.155:49520/bin.sh
-211090, 2024-08-08 09:25:33, 2024-08-08 09:25:33, malware, a636af4379314ae09c40adf95e19a36c, http://125.46.202.190:34139/i
-211089, 2024-08-08 09:25:31, 2024-08-08 09:25:31, malware, db6378d2bcd3481e97ffc6b55d9e225c, http://125.46.202.190:34139/bin.sh
-211088, 2024-08-08 09:25:30, 2024-08-08 09:25:30, malware, 1fc79f29d1d440afa26df6a81918adc4, http://125.44.21.99:51974/i
-211087, 2024-08-08 09:25:28, 2024-08-08 09:25:28, malware, 5a28e322bf77489b824b845634c09e89, http://125.44.21.99:51974/bin.sh
-211086, 2024-08-08 09:25:27, 2024-08-08 09:25:27, malware, 9b78692ee7fb4d1187ce101941dea662, http://125.41.5.16:47755/bin.sh
-211085, 2024-08-08 09:25:26, 2024-08-08 09:25:26, malware, a879113983d347bc89b1d71fa77741b2, http://125.41.136.48:59272/i
-211084, 2024-08-08 09:25:23, 2024-08-08 09:25:23, malware, 0fa9b814a62a408eaf0998a1ce121a77, http://125.40.19.142:53092/i
-211083, 2024-08-08 09:25:22, 2024-08-08 09:25:22, malware, f92ed340be9646138b9cff320d35d627, http://123.14.89.179:48031/i
-211082, 2024-08-08 09:25:20, 2024-08-08 09:25:20, malware, 51134e30bbf4443992bf3b6fbba8b66e, http://123.129.128.202:56503/Mozi.m
-211081, 2024-08-08 09:25:19, 2024-08-08 09:25:19, malware, 9c2818705aa447db92dbc13aa5262697, http://120.61.21.124:53175/i
-211080, 2024-08-08 09:24:57, 2024-08-08 09:24:57, malware, 41fab190f86141f0a7cbca7097eaa48a, http://119.180.34.166:58233/Mozi.m
