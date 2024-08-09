@@ -6,9 +6,14 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-09 08:00:01 UTC
+# UPDATE: 2024-08-09 09:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+211722, 2024-08-09 08:59:26, 2024-08-09 08:46:23, phishing, c96d0ac311440b603379aa3d42575739, https://btnetinc.square.site/
+211721, 2024-08-09 08:59:05, 2024-08-09 08:46:17, phishing, ae538490cd4e05b62db3750d2d41c979, https://bt-103750-103033.weeblysite.com/
+211720, 2024-08-09 08:58:55, 2024-08-09 08:46:15, phishing, 854866e84a934330f9a63c66e004746f, https://www.dropbox.com/scl/fi/jltoprwiroyyqlqlikasp/BT-NEW-VOICEMAIL-RECORD-..papert?rlkey=d1ozb7cf74r588ys1yyvf92nu
+211719, 2024-08-09 08:58:23, 2024-08-09 08:44:17, phishing, 8faf62c6f687ee6314c697c615801037, https://outlook-100008.weeblysite.com/
+211718, 2024-08-09 08:58:03, 2024-08-09 08:44:16, phishing, 5d140af321a7faa3f8bd99548323a61e, https://www.dropbox.com/scl/fi/hn8jf6ea8jk7a8s2dv7md/Btconnect.com-email-security.papert?rlkey=l8yn9up10vt6xdxc2dx27jlig
 211717, 2024-08-09 07:47:56, 2024-08-09 07:34:12, phishing, fba0658b78f4dcab108e86490edec5d7, https://lieferung-spezial247.com/login/dpdch/
 211716, 2024-08-09 07:46:56, 2024-08-09 07:30:24, phishing, c4eda3af658c8c248980d9727c5a5447, https://indigo895546.studio.site/
 211715, 2024-08-09 07:46:13, 2024-08-09 07:30:12, phishing, e61e170c927b02c507a4d11c93ed5306, https://pub-844646989c44435f804a1dd4de4e8927.r2.dev/index.html
@@ -504,8 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 211223, 2024-08-08 11:29:42, 2024-08-08 11:29:42, malware, 215bc850d8a0442e8df91c381c401b3a, http://42.232.214.156:48129/bin.sh
 211222, 2024-08-08 11:29:41, 2024-08-08 11:29:41, malware, 40cd14aa6b7b42b983cd575b79815771, http://42.230.184.135:40750/Mozi.m
 211221, 2024-08-08 11:29:39, 2024-08-08 11:29:39, malware, 92b37529b6de42949639ff2f9185a22f, http://42.229.221.180:37804/i
-211220, 2024-08-08 11:29:37, 2024-08-08 11:29:37, malware, 288880d34ed54f578c197d90c001d665, http://42.229.166.37:56317/i
-211219, 2024-08-08 11:29:36, 2024-08-08 11:29:36, malware, 8a99724262984e78bcd6095ab2ebe482, http://42.225.240.240:60916/i
-211218, 2024-08-08 11:29:34, 2024-08-08 11:29:34, malware, 7487941b199a4a2dbf54c1195853fe3c, http://39.91.30.232:39199/Mozi.m
-211217, 2024-08-08 11:29:33, 2024-08-08 11:29:33, malware, 5e4a94797f2b4dcdb21c09c1cae16575, http://39.77.27.114:58301/i
-211216, 2024-08-08 11:29:31, 2024-08-08 11:29:31, malware, 780dbfed6ae442759d0217339e35621a, http://39.77.27.114:58301/bin.sh
