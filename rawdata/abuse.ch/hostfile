@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-08-09 06:41:30 UTC                        #
+# Last updated: 2024-08-09 14:36:02 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	api.garageserviceoperation.com
 127.0.0.1	drvenomjh.duckdns.org
 127.0.0.1	vxsrwrm.duckdns.org
 127.0.0.1	ncmomenthv.duckdns.org
@@ -6915,4 +6916,4 @@
 127.0.0.1	cdn-lnk-075.epsonupdate.uk
 127.0.0.1	aws-apps.net
 127.0.0.1	vpn.nsfocus.cn.com
-# Number of entries: 6909
+# Number of entries: 6910
