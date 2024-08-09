@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-09 12:00:01 UTC
+# UPDATE: 2024-08-09 13:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+211777, 2024-08-09 12:17:03, 2024-08-09 12:02:15, phishing, 7b0dc124ec1f8c2459f015a2d3d213c5, https://signin-bt.studio.site/
 211776, 2024-08-09 11:22:29, 2024-08-09 11:22:29, malware, 9b269fad22224b899e773550a7118d0c, https://bazarganadero.com/file.exe
 211775, 2024-08-09 11:22:19, 2024-08-09 11:22:19, malware, d7bef502d6f945f3b21b99a040c123cd, http://95.137.141.132:33277/Mozi.m
 211774, 2024-08-09 11:22:18, 2024-08-09 11:22:18, malware, d8a7cef5e47b46cda9512bd1eb6ab37f, http://61.54.40.174:43742/Mozi.m
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 211278, 2024-08-08 13:22:28, 2024-08-08 13:22:28, malware, 7cc23c9623814a96a7b30e4fc31534e0, http://117.235.253.53:40450/bin.sh
 211277, 2024-08-08 13:22:05, 2024-08-08 13:22:05, malware, a797911fdd3043669fbe0ad42b7d8314, http://117.217.62.161:44222/i
 211276, 2024-08-08 13:22:00, 2024-08-08 13:22:00, malware, f6dfd36bdb484b64a85b09b80974b9a8, http://117.215.220.227:47665/Mozi.m
-211275, 2024-08-08 13:21:49, 2024-08-08 13:21:49, malware, d087d58862ca48f29e30cb1f0246e711, http://117.213.28.144:48580/i
