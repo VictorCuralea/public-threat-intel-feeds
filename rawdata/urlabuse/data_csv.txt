@@ -6,9 +6,14 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-09 22:00:02 UTC
+# UPDATE: 2024-08-09 23:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+212020, 2024-08-09 22:32:10, 2024-08-09 22:32:10, phishing, 6a2b4ad1648dd85cf22f1ec6a291685a, http://usdohxjosmxhqaruidozhusjki3.pages.dev
+212019, 2024-08-09 22:04:17, 2024-08-09 22:04:17, phishing, d9cdf56058bfa2f56b228dc4c200f126, http://vgb.e34.mytemp.website
+212018, 2024-08-09 22:04:14, 2024-08-09 22:04:14, phishing, 364cd9f00ffdb1997ea2dc080d82aba8, http://web3linksync.pages.dev
+212017, 2024-08-09 22:04:07, 2024-08-09 22:04:07, phishing, 441060bc56fadeba7eb95c45c5010d3b, http://zniiv.pages.dev
+212016, 2024-08-09 22:03:53, 2024-08-09 22:03:53, phishing, 6e694700c97d1129736e9ccbcc4a2b1d, https://pub-7f16473a6a0c4196aa4e05271d2e99eb.r2.dev/MicrosoftOutlook3.html
 212015, 2024-08-09 21:40:14, 2024-08-09 21:40:14, phishing, 0d5b7dbbc53b3d15b324c84d89abd75c, http://alphasteemloom.pages.dev
 212014, 2024-08-09 21:28:44, 2024-08-09 21:28:44, malware, b3059cdc49ea40fb8133aee2f9ad07a2, https://hopy.pinefootsteps.com/ssl/crt.exe
 212013, 2024-08-09 21:28:05, 2024-08-09 21:28:05, malware, 1153d5c8794b4133b1a51f929eea97ee, http://88.250.50.11:45802/Mozi.m
@@ -504,8 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 211521, 2024-08-08 21:24:13, 2024-08-08 21:24:13, malware, ccc36ec1df2d416d8239f4bdeeaa6892, http://42.239.238.221:60288/i
 211520, 2024-08-08 21:24:11, 2024-08-08 21:24:11, malware, 4c09f4c34e11475bb19de735b298c43a, http://42.239.230.77:46873/i
 211519, 2024-08-08 21:24:10, 2024-08-08 21:24:10, malware, ec54de1689044c7db4532f96415ab407, http://42.234.206.84:37678/Mozi.a
-211518, 2024-08-08 21:24:08, 2024-08-08 21:24:08, malware, 0ea234fa779c4479a49b3905bbe415fe, http://42.230.60.123:41900/bin.sh
-211517, 2024-08-08 21:23:57, 2024-08-08 21:23:57, malware, e73f432d146048ebacf6256bbe9a84ac, http://42.225.12.212:58760/bin.sh
-211516, 2024-08-08 21:23:55, 2024-08-08 21:23:55, malware, 706c60feee9b43f49db35a08cabefe61, http://219.155.94.75:48587/Mozi.m
-211515, 2024-08-08 21:23:53, 2024-08-08 21:23:53, malware, 0ffc5bf038604578aa552a4e0971cba6, http://219.155.233.240:42754/i
-211514, 2024-08-08 21:23:41, 2024-08-08 21:23:41, malware, d8fb680c47f74b2f9497cbef26e27890, http://182.121.20.231:51587/bin.sh
