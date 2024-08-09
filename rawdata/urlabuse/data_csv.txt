@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-09 18:00:01 UTC
+# UPDATE: 2024-08-09 19:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+211889, 2024-08-09 18:40:13, 2024-08-09 18:40:13, phishing, 297f48db50e3fcb5766d646301e6d404, http://officedocurnent5hared.gatevvay365.workers.dev
+211888, 2024-08-09 18:16:16, 2024-08-09 18:16:16, phishing, 0e686a5a428b31913ffd64ce8c4f3281, http://jiujiub8.com
 211887, 2024-08-09 17:46:13, 2024-08-09 17:46:13, phishing, 9d9166950a424060b5d5a9b3e18ee1a1, http://dashboardconnect.pages.dev
 211886, 2024-08-09 17:26:15, 2024-08-09 17:26:15, phishing, 389107cd3dcdad3628fc2afd27646a18, https://nhhjjj8977.weebly.com/
 211885, 2024-08-09 17:24:11, 2024-08-09 17:24:11, phishing, 476263cfa06364c4393d0e99f8091747, http://workers-playground-polished-snow-6bbe.hatcherbeth.workers.dev
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 211390, 2024-08-08 17:21:02, 2024-08-08 17:21:02, malware, 65aad37995774fe0bf268d634c727a7a, http://117.208.230.186:42103/Mozi.m
 211389, 2024-08-08 17:20:47, 2024-08-08 17:20:47, malware, 2e08ca25e7654015bbeabddc03e69f93, http://117.206.67.234:33857/i
 211388, 2024-08-08 17:20:34, 2024-08-08 17:20:34, malware, 785bcc09777d4ed78d810d9adcad7341, http://117.200.180.20:40788/Mozi.m
-211387, 2024-08-08 17:20:22, 2024-08-08 17:20:22, malware, 505dd901e5774d169272f64d100ff375, http://115.55.226.20:55255/bin.sh
-211386, 2024-08-08 17:20:20, 2024-08-08 17:20:20, malware, a75c3f7118bc40f288fc6557d8d3005a, http://115.55.104.41:47167/
