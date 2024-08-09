@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-09 02:00:02 UTC
+# UPDATE: 2024-08-09 03:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+211632, 2024-08-09 02:58:10, 2024-08-09 02:58:10, phishing, 5d9b4a9a45b13544faff0c0d455d4028, http://uzbpremos.life
+211631, 2024-08-09 02:46:12, 2024-08-09 02:46:12, phishing, 4da43234e02deff7e8967c0d50f854bc, http://bgc-ar4.pages.dev
+211630, 2024-08-09 02:32:10, 2024-08-09 02:32:10, phishing, 2409135e90f710a0b4818257a244afb5, http://adobe-acrbat.pages.dev
 211629, 2024-08-09 01:58:58, 2024-08-09 01:52:04, phishing, 4dd67181f447403abefd688e5fe313c5, https://email.hvviinc.com/owa/?account=x
 211628, 2024-08-09 01:58:46, 2024-08-09 01:27:29, phishing, 3bab7388faa8833679fe2704b6f44044, https://email.rncdermott.com/sharepoint/?account=x
 211627, 2024-08-09 01:22:21, 2024-08-09 01:22:21, malware, 1fe1fb0f5e3648b1a6746dad4550bc01, http://95.134.105.77:40333/
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 211134, 2024-08-08 09:29:15, 2024-08-08 09:29:15, malware, 0c113b3d08f147dfafeb09ee434319ab, http://61.53.73.69:54810/i
 211133, 2024-08-08 09:29:14, 2024-08-08 09:29:14, malware, 70b14b34b0384b1e86335a420cd63a36, http://61.53.73.69:54810/bin.sh
 211132, 2024-08-08 09:29:12, 2024-08-08 09:29:12, malware, d4e7819e8bcf47589c3afeb0789b2cad, http://61.52.158.127:53181/
-211131, 2024-08-08 09:29:11, 2024-08-08 09:29:11, malware, 506f7b4649e64464aeb0d81e9072201f, http://61.3.132.253:58963/bin.sh
-211130, 2024-08-08 09:28:54, 2024-08-08 09:28:54, malware, 68c7a06d69a74e2d9977a34bd0afea78, http://61.3.101.39:34598/i
-211129, 2024-08-08 09:28:52, 2024-08-08 09:28:52, malware, d059f20b360f466785e3678bf5ca3a6b, http://61.3.101.39:34598/bin.sh
