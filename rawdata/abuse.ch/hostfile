@@ -1,11 +1,19 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-08-08 13:11:57 UTC                        #
+# Last updated: 2024-08-09 06:41:30 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	drvenomjh.duckdns.org
+127.0.0.1	vxsrwrm.duckdns.org
+127.0.0.1	ncmomenthv.duckdns.org
+127.0.0.1	ghdsasync.duckdns.org
+127.0.0.1	anachyyyyy.duckdns.org
+127.0.0.1	xoowill56.duckdns.org
+127.0.0.1	sentry-cxso.onrender.com
+127.0.0.1	barelytherejewels.com
 127.0.0.1	majordatabases.lat
 127.0.0.1	irprofiles.com
 127.0.0.1	alphawatchrmf.com
@@ -6925,5 +6933,4 @@
 127.0.0.1	21.157.72.34.bc.googleusercontent.com
 127.0.0.1	rw1.dbgblack.com
 127.0.0.1	merckllc.top
-127.0.0.1	microbanafler.com
-# Number of entries: 6920
+# Number of entries: 6927
