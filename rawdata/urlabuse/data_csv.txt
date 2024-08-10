@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-10 00:00:01 UTC
+# UPDATE: 2024-08-10 01:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+212110, 2024-08-10 00:42:14, 2024-08-10 00:42:14, phishing, 089442da770e75cfec62ae2c3aeaf585, http://demande-renouvellement-assure.com
 212109, 2024-08-09 23:52:24, 2024-08-09 23:52:24, phishing, fb1447ab20c4255e4f6dc81031655aec, https://auc.bqv.mybluehost.me/website_90a8ee5d/wp-content/css/12//infospage.php
 212108, 2024-08-09 23:52:14, 2024-08-09 23:52:14, phishing, 1b11c111ea9e6e2730dbb3fbfc880faa, https://klfhalmmaa.blogspot.com
 212107, 2024-08-09 23:49:38, 2024-08-09 23:36:17, phishing, f60bba236be7d55a7f9370b64b3112e8, https://parg.co/lbCQ
@@ -311,7 +312,6 @@ id, date_added, date_discovery, type, UUID, url
 211810, 2024-08-09 15:20:08, 2024-08-09 15:20:08, malware, 90ed64eedddd4e1eb4c1340cfb864fd0, http://115.63.187.140:35160/i
 211809, 2024-08-09 15:20:06, 2024-08-09 15:20:06, malware, b00dcce57ca64badbedbe32c97dc527c, http://115.55.252.17:55209/Mozi.m
 211808, 2024-08-09 15:20:05, 2024-08-09 15:20:05, malware, 78955d97a76c4b8b987a3b6b66d8c71d, http://112.238.159.229:59669/i
-211807, 2024-08-09 15:06:52, 2024-08-09 15:06:52, phishing, db9937be85612e14a3efc3bc36908139, https://atawich.info/durante/
 211806, 2024-08-09 14:26:15, 2024-08-09 14:26:15, phishing, 2db840a66b5c8f6ba93ddc6e0e5f9a93, http://kidzbiz-net.pages.dev
 211805, 2024-08-09 14:20:13, 2024-08-09 14:20:13, phishing, 9ef933fa850ccfdbd50edca51f1135bc, http://sdfsd22.pages.dev
 211804, 2024-08-09 14:06:17, 2024-08-09 14:06:17, phishing, ecffeb18b37d5ee8dcf68327f86c2236, http://dc-monit-stadium.monistuor.com

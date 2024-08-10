@@ -6,8 +6,9 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-10 00:00:01 UTC
+# UPDATE: 2024-08-10 01:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 212110, "url": "http://demande-renouvellement-assure.com", "discovery": "2024-08-10 00:42:14", "added": "2024-08-10 00:42:14", "target": "FR-GOV", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "089442da770e75cfec62ae2c3aeaf585"}
 {"id": 212109, "url": "https://auc.bqv.mybluehost.me/website_90a8ee5d/wp-content/css/12//infospage.php", "discovery": "2024-08-09 23:52:24", "added": "2024-08-09 23:52:24", "target": "FR-GOV", "reporter": "urlabuse", "AbuseType": "phishing", "UUID": "fb1447ab20c4255e4f6dc81031655aec"}
 {"id": 212108, "url": "https://klfhalmmaa.blogspot.com", "discovery": "2024-08-09 23:52:14", "added": "2024-08-09 23:52:14", "target": "FR-GOV", "reporter": "urlabuse", "AbuseType": "phishing", "UUID": "1b11c111ea9e6e2730dbb3fbfc880faa"}
 {"id": 212107, "url": "https://parg.co/lbCQ", "discovery": "2024-08-09 23:36:17", "added": "2024-08-09 23:49:38", "target": "FR-GOV", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "f60bba236be7d55a7f9370b64b3112e8"}
@@ -310,7 +311,6 @@
 {"id": 211810, "url": "http://115.63.187.140:35160/i", "discovery": "2024-08-09 15:20:08", "added": "2024-08-09 15:20:08", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "90ed64eedddd4e1eb4c1340cfb864fd0"}
 {"id": 211809, "url": "http://115.55.252.17:55209/Mozi.m", "discovery": "2024-08-09 15:20:06", "added": "2024-08-09 15:20:06", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "b00dcce57ca64badbedbe32c97dc527c"}
 {"id": 211808, "url": "http://112.238.159.229:59669/i", "discovery": "2024-08-09 15:20:05", "added": "2024-08-09 15:20:05", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "78955d97a76c4b8b987a3b6b66d8c71d"}
-{"id": 211807, "url": "https://atawich.info/durante/", "discovery": "2024-08-09 15:06:52", "added": "2024-08-09 15:06:52", "target": "SFR", "reporter": "urlabuse", "AbuseType": "phishing", "UUID": "db9937be85612e14a3efc3bc36908139"}
 {"id": 211806, "url": "http://kidzbiz-net.pages.dev", "discovery": "2024-08-09 14:26:15", "added": "2024-08-09 14:26:15", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "2db840a66b5c8f6ba93ddc6e0e5f9a93"}
 {"id": 211805, "url": "http://sdfsd22.pages.dev", "discovery": "2024-08-09 14:20:13", "added": "2024-08-09 14:20:13", "target": "Amazon", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "9ef933fa850ccfdbd50edca51f1135bc"}
 {"id": 211804, "url": "http://dc-monit-stadium.monistuor.com", "discovery": "2024-08-09 14:06:17", "added": "2024-08-09 14:06:17", "target": "Facebook", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "ecffeb18b37d5ee8dcf68327f86c2236"}
