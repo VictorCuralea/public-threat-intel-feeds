@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-08-09 14:36:02 UTC                        #
+# Last updated: 2024-08-10 07:16:25 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	suerte.ninja
 127.0.0.1	api.garageserviceoperation.com
 127.0.0.1	drvenomjh.duckdns.org
 127.0.0.1	vxsrwrm.duckdns.org
@@ -6908,4 +6909,4 @@
 127.0.0.1	dns.sstr.com.br
 127.0.0.1	dns.pwd-reset.net
 127.0.0.1	cupdater.bbtecno.com
-# Number of entries: 6902
+# Number of entries: 6903
