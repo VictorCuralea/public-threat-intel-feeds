@@ -1,15 +1,20 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-08-10 15:16:05 UTC                        #
+# Last updated: 2024-08-10 16:53:00 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	mythic.pcfindercentral.com
+127.0.0.1	mythic.ddtdg.com
+127.0.0.1	tycaq.xyz
+127.0.0.1	srt.tycaq.xyz
+127.0.0.1	rmm.axs.sa
+127.0.0.1	aeroflightparts.com
 127.0.0.1	s7.canada.wiretun.com
 127.0.0.1	gho0kgklj.watermellon.site
 127.0.0.1	ip149.ip-51-178-195.eu
-127.0.0.1	vmi1795198.contaboserver.net
 127.0.0.1	vmi1946577.contaboserver.net
 127.0.0.1	eadzagba1.duckdns.org
 127.0.0.1	tenntysjuxmz.shop
@@ -6938,16 +6943,4 @@
 127.0.0.1	serenys.xyz
 127.0.0.1	junio2023.duckdns.org
 127.0.0.1	vibe-ptclnetpk.viewdns.net
-127.0.0.1	blogger.deenpel.com
-127.0.0.1	eco-academy.virtualidevs.com
-127.0.0.1	www.nanasuuakiaa.host
-127.0.0.1	www.x3qc.com
-127.0.0.1	ec2-54-175-203-218.compute-1.amazonaws.com
-127.0.0.1	staging.recruitis.josefbenjac.cz
-127.0.0.1	panel.dalkson.com
-127.0.0.1	ec2-34-244-129-215.eu-west-1.compute.amazonaws.com
-127.0.0.1	zqpvr01.sandcats.io
-127.0.0.1	ec2-54-199-117-47.ap-northeast-1.compute.amazonaws.com
-127.0.0.1	056hg568786.f4r5t5y8hh8.click
-127.0.0.1	v2202305171327228750.powersrv.de
-# Number of entries: 6944
+# Number of entries: 6937
