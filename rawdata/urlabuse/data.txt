@@ -6,8 +6,10 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-10 18:00:01 UTC
+# UPDATE: 2024-08-10 19:00:02 UTC
 ############### END COMMENTS ###############
+{"id": 212862, "url": "https://amsbeautyacademy.co.uk/wp-admin/SBBSWISS/index/", "discovery": "2024-08-10 18:16:14", "added": "2024-08-10 18:16:14", "target": "SwissPass", "reporter": "VERIFROMd", "AbuseType": "phishing", "UUID": "26b1b1729170589b78bda3fd916f4f0f"}
+{"id": 212861, "url": "https://resit.biz/portal/loading.php", "discovery": "2024-08-10 18:14:11", "added": "2024-08-10 18:14:11", "target": "SwissPass", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "1f4ac3ceeadf8d42f5d37d11493829a4"}
 {"id": 212860, "url": "http://elitit.pages.dev", "discovery": "2024-08-10 17:46:10", "added": "2024-08-10 17:46:10", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "c54847d56f5f40b13bbb27152e2ed66d"}
 {"id": 212859, "url": "http://95.135.156.155:40352/bin.sh", "discovery": "2024-08-10 17:30:57", "added": "2024-08-10 17:30:57", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "c4d1f0c4477543338f346fc432c32aa6"}
 {"id": 212858, "url": "http://61.53.88.130:58042/Mozi.m", "discovery": "2024-08-10 17:30:56", "added": "2024-08-10 17:30:56", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "fa0d1e5e3bd54882b6a843e4e6c12ff1"}
@@ -506,5 +508,3 @@
 {"id": 212365, "url": "http://api-cloud.gatevvay365.workers.dev/?sso_reload=true", "discovery": "2024-08-10 07:02:59", "added": "2024-08-10 07:02:59", "target": "Microsoft", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "f4796aac0fe830ac81e5035f6a1df4fc"}
 {"id": 212364, "url": "https://hts45.vip/", "discovery": "2024-08-10 07:02:55", "added": "2024-08-10 07:02:55", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "4364359f42e246c4181eb9e2f63b4177"}
 {"id": 212363, "url": "https://vidio-bokep-viral-indo.t3le-4pp.com/g/", "discovery": "2024-08-10 07:02:20", "added": "2024-08-10 07:02:20", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "542f7aca96f2fafde2c77f9eeb53dfa4"}
-{"id": 212362, "url": "http://official-dating-world.pages.dev/", "discovery": "2024-08-10 07:02:10", "added": "2024-08-10 07:02:10", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "099a5f00b02c60271456a210b4529e58"}
-{"id": 212361, "url": "http://whstapp-ws.com", "discovery": "2024-08-10 06:12:19", "added": "2024-08-10 06:12:19", "target": "Whatsapp", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "84968d83dfbb55196aa82667f1b04ccf"}
