@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-10 10:00:02 UTC
+# UPDATE: 2024-08-10 11:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+212508, 2024-08-10 10:36:15, 2024-08-10 10:36:15, phishing, 8e3b3c1cc9f7de72fed65033aad3c487, http://tgo.pages.dev
+212507, 2024-08-10 10:05:46, 2024-08-10 10:05:46, phishing, 1b3427bfb600bb7a555c3757b964e5b6, http://365990.com/index.do
+212506, 2024-08-10 10:03:28, 2024-08-10 10:03:28, phishing, 8a1d5c1ed0aa62cb7fe21f18ff269a49, https://berita.vral.my.id/
 212505, 2024-08-10 09:32:12, 2024-08-10 09:32:12, phishing, 4cc6d9f5c2cf1be9a8ef40dda03b8192, http://securemyinstagram.pages.dev
 212504, 2024-08-10 09:30:10, 2024-08-10 09:30:10, malware, caafd59c6fc647e3bd41b22339ad1c36, http://61.53.220.154:43188/i
 212503, 2024-08-10 09:30:08, 2024-08-10 09:30:08, malware, 870266f9f98748fc9a000bbcb47af629, http://61.53.220.154:43188/bin.sh
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 212011, 2024-08-09 21:28:00, 2024-08-09 21:28:00, malware, 3fd11675a88d4de2bfb2358768a9d0ab, http://61.53.203.104:34663/i
 212010, 2024-08-09 21:27:59, 2024-08-09 21:27:59, malware, 6d1ec412d42941b2a84b58e6652f7ae5, http://61.53.151.246:59333/i
 212009, 2024-08-09 21:27:47, 2024-08-09 21:27:47, malware, 1f1341a4e1714016baacedc2197da4be, http://61.3.136.132:41338/i
-212008, 2024-08-09 21:27:46, 2024-08-09 21:27:46, malware, 4b96b2970ab644b3af5db53efa466725, http://61.2.28.23:58632/i
-212007, 2024-08-09 21:27:34, 2024-08-09 21:27:34, malware, f0ccd04111064ddc8f67f560c0820b98, http://61.0.209.99:57648/i
-212006, 2024-08-09 21:27:05, 2024-08-09 21:27:05, malware, d19123b802584cc5b23a8f80a65ec6ef, http://59.95.91.129:40170/Mozi.m
