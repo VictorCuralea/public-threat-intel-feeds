@@ -6,8 +6,12 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-10 22:00:01 UTC
+# UPDATE: 2024-08-10 23:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 212987, "url": "http://applications-bd6.pages.dev", "discovery": "2024-08-10 22:22:11", "added": "2024-08-10 22:22:11", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "1d9940c1d0336797795881891d5e1fa0"}
+{"id": 212986, "url": "https://suissscomee-correo829192.codeanyapp.com/Sus/aa/d/sign.php", "discovery": "2024-08-10 22:06:15", "added": "2024-08-10 22:06:15", "target": "SwissPass", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "344d365fa3c9429e00bcf348e8c88a47"}
+{"id": 212985, "url": "https://finde-mich-hier.pages.dev/link-1", "discovery": "2024-08-10 22:02:24", "added": "2024-08-10 22:02:24", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "141e4c75cfe9b16d8f9fe4baf832e035"}
+{"id": 212984, "url": "https://alitel.lwcloud.workers.dev/dl/ios", "discovery": "2024-08-10 22:02:18", "added": "2024-08-10 22:02:18", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "a0810001bdfad940f673f1e3c075fc5a"}
 {"id": 212983, "url": "https://datech.info/", "discovery": "2024-08-10 21:42:15", "added": "2024-08-10 21:48:51", "target": "TWINT", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "d0baa89b0e866b65789e99d0fe1328c1"}
 {"id": 212982, "url": "https://mycsskontosuisse.sviluppo.host/ndex/app/auth/flow/mycss-login/ext/login.html", "discovery": "2024-08-10 21:16:14", "added": "2024-08-10 21:30:27", "target": "myCSS", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "4ff7a7e08a38d08c38c8382b4ea38e59"}
 {"id": 212981, "url": "http://61.53.85.137:48175/i", "discovery": "2024-08-10 21:26:36", "added": "2024-08-10 21:26:36", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "b9f5a79579df4821871d243b0724d7f6"}
@@ -504,7 +508,3 @@
 {"id": 212490, "url": "http://222.138.204.162:59614/Mozi.m", "discovery": "2024-08-10 09:27:29", "added": "2024-08-10 09:27:29", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "68b15a18eee749b2bfdad12dd39f5cdb"}
 {"id": 212489, "url": "http://222.137.198.139:40212/i", "discovery": "2024-08-10 09:27:28", "added": "2024-08-10 09:27:28", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "5fea99bc01d647dcab3573217a6a434c"}
 {"id": 212488, "url": "http://2.185.140.219:60610/bin.sh", "discovery": "2024-08-10 09:27:26", "added": "2024-08-10 09:27:26", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "9154a8cfd0e64f589cbd3d3abec2573b"}
-{"id": 212487, "url": "http://182.127.177.10:33649/", "discovery": "2024-08-10 09:27:18", "added": "2024-08-10 09:27:18", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "136d598b1d35465681d1938c6cea8b29"}
-{"id": 212486, "url": "http://182.126.196.2:42245/bin.sh", "discovery": "2024-08-10 09:27:16", "added": "2024-08-10 09:27:16", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "c254bc65efb649bb91fe6c009ecd3467"}
-{"id": 212485, "url": "http://182.121.173.79:41719/bin.sh", "discovery": "2024-08-10 09:27:14", "added": "2024-08-10 09:27:14", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "4d90167ec6a54d8d925018c60922e8af"}
-{"id": 212484, "url": "http://182.121.16.220:57938/bin.sh", "discovery": "2024-08-10 09:27:13", "added": "2024-08-10 09:27:13", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "11b3597195d94b56b74b675e3437fb5b"}

@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-10 22:00:01 UTC
+# UPDATE: 2024-08-10 23:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+212987, 2024-08-10 22:22:11, 2024-08-10 22:22:11, phishing, 1d9940c1d0336797795881891d5e1fa0, http://applications-bd6.pages.dev
+212986, 2024-08-10 22:06:15, 2024-08-10 22:06:15, phishing, 344d365fa3c9429e00bcf348e8c88a47, https://suissscomee-correo829192.codeanyapp.com/Sus/aa/d/sign.php
+212985, 2024-08-10 22:02:24, 2024-08-10 22:02:24, phishing, 141e4c75cfe9b16d8f9fe4baf832e035, https://finde-mich-hier.pages.dev/link-1
+212984, 2024-08-10 22:02:18, 2024-08-10 22:02:18, phishing, a0810001bdfad940f673f1e3c075fc5a, https://alitel.lwcloud.workers.dev/dl/ios
 212983, 2024-08-10 21:48:51, 2024-08-10 21:42:15, phishing, d0baa89b0e866b65789e99d0fe1328c1, https://datech.info/
 212982, 2024-08-10 21:30:27, 2024-08-10 21:16:14, phishing, 4ff7a7e08a38d08c38c8382b4ea38e59, https://mycsskontosuisse.sviluppo.host/ndex/app/auth/flow/mycss-login/ext/login.html
 212981, 2024-08-10 21:26:36, 2024-08-10 21:26:36, malware, b9f5a79579df4821871d243b0724d7f6, http://61.53.85.137:48175/i
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 212490, 2024-08-10 09:27:29, 2024-08-10 09:27:29, malware, 68b15a18eee749b2bfdad12dd39f5cdb, http://222.138.204.162:59614/Mozi.m
 212489, 2024-08-10 09:27:28, 2024-08-10 09:27:28, malware, 5fea99bc01d647dcab3573217a6a434c, http://222.137.198.139:40212/i
 212488, 2024-08-10 09:27:26, 2024-08-10 09:27:26, malware, 9154a8cfd0e64f589cbd3d3abec2573b, http://2.185.140.219:60610/bin.sh
-212487, 2024-08-10 09:27:18, 2024-08-10 09:27:18, malware, 136d598b1d35465681d1938c6cea8b29, http://182.127.177.10:33649/
-212486, 2024-08-10 09:27:16, 2024-08-10 09:27:16, malware, c254bc65efb649bb91fe6c009ecd3467, http://182.126.196.2:42245/bin.sh
-212485, 2024-08-10 09:27:14, 2024-08-10 09:27:14, malware, 4d90167ec6a54d8d925018c60922e8af, http://182.121.173.79:41719/bin.sh
-212484, 2024-08-10 09:27:13, 2024-08-10 09:27:13, malware, 11b3597195d94b56b74b675e3437fb5b, http://182.121.16.220:57938/bin.sh
