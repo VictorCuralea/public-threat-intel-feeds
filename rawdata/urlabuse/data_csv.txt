@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-10 08:00:02 UTC
+# UPDATE: 2024-08-10 09:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+212430, 2024-08-10 08:24:34, 2024-08-10 08:14:16, phishing, 7982614c41a7adf575c4aa476c2271cc, https://mydisney.membership-area-info.com/index.php
+212429, 2024-08-10 08:14:15, 2024-08-10 08:14:15, phishing, e5a843fd4d7621773ef86549e7eb52e7, https://www.v4vaultrun.com/
+212428, 2024-08-10 08:12:15, 2024-08-10 08:12:15, phishing, cd246f183120185490d44c90551736a2, http://v4vaultrun.com
 212427, 2024-08-10 07:48:13, 2024-08-10 07:48:13, phishing, 1627453776f6f0502899d6977b8460fa, http://office-mailcloud.gatevvay365.workers.dev
 212426, 2024-08-10 07:36:14, 2024-08-10 07:36:14, phishing, d4323e8713cf6327dfa8e5662e23f806, http://promptrevaccess.pages.dev
 212425, 2024-08-10 07:30:13, 2024-08-10 07:30:13, phishing, fb7aca8add3a44b242aa664859ea0481, http://whatssexxx.pages.dev
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 211933, 2024-08-09 21:21:01, 2024-08-09 21:21:01, malware, c00a7fbd6de048d39c782e5ea15fd289, http://115.48.138.201:39525/i
 211932, 2024-08-09 21:21:00, 2024-08-09 21:21:00, malware, e79a06cfc7ec41df896a5961f5e3d8fa, http://112.248.153.29:35017/Mozi.m
 211931, 2024-08-09 21:20:58, 2024-08-09 21:20:58, malware, 0ee5913b91f54ab2beba3eba74ed68e7, http://112.248.152.87:39350/i
-211930, 2024-08-09 21:20:56, 2024-08-09 21:20:56, malware, c4f1c41dff71426a9b6429239613fca3, http://112.248.152.87:39350/bin.sh
-211929, 2024-08-09 21:20:55, 2024-08-09 21:20:55, malware, 34789feb63d14411b53d2903a8088218, http://112.248.113.174:49099/i
-211928, 2024-08-09 21:20:53, 2024-08-09 21:20:53, malware, 85b5f2e9064c4fdea2cbaf0524a4b8c3, http://112.239.103.176:34204/bin.sh
