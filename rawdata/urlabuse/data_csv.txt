@@ -6,9 +6,14 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-10 14:00:02 UTC
+# UPDATE: 2024-08-10 15:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+212712, 2024-08-10 14:22:10, 2024-08-10 14:22:10, phishing, f077aa5ce48f4a750325220ce65f247e, http://fsghixjksytgxbvslwoiystwvhaywush3.pages.dev
+212711, 2024-08-10 14:18:15, 2024-08-10 14:18:15, phishing, 5ce97434557f71bd8497e45472f97a07, http://indxconneoran.duckdns.org
+212710, 2024-08-10 14:02:12, 2024-08-10 14:02:12, phishing, 4e1015ee276f09847c7be987b1112378, http://rojdingserijridhsjbalsisgser04.pages.dev
+212709, 2024-08-10 14:01:53, 2024-08-10 14:01:53, phishing, 700f0c885855d5ae89e7fe0cb64696d7, https://bt-internet-support-106103.weeblysite.com
+212708, 2024-08-10 14:01:22, 2024-08-10 12:58:13, phishing, 36bafd739501c97bf87007d63b00dcbf, https://mailnow.limesurvey.net/413982?newtest=Y
 212707, 2024-08-10 13:33:48, 2024-08-10 13:33:48, malware, a8afaf452c334288837f7c8452a92781, http://96.240.155.133:36865/i
 212706, 2024-08-10 13:33:46, 2024-08-10 13:33:46, malware, 6f5536f77c7044ce9e5e28bb4608c7ed, http://95.135.156.155:40352/
 212705, 2024-08-10 13:33:45, 2024-08-10 13:33:45, malware, 6665895768e94243810a8a9577948e45, http://88.231.117.163:53899/bin.sh
@@ -504,8 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 212215, 2024-08-10 03:20:38, 2024-08-10 03:20:38, malware, 5b2e5390f88340ed86f29a2dc9d5e5f3, http://115.49.219.18:59123/bin.sh
 212214, 2024-08-10 03:20:26, 2024-08-10 03:20:26, malware, 2fcb46bf4817400aae4ce8970394d906, http://112.249.91.58:35475/i
 212213, 2024-08-10 03:20:24, 2024-08-10 03:20:24, malware, fe9029bd82fd4793ab852e021e20b68b, http://112.249.91.58:35475/bin.sh
-212212, 2024-08-10 03:20:22, 2024-08-10 03:20:22, malware, 162d4d83c79649a0bf97d07b42df09c1, http://112.248.83.250:48906/bin.sh
-212211, 2024-08-10 03:20:20, 2024-08-10 03:20:20, malware, 8c5e52814a554019ae086584e9f28c02, http://112.248.140.32:54898/i
-212210, 2024-08-10 03:20:19, 2024-08-10 03:20:19, malware, 98217bd409144d35a62af53cb60c0d44, http://112.248.140.32:54898/bin.sh
-212209, 2024-08-10 03:20:05, 2024-08-10 03:20:05, malware, 32217c9e6a7d4b5a88445d041cdd25a0, http://103.42.249.147:53014/Mozi.m
-212208, 2024-08-10 03:10:15, 2024-08-10 03:10:15, phishing, 72b675c1eca119dfb29073a9fefb39b9, http://assurancemaladie-france.info

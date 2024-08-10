@@ -6,8 +6,13 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-10 14:00:02 UTC
+# UPDATE: 2024-08-10 15:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 212712, "url": "http://fsghixjksytgxbvslwoiystwvhaywush3.pages.dev", "discovery": "2024-08-10 14:22:10", "added": "2024-08-10 14:22:10", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "f077aa5ce48f4a750325220ce65f247e"}
+{"id": 212711, "url": "http://indxconneoran.duckdns.org", "discovery": "2024-08-10 14:18:15", "added": "2024-08-10 14:18:15", "target": "Orange", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "5ce97434557f71bd8497e45472f97a07"}
+{"id": 212710, "url": "http://rojdingserijridhsjbalsisgser04.pages.dev", "discovery": "2024-08-10 14:02:12", "added": "2024-08-10 14:02:12", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "4e1015ee276f09847c7be987b1112378"}
+{"id": 212709, "url": "https://bt-internet-support-106103.weeblysite.com", "discovery": "2024-08-10 14:01:53", "added": "2024-08-10 14:01:53", "target": "BT", "reporter": "urlabuse", "AbuseType": "phishing", "UUID": "700f0c885855d5ae89e7fe0cb64696d7"}
+{"id": 212708, "url": "https://mailnow.limesurvey.net/413982?newtest=Y", "discovery": "2024-08-10 12:58:13", "added": "2024-08-10 14:01:22", "target": "BT", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "36bafd739501c97bf87007d63b00dcbf"}
 {"id": 212707, "url": "http://96.240.155.133:36865/i", "discovery": "2024-08-10 13:33:48", "added": "2024-08-10 13:33:48", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "a8afaf452c334288837f7c8452a92781"}
 {"id": 212706, "url": "http://95.135.156.155:40352/", "discovery": "2024-08-10 13:33:46", "added": "2024-08-10 13:33:46", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "6f5536f77c7044ce9e5e28bb4608c7ed"}
 {"id": 212705, "url": "http://88.231.117.163:53899/bin.sh", "discovery": "2024-08-10 13:33:45", "added": "2024-08-10 13:33:45", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "6665895768e94243810a8a9577948e45"}
@@ -503,8 +508,3 @@
 {"id": 212215, "url": "http://115.49.219.18:59123/bin.sh", "discovery": "2024-08-10 03:20:38", "added": "2024-08-10 03:20:38", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "5b2e5390f88340ed86f29a2dc9d5e5f3"}
 {"id": 212214, "url": "http://112.249.91.58:35475/i", "discovery": "2024-08-10 03:20:26", "added": "2024-08-10 03:20:26", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "2fcb46bf4817400aae4ce8970394d906"}
 {"id": 212213, "url": "http://112.249.91.58:35475/bin.sh", "discovery": "2024-08-10 03:20:24", "added": "2024-08-10 03:20:24", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "fe9029bd82fd4793ab852e021e20b68b"}
-{"id": 212212, "url": "http://112.248.83.250:48906/bin.sh", "discovery": "2024-08-10 03:20:22", "added": "2024-08-10 03:20:22", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "162d4d83c79649a0bf97d07b42df09c1"}
-{"id": 212211, "url": "http://112.248.140.32:54898/i", "discovery": "2024-08-10 03:20:20", "added": "2024-08-10 03:20:20", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "8c5e52814a554019ae086584e9f28c02"}
-{"id": 212210, "url": "http://112.248.140.32:54898/bin.sh", "discovery": "2024-08-10 03:20:19", "added": "2024-08-10 03:20:19", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "98217bd409144d35a62af53cb60c0d44"}
-{"id": 212209, "url": "http://103.42.249.147:53014/Mozi.m", "discovery": "2024-08-10 03:20:05", "added": "2024-08-10 03:20:05", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "32217c9e6a7d4b5a88445d041cdd25a0"}
-{"id": 212208, "url": "http://assurancemaladie-france.info", "discovery": "2024-08-10 03:10:15", "added": "2024-08-10 03:10:15", "target": "FR-GOV", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "72b675c1eca119dfb29073a9fefb39b9"}
