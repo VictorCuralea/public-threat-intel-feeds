@@ -6,8 +6,11 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-10 12:00:02 UTC
+# UPDATE: 2024-08-10 13:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 212605, "url": "https://primaprom.com/ch/SWISS/", "discovery": "2024-08-10 12:14:14", "added": "2024-08-10 12:14:14", "target": "SwissPass", "reporter": "VERIFROMd", "AbuseType": "phishing", "UUID": "a610cc1874fa74ad21a955f4f68d90e9"}
+{"id": 212604, "url": "https://p-remumsim.com.mx/1", "discovery": "2024-08-10 12:12:15", "added": "2024-08-10 12:12:15", "target": "SwissPass", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "2fbfb5370c7e4c46f2f739cc5a029898"}
+{"id": 212603, "url": "http://oluwanimodupeeyenwwnnemmaduakwanaguzimuchinekennao.pages.dev", "discovery": "2024-08-10 12:06:10", "added": "2024-08-10 12:06:10", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "fd995d3f1cc31a3c8165d4e1e578ff18"}
 {"id": 212602, "url": "http://join-telesex-free.pages.dev", "discovery": "2024-08-10 11:56:13", "added": "2024-08-10 11:56:13", "target": "Telegram", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "449d85ec97438202e636824191202739"}
 {"id": 212601, "url": "https://www.playbook.com/s/jjjsse/zzWEkH2TiWJ3j8mBgjtGKKoY", "discovery": "2024-08-10 11:04:13", "added": "2024-08-10 11:47:07", "target": "BT", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "daf2956d5e036e4cd8cfc9acfb26436f"}
 {"id": 212600, "url": "https://sabrinagurling.wixsite.com/my-site-1", "discovery": "2024-08-10 11:45:45", "added": "2024-08-10 11:45:45", "target": "BT", "reporter": "urlabuse", "AbuseType": "phishing", "UUID": "1b32ca4c61f8f15643179285b704bd5d"}
@@ -505,6 +508,3 @@
 {"id": 212108, "url": "https://klfhalmmaa.blogspot.com", "discovery": "2024-08-09 23:52:14", "added": "2024-08-09 23:52:14", "target": "FR-GOV", "reporter": "urlabuse", "AbuseType": "phishing", "UUID": "1b11c111ea9e6e2730dbb3fbfc880faa"}
 {"id": 212107, "url": "https://parg.co/lbCQ", "discovery": "2024-08-09 23:36:17", "added": "2024-08-09 23:49:38", "target": "FR-GOV", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "f60bba236be7d55a7f9370b64b3112e8"}
 {"id": 212106, "url": "https://7502575707c.wixsite.com/my-site-3", "discovery": "2024-08-09 23:08:15", "added": "2024-08-09 23:48:14", "target": "Swisscom", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "8f00cbd64b0af5469027e8b1c89151c0"}
-{"id": 212105, "url": "http://93.157.106.81/bins/Hilix.mips", "discovery": "2024-08-09 23:27:35", "added": "2024-08-09 23:27:35", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "e2762cecca594fd0bbce887aef64aa3b"}
-{"id": 212104, "url": "http://61.53.219.131:35638/", "discovery": "2024-08-09 23:27:35", "added": "2024-08-09 23:27:35", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "f3f0ca3645e64010860c9cee1adb15e0"}
-{"id": 212103, "url": "http://61.53.123.159:33799/bin.sh", "discovery": "2024-08-09 23:27:33", "added": "2024-08-09 23:27:33", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "c44b2acbe983473eb22637795ca65566"}
