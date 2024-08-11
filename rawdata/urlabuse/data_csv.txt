@@ -6,9 +6,14 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-11 22:00:02 UTC
+# UPDATE: 2024-08-11 23:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+213922, 2024-08-11 22:32:13, 2024-08-11 22:32:13, phishing, cf988c79da0c377f23ea992844fd7c90, http://sisleraciklanz.xyz
+213921, 2024-08-11 22:18:59, 2024-08-11 22:18:59, phishing, 4ecbc8bf3e97ef0e096335291b66ca73, https://online-shipping-express.com/
+213920, 2024-08-11 22:04:58, 2024-08-11 22:04:58, phishing, 8b5d0464680504f65f9237478cd2ad15, http://pub-67c9de4a451e46448ca240f6086c9c51.r2.dev/signon.html
+213919, 2024-08-11 22:04:44, 2024-08-11 22:04:44, phishing, 0a116c10e02a44fc4a94869ad3c3bf62, https://losenanitos.cl/office/OneNote/index.html
+213918, 2024-08-11 22:03:35, 2024-08-11 22:03:35, phishing, 5501cceba3260cf5af62c091ba0fc82c, https://moonknight-aim.pages.dev/
 213917, 2024-08-11 21:26:12, 2024-08-11 21:26:12, phishing, 377bdf7420dbcd1e459b568524236cdf, https://laurapolidori.it/POSTSWISS/COIIUSH8ZQSJQ/7c1f9/
 213916, 2024-08-11 21:24:30, 2024-08-11 21:24:30, malware, 18124494bf854e5ca7f2a527f5a7922a, http://89.197.154.116/Setup.exe
 213915, 2024-08-11 21:24:30, 2024-08-11 21:24:30, malware, 2cb3ea812e0c41beb5ef1a39a65faed6, http://89.197.154.116/mimikatz_trunk.zip
@@ -504,8 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 213425, 2024-08-11 09:24:27, 2024-08-11 09:24:27, malware, e1b3656d35214a359793553bf612d3b0, http://124.131.138.103:58247/bin.sh
 213424, 2024-08-11 09:24:26, 2024-08-11 09:24:26, malware, 71b6ad2343ff4242ad85c23104107e07, http://123.5.170.56:45103/i
 213423, 2024-08-11 09:24:24, 2024-08-11 09:24:24, malware, 8940b31af2224fabb3af5649f5560dad, http://123.5.170.56:45103/bin.sh
-213422, 2024-08-11 09:24:23, 2024-08-11 09:24:23, malware, 68e65b86f1bf4b04aa749d0abfc34e25, http://123.5.119.67:39825/bin.sh
-213421, 2024-08-11 09:24:21, 2024-08-11 09:24:21, malware, 82726d6ea96d47eebbe3541739b4d708, http://123.14.74.120:54555/i
-213420, 2024-08-11 09:23:19, 2024-08-11 09:23:19, malware, a14cae5805634ad7afbe213d7e8ff494, http://117.253.96.35:56991/Mozi.m
-213419, 2024-08-11 09:23:13, 2024-08-11 09:23:13, malware, 86cf3ba47ac0413c87d83cc77ce0c1b7, http://117.248.161.116:50698/Mozi.m
-213418, 2024-08-11 09:23:10, 2024-08-11 09:23:10, malware, 2cb14cf175fc435cb0fb53dbe93ec581, http://117.245.226.133:56663/Mozi.m
