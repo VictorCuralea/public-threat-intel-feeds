@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-11 02:00:02 UTC
+# UPDATE: 2024-08-11 03:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+213181, 2024-08-11 02:42:11, 2024-08-11 02:42:11, phishing, 27b66561d0968bcbebf9aa76c868df11, http://secure-app20-system.pages.dev
+213180, 2024-08-11 02:06:13, 2024-08-11 02:06:13, phishing, a9ddbcd0c6e4d70a6a6d716de209b6af, http://secure-app11-system.pages.dev
+213179, 2024-08-11 02:02:12, 2024-08-11 02:02:12, phishing, 1a1ee07f8a7064424417639c6772e439, http://nodechains-apemax.pages.dev
 213178, 2024-08-11 01:58:12, 2024-08-11 01:58:12, phishing, c08db7b1ab995fb6020929593084a274, http://secure-app17-system.pages.dev
 213177, 2024-08-11 01:56:14, 2024-08-11 01:56:14, phishing, 02d7c4ff679542d1698e037acd498194, http://smartordiversatile.pages.dev
 213176, 2024-08-11 01:48:12, 2024-08-11 01:48:12, phishing, b7d9e6d64caf4b6ae366a9849e4d31c1, http://nnbtr.pages.dev
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 212684, 2024-08-10 13:29:27, 2024-08-10 13:29:27, malware, 7c2fe014b4d642f082003796ab6d38eb, http://42.230.59.11:38147/bin.sh
 212683, 2024-08-10 13:29:25, 2024-08-10 13:29:25, malware, 3ed470185cf54af3a9895bf83763bcd9, http://42.230.29.71:57334/i
 212682, 2024-08-10 13:29:23, 2024-08-10 13:29:23, malware, 74bc628516f04ce9a3920b1e82d85968, http://42.230.29.71:57334/bin.sh
-212681, 2024-08-10 13:29:21, 2024-08-10 13:29:21, malware, 2a2a4931ad924d34834e933913e8e8d0, http://42.229.221.243:38309/bin.sh
-212680, 2024-08-10 13:29:20, 2024-08-10 13:29:20, malware, 9d78e1fb0a3f44218cdebc0bdcebed1c, http://42.225.204.169:50391/
-212679, 2024-08-10 13:29:08, 2024-08-10 13:29:08, malware, be0c020638d94a908f429baefe726dc9, http://31.163.252.5:47207/i
