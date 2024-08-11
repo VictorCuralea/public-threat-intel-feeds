@@ -6,9 +6,15 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-11 12:00:02 UTC
+# UPDATE: 2024-08-11 13:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+213546, 2024-08-11 12:50:11, 2024-08-11 12:50:11, phishing, 575913e7f57e36903c03195e46849d6d, http://secure-app21-system.pages.dev
+213545, 2024-08-11 12:36:22, 2024-08-11 11:44:14, phishing, 6cf790addd7bd5cba4e4044e62ff3a1e, https://swisra-f0eb6.web.app/
+213544, 2024-08-11 12:36:15, 2024-08-11 12:36:15, phishing, 1245409c0599cd4d994bd1eb65cd6179, http://cloudpaneltech.pages.dev
+213543, 2024-08-11 12:36:06, 2024-08-11 11:42:11, phishing, 4899a63a3043862359699e1454ef6ec7, https://russiakikhabib.com/twenna/
+213542, 2024-08-11 12:35:47, 2024-08-11 11:22:11, phishing, b6c82a423670c209e05430f1617fa112, https://service-atera.com/u/login/identifier?state=xxx
+213541, 2024-08-11 12:04:16, 2024-08-11 12:04:16, phishing, e3cba9582c9ccdb7dedf3898d0e90c0f, http://smartpanelhash.pages.dev
 213540, 2024-08-11 11:52:18, 2024-08-11 11:52:18, phishing, 906dc2d0a10ad6712b0dac1dfa50a1e9, http://fhttucq.xyz
 213539, 2024-08-11 11:44:12, 2024-08-11 11:44:12, phishing, 6921d663f556cba9b902b2e5225ade0f, http://433tq334t4a34t4ga34rr43.pages.dev
 213538, 2024-08-11 11:36:13, 2024-08-11 11:36:13, phishing, 40d46be0e30ce03c077a3a84e8a519a3, http://gangaentp.in/dhl/dhl/
@@ -503,9 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 213049, 2024-08-10 23:54:17, 2024-08-10 23:54:17, phishing, 58581f9d208df22e7b1c45a9be9fd4c3, https://mz.tokenpokcn.com/
 213048, 2024-08-10 23:52:16, 2024-08-10 23:52:16, phishing, d4fa203ebfad2d527a08c020c6cc4294, https://mz.tokenpokce.com/
 213047, 2024-08-10 23:50:17, 2024-08-10 23:50:17, phishing, c35869370c5c6f83f9630ea8748db637, https://oh.tokenpokcn.com/
-213046, 2024-08-10 23:48:16, 2024-08-10 23:48:16, phishing, 8de89f2f6d14e4d41603e1a44f54e03a, https://oh.tokenpokce.com/
-213045, 2024-08-10 23:46:19, 2024-08-10 23:46:19, phishing, 7475920150143bd2df15c8738b04eecf, https://sx.tokenpokcn.com/
-213044, 2024-08-10 23:44:15, 2024-08-10 23:44:15, phishing, 08750f54f05416a81e0dc53c33c7400e, https://sx.tokenpokce.com/
-213043, 2024-08-10 23:42:23, 2024-08-10 23:42:23, phishing, 5b71e4bc8052bc7237e7e590e3b7dca3, https://ab.tokenpokcn.com/
-213042, 2024-08-10 23:40:17, 2024-08-10 23:40:17, phishing, dfb86df3fa622642fd7edd5b24c8a59c, https://ab.tokenpokce.com/
-213041, 2024-08-10 23:38:21, 2024-08-10 23:38:21, phishing, 7fab35b31367d37ba627fd1ee1fd21fd, https://cl.tokenpokcn.com/

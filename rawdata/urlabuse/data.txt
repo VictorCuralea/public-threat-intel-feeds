@@ -6,8 +6,14 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-11 12:00:02 UTC
+# UPDATE: 2024-08-11 13:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 213546, "url": "http://secure-app21-system.pages.dev", "discovery": "2024-08-11 12:50:11", "added": "2024-08-11 12:50:11", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "575913e7f57e36903c03195e46849d6d"}
+{"id": 213545, "url": "https://swisra-f0eb6.web.app/", "discovery": "2024-08-11 11:44:14", "added": "2024-08-11 12:36:22", "target": "TWINT", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "6cf790addd7bd5cba4e4044e62ff3a1e"}
+{"id": 213544, "url": "http://cloudpaneltech.pages.dev", "discovery": "2024-08-11 12:36:15", "added": "2024-08-11 12:36:15", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "1245409c0599cd4d994bd1eb65cd6179"}
+{"id": 213543, "url": "https://russiakikhabib.com/twenna/", "discovery": "2024-08-11 11:42:11", "added": "2024-08-11 12:36:06", "target": "TWINT", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "4899a63a3043862359699e1454ef6ec7"}
+{"id": 213542, "url": "https://service-atera.com/u/login/identifier?state=xxx", "discovery": "2024-08-11 11:22:11", "added": "2024-08-11 12:35:47", "target": "ATERA", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "b6c82a423670c209e05430f1617fa112"}
+{"id": 213541, "url": "http://smartpanelhash.pages.dev", "discovery": "2024-08-11 12:04:16", "added": "2024-08-11 12:04:16", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "e3cba9582c9ccdb7dedf3898d0e90c0f"}
 {"id": 213540, "url": "http://fhttucq.xyz", "discovery": "2024-08-11 11:52:18", "added": "2024-08-11 11:52:18", "target": "imToken", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "906dc2d0a10ad6712b0dac1dfa50a1e9"}
 {"id": 213539, "url": "http://433tq334t4a34t4ga34rr43.pages.dev", "discovery": "2024-08-11 11:44:12", "added": "2024-08-11 11:44:12", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "6921d663f556cba9b902b2e5225ade0f"}
 {"id": 213538, "url": "http://gangaentp.in/dhl/dhl/", "discovery": "2024-08-11 11:36:13", "added": "2024-08-11 11:36:13", "target": "Other", "reporter": "VERIFROMd", "AbuseType": "phishing", "UUID": "40d46be0e30ce03c077a3a84e8a519a3"}
@@ -502,9 +508,3 @@
 {"id": 213049, "url": "https://mz.tokenpokcn.com/", "discovery": "2024-08-10 23:54:17", "added": "2024-08-10 23:54:17", "target": "Token Pocket", "reporter": "lruray", "AbuseType": "phishing", "UUID": "58581f9d208df22e7b1c45a9be9fd4c3"}
 {"id": 213048, "url": "https://mz.tokenpokce.com/", "discovery": "2024-08-10 23:52:16", "added": "2024-08-10 23:52:16", "target": "Token Pocket", "reporter": "lrurayd", "AbuseType": "phishing", "UUID": "d4fa203ebfad2d527a08c020c6cc4294"}
 {"id": 213047, "url": "https://oh.tokenpokcn.com/", "discovery": "2024-08-10 23:50:17", "added": "2024-08-10 23:50:17", "target": "Token Pocket", "reporter": "lruray", "AbuseType": "phishing", "UUID": "c35869370c5c6f83f9630ea8748db637"}
-{"id": 213046, "url": "https://oh.tokenpokce.com/", "discovery": "2024-08-10 23:48:16", "added": "2024-08-10 23:48:16", "target": "Token Pocket", "reporter": "lrurayd", "AbuseType": "phishing", "UUID": "8de89f2f6d14e4d41603e1a44f54e03a"}
-{"id": 213045, "url": "https://sx.tokenpokcn.com/", "discovery": "2024-08-10 23:46:19", "added": "2024-08-10 23:46:19", "target": "Token Pocket", "reporter": "lruray", "AbuseType": "phishing", "UUID": "7475920150143bd2df15c8738b04eecf"}
-{"id": 213044, "url": "https://sx.tokenpokce.com/", "discovery": "2024-08-10 23:44:15", "added": "2024-08-10 23:44:15", "target": "Token Pocket", "reporter": "lrurayd", "AbuseType": "phishing", "UUID": "08750f54f05416a81e0dc53c33c7400e"}
-{"id": 213043, "url": "https://ab.tokenpokcn.com/", "discovery": "2024-08-10 23:42:23", "added": "2024-08-10 23:42:23", "target": "Token Pocket", "reporter": "lruray", "AbuseType": "phishing", "UUID": "5b71e4bc8052bc7237e7e590e3b7dca3"}
-{"id": 213042, "url": "https://ab.tokenpokce.com/", "discovery": "2024-08-10 23:40:17", "added": "2024-08-10 23:40:17", "target": "Token Pocket", "reporter": "lrurayd", "AbuseType": "phishing", "UUID": "dfb86df3fa622642fd7edd5b24c8a59c"}
-{"id": 213041, "url": "https://cl.tokenpokcn.com/", "discovery": "2024-08-10 23:38:21", "added": "2024-08-10 23:38:21", "target": "Token Pocket", "reporter": "lruray", "AbuseType": "phishing", "UUID": "7fab35b31367d37ba627fd1ee1fd21fd"}
