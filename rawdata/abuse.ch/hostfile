@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-08-10 16:49:36 UTC                        #
+# Last updated: 2024-08-11 06:28:24 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	k1gkl25as.top
 127.0.0.1	aeroflightparts.com
 127.0.0.1	s7.canada.wiretun.com
 127.0.0.1	gho0kgklj.watermellon.site
@@ -6938,4 +6939,4 @@
 127.0.0.1	serenys.xyz
 127.0.0.1	junio2023.duckdns.org
 127.0.0.1	vibe-ptclnetpk.viewdns.net
-# Number of entries: 6932
+# Number of entries: 6933
