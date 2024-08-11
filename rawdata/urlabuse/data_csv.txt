@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-11 18:00:01 UTC
+# UPDATE: 2024-08-11 19:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+213791, 2024-08-11 18:54:15, 2024-08-11 18:54:15, phishing, ac7f6983f2c9421d6650b897be835846, http://resolverspanel-af7.pages.dev
 213790, 2024-08-11 17:24:09, 2024-08-11 17:24:09, malware, efd5abd586f34ead90268d653bdc4060, http://95.47.243.57:53821/bin.sh
 213789, 2024-08-11 17:24:05, 2024-08-11 17:24:05, malware, b2582c17f0344155a52e9a10cfb1d79a, http://89.197.154.116/Trial.exe
 213788, 2024-08-11 17:24:05, 2024-08-11 17:24:05, malware, dbf1b63179834efda3733eb78a3b30df, http://89.197.154.116/Teamview.exe
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 213294, 2024-08-11 05:24:31, 2024-08-11 05:24:31, malware, 8bd4dac2b4d442aeb32df9b618cbb79a, http://117.255.94.36:50034/i
 213293, 2024-08-11 05:24:29, 2024-08-11 05:24:29, malware, 3aebd34e37b3464ab57c27128c8b543e, http://117.255.94.36:50034/bin.sh
 213292, 2024-08-11 05:24:25, 2024-08-11 05:24:25, malware, a4348ef6028241a38ea8eae7b2357cab, http://117.248.46.133:51830/Mozi.m
-213291, 2024-08-11 05:23:52, 2024-08-11 05:23:52, malware, 0750d88fe07f48c7ac07fd4e4a3815dc, http://117.248.160.100:55124/bin.sh
