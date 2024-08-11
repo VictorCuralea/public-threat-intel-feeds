@@ -6,9 +6,19 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-11 10:00:01 UTC
+# UPDATE: 2024-08-11 11:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+213477, 2024-08-11 10:50:13, 2024-08-11 10:50:13, phishing, e9ec28ecb08da0cc04b54f0136543db2, http://mysex-private-free.pages.dev
+213476, 2024-08-11 10:17:23, 2024-08-11 09:34:15, phishing, a39d1257fbf06680f0e49d8650987350, https://www.wonderlink.de/@bt-1sd2om
+213475, 2024-08-11 10:04:29, 2024-08-11 10:04:29, phishing, d0e722a11af17c5596acbd331ed0f8bd, http://telegerasm.club/
+213474, 2024-08-11 10:04:23, 2024-08-11 10:04:23, phishing, ab62392114721d5abe435ebd78ca8a81, http://telemgram.club/
+213473, 2024-08-11 10:04:21, 2024-08-11 10:04:21, phishing, fd4d299ae291aaec94b52a74b0602e42, http://telezgram.club/
+213472, 2024-08-11 10:04:19, 2024-08-11 10:04:19, phishing, 6621441d288c44f2b74060bda92fc830, http://telegrom.club/
+213471, 2024-08-11 10:03:07, 2024-08-11 10:03:07, phishing, bd6b67eda7acc77b282658ddfa40437a, http://telesgrarm.club/
+213470, 2024-08-11 10:02:33, 2024-08-11 10:02:33, phishing, 24f755a69b45d0918b896f6e5b65e517, http://alitel.lwcloud.workers.dev/,n/a,https:/openphish.com/phishing_feeds.html,9-aug-24,medium,medium
+213469, 2024-08-11 10:02:31, 2024-08-11 10:02:31, phishing, b76848f9e286504462c114bdc8420d73, https://tw-dj0.pages.dev/index-kevwqk89.js
+213468, 2024-08-11 10:00:16, 2024-08-11 10:00:16, phishing, 5e9753c826b42f8474448c761190beb1, http://ui.tghorse.com
 213467, 2024-08-11 09:30:11, 2024-08-11 09:30:11, phishing, 6aadb818a72c3d3d389978d9f694dcf4, http://nbgfdedfgvbjkhytyrtyjhbghfrtfgjhgfghjbgh.pages.dev
 213466, 2024-08-11 09:29:46, 2024-08-11 09:29:46, malware, a0fc529fb6ca46b58d1ae51a010be3f3, http://66.23.159.189:52473/i
 213465, 2024-08-11 09:29:20, 2024-08-11 09:29:20, malware, 0392cbe2205f4d6ea76dec9ff0114d57, http://61.53.74.89:45629/Mozi.m
@@ -499,13 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 212980, 2024-08-10 21:26:34, 2024-08-10 21:26:34, malware, 8bd44ef06d7942519e57eeb866e92d86, http://61.53.84.15:54955/bin.sh
 212979, 2024-08-10 21:26:22, 2024-08-10 21:26:22, malware, be519c3134f148f7a60db8b4c305965c, http://61.52.193.78:50454/bin.sh
 212978, 2024-08-10 21:26:21, 2024-08-10 21:26:21, malware, 4c99a564fde84a7784182f0b39fde487, http://61.3.28.239:39201/Mozi.m
-212977, 2024-08-10 21:26:19, 2024-08-10 21:26:19, malware, 2c1ab6b1fce34edfb84cacbbc0c456f6, http://61.1.227.106:49425/Mozi.m
-212976, 2024-08-10 21:26:17, 2024-08-10 21:26:17, malware, ce486de84f4d476097925ea85ce10b07, http://59.99.221.105:54512/bin.sh
-212975, 2024-08-10 21:26:10, 2024-08-10 21:26:10, malware, c148833890574dd2bc9386e8d819b4fb, http://59.93.95.168:59876/Mozi.m
-212974, 2024-08-10 21:25:43, 2024-08-10 21:25:43, malware, d195b653cdc440abaf213d1efd6de561, http://59.93.145.104:51097/Mozi.m
-212973, 2024-08-10 21:25:20, 2024-08-10 21:25:20, malware, 4ac6f44fae6646268cd57cdbc927ba27, http://59.89.230.151:45579/i
-212972, 2024-08-10 21:25:08, 2024-08-10 21:25:08, malware, 751a54dafc3046f2bcb08468fbe80a2d, http://59.183.130.171:33653/i
-212971, 2024-08-10 21:25:06, 2024-08-10 21:25:06, malware, 1bf441e395be417393b5380aca3d2625, http://59.182.247.26:40788/i
-212970, 2024-08-10 21:25:04, 2024-08-10 21:25:04, malware, 1fe9fa1795ea46a98c3ca27a06f5614d, http://59.182.247.26:40788/bin.sh
-212969, 2024-08-10 21:25:02, 2024-08-10 21:25:02, malware, 7e266d922d9f4ec58fa96f3a7c51cab0, http://59.178.88.160:51406/Mozi.m
-212968, 2024-08-10 21:25:00, 2024-08-10 21:25:00, malware, 07bf2433321a4c90b869d2644b85d5ca, http://59.178.185.47:57907/i
