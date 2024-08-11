@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-11 20:00:01 UTC
+# UPDATE: 2024-08-11 21:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+213871, 2024-08-11 20:56:12, 2024-08-11 20:56:12, phishing, 8226e1927f4081b300334044b9329900, http://earningconvi.pages.dev
+213870, 2024-08-11 20:30:10, 2024-08-11 20:30:10, phishing, dbcab8659db0a1c7c27d5edb7dcbab0c, http://cryptoallstars.pages.dev
 213869, 2024-08-11 19:46:53, 2024-08-11 19:46:53, phishing, 79ebb202e893a9dfb1897432d6789e50, http://tokenpbaket.com
 213868, 2024-08-11 19:46:45, 2024-08-11 19:46:45, phishing, 54dbd03422cca08f5ab6423e195ab006, http://tokenpbpket.com
 213867, 2024-08-11 19:46:43, 2024-08-11 19:46:43, phishing, ab73d31e7db0a4b3acd862f8e3c53f9b, http://tokenpbjket.com
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 213374, 2024-08-11 07:25:35, 2024-08-11 07:25:35, malware, 27ee2e2667c740babb50957327a615f3, http://125.43.226.128:58605/bin.sh
 213373, 2024-08-11 07:25:23, 2024-08-11 07:25:23, malware, e3282687f5774a8a9c7bb3c1c66e26fa, http://125.41.1.2:37479/bin.sh
 213372, 2024-08-11 07:25:22, 2024-08-11 07:25:22, malware, 9ac888b531a346cf96bd092bf77dde78, http://123.14.252.193:42894/bin.sh
-213371, 2024-08-11 07:25:20, 2024-08-11 07:25:20, malware, 20ac8356797a4c77855f1f9872a95640, http://123.12.240.83:45040/i
-213370, 2024-08-11 07:25:18, 2024-08-11 07:25:18, malware, cab4b56953934289896275f964e7b86d, http://123.12.240.83:45040/bin.sh

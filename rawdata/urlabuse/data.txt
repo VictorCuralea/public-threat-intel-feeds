@@ -6,8 +6,10 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-11 20:00:01 UTC
+# UPDATE: 2024-08-11 21:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 213871, "url": "http://earningconvi.pages.dev", "discovery": "2024-08-11 20:56:12", "added": "2024-08-11 20:56:12", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "8226e1927f4081b300334044b9329900"}
+{"id": 213870, "url": "http://cryptoallstars.pages.dev", "discovery": "2024-08-11 20:30:10", "added": "2024-08-11 20:30:10", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "dbcab8659db0a1c7c27d5edb7dcbab0c"}
 {"id": 213869, "url": "http://tokenpbaket.com", "discovery": "2024-08-11 19:46:53", "added": "2024-08-11 19:46:53", "target": "Token Pocket", "reporter": "lruray", "AbuseType": "phishing", "UUID": "79ebb202e893a9dfb1897432d6789e50"}
 {"id": 213868, "url": "http://tokenpbpket.com", "discovery": "2024-08-11 19:46:45", "added": "2024-08-11 19:46:45", "target": "Token Pocket", "reporter": "lruray", "AbuseType": "phishing", "UUID": "54dbd03422cca08f5ab6423e195ab006"}
 {"id": 213867, "url": "http://tokenpbjket.com", "discovery": "2024-08-11 19:46:43", "added": "2024-08-11 19:46:43", "target": "Token Pocket", "reporter": "lruray", "AbuseType": "phishing", "UUID": "ab73d31e7db0a4b3acd862f8e3c53f9b"}
@@ -506,5 +508,3 @@
 {"id": 213374, "url": "http://125.43.226.128:58605/bin.sh", "discovery": "2024-08-11 07:25:35", "added": "2024-08-11 07:25:35", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "27ee2e2667c740babb50957327a615f3"}
 {"id": 213373, "url": "http://125.41.1.2:37479/bin.sh", "discovery": "2024-08-11 07:25:23", "added": "2024-08-11 07:25:23", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "e3282687f5774a8a9c7bb3c1c66e26fa"}
 {"id": 213372, "url": "http://123.14.252.193:42894/bin.sh", "discovery": "2024-08-11 07:25:22", "added": "2024-08-11 07:25:22", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "9ac888b531a346cf96bd092bf77dde78"}
-{"id": 213371, "url": "http://123.12.240.83:45040/i", "discovery": "2024-08-11 07:25:20", "added": "2024-08-11 07:25:20", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "20ac8356797a4c77855f1f9872a95640"}
-{"id": 213370, "url": "http://123.12.240.83:45040/bin.sh", "discovery": "2024-08-11 07:25:18", "added": "2024-08-11 07:25:18", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "cab4b56953934289896275f964e7b86d"}
