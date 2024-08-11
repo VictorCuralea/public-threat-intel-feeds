@@ -1,12 +1,41 @@
 ################################################################
 # ThreatFox IOCs: recent SHA256 hashes - CSV format            #
-# Last updated: 2024-08-10 17:46:32 UTC                        #
+# Last updated: 2024-08-11 19:12:22 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
 # "first_seen_utc","ioc_id","ioc_value","ioc_type","threat_type","fk_malware","malware_alias","malware_printable","last_seen_utc","confidence_level","reference","tags","anonymous","reporter"
+"2024-08-11 19:12:22", "1309640", "08ee504fa2b44c1152b8bc2e345b9394bc3393261f10651bcf98313f4a1b762e", "sha256_hash", "payload", "win.amadey", "None", "Amadey", "", "95", "None", "None", "0", "Grim"
+"2024-08-11 19:12:18", "1309637", "bcc2bf333f69425c0b61f8d48a3cd7c931deff82aa796229cf47764878dc4e3b", "sha256_hash", "payload", "win.redline_stealer", "RECORDSTEALER", "RedLine Stealer", "", "95", "None", "None", "0", "Grim"
+"2024-08-11 19:12:15", "1309634", "96d7707e2b2063abc9454cd57e9a1a08038d2da9145410a398b1ba12e3272393", "sha256_hash", "payload", "win.redline_stealer", "RECORDSTEALER", "RedLine Stealer", "", "95", "None", "None", "0", "Grim"
+"2024-08-11 19:12:12", "1309631", "e603e36cae3f0fa9badbeaeff8fb0becb1ed444776892db76cd8d219e2ba92bd", "sha256_hash", "payload", "win.vidar", "None", "Vidar", "", "95", "None", "None", "0", "Grim"
+"2024-08-11 19:12:08", "1309628", "75880562b0e3a5354afeab50d1bdea6c6d822b140abd2abc944ca6badaab8e65", "sha256_hash", "payload", "win.amadey", "None", "Amadey", "", "95", "None", "None", "0", "Grim"
+"2024-08-11 19:12:05", "1309625", "c92e7db25a35fb584594449643932f52c4110df6573cac8c5105ef21a08eee0e", "sha256_hash", "payload", "win.gcleaner", "None", "GCleaner", "", "95", "None", "None", "0", "Grim"
+"2024-08-11 19:12:01", "1309622", "4ff955e39fc6b4f0c0a715c3b87b95c47d61df9145e0071061a5070a5c87c855", "sha256_hash", "payload", "win.stealc", "None", "Stealc", "", "95", "None", "None", "0", "Grim"
+"2024-08-11 19:11:57", "1309619", "d1ba8885bb27b8b53e8754181b474f47d0afc57ce406ca4c18edf111cbb63226", "sha256_hash", "payload", "win.asyncrat", "None", "AsyncRAT", "", "95", "None", "None", "0", "Grim"
+"2024-08-11 19:11:54", "1309616", "59bafd4c82ebacac6b134fd031274210f66a12c391d06015484f63a87b54b461", "sha256_hash", "payload", "win.orcus_rat", "Schnorchel", "Orcus RAT", "", "95", "None", "None", "0", "Grim"
+"2024-08-11 19:11:51", "1309613", "a73f67009d77906b2dfee216b4e7cb940eef13304c22e909b65cd2834e291b1a", "sha256_hash", "payload", "win.arrowrat", "None", "ArrowRAT", "", "95", "None", "None", "0", "Grim"
+"2024-08-11 19:11:48", "1309610", "66a7c6538eff28587daeb73436b616207e89aa0c6e8c59e15d07f203f4efef21", "sha256_hash", "payload", "win.njrat", "Bladabindi,Lime-Worm", "NjRAT", "", "95", "None", "None", "0", "Grim"
+"2024-08-11 19:11:44", "1309607", "41bd2718e24b2367c4a29a6eb94045d4ce1e29b4d6ca99d7d2d8b14e316e18f5", "sha256_hash", "payload", "win.asyncrat", "None", "AsyncRAT", "", "95", "None", "None", "0", "Grim"
+"2024-08-11 19:11:41", "1309604", "42a913fedb31db5ba0cf28abd0fe6afc3b9807aac7045a1c02579c2b3282a3b1", "sha256_hash", "payload", "win.quasar_rat", "CinaRAT,QuasarRAT,Yggdrasil", "Quasar RAT", "", "95", "None", "None", "0", "Grim"
+"2024-08-11 19:11:37", "1309601", "efd0b60d95cc2ab93e3a8c0379abb8bf8cc2e4fc51cb5dace11bcd695accd4f5", "sha256_hash", "payload", "win.asyncrat", "None", "AsyncRAT", "", "95", "None", "None", "0", "Grim"
+"2024-08-11 19:11:34", "1309598", "25179f1c63031ba0b4daf7ff315f008d6f794eed2b5d486c796457cd4a8b4bce", "sha256_hash", "payload", "win.xworm", "None", "XWorm", "", "95", "None", "None", "0", "Grim"
+"2024-08-11 19:11:31", "1309595", "cabb55baaa73ad45b57b3fad20beb4c7f7f5f63a84104404e5ae7c8cea4e1914", "sha256_hash", "payload", "win.xworm", "None", "XWorm", "", "95", "None", "None", "0", "Grim"
+"2024-08-11 19:11:27", "1309592", "f24eca1c3ebbbb6d043a05f5e0684843326abadb28ecd4ff746de38defeb8929", "sha256_hash", "payload", "win.formbook", "win.xloader", "Formbook", "", "95", "None", "None", "0", "Grim"
+"2024-08-11 19:11:24", "1309589", "33779a75da1af9c5f45112370d3dbd803e86fc7b88bc5a1f43a7b76fc9d887ab", "sha256_hash", "payload", "win.formbook", "win.xloader", "Formbook", "", "95", "None", "None", "0", "Grim"
+"2024-08-11 19:11:21", "1309586", "72997c981fef64ed3cf79ffa5b2a496aca59fbefd54f7585049f71d69de1fe52", "sha256_hash", "payload", "win.formbook", "win.xloader", "Formbook", "", "95", "None", "None", "0", "Grim"
+"2024-08-11 19:11:17", "1309583", "6f4ef07076ebad36eea92eeaeb42b91bdf910d4e93bc0bf6b4fc40e6d191ed83", "sha256_hash", "payload", "win.formbook", "win.xloader", "Formbook", "", "95", "None", "None", "0", "Grim"
+"2024-08-11 19:11:14", "1309580", "392ca32b824545d39bea534e97d75361b9d87fd00df675d8133b52ec4f3cfb88", "sha256_hash", "payload", "win.agent_tesla", "AgenTesla,AgentTesla,Negasteal", "Agent Tesla", "", "95", "None", "None", "0", "Grim"
+"2024-08-11 19:11:10", "1309577", "b3fa2187615355f181f5c48bd8718b09ef630ec84e02ae3f7d2f8b055fe0722b", "sha256_hash", "payload", "win.luca_stealer", "None", "Luca Stealer", "", "95", "None", "None", "0", "Grim"
+"2024-08-11 19:11:07", "1309574", "e5bfc88e1b74ed30d700d8c198322c04029e8db407c5f9f053a6290892b697db", "sha256_hash", "payload", "win.luca_stealer", "None", "Luca Stealer", "", "95", "None", "None", "0", "Grim"
+"2024-08-11 19:11:03", "1309571", "34ece577bee2d41a9227e6e074c80e50e33231a2d4572f1bd250e67b2d696447", "sha256_hash", "payload", "win.formbook", "win.xloader", "Formbook", "", "95", "None", "None", "0", "Grim"
+"2024-08-11 19:10:58", "1309568", "3e3978a0f761909353e129a35ee1795bf829f71c1106a3450b7e147bd51312e0", "sha256_hash", "payload", "win.dcrat", "DarkCrystal RAT", "DCRat", "", "95", "None", "None", "0", "Grim"
+"2024-08-11 19:10:53", "1309565", "2b1b4949c99e313efe7acaa55729f53decce8b27e7b21bb4d1205de2e5e79e26", "sha256_hash", "payload", "win.dcrat", "DarkCrystal RAT", "DCRat", "", "95", "None", "None", "0", "Grim"
+"2024-08-11 19:10:49", "1309562", "156cf00f84c98299430c13651ff982e634fb0ac072f1d230b9f3c272e8403097", "sha256_hash", "payload", "win.zyklon", "None", "Zyklon", "", "95", "None", "None", "0", "Grim"
+"2024-08-11 19:10:44", "1309559", "35207a3471394e220d6fc21cf929907a26dee17ef697e4e6febf839806e81726", "sha256_hash", "payload", "win.dcrat", "DarkCrystal RAT", "DCRat", "", "95", "None", "None", "0", "Grim"
+"2024-08-11 19:10:40", "1309556", "ab71530434f64e6aa105732c42dbb5a409ac0aae4258b3c3e7db1a7d5914cc30", "sha256_hash", "payload", "win.dcrat", "DarkCrystal RAT", "DCRat", "", "95", "None", "None", "0", "Grim"
 "2024-08-10 17:46:32", "1309365", "50cfa268e3578a8c9bad95ede03fbe72ef823fdea309a54616ff8fcd39ef67e1", "sha256_hash", "payload", "win.formbook", "win.xloader", "Formbook", "", "95", "None", "None", "0", "Grim"
 "2024-08-10 17:46:29", "1309362", "61dcfda4694ea3f6bafab018feb9cbcaced299f1996b4a7adaf79a3a81cc788d", "sha256_hash", "payload", "win.sigloader", "None", "SigLoader", "", "95", "None", "None", "0", "Grim"
 "2024-08-10 17:46:26", "1309359", "eed29b0fa0e80be7b67fd5658f00ef6070cabae2e33d8aae2032f3d6ab303bef", "sha256_hash", "payload", "win.agent_tesla", "AgenTesla,AgentTesla,Negasteal", "Agent Tesla", "", "95", "None", "None", "0", "Grim"
@@ -59,8 +88,8 @@
 "2024-08-10 14:53:30", "1308638", "553bd8b6c13d775bbaa9c5b2d9c02ee8df0e232180dfd17c5f7a67188bb3e218", "sha256_hash", "payload", "win.remcos", "RemcosRAT,Remvio,Socmer", "Remcos", "", "100", "", "RAT,Remcos", "0", "nickkuechel"
 "2024-08-10 14:53:30", "1308639", "32af7d27814501faca5d3b86b3d1b9ac2f75800526c3f6a899074d15146d811b", "sha256_hash", "payload", "win.remcos", "RemcosRAT,Remvio,Socmer", "Remcos", "", "100", "", "RAT,Remcos", "0", "nickkuechel"
 "2024-08-10 14:53:30", "1308640", "b86584b90da75b8ce4d9ae8564163554fa1c891c7c1d97f8cc4ac66437ee2ade", "sha256_hash", "payload", "win.remcos", "RemcosRAT,Remvio,Socmer", "Remcos", "", "100", "", "RAT,Remcos", "0", "nickkuechel"
-"2024-08-10 14:49:07", "1308613", "e87424afc8be1fc8b64c21a0f49e8b709896a91985128b380a02903ef84d525a", "sha256_hash", "payload", "win.remcos", "RemcosRAT,Remvio,Socmer", "Remcos", "", "100", "", "RAT,Remcos", "0", "nickkuechel"
 "2024-08-10 14:49:07", "1308612", "2cca27a1d50a61f43ca12e55cbc3c2895b24d55ec0bd4adca2bd3c3b293b5f14", "sha256_hash", "payload", "win.remcos", "RemcosRAT,Remvio,Socmer", "Remcos", "2024-08-10 14:49:07", "100", "", "RAT,Remcos", "0", "nickkuechel"
+"2024-08-10 14:49:07", "1308613", "e87424afc8be1fc8b64c21a0f49e8b709896a91985128b380a02903ef84d525a", "sha256_hash", "payload", "win.remcos", "RemcosRAT,Remvio,Socmer", "Remcos", "", "100", "", "RAT,Remcos", "0", "nickkuechel"
 "2024-08-10 14:49:07", "1308614", "5e348f263074a2c36ce3bcdf930404af01f327157b1494ac154e4f13044833d1", "sha256_hash", "payload", "win.remcos", "RemcosRAT,Remvio,Socmer", "Remcos", "2024-08-10 17:45:08", "100", "", "RAT,Remcos", "0", "nickkuechel"
 "2024-08-10 14:49:07", "1308615", "97898678ce66abb36910c33ec95f2b2d3b05a0739f9f92767204d731aea7b407", "sha256_hash", "payload", "win.remcos", "RemcosRAT,Remvio,Socmer", "Remcos", "", "100", "", "RAT,Remcos", "0", "nickkuechel"
 "2024-08-10 14:49:07", "1308616", "868335e78b7f2fdf42573f4526be04b065987ff722e8d6323398b07be56bd17b", "sha256_hash", "payload", "win.remcos", "RemcosRAT,Remvio,Socmer", "Remcos", "", "100", "", "RAT,Remcos", "0", "nickkuechel"
@@ -84,4 +113,4 @@
 "2024-08-10 14:49:07", "1308634", "7bc8d71676cbc6f11991766af8ec407dddecf6ac95848e49a6fe0dba14662251", "sha256_hash", "payload", "win.remcos", "RemcosRAT,Remvio,Socmer", "Remcos", "2024-08-10 14:53:30", "100", "", "RAT,Remcos", "0", "nickkuechel"
 "2024-08-10 14:49:07", "1308635", "80c2e1f29d6a3fba105c4a57cb3b15687d7ea6bf0e70aef371520039e05ba722", "sha256_hash", "payload", "win.remcos", "RemcosRAT,Remvio,Socmer", "Remcos", "2024-08-10 14:53:30", "100", "", "RAT,Remcos", "0", "nickkuechel"
 "2024-08-10 14:49:07", "1308636", "9f21257ff5b2933d0a1363686c2b96cf90d00bb26797ae363b17ca330b93564a", "sha256_hash", "payload", "win.remcos", "RemcosRAT,Remvio,Socmer", "Remcos", "2024-08-10 14:53:30", "100", "", "RAT,Remcos", "0", "nickkuechel"
-# Number of entries: 77
+# Number of entries: 106
