@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-11 14:00:01 UTC
+# UPDATE: 2024-08-11 15:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+213656, 2024-08-11 14:50:12, 2024-08-11 14:50:12, phishing, 48b60306b6c2d88d81c8785b3d8459bd, http://tg.workservers.ir
+213655, 2024-08-11 14:18:15, 2024-08-11 14:18:15, phishing, de4776492e32625af0a3da26e33b6bfb, http://livemigrazsnvtwo.pages.dev
+213654, 2024-08-11 14:16:13, 2024-08-11 14:16:13, phishing, d9ba43d9f314ecbf222ccde4d063ddf3, http://telegramcontact.pages.dev
 213653, 2024-08-11 13:50:17, 2024-08-11 13:50:17, phishing, 8c2082f180797dcb3d61cf576ff69057, http://conexindex.duckdns.org
 213652, 2024-08-11 13:36:11, 2024-08-11 13:36:11, phishing, 244b2a3654f37d0459a6eabc5083bde6, http://telegramgroupxxxxxxxxxx.pages.dev
 213651, 2024-08-11 13:33:36, 2024-08-11 13:33:36, malware, 6fcad3708c5243c0bfb7d2d49c96718e, http://95.47.243.57:53821/i
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 213159, 2024-08-11 01:26:00, 2024-08-11 01:26:00, malware, 371cad126e27411da8be90c8733558ab, http://61.53.84.15:54955/Mozi.m
 213158, 2024-08-11 01:25:58, 2024-08-11 01:25:58, malware, 427e97d69c3c4a22975b834ed8b5bdec, http://61.0.217.190:43171/Mozi.m
 213157, 2024-08-11 01:25:44, 2024-08-11 01:25:44, malware, 0e1ff810afe641b79667174c02a5f5a0, http://60.216.140.23:39199/i
-213156, 2024-08-11 01:25:42, 2024-08-11 01:25:42, malware, 2fd15942ec7640199bdc025cc69ae6c1, http://60.216.140.23:39199/bin.sh
-213155, 2024-08-11 01:25:39, 2024-08-11 01:25:39, malware, 126d9e61883e40e18f536e1c4084e2fb, http://59.97.136.4:40397/bin.sh
-213154, 2024-08-11 01:25:07, 2024-08-11 01:25:07, malware, 53fec6befe6e49b2bb82ff412f2ec713, http://59.183.130.171:33653/bin.sh
