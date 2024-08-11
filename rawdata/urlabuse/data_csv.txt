@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-11 08:00:01 UTC
+# UPDATE: 2024-08-11 09:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+213406, 2024-08-11 08:58:15, 2024-08-11 08:58:15, phishing, bc6ca57fc2729ed9fab562c53a928b17, http://weells-ons.3utilities.com
+213405, 2024-08-11 08:40:12, 2024-08-11 08:40:12, phishing, 92a7bc5e299325ad4b031a2408eab5b2, http://4ta5yry5ys453534r.pages.dev
+213404, 2024-08-11 08:24:14, 2024-08-11 07:40:16, phishing, cf26d5fe8eda9311158fa221d81b6dc4, https://my-ee-details.web.app/
+213403, 2024-08-11 08:24:04, 2024-08-11 07:40:16, phishing, def10080162edc287aa7818669b369c2, https://my-info-ee.web.app/
 213402, 2024-08-11 07:29:30, 2024-08-11 07:29:30, malware, defd690f4d5241288349cac32679d6d5, http://78.186.155.18:52854/i
 213401, 2024-08-11 07:29:17, 2024-08-11 07:29:17, malware, fc16193e81114d41b3cee8fa43fb0e0a, http://61.185.22.244:52099/Mozi.m
 213400, 2024-08-11 07:29:13, 2024-08-11 07:29:13, malware, ba5dab5bd6f94dbb9e012e799ad20b16, http://61.0.99.144:40180/bin.sh
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 212909, 2024-08-10 19:26:39, 2024-08-10 19:26:39, malware, 8a34f37fcede4c16bc3711c4cf01f253, http://59.182.92.127:37993/Mozi.m
 212908, 2024-08-10 19:26:17, 2024-08-10 19:26:17, malware, 2c24bb79f8d14f1a9f6db4b75725dfb9, http://59.180.190.230:33240/Mozi.m
 212907, 2024-08-10 19:26:14, 2024-08-10 19:26:14, malware, b3e5a02dd29a4cf184e465b2ba974b08, http://42.239.225.75:46529/bin.sh
-212906, 2024-08-10 19:26:13, 2024-08-10 19:26:13, malware, 0c0bb9e84ac14bb6a5c012455c364b10, http://42.235.98.228:47049/bin.sh
-212905, 2024-08-10 19:26:11, 2024-08-10 19:26:11, malware, 6130ff64e4d44e82b14ac9d08a39f7b0, http://42.231.95.211:46970/i
-212904, 2024-08-10 19:25:59, 2024-08-10 19:25:59, malware, 93accdf89c194af0b3a5eb1cc66c4968, http://27.207.247.91:34614/i
-212903, 2024-08-10 19:25:52, 2024-08-10 19:25:52, malware, c3932de84d8649c48a76a9dd8655f843, http://222.134.163.185:37678/i
