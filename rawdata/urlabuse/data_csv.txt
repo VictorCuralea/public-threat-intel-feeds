@@ -6,9 +6,17 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-12 22:00:01 UTC
+# UPDATE: 2024-08-12 23:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+214718, 2024-08-12 22:05:41, 2024-08-12 21:14:12, phishing, 175f7a016b7b6e5bc99f1f7954c6ecaf, https://ee-unlock.web.app/
+214717, 2024-08-12 22:04:18, 2024-08-12 22:04:18, phishing, 1a65cc231eeab5174166c107d54948a8, https://pub-cf881a6d3f1f4eb48396cb5fe19aeca9.r2.dev/Nurs.html
+214716, 2024-08-12 22:03:31, 2024-08-12 22:03:31, phishing, f796972dff85b91e6bd9c500aa85ec4f, https://iiw8d55mq7-1324839608.cos.ap-beijing-fsi.myqcloud.com/iiw8d55mq7.html
+214715, 2024-08-12 22:03:27, 2024-08-12 22:03:27, phishing, 9c3a61a54c28527e6e505d5b45424f08, https://g2qffdb62vko3w5ib6fdxlcwa5vtih73ltcgfatfak6m6wsw2hbq.ar-io.dev/NqBSjD7VVO3bqA-KO6xWB2s0H_tcxGKCZQK8z1pW0cM
+214714, 2024-08-12 22:03:17, 2024-08-12 22:03:17, phishing, 011b5908cc0ed646d0588309e28362f7, https://bafybeih4erint6zf4gj6utd7duun5g6oem4jumf47bv6jujkpe3s3cyvlq.ipfs.dweb.link/
+214713, 2024-08-12 22:02:25, 2024-08-12 22:02:25, phishing, 74ac7f3c5e6c250a0657dffb7c3e2f01, https://tele-zh.com/
+214712, 2024-08-12 22:02:18, 2024-08-12 22:02:18, phishing, 73319559e294dbe40f71acce6ad2491e, https://webtelegram.eu.org/
+214711, 2024-08-12 22:02:13, 2024-08-12 22:02:13, phishing, 6b107785c9d0def2e2efe1e11e07d7c0, https://app.taelgroam.xyz/
 214710, 2024-08-12 21:32:18, 2024-08-12 21:32:18, phishing, 9074528a90637c9e21aad2cf185bae3d, http://instagram-1c3.pages.dev
 214709, 2024-08-12 21:32:12, 2024-08-12 21:32:12, phishing, ef5fc820d6820f5322dd1eefcd11ce5a, http://instagram-login-7h2.pages.dev
 214708, 2024-08-12 21:32:12, 2024-08-12 21:32:12, phishing, a282f7a28fcc8644380546719fc123f2, http://instagram-login-7h2.pages.dev
@@ -501,11 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 214221, 2024-08-12 08:26:31, 2024-08-12 08:26:31, malware, 140f32eb58d84802b9d5e9a5db995462, http://42.230.56.48:38147/bin.sh
 214220, 2024-08-12 08:26:29, 2024-08-12 08:26:29, malware, aff19981b01f42aaa5ea5484485902b5, http://42.229.89.12:57717/i
 214219, 2024-08-12 08:26:28, 2024-08-12 08:26:28, malware, 0f01730c61eb42e18d8f93a446590797, http://42.226.73.155:48563/i
-214218, 2024-08-12 08:26:26, 2024-08-12 08:26:26, malware, acf435aefb5d4b5ba5f706045ba9e5c7, http://42.226.73.155:48563/bin.sh
-214217, 2024-08-12 08:26:24, 2024-08-12 08:26:24, malware, 6e722991150347c2b248e8c23b749b26, http://41.84.238.127:55197/bin.sh
-214216, 2024-08-12 08:26:10, 2024-08-12 08:26:10, malware, e262eb674c0b49d4a11a76169491b01f, http://31.14.57.173:52826/Mozi.m
-214215, 2024-08-12 08:26:09, 2024-08-12 08:26:09, malware, ae232d10ec774716801c0888425f09c3, http://27.215.212.224:48295/bin.sh
-214214, 2024-08-12 08:26:08, 2024-08-12 08:26:08, malware, 4de8da1ad18343c4bfabd60f4f8e0284, http://222.141.140.19:40889/bin.sh
-214213, 2024-08-12 08:26:06, 2024-08-12 08:26:06, malware, 25513cb481434861b7ce7077d7395c63, http://222.141.106.69:42906/bin.sh
-214212, 2024-08-12 08:26:05, 2024-08-12 08:26:05, malware, 927431b0e2c141a595221d7a930495ee, http://222.138.112.18:60320/Mozi.m
-214211, 2024-08-12 08:26:02, 2024-08-12 08:26:02, malware, bdb9e38be95048da8eed59e1734ee689, http://222.138.112.18:60320/bin.sh
