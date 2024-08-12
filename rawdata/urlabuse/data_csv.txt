@@ -6,9 +6,14 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-12 05:00:01 UTC
+# UPDATE: 2024-08-12 06:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+214103, 2024-08-12 05:50:50, 2024-08-12 05:11:41, phishing, 3efb09f98bf7c3f8c6c7327536aa8ce3, https://filedn.com/l5E61R6zHg0Rs4yI9gQSXKB/wpupdate/hstkudelka.html
+214102, 2024-08-12 05:50:21, 2024-08-12 04:55:47, phishing, 5b0bfda979c1df6f380c67f23e4cfe79, https://ur0.jp/5CoqZ#x
+214101, 2024-08-12 05:49:54, 2024-08-12 01:55:39, phishing, 1d2fff2cac2a558265dac6a2a599acae, https://filedn.com/l5E61R6zHg0Rs4yI9gQSXKB/wpupdate/afokudelk.html#x
+214100, 2024-08-12 05:49:44, 2024-08-12 01:50:35, phishing, f1261ce79555959ae305dccfec694542, https://ur0.jp/1q9pu#x
+214099, 2024-08-12 05:48:38, 2024-08-12 01:36:23, phishing, ebdc86fb5ee06276450b500a9b53d968, https://hardbin.com/ipfs/QmYkstFW8Lu9tqqpTtYgw4noANC7ScmSybjr5rnK1kSqqf#x
 214098, 2024-08-12 04:48:15, 2024-08-12 04:48:15, phishing, 98160a883e21038436c4aac8cbaf782b, http://demande-renouvellement-assure.fr
 214097, 2024-08-12 04:12:10, 2024-08-12 04:12:10, phishing, f7cad3b8d621aa8176b4859a3c88ee5a, http://0ijhgfjokjhgfhjo00iugftyhjoiuhgcxse42wsaaqwsdfgtredsdcvbgt.pages.dev
 214096, 2024-08-12 04:06:21, 2024-08-12 04:06:21, phishing, 42ed7408fbb7255f9788568400077db7, https://pub-331069acac904c9490fbab889f44375d.r2.dev/obafemi.html
@@ -504,8 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 213606, 2024-08-11 13:28:02, 2024-08-11 13:28:02, malware, e5e51e94a43141bb9171b81184dbb6da, http://123.9.41.175:46626/i
 213605, 2024-08-11 13:28:00, 2024-08-11 13:28:00, malware, 47417b37397041cca59a30205d7f59a9, http://123.5.191.6:33342/bin.sh
 213604, 2024-08-11 13:27:59, 2024-08-11 13:27:59, malware, 6c4c0f0cc270427ab510ac9b69b8f3b3, http://123.5.172.185:40818/bin.sh
-213603, 2024-08-11 13:27:57, 2024-08-11 13:27:57, malware, c2ce95bda9b04bd5ab2f53c30512ef7b, http://123.232.194.215:50406/bin.sh
-213602, 2024-08-11 13:27:54, 2024-08-11 13:27:54, malware, 368b6362e23442afb725c93ce607d735, http://123.14.252.193:42894/i
-213601, 2024-08-11 13:27:52, 2024-08-11 13:27:52, malware, a9dabb3c660048df80fbfac7be86d3b7, http://123.14.249.251:60622/i
-213600, 2024-08-11 13:27:50, 2024-08-11 13:27:50, malware, 290b61f0b4af42f093e29f07182eac3e, http://123.14.249.251:60622/bin.sh
-213599, 2024-08-11 13:27:48, 2024-08-11 13:27:48, malware, 5cdf6e7b0b6c42abaa5fe4d26f4fd4dd, http://123.13.37.254:50655/i
