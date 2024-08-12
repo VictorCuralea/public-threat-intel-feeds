@@ -6,9 +6,14 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-12 14:00:02 UTC
+# UPDATE: 2024-08-12 15:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+214446, 2024-08-12 14:47:04, 2024-08-12 14:40:05, phishing, 18ff52b065da04acc5828faafcf4cf56, https://ipfs.io/ipfs/bafybeibkg3smgoxlqa242j5lx46nkoamerxin6zcahkbv3n6azzvuf2u5y/Universal.html#X
+214445, 2024-08-12 14:46:35, 2024-08-12 14:24:17, phishing, 65af488360591c22164ee79609479d93, https://juliusbar.asia/
+214444, 2024-08-12 14:45:35, 2024-08-12 14:08:26, phishing, afa935bbc9162d0677a1280d1ae8e379, https://bafkreig3wgsexehwhwe7eicqifnbpeehy2xkpiwrcxol2e2y3yyzlqeqaq.ipfs.dweb.link/?filename=VOWA.html#x
+214443, 2024-08-12 14:20:12, 2024-08-12 14:20:12, phishing, 3b0a9533dece01740da5ae5eeec5eddf, http://ghkcty.click
+214442, 2024-08-12 14:14:18, 2024-08-12 14:14:18, phishing, ea83d69d6b32b3755d222acc60dc4076, http://yauthtg.dmap.cc
 214441, 2024-08-12 13:54:11, 2024-08-12 13:54:11, phishing, 264a9327ad3b80e2eb1e40f3625a7e4c, http://tw-dj0.pages.dev
 214440, 2024-08-12 13:36:14, 2024-08-12 13:36:14, phishing, d3532b7dc5b158d3edc883b8847255e7, http://istorynews.com/POSTSWISS/COIIUSH8ZQSJQ/6b30a/
 214439, 2024-08-12 13:26:53, 2024-08-12 13:26:53, malware, 2d5eb3afc4164171847bd61e69371c42, http://61.53.126.57:46478/Mozi.m
@@ -504,8 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 213949, 2024-08-11 23:22:44, 2024-08-11 23:22:44, malware, e38b5306f11346c89da8f034ffd41405, http://42.224.169.227:44568/bin.sh
 213948, 2024-08-11 23:22:42, 2024-08-11 23:22:42, malware, 99edaaf08aab423dbc5ea4b0b6ed536f, http://222.142.135.120:41567/Mozi.m
 213947, 2024-08-11 23:22:41, 2024-08-11 23:22:41, malware, 7ab5ca55a9e7439c95f57dd2aa62ac7e, http://222.141.61.92:40947/
-213946, 2024-08-11 23:22:39, 2024-08-11 23:22:39, malware, cb17d58a1aaa4856805bf3a17e865e80, http://222.140.183.74:52808/
-213945, 2024-08-11 23:22:37, 2024-08-11 23:22:37, malware, 18046ba4454e4fb384de652d334646fc, http://222.136.81.73:41457/i
-213944, 2024-08-11 23:22:36, 2024-08-11 23:22:36, malware, 2a04ba33d3eb4f5e96a37fa1fe8b108f, http://221.13.234.38:59147/i
-213943, 2024-08-11 23:22:02, 2024-08-11 23:22:02, malware, afb55a5893b146d79c7eb4e77583ca0c, http://185.196.118.86:40264/
-213942, 2024-08-11 23:22:01, 2024-08-11 23:22:01, malware, cb5c7bd722b84751a4cf489fd6251812, http://182.127.110.13:36235/bin.sh
