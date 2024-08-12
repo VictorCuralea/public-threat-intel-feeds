@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-12 12:00:02 UTC
+# UPDATE: 2024-08-12 13:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+214390, 2024-08-12 12:50:45, 2024-08-12 12:46:13, phishing, b55f8fd4663ee2dfb498821f2ec49501, https://postch-ltd.com/
+214389, 2024-08-12 12:44:13, 2024-08-12 12:44:13, phishing, f0f03559e5d579e7ae51e3fec3fb1c66, http://blastroyalpresale.pages.dev
+214388, 2024-08-12 12:18:11, 2024-08-12 12:18:11, phishing, 0783e7388577359f91ed7f780afcae70, http://proxy-to-t-me.mtf-xyn-bdxyn.workers.dev
+214387, 2024-08-12 12:04:13, 2024-08-12 12:04:13, phishing, 3b1ffa886341377e4639b2ac3232558a, http://espace-enligne-sms.fr
 214386, 2024-08-12 11:46:17, 2024-08-12 11:46:17, phishing, 1105dba841f4b4b7cc2038772aad6eab, http://createguardianresolver.pages.dev
 214385, 2024-08-12 11:35:09, 2024-08-12 10:40:15, phishing, a295a0be0453e1b2c4c3b6a251de6ce0, https://bt-101470.weeblysite.com/
 214384, 2024-08-12 11:28:13, 2024-08-12 11:28:13, malware, f4d26eb5d5674d469ddc3eeba26178d8, http://61.53.87.59:54152/i
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 213893, 2024-08-11 21:21:34, 2024-08-11 21:21:34, malware, 9cb094cd35b844a498145a49826cd83d, http://123.9.86.104:60299/bin.sh
 213892, 2024-08-11 21:21:32, 2024-08-11 21:21:32, malware, 74807dc5b4694036893d537413af8868, http://123.9.41.175:46626/Mozi.m
 213891, 2024-08-11 21:21:30, 2024-08-11 21:21:30, malware, 6300d634c3904a179f228682f4fc1345, http://123.132.164.202:44631/i
-213890, 2024-08-11 21:21:29, 2024-08-11 21:21:29, malware, 2879b87dc4eb4c9b9f0386da5dadbebe, http://119.179.249.197:36766/Mozi.m
-213889, 2024-08-11 21:21:27, 2024-08-11 21:21:27, malware, 3e3f4f01799244b38c90ccff986959f3, http://117.254.97.32:38180/i
-213888, 2024-08-11 21:21:14, 2024-08-11 21:21:14, malware, 9c2b9faf3f384fe1b96dc20a35142841, http://117.235.119.20:42640/i
-213887, 2024-08-11 21:21:12, 2024-08-11 21:21:12, malware, 30eb02f00f2042f8b3be017cd823589f, http://117.235.119.20:42640/bin.sh

@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-08-12 11:54:54 UTC                        #
+# Last updated: 2024-08-12 12:38:33 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	safety-subcommittee.gl.at.ply.gg
 127.0.0.1	mofa-gov-bd.dowmload.co
 127.0.0.1	mofa-gov-pk.dowmload.co
 127.0.0.1	punjabpolice-gov-pk.dowmload.co
@@ -6887,4 +6888,4 @@
 127.0.0.1	23-26-55-9.cprapid.com
 127.0.0.1	static.127.103.78.5.clients.your-server.de
 127.0.0.1	199.60.149.34.bc.googleusercontent.com
-# Number of entries: 6881
+# Number of entries: 6882
