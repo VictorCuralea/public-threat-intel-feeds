@@ -1,11 +1,20 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-08-12 06:47:27 UTC                        #
+# Last updated: 2024-08-12 11:54:54 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	mofa-gov-bd.dowmload.co
+127.0.0.1	mofa-gov-pk.dowmload.co
+127.0.0.1	punjabpolice-gov-pk.dowmload.co
+127.0.0.1	www-army-mil-bd.dowmload.co
+127.0.0.1	dowmload.co
+127.0.0.1	fmprc-gov-cn.dowmload.co
+127.0.0.1	mod-gov-bd.dowmload.co
+127.0.0.1	moittadvisory.pmd-offc.info
+127.0.0.1	pmd-offc.info
 127.0.0.1	www.ritcophysiotherapy.com.au
 127.0.0.1	pretty-dressed.gl.at.ply.gg
 127.0.0.1	viewifydocs.com
@@ -6878,5 +6887,4 @@
 127.0.0.1	23-26-55-9.cprapid.com
 127.0.0.1	static.127.103.78.5.clients.your-server.de
 127.0.0.1	199.60.149.34.bc.googleusercontent.com
-127.0.0.1	haha.skyljne.click
-# Number of entries: 6873
+# Number of entries: 6881
