@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-08-12 18:48:02 UTC                        #
+# Last updated: 2024-08-12 20:24:57 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	yanzu.top
 127.0.0.1	simple-updatereport.com
 127.0.0.1	citrix.vipreclod.com
 127.0.0.1	safety-subcommittee.gl.at.ply.gg
@@ -6885,5 +6886,4 @@
 127.0.0.1	bigballz.bounceme.net
 127.0.0.1	net-killer.servehttp.com
 127.0.0.1	cheatlab.live
-127.0.0.1	janxworm9090.duckdns.org
 # Number of entries: 6880

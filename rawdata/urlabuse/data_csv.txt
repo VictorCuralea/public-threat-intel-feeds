@@ -6,9 +6,16 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-12 20:00:01 UTC
+# UPDATE: 2024-08-12 21:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+214661, 2024-08-12 20:56:14, 2024-08-12 20:56:14, phishing, 169ea9c38b8fa57e1f1e55c1cf0a2c0d, http://moaoraafa.duckdns.org
+214660, 2024-08-12 20:56:13, 2024-08-12 20:56:13, phishing, ffa3448ec4c34e1de6ebe629c168af47, http://cf-page-fd.pages.dev
+214659, 2024-08-12 20:50:13, 2024-08-12 20:50:13, phishing, 1827bd8fda8ec8d2c060c20e68a7e2dc, https://btsupport-d6fc7b.webflow.io/
+214658, 2024-08-12 20:47:58, 2024-08-12 20:36:13, phishing, 65c83e63aeb069170bfa6d126c73e4bb, https://btinternett.carrd.co/
+214657, 2024-08-12 20:47:48, 2024-08-12 20:47:48, phishing, c93aecca1d29361c4515220b01c2aca8, https://webmailal.ebforms.com/4623544140169216
+214656, 2024-08-12 20:36:45, 2024-08-12 20:36:45, phishing, 37ca343ebc0cbb5e690db937ef7e06aa, https://sante-public-info.com/pages/billing.php
+214655, 2024-08-12 20:26:12, 2024-08-12 20:26:12, phishing, 45578a7ad6dfd402d2f49286383a513e, http://rojdingserijridhsjbalsisgser2.pages.dev
 214654, 2024-08-12 19:39:15, 2024-08-12 19:39:15, hacked, 6e14eeffdb26b7daa3f6b12156664587, https://iedc.spit.ac.in/
 214653, 2024-08-12 19:39:13, 2024-08-12 19:39:13, hacked, 75cae6c9a9bc1cedf277cbed59544497, https://smackbangstage.wpengine.com/tht.html
 214652, 2024-08-12 19:39:11, 2024-08-12 19:39:11, hacked, 8bf5ece57597a6a85f3956b77cdaad66, https://luxurypropertiesfl.com/index.html
@@ -502,10 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 214164, 2024-08-12 08:20:25, 2024-08-12 08:20:25, malware, 48f2135e08184e1aad76551a23839aa7, http://115.56.123.212:50402/bin.sh
 214163, 2024-08-12 08:20:24, 2024-08-12 08:20:24, malware, 96eff818862d4e9c96c08250193ea9e5, http://115.55.95.36:50314/bin.sh
 214162, 2024-08-12 08:20:22, 2024-08-12 08:20:22, malware, 807cf1d419e24e339737cacb1edb2f52, http://115.55.229.3:36643/i
-214161, 2024-08-12 08:20:20, 2024-08-12 08:20:20, malware, 784e98f7a8674858aad362fca4cd4302, http://115.55.229.3:36643/bin.sh
-214160, 2024-08-12 08:20:19, 2024-08-12 08:20:19, malware, a037622255c04b89a98424adb6d704ea, http://115.55.194.119:59585/bin.sh
-214159, 2024-08-12 08:20:17, 2024-08-12 08:20:17, malware, eac6d11afbf649ef816c3f58dea15c5a, http://115.51.97.252:51655/bin.sh
-214158, 2024-08-12 08:20:16, 2024-08-12 08:20:16, malware, 890cc1ab59224519b3cdfb7c434d5db5, http://115.50.56.211:47530/
-214157, 2024-08-12 08:20:14, 2024-08-12 08:20:14, malware, e2afaa93da2f49058d008c698777464f, http://115.50.224.232:42934/bin.sh
-214156, 2024-08-12 08:20:13, 2024-08-12 08:20:13, malware, 3387ebff7e7e49e783f4a43683e0e660, http://112.248.189.247:45550/i
-214155, 2024-08-12 08:20:11, 2024-08-12 08:20:11, malware, 3dce74a1f9cb488598e03cb83b250262, http://112.248.189.247:45550/bin.sh
