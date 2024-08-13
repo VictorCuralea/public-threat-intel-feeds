@@ -6,7 +6,7 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-12 23:00:02 UTC
+# UPDATE: 2024-08-13 00:00:01 UTC
 ############### END COMMENTS ###############
 {"id": 214718, "url": "https://ee-unlock.web.app/", "discovery": "2024-08-12 21:14:12", "added": "2024-08-12 22:05:41", "target": "EE", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "175f7a016b7b6e5bc99f1f7954c6ecaf"}
 {"id": 214717, "url": "https://pub-cf881a6d3f1f4eb48396cb5fe19aeca9.r2.dev/Nurs.html", "discovery": "2024-08-12 22:04:18", "added": "2024-08-12 22:04:18", "target": "Microsoft", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "1a65cc231eeab5174166c107d54948a8"}
