@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-13 20:00:01 UTC
+# UPDATE: 2024-08-13 21:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+215481, 2024-08-13 20:48:07, 2024-08-13 19:46:17, phishing, 6bc3380bdbd90636fce34ac91719b425, https://uon.bow.mybluehost.me/ch/
+215480, 2024-08-13 20:40:10, 2024-08-13 20:40:10, phishing, a5188baa18614285591fdd8ef64615fe, http://yeoisgdoiuhdysidaryjewsg1.pages.dev
 215479, 2024-08-13 19:48:12, 2024-08-13 19:48:12, phishing, a5c9333cddcc78033767d56e54bad870, http://mail.arscom.ru
 215478, 2024-08-13 19:27:49, 2024-08-13 19:27:49, malware, 5c632eef16054891a059a074f5e8dfe4, http://59.93.183.202:54214/Mozi.m
 215477, 2024-08-13 19:26:49, 2024-08-13 19:26:49, malware, c99f59de855d464f95686a11504f0b19, http://59.180.176.195:55664/i
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 214984, 2024-08-13 05:25:09, 2024-08-13 05:25:09, malware, b6ac1cd2010d41ca95a67b16896ee43a, http://221.15.252.138:54802/
 214983, 2024-08-13 05:25:07, 2024-08-13 05:25:07, malware, ac6885d93c4f437ebd694369dd5162d0, http://219.157.52.122:55372/bin.sh
 214982, 2024-08-13 05:25:06, 2024-08-13 05:25:06, malware, ee36ae1e84e84dfdb9233cc5eab4c6c6, http://219.157.210.104:34976/bin.sh
-214981, 2024-08-13 05:25:05, 2024-08-13 05:25:05, malware, dfa08e575eb14f5e926756ff3e47f97e, http://219.157.20.133:42144/bin.sh
-214980, 2024-08-13 05:25:03, 2024-08-13 05:25:03, malware, 9b73572045d34ab19682335ae5d888d4, http://190.201.135.150:47142/i
