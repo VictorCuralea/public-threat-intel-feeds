@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-08-13 15:44:11 UTC                        #
+# Last updated: 2024-08-13 16:16:12 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ffffffffcku.xyz
+127.0.0.1	js.t00ls.top
 127.0.0.1	zghgseitu.cloudns.be
 127.0.0.1	bigdownload.lol
 127.0.0.1	bigdownload.xyz
@@ -6883,18 +6885,4 @@
 127.0.0.1	dadadsadaccsoong.top
 127.0.0.1	botnet.nguyennghi.info
 127.0.0.1	prodomainnameeforappru.com
-127.0.0.1	www.cranky-easley.142-11-199-59.plesk.page
-127.0.0.1	static.156.235.21.65.clients.your-server.de
-127.0.0.1	www.miner.bitron-mining.online
-127.0.0.1	miner.bitron-mining.online
-127.0.0.1	www.glptestasets.com
-127.0.0.1	vps-zap477067-1.zap-srv.com
-127.0.0.1	161-35-239-147.cprapid.com
-127.0.0.1	glptestasets.com
-127.0.0.1	funny-kirch.62-210-130-233.plesk.page
-127.0.0.1	great-burnell.62-210-130-233.plesk.page
-127.0.0.1	gymlog.de
-127.0.0.1	ec2-13-214-29-253.ap-southeast-1.compute.amazonaws.com
-127.0.0.1	is5jg.3zweuj.com
-127.0.0.1	qxjjj.j7ute.com
-# Number of entries: 6891
+# Number of entries: 6879
