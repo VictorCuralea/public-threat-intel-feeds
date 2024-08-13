@@ -1,11 +1,20 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-08-13 05:59:55 UTC                        #
+# Last updated: 2024-08-13 11:44:04 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	googlewired.com
+127.0.0.1	kasperskye.com
+127.0.0.1	skypeinc.com
+127.0.0.1	cf.kasperskye.com
+127.0.0.1	cloud.google-inc.ltd
+127.0.0.1	dns.skypeinc.com
+127.0.0.1	update.googlewired.com
+127.0.0.1	update.kasperskye.com
+127.0.0.1	google-inc.ltd
 127.0.0.1	gxsicmj3l.top
 127.0.0.1	drsmarinegroup.com
 127.0.0.1	born-brandon.gl.at.ply.gg
@@ -6886,4 +6895,4 @@
 127.0.0.1	is5jg.3zweuj.com
 127.0.0.1	qxjjj.j7ute.com
 127.0.0.1	www.qichen.fun
-# Number of entries: 6880
+# Number of entries: 6889
