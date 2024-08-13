@@ -6,8 +6,15 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-13 18:00:01 UTC
+# UPDATE: 2024-08-13 19:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 215436, "url": "http://webclaimhelp.pages.dev", "discovery": "2024-08-13 18:32:10", "added": "2024-08-13 18:32:10", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "3731b55bb4290a19b0f8a6ae6e39efbd"}
+{"id": 215435, "url": "http://ctdxrsezxrdtfyuyytfdrxsezxdrctfvygvfxdrsd.pages.dev", "discovery": "2024-08-13 18:32:10", "added": "2024-08-13 18:32:10", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "bcba6a0f8963911d46eae13dce907bd4"}
+{"id": 215434, "url": "http://teleargle.top", "discovery": "2024-08-13 18:30:26", "added": "2024-08-13 18:30:26", "target": "Telegram", "reporter": "lruray", "AbuseType": "phishing", "UUID": "37ac6edc0164a3fbd79d1caca8501b26"}
+{"id": 215433, "url": "http://telegral.top", "discovery": "2024-08-13 18:28:19", "added": "2024-08-13 18:28:19", "target": "Telegram", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "7281410490187f09b641844b021fe52a"}
+{"id": 215432, "url": "https://www-reviewbtjune13-2024.webflow.io", "discovery": "2024-08-13 18:23:55", "added": "2024-08-13 18:23:55", "target": "BT", "reporter": "urlabuse", "AbuseType": "phishing", "UUID": "7118c3c1c4241b30bdb85f312b022643"}
+{"id": 215431, "url": "https://tinyurl.com/yc4zvu2s", "discovery": "2024-08-13 17:50:11", "added": "2024-08-13 18:23:44", "target": "BT", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "2b075f1daf9172d227fed18192f25cd9"}
+{"id": 215430, "url": "http://dexfixer.pages.dev", "discovery": "2024-08-13 18:20:13", "added": "2024-08-13 18:20:13", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "52f17c039ea6402f9dd66ede426d8afa"}
 {"id": 215429, "url": "http://us-usps-vc.top", "discovery": "2024-08-13 17:42:17", "added": "2024-08-13 17:42:17", "target": "USPS", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "4bb3804f7f7f770d7b2897037e4e449f"}
 {"id": 215428, "url": "http://89.23.98.98/file/carrier.exe", "discovery": "2024-08-13 17:29:30", "added": "2024-08-13 17:29:30", "target": "#PE32INTEL_GUI", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "cf87e21a0c8143b68a6f18b40416e478"}
 {"id": 215427, "url": "http://61.52.59.109:34064/Mozi.m", "discovery": "2024-08-13 17:27:49", "added": "2024-08-13 17:27:49", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "5a48e4ead25f41e8b782c4e4cadd4313"}
@@ -501,10 +508,3 @@
 {"id": 214939, "url": "http://115.55.234.138:58285/bin.sh", "discovery": "2024-08-13 05:20:17", "added": "2024-08-13 05:20:17", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "b6c025f3f0b44179a64ec5abc9b1bfd2"}
 {"id": 214938, "url": "http://115.54.172.11:53992/bin.sh", "discovery": "2024-08-13 05:20:15", "added": "2024-08-13 05:20:15", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "a43f5d37da174cbf804828c6d1f8ede5"}
 {"id": 214937, "url": "http://us-usps-helpes.top", "discovery": "2024-08-13 05:10:27", "added": "2024-08-13 05:10:27", "target": "USPS", "reporter": "lruray", "AbuseType": "phishing", "UUID": "9dad899f39fd813a99b35ca279a7c039"}
-{"id": 214936, "url": "http://us-usps-helpei.top", "discovery": "2024-08-13 05:10:19", "added": "2024-08-13 05:10:19", "target": "USPS", "reporter": "lruray", "AbuseType": "phishing", "UUID": "53f6a8bb98c4f4b2f678bd81779f4555"}
-{"id": 214935, "url": "http://us-usps-helpek.top", "discovery": "2024-08-13 05:10:19", "added": "2024-08-13 05:10:19", "target": "USPS", "reporter": "lruray", "AbuseType": "phishing", "UUID": "b6bb18b71d7950de6875bc7192e568d3"}
-{"id": 214934, "url": "http://us-usps-helpem.top", "discovery": "2024-08-13 05:10:19", "added": "2024-08-13 05:10:19", "target": "USPS", "reporter": "lruray", "AbuseType": "phishing", "UUID": "d7274052a1e8df2b282958ac48e70182"}
-{"id": 214933, "url": "http://us-usps-helpeh.top", "discovery": "2024-08-13 05:10:19", "added": "2024-08-13 05:10:19", "target": "USPS", "reporter": "lruray", "AbuseType": "phishing", "UUID": "2aaa51d6cbf573972f6aa9262ec26889"}
-{"id": 214932, "url": "http://us-usps-lg.top", "discovery": "2024-08-13 05:08:15", "added": "2024-08-13 05:08:15", "target": "USPS", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "d90e45be9a862c4ba20ad158a644a040"}
-{"id": 214931, "url": "http://us-usps-ax.top", "discovery": "2024-08-13 05:06:17", "added": "2024-08-13 05:06:17", "target": "USPS", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "81cde0be0f8a6130bbc11a95d94dd1d7"}
-{"id": 214930, "url": "http://sfpdappschain.net", "discovery": "2024-08-13 04:58:11", "added": "2024-08-13 04:58:11", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "0f2379849be4766a8ab6c362318946c1"}
