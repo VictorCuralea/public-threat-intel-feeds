@@ -6,9 +6,23 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-13 08:00:01 UTC
+# UPDATE: 2024-08-13 09:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+215108, 2024-08-13 08:36:13, 2024-08-13 08:36:13, phishing, 969d90bd9bbc860adb5fa6851710df01, http://curhat.matedevs.net
+215107, 2024-08-13 08:34:24, 2024-08-13 08:20:15, phishing, 61917a7bca2240d9da56578c441bf721, https://login-mybtconnect.studio.site/
+215106, 2024-08-13 08:33:45, 2024-08-13 08:18:14, phishing, 903319b000b978ded6c289624597a7d9, https://sl.metricool.com/public/smartlink/tb
+215105, 2024-08-13 08:32:42, 2024-08-13 08:16:19, phishing, 1be103b8c4096be662476f3545e5d22a, https://ee-payment-error.web.app/
+215104, 2024-08-13 08:26:21, 2024-08-13 08:26:21, phishing, 5e2eb81d08c04c046719d453b10f383e, http://web-whtasapp.cn
+215103, 2024-08-13 08:18:26, 2024-08-13 08:18:26, phishing, 157e6be71c60c1400c2604455f7dcffb, https://13daa5b8e1.nxcli.io/rechnung/?token=
+215102, 2024-08-13 08:18:22, 2024-08-13 08:18:22, phishing, 70b3c636876b795981769712a819a1f2, https://php-salmon-alligator-adperdoti1985812444.codeanyapp.com/CHFINAL/02772/
+215101, 2024-08-13 08:18:22, 2024-08-13 08:18:22, phishing, fd5aef3aac3e232f28ca6fd0967bbeb1, https://international-shipping-dhl.mybluehost.me/dhl/CHFINAL/CHFINALE/
+215100, 2024-08-13 08:17:33, 2024-08-13 08:17:33, phishing, 851dfdf71ddeb53e0a0fbefcf062ff9d, https://iskan.qa/Log/SwissPost/auth/swiss_fr/manage/
+215099, 2024-08-13 08:17:23, 2024-08-13 08:17:23, phishing, 09badac3250ddda93eb269d9700606c3, https://iskan.qa/Log/SwissPost/auth/swiss_de/manage/
+215098, 2024-08-13 08:17:11, 2024-08-13 08:16:11, phishing, 65f83e2dbb5c7a3d7380ca4b6faa00be, https://iskan.qa/Log/SwissPost/auth/
+215097, 2024-08-13 08:16:13, 2024-08-13 08:16:13, phishing, d0d860e358f5082430a38c40955d8be4, https://erhfjghegrdhfg.weebly.com/
+215096, 2024-08-13 08:14:20, 2024-08-13 08:14:20, phishing, a2f8e46ea3d02bae161fb4411715d1aa, https://bx.xwj5.ru.com/16781716716176/dhlnew/locatar/home.php?newtoken=
+215095, 2024-08-13 08:06:16, 2024-08-13 08:06:16, phishing, d1d75edfaf1f8f292b1bf4bec0b6cfb6, http://mekxi.matedevs.net
 215094, 2024-08-13 07:40:17, 2024-08-13 07:40:17, phishing, 74474bb2be742f16717615482ed043d4, http://telegacm.vip
 215093, 2024-08-13 07:36:16, 2024-08-13 07:36:16, phishing, 231d56d5f2819b43ad9feeaa0096f4ca, http://telegrame.xyz
 215092, 2024-08-13 07:27:36, 2024-08-13 07:27:36, malware, 65adbb2f8af34811b0587bbbc2859a63, http://61.3.90.51:58271/i
@@ -495,17 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 214611, 2024-08-12 19:24:51, 2024-08-12 19:24:51, malware, 9edadca409464243978233b95e8773bc, http://37.1.213.84/051d53e83e940e71/sqlite3.dll
 214610, 2024-08-12 19:24:37, 2024-08-12 19:24:37, malware, 79c0bcaccdd2448b8bd340b4ed089912, http://37.1.213.84/051d53e83e940e71/msvcp140.dll
 214609, 2024-08-12 19:24:28, 2024-08-12 19:24:28, malware, 2b7514d043cf4838b9cb42284d220492, http://222.142.237.195:59373/i
-214608, 2024-08-12 19:24:27, 2024-08-12 19:24:27, malware, c14dac6543294c83acd8f99e91eb6756, http://221.15.240.91:40550/bin.sh
-214607, 2024-08-12 19:24:25, 2024-08-12 19:24:25, malware, c78b618c81804fb38fa20ce7431a285e, http://221.14.37.8:53985/bin.sh
-214606, 2024-08-12 19:24:24, 2024-08-12 19:24:24, malware, a8158ae37ec94d37836dbffb677fa4ba, http://219.155.200.19:45798/
-214605, 2024-08-12 19:24:11, 2024-08-12 19:24:11, malware, 5413f01b37f44e679bd8d0244b54e614, http://182.120.7.132:59641/i
-214604, 2024-08-12 19:24:10, 2024-08-12 19:24:10, malware, 119c6868a7bd422ebf87dd80ec7ff451, http://182.119.164.169:41070/bin.sh
-214603, 2024-08-12 19:24:08, 2024-08-12 19:24:08, malware, 4bd74fe9d4c3409c92526546876bb5e0, http://182.119.0.115:40674/Mozi.m
-214602, 2024-08-12 19:23:56, 2024-08-12 19:23:56, malware, 6a7c4a570534463491aaab3cda4aa91f, http://123.9.196.199:56669/
-214601, 2024-08-12 19:23:45, 2024-08-12 19:23:45, malware, 029190873e2843debcb4f13261a082b4, http://117.255.19.66:41834/bin.sh
-214600, 2024-08-12 19:23:01, 2024-08-12 19:23:01, malware, f7b7ea10f3ae4475862be921366da003, http://117.242.239.158:59037/Mozi.m
-214599, 2024-08-12 19:23:00, 2024-08-12 19:23:00, malware, ad9e059f4b814cfab5a068f67e637d01, http://117.242.204.143:42811/bin.sh
-214598, 2024-08-12 19:21:57, 2024-08-12 19:21:57, malware, 3e939511d65f47d6ac275ef6d5d78e05, http://117.208.100.176:52352/i
-214597, 2024-08-12 19:21:55, 2024-08-12 19:21:55, malware, 0df6b9bbbdc549399d858dc5840790fc, http://117.208.100.176:52352/bin.sh
-214596, 2024-08-12 19:21:53, 2024-08-12 19:21:53, malware, ad80e271d604456f914a5fcedea60ef9, http://117.207.45.157:59122/Mozi.m
-214595, 2024-08-12 19:21:28, 2024-08-12 19:21:28, malware, 5c79de2773f54cf1b80428f0beb1f3b6, http://117.198.10.60:40327/Mozi.m
