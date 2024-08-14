@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-14 14:00:01 UTC
+# UPDATE: 2024-08-14 15:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+216120, 2024-08-14 14:50:20, 2024-08-14 14:50:20, phishing, 2908e6dc537dd58b7d3d8f97d3509619, https://71c1726d4f.nxcli.io/neu/?token=
+216119, 2024-08-14 14:10:12, 2024-08-14 14:10:12, phishing, 1dbb26748008b97a58784d25660ab546, http://inshasexdrtfgytfcdrxsezxdrtfdrxsexdr.pages.dev
+216118, 2024-08-14 14:02:15, 2024-08-14 14:02:15, hacked, 095d027ed0509919f88b004c241f7bcb, https://www.khushitourntravel.com
+216117, 2024-08-14 14:02:14, 2024-08-14 14:02:14, phishing, bff5cf085fd8d221623baa06dba262bd, http://loker-tenaga-kebersihan-bca.1nfo4pp.co.uk
 216116, 2024-08-14 13:54:10, 2024-08-14 13:54:10, phishing, 3762a42e36ccd703966ef4d3cb9d7219, http://mailserverauthenticatione857349485fhdhfhdfhdh-1.pages.dev
 216115, 2024-08-14 13:40:13, 2024-08-14 13:40:13, phishing, c83ff9edaf88b10f9deb73f1677c637e, http://mail.mertkarakaslitr.com
 216114, 2024-08-14 13:38:11, 2024-08-14 13:38:11, phishing, 62ec0e4bd9a82422bd69c71093d30d67, http://mertkarakaslitr.com
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 215623, 2024-08-13 23:25:31, 2024-08-13 23:25:31, malware, ddf151bcefb24d96a9a8915db245ea92, http://69.165.74.77/sh4
 215622, 2024-08-13 23:25:31, 2024-08-13 23:25:31, malware, 740e9df70360436cbf7d2ea25ad64250, http://69.165.74.77/ppc
 215621, 2024-08-13 23:25:30, 2024-08-13 23:25:30, malware, 3ff3e38e136947a7b4a4c408ce9923e1, http://69.165.74.77/m68k
-215620, 2024-08-13 23:25:30, 2024-08-13 23:25:30, malware, 937ebc301b064f748843c7ca039cfe66, http://69.165.74.77/arm7
-215619, 2024-08-13 23:25:29, 2024-08-13 23:25:29, malware, a5bb8955edc64bd3aad7dce621cd5e51, http://69.165.74.77/arm6
-215618, 2024-08-13 23:25:28, 2024-08-13 23:25:28, malware, 7d96806022534829ad964f8d47732f74, http://69.165.74.77/arm5
-215617, 2024-08-13 23:25:28, 2024-08-13 23:25:28, malware, 9666ac3df7224bfb8892819dee2e6e8b, http://61.53.218.106:57112/Mozi.m
