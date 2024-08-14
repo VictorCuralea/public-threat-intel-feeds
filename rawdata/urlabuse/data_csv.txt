@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-14 20:00:01 UTC
+# UPDATE: 2024-08-14 21:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+216303, 2024-08-14 20:58:13, 2024-08-14 20:58:13, phishing, 66f395443efa4d589b4d4a2fc2f7c268, http://verificationatuneticationdomainhosting1.pages.dev
+216302, 2024-08-14 20:26:15, 2024-08-14 20:26:15, phishing, 0fcb5ba5e35fa0e6e4eb824bb26652c6, http://emboarded.pages.dev
+216301, 2024-08-14 20:00:14, 2024-08-14 20:00:14, phishing, c16e9ae7a455c8e97c1732643dccb902, http://bitcoinetfblockchain.pages.dev
 216300, 2024-08-14 19:46:12, 2024-08-14 19:46:12, phishing, 62073f94bea59a9bbf2de3e6eafd2080, http://acrobat-file.pages.dev
 216299, 2024-08-14 19:29:49, 2024-08-14 19:29:49, malware, f2d966af126f4c88bbc8604a213d509c, http://95.32.255.254:35539/bin.sh
 216298, 2024-08-14 19:29:48, 2024-08-14 19:29:48, malware, 5a1ca28eab9144f291f2e8ea4b177b47, http://78.153.140.96/cpr.sh
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 215806, 2024-08-14 05:25:07, 2024-08-14 05:22:15, phishing, 4794a46b494b1b9877dcf3d3f68766fb, https://ipfs.io/ipfs/bafybeiheld2qg757ilr6xtp7flaa76it6wecvem5hv3e4xucuecgrrbbr4/8498kirixc.htm#x
 215805, 2024-08-14 05:24:53, 2024-08-14 05:15:58, phishing, b444250e8ff3648212f557ad6f7d4965, https://ipfs.io/ipfs/bafybeiheatyotehjfdjpfhxjcxzke4rml3aduj6hghagsbehw5fmp7o25u/GM.html#x
 215804, 2024-08-14 05:24:30, 2024-08-14 05:24:30, malware, 4e9dfd72e1174b7f867a89840f367b32, http://42.234.131.65:47507/Mozi.m
-215803, 2024-08-14 05:24:29, 2024-08-14 05:24:29, malware, 205450aa0f63465aaf9403db897b720f, http://42.231.44.198:52870/i
-215802, 2024-08-14 05:24:27, 2024-08-14 05:24:27, malware, 749fc42a56754d2694491bbeffe6ceaa, http://42.231.44.198:52870/bin.sh
-215801, 2024-08-14 05:24:06, 2024-08-14 05:24:06, malware, 24ee7b96515f4069b0760d107e2b8900, http://27.215.44.96:34137/i
