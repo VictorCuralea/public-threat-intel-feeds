@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-14 18:00:01 UTC
+# UPDATE: 2024-08-14 19:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+216238, 2024-08-14 18:04:12, 2024-08-14 18:04:12, phishing, 72f6b4d9a9fbfa13f15037636c78952e, http://merges-vercel-app.pages.dev
 216237, 2024-08-14 17:25:44, 2024-08-14 17:25:44, malware, 73755348b5fd4a3cae9ed36260a4fbbe, http://61.52.158.32:59745/i
 216236, 2024-08-14 17:25:02, 2024-08-14 17:25:02, malware, ee4062e71e984842805825dd74154c8d, http://59.89.207.2:59163/bin.sh
 216235, 2024-08-14 17:23:59, 2024-08-14 17:23:59, malware, e38ec9c51a7f4209a9354f3bbf5776ed, http://42.239.252.82:35770/bin.sh
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 215741, 2024-08-14 03:25:01, 2024-08-14 03:25:01, malware, a9a6e070a53a4f9cb544420bb0f32cfd, http://59.88.156.187:43369/bin.sh
 215740, 2024-08-14 03:24:49, 2024-08-14 03:24:49, malware, 2075fbfdc937465ebd690a3b2cf9cbe1, http://59.182.126.54:56199/Mozi.m
 215739, 2024-08-14 03:24:47, 2024-08-14 03:24:47, malware, e43a913eeab048a1b5ac66afabd7f3ac, http://42.235.66.17:43227/i
-215738, 2024-08-14 03:24:46, 2024-08-14 03:24:46, malware, a4fd1538128d4bba9dd7e1010abdf3ec, http://42.227.175.135:44311/i
