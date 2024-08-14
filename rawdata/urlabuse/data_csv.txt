@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-14 00:00:02 UTC
+# UPDATE: 2024-08-14 01:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+215629, 2024-08-14 00:54:11, 2024-08-14 00:54:11, phishing, 4ae585b53e830f0cfc5ccaa1e0e59203, http://moontaurus-com.pages.dev
+215628, 2024-08-14 00:52:13, 2024-08-14 00:52:13, phishing, eb8724734a281d7e3d60551d3f6073e3, http://doglibre-com.pages.dev
+215627, 2024-08-14 00:50:13, 2024-08-14 00:50:13, phishing, bf748d4f18b9e4dfdc778fff312d7f0d, http://doggyai-com.pages.dev
+215626, 2024-08-14 00:30:14, 2024-08-14 00:30:14, phishing, 40995ab4f42b01fbf7f8cc64e644026a, http://dappsmainnets.pages.dev
 215625, 2024-08-13 23:25:34, 2024-08-13 23:25:34, malware, e92f6191416c46a2897a0ddd1ebcce6b, http://82.147.85.52/build2.exe
 215624, 2024-08-13 23:25:32, 2024-08-13 23:25:32, malware, 932cf13833fd45d0bdf815850e26fcc0, http://69.165.74.77/spc
 215623, 2024-08-13 23:25:31, 2024-08-13 23:25:31, malware, ddf151bcefb24d96a9a8915db245ea92, http://69.165.74.77/sh4
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 215132, 2024-08-13 09:24:40, 2024-08-13 09:24:40, malware, c5c72c85c70e4e6d896cacec6a0a6efb, http://125.44.31.220:43344/i
 215131, 2024-08-13 09:24:38, 2024-08-13 09:24:38, malware, 733bb4b91e964cba97557e36eef4a879, http://123.14.151.129:48212/i
 215130, 2024-08-13 09:24:36, 2024-08-13 09:24:36, malware, 5aa96c490c7a4cde85cea45cbfe4f1c0, http://123.129.133.41:47477/bin.sh
-215129, 2024-08-13 09:24:35, 2024-08-13 09:24:35, malware, e531722d7c91427d951e428de064e7df, http://123.129.129.143:37622/Mozi.m
-215128, 2024-08-13 09:24:34, 2024-08-13 09:24:34, malware, 94f93e05d2d149148b76eafc34b4cbc3, http://120.211.101.246:58618/bin.sh
-215127, 2024-08-13 09:24:32, 2024-08-13 09:24:32, malware, 141ce0ca83c14ee88b1cd7409510d291, http://119.179.8.214:42393/i
-215126, 2024-08-13 09:24:31, 2024-08-13 09:24:31, malware, 1e9fa705cc74423995710b9ab51697c7, http://119.179.253.211:49351/i
