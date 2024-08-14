@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-14 02:00:01 UTC
+# UPDATE: 2024-08-14 03:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+215693, 2024-08-14 02:32:13, 2024-08-14 02:32:13, phishing, c90b3af9c8dc9f7b4e68550ea3c37306, http://ghbnm.pages.dev
+215692, 2024-08-14 02:24:10, 2024-08-14 02:24:10, phishing, 4edc93606e440857551a6f5e10c09868, http://domailfreenamesrverwebmailvalidationservice03.pages.dev
 215691, 2024-08-14 01:27:51, 2024-08-14 01:27:51, malware, 53a4898b248c4782b33030a796989a62, http://92.154.92.135:55056/Mozi.a
 215690, 2024-08-14 01:27:49, 2024-08-14 01:27:49, malware, 64889f007c474f94b90f4f731f8d1417, http://73.171.230.140:46262/Mozi.m
 215689, 2024-08-14 01:27:44, 2024-08-14 01:27:44, malware, 292876fab00c4ea8a459fa9451342cca, http://61.52.158.32:59745/bin.sh
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 215196, 2024-08-13 11:25:18, 2024-08-13 11:25:18, malware, 573c37a252d443e18f1a1afcbf4f1aff, http://125.46.197.81:49306/bin.sh
 215195, 2024-08-13 11:25:06, 2024-08-13 11:25:06, malware, 6da70d73a3104c619d45d583eebd1864, http://123.9.105.148:54155/i
 215194, 2024-08-13 11:24:55, 2024-08-13 11:24:55, malware, 1f437cbe9468465b9b53bbb6e3c2b57a, http://120.61.74.208:43524/i
-215193, 2024-08-13 11:24:52, 2024-08-13 11:24:52, malware, 6b1ba1cae2cc4885bfbea6ccac2a6225, http://120.61.137.141:34819/i
-215192, 2024-08-13 11:24:31, 2024-08-13 11:24:31, malware, a798cc41f9af466aa1435188902fc796, http://117.248.39.162:50915/Mozi.m
