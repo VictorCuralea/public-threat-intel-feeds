@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-08-14 01:33:08 UTC                        #
+# Last updated: 2024-08-14 06:08:17 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	since-searching.gl.at.ply.gg
+127.0.0.1	hackerkurda.duckdns.org
 127.0.0.1	bold-hamilton.207-246-119-197.plesk.page
 127.0.0.1	randzalo.com
 127.0.0.1	googlesharepoint.com
@@ -7028,4 +7030,4 @@
 127.0.0.1	qrchq.vrhoeas.com
 127.0.0.1	dadadsadaccsoong.top
 127.0.0.1	botnet.nguyennghi.info
-# Number of entries: 7022
+# Number of entries: 7024

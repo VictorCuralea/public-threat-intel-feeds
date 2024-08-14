@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-14 06:00:01 UTC
+# UPDATE: 2024-08-14 07:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+215826, 2024-08-14 06:32:17, 2024-08-14 06:32:17, phishing, 8be9bd959b60031075981bde819dbb7b, https://csr.frl.mybluehost.me/NOKED/
+215825, 2024-08-14 06:30:13, 2024-08-14 06:30:13, phishing, 4abc943755c8d63643d92fa1466e30a6, https://konto-swisspass.dynv6.net/S/
+215824, 2024-08-14 06:02:19, 2024-08-14 06:02:19, hacked, 35c95979414f20b55f7ca733c58170f8, https://www.bookmyadventures.co.in/
+215823, 2024-08-14 06:02:18, 2024-08-14 06:02:18, hacked, 7d9c3876ce1aef8cdc7d51b485178db2, https://www.duniapintar.my.id/
 215822, 2024-08-14 05:54:13, 2024-08-14 05:54:13, phishing, 938a7f0f75d10b6f97678e5bcaa36a13, http://empty-rice-c111.wexxpor.workers.dev
 215821, 2024-08-14 05:27:13, 2024-08-14 05:27:13, malware, 29167c80316a4af4bd0efb99d72b1631, http://61.53.73.229:33908/Mozi.m
 215820, 2024-08-14 05:27:11, 2024-08-14 05:27:11, malware, 128bfb5299ae4fdca15f33796d6234ba, http://61.53.251.118:33768/i
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 215329, 2024-08-13 15:22:10, 2024-08-13 15:22:10, malware, 702864f01b6c4f85abdb49af797b4f2d, http://117.245.40.255:58858/Mozi.m
 215328, 2024-08-13 15:22:04, 2024-08-13 15:22:04, malware, 9e27374c086944388fdf42521065dfa4, http://117.219.47.244:44427/bin.sh
 215327, 2024-08-13 15:22:02, 2024-08-13 15:22:02, malware, f45ac6f79b2a47f89a0a6821e548c7d8, http://117.215.219.75:55259/i
-215326, 2024-08-13 15:20:25, 2024-08-13 15:20:25, malware, b644c712eb97409b92f802c586b47e3e, http://115.55.4.207:56237/i
-215325, 2024-08-13 15:20:22, 2024-08-13 15:20:22, malware, 4f662abc202244c39443b7f94cbbaf14, http://115.55.4.207:56237/bin.sh
-215324, 2024-08-13 15:20:21, 2024-08-13 15:20:21, malware, 90de3919fe894a3bb8c4b4fb84c313ff, http://115.55.148.154:42168/bin.sh
-215323, 2024-08-13 15:20:20, 2024-08-13 15:20:20, malware, 606fed58caf74b7a92090ca86a859cc0, http://111.61.93.17:58114/i
