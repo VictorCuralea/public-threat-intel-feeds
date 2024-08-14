@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-08-14 06:08:17 UTC                        #
+# Last updated: 2024-08-14 13:31:24 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	legderlivesapp.online
 127.0.0.1	since-searching.gl.at.ply.gg
 127.0.0.1	hackerkurda.duckdns.org
 127.0.0.1	bold-hamilton.207-246-119-197.plesk.page
@@ -7017,13 +7018,4 @@
 127.0.0.1	saturnreviews.com
 127.0.0.1	ebnsina.top
 127.0.0.1	dns.artstrailman.com
-127.0.0.1	142-11-199-59.plesk.page
-127.0.0.1	wapt.dgcs.cloud
-127.0.0.1	imperiummalczyc.pl
-127.0.0.1	evgenytchurakin6.fvds.ru
-127.0.0.1	jovial-wescoff.45-138-16-161.plesk.page
-127.0.0.1	238.200.202.35.bc.googleusercontent.com
-127.0.0.1	eganet.linkpc.net
-127.0.0.1	api.hg23jh4gk234gjhk2j3g4h2kjh3g4.xyz
-127.0.0.1	77.198.208.35.bc.googleusercontent.com
-# Number of entries: 7020
+# Number of entries: 7012
