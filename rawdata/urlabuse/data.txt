@@ -6,8 +6,11 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-15 06:00:01 UTC
+# UPDATE: 2024-08-15 07:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 216616, "url": "http://serverhostingservicesmailserverdomain4.pages.dev", "discovery": "2024-08-15 06:58:11", "added": "2024-08-15 06:58:11", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "29a2aec86eabaf0b789cb1f34b87dc85"}
+{"id": 216615, "url": "http://omainemailserverauthinticationrequired02.pages.dev", "discovery": "2024-08-15 06:26:11", "added": "2024-08-15 06:26:11", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "9cf6a93ace64bd6378488094b1b5110b"}
+{"id": 216614, "url": "http://hitnove.pages.dev", "discovery": "2024-08-15 06:00:11", "added": "2024-08-15 06:00:11", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "bcd86ac7f53e4e7ae144e06f5b9b5ae9"}
 {"id": 216613, "url": "http://hugwioywhkoygwhhos02.pages.dev", "discovery": "2024-08-15 05:30:10", "added": "2024-08-15 05:30:10", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "8bafaa6681aa1549742163b35c6b680d"}
 {"id": 216612, "url": "http://61.52.50.167:34671/Mozi.m", "discovery": "2024-08-15 05:26:03", "added": "2024-08-15 05:26:03", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "89fa452aed0d4f7bb79c1cfe50402494"}
 {"id": 216611, "url": "http://61.3.84.43:47646/Mozi.m", "discovery": "2024-08-15 05:26:02", "added": "2024-08-15 05:26:02", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "32a5f68e62c4433ab783d75e644b8a70"}
@@ -505,6 +508,3 @@
 {"id": 216119, "url": "http://inshasexdrtfgytfcdrxsezxdrtfdrxsexdr.pages.dev", "discovery": "2024-08-14 14:10:12", "added": "2024-08-14 14:10:12", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "1dbb26748008b97a58784d25660ab546"}
 {"id": 216118, "url": "https://www.khushitourntravel.com", "discovery": "2024-08-14 14:02:15", "added": "2024-08-14 14:02:15", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "095d027ed0509919f88b004c241f7bcb"}
 {"id": 216117, "url": "http://loker-tenaga-kebersihan-bca.1nfo4pp.co.uk", "discovery": "2024-08-14 14:02:14", "added": "2024-08-14 14:02:14", "target": "Telegram", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "bff5cf085fd8d221623baa06dba262bd"}
-{"id": 216116, "url": "http://mailserverauthenticatione857349485fhdhfhdfhdh-1.pages.dev", "discovery": "2024-08-14 13:54:10", "added": "2024-08-14 13:54:10", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "3762a42e36ccd703966ef4d3cb9d7219"}
-{"id": 216115, "url": "http://mail.mertkarakaslitr.com", "discovery": "2024-08-14 13:40:13", "added": "2024-08-14 13:40:13", "target": "TR-GOV", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "c83ff9edaf88b10f9deb73f1677c637e"}
-{"id": 216114, "url": "http://mertkarakaslitr.com", "discovery": "2024-08-14 13:38:11", "added": "2024-08-14 13:38:11", "target": "TR-GOV", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "62ec0e4bd9a82422bd69c71093d30d67"}
