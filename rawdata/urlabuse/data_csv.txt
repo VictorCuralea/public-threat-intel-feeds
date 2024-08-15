@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-15 02:00:01 UTC
+# UPDATE: 2024-08-15 03:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+216496, 2024-08-15 02:36:16, 2024-08-15 02:36:16, phishing, 42a407e66d55cbb45e51c1e914640ac8, http://defyluhe.pages.dev
+216495, 2024-08-15 02:34:11, 2024-08-15 02:34:11, phishing, 11cd6da30e5073ab7d540f43af99cfe6, http://serverhostingservicesmailserverdomain2.pages.dev
 216494, 2024-08-15 01:56:11, 2024-08-15 01:56:11, phishing, a9a9ee461ff8b0d6850cf150cd13e76a, http://securedachfile3.pages.dev
 216493, 2024-08-15 01:52:12, 2024-08-15 01:52:12, phishing, 5e7a37f7fddad4551a9f1493fbf59c86, http://domainvalidationauthenticationresgistration.pages.dev
 216492, 2024-08-15 01:29:10, 2024-08-15 01:29:10, malware, 6a4b4ea891754400ae4c606fcd0390cc, http://61.3.217.85:55092/i
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 215999, 2024-08-14 11:28:58, 2024-08-14 11:28:58, malware, 759b36b93f5a444995600b54a31e82d8, http://182.127.6.105:46561/i
 215998, 2024-08-14 11:28:57, 2024-08-14 11:28:57, malware, 0f92b6f88e0e4f7a9f1ec84c323cb195, http://182.121.12.202:42960/i
 215997, 2024-08-14 11:28:55, 2024-08-14 11:28:55, malware, 7f19a38645bc4ad8bfbceb4db4036e23, http://182.121.12.202:42960/bin.sh
-215996, 2024-08-14 11:28:53, 2024-08-14 11:28:53, malware, c8c84ddf73794237b3e9096858598209, http://182.119.224.85:51993/Mozi.m
-215995, 2024-08-14 11:28:52, 2024-08-14 11:28:52, malware, 9a01f48ae6a940d1a98fedafc192ab4f, http://182.117.70.98:54810/i
