@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-08-15 04:05:38 UTC                        #
+# Last updated: 2024-08-15 11:27:07 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	www.lx2h.shop
 127.0.0.1	telorino1581.duckdns.org
 127.0.0.1	nj3100.duckdns.org
 127.0.0.1	legderlivesapp.online
@@ -7007,4 +7008,4 @@
 127.0.0.1	www.qq00.cc
 127.0.0.1	ecs-124-71-158-221.compute.hwclouds-dns.com
 127.0.0.1	llllllllllllllllllllllllllll.site
-# Number of entries: 7001
+# Number of entries: 7002
