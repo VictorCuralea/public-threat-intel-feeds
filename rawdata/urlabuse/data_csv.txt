@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-15 19:00:01 UTC
+# UPDATE: 2024-08-15 20:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+217119, 2024-08-15 19:03:05, 2024-08-15 19:03:05, phishing, 6b6768e19085e07dab6de16c89b38e17, https://5r4gtebd5igyoo4at6ak7vex7yb2enmbhgluxzevzub3tm7ma24q.ar-io.dev/7HhpkCPqDYc7gJ-Ar9SX_gOiNYE5l0vklc0DubPsBrk
+217118, 2024-08-15 19:02:29, 2024-08-15 19:02:29, phishing, ddd0caf0ae95ae4f5710aa20cd28c36e, http://365okza.cc/
 217117, 2024-08-15 18:56:14, 2024-08-15 18:56:14, phishing, 3100eb9fcb3e81a62ab82acfb9a8d686, http://defichainresolve.pages.dev
 217116, 2024-08-15 18:35:06, 2024-08-15 18:16:13, phishing, c9385b75b18bc41d8498eb74543d39f9, https://bt-106037-103772.weeblysite.com/
 217115, 2024-08-15 18:34:12, 2024-08-15 18:34:12, phishing, 7272f906cf13a27c4a7596f7eb1a5bd4, http://refix-protocol.pages.dev
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 216621, 2024-08-15 07:20:19, 2024-08-15 07:20:19, malware, 0a914889f15840bdaab9b08351a41cbb, http://115.48.135.39:48527/bin.sh
 216620, 2024-08-15 07:20:18, 2024-08-15 07:20:18, malware, 058ac7c179f5484281e860db2d8c1051, http://113.53.120.42:38954/bin.sh
 216619, 2024-08-15 07:20:15, 2024-08-15 07:20:15, malware, af8dff1e898c4ce38c040ae1d60ee6ab, http://112.225.52.33:49331/bin.sh
-216618, 2024-08-15 07:01:54, 2024-08-15 07:01:54, phishing, c9f915024ac96d385533fdd098af2921, https://pub-78a62e09bd9c4a39875edba3d986e7c8.r2.dev/cc2.html
-216617, 2024-08-15 07:00:31, 2024-08-15 07:00:31, phishing, 1bce5e35963ad9c494d7712ad2e1e6ec, https://tlgrmhg.top/
