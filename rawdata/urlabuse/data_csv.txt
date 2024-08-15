@@ -6,9 +6,14 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-15 04:00:01 UTC
+# UPDATE: 2024-08-15 05:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+216564, 2024-08-15 04:42:17, 2024-08-15 04:42:17, phishing, c23d09835b481b4367d80d60c9d96304, http://toknpoket.pro
+216563, 2024-08-15 04:20:10, 2024-08-15 04:20:10, phishing, fa658ec0fe514e3ec158046094523184, http://serverhostingservicesmailserverdomain1.pages.dev
+216562, 2024-08-15 04:12:10, 2024-08-15 04:12:10, phishing, 823f7e47dc34f79cf40a808ef0987ab2, http://skzmqoprms.shop
+216561, 2024-08-15 04:02:57, 2024-08-15 04:02:57, phishing, 69bb4ef09dd72b0787bf7eaab92c7aa2, http://pub-d466338b8d2a4ae5924a1c04a84f5473.r2.dev/index.html
+216560, 2024-08-15 04:02:55, 2024-08-15 04:02:55, phishing, 30f0e0a3f3a3d0045708d93b055da7a5, http://rienleenders.be/login/ses/index.php
 216559, 2024-08-15 03:26:24, 2024-08-15 03:26:24, malware, f774026a807c499b966ac3da603e7341, http://60.212.123.0:44999/Mozi.m
 216558, 2024-08-15 03:26:20, 2024-08-15 03:26:20, malware, cb8e09b005894323ae4e9eb7ac329754, http://59.97.127.18:54642/i
 216557, 2024-08-15 03:26:18, 2024-08-15 03:26:18, malware, b90288fc2da94ef7a2bb4a648840f77f, http://59.96.207.101:51462/bin.sh
@@ -504,8 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 216067, 2024-08-14 13:25:07, 2024-08-14 13:25:07, malware, 83da14f47ad242b78fea3f1450a952bf, http://117.248.171.217:39383/i
 216066, 2024-08-14 13:24:10, 2024-08-14 13:24:10, phishing, 07d091d7b206c122b57ede7033696341, http://tight-truth-b20e.vecapi01.workers.dev
 216065, 2024-08-14 13:22:04, 2024-08-14 13:22:04, malware, 3b11be5b4c4e461ab2852f97b5e1766f, http://117.211.213.58:47462/bin.sh
-216064, 2024-08-14 13:21:41, 2024-08-14 13:21:41, malware, 09d92cd87e3f4583a152d4377c00f8e6, http://117.201.176.227:60328/bin.sh
-216063, 2024-08-14 13:21:26, 2024-08-14 13:21:26, malware, 39b44201aa5e431d942037e8e838afd3, http://117.199.77.78:43694/bin.sh
-216062, 2024-08-14 13:21:22, 2024-08-14 13:21:22, malware, fb23c5c109d64b1aa07e1519d8279eec, http://117.198.15.156:37879/bin.sh
-216061, 2024-08-14 13:21:21, 2024-08-14 13:21:21, malware, b64968f79ec34642bcae422272c16fe2, http://117.198.14.117:50060/Mozi.m
-216060, 2024-08-14 13:21:16, 2024-08-14 13:21:16, malware, e85ec6138ee24d37bc977ef35581978d, http://117.193.171.230:52788/i

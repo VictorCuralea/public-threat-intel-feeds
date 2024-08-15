@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-08-14 13:31:24 UTC                        #
+# Last updated: 2024-08-15 04:05:38 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	telorino1581.duckdns.org
+127.0.0.1	nj3100.duckdns.org
 127.0.0.1	legderlivesapp.online
 127.0.0.1	since-searching.gl.at.ply.gg
 127.0.0.1	hackerkurda.duckdns.org
@@ -7011,4 +7013,4 @@
 127.0.0.1	usaglobalnews.com
 127.0.0.1	topglobaltv.com
 127.0.0.1	startupmartec.net
-# Number of entries: 7005
+# Number of entries: 7007
