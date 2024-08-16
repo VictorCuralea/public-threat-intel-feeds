@@ -6,8 +6,17 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-16 11:00:01 UTC
+# UPDATE: 2024-08-16 12:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 217621, "url": "http://whatsapp-line.com", "discovery": "2024-08-16 11:46:17", "added": "2024-08-16 11:46:17", "target": "Whatsapp", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "e119892c908a8faffb29309d2609b18d"}
+{"id": 217620, "url": "http://premkla.ru", "discovery": "2024-08-16 11:40:13", "added": "2024-08-16 11:40:13", "target": "Telegram", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "742067854749efa66fdcb4b8f0b62a08"}
+{"id": 217619, "url": "http://61.52.62.171:35075/", "discovery": "2024-08-16 11:20:22", "added": "2024-08-16 11:20:22", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "b95d17a94b4e4498904b13ac35971253"}
+{"id": 217618, "url": "http://222.140.180.74:49382/i", "discovery": "2024-08-16 11:20:20", "added": "2024-08-16 11:20:20", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "01eebda9b6494522878e904a3310a87e"}
+{"id": 217617, "url": "http://117.242.232.107:59977/bin.sh", "discovery": "2024-08-16 11:20:19", "added": "2024-08-16 11:20:19", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "5368d17f0e5543d2900f779aed08f79f"}
+{"id": 217616, "url": "http://115.56.183.94:60690/", "discovery": "2024-08-16 11:20:06", "added": "2024-08-16 11:20:06", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "59eb036f8af24b398f099f95abed3cd1"}
+{"id": 217615, "url": "http://115.55.232.187:60288/Mozi.m", "discovery": "2024-08-16 11:20:04", "added": "2024-08-16 11:20:04", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "a14389ee9b1f47348551d542fbec5565"}
+{"id": 217614, "url": "http://fix-datarace.pages.dev", "discovery": "2024-08-16 11:04:15", "added": "2024-08-16 11:04:15", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "3a73b2f41a0e2139cb207b306fdb3e34"}
+{"id": 217613, "url": "https://assur-ameli.fr/", "discovery": "2024-08-16 11:02:15", "added": "2024-08-16 11:02:15", "target": "FR-GOV", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "f89058b48bbdb8abe4913fb2893b478b"}
 {"id": 217612, "url": "https://fsgsheicje.weebly.com/", "discovery": "2024-08-16 10:44:15", "added": "2024-08-16 10:44:15", "target": "Crypto", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "701a12ab4876d647726a295822af0304"}
 {"id": 217611, "url": "http://zerouniduration.pages.dev", "discovery": "2024-08-16 10:38:17", "added": "2024-08-16 10:38:17", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "0db960c37a89aee550649a83181ce11d"}
 {"id": 217610, "url": "http://notcoin-tokenx.pages.dev", "discovery": "2024-08-16 10:38:15", "added": "2024-08-16 10:38:15", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "83aafa746207775bc59ccd1688b315a7"}
@@ -499,12 +508,3 @@
 {"id": 217124, "url": "http://telegrma.xyz", "discovery": "2024-08-15 20:04:20", "added": "2024-08-15 20:04:20", "target": "Telegram", "reporter": "lruray", "AbuseType": "phishing", "UUID": "02c858d7b40d05d6dded3c814d152a22"}
 {"id": 217123, "url": "http://telegaem.icu", "discovery": "2024-08-15 20:04:19", "added": "2024-08-15 20:04:19", "target": "Telegram", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "f633db45c6623031d60f5af1dbb6a512"}
 {"id": 217122, "url": "http://telegxram.icu", "discovery": "2024-08-15 20:02:29", "added": "2024-08-15 20:02:29", "target": "Telegram", "reporter": "lruray", "AbuseType": "phishing", "UUID": "49a700d85e6924580a20b6923a4afc0b"}
-{"id": 217121, "url": "http://telegasm.xyz", "discovery": "2024-08-15 20:02:15", "added": "2024-08-15 20:02:15", "target": "Telegram", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "168e8823d2599b3ae2c2ce94680d2d24"}
-{"id": 217120, "url": "http://telegrma.icu", "discovery": "2024-08-15 20:00:17", "added": "2024-08-15 20:00:17", "target": "Telegram", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "889c8b6b1cd234a3b3e846c2145ce7cf"}
-{"id": 217119, "url": "https://5r4gtebd5igyoo4at6ak7vex7yb2enmbhgluxzevzub3tm7ma24q.ar-io.dev/7HhpkCPqDYc7gJ-Ar9SX_gOiNYE5l0vklc0DubPsBrk", "discovery": "2024-08-15 19:03:05", "added": "2024-08-15 19:03:05", "target": "Microsoft", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "6b6768e19085e07dab6de16c89b38e17"}
-{"id": 217118, "url": "http://365okza.cc/", "discovery": "2024-08-15 19:02:29", "added": "2024-08-15 19:02:29", "target": "Bet365", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "ddd0caf0ae95ae4f5710aa20cd28c36e"}
-{"id": 217117, "url": "http://defichainresolve.pages.dev", "discovery": "2024-08-15 18:56:14", "added": "2024-08-15 18:56:14", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "3100eb9fcb3e81a62ab82acfb9a8d686"}
-{"id": 217116, "url": "https://bt-106037-103772.weeblysite.com/", "discovery": "2024-08-15 18:16:13", "added": "2024-08-15 18:35:06", "target": "BT", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "c9385b75b18bc41d8498eb74543d39f9"}
-{"id": 217115, "url": "http://refix-protocol.pages.dev", "discovery": "2024-08-15 18:34:12", "added": "2024-08-15 18:34:12", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "7272f906cf13a27c4a7596f7eb1a5bd4"}
-{"id": 217114, "url": "http://82.200.248.206:56952/i", "discovery": "2024-08-15 18:33:21", "added": "2024-08-15 18:33:21", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "7542881acd45451fa0c06f78781e20a6"}
-{"id": 217113, "url": "http://61.53.197.194:40911/bin.sh", "discovery": "2024-08-15 18:32:59", "added": "2024-08-15 18:32:59", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "de0e04d278b84a2d867c2112eb05ccbf"}

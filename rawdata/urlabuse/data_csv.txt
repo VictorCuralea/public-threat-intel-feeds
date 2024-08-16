@@ -6,9 +6,18 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-16 11:00:01 UTC
+# UPDATE: 2024-08-16 12:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+217621, 2024-08-16 11:46:17, 2024-08-16 11:46:17, phishing, e119892c908a8faffb29309d2609b18d, http://whatsapp-line.com
+217620, 2024-08-16 11:40:13, 2024-08-16 11:40:13, phishing, 742067854749efa66fdcb4b8f0b62a08, http://premkla.ru
+217619, 2024-08-16 11:20:22, 2024-08-16 11:20:22, malware, b95d17a94b4e4498904b13ac35971253, http://61.52.62.171:35075/
+217618, 2024-08-16 11:20:20, 2024-08-16 11:20:20, malware, 01eebda9b6494522878e904a3310a87e, http://222.140.180.74:49382/i
+217617, 2024-08-16 11:20:19, 2024-08-16 11:20:19, malware, 5368d17f0e5543d2900f779aed08f79f, http://117.242.232.107:59977/bin.sh
+217616, 2024-08-16 11:20:06, 2024-08-16 11:20:06, malware, 59eb036f8af24b398f099f95abed3cd1, http://115.56.183.94:60690/
+217615, 2024-08-16 11:20:04, 2024-08-16 11:20:04, malware, a14389ee9b1f47348551d542fbec5565, http://115.55.232.187:60288/Mozi.m
+217614, 2024-08-16 11:04:15, 2024-08-16 11:04:15, phishing, 3a73b2f41a0e2139cb207b306fdb3e34, http://fix-datarace.pages.dev
+217613, 2024-08-16 11:02:15, 2024-08-16 11:02:15, phishing, f89058b48bbdb8abe4913fb2893b478b, https://assur-ameli.fr/
 217612, 2024-08-16 10:44:15, 2024-08-16 10:44:15, phishing, 701a12ab4876d647726a295822af0304, https://fsgsheicje.weebly.com/
 217611, 2024-08-16 10:38:17, 2024-08-16 10:38:17, phishing, 0db960c37a89aee550649a83181ce11d, http://zerouniduration.pages.dev
 217610, 2024-08-16 10:38:15, 2024-08-16 10:38:15, phishing, 83aafa746207775bc59ccd1688b315a7, http://notcoin-tokenx.pages.dev
@@ -500,12 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 217124, 2024-08-15 20:04:20, 2024-08-15 20:04:20, phishing, 02c858d7b40d05d6dded3c814d152a22, http://telegrma.xyz
 217123, 2024-08-15 20:04:19, 2024-08-15 20:04:19, phishing, f633db45c6623031d60f5af1dbb6a512, http://telegaem.icu
 217122, 2024-08-15 20:02:29, 2024-08-15 20:02:29, phishing, 49a700d85e6924580a20b6923a4afc0b, http://telegxram.icu
-217121, 2024-08-15 20:02:15, 2024-08-15 20:02:15, phishing, 168e8823d2599b3ae2c2ce94680d2d24, http://telegasm.xyz
-217120, 2024-08-15 20:00:17, 2024-08-15 20:00:17, phishing, 889c8b6b1cd234a3b3e846c2145ce7cf, http://telegrma.icu
-217119, 2024-08-15 19:03:05, 2024-08-15 19:03:05, phishing, 6b6768e19085e07dab6de16c89b38e17, https://5r4gtebd5igyoo4at6ak7vex7yb2enmbhgluxzevzub3tm7ma24q.ar-io.dev/7HhpkCPqDYc7gJ-Ar9SX_gOiNYE5l0vklc0DubPsBrk
-217118, 2024-08-15 19:02:29, 2024-08-15 19:02:29, phishing, ddd0caf0ae95ae4f5710aa20cd28c36e, http://365okza.cc/
-217117, 2024-08-15 18:56:14, 2024-08-15 18:56:14, phishing, 3100eb9fcb3e81a62ab82acfb9a8d686, http://defichainresolve.pages.dev
-217116, 2024-08-15 18:35:06, 2024-08-15 18:16:13, phishing, c9385b75b18bc41d8498eb74543d39f9, https://bt-106037-103772.weeblysite.com/
-217115, 2024-08-15 18:34:12, 2024-08-15 18:34:12, phishing, 7272f906cf13a27c4a7596f7eb1a5bd4, http://refix-protocol.pages.dev
-217114, 2024-08-15 18:33:21, 2024-08-15 18:33:21, malware, 7542881acd45451fa0c06f78781e20a6, http://82.200.248.206:56952/i
-217113, 2024-08-15 18:32:59, 2024-08-15 18:32:59, malware, de0e04d278b84a2d867c2112eb05ccbf, http://61.53.197.194:40911/bin.sh
