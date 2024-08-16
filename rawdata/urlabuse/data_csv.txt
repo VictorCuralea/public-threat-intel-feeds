@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-16 02:00:02 UTC
+# UPDATE: 2024-08-16 03:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+217408, 2024-08-16 02:16:11, 2024-08-16 02:16:11, phishing, 6dbf81ec26710f4c8a791c5328727798, http://asdbridge.pages.dev
 217407, 2024-08-16 01:34:14, 2024-08-16 01:34:14, phishing, 64f2da641405e02b912cbc27ca4a935f, http://moredurabledefyguard.pages.dev
 217406, 2024-08-16 01:27:54, 2024-08-16 01:27:54, malware, f85db5f39f344d84ad6a5e1a554c135d, http://93.123.85.118/eramthginseggibruoy/yourbiggestnightmare.mips
 217405, 2024-08-16 01:27:53, 2024-08-16 01:27:53, malware, 077757af3f5042a0bd11faad41b0b762, http://61.53.200.103:57112/i
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 216911, 2024-08-15 13:30:22, 2024-08-15 13:30:22, malware, 929374aa49a544479d3f8383038ad16c, http://221.1.227.221:37557/bin.sh
 216910, 2024-08-15 13:30:20, 2024-08-15 13:30:20, malware, 72ed6ef5bbb14bef91f29174dfd1fcbd, http://219.157.211.54:45981/bin.sh
 216909, 2024-08-15 13:30:09, 2024-08-15 13:30:09, malware, 4be1779845174448b6e5a9e072e2071b, http://183.95.145.206:50929/Mozi.m
-216908, 2024-08-15 13:29:56, 2024-08-15 13:29:56, malware, f7caf1b337ac42f0bf86eec6b2ea9041, http://182.126.94.143:55595/i
