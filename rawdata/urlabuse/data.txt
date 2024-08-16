@@ -6,8 +6,10 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-16 12:00:01 UTC
+# UPDATE: 2024-08-16 13:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 217623, "url": "http://admincieueijniwiwieoeikcmnckaqooooeeeencnjcwertyuiuytre.pages.dev", "discovery": "2024-08-16 12:54:12", "added": "2024-08-16 12:54:12", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "4f9ff6dc4993802c4c4f0aa854a836d0"}
+{"id": 217622, "url": "https://bt-103752.weeblysite.com/", "discovery": "2024-08-16 10:34:16", "added": "2024-08-16 12:06:47", "target": "BT", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "0e3a011066c8ec90199942d5b9fa508d"}
 {"id": 217621, "url": "http://whatsapp-line.com", "discovery": "2024-08-16 11:46:17", "added": "2024-08-16 11:46:17", "target": "Whatsapp", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "e119892c908a8faffb29309d2609b18d"}
 {"id": 217620, "url": "http://premkla.ru", "discovery": "2024-08-16 11:40:13", "added": "2024-08-16 11:40:13", "target": "Telegram", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "742067854749efa66fdcb4b8f0b62a08"}
 {"id": 217619, "url": "http://61.52.62.171:35075/", "discovery": "2024-08-16 11:20:22", "added": "2024-08-16 11:20:22", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "b95d17a94b4e4498904b13ac35971253"}
@@ -506,5 +508,3 @@
 {"id": 217126, "url": "http://112.248.189.157:50298/", "discovery": "2024-08-15 20:20:07", "added": "2024-08-15 20:20:07", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "912e8504cb74476aabc0ea4c2476e061"}
 {"id": 217125, "url": "http://101.108.244.168:57036/Mozi.m", "discovery": "2024-08-15 20:20:06", "added": "2024-08-15 20:20:06", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "3c5f32d0c1b14673a2aef41aa00832b2"}
 {"id": 217124, "url": "http://telegrma.xyz", "discovery": "2024-08-15 20:04:20", "added": "2024-08-15 20:04:20", "target": "Telegram", "reporter": "lruray", "AbuseType": "phishing", "UUID": "02c858d7b40d05d6dded3c814d152a22"}
-{"id": 217123, "url": "http://telegaem.icu", "discovery": "2024-08-15 20:04:19", "added": "2024-08-15 20:04:19", "target": "Telegram", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "f633db45c6623031d60f5af1dbb6a512"}
-{"id": 217122, "url": "http://telegxram.icu", "discovery": "2024-08-15 20:02:29", "added": "2024-08-15 20:02:29", "target": "Telegram", "reporter": "lruray", "AbuseType": "phishing", "UUID": "49a700d85e6924580a20b6923a4afc0b"}

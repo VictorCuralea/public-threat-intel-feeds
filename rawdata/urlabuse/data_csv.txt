@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-16 12:00:01 UTC
+# UPDATE: 2024-08-16 13:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+217623, 2024-08-16 12:54:12, 2024-08-16 12:54:12, phishing, 4f9ff6dc4993802c4c4f0aa854a836d0, http://admincieueijniwiwieoeikcmnckaqooooeeeencnjcwertyuiuytre.pages.dev
+217622, 2024-08-16 12:06:47, 2024-08-16 10:34:16, phishing, 0e3a011066c8ec90199942d5b9fa508d, https://bt-103752.weeblysite.com/
 217621, 2024-08-16 11:46:17, 2024-08-16 11:46:17, phishing, e119892c908a8faffb29309d2609b18d, http://whatsapp-line.com
 217620, 2024-08-16 11:40:13, 2024-08-16 11:40:13, phishing, 742067854749efa66fdcb4b8f0b62a08, http://premkla.ru
 217619, 2024-08-16 11:20:22, 2024-08-16 11:20:22, malware, b95d17a94b4e4498904b13ac35971253, http://61.52.62.171:35075/
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 217126, 2024-08-15 20:20:07, 2024-08-15 20:20:07, malware, 912e8504cb74476aabc0ea4c2476e061, http://112.248.189.157:50298/
 217125, 2024-08-15 20:20:06, 2024-08-15 20:20:06, malware, 3c5f32d0c1b14673a2aef41aa00832b2, http://101.108.244.168:57036/Mozi.m
 217124, 2024-08-15 20:04:20, 2024-08-15 20:04:20, phishing, 02c858d7b40d05d6dded3c814d152a22, http://telegrma.xyz
-217123, 2024-08-15 20:04:19, 2024-08-15 20:04:19, phishing, f633db45c6623031d60f5af1dbb6a512, http://telegaem.icu
-217122, 2024-08-15 20:02:29, 2024-08-15 20:02:29, phishing, 49a700d85e6924580a20b6923a4afc0b, http://telegxram.icu
