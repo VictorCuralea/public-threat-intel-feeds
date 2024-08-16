@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-08-15 19:04:38 UTC                        #
+# Last updated: 2024-08-16 05:38:46 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	kirklareliliste.cfd
 127.0.0.1	tlymxvx.top
 127.0.0.1	doggygangers.com
 127.0.0.1	cdnjscloudforced.com
@@ -7004,4 +7005,4 @@
 127.0.0.1	frenchpies.org
 127.0.0.1	tnoodlezy.com
 127.0.0.1	persikmonkiey7drone.com
-# Number of entries: 6998
+# Number of entries: 6999
