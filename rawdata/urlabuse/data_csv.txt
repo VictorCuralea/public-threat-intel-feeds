@@ -6,9 +6,16 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-16 13:00:01 UTC
+# UPDATE: 2024-08-16 14:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+217630, 2024-08-16 13:48:13, 2024-08-16 13:48:13, phishing, 2c78500db1e48a37812ea2e4b0621924, http://yojwbdlwourijahgwershodebigtj3.pages.dev
+217629, 2024-08-16 13:20:12, 2024-08-16 13:20:12, malware, cb8d73bb9bdb40d2a34775da5a72ea77, http://210.10.179.86:55304/bin.sh
+217628, 2024-08-16 13:06:21, 2024-08-16 13:06:21, phishing, d0276cffc8b8a0bc097d80ea702ade32, https://www.0898k365.com:8989/mobile-client/bet365_627/index.html?td_channelid=627
+217627, 2024-08-16 13:06:20, 2024-08-16 13:06:20, phishing, 6ab6fec49bb086b9e7758406ee931406, https://www.3656hh.com:8989/mobile-client/bet365_627/index.html?td_channelid=627
+217626, 2024-08-16 13:02:59, 2024-08-16 13:02:59, phishing, 0906d0b59d127a4d0063a5aaa6d99d7b, http://telega.one/
+217625, 2024-08-16 13:02:22, 2024-08-16 13:02:22, phishing, 2cbb37d89d9e5604afbef94f61844f02, http://p36588.cc/mobile-client/bet365_627/index.html
+217624, 2024-08-16 13:00:14, 2024-08-16 13:00:14, phishing, db36663bea865cf7a5844a2451cfd4ca, https://bt-08-15-2024.webflow.io/
 217623, 2024-08-16 12:54:12, 2024-08-16 12:54:12, phishing, 4f9ff6dc4993802c4c4f0aa854a836d0, http://admincieueijniwiwieoeikcmnckaqooooeeeencnjcwertyuiuytre.pages.dev
 217622, 2024-08-16 12:06:47, 2024-08-16 10:34:16, phishing, 0e3a011066c8ec90199942d5b9fa508d, https://bt-103752.weeblysite.com/
 217621, 2024-08-16 11:46:17, 2024-08-16 11:46:17, phishing, e119892c908a8faffb29309d2609b18d, http://whatsapp-line.com
@@ -502,10 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 217133, 2024-08-15 20:20:48, 2024-08-15 20:20:48, malware, b7daa1340666466c9315ec45ac6f58a8, http://117.208.100.176:46476/bin.sh
 217132, 2024-08-15 20:20:45, 2024-08-15 20:20:45, malware, 3058c55ffe3c475e9ec0d474c33da11e, http://117.198.14.130:40897/i
 217131, 2024-08-15 20:20:24, 2024-08-15 20:20:24, malware, 7b8cba635a884e049627b80f30b580b4, http://117.195.254.248:58530/Mozi.m
-217130, 2024-08-15 20:20:13, 2024-08-15 20:20:13, malware, 1f0b57153e2c4125a74959195f9303a0, http://115.52.190.239:58887/i
-217129, 2024-08-15 20:20:11, 2024-08-15 20:20:11, malware, e4ba8ff0f14c4100906b2a7840251fc1, http://115.52.175.113:45109/
-217128, 2024-08-15 20:20:10, 2024-08-15 20:20:10, malware, 525030328c704e528e9670c6049c5df2, http://115.50.189.175:57938/i
-217127, 2024-08-15 20:20:09, 2024-08-15 20:20:09, malware, 65d2c93fab8c41eaa3f5a492d662bd39, http://115.50.189.175:57938/bin.sh
-217126, 2024-08-15 20:20:07, 2024-08-15 20:20:07, malware, 912e8504cb74476aabc0ea4c2476e061, http://112.248.189.157:50298/
-217125, 2024-08-15 20:20:06, 2024-08-15 20:20:06, malware, 3c5f32d0c1b14673a2aef41aa00832b2, http://101.108.244.168:57036/Mozi.m
-217124, 2024-08-15 20:04:20, 2024-08-15 20:04:20, phishing, 02c858d7b40d05d6dded3c814d152a22, http://telegrma.xyz
