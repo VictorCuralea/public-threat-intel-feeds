@@ -6,9 +6,19 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-17 22:00:02 UTC
+# UPDATE: 2024-08-17 23:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+218909, 2024-08-17 22:52:17, 2024-08-17 22:52:17, phishing, 79023a9e7a23ac3acb4295e74b92bfd1, http://boardhashdefy.pages.dev
+218908, 2024-08-17 22:52:13, 2024-08-17 22:52:13, phishing, 240af1b3b28878b01e36574764633eed, http://normalnameserverfreerecomandstionhostingdomail02.pages.dev
+218907, 2024-08-17 22:48:12, 2024-08-17 22:48:12, phishing, 650e45a62ec38f9d40baf034e5070d92, http://domainhostinghosstingserviceshostingneeded1.pages.dev
+218906, 2024-08-17 22:04:42, 2024-08-17 22:04:42, phishing, 83e9bc6da067782bf90abd67493d10a3, http://pub-3e0db16584a646649cf6f8bf3f737b21.r2.dev/microsoftoutlook-admin.html
+218905, 2024-08-17 22:04:04, 2024-08-17 22:04:04, phishing, e81ba20e92e5e1e768491969746fb80c, http://pub-4d14b0311e9346d887fd0e3743ec9456.r2.dev/daly.html
+218904, 2024-08-17 22:03:35, 2024-08-17 22:03:35, phishing, fc38d9d57593f80442b56a0109870d95, http://vdeolucahvral.msge2.my.id/main.php
+218903, 2024-08-17 22:03:23, 2024-08-17 22:03:23, phishing, cd21d539d83001689481f0a5188f881a, https://euphonious-pegasus-b15280.netlify.app/
+218902, 2024-08-17 22:02:28, 2024-08-17 22:02:28, hacked, ec998e2f9b3aab535947a8e8e5d27f82, https://orientadorimoveis.com.br/HACKED.html
+218901, 2024-08-17 22:02:21, 2024-08-17 22:02:21, hacked, cf1cae7b357d62030c5acad044a7355e, https://www.universalauto2000.it/simple.php
+218900, 2024-08-17 22:02:15, 2024-08-17 22:02:15, phishing, a47a3cdecc76e2dc44b9a0a3a573aad0, http://telagremn.com/
 218899, 2024-08-17 21:58:12, 2024-08-17 21:58:12, phishing, 48580b324a576365e40a3632df9804df, http://webmailserverautnethicationdomainhostingbusiness02.pages.dev
 218898, 2024-08-17 21:25:38, 2024-08-17 21:25:38, malware, 28d1132db2a24eba81104a4f3f7ff500, http://88.247.87.243:38403/i
 218897, 2024-08-17 21:25:31, 2024-08-17 21:25:31, malware, d0506395a3584fc1ab07e5ca036e2aff, http://61.53.72.92:56056/Mozi.m
@@ -499,13 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 218412, 2024-08-17 09:27:37, 2024-08-17 09:27:37, malware, ccb13847fb2d4195a76aefed72c8b304, http://117.248.23.78:52896/bin.sh
 218411, 2024-08-17 09:27:00, 2024-08-17 09:27:00, malware, 39b7ad966092403686f81cbdeb37671e, http://117.248.170.114:51440/bin.sh
 218410, 2024-08-17 09:26:53, 2024-08-17 09:26:53, malware, 3e6ed198504547fe97cdead3a1814190, http://117.248.166.53:47207/i
-218409, 2024-08-17 09:26:39, 2024-08-17 09:26:39, malware, 0b3a48c41660403d81783dd274676162, http://117.248.166.53:47207/bin.sh
-218408, 2024-08-17 09:25:36, 2024-08-17 09:25:36, malware, 53d2cc0b65ec40edaeb7ea3dd6af0ff5, http://117.223.1.27:58787/i
-218407, 2024-08-17 09:25:33, 2024-08-17 09:25:33, malware, e27b9fa2bb044becb57fe59f631298c4, http://117.223.1.27:58787/bin.sh
-218406, 2024-08-17 09:24:44, 2024-08-17 09:24:44, malware, 7e6031bf93204492a3c1d16852dfd0eb, http://117.212.73.92:43726/i
-218405, 2024-08-17 09:24:27, 2024-08-17 09:24:27, malware, bcdb6773ad3a4a6b94f98584e695ddd7, http://117.212.171.60:38759/i
-218404, 2024-08-17 09:24:23, 2024-08-17 09:24:23, malware, d195e240f6164edb932495c99ad581dd, http://117.212.171.60:38759/bin.sh
-218403, 2024-08-17 09:23:53, 2024-08-17 09:23:53, malware, 7e6f7da5b35345d0b8f36620cd5e6fb6, http://117.208.16.134:40083/i
-218402, 2024-08-17 09:23:52, 2024-08-17 09:23:52, malware, 92933e6e9d98422093d76ce05fa6932a, http://117.208.16.134:40083/bin.sh
-218401, 2024-08-17 09:23:01, 2024-08-17 09:23:01, malware, a5ec4cad21ee4333804c941af92d08de, http://117.206.137.35:47752/i
-218400, 2024-08-17 09:22:28, 2024-08-17 09:22:28, malware, 11580ef482c14eb0ad2a2053cef1794a, http://117.198.55.47:33763/bin.sh
