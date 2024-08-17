@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-08-17 14:18:26 UTC                        #
+# Last updated: 2024-08-17 17:40:42 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ailurophilestealer.com
+127.0.0.1	ailurophilestealer.shop
 127.0.0.1	agosto14.con-ip.com
 127.0.0.1	method8888.ddns.net
 127.0.0.1	mrlagoon.club
@@ -6851,5 +6853,4 @@
 127.0.0.1	gemcreedarticulateod.shop
 127.0.0.1	claimconcessionrebe.shop
 127.0.0.1	liabilityarrangemenyit.shop
-127.0.0.1	software.dth.wtf
-# Number of entries: 6846
+# Number of entries: 6847
