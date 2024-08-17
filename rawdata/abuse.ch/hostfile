@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-08-16 13:21:02 UTC                        #
+# Last updated: 2024-08-17 06:48:28 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	vowquybcw.org
+127.0.0.1	cnc.mamma.su
 127.0.0.1	belvedereparkway.site
 127.0.0.1	done.restartyourchoices.com
 127.0.0.1	iojquery.restartyourchoices.com
@@ -6890,4 +6892,4 @@
 127.0.0.1	ns1.topglobaltv.com
 127.0.0.1	www.southernlandmortgage.cloud
 127.0.0.1	abc.anti-ddos.io.vn
-# Number of entries: 6884
+# Number of entries: 6886

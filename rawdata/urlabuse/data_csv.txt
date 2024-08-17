@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-17 06:00:02 UTC
+# UPDATE: 2024-08-17 07:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+218289, 2024-08-17 06:02:22, 2024-08-17 06:02:22, hacked, 9c11882d100adc7a82c9e3d4d75ed764, https://www.rhcimoveis.com.br/123.html
+218288, 2024-08-17 06:02:13, 2024-08-17 06:02:13, hacked, bf36816737eb8af37b56397086b6fed4, https://carbono.digital/jobview/
+218287, 2024-08-17 06:02:13, 2024-08-17 06:02:13, hacked, 8f82babacb32ccd6542d67b8b97f6b69, https://beysuinsaat.com.tr/haber-hacked--45.html
 218286, 2024-08-17 05:34:11, 2024-08-17 05:34:11, phishing, af41defb99609fe11da081ddfdb3ea0b, http://automatedsuppoertdomainhostinghosstingservices2.pages.dev
 218285, 2024-08-17 05:32:45, 2024-08-17 05:32:45, malware, e1d696e73d0641a5a6dd25219d4e4a1a, http://61.53.249.146:33768/i
 218284, 2024-08-17 05:32:43, 2024-08-17 05:32:43, malware, c44abc30802341719f003fc1df43efa5, http://61.53.249.146:33768/bin.sh
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 217792, 2024-08-16 17:25:31, 2024-08-16 17:25:31, malware, 4ffcb155e7214109830ae781fe22d971, http://117.243.174.162:38016/bin.sh
 217791, 2024-08-16 17:25:29, 2024-08-16 17:25:29, malware, f367378bb9df48f59f444e5ea4d6fc1f, http://117.242.196.111:42916/bin.sh
 217790, 2024-08-16 17:24:17, 2024-08-16 17:24:17, malware, 121cf5528bb34337acbc8d62dddff6c9, http://117.221.169.111:55233/Mozi.m
-217789, 2024-08-16 17:24:15, 2024-08-16 17:24:15, malware, bfce9de163c14eeabdb6934b56e5feec, http://117.219.44.166:58404/i
-217788, 2024-08-16 17:24:12, 2024-08-16 17:24:12, malware, 642f02e9fd694f6bb13aa9e4ac63a48f, http://117.219.44.166:58404/bin.sh
-217787, 2024-08-16 17:23:28, 2024-08-16 17:23:28, malware, ea9d6e66cf6a4e8da488a0d35cbd9d1c, http://117.216.65.67:52577/Mozi.m
