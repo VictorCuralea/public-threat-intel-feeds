@@ -6,8 +6,9 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-17 02:00:02 UTC
+# UPDATE: 2024-08-17 03:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 218111, "url": "http://prepperationnameservertopdomainrealizations4.pages.dev", "discovery": "2024-08-17 02:52:12", "added": "2024-08-17 02:52:12", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "7021f8777a97e048c73374469eccffe0"}
 {"id": 218110, "url": "http://piratewire.pages.dev", "discovery": "2024-08-17 01:40:12", "added": "2024-08-17 01:40:12", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "1bb3e8dfa43450495272c0375bd3ba6b"}
 {"id": 218109, "url": "http://61.53.39.207:42771/Mozi.m", "discovery": "2024-08-17 01:24:44", "added": "2024-08-17 01:24:44", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "22fd93230f634fafaf65e6458649938a"}
 {"id": 218108, "url": "http://61.0.221.18:52281/bin.sh", "discovery": "2024-08-17 01:24:32", "added": "2024-08-17 01:24:32", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "febcaf16635c4786bd181ac1334c97b2"}
@@ -507,4 +508,3 @@
 {"id": 217614, "url": "http://fix-datarace.pages.dev", "discovery": "2024-08-16 11:04:15", "added": "2024-08-16 11:04:15", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "3a73b2f41a0e2139cb207b306fdb3e34"}
 {"id": 217613, "url": "https://assur-ameli.fr/", "discovery": "2024-08-16 11:02:15", "added": "2024-08-16 11:02:15", "target": "FR-GOV", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "f89058b48bbdb8abe4913fb2893b478b"}
 {"id": 217612, "url": "https://fsgsheicje.weebly.com/", "discovery": "2024-08-16 10:44:15", "added": "2024-08-16 10:44:15", "target": "Crypto", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "701a12ab4876d647726a295822af0304"}
-{"id": 217611, "url": "http://zerouniduration.pages.dev", "discovery": "2024-08-16 10:38:17", "added": "2024-08-16 10:38:17", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "0db960c37a89aee550649a83181ce11d"}
