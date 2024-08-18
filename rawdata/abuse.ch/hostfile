@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-08-18 10:15:56 UTC                        #
+# Last updated: 2024-08-18 11:40:23 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	version6dkgate.duckdns.org
 127.0.0.1	public-ftp.com
 127.0.0.1	builaos.fun
 127.0.0.1	a1000128.xsph.ru
@@ -7351,4 +7352,4 @@
 127.0.0.1	net-killer.servehttp.com
 127.0.0.1	mostnet.servegame.com
 127.0.0.1	net-killer.servehttp.com
-# Number of entries: 7345
+# Number of entries: 7346
