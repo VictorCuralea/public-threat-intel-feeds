@@ -6,8 +6,11 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-18 15:00:01 UTC
+# UPDATE: 2024-08-18 16:00:02 UTC
 ############### END COMMENTS ###############
+{"id": 219435, "url": "http://belrianvalidationserverauthinticationserver2.pages.dev", "discovery": "2024-08-18 15:28:10", "added": "2024-08-18 15:28:10", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "ad2480b8b05035e51b5c0e417963be98"}
+{"id": 219434, "url": "http://serverouttnethicationdomainservicesmails02.pages.dev", "discovery": "2024-08-18 15:12:12", "added": "2024-08-18 15:12:12", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "a689b96b6ed91d3217803abe3c0ee4d0"}
+{"id": 219433, "url": "http://webmailserverautnethicationdomainhostingbusiness1.pages.dev", "discovery": "2024-08-18 15:08:10", "added": "2024-08-18 15:08:10", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "dcab7f478ea61e1cf73fb4808fc17bad"}
 {"id": 219432, "url": "http://telegramsex23.pages.dev", "discovery": "2024-08-18 14:58:10", "added": "2024-08-18 14:58:10", "target": "Telegram", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "6d1a4f9853217c6b543a427807f84fab"}
 {"id": 219431, "url": "http://nameserversuppoertdomainhostinghosstingservices2.pages.dev", "discovery": "2024-08-18 14:58:10", "added": "2024-08-18 14:58:10", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "5f27ee7458b4fd4d01a3e4d18a70188d"}
 {"id": 219430, "url": "http://telegramsexx1-9rj.pages.dev", "discovery": "2024-08-18 14:56:11", "added": "2024-08-18 14:56:11", "target": "Telegram", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "20b5da637b897e9174ca0d902cf5d6f8"}
@@ -505,6 +508,3 @@
 {"id": 218938, "url": "http://185.215.113.16/inc/Set-up.exe", "discovery": "2024-08-17 23:23:40", "added": "2024-08-17 23:23:40", "target": "#PE32INTEL_GUI", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "482eef928ee6485fb0d6fd0c9fd5d27f"}
 {"id": 218937, "url": "http://185.215.113.16/inc/BattleGermany.exe", "discovery": "2024-08-17 23:23:11", "added": "2024-08-17 23:23:11", "target": "#PE32INTEL_GUI", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "64c069ab684c493abd723ade7ad39bfb"}
 {"id": 218936, "url": "http://182.127.39.59:57238/i", "discovery": "2024-08-17 23:21:53", "added": "2024-08-17 23:21:53", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "c1d7f39d367e4e97ab2dc6019465848a"}
-{"id": 218935, "url": "http://182.121.85.67:42934/i", "discovery": "2024-08-17 23:21:52", "added": "2024-08-17 23:21:52", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "8a5b6bb7a9cf44e88eddc4949a8cf109"}
-{"id": 218934, "url": "http://182.116.117.78:37874/i", "discovery": "2024-08-17 23:21:51", "added": "2024-08-17 23:21:51", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "4bf1ff74d0674177ab2633007cd10b15"}
-{"id": 218933, "url": "http://180.116.251.157:51989/Mozi.m", "discovery": "2024-08-17 23:21:49", "added": "2024-08-17 23:21:49", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "4f344f6985fa4a2895c77a0ef63ea880"}

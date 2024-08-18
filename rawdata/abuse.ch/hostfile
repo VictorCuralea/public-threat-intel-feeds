@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-08-18 14:47:56 UTC                        #
+# Last updated: 2024-08-18 15:44:02 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	meannypaintipp.shop
 127.0.0.1	hema2024.from-ut.com
 127.0.0.1	version6dkgate.duckdns.org
 127.0.0.1	public-ftp.com
@@ -7348,4 +7349,4 @@
 127.0.0.1	mail-ntcgovpk.servehttp.com
 127.0.0.1	mail-scogovpk.servehttp.com
 127.0.0.1	mof-govnp.servehttp.com
-# Number of entries: 7342
+# Number of entries: 7343
