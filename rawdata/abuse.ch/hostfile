@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-08-19 11:24:23 UTC                        #
+# Last updated: 2024-08-19 13:10:50 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	localdominationsystems.com
 127.0.0.1	static.248.242.109.65.clients.your-server.de
 127.0.0.1	host-knight.gl.at.ply.gg
 127.0.0.1	meannypaintipp.shop
@@ -7312,4 +7313,4 @@
 127.0.0.1	static.86.70.78.5.clients.your-server.de
 127.0.0.1	ecs-123-60-57-13.compute.hwclouds-dns.com
 127.0.0.1	ninhobaby.com.br
-# Number of entries: 7306
+# Number of entries: 7307
