@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-19 19:00:01 UTC
+# UPDATE: 2024-08-19 20:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+219813, 2024-08-19 19:58:17, 2024-08-19 19:58:17, phishing, 3274f71635401a385f3a46ca5be3180f, http://dexdropsilite.pages.dev
+219812, 2024-08-19 19:56:13, 2024-08-19 19:56:13, phishing, a0340cc9c97724993f6b7d900e390de7, http://63214998422419811284.com
 219811, 2024-08-19 18:42:13, 2024-08-19 18:42:13, phishing, ba3d565e157ba20a23ebac1bc59b908d, http://usdt-claim.pages.dev
 219810, 2024-08-19 18:14:16, 2024-08-19 18:14:16, phishing, 95f0df72a76bf3a6278dfeabb5f732d7, https://bankbee.com/Spotify2k24/ahab/MitID/
 219809, 2024-08-19 18:13:57, 2024-08-19 17:48:24, phishing, b6b520f2eee1a537f261e31a5085cfdb, https://bankbee.com/Spotify2k24/ahab/
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 219315, 2024-08-18 09:30:37, 2024-08-18 09:30:37, malware, e85876e4fa8e43579a56f40138805483, http://93.123.85.86/sparc
 219314, 2024-08-18 09:30:36, 2024-08-18 09:30:36, malware, 0cc6ccdc9b784fdb8ff10b07957c3466, http://61.53.39.207:42771/i
 219313, 2024-08-18 09:30:35, 2024-08-18 09:30:35, malware, 679ea8bd29e54e269d3829c150ef107e, http://61.53.39.207:42771/bin.sh
-219312, 2024-08-18 09:30:33, 2024-08-18 09:30:33, malware, 90d8356837ca4c48b9ddbc28aab23b66, http://61.52.208.167:59286/bin.sh
-219311, 2024-08-18 09:30:11, 2024-08-18 09:30:11, malware, 107a7cc51e7e4ef19e5b53c9a2d64226, http://61.3.140.47:55049/i
