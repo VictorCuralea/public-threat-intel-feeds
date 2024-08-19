@@ -6,9 +6,16 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-19 20:00:02 UTC
+# UPDATE: 2024-08-19 21:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+219820, 2024-08-19 20:20:32, 2024-08-19 20:20:32, malware, 0006da004e2f44fea4b30a416efb9104, http://95.12.13.197:44018/
+219819, 2024-08-19 20:20:25, 2024-08-19 20:20:25, malware, 7776650cd36a4e25aaac7c9b8d8fff9b, http://84.213.69.62:36788/i
+219818, 2024-08-19 20:20:23, 2024-08-19 20:20:23, malware, 1cbf1f252d834cf4ab39a6dadfe72665, http://182.127.215.215:51670/
+219817, 2024-08-19 20:20:21, 2024-08-19 20:20:21, malware, b1484aea0b8c47009121b5c9d532a0a7, http://182.112.0.149:39525/Mozi.m
+219816, 2024-08-19 20:20:20, 2024-08-19 20:20:20, malware, 4893910dff2a42888080ffb0162583f9, http://123.175.27.222:34668/i
+219815, 2024-08-19 20:20:17, 2024-08-19 20:20:17, malware, eed04d89e628444aa78615d549512b16, http://117.248.163.20:50698/Mozi.m
+219814, 2024-08-19 20:20:04, 2024-08-19 20:20:04, malware, b1e45d607dbb4b6482144bcd69d9f1f0, http://115.55.239.193:55391/Mozi.m
 219813, 2024-08-19 19:58:17, 2024-08-19 19:58:17, phishing, 3274f71635401a385f3a46ca5be3180f, http://dexdropsilite.pages.dev
 219812, 2024-08-19 19:56:13, 2024-08-19 19:56:13, phishing, a0340cc9c97724993f6b7d900e390de7, http://63214998422419811284.com
 219811, 2024-08-19 18:42:13, 2024-08-19 18:42:13, phishing, ba3d565e157ba20a23ebac1bc59b908d, http://usdt-claim.pages.dev
@@ -502,10 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 219322, 2024-08-18 10:03:33, 2024-08-18 10:03:33, phishing, 1c63bc1261ee19e7ed1e6cf8585a1671, https://telegramlive.pages.dev/
 219321, 2024-08-18 10:03:23, 2024-08-18 10:03:23, phishing, 78d8374db3cc3457591704be2f383012, https://datingsitefree.pages.dev/
 219320, 2024-08-18 10:02:59, 2024-08-18 10:02:59, phishing, 1aba270a1930fb8e34f79ed36f098a2d, https://creativeservices.netflix.com.sg-vnt-2.sosis-berurat.live/
-219319, 2024-08-18 10:02:29, 2024-08-18 10:02:29, phishing, e2de0fa6be11ec7474ea14261be95b6f, http://modsbot-caj.pages.dev/
-219318, 2024-08-18 10:02:29, 2024-08-18 10:02:29, phishing, 1b73ae41dd998728a1c43f0ccc03454e, http://lacek.pages.dev/
-219317, 2024-08-18 09:44:13, 2024-08-18 09:44:13, phishing, c174c12e89897e4882780460d053c815, http://page-timeyhsgdhg12.pages.dev
-219316, 2024-08-18 09:40:17, 2024-08-18 09:40:17, phishing, 1fb4784baaacc7d264a820283b0a6401, http://wxz.zzzggg.shop
-219315, 2024-08-18 09:30:37, 2024-08-18 09:30:37, malware, e85876e4fa8e43579a56f40138805483, http://93.123.85.86/sparc
-219314, 2024-08-18 09:30:36, 2024-08-18 09:30:36, malware, 0cc6ccdc9b784fdb8ff10b07957c3466, http://61.53.39.207:42771/i
-219313, 2024-08-18 09:30:35, 2024-08-18 09:30:35, malware, 679ea8bd29e54e269d3829c150ef107e, http://61.53.39.207:42771/bin.sh
