@@ -6,9 +6,20 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-19 18:00:01 UTC
+# UPDATE: 2024-08-19 19:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+219811, 2024-08-19 18:42:13, 2024-08-19 18:42:13, phishing, ba3d565e157ba20a23ebac1bc59b908d, http://usdt-claim.pages.dev
+219810, 2024-08-19 18:14:16, 2024-08-19 18:14:16, phishing, 95f0df72a76bf3a6278dfeabb5f732d7, https://bankbee.com/Spotify2k24/ahab/MitID/
+219809, 2024-08-19 18:13:57, 2024-08-19 17:48:24, phishing, b6b520f2eee1a537f261e31a5085cfdb, https://bankbee.com/Spotify2k24/ahab/
+219808, 2024-08-19 18:13:32, 2024-08-19 17:48:16, phishing, 470b726521a3305b3d34f7c2831f2ab4, https://757469-18.web.fhgr.ch/web1
+219807, 2024-08-19 18:13:13, 2024-08-19 17:48:12, phishing, edfc09d76877b4cc5681ac456e2593db, https://login-raiffeisen.info/
+219806, 2024-08-19 18:12:19, 2024-08-19 17:46:14, phishing, df68cddfc0c8c41a4c3ec4441278a1d2, https://sagenat.com/ma/app/track.php?s=appload
+219805, 2024-08-19 18:11:17, 2024-08-19 17:42:13, phishing, 81a9a16649baeba57422cc9a462c2eed, https://btinternet5676.activehosted.com/f/1
+219804, 2024-08-19 18:10:57, 2024-08-19 17:08:17, phishing, 638d067c3e8ddd60a13aea68dcfd49bd, https://warinice.ac.th/h/d/
+219803, 2024-08-19 18:06:26, 2024-08-19 18:06:26, phishing, b9755b986a0754b8df611f3a1efd9dd7, http://indexconoma.duckdns.org
+219802, 2024-08-19 18:04:12, 2024-08-19 18:04:12, phishing, 3a8aeb7a2a40f033e979e9f8212d3f4f, http://internationaldomaierepresentationmainserstexts2.pages.dev
+219801, 2024-08-19 18:00:10, 2024-08-19 18:00:10, phishing, 45254300bbc86ccac756359d907a6560, http://preditorcommentautanateddomainfrequency2.pages.dev
 219800, 2024-08-19 17:52:12, 2024-08-19 17:52:12, phishing, 511cc9abb163c357c2aa72b4caf9ed17, http://tokenpockeo.cc
 219799, 2024-08-19 17:48:12, 2024-08-19 17:48:12, phishing, f8b228db6c00dbe65ae1d6b5f691625b, https://familyontheroad.ch/wordpress/wp-content/netflix/N/login
 219798, 2024-08-19 17:30:14, 2024-08-19 17:30:14, phishing, 57df4d43d971bc44996ecbb792190923, http://theceremonyofalltime3.pages.dev
@@ -498,14 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 219313, 2024-08-18 09:30:35, 2024-08-18 09:30:35, malware, 679ea8bd29e54e269d3829c150ef107e, http://61.53.39.207:42771/bin.sh
 219312, 2024-08-18 09:30:33, 2024-08-18 09:30:33, malware, 90d8356837ca4c48b9ddbc28aab23b66, http://61.52.208.167:59286/bin.sh
 219311, 2024-08-18 09:30:11, 2024-08-18 09:30:11, malware, 107a7cc51e7e4ef19e5b53c9a2d64226, http://61.3.140.47:55049/i
-219310, 2024-08-18 09:29:56, 2024-08-18 09:29:56, malware, ba7c020fd26f409e890795890eecfc80, http://59.97.126.91:54385/bin.sh
-219309, 2024-08-18 09:29:39, 2024-08-18 09:26:12, phishing, c9f6fae1e43cef1cf8a145e46d7d16d1, https://dk11863356269.activehosted.com/f/1
-219308, 2024-08-18 09:29:25, 2024-08-18 09:29:25, malware, 5188fb8287964f73903bbbe0624a5690, http://59.97.112.241:52824/i
-219307, 2024-08-18 09:29:23, 2024-08-18 09:29:23, malware, f934abd419e347ed9f9b98dec2c72314, http://59.97.112.241:52824/bin.sh
-219306, 2024-08-18 09:29:20, 2024-08-18 09:29:20, malware, faaabe042dbb4d3e9540b71c2f011385, http://59.95.92.99:50753/i
-219305, 2024-08-18 09:29:08, 2024-08-18 09:29:08, malware, 6eb6588ee70e42309ac750c11ab5c71f, http://59.89.238.51:35780/i
-219304, 2024-08-18 09:29:06, 2024-08-18 09:29:06, malware, 1204d213506b417c9376a118a207132a, http://59.89.238.51:35780/bin.sh
-219303, 2024-08-18 09:28:50, 2024-08-18 09:28:50, malware, a68192b4ab414c17adc2226b3b973293, http://59.182.99.134:43672/i
-219302, 2024-08-18 09:28:22, 2024-08-18 09:28:22, malware, 2331d9d4dd7b47f796e629d6aefcb636, http://59.182.67.226:41424/bin.sh
-219301, 2024-08-18 09:28:20, 2024-08-18 09:28:20, malware, 4da29898a34a4ac1a45ec38efc0780cd, http://59.182.147.204:49845/i
-219300, 2024-08-18 09:28:18, 2024-08-18 09:28:18, malware, e7c803cad5f341b2992533fa7c66656f, http://59.182.147.204:49845/bin.sh
