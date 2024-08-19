@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-19 05:00:02 UTC
+# UPDATE: 2024-08-19 06:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+219633, 2024-08-19 05:02:10, 2024-08-19 05:02:10, phishing, 41a795b6eb5fb973e49f0a8298af8e61, http://domainwebmailserverautnethicationdomainhostingservice1.pages.dev
 219632, 2024-08-19 04:50:15, 2024-08-19 04:50:15, phishing, b38ee4057c7b46b4b8531b2a4cd1ff74, http://fine8w.aweys.net
 219631, 2024-08-19 04:40:11, 2024-08-19 04:40:11, phishing, 435f6dfe8de9b93093101c3944dfab92, http://nameserversuppoertdomainhostinghosstingservices3.pages.dev
 219630, 2024-08-19 04:06:30, 2024-08-19 04:06:30, phishing, 4ffa043af54fd8d02e0f48adaa554a4b, http://telexgram.fit/web
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 219136, 2024-08-18 05:24:55, 2024-08-18 05:24:55, malware, 48808292d87e4a5c8868ae96e091c4e0, http://117.248.19.94:46981/Mozi.m
 219135, 2024-08-18 05:24:52, 2024-08-18 05:24:52, malware, d2d79c9a1ff54ded809fb441c8ed6623, http://117.248.173.38:33089/bin.sh
 219134, 2024-08-18 05:24:50, 2024-08-18 05:24:50, malware, 58ce91eb04e844c283ffce5d7bcf8808, http://117.248.170.35:37588/Mozi.m
-219133, 2024-08-18 05:24:39, 2024-08-18 05:24:39, malware, 95bc2ade610c4499a6b3af3256902d00, http://117.248.164.123:59633/Mozi.m
