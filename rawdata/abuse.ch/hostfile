@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-08-20 13:55:27 UTC                        #
+# Last updated: 2024-08-20 15:24:02 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	zillelandverify.com
 127.0.0.1	cafeespeciales.com
 127.0.0.1	secure.microsoftconnect.net
 127.0.0.1	senior-feeding.gl.at.ply.gg
@@ -7269,9 +7270,4 @@
 127.0.0.1	elianisgalidon3020.duckdns.org
 127.0.0.1	chrome-online.site
 127.0.0.1	sudarshanadisk.com
-127.0.0.1	webpanel.space
-127.0.0.1	kendraesparza.autos
-127.0.0.1	www.liceback.online
-127.0.0.1	ok.system-samsung.com
-127.0.0.1	evgenytchurakin1.fvds.ru
-# Number of entries: 7268
+# Number of entries: 7264
