@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-08-19 13:10:50 UTC                        #
+# Last updated: 2024-08-20 05:22:17 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	hiatus2.ddns.net
 127.0.0.1	localdominationsystems.com
 127.0.0.1	static.248.242.109.65.clients.your-server.de
 127.0.0.1	host-knight.gl.at.ply.gg
@@ -7273,5 +7274,4 @@
 127.0.0.1	service-qzxfb4ay-1318428097.gz.tencentapigw.com.cn
 127.0.0.1	service-mlanbdgq-1301500665.gz.tencentapigw.com.cn
 127.0.0.1	service-3rca94g4-1319979259.hk.tencentapigw.cn
-127.0.0.1	bonet.networkbn.com
 # Number of entries: 7268
