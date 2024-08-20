@@ -6,9 +6,22 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-19 23:00:02 UTC
+# UPDATE: 2024-08-20 00:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+219888, 2024-08-19 23:24:13, 2024-08-19 23:24:13, phishing, 67a708dd665e3e6cab5ef6f5c2a432d3, http://onlinewebmail.pages.dev
+219887, 2024-08-19 23:15:16, 2024-08-19 23:15:16, phishing, 4a66fdef336ea1df8306ca5abbb53d82, https://omniva.aadress.info/ee/
+219886, 2024-08-19 23:15:01, 2024-08-19 23:15:01, phishing, 65c62857736dd1c2d2536a9d5ef17fc4, https://rb.gy/trwvzx?wYV=onwVapPm67
+219885, 2024-08-19 23:14:07, 2024-08-19 23:14:07, phishing, 33eb85b74d10f8cdc945081ef784c228, https://vinni-lt.pages.dev/%
+219884, 2024-08-19 23:12:49, 2024-08-19 23:12:49, phishing, e36776e5e46910fdad593e2189d4c97e, https://vml-edse.pages.dev/%
+219883, 2024-08-19 23:12:16, 2024-08-19 23:12:16, phishing, 604b821ab0abaef7593108d7f374bf6e, https://eds-vm.pages.dev/%
+219882, 2024-08-19 23:10:57, 2024-08-19 23:10:57, phishing, 3a6446c8d86b500433bf11c8fea41ca8, https://omniva-approved.com/
+219881, 2024-08-19 23:10:30, 2024-08-19 23:10:30, phishing, eea420c2361d86c410752fbca82a814d, https://swedbank-access-login.com/$
+219880, 2024-08-19 23:10:14, 2024-08-19 23:10:14, phishing, b2b5acd6519ae8e0644fdc0874d63b27, http://myat0asesstayyu.online
+219879, 2024-08-19 23:09:22, 2024-08-19 23:09:22, phishing, 7ef1bbf039cef059afa1337d95689c77, https://havenhomes.ae/wp-includes/assets/nlb-1/
+219878, 2024-08-19 23:09:11, 2024-08-19 23:09:11, phishing, 69ca1199166f2c8a4ade1d5aaf365f35, https://vns-telecom.com/food
+219877, 2024-08-19 23:07:50, 2024-08-19 23:07:50, phishing, cb617c47b627b674478c89eb16c87bae, https://ipfs.io/ipfs/bafkreiaz4hksskz6qzdxgu4b3pcevkh6jq4vgalaco37efvwkhkjyrail4#
+219876, 2024-08-19 23:04:12, 2024-08-19 23:04:12, phishing, 2e23b061ce8943000819b34504a39cde, http://translationmainpotencialdomainsaverwindows1.pages.dev
 219875, 2024-08-19 22:48:17, 2024-08-19 22:48:17, phishing, 7ed26087fc054b3b3a5c08ff095d9e87, http://moonicefiledex.pages.dev
 219874, 2024-08-19 22:34:12, 2024-08-19 22:34:12, phishing, bc42c3035bde26fdb3755d6cd0c6c149, http://dappfixsolution.pages.dev
 219873, 2024-08-19 22:28:17, 2024-08-19 22:28:17, phishing, 7217400303a4d8e5084f83cf65cbb820, http://starkdigialpha.pages.dev
@@ -496,16 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 219390, 2024-08-18 12:32:18, 2024-08-18 12:32:18, malware, 373bc650735b48a894fd2239fe5dd9f8, http://59.183.2.142:60317/
 219389, 2024-08-18 12:31:49, 2024-08-18 12:31:49, malware, 08e0657128e64f33b72de761c729e844, http://59.183.132.247:37542/bin.sh
 219388, 2024-08-18 12:31:44, 2024-08-18 12:31:44, malware, 716de27e536b457dbd867e9e05785723, http://59.183.113.22:42135/Mozi.m
-219387, 2024-08-18 12:31:23, 2024-08-18 12:31:23, malware, 61abb055ee484126b48294d2e9be5423, http://58.218.133.60:52030/Mozi.m
-219386, 2024-08-18 12:31:20, 2024-08-18 12:31:20, malware, 2d2dffdd175e474384d0c406cec090b9, http://42.239.21.238:51552/i
-219385, 2024-08-18 12:31:18, 2024-08-18 12:31:18, malware, fb689e1322064fcbb1a0166df2b21bd2, http://42.239.21.238:51552/bin.sh
-219384, 2024-08-18 12:30:57, 2024-08-18 12:30:57, malware, e48b66e2ebc4453caf9195a18278f6fb, http://42.231.70.115:35172/i
-219383, 2024-08-18 12:30:55, 2024-08-18 12:30:55, malware, ba489041cf0044caafd9c1a9712f56fc, http://42.231.70.115:35172/bin.sh
-219382, 2024-08-18 12:30:54, 2024-08-18 12:30:54, malware, 8bb626d2de6c4ea7abc86563224acd6b, http://42.224.211.180:47271/bin.sh
-219381, 2024-08-18 12:30:52, 2024-08-18 12:30:52, malware, 48b2b2a61b974c6cb4d90b9e05fd1c70, http://38.61.212.54:42062/Mozi.m
-219380, 2024-08-18 12:30:50, 2024-08-18 12:30:50, malware, 623fcd3836314c43a1da227e129b361a, http://27.215.86.140:35153/Mozi.m
-219379, 2024-08-18 12:30:49, 2024-08-18 12:30:49, malware, 141a5c999b894fb1b38999a533efa8c3, http://27.207.242.199:55519/
-219378, 2024-08-18 12:30:47, 2024-08-18 12:30:47, malware, cccc1d888b2e42dc8bafab36a784236e, http://222.93.207.25:58366/i
-219377, 2024-08-18 12:30:43, 2024-08-18 12:30:43, malware, a911d62337254a2c972ed32c1b978c48, http://222.141.24.171:35003/bin.sh
-219376, 2024-08-18 12:30:32, 2024-08-18 12:30:32, malware, bb9382f0a4d443beb46ee0f19732c401, http://222.138.113.60:57925/bin.sh
-219375, 2024-08-18 12:30:30, 2024-08-18 12:30:30, malware, 49c2ea194a4b45cb87975d31c200dcf7, http://222.138.113.60:57925/
