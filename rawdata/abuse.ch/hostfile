@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-08-20 12:56:26 UTC                        #
+# Last updated: 2024-08-20 13:55:27 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	cafeespeciales.com
 127.0.0.1	secure.microsoftconnect.net
 127.0.0.1	senior-feeding.gl.at.ply.gg
 127.0.0.1	great-it.gl.at.ply.gg
@@ -7273,4 +7274,4 @@
 127.0.0.1	www.liceback.online
 127.0.0.1	ok.system-samsung.com
 127.0.0.1	evgenytchurakin1.fvds.ru
-# Number of entries: 7267
+# Number of entries: 7268
