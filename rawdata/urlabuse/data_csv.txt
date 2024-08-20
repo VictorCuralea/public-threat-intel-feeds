@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-20 18:00:01 UTC
+# UPDATE: 2024-08-20 19:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+220603, 2024-08-20 18:54:12, 2024-08-20 18:54:12, phishing, fd9544f99343e3b5a7da6cb2be02069a, http://domainvaludetionsystemnameserverstaticstics03.pages.dev
+220602, 2024-08-20 18:29:40, 2024-08-20 17:32:16, phishing, fb34754b42bb86cc1610afc3bf6be74e, https://sbbcheckit.com/de
+220601, 2024-08-20 18:08:10, 2024-08-20 18:08:10, phishing, cb7000a0f29b17c7185283ef6b2b2527, http://ozi-1od.pages.dev
 220600, 2024-08-20 17:54:10, 2024-08-20 17:54:10, phishing, 0df663d0503253d69b254f58d0a3af96, http://nbgfdewrtyyuiopklnbvcdghgjhnmbvfd.pages.dev
 220599, 2024-08-20 17:50:16, 2024-08-20 17:50:16, phishing, ff97e0c073f1bb9004c1c39b029995d4, http://multiverseconnect.pages.dev
 220598, 2024-08-20 17:28:01, 2024-08-20 17:28:01, malware, 61b36a6180504ea881ba409c989352de, http://61.53.141.176:34757/
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 220106, 2024-08-20 06:24:05, 2024-08-20 06:24:05, malware, 05a0cf3d72c642e4a269b8d0cb21a09a, http://119.179.251.229:57771/i
 220105, 2024-08-20 06:24:04, 2024-08-20 06:24:04, malware, 100961780c5448e59999107b09ffeccc, http://119.179.251.229:57771/bin.sh
 220104, 2024-08-20 06:23:42, 2024-08-20 06:23:42, malware, 21ad4469e1b54ac7b38f713c2726978d, http://117.254.63.138:47893/Mozi.a
-220103, 2024-08-20 06:23:40, 2024-08-20 06:23:40, malware, bddd2967994847d3b63e922508458111, http://117.253.217.115:48030/i
-220102, 2024-08-20 06:22:41, 2024-08-20 06:22:41, malware, 6edd7cc1c8fe42f687f0edc52622c8ca, http://117.248.40.48:42427/i
-220101, 2024-08-20 06:22:39, 2024-08-20 06:22:39, malware, 3d7794342a744ba6bf1b16b1d0990fe8, http://117.248.40.48:42427/bin.sh

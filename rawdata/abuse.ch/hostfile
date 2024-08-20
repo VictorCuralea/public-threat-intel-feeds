@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-08-20 15:24:02 UTC                        #
+# Last updated: 2024-08-20 18:16:55 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	geekcs2.top
+127.0.0.1	bot.geekcs2.top
+127.0.0.1	gregorymadensky.sytes.net
+127.0.0.1	anothonesevenfivesecsned.ddns.net
 127.0.0.1	zillelandverify.com
 127.0.0.1	cafeespeciales.com
 127.0.0.1	secure.microsoftconnect.net
@@ -7270,4 +7274,4 @@
 127.0.0.1	elianisgalidon3020.duckdns.org
 127.0.0.1	chrome-online.site
 127.0.0.1	sudarshanadisk.com
-# Number of entries: 7264
+# Number of entries: 7268
