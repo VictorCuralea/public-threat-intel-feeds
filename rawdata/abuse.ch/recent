@@ -1,12 +1,54 @@
 ################################################################
 # ThreatFox IOCs: recent SHA256 hashes - CSV format            #
-# Last updated: 2024-08-19 19:36:51 UTC                        #
+# Last updated: 2024-08-21 00:59:41 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
 # "first_seen_utc","ioc_id","ioc_value","ioc_type","threat_type","fk_malware","malware_alias","malware_printable","last_seen_utc","confidence_level","reference","tags","anonymous","reporter"
+"2024-08-21 00:59:41", "1314262", "49e5022e71108d32393e6826e4dc2e4e79ca7b6197025392a7c5d2aaf67ed713", "sha256_hash", "payload", "win.feodo", "Cridex,Bugat", "Feodo", "", "95", "None", "None", "0", "Grim"
+"2024-08-21 00:59:37", "1314259", "2961652c41b9704177ce04f425bc44456436825ded85d721c7bdf8038568cf0f", "sha256_hash", "payload", "win.feodo", "Cridex,Bugat", "Feodo", "", "95", "None", "None", "0", "Grim"
+"2024-08-21 00:59:34", "1314256", "22289a61cd8a347a03da845d34820534b3e617781447a91c6a0fb3b1e6f6a184", "sha256_hash", "payload", "win.xmrig", "None", "xmrig", "", "95", "None", "None", "0", "Grim"
+"2024-08-21 00:59:31", "1314253", "f39ab231eb58dd1270a76a3171f7785151a4c5ccca654ac8a6bf8e6a7129fcf7", "sha256_hash", "payload", "win.feodo", "Cridex,Bugat", "Feodo", "", "95", "None", "None", "0", "Grim"
+"2024-08-21 00:59:27", "1314250", "d879d2ef4785ae6a31cf833990c945c8ac9afd1c1c63945498433de10011846f", "sha256_hash", "payload", "win.feodo", "Cridex,Bugat", "Feodo", "", "95", "None", "None", "0", "Grim"
+"2024-08-21 00:59:23", "1314247", "f479721c75395efd183d8938a7f8491492658c5c742b73fbf2293050a2de147e", "sha256_hash", "payload", "win.njrat", "Bladabindi,Lime-Worm", "NjRAT", "", "95", "None", "None", "0", "Grim"
+"2024-08-21 00:59:20", "1314244", "d4a663a38d9d5c285e29e7f9cf78d3bca4e6b1e5d1bbc3be750a2671b90fe56d", "sha256_hash", "payload", "win.feodo", "Cridex,Bugat", "Feodo", "", "95", "None", "None", "0", "Grim"
+"2024-08-21 00:59:16", "1314241", "03a6298f721337027203e391d6d086d2b47f76a0e253ea677abe8c252c544adb", "sha256_hash", "payload", "win.feodo", "Cridex,Bugat", "Feodo", "", "95", "None", "None", "0", "Grim"
+"2024-08-21 00:59:12", "1314238", "57b21f05af0facd00c9abcb23333cc3ce19ca4fb24c46b8c158a21edfef03ffb", "sha256_hash", "payload", "win.feodo", "Cridex,Bugat", "Feodo", "", "95", "None", "None", "0", "Grim"
+"2024-08-21 00:59:08", "1314235", "74c8670a8285e6783e6a5c44b43b7399078c36bd80a386f00f810da0e6a45533", "sha256_hash", "payload", "win.zloader", "DELoader,SILENTNIGHT,Terdot", "Zloader", "", "95", "None", "None", "0", "Grim"
+"2024-08-21 00:59:05", "1314232", "850da78cae56723b7ab4ca7c19d161f2718ccded35a5c335ead113b25c57b2b4", "sha256_hash", "payload", "win.feodo", "Cridex,Bugat", "Feodo", "", "95", "None", "None", "0", "Grim"
+"2024-08-21 00:59:01", "1314229", "c9f2834a9860d26cfe06748d933b338c5f511a01442ade25930d292b52f1f625", "sha256_hash", "payload", "win.asyncrat", "None", "AsyncRAT", "", "95", "None", "None", "0", "Grim"
+"2024-08-21 00:58:57", "1314226", "9dd1839b1090c0467211f689214df91e5eb8e73830f2a2ea9e3408e527fe4096", "sha256_hash", "payload", "win.smanager", "PhantomNet", "SManager", "", "95", "None", "None", "0", "Grim"
+"2024-08-21 00:58:53", "1314223", "f21838338dee5fe502e6ff6ba0a44fa98f374d4a731d39116c975a4059dc0804", "sha256_hash", "payload", "win.feodo", "Cridex,Bugat", "Feodo", "", "95", "None", "None", "0", "Grim"
+"2024-08-21 00:58:50", "1314220", "146fb98d6e239d844dee837aa55ff873d0599d2af7400a1b6fba74ee0eb5c7c3", "sha256_hash", "payload", "win.retefe", "Tsukuba,Werdlod", "Retefe", "", "95", "None", "None", "0", "Grim"
+"2024-08-21 00:58:46", "1314217", "9d4758703ed1e3968a75f93405df6202a6b1b749f7806965560c23237fdfe2b4", "sha256_hash", "payload", "win.azorult", "PuffStealer,Rultazo", "Azorult", "", "95", "None", "None", "0", "Grim"
+"2024-08-21 00:58:42", "1314214", "dcb417103bd0f315ba7cd30f1eadfca56a56122caec7ce4afe96b410931f43e6", "sha256_hash", "payload", "win.formbook", "win.xloader", "Formbook", "", "95", "None", "None", "0", "Grim"
+"2024-08-21 00:58:38", "1314211", "a6a009c10125451a3c7eb2a8318fb6a9ea469f1d88ba8d4156f90f4d250fa06c", "sha256_hash", "payload", "win.sigloader", "None", "SigLoader", "", "95", "None", "None", "0", "Grim"
+"2024-08-21 00:58:34", "1314208", "cc69e7aadc4099c1c1adfee41c267195f612d42e9d1ddb8f45b81c37843ace1d", "sha256_hash", "payload", "win.feodo", "Cridex,Bugat", "Feodo", "", "95", "None", "None", "0", "Grim"
+"2024-08-21 00:58:30", "1314205", "5723a4ade19ff658e527c15812cb7b0340fd851902138963e29e2b814d175e3c", "sha256_hash", "payload", "win.redline_stealer", "RECORDSTEALER", "RedLine Stealer", "", "95", "None", "None", "0", "Grim"
+"2024-08-21 00:58:26", "1314202", "511b7dffe882fa5fa36b6aa5b426a58ba4be1a090294f6ba1dd197ee3fd6bdee", "sha256_hash", "payload", "win.dcrat", "DarkCrystal RAT", "DCRat", "", "95", "None", "None", "0", "Grim"
+"2024-08-21 00:58:23", "1314199", "e39efc1e1e00404b9ddc7659941af58f417a6383baf12b5878b1da36e46ae55f", "sha256_hash", "payload", "win.asyncrat", "None", "AsyncRAT", "", "95", "None", "None", "0", "Grim"
+"2024-08-21 00:58:19", "1314196", "b426a6cb4005e266bf9b91b30d46fbbd0d6c541ac40d295aa99b8b7ef45e0edf", "sha256_hash", "payload", "win.vidar", "None", "Vidar", "", "95", "None", "None", "0", "Grim"
+"2024-08-21 00:58:15", "1314193", "b717c966167148b7178e67727be7ac55d76d82acab88782e798e477a00abdd8b", "sha256_hash", "payload", "win.stealc", "None", "Stealc", "", "95", "None", "None", "0", "Grim"
+"2024-08-21 00:58:11", "1314190", "419f5936bb164413541c97966c9074e7f20e49949f005f94c7800784245c6ffd", "sha256_hash", "payload", "win.sigloader", "None", "SigLoader", "", "95", "None", "None", "0", "Grim"
+"2024-08-21 00:58:07", "1314187", "b51004463e8cdfe74c593f1d3e883ff20d53ad6081de7bf46bb3837b86975955", "sha256_hash", "payload", "win.redline_stealer", "RECORDSTEALER", "RedLine Stealer", "", "95", "None", "None", "0", "Grim"
+"2024-08-21 00:58:02", "1314184", "7bc7edf2f2fafaa8457fb596cbbcdedafd23544d75e739e777b73790965df6bb", "sha256_hash", "payload", "win.agent_tesla", "AgenTesla,AgentTesla,Negasteal", "Agent Tesla", "", "95", "None", "None", "0", "Grim"
+"2024-08-21 00:57:58", "1314181", "74adc4039c75425ad6a2b19b4ab6ac460d9a21f30ae71bb71408b8f530907c9b", "sha256_hash", "payload", "win.mars_stealer", "None", "Mars Stealer", "", "95", "None", "None", "0", "Grim"
+"2024-08-21 00:57:54", "1314178", "b3e2fe43f3024cc479415e745cd9826752debe4e8b208e5e5b7cc510723b787d", "sha256_hash", "payload", "win.stealc", "None", "Stealc", "", "95", "None", "None", "0", "Grim"
+"2024-08-21 00:57:50", "1314175", "a61dc154af80d7c67638c50ca91d567ba0f872562c1b6c616e58abdda3bc3544", "sha256_hash", "payload", "win.amadey", "None", "Amadey", "", "95", "None", "None", "0", "Grim"
+"2024-08-21 00:57:47", "1314172", "41d16cf08c360bd64f59a76480ab0560e8d466011075453e17182940d93b6f24", "sha256_hash", "payload", "win.cryptbot", "None", "CryptBot", "", "95", "None", "None", "0", "Grim"
+"2024-08-21 00:57:43", "1314169", "97567401444702eef7105a430df2b537153c0e43c3ae50acb6a6659a27665cf0", "sha256_hash", "payload", "win.socks5_systemz", "None", "Socks5 Systemz", "", "95", "None", "None", "0", "Grim"
+"2024-08-21 00:57:39", "1314166", "66d815d755886b1ee38e68d899503249768b8dcf9008d35c8fa89fa35e44141d", "sha256_hash", "payload", "win.asyncrat", "None", "AsyncRAT", "", "95", "None", "None", "0", "Grim"
+"2024-08-21 00:57:34", "1314164", "ff1820e68a7067ef6ad78ea9c19b929eb52729f85e349f75e226615ea72532f2", "sha256_hash", "payload", "win.mars_stealer", "None", "Mars Stealer", "", "95", "None", "None", "0", "Grim"
+"2024-08-21 00:57:31", "1314161", "7ba95476622ca5f8425317a34bbab2b33755bcdb37bb9dcc5d933fc5859ca81f", "sha256_hash", "payload", "win.dcrat", "DarkCrystal RAT", "DCRat", "", "95", "None", "None", "0", "Grim"
+"2024-08-21 00:57:27", "1314158", "584022a11fa25bc77ada9ec361c791001f8d8da848930b386f42841d9e0be7d6", "sha256_hash", "payload", "win.agent_tesla", "AgenTesla,AgentTesla,Negasteal", "Agent Tesla", "", "95", "None", "None", "0", "Grim"
+"2024-08-21 00:57:23", "1314155", "205430bd493e7aa04d357f3cba5ad5959c32e099d79e6087546251aac52219fe", "sha256_hash", "payload", "win.krakenkeylogger", "None", "KrakenKeylogger", "", "95", "None", "None", "0", "Grim"
+"2024-08-21 00:57:19", "1314152", "37735d571c842588e245f54172bbead60da41b53fbd04885ab192b0edd65f2eb", "sha256_hash", "payload", "win.formbook", "win.xloader", "Formbook", "", "95", "None", "None", "0", "Grim"
+"2024-08-21 00:57:15", "1314149", "deb5555acc0934b9a3d135999733e89b5c6ae98c34b7613f38d517fa4e0b336c", "sha256_hash", "payload", "win.asyncrat", "None", "AsyncRAT", "", "95", "None", "None", "0", "Grim"
+"2024-08-21 00:57:11", "1314146", "ed3c0b86e4e7859a1df63fc525dda383c45b6d186ca683522a21156c92dbd82a", "sha256_hash", "payload", "win.dcrat", "DarkCrystal RAT", "DCRat", "", "95", "None", "None", "0", "Grim"
+"2024-08-21 00:57:07", "1314143", "97179aa99e2c4d95d226268057774f5431b0763497b7000fe683c91a70a61071", "sha256_hash", "payload", "win.zloader", "DELoader,SILENTNIGHT,Terdot", "Zloader", "", "95", "None", "None", "0", "Grim"
+"2024-08-21 00:57:03", "1314140", "bcf9f4ae4a317dc0f2d8b19c3aae5c68e28102c0f7cd3d05927ca2e2243a4cf2", "sha256_hash", "payload", "win.dcrat", "DarkCrystal RAT", "DCRat", "", "95", "None", "None", "0", "Grim"
 "2024-08-19 19:36:51", "1313649", "8ed8b891d4aa6f1b7935ec3c298d781403c4ba67b1f8e2e6cc7076b7c94a15ce", "sha256_hash", "payload", "win.agent_tesla", "AgenTesla,AgentTesla,Negasteal", "Agent Tesla", "", "95", "None", "None", "0", "Grim"
 "2024-08-19 19:36:47", "1313646", "1cce0e4c3b171f62ebdf5348a2d32d8c5bce25ae74c4a89f70012bb4ccfca5c1", "sha256_hash", "payload", "win.asyncrat", "None", "AsyncRAT", "", "95", "None", "None", "0", "Grim"
 "2024-08-19 19:36:44", "1313643", "2c25cdc91b58cf6a465e54a437cde62571f3b00090ae608de7d45d4a309c3c03", "sha256_hash", "payload", "win.agent_tesla", "AgenTesla,AgentTesla,Negasteal", "Agent Tesla", "", "95", "None", "None", "0", "Grim"
@@ -50,4 +92,4 @@
 "2024-08-19 19:34:21", "1313529", "336f2078a759d36b28236629cc3d8a577c460cd6867642fd17c062da86f09370", "sha256_hash", "payload", "win.cobalt_strike", "Agentemis,BEACON,CobaltStrike,cobeacon", "Cobalt Strike", "", "95", "None", "None", "0", "Grim"
 "2024-08-19 19:34:17", "1313526", "9e6875db397f7d76fcae09d39360a73237b11b1fbfcfa7275bb7fe7cf0d87df8", "sha256_hash", "payload", "win.remcos", "RemcosRAT,Remvio,Socmer", "Remcos", "", "95", "None", "None", "0", "Grim"
 "2024-08-19 19:34:11", "1313523", "78afb299a048b8453810853419930dc95d53969dfc237da0886cf27841c2c604", "sha256_hash", "payload", "win.stealc", "None", "Stealc", "", "95", "None", "None", "0", "Grim"
-# Number of entries: 43
+# Number of entries: 85
