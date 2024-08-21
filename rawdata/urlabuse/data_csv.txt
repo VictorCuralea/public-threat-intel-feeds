@@ -6,9 +6,14 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-21 12:00:01 UTC
+# UPDATE: 2024-08-21 13:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+221208, 2024-08-21 12:56:17, 2024-08-21 12:56:17, phishing, a716d0007be1821cb51e35f3f2675d61, http://rebrandrevpro.pages.dev
+221207, 2024-08-21 12:52:12, 2024-08-21 12:52:12, phishing, b98f4094e5c33404a653e92ace1d07d9, http://modifydappchain.pages.dev
+221206, 2024-08-21 12:14:35, 2024-08-21 12:14:11, phishing, 8e3fbf983c6febf86f0f6871384e7b3e, https://ameli-info.fr/
+221205, 2024-08-21 12:01:13, 2024-08-21 12:01:13, phishing, 1d7c77ea80873a3372b31a4a0d4b779e, https://077-c33065m1cr0s07t.webflow.io/
+221204, 2024-08-21 12:01:03, 2024-08-21 10:38:13, phishing, a10646fe41fabbe7d3442bfe44d8b96d, https://is.gd/BWcFpC
 221203, 2024-08-21 11:54:13, 2024-08-21 11:54:13, phishing, 2a0d36d6314fd7868f66481e724ef7fe, https://infos-retard-renouvellement.fr/pages/index.php
 221202, 2024-08-21 11:24:46, 2024-08-21 11:24:46, malware, f683e574e7074e1fa1e2392edd9937ac, http://61.3.141.134:41211/i
 221201, 2024-08-21 11:24:36, 2024-08-21 11:24:36, malware, 5d1b7f47d3684d2eace148c8423a8d57, http://59.95.84.244:38438/i
@@ -504,8 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 220711, 2024-08-20 21:23:47, 2024-08-20 21:23:47, malware, 3ca7f11ca336468aaaab1727acb10641, http://222.137.112.37:35346/bin.sh
 220710, 2024-08-20 21:23:36, 2024-08-20 21:23:36, malware, 14811024c06f4a69b75369bd02db5a75, http://182.127.4.225:40320/Mozi.m
 220709, 2024-08-20 21:23:34, 2024-08-20 21:23:34, malware, 8472488ac4c64ceeaf74ec7eb33711cb, http://182.126.123.170:44042/
-220708, 2024-08-20 21:23:33, 2024-08-20 21:23:33, malware, fd7e111bf3ce4313bc1a5f5617fc35c4, http://182.126.119.228:57971/Mozi.m
-220707, 2024-08-20 21:23:31, 2024-08-20 21:23:31, malware, 9c9149c70a4b46af8dee95c41dc5c541, http://182.121.248.164:50777/Mozi.m
-220706, 2024-08-20 21:23:30, 2024-08-20 21:23:30, malware, e891172f1d804d57841f8eff587ed8f4, http://182.117.88.46:53130/i
-220705, 2024-08-20 21:23:28, 2024-08-20 21:23:28, malware, fa9d7737d88a4bb5b1437de184e7e077, http://125.45.68.173:44006/i
-220704, 2024-08-20 21:23:27, 2024-08-20 21:23:27, malware, c870ff77eae54a899022898c43a58ceb, http://123.9.98.181:57951/i

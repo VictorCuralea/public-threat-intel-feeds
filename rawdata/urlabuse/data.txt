@@ -6,8 +6,13 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-21 12:00:01 UTC
+# UPDATE: 2024-08-21 13:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 221208, "url": "http://rebrandrevpro.pages.dev", "discovery": "2024-08-21 12:56:17", "added": "2024-08-21 12:56:17", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "a716d0007be1821cb51e35f3f2675d61"}
+{"id": 221207, "url": "http://modifydappchain.pages.dev", "discovery": "2024-08-21 12:52:12", "added": "2024-08-21 12:52:12", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "b98f4094e5c33404a653e92ace1d07d9"}
+{"id": 221206, "url": "https://ameli-info.fr/", "discovery": "2024-08-21 12:14:11", "added": "2024-08-21 12:14:35", "target": "FR-GOV", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "8e3fbf983c6febf86f0f6871384e7b3e"}
+{"id": 221205, "url": "https://077-c33065m1cr0s07t.webflow.io/", "discovery": "2024-08-21 12:01:13", "added": "2024-08-21 12:01:13", "target": "BT", "reporter": "urlabuse", "AbuseType": "phishing", "UUID": "1d7c77ea80873a3372b31a4a0d4b779e"}
+{"id": 221204, "url": "https://is.gd/BWcFpC", "discovery": "2024-08-21 10:38:13", "added": "2024-08-21 12:01:03", "target": "BT", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "a10646fe41fabbe7d3442bfe44d8b96d"}
 {"id": 221203, "url": "https://infos-retard-renouvellement.fr/pages/index.php", "discovery": "2024-08-21 11:54:13", "added": "2024-08-21 11:54:13", "target": "FR-GOV", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "2a0d36d6314fd7868f66481e724ef7fe"}
 {"id": 221202, "url": "http://61.3.141.134:41211/i", "discovery": "2024-08-21 11:24:46", "added": "2024-08-21 11:24:46", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "f683e574e7074e1fa1e2392edd9937ac"}
 {"id": 221201, "url": "http://59.95.84.244:38438/i", "discovery": "2024-08-21 11:24:36", "added": "2024-08-21 11:24:36", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "5d1b7f47d3684d2eace148c8423a8d57"}
@@ -503,8 +508,3 @@
 {"id": 220711, "url": "http://222.137.112.37:35346/bin.sh", "discovery": "2024-08-20 21:23:47", "added": "2024-08-20 21:23:47", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "3ca7f11ca336468aaaab1727acb10641"}
 {"id": 220710, "url": "http://182.127.4.225:40320/Mozi.m", "discovery": "2024-08-20 21:23:36", "added": "2024-08-20 21:23:36", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "14811024c06f4a69b75369bd02db5a75"}
 {"id": 220709, "url": "http://182.126.123.170:44042/", "discovery": "2024-08-20 21:23:34", "added": "2024-08-20 21:23:34", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "8472488ac4c64ceeaf74ec7eb33711cb"}
-{"id": 220708, "url": "http://182.126.119.228:57971/Mozi.m", "discovery": "2024-08-20 21:23:33", "added": "2024-08-20 21:23:33", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "fd7e111bf3ce4313bc1a5f5617fc35c4"}
-{"id": 220707, "url": "http://182.121.248.164:50777/Mozi.m", "discovery": "2024-08-20 21:23:31", "added": "2024-08-20 21:23:31", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "9c9149c70a4b46af8dee95c41dc5c541"}
-{"id": 220706, "url": "http://182.117.88.46:53130/i", "discovery": "2024-08-20 21:23:30", "added": "2024-08-20 21:23:30", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "e891172f1d804d57841f8eff587ed8f4"}
-{"id": 220705, "url": "http://125.45.68.173:44006/i", "discovery": "2024-08-20 21:23:28", "added": "2024-08-20 21:23:28", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "fa9d7737d88a4bb5b1437de184e7e077"}
-{"id": 220704, "url": "http://123.9.98.181:57951/i", "discovery": "2024-08-20 21:23:27", "added": "2024-08-20 21:23:27", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "c870ff77eae54a899022898c43a58ceb"}
