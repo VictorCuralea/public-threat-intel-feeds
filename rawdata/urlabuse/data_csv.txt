@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-21 22:00:02 UTC
+# UPDATE: 2024-08-21 23:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+221631, 2024-08-21 22:58:14, 2024-08-21 22:58:14, phishing, 652272a5d5b1353b29fd3237e5eeeda4, http://odemeiadedestek.com.tr
+221630, 2024-08-21 22:04:19, 2024-08-21 22:04:19, phishing, 538efe50a2a8d2adbde176262514137e, http://spo.devgdmsuk.com/_layouts/15/authenticate.aspx/_forms/default.aspx/_forms/default.aspx
+221629, 2024-08-21 22:03:39, 2024-08-21 22:03:39, phishing, 6e68f015eee0ddcd2e227317010b3bdc, https://pub-16f63154490b40beac574e10862f738e.r2.dev/revi3w.html
+221628, 2024-08-21 22:03:13, 2024-08-21 22:03:13, phishing, df53b7059a8e8a19e891bccb60d4a5d0, http://telegramforhookups1.vercel.app:443/
 221627, 2024-08-21 21:50:13, 2024-08-21 21:50:13, phishing, 687da39f3a55167ddae53fdab4f8a0f3, http://kontolberotot.pages.dev
 221626, 2024-08-21 21:26:57, 2024-08-21 21:26:57, malware, d568f8092c524af5a21dbec737ce4051, http://61.53.33.211:33099/i
 221625, 2024-08-21 21:26:55, 2024-08-21 21:26:55, malware, 53b5b419d7d247bab3062e4df2bc06ed, http://61.53.250.181:48727/bin.sh
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 221134, 2024-08-21 09:24:43, 2024-08-21 09:24:43, malware, 2363129f6e50475badaa592ba295d31c, http://182.116.123.54:36868/bin.sh
 221133, 2024-08-21 09:24:42, 2024-08-21 09:24:42, malware, 64c5e99d58764385997d5fd4b70127a4, http://182.113.35.245:37744/bin.sh
 221132, 2024-08-21 09:24:40, 2024-08-21 09:24:40, malware, 9fb4203b3b6a41dd9f10fdbd0e0d5e99, http://182.112.98.30:38322/
-221131, 2024-08-21 09:24:31, 2024-08-21 09:24:31, malware, 0a15577449d846a68cb426d06a3220be, http://125.47.59.73:39400/bin.sh
-221130, 2024-08-21 09:24:30, 2024-08-21 09:24:30, malware, 6059857f4caa4a4e99e2b5bb8a6db253, http://125.47.58.240:38346/bin.sh
-221129, 2024-08-21 09:24:28, 2024-08-21 09:24:28, malware, 452a1f0c1fbb4c24a545fe66d06a14b3, http://125.40.120.244:36602/i
-221128, 2024-08-21 09:24:27, 2024-08-21 09:24:27, malware, f6ec77bb6baa4256a697f42fb281712a, http://123.4.198.27:35908/bin.sh
