@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-08-21 06:10:53 UTC                        #
+# Last updated: 2024-08-21 13:50:22 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	abomenaa.duckdns.org
+127.0.0.1	iprotosample.com
 127.0.0.1	bhhdhhj.com
 127.0.0.1	geekcs2.top
 127.0.0.1	bot.geekcs2.top
@@ -7261,4 +7263,4 @@
 127.0.0.1	bistoxcrypto.com
 127.0.0.1	157.32.125.34.bc.googleusercontent.com
 127.0.0.1	93-33-203-219.ip46.fastwebnet.it
-# Number of entries: 7255
+# Number of entries: 7257
