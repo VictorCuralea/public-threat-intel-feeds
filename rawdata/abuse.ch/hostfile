@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-08-21 13:50:22 UTC                        #
+# Last updated: 2024-08-21 14:54:11 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	expertcloud.lol
+127.0.0.1	expertcloud.xyz
 127.0.0.1	abomenaa.duckdns.org
 127.0.0.1	iprotosample.com
 127.0.0.1	bhhdhhj.com
@@ -7252,15 +7254,4 @@
 127.0.0.1	dns.artstrailreviews.com
 127.0.0.1	aitcaid.com
 127.0.0.1	www.nbcnews.site
-127.0.0.1	ec2-52-20-229-84.compute-1.amazonaws.com
-127.0.0.1	ftp.huboftest.ir
-127.0.0.1	109.107.181.83.sslip.io
-127.0.0.1	www.maribelgould.autos
-127.0.0.1	www.kendraesparza.autos
-127.0.0.1	irenecameron.autos
-127.0.0.1	hg88654.cc
-127.0.0.1	ok.system111.top
-127.0.0.1	bistoxcrypto.com
-127.0.0.1	157.32.125.34.bc.googleusercontent.com
-127.0.0.1	93-33-203-219.ip46.fastwebnet.it
-# Number of entries: 7257
+# Number of entries: 7248

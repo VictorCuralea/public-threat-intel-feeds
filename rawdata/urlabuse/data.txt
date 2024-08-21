@@ -6,8 +6,18 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-21 14:00:01 UTC
+# UPDATE: 2024-08-21 15:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 221291, "url": "https://whohustle.com/app/dhl", "discovery": "2024-08-21 14:44:19", "added": "2024-08-21 14:44:19", "target": "DHL", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "50d2cf45f8f91d69e62a3e54d0392814"}
+{"id": 221290, "url": "http://maconnexoran.duckdns.org", "discovery": "2024-08-21 14:34:16", "added": "2024-08-21 14:34:16", "target": "Orange", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "fd02de752bdbd31afec5338a5284babc"}
+{"id": 221289, "url": "http://conexgeneriq.duckdns.org", "discovery": "2024-08-21 14:32:14", "added": "2024-08-21 14:32:14", "target": "Orange", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "efacf7f1f5578b2388eee56f2dcd6e99"}
+{"id": 221288, "url": "http://doneindmoa.duckdns.org", "discovery": "2024-08-21 14:26:14", "added": "2024-08-21 14:26:14", "target": "Orange", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "939a8de5dfc77fc6ce3346c8bb812b31"}
+{"id": 221287, "url": "http://indexmancouran.duckdns.org", "discovery": "2024-08-21 14:24:16", "added": "2024-08-21 14:24:16", "target": "Orange", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "fe1dcdf83fd1164acbfbdc78c4e08432"}
+{"id": 221286, "url": "https://www.dropbox.com/scl/fi/l39mto6z7mzzepl97v42u/Kindly-update-your-Bti", "discovery": "2024-08-21 14:08:13", "added": "2024-08-21 14:20:42", "target": "BT", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "65885e5050efa2d322ec21126ba369ee"}
+{"id": 221285, "url": "https://www.ticket2u.com.my/form/37723", "discovery": "2024-08-21 13:56:13", "added": "2024-08-21 14:14:39", "target": "BT", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "b52a5330bbb62bd522df358cfc7ccf8f"}
+{"id": 221284, "url": "https://extrapower.in", "discovery": "2024-08-21 14:02:21", "added": "2024-08-21 14:02:21", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "e781886c77a198ff2660068b14765ec1"}
+{"id": 221283, "url": "https://www.dgeiodisha.in", "discovery": "2024-08-21 14:02:19", "added": "2024-08-21 14:02:19", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "af20acd7871aac01cbfe74f474b559fb"}
+{"id": 221282, "url": "https://bhagyalaxmifoodcatters.com", "discovery": "2024-08-21 14:02:19", "added": "2024-08-21 14:02:19", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "6bee27857b2f8ac6ee137f5bbcdd721f"}
 {"id": 221281, "url": "http://whaotsopp.com", "discovery": "2024-08-21 13:46:17", "added": "2024-08-21 13:46:17", "target": "Whatsapp", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "e14510a9193033bda79ae9c29a7bc1ab"}
 {"id": 221280, "url": "http://whoatsopp.com", "discovery": "2024-08-21 13:44:17", "added": "2024-08-21 13:44:17", "target": "Whatsapp", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "d4c7604a7d919fb5db86a67afff5d167"}
 {"id": 221279, "url": "http://instagramhack.ocbcyber.xyz", "discovery": "2024-08-21 13:36:17", "added": "2024-08-21 13:36:17", "target": "Instagram", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "d138e816bf3a4dc7622668c698ac738f"}
@@ -498,13 +508,3 @@
 {"id": 220794, "url": "http://117.194.216.235:53515/Mozi.m", "discovery": "2024-08-21 01:20:33", "added": "2024-08-21 01:20:33", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "35d92829b7f94444a409368a4de199e9"}
 {"id": 220793, "url": "http://116.68.162.158:46956/i", "discovery": "2024-08-21 01:20:30", "added": "2024-08-21 01:20:30", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "5a5fc104c3614324a12727c8c0d2c37f"}
 {"id": 220792, "url": "http://115.63.182.233:47271/i", "discovery": "2024-08-21 01:20:18", "added": "2024-08-21 01:20:18", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "354f6c02d275478b84c43f48adebdda8"}
-{"id": 220791, "url": "http://115.56.167.168:51498/bin.sh", "discovery": "2024-08-21 01:20:16", "added": "2024-08-21 01:20:16", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "0f4be67c3ac6453fadf56b94b99684b0"}
-{"id": 220790, "url": "http://115.56.151.231:48916/bin.sh", "discovery": "2024-08-21 01:20:15", "added": "2024-08-21 01:20:15", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "91644920be53492992b0f2606a99b711"}
-{"id": 220789, "url": "http://t0kenq0cket.com", "discovery": "2024-08-21 00:52:17", "added": "2024-08-21 00:52:17", "target": "Token Pocket", "reporter": "lruray", "AbuseType": "phishing", "UUID": "8561956e64f4b1955c1fd76df4cbc56e"}
-{"id": 220788, "url": "http://t0kenp0cket.com", "discovery": "2024-08-21 00:52:15", "added": "2024-08-21 00:52:15", "target": "Token Pocket", "reporter": "lruray", "AbuseType": "phishing", "UUID": "c87d105689b57b0383a7351ab08ef4b1"}
-{"id": 220787, "url": "http://t0kenpoekct.com", "discovery": "2024-08-21 00:50:14", "added": "2024-08-21 00:50:14", "target": "Token Pocket", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "93507f5a7cf1467d235e07bc65d0c948"}
-{"id": 220786, "url": "http://tremsof-accurate-info.duckdns.org", "discovery": "2024-08-21 00:10:14", "added": "2024-08-21 00:10:14", "target": "Facebook", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "d4c04818ab524bcd4e0ae03ab720ae7a"}
-{"id": 220785, "url": "https://sneakerlife.shop/wp-content/upgrade/-/SBB24CH2/", "discovery": "2024-08-21 00:04:11", "added": "2024-08-21 00:04:11", "target": "SwissPass", "reporter": "VERIFROMd", "AbuseType": "phishing", "UUID": "6171b8a1b8ae716613f9fa964cade750"}
-{"id": 220784, "url": "https://harrisadri.com/sb", "discovery": "2024-08-21 00:02:15", "added": "2024-08-21 00:02:15", "target": "SwissPass", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "25ade3ed0259d9b7c3fe18611c65f29a"}
-{"id": 220783, "url": "https://jhi.rxg.mybluehost.me/wp-content/Schweiz/", "discovery": "2024-08-20 23:39:24", "added": "2024-08-20 23:39:24", "target": "Swisscom", "reporter": "urlabuse", "AbuseType": "phishing", "UUID": "f814e962e57324c9a7ce0b2ce1f6ad3c"}
-{"id": 220782, "url": "https://jhi.rxg.mybluehost.me/wp-content/schweiz.html", "discovery": "2024-08-20 22:24:15", "added": "2024-08-20 23:38:22", "target": "Swisscom", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "021a822cbba954b39cf16d50ab946b9c"}
