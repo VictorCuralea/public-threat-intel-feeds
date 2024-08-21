@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-08-20 18:16:55 UTC                        #
+# Last updated: 2024-08-21 06:10:53 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	bhhdhhj.com
 127.0.0.1	geekcs2.top
 127.0.0.1	bot.geekcs2.top
 127.0.0.1	gregorymadensky.sytes.net
@@ -7270,6 +7271,4 @@
 127.0.0.1	db2017417b23.zapto.org
 127.0.0.1	jmoha66808.ddns.net
 127.0.0.1	rourtmanjsdadhfakja.com
-127.0.0.1	nanocore73.zapto.org
-127.0.0.1	elianisgalidon3020.duckdns.org
-# Number of entries: 7266
+# Number of entries: 7265
