@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-22 08:00:01 UTC
+# UPDATE: 2024-08-22 09:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+222002, 2024-08-22 08:38:15, 2024-08-22 08:38:15, phishing, 13c864b87be0ba8622077225adb51826, http://promptpowfiltrade.pages.dev
+222001, 2024-08-22 08:36:14, 2024-08-22 08:36:14, phishing, 0c323bf04ade03737d23782af903c208, https://tariqolm.serv00.net/CH/CH/
+222000, 2024-08-22 08:36:13, 2024-08-22 08:36:13, phishing, a88786332da6a82f87ab5b00ed0f4bd8, http://hajfgjud2.pages.dev
 221999, 2024-08-22 07:55:12, 2024-08-22 07:55:12, phishing, 283ceabb6d7ebf94de8472c72caa5908, https://booking.reservation-prop772822.info/
 221998, 2024-08-22 07:54:08, 2024-08-22 07:54:08, phishing, 59ce66063f98ce03e764bfb50fcad928, https://exsecure-refresh.com/
 221997, 2024-08-22 07:53:42, 2024-08-22 07:53:42, phishing, 3dddaef98905872e7fa58324fb205b45, https://benutzer-refresh.com/
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 221505, 2024-08-21 19:24:43, 2024-08-21 19:24:43, malware, af6fd96dc8aa4dba86a27f93d0457851, http://185.196.9.140/9574584b66fd42a8/msvcp140.dll
 221504, 2024-08-21 19:24:26, 2024-08-21 19:24:26, malware, 5bf59d6dff884e8aa5572731b4666aae, http://182.120.61.37:38173/bin.sh
 221503, 2024-08-21 19:24:25, 2024-08-21 19:24:25, malware, 195d53107126490fab5b66ce6225f2ef, http://182.119.78.124:48493/Mozi.m
-221502, 2024-08-21 19:24:23, 2024-08-21 19:24:23, malware, 9bc0ade56d104d7d93acf247babb85de, http://182.119.234.85:52295/i
-221501, 2024-08-21 19:24:21, 2024-08-21 19:24:21, malware, 79b575e9642e4e22a510778a5fcc5f81, http://182.117.13.36:40911/Mozi.m
-221500, 2024-08-21 19:24:20, 2024-08-21 19:24:20, malware, 9de01ddd44a54316a36643bb19e7e203, http://182.117.0.170:56059/bin.sh
