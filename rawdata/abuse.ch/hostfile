@@ -1,11 +1,19 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-08-22 13:02:28 UTC                        #
+# Last updated: 2024-08-22 15:52:05 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	imageunic.com
+127.0.0.1	load.activecitrux.com
+127.0.0.1	load.managerthreads.com
+127.0.0.1	panel.x00x.online
+127.0.0.1	millikanrams.com
+127.0.0.1	activecitrux.com
+127.0.0.1	managerthreads.com
+127.0.0.1	x00x.online
 127.0.0.1	fileupdate.lol
 127.0.0.1	fileupdate.xyz
 127.0.0.1	fileupdate.pics
@@ -7459,5 +7467,4 @@
 127.0.0.1	software.ftoffice.com
 127.0.0.1	139-162-155-161.ip.linodeusercontent.com
 127.0.0.1	grebiunti.top
-127.0.0.1	mafiakorea.com
-# Number of entries: 7454
+# Number of entries: 7461
