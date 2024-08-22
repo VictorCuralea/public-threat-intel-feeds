@@ -6,9 +6,18 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-22 22:00:02 UTC
+# UPDATE: 2024-08-22 23:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+222516, 2024-08-22 22:20:15, 2024-08-22 22:20:15, phishing, e1c643ac773eb7555afb1a7329da9983, http://webrestoredapp.site
+222515, 2024-08-22 22:03:59, 2024-08-22 22:03:59, phishing, 585f1b62db1825fbbbed4da35b82d3f8, https://bet365r5.com/
+222514, 2024-08-22 22:03:33, 2024-08-22 22:03:33, phishing, 564152d3bee27577c5f21e3564d24b2e, https://vei35rbq2algqumgwrucyytfxj2p3jy5luigswv3b5h4yrnpvsma.ar-io.dev/qRG-xDDQFmhRhrRoLGJlunT9px1dEGlauw9PzEWvrJg
+222513, 2024-08-22 22:03:23, 2024-08-22 22:03:23, phishing, 8cd386d64dd900de8127dc02cf50c9e9, http://pub-fed99483ea7e40c4ad9390e61b92c8a7.r2.dev/index.html
+222512, 2024-08-22 22:03:02, 2024-08-22 22:03:02, phishing, 60ac95b7a617d49a2b622d6eb59a81b0, https://ovh-princevpn.mycode.filegear-sg.me/
+222511, 2024-08-22 22:02:48, 2024-08-22 22:02:48, phishing, 0c36aedc2d5b8e56b51dd987b5059686, https://telexkl-jznf.top/zz
+222510, 2024-08-22 22:02:40, 2024-08-22 22:02:40, phishing, 725cbecd327c6d52e3a6ee74ed73053a, http://murat-turkiye.com/
+222509, 2024-08-22 22:02:19, 2024-08-22 22:02:19, hacked, e54911e5ca818785b54572111ad9fbeb, https://maviajewls.com/
+222508, 2024-08-22 22:02:10, 2024-08-22 22:02:10, phishing, 324605d62a5f09874cc44a4da86f85f6, https://effervescent-entremet-33d1fb.netlify.app/
 222507, 2024-08-22 21:32:15, 2024-08-22 21:32:15, phishing, 193936cd79fcb4efe21ab6033b231c73, http://odpan.ttq.asia
 222506, 2024-08-22 21:27:54, 2024-08-22 21:27:54, malware, 4db406236c6c4d1eb4466cb5a5a490cc, http://pagamentoresgate.shop/bot.sh4
 222505, 2024-08-22 21:27:53, 2024-08-22 21:27:53, malware, aef9cb3559ae4b8fbaf21668a9a96241, http://pagamentoresgate.shop/bot.arm6
@@ -500,12 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 222019, 2024-08-22 09:23:40, 2024-08-22 09:23:40, malware, 403ef89e22e94fa29c1c782a87dd651a, http://118.250.5.130:55589/bin.sh
 222018, 2024-08-22 09:23:09, 2024-08-22 09:23:09, malware, 6d9b75b0d3c44a0b86e6ebbd9ddef42c, http://117.248.173.201:52133/i
 222017, 2024-08-22 09:23:01, 2024-08-22 09:23:01, malware, d47d9ed3eefe405589cb1fc09184d95f, http://117.248.163.37:36940/i
-222016, 2024-08-22 09:22:57, 2024-08-22 09:22:57, malware, de5dfce59d5d49fc9491e0d4a4551ab6, http://117.245.39.15:33231/bin.sh
-222015, 2024-08-22 09:22:14, 2024-08-22 09:22:14, malware, f1c1a55eb9154264b3431085ef16f446, http://117.235.248.4:35417/bin.sh
-222014, 2024-08-22 09:21:52, 2024-08-22 09:21:52, malware, a7004b18d3d1406eacdfe26362f98984, http://117.235.109.127:55499/i
-222013, 2024-08-22 09:21:40, 2024-08-22 09:21:40, malware, 3398c2cdb5b94ec6a28a6ad51ce3d78f, http://117.215.129.210:34561/bin.sh
-222012, 2024-08-22 09:21:07, 2024-08-22 09:21:07, malware, 8e3d69ea5157431d9e3e6a9b7c8e619e, http://117.200.152.222:60474/Mozi.m
-222011, 2024-08-22 09:20:48, 2024-08-22 09:20:48, malware, 4761b2a20df74049b1d6839ad722fc7d, http://117.196.166.206:39101/bin.sh
-222010, 2024-08-22 09:20:19, 2024-08-22 09:20:19, malware, 6d319b81ff2e4479ad3b79433455239c, http://115.61.114.123:55314/Mozi.m
-222009, 2024-08-22 09:20:17, 2024-08-22 09:20:17, malware, db00a2549f314925a8071c21f56646f7, http://115.56.98.0:34115/Mozi.m
-222008, 2024-08-22 09:20:16, 2024-08-22 09:20:16, malware, 32274f0ad9714d96ac4be9a33ead6634, http://115.50.174.98:50742/Mozi.m
