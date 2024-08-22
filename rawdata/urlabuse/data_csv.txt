@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-22 00:00:01 UTC
+# UPDATE: 2024-08-22 01:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+221688, 2024-08-22 00:10:17, 2024-08-22 00:10:17, phishing, bffa762de0e11727ef5523d21752a6d9, http://fixserverweb3.pages.dev
 221687, 2024-08-21 23:58:12, 2024-08-21 23:58:12, phishing, 9f1b9be762fd71d9f238df2e036bc89b, http://532129598215915252.com
 221686, 2024-08-21 23:34:12, 2024-08-21 23:34:12, phishing, 2ea3aed31e846dc00a4337af59ba66a3, https://estonialhv.site/loginn/id-kart.html
 221685, 2024-08-21 23:24:15, 2024-08-21 23:24:15, malware, fb14bf9c3c094f92b7b2421a4f5ca696, http://94.240.47.154:46435/Mozi.m
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 221191, 2024-08-21 11:22:55, 2024-08-21 11:22:55, malware, cc81541bf53243839b8d6364800ab8dc, http://222.138.137.85:45335/i
 221190, 2024-08-21 11:22:54, 2024-08-21 11:22:54, malware, 42c07c90954241c092875ea4c5b7a90b, http://219.155.29.204:47377/i
 221189, 2024-08-21 11:22:52, 2024-08-21 11:22:52, malware, 4097a1fab2374da6a26edf5764461d3f, http://219.155.237.30:40087/i
-221188, 2024-08-21 11:22:51, 2024-08-21 11:22:51, malware, b6aacad9998547c0ba2654497889ef71, http://196.189.41.142:50506/Mozi.m
