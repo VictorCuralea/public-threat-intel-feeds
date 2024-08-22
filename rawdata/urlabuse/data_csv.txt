@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-22 02:00:01 UTC
+# UPDATE: 2024-08-22 03:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+221731, 2024-08-22 02:42:10, 2024-08-22 02:42:10, phishing, 0b1539b67c71b9a8a09e9db4af893640, http://snapsexfreeonly.pages.dev
 221730, 2024-08-22 01:25:16, 2024-08-22 01:25:16, malware, 01e998955a0f4695862edc31cf8a5810, http://78.189.75.123:46585/i
 221729, 2024-08-22 01:25:15, 2024-08-22 01:25:15, malware, f7583eee33bd4371ad75573e592b156f, http://61.52.208.237:36772/
 221728, 2024-08-22 01:24:43, 2024-08-22 01:24:43, malware, e5ed0f8e298744eb9af84febb53b5ecb, http://59.97.120.220:57615/i
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 221234, 2024-08-21 13:25:21, 2024-08-21 13:25:21, malware, 1ca1eb4f5c2e4551ae341514a0a8d95e, http://117.248.168.140:45379/i
 221233, 2024-08-21 13:25:19, 2024-08-21 13:25:19, malware, b2717ad34c5f4af6adc141beec53e5a5, http://117.248.168.127:48740/i
 221232, 2024-08-21 13:25:01, 2024-08-21 13:25:01, malware, e9ba65fce4cb4d698b9b85429571a589, http://117.248.167.71:53284/i
-221231, 2024-08-21 13:24:56, 2024-08-21 13:24:56, malware, b8a63408e9e24b57a4410b2482eea20f, http://117.248.165.225:56869/i
