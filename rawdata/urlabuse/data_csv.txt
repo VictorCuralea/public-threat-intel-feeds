@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-22 14:00:01 UTC
+# UPDATE: 2024-08-22 15:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+222206, 2024-08-22 14:54:15, 2024-08-22 14:54:15, phishing, 7906ac717a39bb755a0c56931fb6fe92, http://carte-ameli-vitale.com
+222205, 2024-08-22 14:52:14, 2024-08-22 14:52:14, phishing, bb5e4f869065d3843bff2c583f1d69c6, http://cartea.site.tb-hosting.com
+222204, 2024-08-22 14:04:03, 2024-08-22 13:40:13, phishing, b7d57cc4a103ec22866ff408569bf6fa, https://operja.blog/zaa/account/MitID/
+222203, 2024-08-22 14:02:15, 2024-08-22 14:02:15, hacked, 0ada44282f413e901dca2d53cf202c85, https://mces-acnc.org/pic.html
 222202, 2024-08-22 13:40:13, 2024-08-22 13:40:13, phishing, 5b7aa879f65923d247a85902a332b5ea, https://lju.npf.temporary.site/website_be533e50/oakr01ta/secure/index?country=CH
 222201, 2024-08-22 13:33:00, 2024-08-22 13:33:00, malware, aad623a010314dfeb4e1da80b1cd335d, http://88.226.27.139:35319/Mozi.m
 222200, 2024-08-22 13:30:52, 2024-08-22 13:30:52, malware, bea1d780b1264f7db00a2c09405fbfd9, http://59.89.68.68:42892/Mozi.m
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 221709, 2024-08-22 01:22:23, 2024-08-22 01:22:23, malware, a3d2b895932b4a9a8152878461613063, http://117.248.174.105:60163/Mozi.m
 221708, 2024-08-22 01:22:12, 2024-08-22 01:22:12, malware, 5b33d94cb1ba45279ad08bcf4f6ce0cd, http://117.245.39.23:45353/i
 221707, 2024-08-22 01:22:10, 2024-08-22 01:22:10, malware, e8f7c55cf5374f6aa3b5fe1c130e9580, http://117.242.108.214:59882/Mozi.m
-221706, 2024-08-22 01:21:53, 2024-08-22 01:21:53, malware, 49077878a95144b6aba8a275910ab1c6, http://117.235.227.213:60381/i
-221705, 2024-08-22 01:21:42, 2024-08-22 01:21:42, malware, 6327ae619b824f939848e6b2c568470d, http://117.235.1.154:45939/i
-221704, 2024-08-22 01:21:23, 2024-08-22 01:21:23, malware, 4ff4417246364acfb813b6d5ec00b049, http://117.211.213.41:37777/i
-221703, 2024-08-22 01:21:21, 2024-08-22 01:21:21, malware, f36b7ce0828c4d5b9ee5f5612c3306e1, http://117.208.248.68:48793/
