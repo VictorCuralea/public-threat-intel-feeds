@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-08-21 18:25:50 UTC                        #
+# Last updated: 2024-08-22 05:35:47 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	www.sanibath.com
 127.0.0.1	miracledzmnqwui.shop
 127.0.0.1	usedstuf.com
 127.0.0.1	totemcontent.com
@@ -7255,4 +7256,4 @@
 127.0.0.1	ecuaecua.duckdns.org
 127.0.0.1	realusatruck.com
 127.0.0.1	amma.myftp.biz
-# Number of entries: 7249
+# Number of entries: 7250
