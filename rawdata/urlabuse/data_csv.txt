@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-22 06:00:01 UTC
+# UPDATE: 2024-08-22 07:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+221920, 2024-08-22 06:56:12, 2024-08-22 06:56:12, phishing, d818f2820dd1da21a66ed1887e1686d2, http://blockstechapp.pages.dev
+221919, 2024-08-22 06:32:17, 2024-08-22 06:32:17, phishing, 341c68f85c2035328dc6a76cdb8c73f9, http://messvoorang.duckdns.org
+221918, 2024-08-22 06:24:24, 2024-08-22 06:24:24, phishing, 9eeb6b67e3b4e93dbef296c95aaa9206, http://commeoran.duckdns.org
+221917, 2024-08-22 06:02:16, 2024-08-22 06:02:16, hacked, 4bcc9cc9687cc2a691f29ed829155f0a, https://www.nhdcri.in/
 221916, 2024-08-22 05:32:52, 2024-08-22 05:32:52, malware, 715522664c554b82ac1c0d7d14b9b111, http://88.226.27.139:35319/i
 221915, 2024-08-22 05:32:48, 2024-08-22 05:32:48, malware, 2b893168a5a147e28ac23948873cd61f, http://73.171.230.140:41457/bin.sh
 221914, 2024-08-22 05:32:45, 2024-08-22 05:32:45, malware, 54b31898be6740328dd9ea61d35a25b0, http://61.53.122.246:37139/i
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 221423, 2024-08-21 17:22:49, 2024-08-21 17:22:49, malware, 27922cfccf9b4580bc65da330608f19c, http://117.248.174.104:45162/bin.sh
 221422, 2024-08-21 17:22:40, 2024-08-21 17:22:40, malware, 64c624842f92477585e31b5482130b9e, http://117.248.172.242:34270/Mozi.m
 221421, 2024-08-21 17:21:36, 2024-08-21 17:21:36, malware, 207634b9a8064569ab4984ec816a2465, http://117.221.115.13:44133/Mozi.m
-221420, 2024-08-21 17:21:05, 2024-08-21 17:21:05, malware, 24d31a95ff81471a829e861004772870, http://117.199.77.246:48397/bin.sh
-221419, 2024-08-21 17:21:02, 2024-08-21 17:21:02, malware, c69a4bbd2c15473f8f13bec63daa2ade, http://117.198.255.47:37603/bin.sh
-221418, 2024-08-21 17:20:58, 2024-08-21 17:20:58, malware, bae64cbd943c47bea0d7bb4db5fdbf4c, http://117.198.15.18:41786/i
-221417, 2024-08-21 17:20:25, 2024-08-21 17:20:25, malware, 79897325d22145c59c6063d3a279919d, http://115.62.153.253:60606/i
