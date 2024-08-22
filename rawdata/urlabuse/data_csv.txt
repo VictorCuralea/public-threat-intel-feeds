@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-22 20:00:01 UTC
+# UPDATE: 2024-08-22 21:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+222431, 2024-08-22 20:30:15, 2024-08-22 20:30:15, phishing, d6878bc16b12b11f5a3f4801c244c357, http://demande-ameli.info
+222430, 2024-08-22 20:08:14, 2024-08-22 20:08:14, phishing, 4b31da00311db69e2072acbd07fa85b9, http://exdappaccess.pages.dev
 222429, 2024-08-22 19:50:14, 2024-08-22 19:50:14, phishing, e8d938789a94985a6634e1e671a29389, http://sante-portail.fr
 222428, 2024-08-22 19:25:24, 2024-08-22 19:25:24, malware, 8716fd46cff744efb67fdd3c10b1f5a5, http://84.213.69.62:59254/i
 222427, 2024-08-22 19:25:22, 2024-08-22 19:25:22, malware, 0555fd8de6b846d2a88a47286d5bfa12, http://84.213.69.62:59254/bin.sh
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 221934, 2024-08-22 07:19:43, 2024-08-22 04:29:34, phishing, 7c29de261af5918e299db2bbd6da25a5, https://cdn.dragon.cere.network/376/fs/default/Index.html#x
 221933, 2024-08-22 07:19:17, 2024-08-22 06:22:22, phishing, a9095dceaff7628c96ec53f47ab87eed, https://my.hypovereinsbank.de.privat-megleren.com/2cc47/
 221932, 2024-08-22 07:16:57, 2024-08-22 06:28:14, phishing, a963cd424be29d13267ea4cd9a2c361b, https://asticostore.com/ch/post-ch/
-221931, 2024-08-22 07:16:45, 2024-08-22 06:29:08, phishing, 0e4c309cc42d910a31e64e4f91a91ece, https://old-red.infd.edu.ar/micrositios/jornadas-federales-2021-formosa/images/visa/index.html?userid=x
-221930, 2024-08-22 07:16:08, 2024-08-22 06:24:17, phishing, 31a5ad88371630d01305dbbdce2f40ea, https://ful.swq.mybluehost.me/wp-includes/assets/swcomde/

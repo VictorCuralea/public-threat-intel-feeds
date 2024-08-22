@@ -6,8 +6,10 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-22 20:00:01 UTC
+# UPDATE: 2024-08-22 21:00:02 UTC
 ############### END COMMENTS ###############
+{"id": 222431, "url": "http://demande-ameli.info", "discovery": "2024-08-22 20:30:15", "added": "2024-08-22 20:30:15", "target": "FR-GOV", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "d6878bc16b12b11f5a3f4801c244c357"}
+{"id": 222430, "url": "http://exdappaccess.pages.dev", "discovery": "2024-08-22 20:08:14", "added": "2024-08-22 20:08:14", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "4b31da00311db69e2072acbd07fa85b9"}
 {"id": 222429, "url": "http://sante-portail.fr", "discovery": "2024-08-22 19:50:14", "added": "2024-08-22 19:50:14", "target": "FR-GOV", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "e8d938789a94985a6634e1e671a29389"}
 {"id": 222428, "url": "http://84.213.69.62:59254/i", "discovery": "2024-08-22 19:25:24", "added": "2024-08-22 19:25:24", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "8716fd46cff744efb67fdd3c10b1f5a5"}
 {"id": 222427, "url": "http://84.213.69.62:59254/bin.sh", "discovery": "2024-08-22 19:25:22", "added": "2024-08-22 19:25:22", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "0555fd8de6b846d2a88a47286d5bfa12"}
@@ -506,5 +508,3 @@
 {"id": 221934, "url": "https://cdn.dragon.cere.network/376/fs/default/Index.html#x", "discovery": "2024-08-22 04:29:34", "added": "2024-08-22 07:19:43", "target": "Generic Email", "reporter": "anonymous", "AbuseType": "phishing", "UUID": "7c29de261af5918e299db2bbd6da25a5"}
 {"id": 221933, "url": "https://my.hypovereinsbank.de.privat-megleren.com/2cc47/", "discovery": "2024-08-22 06:22:22", "added": "2024-08-22 07:19:17", "target": "HypoVereinsbank", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "a9095dceaff7628c96ec53f47ab87eed"}
 {"id": 221932, "url": "https://asticostore.com/ch/post-ch/", "discovery": "2024-08-22 06:28:14", "added": "2024-08-22 07:16:57", "target": "SwissPost", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "a963cd424be29d13267ea4cd9a2c361b"}
-{"id": 221931, "url": "https://old-red.infd.edu.ar/micrositios/jornadas-federales-2021-formosa/images/visa/index.html?userid=x", "discovery": "2024-08-22 06:29:08", "added": "2024-08-22 07:16:45", "target": "Generic Email", "reporter": "anonymous", "AbuseType": "phishing", "UUID": "0e4c309cc42d910a31e64e4f91a91ece"}
-{"id": 221930, "url": "https://ful.swq.mybluehost.me/wp-includes/assets/swcomde/", "discovery": "2024-08-22 06:24:17", "added": "2024-08-22 07:16:08", "target": "Swisscom", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "31a5ad88371630d01305dbbdce2f40ea"}
