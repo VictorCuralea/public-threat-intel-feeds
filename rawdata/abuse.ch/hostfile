@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-08-22 07:02:49 UTC                        #
+# Last updated: 2024-08-22 13:02:28 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	fileupdate.lol
+127.0.0.1	fileupdate.xyz
+127.0.0.1	fileupdate.pics
+127.0.0.1	queimaxofc.com
 127.0.0.1	strolensar.nexuspatrimonial.city
 127.0.0.1	strotum60.luminisconsultoria.io
 127.0.0.1	strotum.veritasinvest.io
@@ -7456,4 +7460,4 @@
 127.0.0.1	139-162-155-161.ip.linodeusercontent.com
 127.0.0.1	grebiunti.top
 127.0.0.1	mafiakorea.com
-# Number of entries: 7450
+# Number of entries: 7454
