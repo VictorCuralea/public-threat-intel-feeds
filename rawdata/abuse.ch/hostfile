@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-08-22 17:28:29 UTC                        #
+# Last updated: 2024-08-22 18:53:12 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	pixel.desertum.space
 127.0.0.1	furystealer.com
 127.0.0.1	www.turkishlotteryoffate.com.tr
 127.0.0.1	dhlseguimiento.com
@@ -7478,4 +7479,4 @@
 127.0.0.1	lastaflirtely.me
 127.0.0.1	training-invasion.gl.at.ply.gg
 127.0.0.1	79-9-691.581-alps.qyhgroup.com
-# Number of entries: 7472
+# Number of entries: 7473
