@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-22 12:00:01 UTC
+# UPDATE: 2024-08-22 13:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+222145, 2024-08-22 12:50:32, 2024-08-22 12:18:13, phishing, 014bf44d34bca1cd6d2318e7e8ab67ef, https://enrareciereis.za.com/bnc/
+222144, 2024-08-22 12:26:12, 2024-08-22 12:26:12, phishing, 3cab4093ebf6573fadfeebadbd8fdf0c, http://yandesservermabagecloudsergeneratorjsjherjrsjgaaacc.pages.dev
+222143, 2024-08-22 12:06:17, 2024-08-22 12:06:17, phishing, a905e97fcc384349b5e3274e253afc1e, https://lju.npf.temporary.site/website_be533e50/oakr01ta/secure/4.php?join-us.x=a35d8a44873fb75d5d0635a426dac4daa35d8a44873fb75d5d0635a426dac4da
 222142, 2024-08-22 11:54:20, 2024-08-22 11:54:20, phishing, 9ee8f9a90ec5e77402a48001f72fa4e6, http://tesioewurdhjsieyytdodma101.pages.dev
 222141, 2024-08-22 11:54:19, 2024-08-22 11:54:19, phishing, 9aa51fad2f9a9685d796c5d90dff17c9, https://ndv.nce.mybluehost.me/wp-content/upgrade/N/dk/TU17HLK/index.php?FGDD=1#HDHKJDJDSSJDSJKJDSJDSDJJDSHYKJHGFG
 222140, 2024-08-22 11:30:07, 2024-08-22 11:30:07, malware, f62362ba791545c0ae44821cf2fe6847, http://78.186.46.107:55912/Mozi.m
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 221648, 2024-08-21 23:21:53, 2024-08-21 23:21:53, malware, 6a509fc58c4c4ced96907cb386ce6280, http://117.248.161.129:59692/Mozi.m
 221647, 2024-08-21 23:21:51, 2024-08-21 23:21:51, malware, ac2e679308614f22a85553117ec2ecbf, http://117.245.40.70:48239/i
 221646, 2024-08-21 23:21:29, 2024-08-21 23:21:29, malware, c83ba7ceea434e75bb18788182012829, http://117.242.234.100:54527/i
-221645, 2024-08-21 23:21:28, 2024-08-21 23:21:28, malware, 412da036306f411d99a405406f7a3443, http://117.242.233.68:53933/i
-221644, 2024-08-21 23:21:26, 2024-08-21 23:21:26, malware, 3de3405161c4455a9695229ba7aab4b0, http://117.235.36.5:54329/i
-221643, 2024-08-21 23:20:50, 2024-08-21 23:20:50, malware, 68c51b4e281f4941832774c62f4688f6, http://117.210.178.46:34057/i
