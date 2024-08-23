@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-08-23 15:44:42 UTC                        #
+# Last updated: 2024-08-23 20:36:02 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	rougecommunications.org
 127.0.0.1	universefight.online
 127.0.0.1	skibidirizz.mom
 127.0.0.1	skibidirizz.lol
@@ -7463,11 +7464,4 @@
 127.0.0.1	than-electoral.gl.at.ply.gg
 127.0.0.1	pcpanel.hackcrack.io
 127.0.0.1	nature-dawn.gl.at.ply.gg
-127.0.0.1	epsilon7331.uk
-127.0.0.1	www.edgarmcneil.autos
-127.0.0.1	dbdfbd.xyz
-127.0.0.1	liceback.online
-127.0.0.1	ec2-13-214-93-225.ap-southeast-1.compute.amazonaws.com
-127.0.0.1	ovh.rfc.pp.ua
-127.0.0.1	ec2-54-152-184-1.compute-1.amazonaws.com
-# Number of entries: 7464
+# Number of entries: 7458
