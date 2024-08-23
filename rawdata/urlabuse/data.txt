@@ -6,8 +6,17 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-23 22:00:02 UTC
+# UPDATE: 2024-08-23 23:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 223311, "url": "http://domailfreenamesrverwebmailvalidationservice2.pages.dev", "discovery": "2024-08-23 22:20:12", "added": "2024-08-23 22:20:12", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "1f3d0bd728e46c60fc0b629fd426741e"}
+{"id": 223310, "url": "https://mail.jom.tsc.mybluehostin.me/newindex.html", "discovery": "2024-08-23 22:02:46", "added": "2024-08-23 22:02:46", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "9195e5bd03935a6d5001713e2d92deb7"}
+{"id": 223309, "url": "https://jom.tsc.mybluehostin.me/newindex.html", "discovery": "2024-08-23 22:02:42", "added": "2024-08-23 22:02:42", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "e0d7ba35943599f931585b06eff6f3a1"}
+{"id": 223308, "url": "https://nadiim.com/", "discovery": "2024-08-23 22:02:36", "added": "2024-08-23 22:02:36", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "c6886eb7fe80ac184d90a014cedbf773"}
+{"id": 223307, "url": "https://empoderamientofamiliar.online/index.html", "discovery": "2024-08-23 22:02:28", "added": "2024-08-23 22:02:28", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "930022ad50d56f1e3aeb2ba7f25f809d"}
+{"id": 223306, "url": "https://gastronomiadigital.online/index.html", "discovery": "2024-08-23 22:02:26", "added": "2024-08-23 22:02:26", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "4b21d9394f03fb9880e058b2761fcd3d"}
+{"id": 223305, "url": "https://todaytime.org/", "discovery": "2024-08-23 22:02:24", "added": "2024-08-23 22:02:24", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "75d81fe4f4338da0c32ea61543e78419"}
+{"id": 223304, "url": "https://incarestaurante.com/index.html", "discovery": "2024-08-23 22:02:22", "added": "2024-08-23 22:02:22", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "4d385c7dfd0737a1443e8257061a219f"}
+{"id": 223303, "url": "https://www.sergegroup.com/index.php", "discovery": "2024-08-23 22:02:22", "added": "2024-08-23 22:02:22", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "91670a697ad3bd2bee6db45828fe6fee"}
 {"id": 223302, "url": "http://69.117.23.50:59903/i", "discovery": "2024-08-23 21:34:54", "added": "2024-08-23 21:34:54", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "301c8e5efd104dfc9a2862ae915ee443"}
 {"id": 223301, "url": "http://69.117.23.50:59903/bin.sh", "discovery": "2024-08-23 21:34:52", "added": "2024-08-23 21:34:52", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "2a3216960cbd43ba8e808a49a9fc4908"}
 {"id": 223300, "url": "http://61.52.85.50:45483/", "discovery": "2024-08-23 21:34:51", "added": "2024-08-23 21:34:51", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "f2c5a576cae84aa4985460585d059df9"}
@@ -499,12 +508,3 @@
 {"id": 222814, "url": "http://59.97.114.62:54108/i", "discovery": "2024-08-23 07:28:13", "added": "2024-08-23 07:28:13", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "5c1c6ba1af844cf1b0036b2aec43df4d"}
 {"id": 222813, "url": "http://59.97.114.62:54108/bin.sh", "discovery": "2024-08-23 07:28:08", "added": "2024-08-23 07:28:08", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "d31a1b7bcd31467f8b7fe6acbe888de8"}
 {"id": 222812, "url": "http://59.89.200.142:49717/bin.sh", "discovery": "2024-08-23 07:27:37", "added": "2024-08-23 07:27:37", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "414775da15ed4605b0a4bc629d2631ff"}
-{"id": 222811, "url": "http://59.184.247.73:34410/Mozi.m", "discovery": "2024-08-23 07:27:18", "added": "2024-08-23 07:27:18", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "04baf1b35e1442ceb5eb90b35bb538f1"}
-{"id": 222810, "url": "http://59.182.117.115:39061/bin.sh", "discovery": "2024-08-23 07:27:11", "added": "2024-08-23 07:27:11", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "12d5d5b2239a4f9fa46c36ae8320c8bc"}
-{"id": 222809, "url": "http://59.180.162.10:34425/i", "discovery": "2024-08-23 07:26:53", "added": "2024-08-23 07:26:53", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "77c72cc37e8b48a0a25758dc5835fa84"}
-{"id": 222808, "url": "http://45.232.73.35:44309/bin.sh", "discovery": "2024-08-23 07:26:35", "added": "2024-08-23 07:26:35", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "3fd48eb225884011b300b7dff518d43a"}
-{"id": 222807, "url": "http://45.178.47.18:44862/Mozi.m", "discovery": "2024-08-23 07:26:32", "added": "2024-08-23 07:26:32", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "05b7a52e939348aab8bbfd5a9b4566e1"}
-{"id": 222806, "url": "http://42.239.115.212:37696/bin.sh", "discovery": "2024-08-23 07:26:30", "added": "2024-08-23 07:26:30", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "4db062e7747e47a180d8fc5f00319a44"}
-{"id": 222805, "url": "http://42.224.30.199:55524/Mozi.m", "discovery": "2024-08-23 07:26:29", "added": "2024-08-23 07:26:29", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "4c32b08d47414cb6a37484c00fc9c1e8"}
-{"id": 222804, "url": "http://42.224.178.145:60974/Mozi.m", "discovery": "2024-08-23 07:26:27", "added": "2024-08-23 07:26:27", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "6563fa019ea54c37a324eb669c196de2"}
-{"id": 222803, "url": "http://42.224.169.61:53058/", "discovery": "2024-08-23 07:26:26", "added": "2024-08-23 07:26:26", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "7f7dfe0bf0464e78a5913a22959d8fb0"}

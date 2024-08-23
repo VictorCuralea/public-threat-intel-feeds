@@ -6,9 +6,18 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-23 22:00:02 UTC
+# UPDATE: 2024-08-23 23:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+223311, 2024-08-23 22:20:12, 2024-08-23 22:20:12, phishing, 1f3d0bd728e46c60fc0b629fd426741e, http://domailfreenamesrverwebmailvalidationservice2.pages.dev
+223310, 2024-08-23 22:02:46, 2024-08-23 22:02:46, hacked, 9195e5bd03935a6d5001713e2d92deb7, https://mail.jom.tsc.mybluehostin.me/newindex.html
+223309, 2024-08-23 22:02:42, 2024-08-23 22:02:42, hacked, e0d7ba35943599f931585b06eff6f3a1, https://jom.tsc.mybluehostin.me/newindex.html
+223308, 2024-08-23 22:02:36, 2024-08-23 22:02:36, hacked, c6886eb7fe80ac184d90a014cedbf773, https://nadiim.com/
+223307, 2024-08-23 22:02:28, 2024-08-23 22:02:28, hacked, 930022ad50d56f1e3aeb2ba7f25f809d, https://empoderamientofamiliar.online/index.html
+223306, 2024-08-23 22:02:26, 2024-08-23 22:02:26, hacked, 4b21d9394f03fb9880e058b2761fcd3d, https://gastronomiadigital.online/index.html
+223305, 2024-08-23 22:02:24, 2024-08-23 22:02:24, hacked, 75d81fe4f4338da0c32ea61543e78419, https://todaytime.org/
+223304, 2024-08-23 22:02:22, 2024-08-23 22:02:22, hacked, 4d385c7dfd0737a1443e8257061a219f, https://incarestaurante.com/index.html
+223303, 2024-08-23 22:02:22, 2024-08-23 22:02:22, hacked, 91670a697ad3bd2bee6db45828fe6fee, https://www.sergegroup.com/index.php
 223302, 2024-08-23 21:34:54, 2024-08-23 21:34:54, malware, 301c8e5efd104dfc9a2862ae915ee443, http://69.117.23.50:59903/i
 223301, 2024-08-23 21:34:52, 2024-08-23 21:34:52, malware, 2a3216960cbd43ba8e808a49a9fc4908, http://69.117.23.50:59903/bin.sh
 223300, 2024-08-23 21:34:51, 2024-08-23 21:34:51, malware, f2c5a576cae84aa4985460585d059df9, http://61.52.85.50:45483/
@@ -500,12 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 222814, 2024-08-23 07:28:13, 2024-08-23 07:28:13, malware, 5c1c6ba1af844cf1b0036b2aec43df4d, http://59.97.114.62:54108/i
 222813, 2024-08-23 07:28:08, 2024-08-23 07:28:08, malware, d31a1b7bcd31467f8b7fe6acbe888de8, http://59.97.114.62:54108/bin.sh
 222812, 2024-08-23 07:27:37, 2024-08-23 07:27:37, malware, 414775da15ed4605b0a4bc629d2631ff, http://59.89.200.142:49717/bin.sh
-222811, 2024-08-23 07:27:18, 2024-08-23 07:27:18, malware, 04baf1b35e1442ceb5eb90b35bb538f1, http://59.184.247.73:34410/Mozi.m
-222810, 2024-08-23 07:27:11, 2024-08-23 07:27:11, malware, 12d5d5b2239a4f9fa46c36ae8320c8bc, http://59.182.117.115:39061/bin.sh
-222809, 2024-08-23 07:26:53, 2024-08-23 07:26:53, malware, 77c72cc37e8b48a0a25758dc5835fa84, http://59.180.162.10:34425/i
-222808, 2024-08-23 07:26:35, 2024-08-23 07:26:35, malware, 3fd48eb225884011b300b7dff518d43a, http://45.232.73.35:44309/bin.sh
-222807, 2024-08-23 07:26:32, 2024-08-23 07:26:32, malware, 05b7a52e939348aab8bbfd5a9b4566e1, http://45.178.47.18:44862/Mozi.m
-222806, 2024-08-23 07:26:30, 2024-08-23 07:26:30, malware, 4db062e7747e47a180d8fc5f00319a44, http://42.239.115.212:37696/bin.sh
-222805, 2024-08-23 07:26:29, 2024-08-23 07:26:29, malware, 4c32b08d47414cb6a37484c00fc9c1e8, http://42.224.30.199:55524/Mozi.m
-222804, 2024-08-23 07:26:27, 2024-08-23 07:26:27, malware, 6563fa019ea54c37a324eb669c196de2, http://42.224.178.145:60974/Mozi.m
-222803, 2024-08-23 07:26:26, 2024-08-23 07:26:26, malware, 7f7dfe0bf0464e78a5913a22959d8fb0, http://42.224.169.61:53058/
