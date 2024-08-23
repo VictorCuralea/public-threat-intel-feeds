@@ -6,8 +6,9 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-23 00:00:01 UTC
+# UPDATE: 2024-08-23 01:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 222577, "url": "http://wk.pl", "discovery": "2024-08-23 00:22:11", "added": "2024-08-23 00:22:11", "target": "Facebook", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "ca7189b18e82d6855f0104ce25d98242"}
 {"id": 222576, "url": "https://fedex-delivery-serv.codeanyapp.com/step3.php?id=49651634", "discovery": "2024-08-22 23:29:46", "added": "2024-08-22 23:29:46", "target": "FedEx", "reporter": "KTSC", "AbuseType": "phishing", "UUID": "81914540ccf995f80bf5041d3f2e5058"}
 {"id": 222575, "url": "https://webpage.batianhu.cn/login", "discovery": "2024-08-22 23:29:26", "added": "2024-08-22 23:29:26", "target": "Wise", "reporter": "KTSC", "AbuseType": "phishing", "UUID": "7f38dfb59e5fd12cf7edfe84cd04453e"}
 {"id": 222574, "url": "https://loginlatvia.in.net/seblatvia/", "discovery": "2024-08-22 23:27:34", "added": "2024-08-22 23:27:34", "target": "SEB", "reporter": "KTSC", "AbuseType": "phishing", "UUID": "1b8d48a783b5da0468de7c00eaccd4f7"}
@@ -507,4 +508,3 @@
 {"id": 222080, "url": "http://115.48.146.191:36721/i", "discovery": "2024-08-22 11:20:30", "added": "2024-08-22 11:20:30", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "8860ed4b5d1f45e98d6e3365a7d162db"}
 {"id": 222079, "url": "http://112.248.245.63:46811/i", "discovery": "2024-08-22 11:20:28", "added": "2024-08-22 11:20:28", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "e827b2826665491eaf10c4428108577f"}
 {"id": 222078, "url": "http://zniiv.pages.dev", "discovery": "2024-08-22 10:48:10", "added": "2024-08-22 10:48:10", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "a1d05df3a503ecf18a306f5426cafba1"}
-{"id": 222077, "url": "http://m355-loqin.docusgn-sharedviaoffic3.workers.dev", "discovery": "2024-08-22 10:34:11", "added": "2024-08-22 10:34:11", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "c1593fc9b4a9753d94738d3c44af62a1"}
