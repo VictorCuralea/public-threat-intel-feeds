@@ -6,9 +6,15 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-23 18:00:01 UTC
+# UPDATE: 2024-08-23 19:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+223203, 2024-08-23 18:54:13, 2024-08-23 18:54:13, phishing, b5370f608ce62be82cd040f51d4ad292, http://groupwhatsappsex.pages.dev
+223202, 2024-08-23 18:26:13, 2024-08-23 18:26:13, phishing, 3e2217387fecce0c8add925ee9b17bfb, http://nfupxrydo3zh1pjdwglgfm.duckdns.org
+223201, 2024-08-23 18:20:07, 2024-08-23 18:20:07, malware, b27fd74fc3444578ae8db385ca8fb397, http://95.132.89.185:53363/i
+223200, 2024-08-23 18:20:06, 2024-08-23 18:20:06, malware, 9b83e5e01ce8491e9c53a2afb4ea98fd, http://93.123.85.32/arm7
+223199, 2024-08-23 18:20:06, 2024-08-23 18:20:06, malware, ff03a25688fe4aa5bc08d2c80fa62c35, http://61.53.127.203:47197/bin.sh
+223198, 2024-08-23 18:20:04, 2024-08-23 18:20:04, malware, 5849d7ce041f42a794aff85dfb2df520, http://61.52.45.248:34011/bin.sh
 223197, 2024-08-23 17:50:13, 2024-08-23 17:50:13, phishing, 4d7a8fe651eb58c0c6c80d53d3f75c80, http://worker-royal-sound-d3bd.gumlusufye.workers.dev
 223196, 2024-08-23 17:34:45, 2024-08-23 17:34:45, malware, 4a64deedb9b34b5aaffbd764fece968b, http://59.99.132.17:45498/i
 223195, 2024-08-23 17:34:36, 2024-08-23 17:34:36, malware, 26fb258e05064624832d753d2996c5b5, http://59.89.64.125:38634/i
@@ -503,9 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 222706, 2024-08-23 05:21:45, 2024-08-23 05:21:45, malware, d944c722a0fb4956bf67eb174c226827, http://117.206.190.106:42437/bin.sh
 222705, 2024-08-23 05:21:43, 2024-08-23 05:21:43, malware, 070335b12f4646848fd626b91622ee3f, http://117.206.128.109:60349/Mozi.m
 222704, 2024-08-23 05:21:21, 2024-08-23 05:21:21, malware, 7f3dcf3a80564381af13b4d9358ec603, http://117.205.170.1:60755/bin.sh
-222703, 2024-08-23 05:21:20, 2024-08-23 05:21:20, malware, e60bae45f4674890bc88f41cc9beeafe, http://117.199.154.103:38852/i
-222702, 2024-08-23 05:21:11, 2024-08-23 05:21:11, malware, e8ab6cc6700a40c9bdaf6ff7b32ef0ab, http://117.199.154.103:38852/bin.sh
-222701, 2024-08-23 05:20:47, 2024-08-23 05:20:47, malware, 48bf8e52276041b8b2589e2a6f874b6b, http://115.56.154.21:53894/Mozi.m
-222700, 2024-08-23 05:20:46, 2024-08-23 05:20:46, malware, f2cac3dcaf3d4b6caca1810934e06eea, http://115.56.114.118:35172/i
-222699, 2024-08-23 05:20:44, 2024-08-23 05:20:44, malware, ae3845eb3f64464bb32b1fc123e07080, http://115.56.114.118:35172/bin.sh
-222698, 2024-08-23 05:20:42, 2024-08-23 05:20:42, malware, ae6a65b4f8dd4cbdb754abd80423bab2, http://115.55.54.7:41368/bin.sh
