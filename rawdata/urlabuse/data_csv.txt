@@ -6,9 +6,19 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-23 04:00:02 UTC
+# UPDATE: 2024-08-23 05:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+222693, 2024-08-23 04:30:15, 2024-08-23 04:30:15, phishing, 73ad11ed140db4b7ee43720a8ebad951, http://everhubordi.pages.dev
+222692, 2024-08-23 04:18:20, 2024-08-23 04:18:20, phishing, 28cff20f6c38986ed3515b3e40f32655, http://telegaroam.icu
+222691, 2024-08-23 04:04:44, 2024-08-23 04:04:44, phishing, fc09cbdcfa0a1258410fbab6f5df0782, https://bet365g3.com/
+222690, 2024-08-23 04:04:28, 2024-08-23 04:04:28, phishing, 626eb7a8a391ef2210b29fbf6d9475ec, http://1111365.biz/
+222689, 2024-08-23 04:03:56, 2024-08-23 04:03:56, phishing, 7cafc9661bc108ec6af8987054eb3671, https://www.bertchou.com/wp-content/languages-old/config/information.php?access.x85367604630&&data.x=en_caef113ac13b60ec910f7c10e
+222688, 2024-08-23 04:03:56, 2024-08-23 04:03:56, phishing, a15fa4fe78fa3ab3248703e72f063841, https://post.ks-technology.ru/cookieauth.dll?getlogon?curl=z2fowa&reason=0&formdir=1
+222687, 2024-08-23 04:03:55, 2024-08-23 04:03:55, phishing, 754390b32c971683ee1316fe70cf9383, http://www.bertchou.com/wp-content/languages-old/config/login.php
+222686, 2024-08-23 04:03:47, 2024-08-23 04:03:47, phishing, 7c700f618a19de621e0219cc6930a59c, http://pub-722720be67154192a1102b2cf085d306.r2.dev/askm.html
+222685, 2024-08-23 04:03:13, 2024-08-23 04:03:13, phishing, e5d2be8e43658accc3933c509518d995, https://anguselcamaleon.com/login.auth0/office-3D8/
+222684, 2024-08-23 04:02:36, 2024-08-23 04:02:36, phishing, fd21e55e04de5ddfafaaa8884e02cee8, http://distrosourcess7.sg-host.com/
 222683, 2024-08-23 03:26:48, 2024-08-23 03:26:48, malware, c59c4bf7924d41b68caf3a15eeced2c0, http://61.53.89.184:48425/Mozi.m
 222682, 2024-08-23 03:26:36, 2024-08-23 03:26:36, malware, e06a7726cc5247b19d9411af3bac2115, http://61.3.11.68:46708/i
 222681, 2024-08-23 03:26:34, 2024-08-23 03:26:34, malware, afa8a713f2044686ad0ed96ab981798d, http://61.2.104.108:42754/bin.sh
@@ -499,13 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 222196, 2024-08-22 13:29:08, 2024-08-22 13:29:08, malware, c36c188dd78e4dd99d6d7cb7f52db819, http://59.178.210.168:58764/bin.sh
 222195, 2024-08-22 13:28:32, 2024-08-22 13:28:32, malware, 17b6323e1d0242e09f274a01832a5138, http://42.235.180.97:36252/i
 222194, 2024-08-22 13:28:30, 2024-08-22 13:28:30, malware, 955d259af14642d6b15dea0abe275929, http://42.233.106.39:48845/i
-222193, 2024-08-22 13:28:29, 2024-08-22 13:28:29, malware, f1a7c824c0bf48429a08b6fb25ea6e6a, http://42.232.209.241:35908/i
-222192, 2024-08-22 13:28:27, 2024-08-22 13:28:27, malware, 8cf8c9c44af047a59ce211ea5869bef0, http://42.226.64.201:40831/bin.sh
-222191, 2024-08-22 13:28:24, 2024-08-22 13:28:24, malware, 6fdcb6085aa04f54970e6e1bb052ed5c, http://42.225.48.202:52275/bin.sh
-222190, 2024-08-22 13:28:23, 2024-08-22 13:28:23, malware, 437ce04a790c47d3981ea8bb4cda94a1, http://42.224.196.239:49472/bin.sh
-222189, 2024-08-22 13:28:21, 2024-08-22 13:28:21, malware, c78fecd4ed5b435b8d29159e679245c8, http://39.79.42.251:60974/bin.sh
-222188, 2024-08-22 13:28:19, 2024-08-22 13:28:19, malware, a618a4e92aee40bfbcd5feebff90f618, http://27.215.179.123:43308/bin.sh
-222187, 2024-08-22 13:28:18, 2024-08-22 13:28:18, malware, 5979b25db59c41f5adcdc3797cc41c31, http://221.14.163.7:38201/i
-222186, 2024-08-22 13:28:16, 2024-08-22 13:28:16, malware, beb91ecca80c4466a0b4385f12a187d2, http://221.14.163.7:38201/bin.sh
-222185, 2024-08-22 13:28:15, 2024-08-22 13:28:15, malware, ec7c3710076d4aa1aaf9a277c296a73c, http://220.202.94.86:54136/bin.sh
-222184, 2024-08-22 13:28:12, 2024-08-22 13:28:12, malware, fc8e4d35b40a4a218dff8b5a9e860ff1, http://219.157.58.233:59176/bin.sh
