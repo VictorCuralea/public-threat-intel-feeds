@@ -6,9 +6,16 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-23 16:00:01 UTC
+# UPDATE: 2024-08-23 17:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+223162, 2024-08-23 16:20:13, 2024-08-23 16:20:13, phishing, 88fcc0254872b188a30773465fc4da45, http://d-swissa-adobe.pages.dev
+223161, 2024-08-23 16:03:29, 2024-08-23 16:03:29, phishing, fa64c96739219e58c898c30ab3f127c3, https://spo.devgdmsuk.com/
+223160, 2024-08-23 16:02:45, 2024-08-23 16:02:45, hacked, 981427fa320ac90de9b03243c7239c0c, http://www.raikoke-sao.go.th
+223159, 2024-08-23 16:02:43, 2024-08-23 16:02:43, hacked, 9d99554c249d0ae995b7041f0bd6c9c0, http://www.ctwocctv.com
+223158, 2024-08-23 16:02:27, 2024-08-23 16:02:27, hacked, 1a24894be4d87eb689a0b76fe3778f45, http://takaz.lk/ma.html
+223157, 2024-08-23 16:02:25, 2024-08-23 16:02:25, hacked, 3b624551c8686896465cb5230fd273db, http://skilld.careers/ma.html
+223156, 2024-08-23 16:02:23, 2024-08-23 16:02:23, hacked, 9f120b9ef5520baf5921bc79e010f3c8, http://bittergravity.com/allah.html
 223155, 2024-08-23 15:42:15, 2024-08-23 15:42:15, phishing, 1b552650c6f2cf3de345beb413a1b27e, http://assurancemaladie-ameli.com
 223154, 2024-08-23 15:37:16, 2024-08-23 15:37:16, phishing, 2a63f1cd41f5e38d6044f36492693c41, https://lesgsa.blogspot.fr/
 223153, 2024-08-23 15:34:59, 2024-08-23 15:34:59, phishing, 072bb3b45b481ff30ba616c85ab9bc6f, https://juancarloscubeiro.com/suiss/post/
@@ -502,10 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 222665, 2024-08-23 03:24:25, 2024-08-23 03:24:25, malware, 9cfa11fdf9e44c9fb036f2077df33b2a, http://222.138.125.231:48701/i
 222664, 2024-08-23 03:24:23, 2024-08-23 03:24:23, malware, d1f30e124bf54ba2a4c556a904bb8397, http://221.15.95.45:42227/i
 222663, 2024-08-23 03:24:22, 2024-08-23 03:24:22, malware, d43c265c095c4f959fed9f0a3418d424, http://221.14.106.175:55206/i
-222662, 2024-08-23 03:24:20, 2024-08-23 03:24:20, malware, 5b8ed24035834312a929741b8ba68a79, http://203.163.236.117:59734/i
-222661, 2024-08-23 03:24:18, 2024-08-23 03:24:18, malware, 004ee93627c741b5a0b156ceed8e4d91, http://182.113.251.203:45417/bin.sh
-222660, 2024-08-23 03:24:17, 2024-08-23 03:24:17, malware, 8a5410f10b6d47d2a96a7c1fad1c88c0, http://125.45.64.237:38045/bin.sh
-222659, 2024-08-23 03:24:15, 2024-08-23 03:24:15, malware, 8aa6cfd181a448c8a433d13baa920c92, http://124.235.106.234:33658/Mozi.a
-222658, 2024-08-23 03:24:11, 2024-08-23 03:24:11, malware, 7a648198dad94df5b5360a937d23bc9f, http://123.4.216.213:60546/bin.sh
-222657, 2024-08-23 03:24:08, 2024-08-23 03:24:08, malware, 227b857b7d03404d9e4d13d3395fe3ed, http://123.12.225.109:49781/i
-222656, 2024-08-23 03:24:06, 2024-08-23 03:24:06, malware, 4347cf3b34bd4b34a1b8be04a9ae3573, http://123.12.22.136:48856/i
