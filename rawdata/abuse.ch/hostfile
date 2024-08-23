@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-08-23 11:20:05 UTC                        #
+# Last updated: 2024-08-23 12:52:50 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	elmipardaz.com
 127.0.0.1	members-flower.gl.at.ply.gg
 127.0.0.1	pixel.desertum.space
 127.0.0.1	furystealer.com
@@ -7473,4 +7474,4 @@
 127.0.0.1	ns1.ftoffice.com
 127.0.0.1	rd.0x3f34.dev
 127.0.0.1	rd.0x115c.click
-# Number of entries: 7467
+# Number of entries: 7468

@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-23 12:00:01 UTC
+# UPDATE: 2024-08-23 13:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+222968, 2024-08-23 12:32:12, 2024-08-23 12:32:12, phishing, 7ab8e19d5f642e95d31220017839dea8, http://unrohesgevseolaordgeswefes02.pages.dev
+222967, 2024-08-23 12:16:14, 2024-08-23 12:16:14, phishing, 138b8bc4c8fc99989cdaafd06e3b637e, http://snycronizelinks.pages.dev
+222966, 2024-08-23 12:14:13, 2024-08-23 12:14:13, phishing, deb54c7b41cd1ef7e70bffeaaf6d0f6e, http://moncompte-santevitale.com
 222965, 2024-08-23 11:31:45, 2024-08-23 11:31:45, malware, 82449a7128994d2fb0e13a25ec89607a, https://crossback.cl/online/script.exe
 222964, 2024-08-23 11:29:53, 2024-08-23 11:29:53, malware, b211fc5b32ce472e858d0c9447d21605, http://61.53.133.39:32924/bin.sh
 222963, 2024-08-23 11:29:11, 2024-08-23 11:29:11, malware, 8d955ac766384c35bf21505903cc79e9, http://60.209.66.63:43443/bin.sh
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 222471, 2024-08-22 21:25:31, 2024-08-22 21:25:31, malware, 9076fb3de26846228d23dac933892dac, http://42.239.151.32:41521/
 222470, 2024-08-22 21:25:29, 2024-08-22 21:25:29, malware, 5984f2dc5680429cbf0520f549171cc1, http://42.239.149.231:46901/bin.sh
 222469, 2024-08-22 21:25:18, 2024-08-22 21:25:18, malware, dd33946db9ea4317bce9e60b44b00adc, http://42.224.110.171:44168/i
-222468, 2024-08-22 21:25:16, 2024-08-22 21:25:16, malware, 5003df6b53e9427aa578dd576bc35710, http://42.224.110.171:44168/bin.sh
-222467, 2024-08-22 21:25:15, 2024-08-22 21:25:15, malware, 9d79844bcf0143288e01937ca0beba0e, http://222.138.119.152:56056/Mozi.m
-222466, 2024-08-22 21:25:13, 2024-08-22 21:25:13, malware, f121274446ae4931abe01f504decf1e7, http://222.137.86.30:41070/bin.sh
