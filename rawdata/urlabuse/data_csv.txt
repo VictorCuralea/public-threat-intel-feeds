@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-24 20:00:02 UTC
+# UPDATE: 2024-08-24 21:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+223994, 2024-08-24 20:15:32, 2024-08-24 20:15:32, phishing, 80b0af711977def1d443a57e4ce69487, https://zentrumsuisseonlineabosltd.com/portal/f/signin.php
+223991, 2024-08-24 20:11:55, 2024-08-24 19:36:16, phishing, cb1d3dddbd1f80fccc435be8dc629d15, https://pis.cyr.temporary.site/SBB/index/
 223990, 2024-08-24 19:52:10, 2024-08-24 19:52:10, phishing, 67d5549afe7d10bf03accc9d8581eb71, http://telegramsexxxnew21.pages.dev
 223989, 2024-08-24 19:42:23, 2024-08-24 19:42:23, phishing, 676dba1034ea4611690d541f1837a3e9, http://www.loginmeta.click/p1
 223988, 2024-08-24 19:40:13, 2024-08-24 19:40:13, phishing, cf6a7292528e93de7a77ed2e3b8e0ee8, https://zentrumsuisseonlineabosltd.com/portal
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 223495, 2024-08-24 05:23:36, 2024-08-24 05:23:36, malware, 237f862d024849bc83ca7e7d287470d8, http://123.129.130.221:47403/i
 223494, 2024-08-24 05:23:35, 2024-08-24 05:23:35, malware, ce8bf60b65d8494f84fc7f9340cbbc2a, http://123.129.130.221:47403/bin.sh
 223493, 2024-08-24 05:23:33, 2024-08-24 05:23:33, malware, 50d4bb6c450a4acf85824870de34bc84, http://120.61.83.151:39122/i
-223492, 2024-08-24 05:23:30, 2024-08-24 05:23:30, malware, 3159e3c843f945afaf5e5e12542af892, http://120.211.70.84:39958/bin.sh
-223491, 2024-08-24 05:23:09, 2024-08-24 05:23:09, malware, 5a680a29e9ab42799b714be8efa49ddd, http://117.253.222.55:47648/i
