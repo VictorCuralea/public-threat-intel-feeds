@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-08-24 05:57:32 UTC                        #
+# Last updated: 2024-08-24 12:16:03 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ns2.millikanrams.com
+127.0.0.1	ns1.millikanrams.com
 127.0.0.1	wshcnsd.xyz
 127.0.0.1	yosoborno.com
 127.0.0.1	nusdhj.ws
@@ -7465,4 +7467,4 @@
 127.0.0.1	instantchatapp.com
 127.0.0.1	funcallback.com
 127.0.0.1	appserv.ddns.net
-# Number of entries: 7459
+# Number of entries: 7461
