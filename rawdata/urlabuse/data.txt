@@ -6,7 +6,7 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-24 18:00:01 UTC
+# UPDATE: 2024-08-24 19:00:02 UTC
 ############### END COMMENTS ###############
 {"id": 223972, "url": "https://cosmmcloud.com/Monopol.exe", "discovery": "2024-08-24 17:28:40", "added": "2024-08-24 17:28:40", "target": "#PE32INTEL_GUI", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "ad272f344e2143e3a00fce08e4301970"}
 {"id": 223971, "url": "http://61.53.88.83:36868/bin.sh", "discovery": "2024-08-24 17:27:58", "added": "2024-08-24 17:27:58", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "35dfc3b2872142f6a9f8f5a531779565"}
