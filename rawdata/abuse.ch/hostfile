@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-08-23 20:36:02 UTC                        #
+# Last updated: 2024-08-24 05:41:17 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	tcp.boatnet.top
+127.0.0.1	boatnet.top
+127.0.0.1	storage-assigned.gl.at.ply.gg
 127.0.0.1	rougecommunications.org
 127.0.0.1	universefight.online
 127.0.0.1	skibidirizz.mom
@@ -7464,4 +7467,4 @@
 127.0.0.1	than-electoral.gl.at.ply.gg
 127.0.0.1	pcpanel.hackcrack.io
 127.0.0.1	nature-dawn.gl.at.ply.gg
-# Number of entries: 7458
+# Number of entries: 7461
