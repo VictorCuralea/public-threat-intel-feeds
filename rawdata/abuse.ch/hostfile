@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-08-24 13:23:02 UTC                        #
+# Last updated: 2024-08-24 14:47:41 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	freak4u.duckdns.org
+127.0.0.1	hgbourst28lasor2.duckdns.org
+127.0.0.1	newsletter208.home-webserver.de
+127.0.0.1	alvaritox.con-ip.com
 127.0.0.1	1212937-cj74480.tw1.ru
 127.0.0.1	azxjhcoaas.xyz
 127.0.0.1	mail.webserverupdate.com
@@ -7475,10 +7479,4 @@
 127.0.0.1	pwn.oracleservice.top
 127.0.0.1	c4k-ircd.pwndns.pw
 127.0.0.1	kisel228.zapto.org
-127.0.0.1	stake.libertariancounterpoint.com
-127.0.0.1	manta.brasilia.me
-127.0.0.1	cloudieapp.net
-127.0.0.1	instantchatapp.com
-127.0.0.1	funcallback.com
-127.0.0.1	appserv.ddns.net
-# Number of entries: 7475
+# Number of entries: 7473
