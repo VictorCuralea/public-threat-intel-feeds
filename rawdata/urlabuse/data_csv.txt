@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-24 08:00:01 UTC
+# UPDATE: 2024-08-24 09:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+223636, 2024-08-24 08:28:13, 2024-08-24 08:28:13, phishing, d7eff8227af9df0ce069d18bbc8c6c53, http://teletya.tengyunairsz.workers.dev
+223635, 2024-08-24 08:08:10, 2024-08-24 08:08:10, phishing, 1e43a2483c247479842dddfac0407a93, http://bvcxzswqwergfde45678ijhiokmlpokjtgfxxdfgrewazxcxzxcvnhy654.pages.dev
 223634, 2024-08-24 07:29:07, 2024-08-24 07:29:07, malware, 09eadc97da0f487e8aae530d93205ae2, http://69.117.23.50:59903/Mozi.m
 223633, 2024-08-24 07:28:57, 2024-08-24 07:28:57, malware, 6146ad9a33bf41289cae245c54991d6a, http://61.54.194.101:43828/i
 223632, 2024-08-24 07:28:36, 2024-08-24 07:28:36, malware, a79d240133ac46479786bb0a50e19e4b, http://61.3.223.16:35739/bin.sh
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 223139, 2024-08-23 15:22:52, 2024-08-23 15:22:52, malware, 502b0392b6164757bcb9c99e9d09ac8e, http://42.233.105.216:34739/bin.sh
 223138, 2024-08-23 15:22:51, 2024-08-23 15:22:51, malware, 946e9957bbca46e7bd7f0cb3536718db, http://42.230.41.243:52407/bin.sh
 223137, 2024-08-23 15:22:39, 2024-08-23 15:22:39, malware, 683451adf6f2402db28c78ceef552db6, http://27.207.245.58:54258/i
-223136, 2024-08-23 15:22:38, 2024-08-23 15:22:38, malware, af7b01164f764e2ea1b8f52295db54fe, http://27.157.145.156:56933/Mozi.m
-223135, 2024-08-23 15:22:34, 2024-08-23 15:22:34, malware, 5bcd5c681d824c47a33a3e077a96150d, http://222.139.225.100:57568/Mozi.m
