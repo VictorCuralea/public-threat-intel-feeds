@@ -6,8 +6,10 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-25 02:00:01 UTC
+# UPDATE: 2024-08-25 03:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 224153, "url": "http://dpmainchain.pages.dev", "discovery": "2024-08-25 02:48:13", "added": "2024-08-25 02:48:13", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "b6e62724aa410f084ee73d08c6f2af75"}
+{"id": 224152, "url": "http://mysloganmadesoeasy2.pages.dev", "discovery": "2024-08-25 02:48:11", "added": "2024-08-25 02:48:11", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "f25c891d4453da682eb678216fd10bc2"}
 {"id": 224151, "url": "http://61.53.125.99:36066/", "discovery": "2024-08-25 01:25:57", "added": "2024-08-25 01:25:57", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "a6099bafb6954edfbc3bc1036e871ff5"}
 {"id": 224150, "url": "http://61.0.51.14:32799/bin.sh", "discovery": "2024-08-25 01:25:46", "added": "2024-08-25 01:25:46", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "cda4fc522edd4e5a9b1988881bc91db0"}
 {"id": 224149, "url": "http://59.99.42.42:48055/bin.sh", "discovery": "2024-08-25 01:25:43", "added": "2024-08-25 01:25:43", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "28258adc46e149e6ac2df250dd7542d9"}
@@ -506,5 +508,3 @@
 {"id": 223654, "url": "http://123.132.179.230:41027/bin.sh", "discovery": "2024-08-24 09:22:43", "added": "2024-08-24 09:22:43", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "98d4f6a1e4c448ef9657a9f6d0496343"}
 {"id": 223653, "url": "http://120.61.83.151:39122/bin.sh", "discovery": "2024-08-24 09:22:41", "added": "2024-08-24 09:22:41", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "81edc6b5b2744b1bb3f91b291e930d6a"}
 {"id": 223652, "url": "http://117.255.177.71:55457/bin.sh", "discovery": "2024-08-24 09:22:39", "added": "2024-08-24 09:22:39", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "8a8208fd76514b0b8acd743e1bf6891b"}
-{"id": 223651, "url": "http://117.248.174.24:39661/bin.sh", "discovery": "2024-08-24 09:22:35", "added": "2024-08-24 09:22:35", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "141c2996cf6444fc93107e03021a5c3b"}
-{"id": 223650, "url": "http://117.245.47.67:35710/bin.sh", "discovery": "2024-08-24 09:22:30", "added": "2024-08-24 09:22:30", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "6c76638b7baf499cb431f9f2dd734eb9"}

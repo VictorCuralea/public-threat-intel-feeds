@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-25 02:00:01 UTC
+# UPDATE: 2024-08-25 03:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+224153, 2024-08-25 02:48:13, 2024-08-25 02:48:13, phishing, b6e62724aa410f084ee73d08c6f2af75, http://dpmainchain.pages.dev
+224152, 2024-08-25 02:48:11, 2024-08-25 02:48:11, phishing, f25c891d4453da682eb678216fd10bc2, http://mysloganmadesoeasy2.pages.dev
 224151, 2024-08-25 01:25:57, 2024-08-25 01:25:57, malware, a6099bafb6954edfbc3bc1036e871ff5, http://61.53.125.99:36066/
 224150, 2024-08-25 01:25:46, 2024-08-25 01:25:46, malware, cda4fc522edd4e5a9b1988881bc91db0, http://61.0.51.14:32799/bin.sh
 224149, 2024-08-25 01:25:43, 2024-08-25 01:25:43, malware, 28258adc46e149e6ac2df250dd7542d9, http://59.99.42.42:48055/bin.sh
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 223654, 2024-08-24 09:22:43, 2024-08-24 09:22:43, malware, 98d4f6a1e4c448ef9657a9f6d0496343, http://123.132.179.230:41027/bin.sh
 223653, 2024-08-24 09:22:41, 2024-08-24 09:22:41, malware, 81edc6b5b2744b1bb3f91b291e930d6a, http://120.61.83.151:39122/bin.sh
 223652, 2024-08-24 09:22:39, 2024-08-24 09:22:39, malware, 8a8208fd76514b0b8acd743e1bf6891b, http://117.255.177.71:55457/bin.sh
-223651, 2024-08-24 09:22:35, 2024-08-24 09:22:35, malware, 141c2996cf6444fc93107e03021a5c3b, http://117.248.174.24:39661/bin.sh
-223650, 2024-08-24 09:22:30, 2024-08-24 09:22:30, malware, 6c76638b7baf499cb431f9f2dd734eb9, http://117.245.47.67:35710/bin.sh
