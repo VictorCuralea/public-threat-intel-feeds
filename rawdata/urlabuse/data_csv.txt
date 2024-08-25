@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-25 20:00:01 UTC
+# UPDATE: 2024-08-25 21:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+224757, 2024-08-25 20:04:13, 2024-08-25 20:04:13, phishing, cc30d0b22c6f71928453981e18bb09a8, http://xn--aidtrcr-cqbbb.online
 224756, 2024-08-25 19:38:11, 2024-08-25 19:38:11, phishing, 3c7ce7b55b7344a4ba6897942e3bcbae, http://xn--aidttrtr-v0aca94laba.com
 224755, 2024-08-25 19:27:38, 2024-08-25 19:27:38, malware, 350ceddfeb644d6e98a74470b6550457, http://61.54.40.251:50892/i
 224754, 2024-08-25 19:27:36, 2024-08-25 19:27:36, malware, ee64fe22c09340cea1d5ab766bf2a077, http://61.53.46.46:50635/bin.sh
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 224260, 2024-08-25 06:02:19, 2024-08-25 06:02:19, hacked, d0009f36a12bb9797a095c2348f75635, https://learnonlinequran.org/index.html
 224259, 2024-08-25 06:02:19, 2024-08-25 06:02:19, hacked, c86cd3476910cbc1b312a32fec5f1b98, https://sellerhuyarr.com/index.html
 224258, 2024-08-25 06:02:19, 2024-08-25 06:02:19, hacked, ab0d5cdea70e296dc4cf6e0d16596229, https://desertsafaridubai.pro/index.html
-224257, 2024-08-25 05:25:56, 2024-08-25 05:25:56, malware, 018de73789fc4a0892f318fdedb7b5a0, http://61.53.125.99:36066/i
