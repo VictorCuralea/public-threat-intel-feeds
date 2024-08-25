@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-25 18:00:01 UTC
+# UPDATE: 2024-08-25 19:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+224700, 2024-08-25 18:58:24, 2024-08-25 18:58:24, phishing, dd8383adb7d99d6022bdf8d671fd5fbe, https://qtj.npf.temporary.site/pakketomleiden/well-known/ch/
+224699, 2024-08-25 18:58:22, 2024-08-25 18:58:22, phishing, a13efc47a3069cadc4952801ddb56d46, https://tvyzpypp.a2hosted.com/des.html
+224698, 2024-08-25 18:58:17, 2024-08-25 18:58:17, phishing, a980005c667a9173cbf076b4b48e5287, https://cffsbbhost-aniamaria899151626.codeanyapp.com/off/SWISSPASSC/
+224697, 2024-08-25 18:10:17, 2024-08-25 18:10:17, phishing, c0bbb6a9e1b351644370a7378a53d659, http://tele.redfolder.eu.org
 224696, 2024-08-25 17:24:17, 2024-08-25 17:24:17, malware, d244fa2acc584e03b809358f19ee8c2d, http://61.54.40.251:50892/bin.sh
 224695, 2024-08-25 17:24:15, 2024-08-25 17:24:15, malware, f88708e71b8a48eea025112a7aee178f, http://61.53.223.41:37264/i
 224694, 2024-08-25 17:24:14, 2024-08-25 17:24:14, phishing, 3c827b22ba15e2a8e8298757642739a8, http://facebook.totobad.com
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 224203, 2024-08-25 03:25:22, 2024-08-25 03:25:22, malware, 5b76f65e0d514fd9bcc9d0e7d1f6ef69, http://60.211.31.2:37817/i
 224202, 2024-08-25 03:25:21, 2024-08-25 03:25:21, malware, 818132467b1e48758a7dae35c8f9343e, http://59.99.212.52:34969/i
 224201, 2024-08-25 03:25:18, 2024-08-25 03:25:18, malware, e78d272fc4be444e8fd5649a6b956435, http://59.97.124.79:48723/i
-224200, 2024-08-25 03:24:36, 2024-08-25 03:24:36, malware, 3abfcaee8d1741d28bad89ba5b820916, http://42.234.142.87:37854/bin.sh
-224199, 2024-08-25 03:24:24, 2024-08-25 03:24:24, malware, 8ec3be8a39644ff18e2a18ca7c45fd35, http://42.230.57.189:41174/bin.sh
-224198, 2024-08-25 03:24:21, 2024-08-25 03:24:21, malware, 2f832743e4474e958f355be6989885c0, http://27.202.33.66:54462/bin.sh
-224197, 2024-08-25 03:23:59, 2024-08-25 03:23:59, malware, fa505af7232c458aa37987806d16f45d, http://222.140.233.131:58552/i
