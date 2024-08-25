@@ -6,9 +6,14 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-25 10:00:02 UTC
+# UPDATE: 2024-08-25 11:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+224412, 2024-08-25 10:56:10, 2024-08-25 10:56:10, phishing, 1b49d26610951bb34a265c2a721abc13, http://explanationmailserverdomainsertisfing01.pages.dev
+224411, 2024-08-25 10:32:15, 2024-08-25 10:32:15, phishing, 22763f753167ee9f803ad8023502d604, http://qamainmodify.pages.dev
+224410, 2024-08-25 10:22:12, 2024-08-25 10:22:12, phishing, f210f3151cea97a8a01435f18a946475, http://virtuefidelis.pages.dev
+224409, 2024-08-25 10:22:10, 2024-08-25 10:22:10, phishing, 4bfce415db42ef22d59ecca7468aa0a0, http://wasr-as6.pages.dev
+224408, 2024-08-25 10:14:13, 2024-08-25 10:14:13, phishing, 1ae31d5fce6ce4112a64e0f065fdcc24, http://qsguexzc4.pages.dev
 224407, 2024-08-25 09:28:55, 2024-08-25 09:28:55, malware, f924feff475b443b92a98e0ef202444d, http://77.45.217.74:57422/
 224406, 2024-08-25 09:28:19, 2024-08-25 09:28:19, phishing, 3ddda54e498469b95a7c712c72d45966, http://telegralm.xyz
 224405, 2024-08-25 09:27:44, 2024-08-25 09:27:44, malware, c143a8905b92495db69bfd989db2dd4f, http://59.91.84.148:38848/i
@@ -504,8 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 223913, 2024-08-24 17:20:31, 2024-08-24 17:20:31, malware, 5d5989abd7984cdf883db7054270eb67, http://115.55.237.196:39532/bin.sh
 223912, 2024-08-24 17:20:29, 2024-08-24 17:20:29, malware, 1c22290c31734929a285a0f52d45fa9d, http://115.55.11.0:55528/i
 223911, 2024-08-24 17:20:28, 2024-08-24 17:20:28, malware, 6daa994ce1a044ba8b7e26e443507db7, http://115.50.52.54:53009/Mozi.m
-223910, 2024-08-24 17:20:26, 2024-08-24 17:20:26, malware, 397080cbca024880bc5342f07d87d550, http://115.50.213.76:36168/
-223909, 2024-08-24 17:20:25, 2024-08-24 17:20:25, malware, 1cd4f6e7a5a746a08b6d668dda32ef4a, http://112.248.108.47:58660/i
-223908, 2024-08-24 17:20:23, 2024-08-24 17:20:23, malware, 2ad94c29715a47d396ae8e112776f9ee, http://112.248.108.47:58660/bin.sh
-223907, 2024-08-24 17:20:11, 2024-08-24 17:20:11, malware, 72bb7b1b77f649cfa0b77ec9d99518d0, http://112.237.159.129:59722/Mozi.m
-223906, 2024-08-24 17:20:10, 2024-08-24 17:20:10, malware, 8c5632e8d16b48f8a442ffe4c92cc902, http://111.61.93.195:46192/i
