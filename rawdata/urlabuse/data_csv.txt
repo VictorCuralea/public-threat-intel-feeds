@@ -6,9 +6,14 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-25 08:00:01 UTC
+# UPDATE: 2024-08-25 09:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+224348, 2024-08-25 08:52:15, 2024-08-25 08:52:15, phishing, 0e0b543ad96b2460e42c212469cae4b3, http://hello-world-late-sun-6ed5.jmolterhwbcpa-com.workers.dev
+224347, 2024-08-25 08:50:10, 2024-08-25 08:50:10, phishing, 5df0ff3cef1966b7d4befc552e9ac22e, http://manualcheckudate82-gdbdmauwpamd72gsaqpmsbzmuettqzbqpznnma3.pages.dev
+224346, 2024-08-25 08:48:11, 2024-08-25 08:48:11, phishing, 78e965f440f0bc320a2423b1b98c5a0f, http://e-kaokalpxc.net
+224345, 2024-08-25 08:37:55, 2024-08-25 08:28:18, phishing, fb2f9e59e98366ce40f1ca2e84d92793, https://ws.bluemail.info/ws/GEf1iXtbHI
+224344, 2024-08-25 08:22:14, 2024-08-25 08:22:14, phishing, 9134490b5a8c7280a7878403ba10929e, http://chat30.gallera.net
 224343, 2024-08-25 07:30:56, 2024-08-25 07:30:56, malware, 1793c8ce6f3e49cf89396da0e6cf8ac2, http://61.54.69.115:38684/i
 224342, 2024-08-25 07:30:34, 2024-08-25 07:30:34, malware, 80f13f6d2ac54bea8b5aa3cec665911b, http://61.53.157.175:40806/i
 224341, 2024-08-25 07:30:33, 2024-08-25 07:30:33, malware, 7aec13353afb49678cdfb2e22c44c0ab, http://61.3.138.229:60930/Mozi.m
@@ -504,8 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 223849, 2024-08-24 15:26:00, 2024-08-24 15:26:00, malware, 4a3219c718b34f4f93754c8124ffff7c, http://61.52.156.101:40806/bin.sh
 223848, 2024-08-24 15:25:52, 2024-08-24 15:25:52, malware, d92a5c287fc94d65949aecdabda0cc09, http://59.97.122.239:54717/bin.sh
 223847, 2024-08-24 15:25:12, 2024-08-24 15:25:12, malware, a4d6b5201e9d430b810ddf72fcbff939, http://59.95.87.29:59129/i
-223846, 2024-08-24 15:25:08, 2024-08-24 15:25:08, malware, 171f2e38df5641b9a1441da9fdc92ccc, http://59.88.232.9:38160/Mozi.m
-223845, 2024-08-24 15:25:06, 2024-08-24 15:25:06, malware, 1cb6cb528ed74af4b1c5fcc486de46d9, http://59.184.56.166:55606/bin.sh
-223844, 2024-08-24 15:24:26, 2024-08-24 15:24:26, malware, 906cedf48e75435484cab15dcd22b6cf, http://58.59.247.250:38267/i
-223843, 2024-08-24 15:24:20, 2024-08-24 15:24:20, malware, 68150bb471a34b468c20d83ccc67c145, http://42.234.149.250:39948/bin.sh
-223842, 2024-08-24 15:24:18, 2024-08-24 15:24:18, malware, c7531ef4dfa441bc8371e75e969730d3, http://39.90.145.111:55970/i
