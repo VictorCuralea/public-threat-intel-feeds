@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-08-24 14:47:41 UTC                        #
+# Last updated: 2024-08-25 07:31:50 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	nova-screen-webview.com
+127.0.0.1	hellokittymeowmeow.xyz
+127.0.0.1	api.hellokittymeowmeow.xyz
+127.0.0.1	zealous-pine-98499.pktriot.net
 127.0.0.1	freak4u.duckdns.org
 127.0.0.1	hgbourst28lasor2.duckdns.org
 127.0.0.1	newsletter208.home-webserver.de
@@ -7465,4 +7469,4 @@
 127.0.0.1	rebirthbot.icu
 127.0.0.1	botnet.loadbalance.click
 127.0.0.1	conference-cal.gl.at.ply.gg
-# Number of entries: 7459
+# Number of entries: 7463
