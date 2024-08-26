@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-26 12:00:01 UTC
+# UPDATE: 2024-08-26 13:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+225263, 2024-08-26 12:42:29, 2024-08-26 12:42:29, phishing, eb65f409e11106bc19611d34b7b9f617, https://easilghs.org/%F0%9D%90%9C%E2%80%8C%E2%80%8C/
+225261, 2024-08-26 12:34:16, 2024-08-26 12:34:16, phishing, 45fd713bfd8653c6da24662fca3ec365, http://cloudversatilepyth.pages.dev
 225260, 2024-08-26 11:34:48, 2024-08-26 11:34:48, phishing, df4e63e7bb3c472c5bafb28483971316, http://irntoken-sk.mom
 225259, 2024-08-26 11:34:46, 2024-08-26 11:34:46, phishing, 8fe77bf05e429447104c15415bae3cfd, http://irntoken-sy.mom
 225258, 2024-08-26 11:34:43, 2024-08-26 11:34:43, phishing, d2fe4c7360c1074542766825f17c58ed, http://irntoken-sz.mom
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 224765, 2024-08-25 21:20:26, 2024-08-25 21:20:26, malware, 30aedb44e53041ac880235c7dc881a91, http://117.196.172.248:39121/i
 224764, 2024-08-25 21:20:25, 2024-08-25 21:20:25, malware, 301d4bd2fa074d1dbfe896d87acc3098, http://117.195.243.207:57609/bin.sh
 224763, 2024-08-25 21:20:21, 2024-08-25 21:20:21, malware, 33bb2a4a48d94e12b43a7b4ab6210ca7, http://115.98.80.191:44917/Mozi.m
-224762, 2024-08-25 21:20:19, 2024-08-25 21:20:19, malware, 99c5b08513f649a8ab858d8533c8c921, http://115.56.99.126:35172/bin.sh
-224761, 2024-08-25 21:20:17, 2024-08-25 21:20:17, malware, 5d798206aefc478e87fcc68a744c2b9c, http://115.55.251.186:44767/
