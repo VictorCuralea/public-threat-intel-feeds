@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-26 21:00:01 UTC
+# UPDATE: 2024-08-26 22:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+225507, 2024-08-26 21:50:21, 2024-08-26 21:50:21, phishing, 036ac8007f2d0ec2b91e3e40237a6373, http://demo2.php520.pro
+225506, 2024-08-26 21:14:14, 2024-08-26 21:14:14, phishing, e953bf8ff442f474efb5769882a0fdc7, http://vertix.pages.dev
 225505, 2024-08-26 20:20:11, 2024-08-26 20:20:11, phishing, 3f65858e0f5873a0e8836e76ebaf7bbb, http://fpreilly-adobe.pages.dev
 225504, 2024-08-26 20:08:13, 2024-08-26 20:08:13, phishing, 26370836e69adec03da6a7942733b8ef, http://juventudeeterna.site
 225503, 2024-08-26 19:28:19, 2024-08-26 19:28:19, malware, becf0994d1fa4ca198e47b9c50f4f20f, http://ie-serv.cloud/haFyqzNo/Major_0x00029EFE4AF1E366.exe
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 225009, 2024-08-26 05:24:07, 2024-08-26 05:24:07, malware, f8b191d5c5044abeb3622e214befe9d3, http://123.14.186.223:44998/bin.sh
 225008, 2024-08-26 05:23:56, 2024-08-26 05:23:56, malware, f421aaf9525840a59272f4f23b95330d, http://120.61.6.227:39935/Mozi.m
 225007, 2024-08-26 05:23:44, 2024-08-26 05:23:44, malware, 24253c4174ef4908886132a21af7446d, http://117.254.61.241:42739/bin.sh
-225006, 2024-08-26 05:23:07, 2024-08-26 05:23:07, malware, af9702ac119649618c4776f56a6df995, http://117.248.161.126:52631/i
-225005, 2024-08-26 05:23:05, 2024-08-26 05:23:05, malware, 8f43a3bfc27f48f1b569713357d1fe03, http://117.248.161.126:52631/bin.sh
