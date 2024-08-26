@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-26 08:00:01 UTC
+# UPDATE: 2024-08-26 09:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+225105, 2024-08-26 08:36:19, 2024-08-26 08:36:19, phishing, 8e55e5ce21fac6e83fcd208d9c5570e9, http://ecosystemsolutions.emldn.com
+225104, 2024-08-26 08:12:12, 2024-08-26 08:12:12, phishing, 54a81fd1248834cc7194960817a90b1e, http://officecenter007897987.voicemailcallcenter987564987.workers.dev
+225103, 2024-08-26 08:04:14, 2024-08-26 08:04:14, phishing, 150b0120f85c944b05e3fd4be6655962, http://camsnude11.pages.dev
 225102, 2024-08-26 07:54:22, 2024-08-26 07:54:22, phishing, bbe6e003222cce671d3357a36e78d59e, http://telegramin.icu
 225101, 2024-08-26 07:52:18, 2024-08-26 07:52:18, phishing, 15c1f8143dfca80d8b896886df9fb902, http://telegren.icu
 225100, 2024-08-26 07:50:21, 2024-08-26 07:50:21, phishing, 5bd0bb124b9b1c8bdb3d1e76c425fef4, http://telegrazm.xyz
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 224608, 2024-08-25 15:22:37, 2024-08-25 15:22:37, malware, c769a4f50ba84e35b8bc028f9fe05ff3, http://182.120.182.55:47868/i
 224607, 2024-08-25 15:22:36, 2024-08-25 15:22:36, malware, 6e59f8182e4b444499b6cbd239c47c49, http://182.119.224.228:39772/i
 224606, 2024-08-25 15:22:34, 2024-08-25 15:22:34, malware, 76dd56bed87a481f8e5e39f724036ac9, http://182.117.81.67:51504/
-224605, 2024-08-25 15:22:32, 2024-08-25 15:22:32, malware, 29441b49961b4bada4b18f4fcfa135de, http://182.114.34.199:39838/Mozi.m
-224604, 2024-08-25 15:22:30, 2024-08-25 15:22:30, malware, 6699a364cd144f3bb1fd10c8db2e57c0, http://147.45.44.131/files/Wpm2.exe
-224603, 2024-08-25 15:22:29, 2024-08-25 15:22:29, malware, b37bad185e314612985f346211637b21, http://147.45.44.131/files/r57.exe
