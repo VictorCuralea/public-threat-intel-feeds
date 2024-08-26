@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-08-25 17:52:22 UTC                        #
+# Last updated: 2024-08-26 05:28:05 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	friend-tr.gl.at.ply.gg
+127.0.0.1	nova-sentinel.com
 127.0.0.1	deadlywarfare.com
 127.0.0.1	ajsdiaolke.shop
 127.0.0.1	ip235.ip-192-95-20.net
@@ -7140,4 +7142,4 @@
 127.0.0.1	cdn.hg23jh4gk234gjhk2j3g4h2kjh3g4.xyz
 127.0.0.1	o.cirt.pro
 127.0.0.1	firmwarefusion.com
-# Number of entries: 7134
+# Number of entries: 7136
