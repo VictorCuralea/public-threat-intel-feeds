@@ -6,9 +6,14 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-26 17:00:02 UTC
+# UPDATE: 2024-08-26 18:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+225390, 2024-08-26 17:24:01, 2024-08-26 17:24:01, phishing, ad20b27910baf2be2589136f683b808f, https://ipfs.io/ipfs/bafybeidikv5tueruq26m2nka2p2qjvpzlr7q57tbkckewykuml3tek2zxa/0knbx.html#abuse@ethz.ch
+225389, 2024-08-26 17:23:53, 2024-08-26 16:38:14, phishing, a30c5745a0642842d3228b0e5b402651, https://karafiber-istanbul.com/?id=google.auth.Adfjguirojs==Jh7dbwJ12io3d4dotYWJ1c2VAZXRoei5jaA==
+225388, 2024-08-26 17:21:31, 2024-08-26 16:24:13, phishing, 87ced9f224c12918c6209003d690c94c, https://xeminder.wixsite.com/my-site-1
+225387, 2024-08-26 17:12:01, 2024-08-26 17:12:01, phishing, ae248b628f3125f0aef74170105a9230, http://3a6b5c6.cc
+225386, 2024-08-26 17:04:11, 2024-08-26 17:04:11, phishing, 0247ab694bc1a24b42cec7f17b421d05, http://auth-ciientonline.wps-officecloud-qatevvay.workers.dev
 225385, 2024-08-26 16:52:13, 2024-08-26 16:52:13, phishing, a76df7e2fd412d6f583a21b5a9f9e91c, https://serwer2255313.home.pl/finan/finan/
 225384, 2024-08-26 16:28:14, 2024-08-26 16:28:14, phishing, c1f7df60e8be4a7c5c8eea91ba2db65e, http://connvocaorag.duckdns.org
 225383, 2024-08-26 16:28:12, 2024-08-26 16:28:12, phishing, 1e97bbe1f7c3b7bfbb2264d82b214883, http://adobe-2.pages.dev
@@ -504,8 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 224892, 2024-08-26 01:21:13, 2024-08-26 01:21:13, malware, ca2e7aa92dd14a368f1af8c3c3f910ed, http://117.248.162.92:51723/Mozi.m
 224891, 2024-08-26 01:21:11, 2024-08-26 01:21:11, malware, 801c19d1d43242faa509ff305241fb78, http://117.245.41.201:55122/bin.sh
 224890, 2024-08-26 01:21:09, 2024-08-26 01:21:09, malware, f033bf55ca714b6da3000ae574bc43d0, http://117.235.106.48:39936/i
-224889, 2024-08-26 01:21:07, 2024-08-26 01:21:07, malware, 83d38fb3784e4fa78ff50879ae374817, http://117.222.120.81:50990/
-224888, 2024-08-26 01:21:06, 2024-08-26 01:21:06, malware, 49a4e2c41e2c41dc9fe263a6ec95b1d9, http://117.219.180.184:37237/i
-224887, 2024-08-26 01:20:56, 2024-08-26 01:20:56, malware, 6cd7ab5c762044f4a3435d90a8c5f965, http://117.217.142.70:32797/i
-224886, 2024-08-26 01:20:54, 2024-08-26 01:20:54, malware, 73c3fc54c0b7464695b60fb0f6b3174e, http://117.217.142.70:32797/bin.sh
-224885, 2024-08-26 01:20:52, 2024-08-26 01:20:52, malware, 905126d716334366bc570a8344c93562, http://117.216.251.116:53771/Mozi.m
