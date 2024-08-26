@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-26 02:00:01 UTC
+# UPDATE: 2024-08-26 03:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+224916, 2024-08-26 02:37:43, 2024-08-26 01:50:25, phishing, b3e037c08a82148f672c60c95af96252, https://cdn.dragon.cere.network/427/fs/asa.html#x
 224915, 2024-08-26 01:23:20, 2024-08-26 01:23:20, malware, 1f411930d6b346398f54729b6765c479, http://85.104.186.51:49154/
 224914, 2024-08-26 01:23:17, 2024-08-26 01:23:17, malware, 82568e96bcb24258840b3b4447b3ea29, http://61.53.218.242:35638/i
 224913, 2024-08-26 01:23:16, 2024-08-26 01:23:16, malware, f5a20e0c5bbf400894310a3c12997ca4, http://61.53.122.194:37874/bin.sh
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 224419, 2024-08-25 11:20:25, 2024-08-25 11:20:25, malware, a411f2819f05478ab110ba4a2b49b265, http://117.193.172.33:36164/Mozi.m
 224418, 2024-08-25 11:20:23, 2024-08-25 11:20:23, malware, 6f9434a129994106b59dd0e31d0e4393, http://115.63.228.25:54176/Mozi.m
 224417, 2024-08-25 11:20:22, 2024-08-25 11:20:22, malware, fef687f93e934f4aae371bdf31d9329f, http://115.55.254.42:35749/bin.sh
-224416, 2024-08-25 11:20:19, 2024-08-25 11:20:19, malware, a476cac843934fcf9917436c32e6e8db, http://115.55.245.17:36016/bin.sh
