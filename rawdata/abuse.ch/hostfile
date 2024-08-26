@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-08-26 17:35:44 UTC                        #
+# Last updated: 2024-08-26 20:52:26 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	top.enkey.click
+127.0.0.1	gigaload.click
+127.0.0.1	hill-java.gl.at.ply.gg
 127.0.0.1	xwrmsistem.duckdns.org
 127.0.0.1	word-lang.gl.at.ply.gg
 127.0.0.1	birddogerc.com
@@ -7076,4 +7079,4 @@
 127.0.0.1	sfzd.tianxuesong.com.w.kunlunpi.com
 127.0.0.1	ss.wfpay.xyz.w.kunlunpi.com
 127.0.0.1	www.cdnyychanlun.com.w.kunlunpi.com
-# Number of entries: 7070
+# Number of entries: 7073
