@@ -6,8 +6,10 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-26 04:00:02 UTC
+# UPDATE: 2024-08-26 05:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 224981, "url": "http://bsgyetahmskdiu743904uiskdlimajud78463hydufikajsmufjhysnab2.pages.dev", "discovery": "2024-08-26 04:30:12", "added": "2024-08-26 04:30:12", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "ab8ee037c0f850b97f2da1b57b1370c3"}
+{"id": 224980, "url": "http://deplimigr.pages.dev", "discovery": "2024-08-26 04:04:17", "added": "2024-08-26 04:04:17", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "4b1b3ba4d5c7ae2b2681a9f644a980fe"}
 {"id": 224979, "url": "http://59.88.189.146:46640/bin.sh", "discovery": "2024-08-26 03:20:12", "added": "2024-08-26 03:38:18", "target": "#ELF32MIPS", "reporter": "stopmalwareservice", "AbuseType": "malware", "UUID": "7c29d39c387549ff8b331276ee5ed223"}
 {"id": 224978, "url": "http://fhytreu1.pages.dev", "discovery": "2024-08-26 03:32:56", "added": "2024-08-26 03:32:56", "target": "Amazon", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "43adcf10a3f5c0c3865e18ead33af319"}
 {"id": 224977, "url": "http://61.54.203.116:43828/", "discovery": "2024-08-26 03:26:25", "added": "2024-08-26 03:26:25", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "a8f7e551739841649267637c56158202"}
@@ -506,5 +508,3 @@
 {"id": 224484, "url": "http://112.248.188.132:35893/i", "discovery": "2024-08-25 13:20:08", "added": "2024-08-25 13:20:08", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "c00479d332d244dfaefad71a7275fa65"}
 {"id": 224483, "url": "http://112.240.248.215:46784/i", "discovery": "2024-08-25 13:20:06", "added": "2024-08-25 13:20:06", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "7ffb20a438164f859e707f8778431f79"}
 {"id": 224482, "url": "http://101.108.147.21:56961/bin.sh", "discovery": "2024-08-25 13:20:05", "added": "2024-08-25 13:20:05", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "18910d0a72fa448d9fe0889f2d4e6f31"}
-{"id": 224481, "url": "http://leverguilding.pages.dev", "discovery": "2024-08-25 13:00:15", "added": "2024-08-25 13:00:15", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "f532c03ad67723f34abdb1b2547ef267"}
-{"id": 224480, "url": "http://sxmainmodify.pages.dev", "discovery": "2024-08-25 12:46:15", "added": "2024-08-25 12:46:15", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "c81cca7fa3e52d036609d3ebecb74e72"}

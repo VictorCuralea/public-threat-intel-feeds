@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-26 04:00:02 UTC
+# UPDATE: 2024-08-26 05:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+224981, 2024-08-26 04:30:12, 2024-08-26 04:30:12, phishing, ab8ee037c0f850b97f2da1b57b1370c3, http://bsgyetahmskdiu743904uiskdlimajud78463hydufikajsmufjhysnab2.pages.dev
+224980, 2024-08-26 04:04:17, 2024-08-26 04:04:17, phishing, 4b1b3ba4d5c7ae2b2681a9f644a980fe, http://deplimigr.pages.dev
 224979, 2024-08-26 03:38:18, 2024-08-26 03:20:12, malware, 7c29d39c387549ff8b331276ee5ed223, http://59.88.189.146:46640/bin.sh
 224978, 2024-08-26 03:32:56, 2024-08-26 03:32:56, phishing, 43adcf10a3f5c0c3865e18ead33af319, http://fhytreu1.pages.dev
 224977, 2024-08-26 03:26:25, 2024-08-26 03:26:25, malware, a8f7e551739841649267637c56158202, http://61.54.203.116:43828/
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 224484, 2024-08-25 13:20:08, 2024-08-25 13:20:08, malware, c00479d332d244dfaefad71a7275fa65, http://112.248.188.132:35893/i
 224483, 2024-08-25 13:20:06, 2024-08-25 13:20:06, malware, 7ffb20a438164f859e707f8778431f79, http://112.240.248.215:46784/i
 224482, 2024-08-25 13:20:05, 2024-08-25 13:20:05, malware, 18910d0a72fa448d9fe0889f2d4e6f31, http://101.108.147.21:56961/bin.sh
-224481, 2024-08-25 13:00:15, 2024-08-25 13:00:15, phishing, f532c03ad67723f34abdb1b2547ef267, http://leverguilding.pages.dev
-224480, 2024-08-25 12:46:15, 2024-08-25 12:46:15, phishing, c81cca7fa3e52d036609d3ebecb74e72, http://sxmainmodify.pages.dev
