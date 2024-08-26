@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-08-26 09:40:50 UTC                        #
+# Last updated: 2024-08-26 15:34:29 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	birddogerc.com
 127.0.0.1	onlinesupportforroad.com
 127.0.0.1	friend-tr.gl.at.ply.gg
 127.0.0.1	nova-sentinel.com
@@ -7115,4 +7116,4 @@
 127.0.0.1	multi-bidding.gl.at.ply.gg
 127.0.0.1	wwv.bmjz.vip
 127.0.0.1	nxsisgod.com
-# Number of entries: 7109
+# Number of entries: 7110
