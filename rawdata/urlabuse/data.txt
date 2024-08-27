@@ -6,8 +6,9 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-27 02:00:01 UTC
+# UPDATE: 2024-08-27 03:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 225692, "url": "http://telegrammivan1.pages.dev", "discovery": "2024-08-27 02:54:14", "added": "2024-08-27 02:54:14", "target": "Telegram", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "dee8ebc19beae67e429fa7637b73d2db"}
 {"id": 225691, "url": "http://awhdkjuytrergfghvfoioruhfslsvnoadiaoiaoiaiaoiwoiwoifhaophp.pages.dev", "discovery": "2024-08-27 01:34:11", "added": "2024-08-27 01:34:11", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "82abddefcac638f9924fa895ae774911"}
 {"id": 225690, "url": "http://61.53.83.201:46604/i", "discovery": "2024-08-27 01:25:37", "added": "2024-08-27 01:25:37", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "66a98dbdd9ba4d36a80f556d48b2cdb2"}
 {"id": 225689, "url": "http://61.53.100.200:59871/i", "discovery": "2024-08-27 01:25:25", "added": "2024-08-27 01:25:25", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "1488f73abd414724879cd44945160b5a"}
@@ -507,4 +508,3 @@
 {"id": 225194, "url": "http://112.231.32.28:51237/bin.sh", "discovery": "2024-08-26 11:20:44", "added": "2024-08-26 11:20:44", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "205757330bda4e709841d9545a92f810"}
 {"id": 225193, "url": "http://103.51.20.82:39594/i", "discovery": "2024-08-26 11:20:42", "added": "2024-08-26 11:20:42", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "9e68fcf3be974a4b82fdfbcba6f6ccd9"}
 {"id": 225192, "url": "http://tokezp2cktt.mom", "discovery": "2024-08-26 10:38:54", "added": "2024-08-26 10:38:54", "target": "Token Pocket", "reporter": "lruray", "AbuseType": "phishing", "UUID": "4cf8941bbfd2c22c7588d1ae0e8d308d"}
-{"id": 225191, "url": "http://tokezp2ckut.mom", "discovery": "2024-08-26 10:38:49", "added": "2024-08-26 10:38:49", "target": "Token Pocket", "reporter": "lruray", "AbuseType": "phishing", "UUID": "8e6eaaf46eebb24dd301c4c693a3af0d"}

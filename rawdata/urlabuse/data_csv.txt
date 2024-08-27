@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-27 02:00:01 UTC
+# UPDATE: 2024-08-27 03:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+225692, 2024-08-27 02:54:14, 2024-08-27 02:54:14, phishing, dee8ebc19beae67e429fa7637b73d2db, http://telegrammivan1.pages.dev
 225691, 2024-08-27 01:34:11, 2024-08-27 01:34:11, phishing, 82abddefcac638f9924fa895ae774911, http://awhdkjuytrergfghvfoioruhfslsvnoadiaoiaoiaiaoiwoiwoifhaophp.pages.dev
 225690, 2024-08-27 01:25:37, 2024-08-27 01:25:37, malware, 66a98dbdd9ba4d36a80f556d48b2cdb2, http://61.53.83.201:46604/i
 225689, 2024-08-27 01:25:25, 2024-08-27 01:25:25, malware, 1488f73abd414724879cd44945160b5a, http://61.53.100.200:59871/i
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 225194, 2024-08-26 11:20:44, 2024-08-26 11:20:44, malware, 205757330bda4e709841d9545a92f810, http://112.231.32.28:51237/bin.sh
 225193, 2024-08-26 11:20:42, 2024-08-26 11:20:42, malware, 9e68fcf3be974a4b82fdfbcba6f6ccd9, http://103.51.20.82:39594/i
 225192, 2024-08-26 10:38:54, 2024-08-26 10:38:54, phishing, 4cf8941bbfd2c22c7588d1ae0e8d308d, http://tokezp2cktt.mom
-225191, 2024-08-26 10:38:49, 2024-08-26 10:38:49, phishing, 8e6eaaf46eebb24dd301c4c693a3af0d, http://tokezp2ckut.mom
