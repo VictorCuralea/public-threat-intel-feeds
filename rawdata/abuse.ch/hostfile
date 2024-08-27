@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-08-27 06:23:25 UTC                        #
+# Last updated: 2024-08-27 10:01:23 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	enviasept.duckdns.org
 127.0.0.1	someone-entering.gl.at.ply.gg
 127.0.0.1	onlinecsstutorials.com
 127.0.0.1	l0p1.shop
@@ -7078,6 +7079,4 @@
 127.0.0.1	clarosecurity-com.duckdns.org
 127.0.0.1	goalmikeas.live
 127.0.0.1	wedshotrag.live
-127.0.0.1	3gjanc04hk.execute-api.us-east-2.amazonaws.com
-127.0.0.1	blesblochem.com
-# Number of entries: 7074
+# Number of entries: 7073
