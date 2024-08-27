@@ -6,8 +6,10 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-27 20:00:02 UTC
+# UPDATE: 2024-08-27 21:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 226288, "url": "http://987463459aedr60977b.chancellor-wfsch.workers.dev", "discovery": "2024-08-27 20:48:13", "added": "2024-08-27 20:48:13", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "e090632c563d13f1a48887eec7e62ad3"}
+{"id": 226287, "url": "https://qhu.oqp.mybluehost.me/wp-content/swpassfr/", "discovery": "2024-08-27 20:36:15", "added": "2024-08-27 20:41:43", "target": "SwissPass", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "4afe26aaab86eee844c391f5a6b81c8d"}
 {"id": 226286, "url": "http://sec-docsm365.sec-docs-m365.workers.dev", "discovery": "2024-08-27 19:50:13", "added": "2024-08-27 19:50:13", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "48a310da046073bd4d4b0a61dc91de55"}
 {"id": 226285, "url": "https://riterto.formstack.com/forms/direct_fr", "discovery": "2024-08-27 19:04:22", "added": "2024-08-27 19:30:02", "target": "SwissPass", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "3f39ce11a558238b133cde655099284b"}
 {"id": 226284, "url": "https://qhu.oqp.mybluehost.me/wp-content/swpassde/", "discovery": "2024-08-27 19:04:14", "added": "2024-08-27 19:29:24", "target": "SwissPass", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "eb085b5114b4fcf1240332c75c32aa28"}
@@ -506,5 +508,3 @@
 {"id": 225791, "url": "http://120.57.101.58:54051/", "discovery": "2024-08-27 05:23:41", "added": "2024-08-27 05:23:41", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "f02793ed710741cdb40c63e841e7a7ec"}
 {"id": 225790, "url": "http://117.255.101.158:35636/i", "discovery": "2024-08-27 05:23:39", "added": "2024-08-27 05:23:39", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "f07336d34f8c444682ec74aef6a0541e"}
 {"id": 225789, "url": "http://117.253.98.102:47723/bin.sh", "discovery": "2024-08-27 05:23:21", "added": "2024-08-27 05:23:21", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "34d5db21001e4b229b6670a1ff7c7b56"}
-{"id": 225788, "url": "http://117.252.45.124:53454/i", "discovery": "2024-08-27 05:23:19", "added": "2024-08-27 05:23:19", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "257920f4f12d45a99afca96fb40d715c"}
-{"id": 225787, "url": "http://117.248.47.93:52400/i", "discovery": "2024-08-27 05:23:17", "added": "2024-08-27 05:23:17", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "54854d5ed2be4855bc85794be0e3f969"}
