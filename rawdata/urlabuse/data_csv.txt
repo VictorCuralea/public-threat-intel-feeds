@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-27 00:00:01 UTC
+# UPDATE: 2024-08-27 01:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+225628, 2024-08-27 00:48:15, 2024-08-27 00:48:15, phishing, 5b9ba3fed5bc5f8ed0642decd8518188, http://dash-earnings.pages.dev
+225627, 2024-08-27 00:22:17, 2024-08-27 00:22:17, phishing, ff22082e6410678623984c95435aff2e, http://zerounibaseslp.pages.dev
+225626, 2024-08-27 00:02:11, 2024-08-27 00:02:11, phishing, e63cc4ae50965f2d5f990db9c9d88fdd, http://updated.tomcruise4fans.workers.dev
 225625, 2024-08-26 23:25:29, 2024-08-26 23:25:29, malware, aadb4dbc25f14d6bb7bfe6d9ec9cc16c, http://77.81.87.111:40513/i
 225624, 2024-08-26 23:25:21, 2024-08-26 23:25:21, malware, 7d5ea1c6d2694cec9a8a9351cf8253a5, http://61.3.95.104:37186/Mozi.m
 225623, 2024-08-26 23:25:19, 2024-08-26 23:25:19, malware, 3dc29dae790a4485b5161411bd45c413, http://61.3.208.224:34771/i
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 225130, 2024-08-26 09:25:47, 2024-08-26 09:25:47, malware, 78baddd6bf9648e9be760a6e99137e72, http://123.4.187.32:34681/Mozi.m
 225129, 2024-08-26 09:25:45, 2024-08-26 09:25:45, malware, c57309e384524953ad2a7283501456b4, http://123.14.207.154:60666/bin.sh
 225128, 2024-08-26 09:24:54, 2024-08-26 09:24:54, malware, 50546f94ffe845ad98423d10c4fa8d05, http://120.211.104.203:34603/bin.sh
-225127, 2024-08-26 09:24:53, 2024-08-26 09:24:53, malware, 85801ab309754a44858d13fbd1ace578, http://119.186.204.69:57842/i
-225126, 2024-08-26 09:24:51, 2024-08-26 09:24:51, malware, 3223b22c767b4f7fa5c6ed50b016b6b3, http://117.254.97.106:40567/Mozi.m
-225125, 2024-08-26 09:24:49, 2024-08-26 09:24:49, malware, 23ddabdb0aec4055bbdca9e1e5a523f2, http://117.254.97.106:40567/i
