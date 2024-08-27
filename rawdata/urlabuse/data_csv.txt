@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-27 12:00:01 UTC
+# UPDATE: 2024-08-27 13:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+226045, 2024-08-27 12:32:15, 2024-08-27 12:32:15, phishing, 9f66c2e8138f2544415d5e1ae7618f06, http://hrmainchains.pages.dev
+226044, 2024-08-27 12:22:15, 2024-08-27 12:22:15, phishing, c84d858ac2187bf04fa25bbdbeceb7c1, http://xn--xaidatxemedtt-nmb.com
+226043, 2024-08-27 12:10:12, 2024-08-27 12:10:12, phishing, 708a45970414b036fcdc6eedb1cc8ec5, http://icy-thunder-4188.noisy-credit-3e44.workers.dev
 226042, 2024-08-27 11:54:13, 2024-08-27 11:54:13, phishing, 003edcd8f86bcb726188a7fead3645d3, http://telegram.2103575.workers.dev
 226041, 2024-08-27 11:45:09, 2024-08-27 09:58:48, phishing, 7c83243529d05aadfb1728a284c1079c, https://intereston.site/_dragonix_oxy/?login=x&page=null&request_type=null&page_bg=null&no_redrct=null&pcnt=null&no_psplash=null&pmax=null&vcnt=null&use_cdtimr=null
 226040, 2024-08-27 11:43:08, 2024-08-27 09:46:26, phishing, a711b88fabc94eba6f9db5e5abd5bd37, https://maximos.click/vmtrad?login=x
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 225548, 2024-08-26 22:26:04, 2024-08-26 22:26:04, malware, fa431f934f59473a9cac03ab5a7a0a51, http://59.93.129.245:36897/i
 225547, 2024-08-26 22:25:44, 2024-08-26 22:25:44, malware, dd2d1f8238324887beaadaaefb80bd5e, http://59.91.91.196:33438/i
 225546, 2024-08-26 22:25:31, 2024-08-26 22:25:31, malware, dc3957cb89ca4bf3902d3e3da61172e5, http://59.88.147.137:57507/i
-225545, 2024-08-26 22:25:08, 2024-08-26 22:25:08, malware, 556935546efe48b6b5bc8772de42d72f, http://42.230.188.185:37909/bin.sh
-225544, 2024-08-26 22:24:57, 2024-08-26 22:24:57, malware, d4e99fd9ec684b0a8f8f6f26ee3813c8, http://39.90.155.126:38536/bin.sh
-225543, 2024-08-26 22:24:18, 2024-08-26 22:24:18, malware, 92461c54db1d4716b6ceb89578784f20, http://27.215.83.74:56962/Mozi.m

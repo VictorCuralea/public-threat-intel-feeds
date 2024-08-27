@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-08-27 11:38:16 UTC                        #
+# Last updated: 2024-08-27 12:05:48 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	wardia.com.pe
 127.0.0.1	coolarition.com
 127.0.0.1	438772cm.n9shka.top
 127.0.0.1	n9shka.top
@@ -7082,4 +7083,4 @@
 127.0.0.1	clarosecurity-com.duckdns.org
 127.0.0.1	goalmikeas.live
 127.0.0.1	wedshotrag.live
-# Number of entries: 7076
+# Number of entries: 7077
