@@ -1,11 +1,24 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-08-27 16:00:19 UTC                        #
+# Last updated: 2024-08-27 19:21:41 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	sevxc17vs.top
+127.0.0.1	sixxc16vs.top
+127.0.0.1	sevxc17pt.top
+127.0.0.1	tenxv10vt.top
+127.0.0.1	sixxc16pt.top
+127.0.0.1	thixc13pt.top
+127.0.0.1	tvexc20ht.top
+127.0.0.1	tvexc20vs.top
+127.0.0.1	forxc14pt.top
+127.0.0.1	eihxc18vs.top
+127.0.0.1	fifxc15pt.top
+127.0.0.1	neincl19pt.top
+127.0.0.1	tvexv20vt.top
 127.0.0.1	botnet.jexkia.online
 127.0.0.1	jexkia.online
 127.0.0.1	financialinvestmentsgrp.com
@@ -7079,4 +7092,4 @@
 127.0.0.1	ronymahmoud.casacam.net
 127.0.0.1	brainyworkslogos.com
 127.0.0.1	asyncfunctionapi.com
-# Number of entries: 7073
+# Number of entries: 7086
