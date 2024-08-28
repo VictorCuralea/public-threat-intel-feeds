@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-28 10:00:01 UTC
+# UPDATE: 2024-08-28 11:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+226727, 2024-08-28 10:38:14, 2024-08-28 10:38:14, phishing, 4ffa99d828158b624405da63f5d52a59, http://djb8ei.aweys.net
+226726, 2024-08-28 10:34:12, 2024-08-28 10:34:12, phishing, 5f204cc2a1baf3603a92a6312fdb3c43, http://worker-crimson-art-6bf2.polmebulto.workers.dev
 226725, 2024-08-28 09:28:18, 2024-08-28 09:28:18, malware, 79aead5b46bd49df8045a1e4905b3294, http://61.53.221.100:44308/bin.sh
 226724, 2024-08-28 09:28:17, 2024-08-28 09:28:17, malware, 4efc29d934ce47a6b1408fcd60d13021, http://61.53.120.131:40252/bin.sh
 226723, 2024-08-28 09:28:15, 2024-08-28 09:28:15, malware, 0f0c816b091946f1a7ab55f10e1ebada, http://61.53.103.50:44080/i
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 226230, 2024-08-27 17:25:12, 2024-08-27 17:25:12, malware, 26be3d146464482ab891aef1d9fa0cfd, http://222.137.5.232:34111/i
 226229, 2024-08-27 17:25:10, 2024-08-27 17:25:10, malware, 4302f02ba5424af1aec24d1414a5d385, http://221.15.92.4:48944/bin.sh
 226228, 2024-08-27 17:25:08, 2024-08-27 17:25:08, malware, 5b810676c8d94211a28c7f424bc1ca6d, http://197.89.51.214:41738/i
-226227, 2024-08-27 17:24:41, 2024-08-27 17:24:41, malware, 351d917cf142425a9cdbf2d6399d98fc, http://182.60.7.208:56384/bin.sh
-226226, 2024-08-27 17:24:33, 2024-08-27 17:24:33, malware, 0b2d35e5432f41ff88cf2429a0f819e2, http://160.119.156.178:59526/i
