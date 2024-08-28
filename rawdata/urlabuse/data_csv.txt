@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-28 02:00:01 UTC
+# UPDATE: 2024-08-28 03:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+226459, 2024-08-28 02:46:13, 2024-08-28 02:46:13, phishing, 13250f9ce18d0b85ec5c62a9a6fdccfc, http://brandysexxx.pages.dev
+226458, 2024-08-28 02:24:10, 2024-08-28 02:24:10, phishing, 818357b70ee9b767b6bc7b81606978e6, http://aeza-se2.qystishere.com
 226457, 2024-08-28 01:25:28, 2024-08-28 01:25:28, malware, 9b71f6136f2c475bbfba1e7415ae7b06, http://69.117.23.50:50207/bin.sh
 226456, 2024-08-28 01:25:26, 2024-08-28 01:25:26, malware, 31ae56a33faa4fd9877386f105f64e1b, http://61.53.121.225:57211/bin.sh
 226455, 2024-08-28 01:25:25, 2024-08-28 01:25:25, malware, 83024ac6c2194cec910374b1431e0d99, http://61.52.215.40:51047/bin.sh
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 225962, 2024-08-27 09:29:56, 2024-08-27 09:29:56, malware, 1ee9f11a4d7b445d967c7d9fe872f4e8, http://61.53.84.173:52456/bin.sh
 225961, 2024-08-27 09:29:55, 2024-08-27 09:29:55, malware, 95887ed361cf467ca0fa025896ab104a, http://59.99.219.155:36601/i
 225960, 2024-08-27 09:29:24, 2024-08-27 09:29:24, malware, 7c80aa5dce5949dcb84bb8603b34cdb1, http://59.97.117.131:37929/i
-225959, 2024-08-27 09:28:31, 2024-08-27 09:28:31, malware, ddb6ffb26e744b5ba9b915584775e7fa, http://59.88.146.14:41626/bin.sh
-225958, 2024-08-27 09:28:00, 2024-08-27 09:28:00, malware, 61507c45def940b693bc673d4e0aaddf, http://59.184.242.105:54547/
