@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-28 14:00:01 UTC
+# UPDATE: 2024-08-28 15:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+226850, 2024-08-28 14:56:10, 2024-08-28 14:56:10, phishing, 9d5e66f11eefbdb60f148eb981540e31, http://aprilfoolgonewrongtoday4.pages.dev
+226849, 2024-08-28 14:43:39, 2024-08-28 14:08:06, phishing, 789676f9aae591348490158063795bc3, http://swcobro.online/_hannibal_alpha/zone/7d9a0d11cb36e12a68817aff945390de/login.php?login&_x_tr_sl=auto&_x_tr_tl=null&_x_tr_hl=null&_x_tr_pto=wapp&request_type=null&no_redrct=null&pcnt=null&no_psplash=null&pmax=null
+226848, 2024-08-28 14:43:04, 2024-08-28 14:06:39, phishing, 7cd709dc8540113e070d745ea6a322fb, https://kalakuta.click/control_handerjef?login=x
+226847, 2024-08-28 14:02:16, 2024-08-28 14:02:16, phishing, 65d7078069113ff648236709f5fd9285, http://5216441684.pages.dev
 226846, 2024-08-28 13:32:14, 2024-08-28 13:32:14, phishing, 2192e5b8a2918107a5c722fdacc52ccb, http://recoverpendingdapp.pages.dev
 226845, 2024-08-28 13:31:45, 2024-08-28 13:31:45, malware, 50006ed935a2434b9cba92f4a3fd91e4, http://61.53.88.90:37752/i
 226844, 2024-08-28 13:31:34, 2024-08-28 13:31:34, malware, 857ea57d356e46abb5c3158dc4f6c911, http://61.53.117.199:37139/bin.sh
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 226353, 2024-08-27 23:20:14, 2024-08-27 23:20:14, malware, 2b07aa98fdf74ee6ab0e238e3a14e6ce, http://115.58.88.174:44863/i
 226352, 2024-08-27 23:20:13, 2024-08-27 23:20:13, malware, a70001f0b3944b5298ef2456d0b3b759, http://115.56.58.47:43345/i
 226351, 2024-08-27 23:20:11, 2024-08-27 23:20:11, malware, a5a23bd692804cb9a1f52de088ea8273, http://115.56.58.47:43345/bin.sh
-226350, 2024-08-27 23:20:09, 2024-08-27 23:20:09, malware, af9b936eb506452f8515260a0cda04df, http://115.55.138.77:33623/i
-226349, 2024-08-27 23:20:07, 2024-08-27 23:20:07, malware, 51bbc3f7ca39459c975ac33d8d516002, http://112.248.188.132:53364/i
-226348, 2024-08-27 23:20:06, 2024-08-27 23:20:06, malware, cdde62f9839f40aeb5ca243680d43756, http://1.87.137.200:58327/Mozi.m
-226347, 2024-08-27 22:56:16, 2024-08-27 22:56:16, phishing, a5c70ef8425f942a08efba1b314aaccf, http://messvocaon.duckdns.org
