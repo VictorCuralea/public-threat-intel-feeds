@@ -6,8 +6,9 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-28 18:00:01 UTC
+# UPDATE: 2024-08-28 19:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 226958, "url": "http://daveomara-adobe.pages.dev", "discovery": "2024-08-28 18:58:13", "added": "2024-08-28 18:58:13", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "eac6b0177ca032e813e96073802a2e5f"}
 {"id": 226957, "url": "https://disne-vo.com/home/src/1.php", "discovery": "2024-08-28 17:53:54", "added": "2024-08-28 17:53:54", "target": "Disney+", "reporter": "urlabuse", "AbuseType": "phishing", "UUID": "a52d6999272fbc832077f754e3592806"}
 {"id": 226956, "url": "https://disne-vo.com/captcha/index.php", "discovery": "2024-08-28 17:10:14", "added": "2024-08-28 17:53:43", "target": "Disney+", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "c45112f7440bac29d6abbdb1e96da163"}
 {"id": 226955, "url": "https://vod-aer.com/", "discovery": "2024-08-28 17:02:14", "added": "2024-08-28 17:53:35", "target": "Disney+", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "cb1d8c8b78149dbfa0f6b00ca1ed0134"}
@@ -507,4 +508,3 @@
 {"id": 226461, "url": "http://115.52.244.38:57496/bin.sh", "discovery": "2024-08-28 03:20:07", "added": "2024-08-28 03:20:07", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "bdacdcad26d54127a55b721667d231b7"}
 {"id": 226460, "url": "http://115.48.147.98:55629/i", "discovery": "2024-08-28 03:20:05", "added": "2024-08-28 03:20:05", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "61f9a2be1d5240228a440d9ba7619e5b"}
 {"id": 226459, "url": "http://brandysexxx.pages.dev", "discovery": "2024-08-28 02:46:13", "added": "2024-08-28 02:46:13", "target": "Whatsapp", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "13250f9ce18d0b85ec5c62a9a6fdccfc"}
-{"id": 226458, "url": "http://aeza-se2.qystishere.com", "discovery": "2024-08-28 02:24:10", "added": "2024-08-28 02:24:10", "target": "Telegram", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "818357b70ee9b767b6bc7b81606978e6"}
