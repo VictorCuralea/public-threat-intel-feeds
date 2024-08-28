@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-28 20:00:01 UTC
+# UPDATE: 2024-08-28 21:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+227019, 2024-08-28 20:22:15, 2024-08-28 20:22:15, phishing, f7f50e2b31ba28454677caf2bc97a85d, http://panel.net-bunk.xyz
+227018, 2024-08-28 20:08:15, 2024-08-28 20:08:15, phishing, 5f9b7882bb62996dfa4e2ed088ff7c17, http://defyvariation.pages.dev
 227017, 2024-08-28 19:26:06, 2024-08-28 19:26:06, malware, ac219c27f081436eb2c0d830a9d55e32, http://88.247.65.155:55031/i
 227016, 2024-08-28 19:26:02, 2024-08-28 19:26:02, malware, 17e308884e7544c8ad999e0a316fc195, http://61.53.84.173:52456/i
 227015, 2024-08-28 19:26:00, 2024-08-28 19:26:00, malware, 4db8bd2aa5bf4151b0b66d7f3eac8cdc, http://61.3.31.161:49112/Mozi.m
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 226522, 2024-08-28 05:20:28, 2024-08-28 05:20:28, malware, df34b76d0d7b4d5d87cb09792e728cdf, http://115.55.231.214:41981/
 226521, 2024-08-28 05:20:17, 2024-08-28 05:20:17, malware, 5809097965e54cb0ba3be64fd0354012, http://115.50.202.169:60855/i
 226520, 2024-08-28 05:20:15, 2024-08-28 05:20:15, malware, aa6e94d0b08743a980de322518a33449, http://112.242.98.128:42708/bin.sh
-226519, 2024-08-28 03:46:12, 2024-08-28 03:46:12, phishing, 58864b2f02a0cfd44bdfbf25bf6d5150, http://tr-cpa.pages.dev
-226518, 2024-08-28 03:26:50, 2024-08-28 03:26:50, malware, fab6e196ee54426699791babb6daba98, https://alovosaxzok.pro/NordVPN.apk
