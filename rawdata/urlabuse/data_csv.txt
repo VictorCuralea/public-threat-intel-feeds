@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-28 06:00:01 UTC
+# UPDATE: 2024-08-28 07:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+226597, 2024-08-28 06:20:12, 2024-08-28 06:20:12, phishing, ff83dd974bf48b4d6557f20179cddf07, http://jhgfdwqqqqqqqqazxdesdxfghgfdfghuy6543esdfcxdftrdxxxxxxfgcx.pages.dev
+226596, 2024-08-28 06:02:15, 2024-08-28 06:02:15, hacked, d6f7a75ee5266f1e652e65e1bb73cade, https://www.jnicolau.com.br/hackedbycryptobyte.html
 226595, 2024-08-28 05:42:13, 2024-08-28 05:42:13, phishing, e3798b209bb8f146fd56b1f37b21a595, http://worker-divine-shape-1234.justiron.workers.dev
 226594, 2024-08-28 05:30:25, 2024-08-28 05:30:25, malware, df05fd789f834c01b58f4776c9e06dbe, http://88.247.65.155:55031/Mozi.m
 226593, 2024-08-28 05:30:23, 2024-08-28 05:30:23, malware, fbcaa74cf4864fcb86fcc1c98e05680d, http://61.54.41.21:42057/bin.sh
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 226100, 2024-08-27 13:28:16, 2024-08-27 13:28:16, malware, 58b012057d184d81b9501bee591040d9, http://222.141.116.170:46858/bin.sh
 226099, 2024-08-27 13:28:15, 2024-08-27 13:28:15, malware, c64c94edce424fc894dce2589f0ee46d, http://222.138.119.41:34013/bin.sh
 226098, 2024-08-27 13:28:13, 2024-08-27 13:28:13, malware, 73a75bf71cae46d28c1e08ba1b8e4f39, http://221.15.143.174:34671/bin.sh
-226097, 2024-08-27 13:28:12, 2024-08-27 13:28:12, malware, 2f45ed52fa204a9e8c80a6e0f09540b1, http://221.13.232.241:33975/i
-226096, 2024-08-27 13:28:11, 2024-08-27 13:28:11, malware, 5a557b99868d4c98807ff197eb4dfc5d, http://221.13.232.241:33975/bin.sh
