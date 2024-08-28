@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-28 22:00:01 UTC
+# UPDATE: 2024-08-28 23:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+227072, 2024-08-28 22:14:17, 2024-08-28 22:14:17, phishing, 49f5dfc559d2c6af3d9ee210b476d959, http://wallet-connect-a0k.pages.dev
+227071, 2024-08-28 22:02:23, 2024-08-28 22:02:23, phishing, 555c3bb8e5da83c0c62cde1f74b5663d, https://prudential-sharepoint-6adaa002.azurewebsites.net/
+227070, 2024-08-28 22:00:12, 2024-08-28 22:00:12, phishing, 6880489be6898b68271d96f1818ee473, http://authorizefreecode.pages.dev
 227069, 2024-08-28 21:52:15, 2024-08-28 21:52:15, phishing, 3b86ee531d84ead0042a87d453f5af9b, http://hamygram.pages.dev
 227068, 2024-08-28 21:24:50, 2024-08-28 21:24:50, malware, 7d40c79f7d5947e7b0522ceddf20e28c, http://61.53.117.199:37139/i
 227067, 2024-08-28 21:24:39, 2024-08-28 21:24:39, malware, aa29b003169b45e89c1b1c401fab0f0c, http://61.0.216.165:52626/Mozi.m
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 226575, 2024-08-28 05:26:27, 2024-08-28 05:26:27, malware, 268159506997407b91b124fa2abb03c4, http://27.204.193.52:58660/bin.sh
 226574, 2024-08-28 05:26:25, 2024-08-28 05:26:25, malware, cd2b657324c74c578b7ccc6649dacaa7, http://27.202.81.193:46410/bin.sh
 226573, 2024-08-28 05:26:24, 2024-08-28 05:26:24, malware, f0fc6b8eea5f41ff9c80c46cbe826af0, http://222.142.244.241:56906/bin.sh
-226572, 2024-08-28 05:26:22, 2024-08-28 05:26:22, malware, 40c1e34c60f446b6bd2c720fb4be21fd, http://222.141.116.29:37828/bin.sh
-226571, 2024-08-28 05:26:21, 2024-08-28 05:26:21, malware, aaa4c76962f14ba286e6e05f62ca3e99, http://222.136.81.68:35854/
-226570, 2024-08-28 05:26:19, 2024-08-28 05:26:19, malware, efdd060596bb40a2b75cfa1d458ecc52, http://219.157.26.33:45797/bin.sh
