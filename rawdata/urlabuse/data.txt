@@ -6,8 +6,9 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-28 08:00:01 UTC
+# UPDATE: 2024-08-28 09:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 226669, "url": "http://6ollyfrost.wisivem219.workers.dev", "discovery": "2024-08-28 08:38:12", "added": "2024-08-28 08:38:12", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "6630eaa60bedcae1b87e8b4678004847"}
 {"id": 226668, "url": "http://worker-plain-fog-a3d9.giveha3755.workers.dev", "discovery": "2024-08-28 07:48:12", "added": "2024-08-28 07:48:12", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "e1a2816fb8c4610456d8d15cf517311e"}
 {"id": 226667, "url": "http://95.47.234.74:50702/i", "discovery": "2024-08-28 07:26:22", "added": "2024-08-28 07:26:22", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "f97992dc513644ccb019a9d9532fc800"}
 {"id": 226666, "url": "http://95.47.234.74:50702/bin.sh", "discovery": "2024-08-28 07:26:21", "added": "2024-08-28 07:26:21", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "1f3e833690fa4376bc94dfcb192b0b74"}
@@ -507,4 +508,3 @@
 {"id": 226172, "url": "http://182.126.115.61:53256/Mozi.m", "discovery": "2024-08-27 15:22:44", "added": "2024-08-27 15:22:44", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "e5edb6fca3684f3a80483bc9b4a29164"}
 {"id": 226171, "url": "http://182.115.74.146:57717/Mozi.m", "discovery": "2024-08-27 15:22:42", "added": "2024-08-27 15:22:42", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "91850f39faaa4aa0945b142a55adb386"}
 {"id": 226170, "url": "http://182.113.54.12:38467/Mozi.a", "discovery": "2024-08-27 15:22:41", "added": "2024-08-27 15:22:41", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "a8954ed155654a21880e3a7ba6f80d80"}
-{"id": 226169, "url": "http://160.119.156.178:59526/bin.sh", "discovery": "2024-08-27 15:22:39", "added": "2024-08-27 15:22:39", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "7705e2b59c954e508f084a5d0e1efcc4"}

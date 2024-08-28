@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-28 08:00:01 UTC
+# UPDATE: 2024-08-28 09:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+226669, 2024-08-28 08:38:12, 2024-08-28 08:38:12, phishing, 6630eaa60bedcae1b87e8b4678004847, http://6ollyfrost.wisivem219.workers.dev
 226668, 2024-08-28 07:48:12, 2024-08-28 07:48:12, phishing, e1a2816fb8c4610456d8d15cf517311e, http://worker-plain-fog-a3d9.giveha3755.workers.dev
 226667, 2024-08-28 07:26:22, 2024-08-28 07:26:22, malware, f97992dc513644ccb019a9d9532fc800, http://95.47.234.74:50702/i
 226666, 2024-08-28 07:26:21, 2024-08-28 07:26:21, malware, 1f3e833690fa4376bc94dfcb192b0b74, http://95.47.234.74:50702/bin.sh
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 226172, 2024-08-27 15:22:44, 2024-08-27 15:22:44, malware, e5edb6fca3684f3a80483bc9b4a29164, http://182.126.115.61:53256/Mozi.m
 226171, 2024-08-27 15:22:42, 2024-08-27 15:22:42, malware, 91850f39faaa4aa0945b142a55adb386, http://182.115.74.146:57717/Mozi.m
 226170, 2024-08-27 15:22:41, 2024-08-27 15:22:41, malware, a8954ed155654a21880e3a7ba6f80d80, http://182.113.54.12:38467/Mozi.a
-226169, 2024-08-27 15:22:39, 2024-08-27 15:22:39, malware, 7705e2b59c954e508f084a5d0e1efcc4, http://160.119.156.178:59526/bin.sh
