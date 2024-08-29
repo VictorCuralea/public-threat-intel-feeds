@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-29 04:00:01 UTC
+# UPDATE: 2024-08-29 05:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+227227, 2024-08-29 04:54:14, 2024-08-29 04:54:14, phishing, afc1a331b9b8b1178081921bcafd5002, http://update-7by.pages.dev
+227226, 2024-08-29 04:20:10, 2024-08-29 04:20:10, phishing, ae500e2f21ecec1c60ff9ecee380bdb6, http://fuckbooks691.pages.dev
+227225, 2024-08-29 04:04:12, 2024-08-29 04:04:12, phishing, b22be1a6088da7d2f1353e13654e7af2, http://dapfixsolutions.pages.dev
+227224, 2024-08-29 04:02:14, 2024-08-29 04:02:14, phishing, 560449d968338114f3a9b6f5b48f408b, http://m.11335115.com/
 227223, 2024-08-29 03:58:13, 2024-08-29 03:58:13, phishing, e63aece9c2a1daec5027ca328feb89c6, http://zfile.lvzs.workers.dev
 227222, 2024-08-29 03:32:12, 2024-08-29 03:32:12, phishing, d78b050b954bf8dd7a40cd4379b18c81, http://xpubdapp-application.pages.dev
 227221, 2024-08-29 03:23:52, 2024-08-29 03:23:52, malware, 3a05e55efed04defa59bb791155a55c5, http://95.132.254.105:56450/i
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 226730, 2024-08-28 11:20:37, 2024-08-28 11:20:37, malware, db6807f344cd46af99cd3397f3ff3de1, http://115.63.178.149:59638/bin.sh
 226729, 2024-08-28 11:20:26, 2024-08-28 11:20:26, malware, efc75b801b114d5ebe17a897e326a80d, http://115.55.235.184:50921/bin.sh
 226728, 2024-08-28 11:20:24, 2024-08-28 11:20:24, malware, bbe2ee065db148bd8f7406c566e506eb, http://115.50.231.203:43640/
-226727, 2024-08-28 10:38:14, 2024-08-28 10:38:14, phishing, 4ffa99d828158b624405da63f5d52a59, http://djb8ei.aweys.net
-226726, 2024-08-28 10:34:12, 2024-08-28 10:34:12, phishing, 5f204cc2a1baf3603a92a6312fdb3c43, http://worker-crimson-art-6bf2.polmebulto.workers.dev
-226725, 2024-08-28 09:28:18, 2024-08-28 09:28:18, malware, 79aead5b46bd49df8045a1e4905b3294, http://61.53.221.100:44308/bin.sh
-226724, 2024-08-28 09:28:17, 2024-08-28 09:28:17, malware, 4efc29d934ce47a6b1408fcd60d13021, http://61.53.120.131:40252/bin.sh
