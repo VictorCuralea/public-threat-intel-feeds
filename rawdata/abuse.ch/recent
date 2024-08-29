@@ -1,12 +1,15 @@
 ################################################################
 # ThreatFox IOCs: recent SHA256 hashes - CSV format            #
-# Last updated: 2024-08-28 16:58:58 UTC                        #
+# Last updated: 2024-08-29 18:44:01 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
 # "first_seen_utc","ioc_id","ioc_value","ioc_type","threat_type","fk_malware","malware_alias","malware_printable","last_seen_utc","confidence_level","reference","tags","anonymous","reporter"
+"2024-08-29 18:44:01", "1317187", "e082c6d30278139fdab5a7ddddecbcbafad12ab4dff1d5a960d9704fe635c007", "sha256_hash", "payload", "win.lockbit", "ABCD Ransomware", "LockBit", "", "100", "", "deathgrip,lockbit", "1", "boruch"
+"2024-08-29 18:44:01", "1317186", "274844568a6a9ce334d71efeac21f528d7b54b2cd4377c978cc1270c6ad986c4", "sha256_hash", "payload", "win.lockbit", "ABCD Ransomware", "LockBit", "", "100", "", "deathgrip,lockbit", "1", "boruch"
+"2024-08-29 18:44:01", "1317185", "166bba02413995aff28ffeb27d3bf3d5a5f6a6cd36893e252c7b9a22836f4980", "sha256_hash", "payload", "win.lockbit", "ABCD Ransomware", "LockBit", "", "100", "", "deathgrip,lockbit", "1", "boruch"
 "2024-08-28 16:58:58", "1316964", "44967f8ecdfe8a37ec62ac17d72cc93976a2909be95e013426594a6695be9bc9", "sha256_hash", "payload", "win.formbook", "win.xloader", "Formbook", "", "95", "None", "None", "0", "Grim"
 "2024-08-28 16:58:55", "1316961", "c3c1338eaa4025e765e84b85e277ed5a319a7d732ff2054b67aba83578386825", "sha256_hash", "payload", "win.cobalt_strike", "Agentemis,BEACON,CobaltStrike,cobeacon", "Cobalt Strike", "", "95", "None", "None", "0", "Grim"
 "2024-08-28 16:58:51", "1316958", "c368a78cac51628bd6f5b623d2786ab8751135a7f56892e1be04fbca0d5d76bf", "sha256_hash", "payload", "win.cobalt_strike", "Agentemis,BEACON,CobaltStrike,cobeacon", "Cobalt Strike", "", "95", "None", "None", "0", "Grim"
@@ -44,4 +47,4 @@
 "2024-08-28 16:57:03", "1316862", "8c92b39496a1f938d9c16ad3e1a7948b48923fd028e23a422c5bf8f0b7e1138b", "sha256_hash", "payload", "win.formbook", "win.xloader", "Formbook", "", "95", "None", "None", "0", "Grim"
 "2024-08-28 16:56:59", "1316859", "fca9f9323e43242411c9cd339b86c9aa465c6d59adc66bb6492eb237d5435446", "sha256_hash", "payload", "win.formbook", "win.xloader", "Formbook", "", "95", "None", "None", "0", "Grim"
 "2024-08-28 16:56:56", "1316856", "8bdde20f5655fa32fc546f3b4e66b3b2a2872c0e55a73c377245808ffd218829", "sha256_hash", "payload", "win.nanocore", "Nancrat,NanoCore", "Nanocore RAT", "", "95", "None", "None", "0", "Grim"
-# Number of entries: 37
+# Number of entries: 40
