@@ -6,9 +6,24 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-29 16:00:01 UTC
+# UPDATE: 2024-08-29 17:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+227645, 2024-08-29 16:53:17, 2024-08-29 16:21:31, phishing, 6dae2af73735ddbc5162bce15760134b, https://webfile.archive.us-east-1.oortech.com/maint?signature=8cbbf8b48fa92625966bc6210ca77e00e95e8dc13289375ff061bd73a353d6b61afccae2c0c2e17fbdfe10bfb1b886df6bb422e4524cb20ae21f922f5d43740516a7d75614201d8a928d4f673cb0736a574c1dad73a11dc93f89af077ea1bf14
+227644, 2024-08-29 16:52:53, 2024-08-29 16:52:53, phishing, 6647f70ee9f6777a868c043950cf1b09, https://downloadssss.standard.us-east-1.oortech.com/#x
+227643, 2024-08-29 16:52:45, 2024-08-29 16:04:13, phishing, a1af3daae3fc6911ce07d12c20a2eb39, https://5-fametech-2.alayeforeg.com/x/2-fametech
+227642, 2024-08-29 16:52:26, 2024-08-29 15:52:04, phishing, c000e6844d6e9fcc572e717a0e958bcf, https://ipfs.io/ipfs/QmWRuUnA8yJhUbaFHHnPTtRw7UU1ou5HeVYmW5QcQrEtoF#x
+227641, 2024-08-29 16:51:49, 2024-08-29 16:28:15, phishing, 183e25832c2165bf38f124e0c4b8c488, https://dev.site4clientdemo.com/xcytriccyber/hereme/72211/0002r/abuse@ethz.ch
+227640, 2024-08-29 16:50:54, 2024-08-29 15:28:13, phishing, 7c714ccdeb6f309fe86c17d47b971fcd, https://grantell.pages.dev/id
+227639, 2024-08-29 16:40:12, 2024-08-29 16:40:12, phishing, dfb8477782b397dfe740477456e07fb1, http://c1eint.1oqin-wps-cloud.workers.dev
+227638, 2024-08-29 16:38:11, 2024-08-29 16:38:11, phishing, 0858a23b52f723e27e87d065e63f875e, http://droitsetdemarches.com
+227637, 2024-08-29 16:16:14, 2024-08-29 16:16:14, phishing, 06dd0c6a7b392b20e30eaddcf3d86362, https://pub-c922f112ea8a4e3894943aa9d3e03b49.r2.dev/AutoMail.html
+227636, 2024-08-29 16:14:14, 2024-08-29 16:14:14, phishing, 961efab56766a171983aeccbb82f46e2, http://tp.ch56789.com
+227635, 2024-08-29 16:14:12, 2024-08-29 16:14:12, phishing, e3e5f68a80f51f7fb26b6f59602b78af, http://met-bio-1.pages.dev
+227634, 2024-08-29 16:14:11, 2024-08-29 16:14:11, phishing, d850a704c55d91c3626c7ed4046f6381, http://auth-c1ientgatevvay.api-loqin-run.workers.dev
+227633, 2024-08-29 16:04:16, 2024-08-29 16:04:16, phishing, 5a6ec44c46b4d2935ce1ed2f573c033e, https://pub-f17e67d49dfb4f1788c7bf675a73bfe6.r2.dev/newattatctcsdiuusdsuisdfuisfduisfduisfdiusjksfdjkfsdhjkdsfhkjsdfhjksfdhjksfdhjksfdhjksjkhfd.html
+227632, 2024-08-29 16:02:21, 2024-08-29 16:02:21, phishing, 048d01afd6c06761f7cb8f592cd49221, https://pb3654.cc:8989/mobile-client/bet365_627/index.html?td_channelid=627
+227631, 2024-08-29 16:02:14, 2024-08-29 16:02:14, phishing, c156be953edd26d350bda444e7422dbb, https://t.co/90KTEOiiOY
 227630, 2024-08-29 15:44:14, 2024-08-29 15:44:14, phishing, aef9bb825c9d1508a140a3cfb3be8ced, http://hello.yuwenzhen.workers.dev
 227629, 2024-08-29 15:30:25, 2024-08-29 15:30:25, malware, 20efd2cffeec4327bf278aaf1b2d7d74, http://61.53.82.67:45191/i
 227628, 2024-08-29 15:30:24, 2024-08-29 15:30:24, malware, 62e2b17912c048058014bd9283470365, http://61.53.82.67:45191/bin.sh
@@ -494,18 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 227148, 2024-08-29 01:23:08, 2024-08-29 01:23:08, malware, d9b4bc3853034bd28e287d3bf23a71fe, http://182.127.163.239:54775/bin.sh
 227147, 2024-08-29 01:23:06, 2024-08-29 01:23:06, malware, e1bc90d4c5ad43f0a1f96e8fce888441, http://182.120.54.11:57945/bin.sh
 227146, 2024-08-29 01:22:41, 2024-08-29 01:22:41, malware, b0a7e2fa792c49b7a45129916df00eaf, http://123.9.244.216:42600/bin.sh
-227145, 2024-08-29 01:22:40, 2024-08-29 01:22:40, malware, 5f8371ba0a0e464b8ce71228759e7805, http://120.61.166.158:39432/bin.sh
-227144, 2024-08-29 01:22:30, 2024-08-29 01:22:30, malware, d89d5f4c260f4d31ac78c7f690d48c1a, http://119.179.255.122:50771/i
-227143, 2024-08-29 01:22:10, 2024-08-29 01:22:10, malware, 790d04e367994dd5a92ea72dcb464114, http://117.254.59.49:43189/Mozi.m
-227142, 2024-08-29 01:22:07, 2024-08-29 01:22:07, malware, 2fb91648a85044c8b460f836dc7be8e2, http://117.248.174.192:34921/bin.sh
-227141, 2024-08-29 01:22:05, 2024-08-29 01:22:05, malware, 58788861c212436aa24403689945af24, http://117.248.172.102:53344/i
-227140, 2024-08-29 01:22:03, 2024-08-29 01:22:03, malware, 5341eaac211b48e5b995acfca7f2d03d, http://117.248.163.44:49666/i
-227139, 2024-08-29 01:21:50, 2024-08-29 01:21:50, malware, 0f0e4113613a47c28cf70e414af34cbf, http://117.235.53.158:54921/i
-227138, 2024-08-29 01:21:37, 2024-08-29 01:21:37, malware, 61d400169bb147dd9fc56ef0732901d0, http://117.216.27.220:43860/bin.sh
-227137, 2024-08-29 01:21:36, 2024-08-29 01:21:36, malware, e23af168d5984fe1b980b3af7cdca728, http://117.208.172.114:47328/bin.sh
-227136, 2024-08-29 01:21:30, 2024-08-29 01:21:30, malware, 1deed62c4d5a48b784bbb278091c230d, http://117.208.100.83:36951/i
-227135, 2024-08-29 01:20:18, 2024-08-29 01:20:18, malware, 5a4e8cf551e94e15a9767172a2afac0e, http://117.195.245.47:57460/bin.sh
-227134, 2024-08-29 01:20:15, 2024-08-29 01:20:15, malware, e29e52197a48493dae70d956e09bcaec, http://115.56.56.224:48746/i
-227133, 2024-08-29 01:20:10, 2024-08-29 01:20:10, phishing, 418e6bdc5243373bda91b423ba948761, http://56r6t656tr55.pages.dev
-227132, 2024-08-29 01:06:13, 2024-08-29 01:06:13, phishing, 069a325f0cb8b919ee31bb454add9720, http://tg.ink-home.cn
-227131, 2024-08-29 01:05:19, 2024-08-29 01:05:19, phishing, 84f90b5ef5548f934b2d4de1e4aab5a2, http://www.bertchou.com/wp-content/languages-old/config/save.php
