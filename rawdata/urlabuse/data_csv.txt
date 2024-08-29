@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-29 10:00:01 UTC
+# UPDATE: 2024-08-29 11:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+227446, 2024-08-29 10:56:17, 2024-08-29 10:56:17, phishing, 5169bcd615eabae312f9cad80eb515e3, http://defi-multishares.pages.dev
+227445, 2024-08-29 10:32:15, 2024-08-29 10:32:15, phishing, 533d114311661141aaf1f0381e1dc995, http://simplebuildhashpro.pages.dev
+227444, 2024-08-29 10:00:13, 2024-08-29 10:00:13, phishing, 60e0e831fd95db615a902f1617bff6c2, http://worker-still-feather-5f91.updatinges039090.workers.dev
 227443, 2024-08-29 09:58:15, 2024-08-29 09:58:15, phishing, 31183995d3e82156d02418f0825d6c45, https://manage-administrere-swisspass-ch-finladosaris128096.codeanyapp.com/untl/manage-neu/OnlinePortal/Login/Anmeldung/d/
 227442, 2024-08-29 09:36:16, 2024-08-29 09:36:16, phishing, 34cd52d0fadec0dc62bd7109f21d54d7, http://livemigraxsouvtwo.pages.dev
 227441, 2024-08-29 09:28:18, 2024-08-29 09:28:18, malware, 5605ab7ee92b47058cb9ddb153b9d3b3, http://61.0.209.28:59266/i
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 226949, 2024-08-28 17:24:33, 2024-08-28 17:24:33, malware, 57ade686f9a44fdb952e10595151048a, http://60.214.33.233:58422/i
 226948, 2024-08-28 17:24:24, 2024-08-28 17:24:24, malware, aaee89c2543f4c25853b752e3b7e9042, http://59.98.142.118:39813/i
 226947, 2024-08-28 17:23:59, 2024-08-28 17:23:59, malware, e8ca470511c94c968ee5a8074f084d2f, http://59.91.85.135:50072/Mozi.m
-226946, 2024-08-28 17:23:47, 2024-08-28 17:23:47, malware, 2f33046d158249959811827043817ce9, http://59.88.185.108:36633/i
-226945, 2024-08-28 17:23:25, 2024-08-28 17:23:25, malware, ba20230316fd49bcb079311ad576ef78, http://59.184.253.80:58049/Mozi.m
-226944, 2024-08-28 17:22:53, 2024-08-28 17:22:53, malware, c2eef54a3b0943b0859d9858a49af74f, http://42.237.58.145:55932/
