@@ -6,9 +6,17 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-29 06:00:01 UTC
+# UPDATE: 2024-08-29 07:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+227301, 2024-08-29 06:26:16, 2024-08-29 06:26:16, phishing, 701c18a689701d00b4b2e2d299f7688a, http://nonceordiperceptive.pages.dev
+227300, 2024-08-29 06:26:14, 2024-08-29 06:26:14, phishing, 09e2d32bd673ff0f61e0c2beb014daf4, http://mengdaox-od.cvcf.workers.dev
+227299, 2024-08-29 06:06:15, 2024-08-29 06:06:15, phishing, 9e74b09df2cb820fa252d994bc18a087, http://opfareperceptive.pages.dev
+227298, 2024-08-29 06:02:21, 2024-08-29 06:02:21, hacked, 29a75e6f3b52d87b19f8a8082943043e, http://benve.in/
+227297, 2024-08-29 06:02:17, 2024-08-29 06:02:17, hacked, 637d73e345225800392e5413d6812cea, https://www.lordimobiliaria.com.br/hackedbycryptobyte.html
+227296, 2024-08-29 06:02:15, 2024-08-29 06:02:15, hacked, 070c9b9918ee85d1af6960cc099ba7a2, http://www.techlogics.co.in/
+227295, 2024-08-29 06:02:15, 2024-08-29 06:02:15, hacked, 498e8d556bbf8d53ccfc6bcfc644fca4, http://venkatprojects.com/
+227294, 2024-08-29 06:02:15, 2024-08-29 06:02:15, hacked, ff0469f507cbc9aec37362a3123d4f25, http://sangrahalay.in/
 227293, 2024-08-29 05:50:35, 2024-08-29 05:30:13, phishing, 3c70a78d777f9e23cf52d57534bd68df, https://connexion.app-airwallet.com/login
 227292, 2024-08-29 05:40:29, 2024-08-29 05:40:29, phishing, b5336992bde95e9d55cc3b0686da8b90, https://kbbcsc.edu.bd/wpwww/index/
 227291, 2024-08-29 05:40:25, 2024-08-29 05:40:25, phishing, 66bb6190a795ba337c22856a2d4cdbd2, https://hyo.hsk.mybluehost.me/swiss/SBB/index/
@@ -501,11 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 226804, 2024-08-28 13:27:23, 2024-08-28 13:27:23, malware, 5298af0ef93f4533a07f8b3bf99b4f35, http://138.204.196.254:44605/bin.sh
 226803, 2024-08-28 13:27:20, 2024-08-28 13:27:20, malware, b3a7da40e37340f1bc05531dcafdf44b, http://125.44.54.208:36023/i
 226802, 2024-08-28 13:27:08, 2024-08-28 13:27:08, malware, 78f622cc3b854cb5b62ea34b6d8f95e5, http://123.5.184.110:46852/i
-226801, 2024-08-28 13:27:06, 2024-08-28 13:27:06, malware, eab42718523e4e2d9e50a5e73800e6c9, http://123.11.202.99:54479/bin.sh
-226800, 2024-08-28 13:27:05, 2024-08-28 13:27:05, malware, 2290f901129343c2a7cd9f1e6528fdb7, http://123.10.141.42:59718/
-226799, 2024-08-28 13:26:43, 2024-08-28 13:26:43, malware, 0ca970f6e5434dae9efaeeb32807e915, http://119.179.215.86:44858/i
-226798, 2024-08-28 13:25:41, 2024-08-28 13:25:41, malware, c4481b9c4bb84bef9efb4c63ac73e852, http://117.253.104.228:56172/bin.sh
-226797, 2024-08-28 13:25:39, 2024-08-28 13:25:39, malware, b6ce733b053442569602b419fa80a15c, http://117.252.33.247:53454/i
-226796, 2024-08-28 13:25:37, 2024-08-28 13:25:37, malware, 1a8bdf8f66ff42339fe9e48d7892eeae, http://117.251.168.163:34190/Mozi.m
-226795, 2024-08-28 13:25:35, 2024-08-28 13:25:35, malware, 42d7305cd32c48829904b85e3d953788, http://117.248.46.186:41070/Mozi.m
-226794, 2024-08-28 13:25:04, 2024-08-28 13:25:04, malware, dc5cc28a9e6b46fa8ddc2a83c83667ab, http://117.248.164.255:53734/bin.sh
