@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-29 20:00:01 UTC
+# UPDATE: 2024-08-29 21:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+227747, 2024-08-29 20:30:10, 2024-08-29 20:30:10, phishing, 11f26be057b38413597f054790af0de7, http://gogkeduasdjhfplcdfhgweacdf03.pages.dev
+227746, 2024-08-29 20:10:15, 2024-08-29 20:10:15, phishing, c99966e13f9cc0bd9e60794e0afea97d, http://direct-revshares.pages.dev
 227745, 2024-08-29 19:32:20, 2024-08-29 19:32:20, phishing, b41bbe3bdd6e6bdf6716bbe0009a847b, http://wsb-wsapp-llc.com
 227744, 2024-08-29 19:26:22, 2024-08-29 19:26:22, malware, d7eb639102d84c5f8e1334b68b4c68ee, http://down.qqfarmer.com.cn/QQHelper_1540.exe
 227743, 2024-08-29 19:26:02, 2024-08-29 19:26:02, malware, 3dc3ae04be35468484805d92d4eff187, http://95.181.173.184/5e0fc67937c1156b/vcruntime140.dll
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 227250, 2024-08-29 05:22:58, 2024-08-29 05:22:58, malware, 18a247efe1a74d62a76902a1587a20cf, http://117.235.244.178:44793/i
 227249, 2024-08-29 05:22:37, 2024-08-29 05:22:37, malware, a5d4b6b801ed4ffd95c933ae73504b68, http://117.235.106.151:45741/Mozi.m
 227248, 2024-08-29 05:22:32, 2024-08-29 05:22:32, malware, e9c01a44f5fb434cbb4f15e5f8c44fbd, http://117.235.104.16:37063/i
-227247, 2024-08-29 05:22:20, 2024-08-29 05:22:20, malware, 1655ac30a8f64f8f8495a4c3e560e364, http://117.220.147.134:33769/i
-227246, 2024-08-29 05:22:18, 2024-08-29 05:22:18, malware, f1c46c5053654c18bbfb2815f9b1d791, http://117.219.125.232:46404/bin.sh
