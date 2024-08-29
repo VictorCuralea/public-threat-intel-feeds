@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-08-29 05:38:00 UTC                        #
+# Last updated: 2024-08-29 14:14:14 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	95entertainment.buzz
+127.0.0.1	92executrix.buzz
+127.0.0.1	www.92executrix.buzz
+127.0.0.1	www.95entertainment.buzz
+127.0.0.1	seznam.hopto.org
 127.0.0.1	suntanynwowqm.shop
 127.0.0.1	shadowqsnqop.shop
 127.0.0.1	tibedowqmwo.shop
@@ -7119,4 +7124,4 @@
 127.0.0.1	varinspector.com
 127.0.0.1	888juantriana88.dynuddns.net
 127.0.0.1	30ht.com.w.kunlunpi.com
-# Number of entries: 7113
+# Number of entries: 7118

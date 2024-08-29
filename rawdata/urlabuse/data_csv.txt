@@ -6,9 +6,21 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-29 14:00:01 UTC
+# UPDATE: 2024-08-29 15:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+227565, 2024-08-29 14:44:13, 2024-08-29 14:44:13, phishing, 3394eba1f2981134c70e00cf14cca147, http://bigeyescoin.pages.dev
+227564, 2024-08-29 14:02:36, 2024-08-29 14:02:36, hacked, 3e443fc337ae69935f5c824b6cb15f60, https://vrtechnologiescan.com
+227563, 2024-08-29 14:02:35, 2024-08-29 14:02:35, hacked, 7859f6970f41c4189557772517159700, https://eliteevents-india.com
+227562, 2024-08-29 14:02:31, 2024-08-29 14:02:31, hacked, 2e1f20c8c298b944622b3f00730cc0f6, https://indigenmatrix.com
+227561, 2024-08-29 14:02:27, 2024-08-29 14:02:27, hacked, d49d03ff004e8179df5387fb2367a5f1, https://shieldnationalsecurity.com
+227560, 2024-08-29 14:02:26, 2024-08-29 14:02:26, hacked, 14774135abe25388d2cc39208ee29fff, https://wingsonfire.in
+227559, 2024-08-29 14:02:26, 2024-08-29 14:02:26, hacked, ec1eb49379d39607eda167aac10f2689, https://apiverizon.com/index.html
+227558, 2024-08-29 14:02:23, 2024-08-29 14:02:23, hacked, e4739b426df667354e51f762f7a59008, https://millserve.in
+227557, 2024-08-29 14:02:15, 2024-08-29 14:02:15, hacked, 4304513737ec654c2cb9952556e73f96, https://atechin.in
+227556, 2024-08-29 14:02:14, 2024-08-29 14:02:14, hacked, fa33e1055639d1982ca0ad5469ccb7d5, https://accutechitsolutions.com
+227555, 2024-08-29 14:02:14, 2024-08-29 14:02:14, hacked, 83e74643e1eb3c748eac37735e5421ad, http://whitebox.lanner-america.dev.dream.website/wp-content/uploads/2024/08/hai.html
+227554, 2024-08-29 14:02:14, 2024-08-29 14:02:14, hacked, 6f31cdc2d0714c570134910bd29f46c6, http://www.cenapduzgun.com.tr/wp-content/uploads/2020/07/Ir.html
 227553, 2024-08-29 13:45:49, 2024-08-29 13:36:13, phishing, 7c46cdb66fae541820f8ef727e93c3d3, https://direction.formstack.com/forms/direct_fr
 227552, 2024-08-29 13:31:09, 2024-08-29 10:24:58, phishing, 08418d1c4674675bef6861b1287a4e40, https://draconian.website/_omanbre_omni/zone/7d9a0d11cb36e12a68817aff945390de/login.php?login&_x_tr_sl=auto&_x_tr_tl=null&_x_tr_hl=null&_x_tr_pto=wapp&request_type=null&no_redrct=null&pcnt=null&no_psplash=null&pmax=null
 227551, 2024-08-29 13:29:18, 2024-08-29 10:20:47, phishing, eec91e7fe25b17385406e8a0c877cc54, https://redtrain.top/offiperry?login=x
@@ -497,15 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 227068, 2024-08-28 21:24:50, 2024-08-28 21:24:50, malware, 7d40c79f7d5947e7b0522ceddf20e28c, http://61.53.117.199:37139/i
 227067, 2024-08-28 21:24:39, 2024-08-28 21:24:39, malware, aa29b003169b45e89c1b1c401fab0f0c, http://61.0.216.165:52626/Mozi.m
 227066, 2024-08-28 21:24:07, 2024-08-28 21:24:07, malware, 309aec39da1c41e9a36bd56261e04360, http://59.93.186.112:54285/i
-227065, 2024-08-28 21:23:45, 2024-08-28 21:23:45, malware, aa84c27476d943c38eb72a66b5c31828, http://59.88.238.31:47229/bin.sh
-227064, 2024-08-28 21:23:44, 2024-08-28 21:23:44, malware, e5339415455c44debe8d3b6bfcbc9568, http://59.88.13.238:55433/bin.sh
-227063, 2024-08-28 21:23:42, 2024-08-28 21:23:42, malware, e0c99fb1ab0e4e1d8e6cd1e6c974ac61, http://59.184.251.57:59582/Mozi.m
-227062, 2024-08-28 21:23:41, 2024-08-28 21:23:41, malware, c2059f39d10c4de18b9fd14bf153d73a, http://59.183.118.24:60332/Mozi.m
-227061, 2024-08-28 21:23:35, 2024-08-28 21:23:35, malware, 8c741b04917d462c908a36c94114e7c2, http://59.183.103.37:34161/Mozi.m
-227060, 2024-08-28 21:23:32, 2024-08-28 21:23:32, malware, f5dd0f0849f94c04baa6ed976bb9a7c5, http://42.239.235.201:37641/bin.sh
-227059, 2024-08-28 21:23:31, 2024-08-28 21:23:31, malware, fa3b59abd56643b7be1fb94cc25a0330, http://42.237.58.145:55932/i
-227058, 2024-08-28 21:23:29, 2024-08-28 21:23:29, malware, dc0a7fc90d204c369ead607000a2488e, http://42.236.222.94:60424/bin.sh
-227057, 2024-08-28 21:23:18, 2024-08-28 21:23:18, malware, 8815b778c35748488168ffb6141a9fa0, http://42.230.62.107:38576/bin.sh
-227056, 2024-08-28 21:23:16, 2024-08-28 21:23:16, malware, de31d9743d6445bbbc3bad19cd1d8a5a, http://42.224.68.75:55906/bin.sh
-227055, 2024-08-28 21:23:04, 2024-08-28 21:23:04, malware, e4af037fae2e4de18ead0cc8a3174640, http://39.78.33.27:54804/i
-227054, 2024-08-28 21:23:02, 2024-08-28 21:23:02, malware, 3fb8cc00997d41a6aefd2b0510e3cb33, http://39.78.33.27:54804/bin.sh
