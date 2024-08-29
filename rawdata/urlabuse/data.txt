@@ -6,8 +6,10 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-29 00:00:01 UTC
+# UPDATE: 2024-08-29 01:00:02 UTC
 ############### END COMMENTS ###############
+{"id": 227126, "url": "http://worker-mute-dew-73f4.vayaso9980.workers.dev", "discovery": "2024-08-29 00:22:13", "added": "2024-08-29 00:22:13", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "8db32cd834691449004fe0dba9aebf4c"}
+{"id": 227125, "url": "http://telegramgroupinvitexxxx.pages.dev", "discovery": "2024-08-29 00:00:13", "added": "2024-08-29 00:00:13", "target": "Telegram", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "21aea431bd7e49d15fc88884c832d292"}
 {"id": 227124, "url": "http://connexindeora.duckdns.org", "discovery": "2024-08-28 23:44:15", "added": "2024-08-28 23:44:15", "target": "Orange", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "a2d562a7ef80306997b8bbbba22d0e09"}
 {"id": 227123, "url": "http://69.117.23.50:50207/i", "discovery": "2024-08-28 23:25:03", "added": "2024-08-28 23:25:03", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "99f1d3bace0141ada4241cb63d07531f"}
 {"id": 227122, "url": "http://61.53.34.244:43679/", "discovery": "2024-08-28 23:25:01", "added": "2024-08-28 23:25:01", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "de0ef99ba1f142f6b7e681e7593d00f9"}
@@ -506,5 +508,3 @@
 {"id": 226629, "url": "http://212.60.5.174/.criptonize.armv4l", "discovery": "2024-08-28 07:23:36", "added": "2024-08-28 07:23:36", "target": "#ELF32ARM_v1", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "7b9dd7ddd39d44e9ba23d57877255cfb"}
 {"id": 226628, "url": "http://212.60.5.174/.criptonize.arc700", "discovery": "2024-08-28 07:23:34", "added": "2024-08-28 07:23:34", "target": "#ELF32SYNOPSYS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "450bfd1be0614f9c8593135b78c0bea4"}
 {"id": 226627, "url": "http://196.191.66.189:57219/i", "discovery": "2024-08-28 07:23:31", "added": "2024-08-28 07:23:31", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "5525084017e04a08bdcdd35a1c58af96"}
-{"id": 226626, "url": "http://185.215.113.26/exbuild.exe", "discovery": "2024-08-28 07:23:29", "added": "2024-08-28 07:23:29", "target": "#PE32INTEL_GUI", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "64fba1f422614dde9623fb8d742233e1"}
-{"id": 226625, "url": "http://182.127.127.113:36003/i", "discovery": "2024-08-28 07:23:27", "added": "2024-08-28 07:23:27", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "893629390aac4eed9f28b856e876ee38"}

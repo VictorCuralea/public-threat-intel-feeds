@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-29 00:00:01 UTC
+# UPDATE: 2024-08-29 01:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+227126, 2024-08-29 00:22:13, 2024-08-29 00:22:13, phishing, 8db32cd834691449004fe0dba9aebf4c, http://worker-mute-dew-73f4.vayaso9980.workers.dev
+227125, 2024-08-29 00:00:13, 2024-08-29 00:00:13, phishing, 21aea431bd7e49d15fc88884c832d292, http://telegramgroupinvitexxxx.pages.dev
 227124, 2024-08-28 23:44:15, 2024-08-28 23:44:15, phishing, a2d562a7ef80306997b8bbbba22d0e09, http://connexindeora.duckdns.org
 227123, 2024-08-28 23:25:03, 2024-08-28 23:25:03, malware, 99f1d3bace0141ada4241cb63d07531f, http://69.117.23.50:50207/i
 227122, 2024-08-28 23:25:01, 2024-08-28 23:25:01, malware, de0ef99ba1f142f6b7e681e7593d00f9, http://61.53.34.244:43679/
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 226629, 2024-08-28 07:23:36, 2024-08-28 07:23:36, malware, 7b9dd7ddd39d44e9ba23d57877255cfb, http://212.60.5.174/.criptonize.armv4l
 226628, 2024-08-28 07:23:34, 2024-08-28 07:23:34, malware, 450bfd1be0614f9c8593135b78c0bea4, http://212.60.5.174/.criptonize.arc700
 226627, 2024-08-28 07:23:31, 2024-08-28 07:23:31, malware, 5525084017e04a08bdcdd35a1c58af96, http://196.191.66.189:57219/i
-226626, 2024-08-28 07:23:29, 2024-08-28 07:23:29, malware, 64fba1f422614dde9623fb8d742233e1, http://185.215.113.26/exbuild.exe
-226625, 2024-08-28 07:23:27, 2024-08-28 07:23:27, malware, 893629390aac4eed9f28b856e876ee38, http://182.127.127.113:36003/i
