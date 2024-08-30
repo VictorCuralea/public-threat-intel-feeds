@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-30 00:00:01 UTC
+# UPDATE: 2024-08-30 01:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+227865, 2024-08-30 00:18:12, 2024-08-30 00:18:12, phishing, 87f0bdd559e75b3d7ffe9add321d4d1b, http://catbainu.pages.dev
+227864, 2024-08-30 00:10:10, 2024-08-30 00:10:10, phishing, 85ecfc52a377d44aa98bbd9f903aba44, http://headlinesponsurditaminationdomainservicecomunicationalsav4.pages.dev
 227863, 2024-08-29 23:48:15, 2024-08-29 23:48:15, phishing, da59c98522fa226e367ffb467cbbfcca, http://fusionsmarthash.pages.dev
 227862, 2024-08-29 23:21:39, 2024-08-29 23:21:39, malware, d37b6c76c3a6472dbb10fe487eaeadb7, http://94.156.71.153/x86
 227861, 2024-08-29 23:21:39, 2024-08-29 23:21:39, malware, 5d0757dd468141ccb52223065d6a6c45, http://94.156.71.153/sparc
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 227365, 2024-08-29 07:28:11, 2024-08-29 07:28:11, malware, 66509214d8b0498f96e2b28880bd60a2, http://221.15.142.253:34671/
 227364, 2024-08-29 07:28:10, 2024-08-29 07:28:10, malware, b661e1f7a732421fb4464c8247dce6a3, http://221.14.10.28:35660/
 227363, 2024-08-29 07:28:02, 2024-08-29 07:28:02, malware, 7a7579e74fed4aa6b5405316e386e5cc, http://182.126.124.56:53268/i
-227362, 2024-08-29 07:28:01, 2024-08-29 07:28:01, malware, 9820ef32fd9f4a0daa05bb06164373e7, http://182.121.87.238:42144/i
-227361, 2024-08-29 07:27:59, 2024-08-29 07:27:59, malware, 9dbaa0baefe64589945ea04fca95154d, http://182.121.132.218:38684/
