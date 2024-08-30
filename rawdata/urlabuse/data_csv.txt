@@ -6,9 +6,18 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-30 14:00:01 UTC
+# UPDATE: 2024-08-30 15:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+228422, 2024-08-30 14:56:15, 2024-08-30 14:56:15, phishing, e5aa88c153aa13bad884ec07d1b7885d, http://nodechain-tradecurve.pages.dev
+228421, 2024-08-30 14:52:14, 2024-08-30 14:52:14, phishing, dde1fdb137312def863572773351a1aa, http://ordivalicheqversa.pages.dev
+228420, 2024-08-30 14:20:16, 2024-08-30 14:20:16, phishing, fedd1bbbde206b60094a1eff980982eb, http://sofaorg.pages.dev
+228419, 2024-08-30 14:02:29, 2024-08-30 14:02:29, hacked, 050f6ee39552ce05e18c09fec20cb11a, http://www.znmeter.com/uploaded_files/file/20240830/20240830174740_49776.html
+228418, 2024-08-30 14:02:27, 2024-08-30 14:02:27, hacked, a84f001de96a2c063d5c238bb2cfb03e, https://www.soravitgranville.com//Public/kindeditor-415/attached/file/20240829/20240829185447_56588.html
+228417, 2024-08-30 14:02:19, 2024-08-30 14:02:19, hacked, e617e94de9808e448bdd554f2a2e1752, https://korbelcareers.wpengine.com/
+228416, 2024-08-30 14:02:15, 2024-08-30 14:02:15, hacked, e4d96c33e9388aee0552313f0046c4e2, https://anomalyenterprise.in
+228415, 2024-08-30 14:02:15, 2024-08-30 14:02:15, hacked, 7ba20f934c34d2fc2da8d7d1f687a82f, https://thaxx.info/yunus.html
+228414, 2024-08-30 14:02:13, 2024-08-30 14:02:13, hacked, 5e94c2cae67509899fd31036914045ed, http://clearintegrations.com/index.html
 228413, 2024-08-30 13:50:52, 2024-08-30 13:36:15, phishing, d4b7d62f22edc4568bce9763602a33a8, https://www.geniusesforhire.com/ONE1/login.php
 228412, 2024-08-30 13:44:14, 2024-08-30 13:44:14, phishing, 87d07ce7278f2089959ecb5fed0bfe06, https://intermediate-acidic-lock.glitch.me/
 228411, 2024-08-30 13:29:17, 2024-08-30 13:29:17, malware, 3ce3f97e008d427da639b7d46f4c15e7, http://61.53.92.200:48916/i
@@ -500,12 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 227925, 2024-08-30 03:22:29, 2024-08-30 03:22:29, malware, f422b818369043e18d96c2c7335a2a48, http://117.213.245.113:41935/i
 227924, 2024-08-30 03:22:07, 2024-08-30 03:22:07, malware, 20e4034bc8df47b0a6948015593280e7, http://117.208.98.135:43750/bin.sh
 227923, 2024-08-30 03:21:24, 2024-08-30 03:21:24, malware, 5748b0f57cdf43e6ae5d103752bbbaa2, http://117.207.180.31:58397/i
-227922, 2024-08-30 03:21:15, 2024-08-30 03:21:15, malware, 46478a0cbd434419ae49ba55769cabb3, http://117.207.180.31:58397/bin.sh
-227921, 2024-08-30 03:20:48, 2024-08-30 03:20:48, malware, f049686fd8c54d2e95eb5f03043f30a0, http://117.200.80.250:59757/bin.sh
-227920, 2024-08-30 03:20:25, 2024-08-30 03:20:25, malware, 482803f6ec0a46bd83c090a76d2890aa, http://115.63.56.66:52079/bin.sh
-227919, 2024-08-30 03:20:23, 2024-08-30 03:20:23, malware, ddfdeb262147445d968746b3d56d5522, http://115.55.245.111:51628/i
-227918, 2024-08-30 03:20:22, 2024-08-30 03:20:22, malware, 3e95a26b98504f42aa578cbbabfc5754, http://115.55.236.204:43725/Mozi.m
-227917, 2024-08-30 03:20:21, 2024-08-30 03:20:21, malware, 093e621cf9c84faea78f51a444269fc5, http://115.52.4.20:34095/i
-227916, 2024-08-30 03:20:19, 2024-08-30 03:20:19, malware, cbeb645d9b314db28c52c88345a32b48, http://115.52.242.33:57496/i
-227915, 2024-08-30 03:20:18, 2024-08-30 03:20:18, malware, 3519a78292514e9c91829fa49600fab8, http://115.50.221.134:47820/Mozi.m
-227914, 2024-08-30 03:20:16, 2024-08-30 03:20:16, malware, 7f910c5ce2dd4812b7900051ed0756d6, http://115.48.33.155:50756/bin.sh
