@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-08-29 18:44:11 UTC                        #
+# Last updated: 2024-08-30 06:36:55 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	carlos1983dc.duckdns.org
+127.0.0.1	michael2009nj.duckdns.org
 127.0.0.1	b.printerconsulting.ru
 127.0.0.1	g.printerconsulting.ru
 127.0.0.1	c.printerconsulting.ru
@@ -7165,4 +7167,4 @@
 127.0.0.1	lkk.collection.aixpirts.com
 127.0.0.1	collection.aixpirts.com
 127.0.0.1	visitclouds.com
-# Number of entries: 7159
+# Number of entries: 7161
