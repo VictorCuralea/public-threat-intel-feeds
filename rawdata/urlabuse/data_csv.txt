@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-30 02:00:02 UTC
+# UPDATE: 2024-08-30 03:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+227912, 2024-08-30 02:46:15, 2024-08-30 02:46:15, phishing, c229160ec1181089500590e8d5ce970f, http://defyseallong.pages.dev
+227911, 2024-08-30 02:44:17, 2024-08-30 02:44:17, phishing, 89d7db11936977395eb8e3b9e09fce6d, http://unizuzadeeper.pages.dev
+227910, 2024-08-30 02:42:13, 2024-08-30 02:42:13, phishing, d3edfd50fd7ab9023c993cc11da3c5e5, http://cdnpan.xx666cr.icu
+227909, 2024-08-30 02:12:17, 2024-08-30 02:12:17, phishing, 4022f8cd328c7bf5eed098cbf30b1537, http://unikibavirtue.pages.dev
 227908, 2024-08-30 01:22:42, 2024-08-30 01:22:42, malware, cd421ef49cfe432eb64c4f728c9def9c, http://61.53.75.40:37874/i
 227907, 2024-08-30 01:22:40, 2024-08-30 01:22:40, malware, bc47e469329245f58d13f9748f1c3e57, http://61.53.75.40:37874/bin.sh
 227906, 2024-08-30 01:22:39, 2024-08-30 01:22:39, malware, 359f1cb25a1f424999c52f1e44d9f01f, http://59.93.22.109:57382/i
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 227412, 2024-08-29 09:24:20, 2024-08-29 09:24:20, malware, 0c8cebb9f4bc44bc9dce75fa33872ae3, http://13.39.160.129/40/MeMpEng.exe
 227411, 2024-08-29 09:24:13, 2024-08-29 09:24:13, malware, 90c6cc91db3546fbac8da562348fa8a0, http://125.44.219.91:34722/i
 227410, 2024-08-29 09:24:01, 2024-08-29 09:24:01, malware, e1da47988ed543939b056726b04236f8, http://123.4.74.240:55426/i
-227409, 2024-08-29 09:24:00, 2024-08-29 09:24:00, malware, 294aa80c93b840f3927971c1a0b9739d, http://123.10.214.73:38671/
-227408, 2024-08-29 09:23:48, 2024-08-29 09:23:48, malware, 9214f231bccf4819b537b61d95d9efbd, http://119.189.239.125:59371/bin.sh
-227407, 2024-08-29 09:23:26, 2024-08-29 09:23:26, malware, acdf8e7478344c708278d127499eddb1, http://117.248.171.13:54530/i
-227406, 2024-08-29 09:23:24, 2024-08-29 09:23:24, malware, f57850e2485742849e6893279391baf8, http://117.248.164.77:36307/bin.sh
