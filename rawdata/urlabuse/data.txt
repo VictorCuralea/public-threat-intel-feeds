@@ -6,8 +6,10 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-30 08:00:01 UTC
+# UPDATE: 2024-08-30 09:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 228140, "url": "http://tokp.app", "discovery": "2024-08-30 08:54:19", "added": "2024-08-30 08:54:19", "target": "Token Pocket", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "1fa06514ef70eeb13f27f4461b7d4fae"}
+{"id": 228139, "url": "http://inianjoin.lol", "discovery": "2024-08-30 08:18:13", "added": "2024-08-30 08:18:13", "target": "Telegram", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "2234ae35e3e8c14d8de1a43a9dbd16cf"}
 {"id": 228138, "url": "http://61.3.220.225:38023/Mozi.m", "discovery": "2024-08-30 07:27:04", "added": "2024-08-30 07:27:04", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "9ae54c89d72841929cd90a6450f386df"}
 {"id": 228137, "url": "http://61.0.183.131:55535/bin.sh", "discovery": "2024-08-30 07:27:02", "added": "2024-08-30 07:27:02", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "8393ea7a71574d348f771a7002cd4570"}
 {"id": 228136, "url": "http://59.97.124.172:50412/i", "discovery": "2024-08-30 07:26:50", "added": "2024-08-30 07:26:50", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "6bb282088933434ea6e7c9592af4d3a6"}
@@ -506,5 +508,3 @@
 {"id": 227640, "url": "https://grantell.pages.dev/id", "discovery": "2024-08-29 15:28:13", "added": "2024-08-29 16:50:54", "target": "Facebook", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "7c714ccdeb6f309fe86c17d47b971fcd"}
 {"id": 227639, "url": "http://c1eint.1oqin-wps-cloud.workers.dev", "discovery": "2024-08-29 16:40:12", "added": "2024-08-29 16:40:12", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "dfb8477782b397dfe740477456e07fb1"}
 {"id": 227638, "url": "http://droitsetdemarches.com", "discovery": "2024-08-29 16:38:11", "added": "2024-08-29 16:38:11", "target": "FR-GOV", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "0858a23b52f723e27e87d065e63f875e"}
-{"id": 227637, "url": "https://pub-c922f112ea8a4e3894943aa9d3e03b49.r2.dev/AutoMail.html", "discovery": "2024-08-29 16:16:14", "added": "2024-08-29 16:16:14", "target": "Generic Email", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "06dd0c6a7b392b20e30eaddcf3d86362"}
-{"id": 227636, "url": "http://tp.ch56789.com", "discovery": "2024-08-29 16:14:14", "added": "2024-08-29 16:14:14", "target": "Token Pocket", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "961efab56766a171983aeccbb82f46e2"}

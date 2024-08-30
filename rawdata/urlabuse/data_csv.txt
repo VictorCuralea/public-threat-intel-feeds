@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-30 08:00:01 UTC
+# UPDATE: 2024-08-30 09:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+228140, 2024-08-30 08:54:19, 2024-08-30 08:54:19, phishing, 1fa06514ef70eeb13f27f4461b7d4fae, http://tokp.app
+228139, 2024-08-30 08:18:13, 2024-08-30 08:18:13, phishing, 2234ae35e3e8c14d8de1a43a9dbd16cf, http://inianjoin.lol
 228138, 2024-08-30 07:27:04, 2024-08-30 07:27:04, malware, 9ae54c89d72841929cd90a6450f386df, http://61.3.220.225:38023/Mozi.m
 228137, 2024-08-30 07:27:02, 2024-08-30 07:27:02, malware, 8393ea7a71574d348f771a7002cd4570, http://61.0.183.131:55535/bin.sh
 228136, 2024-08-30 07:26:50, 2024-08-30 07:26:50, malware, 6bb282088933434ea6e7c9592af4d3a6, http://59.97.124.172:50412/i
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 227640, 2024-08-29 16:50:54, 2024-08-29 15:28:13, phishing, 7c714ccdeb6f309fe86c17d47b971fcd, https://grantell.pages.dev/id
 227639, 2024-08-29 16:40:12, 2024-08-29 16:40:12, phishing, dfb8477782b397dfe740477456e07fb1, http://c1eint.1oqin-wps-cloud.workers.dev
 227638, 2024-08-29 16:38:11, 2024-08-29 16:38:11, phishing, 0858a23b52f723e27e87d065e63f875e, http://droitsetdemarches.com
-227637, 2024-08-29 16:16:14, 2024-08-29 16:16:14, phishing, 06dd0c6a7b392b20e30eaddcf3d86362, https://pub-c922f112ea8a4e3894943aa9d3e03b49.r2.dev/AutoMail.html
-227636, 2024-08-29 16:14:14, 2024-08-29 16:14:14, phishing, 961efab56766a171983aeccbb82f46e2, http://tp.ch56789.com
