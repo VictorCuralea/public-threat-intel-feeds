@@ -6,8 +6,11 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-30 18:00:02 UTC
+# UPDATE: 2024-08-30 19:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 228562, "url": "https://ghgggb.weebly.com", "discovery": "2024-08-30 18:31:38", "added": "2024-08-30 18:31:38", "target": "Microsoft", "reporter": "urlabuse", "AbuseType": "phishing", "UUID": "527f227894e2907d69bfb0c62d59c5e8"}
+{"id": 228561, "url": "https://beacons.ai/mac10c8", "discovery": "2024-08-30 17:04:14", "added": "2024-08-30 18:31:27", "target": "Microsoft", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "9ad212b51e26322999f782c11f712c97"}
+{"id": 228560, "url": "https://lwk.lil.mybluehost.me/wp-content/CH/SuissePass/api/aa/d/sign.php", "discovery": "2024-08-30 18:18:13", "added": "2024-08-30 18:18:13", "target": "SwissPass", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "548c1a86335ead0186b2d33e110b0ff7"}
 {"id": 228559, "url": "https://mnhappysoft.com/files/", "discovery": "2024-08-30 17:48:19", "added": "2024-08-30 17:48:19", "target": "DHL", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "0fc50893f4feb5a2fb37ba9580e93bf8"}
 {"id": 228558, "url": "http://nnbtr.pages.dev", "discovery": "2024-08-30 17:48:15", "added": "2024-08-30 17:48:15", "target": "Whatsapp", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "b848c6dc8535eea9f021de836263415c"}
 {"id": 228557, "url": "http://94.30.149.7:60828/i", "discovery": "2024-08-30 17:29:20", "added": "2024-08-30 17:29:20", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "2762dc5710b54d28b943e5c622e691fe"}
@@ -505,6 +508,3 @@
 {"id": 228065, "url": "https://tenders.dev/", "discovery": "2024-08-30 06:02:56", "added": "2024-08-30 06:02:56", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "76444b4fab8eec3db01045748252523d"}
 {"id": 228064, "url": "http://apacz.erizo.site", "discovery": "2024-08-30 06:02:56", "added": "2024-08-30 06:02:56", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "2dad59694d849a4366d2129e9b514000"}
 {"id": 228063, "url": "http://ayuga.erizo.site", "discovery": "2024-08-30 06:02:56", "added": "2024-08-30 06:02:56", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "cf26cc2d6631ac6578a9c40976bfa994"}
-{"id": 228062, "url": "http://whitebox.erizo.site", "discovery": "2024-08-30 06:02:54", "added": "2024-08-30 06:02:54", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "811ab10af068f36dda76eca7d8689f26"}
-{"id": 228061, "url": "https://apihub.cloudns.ch/", "discovery": "2024-08-30 06:02:50", "added": "2024-08-30 06:02:50", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "634898e6512b2ac863b9c3ef12eddf75"}
-{"id": 228060, "url": "https://programs.lat/", "discovery": "2024-08-30 06:02:48", "added": "2024-08-30 06:02:48", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "e5c5bbb91a33437772113a6919b6b30a"}
