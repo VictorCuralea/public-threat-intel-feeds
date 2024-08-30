@@ -6,8 +6,9 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-30 04:00:01 UTC
+# UPDATE: 2024-08-30 05:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 227987, "url": "http://playground-worker-red-glade-f921.omarquais21.workers.dev", "discovery": "2024-08-30 04:38:14", "added": "2024-08-30 04:38:14", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "31a7b5dc414359ad0d8918c2e8601614"}
 {"id": 227986, "url": "https://telegrern.icu/?8a18ab92c44a9607e8cddc31d16d5729", "discovery": "2024-08-30 03:34:18", "added": "2024-08-30 03:34:18", "target": "Telegram", "reporter": "lrucbotd", "AbuseType": "phishing", "UUID": "cebb8e7bee291b18e939cb09991e09aa"}
 {"id": 227985, "url": "https://b4b43d20cb13a367a63930616fbe809a.if0r9.sbs:9001/?b4b43d20cb13a367a63930616fbe809a", "discovery": "2024-08-30 03:32:21", "added": "2024-08-30 03:32:21", "target": "Telegram", "reporter": "lrurayd", "AbuseType": "phishing", "UUID": "2f2b29fcfb077832a3398343cd96dc5a"}
 {"id": 227984, "url": "http://talegrern.com", "discovery": "2024-08-30 03:32:17", "added": "2024-08-30 03:32:17", "target": "Telegram", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "e2fc24c9c9be3004d30d841deb31bbe7"}
@@ -507,4 +508,3 @@
 {"id": 227487, "url": "http://27.215.120.252:60343/bin.sh", "discovery": "2024-08-29 11:24:51", "added": "2024-08-29 11:24:51", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "978c60c7ba024689892f090b49ede3bb"}
 {"id": 227486, "url": "http://27.213.211.234:53321/bin.sh", "discovery": "2024-08-29 11:24:49", "added": "2024-08-29 11:24:49", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "43132ef76c4742708fb5fcc104ee5009"}
 {"id": 227485, "url": "http://27.207.66.85:38538/i", "discovery": "2024-08-29 11:24:48", "added": "2024-08-29 11:24:48", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "7319c36732244005b319980e0703b7b3"}
-{"id": 227484, "url": "http://222.141.133.207:59833/i", "discovery": "2024-08-29 11:24:46", "added": "2024-08-29 11:24:46", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "0cf8045a016c438c83e180a7ae520a71"}

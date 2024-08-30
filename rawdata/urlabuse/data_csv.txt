@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-30 04:00:01 UTC
+# UPDATE: 2024-08-30 05:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+227987, 2024-08-30 04:38:14, 2024-08-30 04:38:14, phishing, 31a7b5dc414359ad0d8918c2e8601614, http://playground-worker-red-glade-f921.omarquais21.workers.dev
 227986, 2024-08-30 03:34:18, 2024-08-30 03:34:18, phishing, cebb8e7bee291b18e939cb09991e09aa, https://telegrern.icu/?8a18ab92c44a9607e8cddc31d16d5729
 227985, 2024-08-30 03:32:21, 2024-08-30 03:32:21, phishing, 2f2b29fcfb077832a3398343cd96dc5a, https://b4b43d20cb13a367a63930616fbe809a.if0r9.sbs:9001/?b4b43d20cb13a367a63930616fbe809a
 227984, 2024-08-30 03:32:17, 2024-08-30 03:32:17, phishing, e2fc24c9c9be3004d30d841deb31bbe7, http://talegrern.com
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 227487, 2024-08-29 11:24:51, 2024-08-29 11:24:51, malware, 978c60c7ba024689892f090b49ede3bb, http://27.215.120.252:60343/bin.sh
 227486, 2024-08-29 11:24:49, 2024-08-29 11:24:49, malware, 43132ef76c4742708fb5fcc104ee5009, http://27.213.211.234:53321/bin.sh
 227485, 2024-08-29 11:24:48, 2024-08-29 11:24:48, malware, 7319c36732244005b319980e0703b7b3, http://27.207.66.85:38538/i
-227484, 2024-08-29 11:24:46, 2024-08-29 11:24:46, malware, 0cf8045a016c438c83e180a7ae520a71, http://222.141.133.207:59833/i
