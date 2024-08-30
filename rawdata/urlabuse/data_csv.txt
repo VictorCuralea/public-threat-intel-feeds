@@ -6,9 +6,15 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-30 22:00:02 UTC
+# UPDATE: 2024-08-30 23:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+228696, 2024-08-30 22:52:14, 2024-08-30 22:52:14, phishing, 282622740b8347a7abe46292a395651e, http://matchfarecloud.pages.dev
+228695, 2024-08-30 22:02:27, 2024-08-30 22:02:27, hacked, a12dbd8f823e0968462fa2e21d319b72, https://fb.mikerashid.com/wp-content/themes/seotheme/MA.html
+228694, 2024-08-30 22:02:25, 2024-08-30 22:02:25, hacked, 9242d63aedacce4ea0b6def04d79258e, https://tedcruzstore.stumptrunk.com/wp-content/themes/seotheme/MA.html
+228693, 2024-08-30 22:02:21, 2024-08-30 22:02:21, hacked, 611287b951980b0055998d4ba5052b5b, https://yirika.com/wp-content/themes/pridmag/MA.html
+228692, 2024-08-30 22:02:19, 2024-08-30 22:02:19, hacked, 076acf1e4605c3075f94c9c95b6068ba, https://ersasporkulubu.com
+228691, 2024-08-30 22:02:13, 2024-08-30 22:02:13, phishing, 67cb0cbdfe1bee03bac2d1167ed751c5, https://wanieyayang-viralz.t-mee.com/
 228690, 2024-08-30 21:25:26, 2024-08-30 21:25:26, malware, b3f0fa4361a74c10aeaffe3a0746ae3c, http://85.105.76.45:34049/i
 228689, 2024-08-30 21:25:23, 2024-08-30 21:25:23, malware, 707c5522b85341a6bbfd3ae18ace223c, http://85.105.76.45:34049/bin.sh
 228688, 2024-08-30 21:25:18, 2024-08-30 21:25:18, malware, 97898bf711be45dca69433ea665ff286, http://61.53.95.93:59590/i
@@ -503,9 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 228199, 2024-08-30 09:28:47, 2024-08-30 09:28:47, malware, d51630aeb7cc435a9457b04f2d93e280, http://69.117.23.50:50207/Mozi.m
 228198, 2024-08-30 09:28:45, 2024-08-30 09:28:45, malware, 2b85db7d1c97487f9bbd7d259794d527, http://61.53.86.242:49801/i
 228197, 2024-08-30 09:28:43, 2024-08-30 09:28:43, malware, 15c06663614149139608dd35bdaeb892, http://61.53.86.242:49801/bin.sh
-228196, 2024-08-30 09:28:41, 2024-08-30 09:28:41, malware, 637bbcd333b044729873f55cdddfb81d, http://61.52.80.161:34632/
-228195, 2024-08-30 09:28:20, 2024-08-30 09:28:20, malware, 53b20cf11a2e48c586b1191440e0fc08, http://61.3.104.151:33332/bin.sh
-228194, 2024-08-30 09:28:18, 2024-08-30 09:28:18, malware, 14dcc5d3144a4cd2b2c191a2532caa38, http://60.6.160.41:40167/bin.sh
-228193, 2024-08-30 09:28:06, 2024-08-30 09:28:06, malware, 7375b77017574b65be7ec5ca3c0ddc87, http://59.99.204.227:50771/bin.sh
-228192, 2024-08-30 09:28:01, 2024-08-30 09:28:01, malware, 570edcb08b494ea5be3f26510de0f0ca, http://59.93.20.231:52299/bin.sh
-228191, 2024-08-30 09:27:32, 2024-08-30 09:27:32, malware, c07fd526f0204224a81ae2ad4936776b, http://59.92.87.108:59721/i
