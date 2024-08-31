@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-31 20:00:01 UTC
+# UPDATE: 2024-08-31 21:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+229385, 2024-08-31 20:50:12, 2024-08-31 20:50:12, phishing, 738dd7d648c3fcd662052266ebc2f143, http://adminippwosknncjdjksijidjksjkjvnvjvnzjrjjjkdjvjjvhvhvffjf.pages.dev
+229384, 2024-08-31 20:34:11, 2024-08-31 20:34:11, phishing, eb471d8d28b92c89196eeb2abc9ed1fb, http://0utl00k.d831920d2024835a5639f55.workers.dev
+229383, 2024-08-31 20:32:16, 2024-08-31 20:32:16, phishing, e546bd54f4f8e2353304c5dcb00cd7c7, http://claimmetamask.dexhemi.com
 229382, 2024-08-31 19:52:17, 2024-08-31 19:52:17, phishing, 0e07588dfd7bd364171844d22578afab, http://superverse.pages.dev
 229381, 2024-08-31 19:34:15, 2024-08-31 19:34:15, phishing, 8e6c444e2383d3ee061cda997a7f362a, http://nbnb-363.pages.dev
 229380, 2024-08-31 19:32:10, 2024-08-31 19:32:10, phishing, 4b246b3493b66e6ff157126c214239fe, http://mxsrft2ebe.d0cuusigne1x1.workers.dev
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 228888, 2024-08-31 05:24:11, 2024-08-31 05:24:11, malware, dd2456f7f8314b58930d901f7b82b3d9, http://119.179.255.194:34498/bin.sh
 228887, 2024-08-31 05:24:09, 2024-08-31 05:24:09, malware, be197ed6c18c41ef8d507e9f5a0f91d8, http://119.179.253.115:54130/bin.sh
 228886, 2024-08-31 05:24:08, 2024-08-31 05:24:08, malware, bb0f53191e0743e7a3308136c3e25e3c, http://117.254.183.65:57285/i
-228885, 2024-08-31 05:24:06, 2024-08-31 05:24:06, malware, 8df80a6104e04f439f2476139763e224, http://117.254.183.65:57285/bin.sh
-228884, 2024-08-31 05:24:01, 2024-08-31 05:24:01, malware, bfeb74daed244e16a3cd96257f3ff6a1, http://117.253.7.15:56350/bin.sh
-228883, 2024-08-31 05:23:18, 2024-08-31 05:23:18, malware, a3c60d68b17b4712a72a33356ded89d2, http://117.245.38.73:56686/i
