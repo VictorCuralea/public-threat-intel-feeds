@@ -6,9 +6,14 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-31 02:00:01 UTC
+# UPDATE: 2024-08-31 03:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+228803, 2024-08-31 02:44:16, 2024-08-31 02:44:16, phishing, cb22fec471be5ed8f74e4d48a5fcc076, http://refilsigbrand.pages.dev
+228802, 2024-08-31 02:34:11, 2024-08-31 02:34:11, phishing, 0008c04c971f4ea13eb0db2baab929f0, http://beautifuluniverse.chancellor-wfsch.workers.dev
+228801, 2024-08-31 02:34:10, 2024-08-31 02:34:10, phishing, eccbccc02c69b071a39d6713180824bc, http://beautifuluniverse.chancellor-wfsch.workers.dev
+228800, 2024-08-31 02:34:10, 2024-08-31 02:34:10, phishing, 3dce4fb59c1e17b2fd4189f3a6c06e1d, http://securedachfile3.pages.dev
+228799, 2024-08-31 02:24:12, 2024-08-31 02:24:12, phishing, 0c7229f863819a49cd72809ec2767e28, http://mailresetenofiicechangeupdateqhdywwwwwqyssbajfkfjwkfhdhhtt.pages.dev
 228798, 2024-08-31 01:24:11, 2024-08-31 01:24:11, malware, 00ed0912e0ef46bc8b2b6e8cf0dbaf46, http://95.47.234.12:50702/Mozi.m
 228797, 2024-08-31 01:24:07, 2024-08-31 01:24:07, malware, 79250124ad964243a1f1d2432074e7be, http://61.53.140.222:49983/Mozi.m
 228796, 2024-08-31 01:24:05, 2024-08-31 01:24:05, malware, c723f05c45764b7e95bd40b53895cf8b, http://61.0.181.115:35217/i
@@ -504,8 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 228306, 2024-08-30 11:23:12, 2024-08-30 11:23:12, malware, 2e982716b2564f55b49722e81c2cd6be, http://125.41.245.181:34111/
 228305, 2024-08-30 11:23:11, 2024-08-30 11:23:11, malware, 776c3dd5de4c4510ad15635d8069c833, http://124.131.147.140:39024/Mozi.m
 228304, 2024-08-30 11:23:09, 2024-08-30 11:23:09, malware, 734dc289b2414cb984e3eb86b0f9b92d, http://123.4.201.14:42431/i
-228303, 2024-08-30 11:22:37, 2024-08-30 11:22:37, malware, 22ffc75e648b4e099292c556401d77b1, http://120.56.2.1:38701/bin.sh
-228302, 2024-08-30 11:22:35, 2024-08-30 11:22:35, malware, d8d895cb9d524daaa7f828b4b8ec1a9a, http://120.211.69.86:59556/bin.sh
-228301, 2024-08-30 11:22:33, 2024-08-30 11:22:33, malware, f4705bf9009f4564adc7b2b319ce42e8, http://117.253.168.110:41714/i
-228300, 2024-08-30 11:22:21, 2024-08-30 11:22:21, malware, 31368a18813a4d1b95bb3a8ee57b6bdf, http://117.253.100.16:39123/bin.sh
-228299, 2024-08-30 11:21:59, 2024-08-30 11:21:59, malware, 928eba0e13404d7983cacb1bddc10e5d, http://117.217.36.159:52305/bin.sh
