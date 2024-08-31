@@ -6,9 +6,15 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-31 12:00:01 UTC
+# UPDATE: 2024-08-31 13:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+229157, 2024-08-31 12:16:14, 2024-08-31 12:16:14, phishing, c736b1c4c290c7fa7a98e1d98269501d, http://download.clonemyunrealworld.workers.dev
+229156, 2024-08-31 12:14:19, 2024-08-31 12:14:19, phishing, abcd7f79050cb686fb27bb55604708e4, http://appid-cc.com
+229155, 2024-08-31 12:10:16, 2024-08-31 12:10:16, phishing, ab66c6b2f12bbf9fe19f97cbe6d8372f, http://renouvelement-ameii.com
+229154, 2024-08-31 12:10:16, 2024-08-31 12:10:16, phishing, ef094f17957ff7610dd94f3ce8503a74, http://renouvellement-vitale-ameii.com
+229153, 2024-08-31 12:08:15, 2024-08-31 12:08:15, phishing, dfd830a9692bcf406542202c0a6f41a6, http://renouvellement-maladie.com
+229152, 2024-08-31 12:08:15, 2024-08-31 12:08:15, phishing, 9749697ca82adb3f01f7356580e28239, http://yesbox.yesbox.workers.dev
 229151, 2024-08-31 11:54:17, 2024-08-31 11:54:17, phishing, d150987648e80bbe18d7452be05e2534, https://info.aquacontrol.gr/
 229150, 2024-08-31 11:46:13, 2024-08-31 11:46:13, phishing, 5fdb39f6b711a90734944c42ef7441cb, http://madeeasygoingslogan2.pages.dev
 229149, 2024-08-31 11:28:06, 2024-08-31 11:28:06, malware, 51f48811d8744e358229409ae724a347, http://61.53.87.17:34084/i
@@ -503,9 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 228660, 2024-08-30 21:22:15, 2024-08-30 21:22:15, malware, 2b298e80667c4add99d0323227c71d5d, http://117.248.28.255:51035/i
 228659, 2024-08-30 21:21:53, 2024-08-30 21:21:53, malware, 4b382cc19f0c45a2908d98acd2bb3093, http://117.245.44.171:59810/
 228658, 2024-08-30 21:21:50, 2024-08-30 21:21:50, malware, 47b1f01c14f243cf808772df567681dc, http://117.245.43.205:48900/Mozi.m
-228657, 2024-08-30 21:21:45, 2024-08-30 21:21:45, malware, 797e934f1c8d4d47a188fd4cde5b911b, http://117.220.59.127:47700/i
-228656, 2024-08-30 21:21:36, 2024-08-30 21:21:36, malware, ae0d91f9241a424cb74d0865adb06307, http://117.217.207.39:43946/bin.sh
-228655, 2024-08-30 21:21:21, 2024-08-30 21:21:21, malware, 373e0ef5d3664099ba9ee165acbea119, http://117.214.14.233:58208/bin.sh
-228654, 2024-08-30 21:21:15, 2024-08-30 21:21:15, malware, 340888c7a2ed4048abcc8930234f96fb, http://117.211.226.129:55077/i
-228653, 2024-08-30 21:21:13, 2024-08-30 21:21:13, malware, 32c085bb9a164c61a8037db4fc06a128, http://117.210.203.39:41457/i
-228652, 2024-08-30 21:21:01, 2024-08-30 21:21:01, malware, 92db15c6494e49cb9aebd490d9dd98b7, http://117.205.59.203:55121/bin.sh
