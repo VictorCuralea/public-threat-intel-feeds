@@ -6,9 +6,16 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-31 10:00:02 UTC
+# UPDATE: 2024-08-31 11:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+229091, 2024-08-31 10:38:02, 2024-08-31 10:38:02, phishing, 6a2d297c06cf67f586d0b22f940e194d, https://btcommsconnect.weebly.com
+229090, 2024-08-31 10:37:45, 2024-08-31 09:26:16, phishing, 6ebf4d90a5ea6875af39806a3ee95cf6, https://btcommsconnect.atlassian.net/wiki/external/YjRiMmRjOTM2M2IyNDdlMGFlN2VhMzY5ZjIyZmM1NDU
+229089, 2024-08-31 10:37:15, 2024-08-31 10:37:15, phishing, 98058de504532eb1bb53a16081fc354c, https://bt-supp0rt-1nfo.weeblysite.com
+229088, 2024-08-31 10:36:42, 2024-08-31 09:06:13, phishing, 1cb0baf0503f785fbdbb3ad2b818bc27, https://bt-supp0rt-24.framer.website/
+229087, 2024-08-31 10:12:10, 2024-08-31 10:12:10, phishing, 90e04c38d9bba32fe37cfb8329824044, http://order-info-here-7ov.pages.dev
+229086, 2024-08-31 10:10:15, 2024-08-31 10:10:15, phishing, 96f88f482377b73089922f2ae41dd129, http://alisonfreevideos.pages.dev
+229085, 2024-08-31 10:02:24, 2024-08-31 10:02:24, phishing, c71f31475409c77ed9c7796d207dd5f6, https://pb3658.cc:8989/register.html
 229084, 2024-08-31 09:24:53, 2024-08-31 09:24:53, malware, add5f10300b642ca960a414ac820bcf1, http://61.52.32.135:42329/
 229083, 2024-08-31 09:24:51, 2024-08-31 09:24:51, malware, 2ce92253808549128a02fee2d4a4a7e0, http://61.3.136.19:34751/bin.sh
 229082, 2024-08-31 09:24:16, 2024-08-31 09:24:16, malware, 5e3c3fce28d24e2885a1806510d0ea78, http://61.0.178.198:57418/bin.sh
@@ -502,10 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 228594, 2024-08-30 19:23:50, 2024-08-30 19:23:50, malware, 061cbe00dacb4a3bb26bb6bb39a492d2, http://120.60.237.143:44458/
 228593, 2024-08-30 19:23:48, 2024-08-30 19:23:48, malware, 66f770e840f544248d7618e40d6d625d, http://120.211.62.252:50969/i
 228592, 2024-08-30 19:23:46, 2024-08-30 19:23:46, malware, 7f5548ddc10b4cb4bb659b2529217137, http://119.179.254.234:40246/i
-228591, 2024-08-30 19:23:25, 2024-08-30 19:23:25, malware, 32db4af889e44d9abd8c1f7e9626abea, http://117.253.6.57:47407/bin.sh
-228590, 2024-08-30 19:23:23, 2024-08-30 19:23:23, malware, 24b16a71845744d184b24dc2d932cea5, http://117.253.254.54:59475/Mozi.m
-228589, 2024-08-30 19:23:21, 2024-08-30 19:23:21, malware, 35e93f53b5664d1393a3cfd4663567e5, http://117.253.175.55:33177/Mozi.m
-228588, 2024-08-30 19:23:12, 2024-08-30 19:23:12, malware, 4670d1d3934a48018f7b766606218630, http://117.248.162.36:58916/Mozi.m
-228587, 2024-08-30 19:23:10, 2024-08-30 19:23:10, malware, d12460bb7f4f496795a2169d3c3d2314, http://117.245.44.171:59810/i
-228586, 2024-08-30 19:22:52, 2024-08-30 19:22:52, malware, 604c052f028d4ff0b7e02dfb8ddae8bc, http://117.235.97.103:44421/bin.sh
-228585, 2024-08-30 19:22:50, 2024-08-30 19:22:50, malware, 6681d67575494d669457e97fb097560b, http://117.222.254.60:32974/Mozi.m
