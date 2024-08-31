@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-31 18:00:01 UTC
+# UPDATE: 2024-08-31 19:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+229315, 2024-08-31 18:48:15, 2024-08-31 18:48:15, phishing, b37787213a0d9feb9243f329e6a49774, http://matmotokenclaims.pages.dev
+229314, 2024-08-31 18:42:14, 2024-08-31 18:42:14, phishing, 50859b9ab9cb75db318b4deae47a3f4e, http://matmochainclaim.pages.dev
+229313, 2024-08-31 18:06:14, 2024-08-31 18:06:14, phishing, d29a98d73190b87f857e2b6ee4422e9f, http://bbftt.bbftt.workers.dev
 229312, 2024-08-31 17:24:38, 2024-08-31 17:24:38, malware, b092890f84804f2783e6b59da506e5ea, http://61.54.236.87:36452/i
 229311, 2024-08-31 17:24:36, 2024-08-31 17:24:36, malware, 0824dc24d22c453ebbe327f36c75ccd4, http://61.53.198.104:34235/i
 229310, 2024-08-31 17:24:35, 2024-08-31 17:24:35, malware, 5a931ab64b2a450c81b21744e4f2ff74, http://61.53.107.177:42770/bin.sh
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 228818, 2024-08-31 03:21:34, 2024-08-31 03:21:34, malware, 464acdcc15754094ace445bfbef1c73f, http://117.245.38.73:56686/bin.sh
 228817, 2024-08-31 03:21:12, 2024-08-31 03:21:12, phishing, 18db7f1ee9a4c9c9be98456888aa7c5e, https://dvt15.r.ag.d.sendibm3.com/mk/cl/f/sh/OycZvHuFo1eQt9aG0Czwv2jH/CLcjtD4ax_Qj
 228816, 2024-08-31 03:20:54, 2024-08-31 03:20:54, malware, 80ece566217a47da82cc4316b93251e1, http://117.213.243.86:56261/i
-228815, 2024-08-31 03:20:45, 2024-08-31 03:20:45, malware, 79b94e939d4f49059eba6f574e0ecd9d, http://117.213.243.86:56261/bin.sh
-228814, 2024-08-31 03:20:43, 2024-08-31 03:20:43, malware, 19b5234993114ffe89756292c650e528, http://117.213.117.24:54902/i
-228813, 2024-08-31 03:20:31, 2024-08-31 03:20:31, malware, f5c13f6916954b2f9cb05e843bb28e8f, http://117.201.109.179:33608/Mozi.m
