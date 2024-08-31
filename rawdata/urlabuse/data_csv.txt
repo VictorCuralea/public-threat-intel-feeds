@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-08-31 08:00:02 UTC
+# UPDATE: 2024-08-31 09:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+229041, 2024-08-31 08:18:15, 2024-08-31 08:18:15, phishing, 99753f3d326dfee8f53341d1644cc83a, http://tp.token-cn.top
 229040, 2024-08-31 07:32:15, 2024-08-31 07:32:15, phishing, c20d8886161f4fbb991cf0128588bb55, http://teiegrams-a.org
 229039, 2024-08-31 07:30:13, 2024-08-31 07:30:13, phishing, f52525594ff96d62cb89fec7c06842a3, http://teiegrams-es.org
 229038, 2024-08-31 07:28:36, 2024-08-31 07:28:36, malware, e86091b751a84f2bb7e3caba7630bcb2, http://77.94.124.90:38097/i
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 228544, 2024-08-30 17:27:04, 2024-08-30 17:27:04, malware, 7e70452cfe594a2d97eefaf317df4932, http://42.239.254.84:51693/i
 228543, 2024-08-30 17:27:03, 2024-08-30 17:27:03, malware, 98cf230ba20f4c3a83f0e3737c220949, http://42.239.254.84:51693/bin.sh
 228542, 2024-08-30 17:27:01, 2024-08-30 17:27:01, malware, 812aba0cc8a1453da467c1de44207f92, http://42.239.224.212:45140/i
-228541, 2024-08-30 17:26:59, 2024-08-30 17:26:59, malware, 3cbd8e27e6934db184584cf91c117d53, http://42.235.87.88:33863/
