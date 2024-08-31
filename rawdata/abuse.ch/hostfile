@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-08-30 14:10:59 UTC                        #
+# Last updated: 2024-08-31 09:15:58 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	kareemovic11.duckdns.org
 127.0.0.1	villasara974.com
 127.0.0.1	hardshippdiv.shop
 127.0.0.1	locatedblsoqp.shop
@@ -7159,5 +7160,4 @@
 127.0.0.1	intl.ccb.com.w.cdngslb.com
 127.0.0.1	all.mbblitz.net.w.cdngslb.com
 127.0.0.1	udptestsh6062.ialicdn.com.w.cdngslb.com
-127.0.0.1	mrado.kozow.com
 # Number of entries: 7154
