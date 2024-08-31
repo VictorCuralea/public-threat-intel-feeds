@@ -1,11 +1,24 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-08-31 20:35:04 UTC                        #
+# Last updated: 2024-08-31 21:45:51 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	pl-oferta4382762.store
+127.0.0.1	pl-oferta8572401.store
+127.0.0.1	k.funnyyellowpeople.click
+127.0.0.1	funnyyellowpeople.click
+127.0.0.1	a.funnyyellowpeople.click
+127.0.0.1	b.funnyyellowpeople.click
+127.0.0.1	c.funnyyellowpeople.click
+127.0.0.1	d.funnyyellowpeople.click
+127.0.0.1	e.funnyyellowpeople.click
+127.0.0.1	f.funnyyellowpeople.click
+127.0.0.1	g.funnyyellowpeople.click
+127.0.0.1	h.funnyyellowpeople.click
+127.0.0.1	j.funnyyellowpeople.click
 127.0.0.1	c.cookiedough.lol
 127.0.0.1	e.cookiedough.lol
 127.0.0.1	a.cookiedough.lol
@@ -7254,4 +7267,4 @@
 127.0.0.1	varinspector.com
 127.0.0.1	888juantriana88.dynuddns.net
 127.0.0.1	30ht.com.w.kunlunpi.com
-# Number of entries: 7248
+# Number of entries: 7261
