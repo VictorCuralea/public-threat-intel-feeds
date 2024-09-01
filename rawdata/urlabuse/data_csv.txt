@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-01 14:00:01 UTC
+# UPDATE: 2024-09-01 15:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+230003, 2024-09-01 14:18:13, 2024-09-01 14:18:13, phishing, 7deca193a95c8b8a8715e7c0c137b59f, http://xn--atmcxwii-t0aa7nq4cbaa.online
+230002, 2024-09-01 14:10:11, 2024-09-01 14:10:11, phishing, d4b7ed23410e15ea4acb5bf8d26bb971, http://denizlidunyam.com
+230001, 2024-09-01 14:10:10, 2024-09-01 14:10:10, phishing, d52f8e37803915e7ab7dc0deb2194595, http://gtdeusdfgyhjkljfehujnmkljuhgytfdsdfghjkmn.pages.dev
+230000, 2024-09-01 14:01:00, 2024-09-01 14:01:00, phishing, 53947b0f922890e0c12de178c8ac5045, https://bt-109447.weeblysite.com/
 229999, 2024-09-01 13:25:46, 2024-09-01 13:25:46, malware, db4fad904c844ec59fdc911d24055b2b, http://61.53.75.156:50764/bin.sh
 229998, 2024-09-01 13:25:33, 2024-09-01 13:25:33, malware, 46e36c9243df4944a18100b1ecdfb800, http://61.2.105.204:47434/i
 229997, 2024-09-01 13:25:22, 2024-09-01 13:25:22, malware, 6af96e452cdd4ed193a2d54ba72b4720, http://59.92.174.13:42248/i
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 229506, 2024-08-31 23:24:27, 2024-08-31 23:24:27, malware, 07f0e9f35fa1444cbf06f42a6c5f6ab0, http://94.156.71.225/hiddenbin/boatnet.mips
 229505, 2024-08-31 23:24:27, 2024-08-31 23:24:27, malware, 50a7c7b03f78475893b490083c437e2d, http://94.156.71.225/hiddenbin/boatnet.m68k
 229504, 2024-08-31 23:24:26, 2024-08-31 23:24:26, malware, 9b9b921304bf497f86d3e2c59bf97c75, http://94.156.71.225/hiddenbin/boatnet.arm7
-229503, 2024-08-31 23:24:26, 2024-08-31 23:24:26, malware, 7b0a01ad51814bbdaa3cd8cb9fd71e3b, http://94.156.71.225/hiddenbin/boatnet.arm6
-229502, 2024-08-31 23:24:26, 2024-08-31 23:24:26, malware, 026ef1e47e9f448ca64619ccb78e9af1, http://94.156.71.225/hiddenbin/boatnet.arm5
-229501, 2024-08-31 23:24:26, 2024-08-31 23:24:26, malware, 289293284e25489a8a6b29f5a0386c1a, http://94.156.71.225/hiddenbin/boatnet.arm
-229500, 2024-08-31 23:24:26, 2024-08-31 23:24:26, malware, e32db04cd10b41cc8221d87674f393bc, http://94.156.71.225/hiddenbin/boatnet.arc
