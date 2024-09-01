@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-01 20:00:01 UTC
+# UPDATE: 2024-09-01 21:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+230177, 2024-09-01 20:56:11, 2024-09-01 20:56:11, phishing, 3b5b624eb4b4c3b25a9c096d3e5d616a, http://msgr.com
+230176, 2024-09-01 20:36:12, 2024-09-01 20:36:12, phishing, c5d6ab80b032cc556899726181ff7c8c, http://ccxbcxzb4dssadga.hopto.org
 230175, 2024-09-01 19:56:11, 2024-09-01 19:56:11, phishing, d234bc519f228a2b44e0a63468766b39, http://afootballteamwithlovefoundationuwaenweisifc5.pages.dev
 230174, 2024-09-01 19:48:11, 2024-09-01 19:48:11, phishing, 0ed5b16ef8665988d7494b5f0a706f76, http://nbfgdertyujkljuytrfgvbhtrtdfcbvnjhtrtf.pages.dev
 230173, 2024-09-01 19:25:06, 2024-09-01 19:25:06, malware, 9d80b17b51164671af343542a3b41654, http://95.32.110.116:33030/bin.sh
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 229680, 2024-09-01 05:23:52, 2024-09-01 05:23:52, malware, 514df836ab6f4437a07f4517e508e0b4, http://42.230.33.168:45140/i
 229679, 2024-09-01 05:23:29, 2024-09-01 05:23:29, malware, 3bb5e62483c64cceb2c3b46851bedf40, http://222.142.254.23:54812/i
 229678, 2024-09-01 05:23:27, 2024-09-01 05:23:27, malware, cfa59920645f4e47b633479cff836265, http://222.141.140.254:48612/i
-229677, 2024-09-01 05:23:25, 2024-09-01 05:23:25, malware, 4a0c7cffd6934b1e85b1fbe6cec87317, http://222.139.43.193:39042/
-229676, 2024-09-01 05:23:24, 2024-09-01 05:23:24, malware, 471cbd0a091144a38646843fd16443a1, http://222.138.78.11:33103/i
