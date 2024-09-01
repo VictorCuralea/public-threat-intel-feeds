@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-01 18:00:01 UTC
+# UPDATE: 2024-09-01 19:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+230128, 2024-09-01 18:30:22, 2024-09-01 18:30:22, phishing, 15a227be169a1da9a0159bded336a918, http://m.0065.icu
+230127, 2024-09-01 18:26:19, 2024-09-01 18:26:19, phishing, 805336ad9fb0e4253e1dbfbc9dfab60b, http://m.tokenpocket.0065.icu
 230126, 2024-09-01 17:54:14, 2024-09-01 17:54:14, phishing, b34d2bc938b8577e3af09a2da9627d75, http://barclaypremierleaguebestplayerofalltime5.pages.dev
 230125, 2024-09-01 17:40:12, 2024-09-01 17:40:12, phishing, 69597c34ea009e978788240cbda3019b, http://rectifywalletspro.pages.dev
 230124, 2024-09-01 17:40:10, 2024-09-01 17:40:10, phishing, 5c5d83cf400d4cff20df4139e0ceb056, http://rojdingserijridhsjbalsisgser4.pages.dev
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 229631, 2024-09-01 03:24:23, 2024-09-01 03:24:23, malware, e1bb8ece895b49f389db5e07536558c5, http://42.235.180.155:59638/bin.sh
 229630, 2024-09-01 03:24:11, 2024-09-01 03:24:11, malware, b31195d38af64278977809135b950dfc, http://222.142.254.23:54812/bin.sh
 229629, 2024-09-01 03:24:10, 2024-09-01 03:24:10, malware, c9620c066e2d4e04a46449b4b3e28843, http://221.15.89.226:57205/
-229628, 2024-09-01 03:24:08, 2024-09-01 03:24:08, malware, 9c657f4e62a04e928481cd8e5efac75a, http://221.1.227.147:59416/i
-229627, 2024-09-01 03:24:07, 2024-09-01 03:24:07, malware, c8d20cec3d9a4fddb25f7222abae687f, http://220.202.93.141:60666/i
