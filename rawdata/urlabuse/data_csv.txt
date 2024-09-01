@@ -6,9 +6,19 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-01 16:00:01 UTC
+# UPDATE: 2024-09-01 17:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+230065, 2024-09-01 16:52:12, 2024-09-01 16:52:12, phishing, 96585bf0c6636f613770e621e908cf9d, http://yugbcdjbfvdbjbvcdnjcbrbvjdkvkjhbcdbj.pages.dev
+230064, 2024-09-01 16:48:11, 2024-09-01 16:48:11, phishing, 5e2861cb1a8e7cf4f45ec55b6d7948b6, http://rapid-wildflower-f403.tekot88473.workers.dev
+230063, 2024-09-01 16:12:19, 2024-09-01 16:12:19, phishing, eb28295d0f4368e83352e29468661107, http://1252552521907676932.online
+230062, 2024-09-01 16:03:05, 2024-09-01 16:03:05, phishing, e87b8dc6ae58685512e40487def4018f, http://1111365.cloud/
+230061, 2024-09-01 16:02:34, 2024-09-01 16:02:34, hacked, d3f0a6ba93b69baddf1eef7af963bdf8, http://www.hardikagro.com
+230060, 2024-09-01 16:02:27, 2024-09-01 16:02:27, hacked, 62e981ed94dac1800abeef2979c92fbf, http://bcpsac.edu.bd/MrZ.html
+230059, 2024-09-01 16:02:27, 2024-09-01 16:02:27, hacked, 90571a6a99f194f22fd0c5bbf3cf331f, http://muratarabacilar.com
+230058, 2024-09-01 16:02:23, 2024-09-01 16:02:23, hacked, da076be3e0a4d61a32c0b9778fdba9f9, http://m-idan.co.il/deface.html
+230057, 2024-09-01 16:02:21, 2024-09-01 16:02:21, hacked, 4b9ebf95181c346caae19b2ef9ae4f79, http://fibertechnik.co.il/deface.html
+230056, 2024-09-01 16:02:10, 2024-09-01 16:02:10, hacked, b1d805aaf4b1c301773c376ff713fd0a, http://moz.gov.mk/deface.html
 230055, 2024-09-01 15:50:11, 2024-09-01 15:50:11, phishing, 5c0fa489c254b975b1fca65fadf3f8e1, http://bing.liaohui-2024.workers.dev
 230054, 2024-09-01 15:32:10, 2024-09-01 15:32:10, phishing, e7b27cfde1f1468cc34eef384ce559c6, http://htmlwebsourcemaillboxaunthenticate3782901internwtmailidkal.pages.dev
 230053, 2024-09-01 15:26:03, 2024-09-01 15:26:03, malware, 2747ce9d1a7a4411ba3484fed5efc67d, http://61.53.249.245:33196/Mozi.m
@@ -499,13 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 229568, 2024-09-01 02:08:10, 2024-09-01 02:08:10, phishing, 0c35a1f41e485374f5bd9897746812c7, http://worker-divine-sun-a2e0.firixi5628.workers.dev
 229567, 2024-09-01 01:56:12, 2024-09-01 01:56:12, phishing, 398d48d157eaddda35ce89616387db2d, http://aprilfoolgonewrongtoday3.pages.dev
 229566, 2024-09-01 01:50:13, 2024-09-01 01:50:13, phishing, 4265ce81b8f4c419fdb9f82facc3ea14, http://spelinggadingdomainseprationalservicemails1.pages.dev
-229565, 2024-09-01 01:30:12, 2024-09-01 01:30:12, phishing, 04a1246564e9d135a317fd8b6a5cb71c, http://spelinggadingdomainseprationalservicemails04.pages.dev
-229564, 2024-09-01 01:25:03, 2024-09-01 01:25:03, malware, fe7a12ef48f049e3954fdddd0087c716, http://91.239.77.159:50998/bin.sh
-229563, 2024-09-01 01:25:02, 2024-09-01 01:25:02, malware, b8d2e7f6ea734e44a04b02c88f413e73, http://61.52.80.161:34632/i
-229562, 2024-09-01 01:25:00, 2024-09-01 01:25:00, malware, 8f6f08adc27647d2a25753adddcf0ac6, http://61.52.130.163:46701/Mozi.m
-229561, 2024-09-01 01:24:59, 2024-09-01 01:24:59, malware, 3c84a6a9d7064a47bebaf3fccf6b33ad, http://61.0.11.188:42980/bin.sh
-229560, 2024-09-01 01:24:46, 2024-09-01 01:24:46, malware, 9edc48d7716f41b9b68f78985073c9a0, http://59.93.181.76:37579/bin.sh
-229559, 2024-09-01 01:24:43, 2024-09-01 01:24:43, malware, a380289683fc4c90ad256c0936c62f7c, http://59.89.192.176:53018/Mozi.m
-229558, 2024-09-01 01:24:41, 2024-09-01 01:24:41, malware, f36fd1183345407aa5b3f88e99ed4f5d, http://59.183.99.119:34276/bin.sh
-229557, 2024-09-01 01:24:39, 2024-09-01 01:24:39, malware, a81d4ef823464c4c82255fdac5e82bb3, http://59.183.131.96:48121/Mozi.m
-229556, 2024-09-01 01:24:35, 2024-09-01 01:24:35, malware, bbfb60081a604e9abaf9581756ec6f7f, http://59.180.164.247:35266/Mozi.m
