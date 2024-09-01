@@ -1,11 +1,108 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-01 15:53:13 UTC                        #
+# Last updated: 2024-09-01 17:33:19 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	finachcial.com
+127.0.0.1	www.smartfinancecard.org
+127.0.0.1	www.specialoffersnow.net
+127.0.0.1	www.specialpromoter.net
+127.0.0.1	www.unioncredits.shop
+127.0.0.1	americanfinancialpartners.top
+127.0.0.1	bankexpress.org
+127.0.0.1	bankinternational.net
+127.0.0.1	creamland.org
+127.0.0.1	debtunion.shop
+127.0.0.1	detailedfinances.shop
+127.0.0.1	www.financialsource.net
+127.0.0.1	www.finwizards.net
+127.0.0.1	www.finwizards.org
+127.0.0.1	www.managementcorp.net
+127.0.0.1	www.managementsolution.top
+127.0.0.1	www.newunioncredit.org
+127.0.0.1	www.privatefinancetoday.net
+127.0.0.1	www.qualityfinance.net
+127.0.0.1	specialcoupons.net
+127.0.0.1	specialpromoter.net
+127.0.0.1	uniondebit.com
+127.0.0.1	www.bankexpress.org
+127.0.0.1	www.bankinternational.net
+127.0.0.1	www.creditunionfund.net
+127.0.0.1	www.debtunion.shop
+127.0.0.1	www.detailedfinances.com
+127.0.0.1	www.finachcial.com
+127.0.0.1	www.financesmasters.top
+127.0.0.1	www.financesunion.com
+127.0.0.1	www.financetodayapp.com
+127.0.0.1	www.financial-advisors.top
+127.0.0.1	www.financialpartnersservices.com
+127.0.0.1	managementsolution.top
+127.0.0.1	mavidjipro.com
+127.0.0.1	meticulousfinance.top
+127.0.0.1	newunioncredit.org
+127.0.0.1	personal-training.shop
+127.0.0.1	pinnaclemoney.org
+127.0.0.1	qualityfinance.net
+127.0.0.1	servicescorp.shop
+127.0.0.1	smartfinancecard.org
+127.0.0.1	specialbids.com
+127.0.0.1	financemaster.shop
+127.0.0.1	financemastersacademy.com
+127.0.0.1	financesunion.com
+127.0.0.1	financetoday.top
+127.0.0.1	financetrade.net
+127.0.0.1	financialcorp.org
+127.0.0.1	financialpartners.top
+127.0.0.1	finmaster.top
+127.0.0.1	finmastersusa.top
+127.0.0.1	finwizards.org
+127.0.0.1	managementcorp.net
+127.0.0.1	www.meticulousfinance.top
+127.0.0.1	www.personal-training.shop
+127.0.0.1	www.pinnaclemoney.org
+127.0.0.1	www.servicescorp.shop
+127.0.0.1	www.servicesllc.top
+127.0.0.1	www.specialcoupons.top
+127.0.0.1	www.uniondebit.com
+127.0.0.1	creditunionfund.net
+127.0.0.1	detailed-finance.top
+127.0.0.1	detailedfinances.com
+127.0.0.1	detailedfinances.info
+127.0.0.1	detailedleasing.net
+127.0.0.1	fin-masters.com
+127.0.0.1	www.fin-masters.com
+127.0.0.1	www.financemaster.shop
+127.0.0.1	www.financemen.net
+127.0.0.1	www.financetoday.top
+127.0.0.1	www.financetrade.net
+127.0.0.1	www.financialagency.net
+127.0.0.1	www.financialcorp.org
+127.0.0.1	www.financialpartners.top
+127.0.0.1	www.finmaster.top
+127.0.0.1	www.jkfinancialpartners.com
+127.0.0.1	www.mavidjipro.com
+127.0.0.1	financialsource.net
+127.0.0.1	finmastersusa.com
+127.0.0.1	finwizards.net
+127.0.0.1	jkfinancialpartners.com
+127.0.0.1	privatefinancetoday.net
+127.0.0.1	servicesllc.top
+127.0.0.1	specialcoupons.top
+127.0.0.1	unioncredits.shop
+127.0.0.1	www.americanfinancialpartners.top
+127.0.0.1	www.creamland.org
+127.0.0.1	www.detailed-finance.top
+127.0.0.1	www.detailedfinances.shop
+127.0.0.1	financemen.net
+127.0.0.1	financesmasters.org
+127.0.0.1	financesmasters.top
+127.0.0.1	financetodayapp.com
+127.0.0.1	financial-advisors.top
+127.0.0.1	financialagency.net
+127.0.0.1	financialpartnersservices.com
 127.0.0.1	2c8b3f19-0325-4acc-a3dd-31a918e4dbf5.random.aerodromr.com
 127.0.0.1	2c8b3f19-0325-4acc-a3dd-31a918e4dbf5.random.dedlust.com
 127.0.0.1	2c8b3f19-0325-4acc-a3dd-31a918e4dbf5.random.polyhedrao.com
@@ -7323,4 +7420,4 @@
 127.0.0.1	ec2-3-75-210-134.eu-central-1.compute.amazonaws.com
 127.0.0.1	www.vigilant-kare.104-168-102-175.plesk.page
 127.0.0.1	friendly-dirac.104-168-102-175.plesk.page
-# Number of entries: 7317
+# Number of entries: 7414
