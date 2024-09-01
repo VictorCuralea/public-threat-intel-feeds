@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-01 04:00:01 UTC
+# UPDATE: 2024-09-01 05:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+229644, 2024-09-01 04:28:10, 2024-09-01 04:28:10, phishing, 03de1c4c452df00921bcba1a5cae1e0c, http://rojdingserijridhsjbalsisgser2.pages.dev
 229643, 2024-09-01 03:50:12, 2024-09-01 03:50:12, phishing, 8f20d6ea3a9755415b5f17dd69e26982, http://domainbroadcastrealizationinternationalservice2.pages.dev
 229642, 2024-09-01 03:44:10, 2024-09-01 03:44:10, phishing, fbca6e2cbf7235411ed41482ce6e7c2b, http://domainbroadcastrealizationinternationalservice3.pages.dev
 229641, 2024-09-01 03:28:13, 2024-09-01 03:28:13, phishing, 9821af05b69f1f73e1840e3f1a37bb7e, http://onlythetruthcansetyoufree5.pages.dev
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 229147, 2024-08-31 11:28:03, 2024-08-31 11:28:03, malware, f90486843d3b46a1bb840d7c6eec1ce5, http://61.53.119.40:47568/bin.sh
 229146, 2024-08-31 11:27:55, 2024-08-31 11:27:55, malware, 85abba305382443f97755b5250c09e66, http://61.0.211.138:58691/i
 229145, 2024-08-31 11:27:43, 2024-08-31 11:27:43, malware, 92c2af4e82b740fd9083384f4c46be36, http://61.0.211.138:58691/bin.sh
-229144, 2024-08-31 11:27:31, 2024-08-31 11:27:31, malware, 26600f5a3626437e8108205f1fda6a5c, http://59.98.194.135:36838/i

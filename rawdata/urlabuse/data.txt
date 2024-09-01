@@ -6,8 +6,9 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-01 04:00:01 UTC
+# UPDATE: 2024-09-01 05:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 229644, "url": "http://rojdingserijridhsjbalsisgser2.pages.dev", "discovery": "2024-09-01 04:28:10", "added": "2024-09-01 04:28:10", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "03de1c4c452df00921bcba1a5cae1e0c"}
 {"id": 229643, "url": "http://domainbroadcastrealizationinternationalservice2.pages.dev", "discovery": "2024-09-01 03:50:12", "added": "2024-09-01 03:50:12", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "8f20d6ea3a9755415b5f17dd69e26982"}
 {"id": 229642, "url": "http://domainbroadcastrealizationinternationalservice3.pages.dev", "discovery": "2024-09-01 03:44:10", "added": "2024-09-01 03:44:10", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "fbca6e2cbf7235411ed41482ce6e7c2b"}
 {"id": 229641, "url": "http://onlythetruthcansetyoufree5.pages.dev", "discovery": "2024-09-01 03:28:13", "added": "2024-09-01 03:28:13", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "9821af05b69f1f73e1840e3f1a37bb7e"}
@@ -507,4 +508,3 @@
 {"id": 229147, "url": "http://61.53.119.40:47568/bin.sh", "discovery": "2024-08-31 11:28:03", "added": "2024-08-31 11:28:03", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "f90486843d3b46a1bb840d7c6eec1ce5"}
 {"id": 229146, "url": "http://61.0.211.138:58691/i", "discovery": "2024-08-31 11:27:55", "added": "2024-08-31 11:27:55", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "85abba305382443f97755b5250c09e66"}
 {"id": 229145, "url": "http://61.0.211.138:58691/bin.sh", "discovery": "2024-08-31 11:27:43", "added": "2024-08-31 11:27:43", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "92c2af4e82b740fd9083384f4c46be36"}
-{"id": 229144, "url": "http://59.98.194.135:36838/i", "discovery": "2024-08-31 11:27:31", "added": "2024-08-31 11:27:31", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "26600f5a3626437e8108205f1fda6a5c"}
