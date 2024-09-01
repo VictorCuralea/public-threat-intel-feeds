@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-01 00:00:01 UTC
+# UPDATE: 2024-09-01 01:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+229514, 2024-09-01 00:58:10, 2024-09-01 00:58:10, phishing, 0fb85f2f16f9c1829e4d0f652270763a, http://permitdapps.pages.dev
+229513, 2024-09-01 00:50:11, 2024-09-01 00:50:11, phishing, d4b936c8bb96f863c94c76eb96d8f0dc, http://anzausecure.com
+229512, 2024-09-01 00:10:11, 2024-09-01 00:10:11, phishing, 56807423ae0ce1b7b6ee9823e634fa7e, http://admincieueijniwiwieoeikcmnckaqooooeeeencnjcpouiytretyuiytr.pages.dev
 229511, 2024-08-31 23:24:29, 2024-08-31 23:24:29, malware, 60e9f325dbed44718a1fdec893ea8005, http://94.156.71.225/hiddenbin/boatnet.x86_64
 229510, 2024-08-31 23:24:29, 2024-08-31 23:24:29, malware, c248db363e8a4262861b38bfe1e02b11, http://94.156.71.225/hiddenbin/boatnet.x86
 229509, 2024-08-31 23:24:28, 2024-08-31 23:24:28, malware, f71455ebafda4d3ab341c045d9810e1f, http://94.156.71.225/hiddenbin/boatnet.spc
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 229017, 2024-08-31 07:25:05, 2024-08-31 07:25:05, malware, 3e62332ddbd4436fa86cdb320e5fa1d4, http://182.119.74.139:45669/bin.sh
 229016, 2024-08-31 07:25:03, 2024-08-31 07:25:03, malware, bfa33635b08042de9f9b83eb06d99c0f, http://182.117.76.105:33499/i
 229015, 2024-08-31 07:25:02, 2024-08-31 07:25:02, malware, 375cf97dcfaf4732b99a67dc626b5044, http://182.117.76.105:33499/bin.sh
-229014, 2024-08-31 07:25:00, 2024-08-31 07:25:00, malware, 0e8a50517f614656942e959256f82d07, http://182.117.50.80:44620/Mozi.m
-229013, 2024-08-31 07:24:49, 2024-08-31 07:24:49, malware, f2831d57e2ec4d8fa30d0fe803555103, http://182.117.106.232:40643/i
-229012, 2024-08-31 07:24:48, 2024-08-31 07:24:48, malware, fd540620cb234172ac7d3a1cbff34ad3, http://182.116.23.41:56956/i
