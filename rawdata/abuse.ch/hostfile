@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-08-31 21:45:51 UTC                        #
+# Last updated: 2024-08-31 23:45:22 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	get-license12.com
 127.0.0.1	pl-oferta4382762.store
 127.0.0.1	pl-oferta8572401.store
 127.0.0.1	k.funnyyellowpeople.click
@@ -7266,4 +7267,4 @@
 127.0.0.1	cdn043sc.azureedge.net
 127.0.0.1	varinspector.com
 127.0.0.1	888juantriana88.dynuddns.net
-# Number of entries: 7260
+# Number of entries: 7261
