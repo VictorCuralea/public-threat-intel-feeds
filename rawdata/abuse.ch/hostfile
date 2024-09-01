@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-01 09:27:16 UTC                        #
+# Last updated: 2024-09-01 12:23:21 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	1312services.ru
 127.0.0.1	h.santasbigcandycane.pics
 127.0.0.1	get-license4.com
 127.0.0.1	get-license12.com
@@ -7266,4 +7267,4 @@
 127.0.0.1	qq.qqweixinzhuce.top
 127.0.0.1	www.micshcnds.top
 127.0.0.1	test.qqweixinzhuce.top
-# Number of entries: 7260
+# Number of entries: 7261
