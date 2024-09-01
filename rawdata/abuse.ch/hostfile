@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-01 12:23:21 UTC                        #
+# Last updated: 2024-09-01 13:34:46 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	stealit.vercel.app
 127.0.0.1	1312services.ru
 127.0.0.1	h.santasbigcandycane.pics
 127.0.0.1	get-license4.com
@@ -7264,7 +7265,4 @@
 127.0.0.1	www.vigilant-kare.104-168-102-175.plesk.page
 127.0.0.1	friendly-dirac.104-168-102-175.plesk.page
 127.0.0.1	srophuchung.com
-127.0.0.1	qq.qqweixinzhuce.top
-127.0.0.1	www.micshcnds.top
-127.0.0.1	test.qqweixinzhuce.top
-# Number of entries: 7261
+# Number of entries: 7259
