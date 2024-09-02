@@ -6,9 +6,18 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-02 05:00:01 UTC
+# UPDATE: 2024-09-02 06:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+230387, 2024-09-02 05:53:17, 2024-09-02 05:51:32, phishing, 04f771e2459ca309011bfd2055521201, https://ipfs.io/ipfs/bafybeihr5sx6qefn7lyjs2zicycr5foqa2bsupmfic2g4ig5sgxupljgoa/inboxupd%20%281%29.html#x
+230386, 2024-09-02 05:44:12, 2024-09-02 05:44:12, phishing, a6b4a5ce58d29fb283f7cc089227d516, http://anshjduo0923874urmclkfoitasndhurye746589qnmjdusye48509sn4.pages.dev
+230385, 2024-09-02 05:43:05, 2024-09-02 05:43:05, phishing, c6e62447e7750526bfd5b665bace602d, https://lawky.duckdns.org/slain/troop.html#x
+230384, 2024-09-02 05:42:37, 2024-09-02 05:40:28, phishing, 6829ce849ad86c84b94e1f3704abce22, https://sbinfo.ru/away.php?to=https://lawky.duckdns.org/slain/troop.html#x
+230383, 2024-09-02 05:41:41, 2024-09-02 05:29:53, malware, 193fb513ac3f4d7cb138efa928a21b46, https://cdn.glitch.global/e9c2b961-13ad-4bf1-8bac-d763f4e2ed70/File_Aug_803020245900510092005.rar
+230382, 2024-09-02 05:36:11, 2024-09-02 05:36:11, phishing, 9d28935789c9d274c0406fb73c7810c9, https://p4lov5wnejkx53fzwzreg6sphxxie3mxl3k74e4hb67r5e7ye7na.akrd.net/fxbq9s0iVX7subZiQ3pPPe6CbZde1f4Thw-_HpP4J9o
+230381, 2024-09-02 05:35:40, 2024-09-02 05:25:14, phishing, acbb8e15bb76a5782c360d04f6865445, https://akrd.net/fxbq9s0iVX7subZiQ3pPPe6CbZde1f4Thw-_HpP4J9o#x
+230380, 2024-09-02 05:34:52, 2024-09-02 05:18:12, phishing, 28247b2797168b726d5b497773b2c392, https://cdn.dragon.cere.network/436/fs/default/Index.html#x
+230379, 2024-09-02 05:08:10, 2024-09-02 05:08:10, phishing, 715dc8bd7ef8e75b599be688865eb4ba, http://theceremonyofalltime2.pages.dev
 230378, 2024-09-02 04:24:02, 2024-09-02 04:24:02, malware, 61f4ec0243a545e48eecdaa9999bdb46, http://79.137.250.130:33676/i
 230377, 2024-09-02 04:24:01, 2024-09-02 04:24:01, malware, d5eb47b4d59043769f7bfbc730224e04, http://79.137.250.130:33676/bin.sh
 230376, 2024-09-02 04:24:00, 2024-09-02 04:24:00, malware, aa9b35a95e564174ae7db7fb7a699d31, http://61.52.191.117:40754/bin.sh
@@ -500,12 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 229890, 2024-09-01 11:23:43, 2024-09-01 11:23:43, malware, b03a235d5d534233b0a8a78b88bb02d4, http://182.113.204.182:37716/i
 229889, 2024-09-01 11:23:39, 2024-09-01 11:23:39, malware, eb28bffc5c574a32925709392fe51826, http://175.30.75.171:36604/bin.sh
 229888, 2024-09-01 11:23:05, 2024-09-01 11:23:05, malware, 588ef7e38c854a86905c5c6b5a67ac17, http://125.46.203.66:41625/i
-229887, 2024-09-01 11:23:04, 2024-09-01 11:23:04, malware, c9decafe17a44164ae447b53ec73b085, http://125.45.66.239:40912/i
-229886, 2024-09-01 11:23:01, 2024-09-01 11:23:01, malware, 17fff05edf914505b8d36281b81930f4, http://125.45.66.239:40912/bin.sh
-229885, 2024-09-01 11:22:59, 2024-09-01 11:22:59, malware, 3b056e82d6e34dbaabea5d151b9fd9f4, http://125.44.254.193:45308/
-229884, 2024-09-01 11:22:58, 2024-09-01 11:22:58, malware, 41ebd7a0334e46c2ae1c27fd41fe7be2, http://125.44.194.0:39882/i
-229883, 2024-09-01 11:22:56, 2024-09-01 11:22:56, malware, 466197f0e42e4d089392f9ce810275af, http://125.44.194.0:39882/bin.sh
-229882, 2024-09-01 11:22:54, 2024-09-01 11:22:54, malware, 7858afd02a0446b0937baf1c804a9f04, http://123.8.61.23:50756/bin.sh
-229881, 2024-09-01 11:22:53, 2024-09-01 11:22:53, malware, 308eacb836a142e69b09de2aad3cd22e, http://123.8.189.179:52740/bin.sh
-229880, 2024-09-01 11:22:51, 2024-09-01 11:22:51, malware, 9653213510d24c6e81dd34ca6395e193, http://123.5.179.192:50744/i
-229879, 2024-09-01 11:22:50, 2024-09-01 11:22:50, malware, 89db82cdd7ae4e1abc5432e69d220b31, http://123.5.171.158:52977/
