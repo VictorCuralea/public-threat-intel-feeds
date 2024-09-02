@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-02 04:01:11 UTC                        #
+# Last updated: 2024-09-02 07:33:25 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ixiapartner.com
 127.0.0.1	tur-pttpayment.top
 127.0.0.1	correoparagua-pry.top
 127.0.0.1	mex-estafeeta.top
@@ -7426,4 +7427,4 @@
 127.0.0.1	porsherses.com
 127.0.0.1	aerh.azureedge.net
 127.0.0.1	www.shelter-paws.com
-# Number of entries: 7420
+# Number of entries: 7421
