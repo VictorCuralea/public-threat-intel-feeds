@@ -6,9 +6,14 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-02 10:00:01 UTC
+# UPDATE: 2024-09-02 11:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+230675, 2024-09-02 10:48:13, 2024-09-02 10:48:13, phishing, 41021209566fccc5e8fd08ff788b56f3, https://docs.google.com/presentation/d/e/2PACX-1vRsfx634gqTR2aZuTjYGzuKaCQ251W3VfjJ4jn1iyRzYIChjOSStoxtzUMQOLBbuLUYvRaUUv4YGPn_/pub?start=true
+230674, 2024-09-02 10:34:40, 2024-09-02 10:00:11, phishing, 4f964963dcb200ace41618148cdcaea3, https://auth103.github.io/sfr/
+230673, 2024-09-02 10:34:26, 2024-09-02 09:53:59, phishing, 934a1fb61e354d2db7b14aa3caf8f394, https://ipfs.io/ipfs/bafkreialegy5uo24fmcscr2ehqiecy4f5any7yirr6wd23wqqmpxzvxlqy?index.html#x
+230672, 2024-09-02 10:34:01, 2024-09-02 09:46:04, malware, d97c564bf5f2483bbff347d7e8184fff, https://mcusercontent.com/c4cf5ee7f8830296d6500d7f4/files/68af4667-0441-7644-0012-91b1b803561e/450.xls
+230671, 2024-09-02 10:31:56, 2024-09-02 09:34:11, phishing, 3fb6f2f50a7df0304f11fee4c9ed6776, https://temp-hhhywkukdofwqifmnzau.webadorsite.com/
 230670, 2024-09-02 09:58:13, 2024-09-02 09:58:13, phishing, 96ca67c2a7df3a6cc0294f67547d2cea, http://copilot.guge.lol
 230669, 2024-09-02 09:29:19, 2024-09-02 09:29:19, malware, f45168aa0799415398e74530b541a9a8, http://94.51.194.105:57843/bin.sh
 230668, 2024-09-02 09:29:18, 2024-09-02 09:29:18, malware, b6eca3c9a39947cdb711f82c2a8d04e8, http://61.53.80.61:34925/bin.sh
@@ -504,8 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 230178, 2024-09-01 21:07:12, 2024-09-01 20:38:12, phishing, 0bd0bbc6c3ca3f12211fbe28db8c98af, https://datr.pages.dev/help/contact/
 230177, 2024-09-01 20:56:11, 2024-09-01 20:56:11, phishing, 3b5b624eb4b4c3b25a9c096d3e5d616a, http://msgr.com
 230176, 2024-09-01 20:36:12, 2024-09-01 20:36:12, phishing, c5d6ab80b032cc556899726181ff7c8c, http://ccxbcxzb4dssadga.hopto.org
-230175, 2024-09-01 19:56:11, 2024-09-01 19:56:11, phishing, d234bc519f228a2b44e0a63468766b39, http://afootballteamwithlovefoundationuwaenweisifc5.pages.dev
-230174, 2024-09-01 19:48:11, 2024-09-01 19:48:11, phishing, 0ed5b16ef8665988d7494b5f0a706f76, http://nbfgdertyujkljuytrfgvbhtrtdfcbvnjhtrtf.pages.dev
-230173, 2024-09-01 19:25:06, 2024-09-01 19:25:06, malware, 9d80b17b51164671af343542a3b41654, http://95.32.110.116:33030/bin.sh
-230172, 2024-09-01 19:25:05, 2024-09-01 19:25:05, malware, 6e7520fa3a4f42e0b1dfe88d78e89197, http://59.91.81.24:49469/bin.sh
-230171, 2024-09-01 19:24:13, 2024-09-01 19:24:13, malware, 590a16251f6d431b84138de29e93b2c9, http://59.182.90.144:57861/Mozi.m

@@ -6,8 +6,13 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-02 10:00:01 UTC
+# UPDATE: 2024-09-02 11:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 230675, "url": "https://docs.google.com/presentation/d/e/2PACX-1vRsfx634gqTR2aZuTjYGzuKaCQ251W3VfjJ4jn1iyRzYIChjOSStoxtzUMQOLBbuLUYvRaUUv4YGPn_/pub?start=true", "discovery": "2024-09-02 10:48:13", "added": "2024-09-02 10:48:13", "target": "Other", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "41021209566fccc5e8fd08ff788b56f3"}
+{"id": 230674, "url": "https://auth103.github.io/sfr/", "discovery": "2024-09-02 10:00:11", "added": "2024-09-02 10:34:40", "target": "SFR", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "4f964963dcb200ace41618148cdcaea3"}
+{"id": 230673, "url": "https://ipfs.io/ipfs/bafkreialegy5uo24fmcscr2ehqiecy4f5any7yirr6wd23wqqmpxzvxlqy?index.html#x", "discovery": "2024-09-02 09:53:59", "added": "2024-09-02 10:34:26", "target": "Generic Email", "reporter": "anonymous", "AbuseType": "phishing", "UUID": "934a1fb61e354d2db7b14aa3caf8f394"}
+{"id": 230672, "url": "https://mcusercontent.com/c4cf5ee7f8830296d6500d7f4/files/68af4667-0441-7644-0012-91b1b803561e/450.xls", "discovery": "2024-09-02 09:46:04", "added": "2024-09-02 10:34:01", "target": "#xls", "reporter": "anonymous", "AbuseType": "malware", "UUID": "d97c564bf5f2483bbff347d7e8184fff"}
+{"id": 230671, "url": "https://temp-hhhywkukdofwqifmnzau.webadorsite.com/", "discovery": "2024-09-02 09:34:11", "added": "2024-09-02 10:31:56", "target": "BT", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "3fb6f2f50a7df0304f11fee4c9ed6776"}
 {"id": 230670, "url": "http://copilot.guge.lol", "discovery": "2024-09-02 09:58:13", "added": "2024-09-02 09:58:13", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "96ca67c2a7df3a6cc0294f67547d2cea"}
 {"id": 230669, "url": "http://94.51.194.105:57843/bin.sh", "discovery": "2024-09-02 09:29:19", "added": "2024-09-02 09:29:19", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "f45168aa0799415398e74530b541a9a8"}
 {"id": 230668, "url": "http://61.53.80.61:34925/bin.sh", "discovery": "2024-09-02 09:29:18", "added": "2024-09-02 09:29:18", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "b6eca3c9a39947cdb711f82c2a8d04e8"}
@@ -503,8 +508,3 @@
 {"id": 230178, "url": "https://datr.pages.dev/help/contact/", "discovery": "2024-09-01 20:38:12", "added": "2024-09-01 21:07:12", "target": "Facebook", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "0bd0bbc6c3ca3f12211fbe28db8c98af"}
 {"id": 230177, "url": "http://msgr.com", "discovery": "2024-09-01 20:56:11", "added": "2024-09-01 20:56:11", "target": "Facebook", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "3b5b624eb4b4c3b25a9c096d3e5d616a"}
 {"id": 230176, "url": "http://ccxbcxzb4dssadga.hopto.org", "discovery": "2024-09-01 20:36:12", "added": "2024-09-01 20:36:12", "target": "TR-GOV", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "c5d6ab80b032cc556899726181ff7c8c"}
-{"id": 230175, "url": "http://afootballteamwithlovefoundationuwaenweisifc5.pages.dev", "discovery": "2024-09-01 19:56:11", "added": "2024-09-01 19:56:11", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "d234bc519f228a2b44e0a63468766b39"}
-{"id": 230174, "url": "http://nbfgdertyujkljuytrfgvbhtrtdfcbvnjhtrtf.pages.dev", "discovery": "2024-09-01 19:48:11", "added": "2024-09-01 19:48:11", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "0ed5b16ef8665988d7494b5f0a706f76"}
-{"id": 230173, "url": "http://95.32.110.116:33030/bin.sh", "discovery": "2024-09-01 19:25:06", "added": "2024-09-01 19:25:06", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "9d80b17b51164671af343542a3b41654"}
-{"id": 230172, "url": "http://59.91.81.24:49469/bin.sh", "discovery": "2024-09-01 19:25:05", "added": "2024-09-01 19:25:05", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "6e7520fa3a4f42e0b1dfe88d78e89197"}
-{"id": 230171, "url": "http://59.182.90.144:57861/Mozi.m", "discovery": "2024-09-01 19:24:13", "added": "2024-09-01 19:24:13", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "590a16251f6d431b84138de29e93b2c9"}
