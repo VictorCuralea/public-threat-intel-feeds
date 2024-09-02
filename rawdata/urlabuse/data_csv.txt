@@ -6,9 +6,24 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-02 20:00:01 UTC
+# UPDATE: 2024-09-02 21:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+231032, 2024-09-02 20:51:22, 2024-09-02 20:51:22, phishing, eadae8b0cd8529eb98019ae59dc41761, https://poczta-poisja.top/pl/
+231031, 2024-09-02 20:50:27, 2024-09-02 20:50:27, phishing, 510a28d7586ee1758c52b93acab34629, https://olx-pl.vjukopld.lol/sell/fb278f165127/ipko
+231030, 2024-09-02 20:49:37, 2024-09-02 20:49:37, phishing, 89a9151676c48a837c7d780f57186e0a, https://oolx.121548521.xyz/cn1hjznn/JrGH4W/8
+231029, 2024-09-02 20:47:27, 2024-09-02 20:47:27, phishing, cc96a99e130f459c7ae65aca3ba7ef17, https://083602893lumin208366.mymeriva.com/lum29827370/ee/era/oauth.php?authorize_type=code&appIdKey=ea1ec462d1eaccf&country=ET#
+231028, 2024-09-02 20:45:22, 2024-09-02 20:45:22, phishing, 02455e182ff388e78cf153a9d28d5c50, https://latvialogon.in.net/seblt/
+231027, 2024-09-02 20:45:00, 2024-09-02 20:45:00, phishing, 151b9b4b02d34c86887ca89615eb6dfa, https://newbelporjectbel.pages.dev/$
+231026, 2024-09-02 20:43:47, 2024-09-02 20:43:47, phishing, 4d216b3287720848654b0aa1e97fd66f, https://bit.ly/3Tf7OPP?SGh=mdw4dLKID8
+231025, 2024-09-02 20:42:56, 2024-09-02 20:42:56, phishing, 178e573bf8811cb07aaa456151cb8640, https://posthgjz.buzz/i/
+231024, 2024-09-02 20:41:06, 2024-09-02 20:41:06, phishing, 0805c5f87186cb60d9de8216f85e86eb, https://allurenye.vercel.app/form.html
+231023, 2024-09-02 20:40:53, 2024-09-02 20:40:53, phishing, 0186064c5f56b3d2fbf402510247fccd, https://allurenye.vercel.app/id.html/
+231022, 2024-09-02 20:40:33, 2024-09-02 20:40:33, phishing, 6c0d7032e34f80e0c22300bbe13bc508, https://black259170.studio.site
+231021, 2024-09-02 20:40:21, 2024-09-02 20:10:14, phishing, 90fc4d138b4204ce3793e0d0f679dff9, https://vvatxiy-team-yllq8bsl.atlassian.net/wiki/external/ZjQ3YjkyNTAxNTNmNDU2ZWE2YWUzMDdhODcxZDk5OTY
+231020, 2024-09-02 20:39:03, 2024-09-02 20:39:03, phishing, 5b8dbafc562e8843645bf636d768e2b5, https://mapnewark37.wixsite.com/my-site-1
+231019, 2024-09-02 20:38:04, 2024-09-02 20:08:15, phishing, 92596279ab1d456e4833cfeaf98fa1e6, https://ps9029153.atlassian.net/wiki/external/NzA2ZmYzZDg5MzVkNDQ3ZDhiYTkwZGNiMWYxMWE3OWU
+231018, 2024-09-02 20:14:13, 2024-09-02 20:14:13, phishing, a120aee3218b22d008be3e2f72eef2d3, http://node-access.pages.dev
 231017, 2024-09-02 19:53:04, 2024-09-02 19:53:04, phishing, 8533a7452c2259ea1d5abd9b07dbd67d, https://harry130747.wixsite.com/noreply
 231016, 2024-09-02 19:52:42, 2024-09-02 19:50:16, phishing, a7ce323d0b54e29712d2f85c9c9707e2, https://adminnn.atlassian.net/wiki/external/ODllYThjNzY0MzRiNDExNGE5YTc5ZmVkZjNkNGE4YzI
 231015, 2024-09-02 19:48:15, 2024-09-02 19:48:15, phishing, 0fac9907c1ad0c45c2e509f25f194a8f, http://t.hostapi.ir
@@ -494,18 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 230535, 2024-09-02 07:28:36, 2024-09-02 07:28:36, malware, 0967a4d74e05497a9b1424ecee5cf7dc, http://42.231.113.181:38019/i
 230534, 2024-09-02 07:28:34, 2024-09-02 07:28:34, malware, a5ccaf59196248edb4c6e02f8cb77738, http://42.231.113.181:38019/bin.sh
 230533, 2024-09-02 07:28:33, 2024-09-02 07:28:33, malware, b35ff18dd69d4a9fac8bda6038ec7e8d, http://42.229.220.204:60894/bin.sh
-230532, 2024-09-02 07:28:31, 2024-09-02 07:28:31, malware, 7d9aee60e1704a669ee69b6cc2b7eee6, http://42.228.34.51:53091/i
-230531, 2024-09-02 07:28:29, 2024-09-02 07:28:29, malware, d2fa9cf05b9d4b149154ec2b0286826a, http://42.228.34.51:53091/bin.sh
-230530, 2024-09-02 07:28:28, 2024-09-02 07:28:28, malware, 951c7862a1bb4dc893ef05ed2c8baa2b, http://42.228.101.16:37825/i
-230529, 2024-09-02 07:28:26, 2024-09-02 07:28:26, malware, 033c7c7e43f041559f1120a0db718420, http://42.227.34.98:47832/bin.sh
-230528, 2024-09-02 07:28:15, 2024-09-02 07:28:15, malware, 3a99cf1d256d44e4b8f9e7f0a22c1dc0, http://42.224.2.8:59233/bin.sh
-230527, 2024-09-02 07:28:14, 2024-09-02 07:28:14, malware, c2554d66a540495390d9ef70d3a55225, http://42.224.16.104:35946/Mozi.m
-230526, 2024-09-02 07:28:11, 2024-09-02 07:28:11, malware, 92192918505c4fe786a6bf86a7548e7a, http://42.224.16.104:35946/bin.sh
-230525, 2024-09-02 07:28:10, 2024-09-02 07:28:10, malware, 8c479f3b22e5471db506257456ad87ad, http://42.224.126.93:43821/bin.sh
-230524, 2024-09-02 07:28:08, 2024-09-02 07:28:08, malware, b8a9ba95658043c686afc80b585ad7fb, http://42.224.121.63:41029/bin.sh
-230523, 2024-09-02 07:28:07, 2024-09-02 07:28:07, malware, 7855d9de812b4d14bde38fbb73e87024, http://27.215.45.237:59280/i
-230522, 2024-09-02 07:28:05, 2024-09-02 07:28:05, malware, fb8df008725244b085f5f161cdd1aec7, http://27.215.45.237:59280/bin.sh
-230521, 2024-09-02 07:28:03, 2024-09-02 07:28:03, malware, 90c72cc4325a4ecf8724331570b93ad4, http://27.215.177.56:50397/bin.sh
-230520, 2024-09-02 07:28:02, 2024-09-02 07:28:02, malware, 50d3bc9c524f49af9c6a3d956193cb66, http://27.215.122.50:57325/bin.sh
-230519, 2024-09-02 07:28:00, 2024-09-02 07:28:00, malware, cdcaf6521a3a4ef998d2b86af0467601, http://27.207.225.82:33555/i
-230518, 2024-09-02 07:27:58, 2024-09-02 07:27:58, malware, d85da2e698f3457d9504382a15ece8df, http://27.207.225.82:33555/bin.sh
