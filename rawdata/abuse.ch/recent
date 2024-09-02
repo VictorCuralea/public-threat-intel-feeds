@@ -1,12 +1,14 @@
 ################################################################
 # ThreatFox IOCs: recent SHA256 hashes - CSV format            #
-# Last updated: 2024-09-02 02:09:49 UTC                        #
+# Last updated: 2024-09-02 04:32:44 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
 # "first_seen_utc","ioc_id","ioc_value","ioc_type","threat_type","fk_malware","malware_alias","malware_printable","last_seen_utc","confidence_level","reference","tags","anonymous","reporter"
+"2024-09-02 04:32:44", "1319697", "944113e85a7cf29d41fbbb30f87ea2554d036448a0bdb1e4e2b2ade3f99a9359", "sha256_hash", "payload", "win.redline_stealer", "RECORDSTEALER", "RedLine Stealer", "", "95", "None", "None", "0", "Grim"
+"2024-09-02 04:32:39", "1319694", "726a67046152f94bf0372b95325f029d834f3bd3ce9246bdd76f03efac45195e", "sha256_hash", "payload", "win.stealc", "None", "Stealc", "", "95", "None", "None", "0", "Grim"
 "2024-09-02 02:09:49", "1319675", "e15843279c3d030efcaa80e7fd52248934148d1ca58081e2567f39853327f242", "sha256_hash", "payload", "win.meterpreter", "None", "Meterpreter", "", "95", "None", "None", "0", "Grim"
 "2024-09-02 02:09:45", "1319672", "572d806c0b56d27fe05562301de6a9ed45cda3f36aef2f6e370867d9f3847013", "sha256_hash", "payload", "win.amadey", "None", "Amadey", "", "95", "None", "None", "0", "Grim"
 "2024-09-02 02:09:41", "1319669", "2d4680a8ec9567082b77baef594ca11f2a509c4bae189a239855e00d357c7a34", "sha256_hash", "payload", "win.stealc", "None", "Stealc", "", "95", "None", "None", "0", "Grim"
@@ -70,4 +72,4 @@
 "2024-09-01 00:52:58", "1319107", "01db4e69578d9b424087b90550463a1a1ce88e36f77050fc443d3b6b50b85b23", "sha256_hash", "payload", "win.luca_stealer", "None", "Luca Stealer", "", "95", "None", "None", "0", "Grim"
 "2024-09-01 00:52:53", "1319104", "2954dec8276af3d7c60154c2afb2ae360d696c6a90eb779fd9e380848c6fd8cc", "sha256_hash", "payload", "win.mars_stealer", "None", "Mars Stealer", "", "95", "None", "None", "0", "Grim"
 "2024-09-01 00:52:49", "1319101", "8b76de4bd18371fdc11b923c6ad1056c16d5b24ec28f2c291f362754a36962b8", "sha256_hash", "payload", "win.amadey", "None", "Amadey", "", "95", "None", "None", "0", "Grim"
-# Number of entries: 63
+# Number of entries: 65

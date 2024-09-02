@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-01 21:46:15 UTC                        #
+# Last updated: 2024-09-02 04:01:11 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	tur-pttpayment.top
+127.0.0.1	correoparagua-pry.top
+127.0.0.1	mex-estafeeta.top
 127.0.0.1	kuiwai.top
 127.0.0.1	api.fanspark.club
 127.0.0.1	www.joyfulelderyears.com
@@ -7423,4 +7426,4 @@
 127.0.0.1	porsherses.com
 127.0.0.1	aerh.azureedge.net
 127.0.0.1	www.shelter-paws.com
-# Number of entries: 7417
+# Number of entries: 7420
