@@ -6,8 +6,11 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-02 11:00:01 UTC
+# UPDATE: 2024-09-02 12:00:02 UTC
 ############### END COMMENTS ###############
+{"id": 230678, "url": "http://em.hongba.cn", "discovery": "2024-09-02 11:32:22", "added": "2024-09-02 11:32:22", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "f2bb111f60023ef32e314afad553f9ef"}
+{"id": 230677, "url": "http://vxcvdshdswergwe.hopto.org", "discovery": "2024-09-02 11:30:13", "added": "2024-09-02 11:30:13", "target": "TR-GOV", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "3333c3a77a030f8a7f29f60396fd500e"}
+{"id": 230676, "url": "http://agdunadgdge03.pages.dev", "discovery": "2024-09-02 11:20:12", "added": "2024-09-02 11:20:12", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "5c1b66a54dfb036c8e7e65fba3221417"}
 {"id": 230675, "url": "https://docs.google.com/presentation/d/e/2PACX-1vRsfx634gqTR2aZuTjYGzuKaCQ251W3VfjJ4jn1iyRzYIChjOSStoxtzUMQOLBbuLUYvRaUUv4YGPn_/pub?start=true", "discovery": "2024-09-02 10:48:13", "added": "2024-09-02 10:48:13", "target": "Other", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "41021209566fccc5e8fd08ff788b56f3"}
 {"id": 230674, "url": "https://auth103.github.io/sfr/", "discovery": "2024-09-02 10:00:11", "added": "2024-09-02 10:34:40", "target": "SFR", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "4f964963dcb200ace41618148cdcaea3"}
 {"id": 230673, "url": "https://ipfs.io/ipfs/bafkreialegy5uo24fmcscr2ehqiecy4f5any7yirr6wd23wqqmpxzvxlqy?index.html#x", "discovery": "2024-09-02 09:53:59", "added": "2024-09-02 10:34:26", "target": "Generic Email", "reporter": "anonymous", "AbuseType": "phishing", "UUID": "934a1fb61e354d2db7b14aa3caf8f394"}
@@ -505,6 +508,3 @@
 {"id": 230181, "url": "https://ipfs.io/ipfs/bafybeig7bopm3hu5nreqgmdjsshuask5loqvcdv4x3wobpiatt3exykg4q", "discovery": "2024-09-01 21:06:16", "added": "2024-09-01 21:08:25", "target": "Generic Email", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "19f6004ecd8cc0f5c4e9ac597cb26cbf"}
 {"id": 230180, "url": "https://mohsen.formstack.com/forms/allemagne", "discovery": "2024-09-01 20:58:17", "added": "2024-09-01 21:08:15", "target": "SwissPass", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "ee7b9716a0804cd7bc1f52fe02ebc4be"}
 {"id": 230179, "url": "https://shl.tkp.mybluehost.me/wp-content/depass/email.html", "discovery": "2024-09-01 21:08:03", "added": "2024-09-01 21:08:03", "target": "SwissPass", "reporter": "urlabuse", "AbuseType": "phishing", "UUID": "e8330427e6776a81e0abba171704b09b"}
-{"id": 230178, "url": "https://datr.pages.dev/help/contact/", "discovery": "2024-09-01 20:38:12", "added": "2024-09-01 21:07:12", "target": "Facebook", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "0bd0bbc6c3ca3f12211fbe28db8c98af"}
-{"id": 230177, "url": "http://msgr.com", "discovery": "2024-09-01 20:56:11", "added": "2024-09-01 20:56:11", "target": "Facebook", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "3b5b624eb4b4c3b25a9c096d3e5d616a"}
-{"id": 230176, "url": "http://ccxbcxzb4dssadga.hopto.org", "discovery": "2024-09-01 20:36:12", "added": "2024-09-01 20:36:12", "target": "TR-GOV", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "c5d6ab80b032cc556899726181ff7c8c"}

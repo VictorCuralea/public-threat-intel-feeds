@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-02 11:00:01 UTC
+# UPDATE: 2024-09-02 12:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+230678, 2024-09-02 11:32:22, 2024-09-02 11:32:22, phishing, f2bb111f60023ef32e314afad553f9ef, http://em.hongba.cn
+230677, 2024-09-02 11:30:13, 2024-09-02 11:30:13, phishing, 3333c3a77a030f8a7f29f60396fd500e, http://vxcvdshdswergwe.hopto.org
+230676, 2024-09-02 11:20:12, 2024-09-02 11:20:12, phishing, 5c1b66a54dfb036c8e7e65fba3221417, http://agdunadgdge03.pages.dev
 230675, 2024-09-02 10:48:13, 2024-09-02 10:48:13, phishing, 41021209566fccc5e8fd08ff788b56f3, https://docs.google.com/presentation/d/e/2PACX-1vRsfx634gqTR2aZuTjYGzuKaCQ251W3VfjJ4jn1iyRzYIChjOSStoxtzUMQOLBbuLUYvRaUUv4YGPn_/pub?start=true
 230674, 2024-09-02 10:34:40, 2024-09-02 10:00:11, phishing, 4f964963dcb200ace41618148cdcaea3, https://auth103.github.io/sfr/
 230673, 2024-09-02 10:34:26, 2024-09-02 09:53:59, phishing, 934a1fb61e354d2db7b14aa3caf8f394, https://ipfs.io/ipfs/bafkreialegy5uo24fmcscr2ehqiecy4f5any7yirr6wd23wqqmpxzvxlqy?index.html#x
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 230181, 2024-09-01 21:08:25, 2024-09-01 21:06:16, phishing, 19f6004ecd8cc0f5c4e9ac597cb26cbf, https://ipfs.io/ipfs/bafybeig7bopm3hu5nreqgmdjsshuask5loqvcdv4x3wobpiatt3exykg4q
 230180, 2024-09-01 21:08:15, 2024-09-01 20:58:17, phishing, ee7b9716a0804cd7bc1f52fe02ebc4be, https://mohsen.formstack.com/forms/allemagne
 230179, 2024-09-01 21:08:03, 2024-09-01 21:08:03, phishing, e8330427e6776a81e0abba171704b09b, https://shl.tkp.mybluehost.me/wp-content/depass/email.html
-230178, 2024-09-01 21:07:12, 2024-09-01 20:38:12, phishing, 0bd0bbc6c3ca3f12211fbe28db8c98af, https://datr.pages.dev/help/contact/
-230177, 2024-09-01 20:56:11, 2024-09-01 20:56:11, phishing, 3b5b624eb4b4c3b25a9c096d3e5d616a, http://msgr.com
-230176, 2024-09-01 20:36:12, 2024-09-01 20:36:12, phishing, c5d6ab80b032cc556899726181ff7c8c, http://ccxbcxzb4dssadga.hopto.org
