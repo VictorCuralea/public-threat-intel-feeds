@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-02 03:00:01 UTC
+# UPDATE: 2024-09-02 04:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+230313, 2024-09-02 03:16:17, 2024-09-02 03:16:17, phishing, 38100daa75da93ede24851ff708d6464, http://whats-998.com
+230312, 2024-09-02 03:14:11, 2024-09-02 03:14:11, phishing, 438f6bf507e3ada8decbfbd5a98cae54, http://cop.431527.xyz
 230311, 2024-09-02 02:22:21, 2024-09-02 02:22:21, malware, 70df77cc986841128f85a0d042f086c7, http://ckea.ru/i
 230310, 2024-09-02 02:22:20, 2024-09-02 02:22:20, malware, 6c2f24fe2d854967a836d899d04acd62, http://ckea.ru/f
 230309, 2024-09-02 02:22:20, 2024-09-02 02:22:20, malware, e87b666cbb1d4266868dcc65928d3e10, http://ckea.ru/e
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 229816, 2024-09-01 09:24:19, 2024-09-01 09:24:19, malware, 4644f26e4ec844b48d477dde4efe6321, http://182.113.42.112:36548/i
 229815, 2024-09-01 09:24:18, 2024-09-01 09:24:18, malware, 67a2d090712e41af9a45dd359ce142e4, http://182.113.42.112:36548/bin.sh
 229814, 2024-09-01 09:24:17, 2024-09-01 09:24:17, malware, ada4537a8dc2434eaf9c99800c37ca56, http://177.92.240.168:58050/i
-229813, 2024-09-01 09:24:12, 2024-09-01 09:24:12, malware, 7b7ae400855d4b0b85ea0011cbf02728, http://125.46.129.128:42946/
-229812, 2024-09-01 09:24:11, 2024-09-01 09:24:11, malware, 2d1f0617bae148c791b3a4f92e70c6bd, http://125.43.92.117:59039/i
