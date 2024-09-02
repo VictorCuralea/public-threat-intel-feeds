@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-02 08:23:28 UTC                        #
+# Last updated: 2024-09-02 13:19:39 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	online4321.shop
+127.0.0.1	wrld-proxy.ru
 127.0.0.1	grand-merchants.gl.at.ply.gg
 127.0.0.1	ixiapartner.com
 127.0.0.1	tur-pttpayment.top
@@ -7426,5 +7428,4 @@
 127.0.0.1	remasterprodelherskjs.com
 127.0.0.1	cayennesxque.boo
 127.0.0.1	porsherses.com
-127.0.0.1	aerh.azureedge.net
-# Number of entries: 7421
+# Number of entries: 7422
