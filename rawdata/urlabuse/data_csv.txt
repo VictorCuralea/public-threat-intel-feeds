@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-03 22:00:02 UTC
+# UPDATE: 2024-09-03 23:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+231939, 2024-09-03 22:08:12, 2024-09-03 22:08:12, phishing, 20a6497a7ff872c49f338b7082fcd7ab, http://nanogatefixme.pages.dev
+231938, 2024-09-03 22:02:11, 2024-09-03 22:02:11, phishing, 240aa33569811256d2ef029ada60cfcd, http://ahinmakdhaewa03.pages.dev
 231937, 2024-09-03 21:40:16, 2024-09-03 21:40:16, phishing, d8700e2f38be955935348461d08c88e9, https://photogrfu.info/CH/
 231936, 2024-09-03 21:30:18, 2024-09-03 21:30:18, phishing, c02015ab247cb061a20d449f60928b4b, http://235853921290560725.online
 231935, 2024-09-03 21:28:11, 2024-09-03 21:28:11, phishing, 574a42cc522debdb0d8c945f96f6ba11, https://cavtecbrasil.com.br/mar.html
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 231442, 2024-09-03 07:22:58, 2024-09-03 07:22:58, malware, 559d4bf5262142eb9c3fe8f993880ff9, http://222.138.36.16:48545/i
 231441, 2024-09-03 07:22:56, 2024-09-03 07:22:56, malware, 35df968b603247369810c711d3e2aa67, http://222.138.36.16:48545/
 231440, 2024-09-03 07:22:55, 2024-09-03 07:22:55, malware, 536a4c8849aa438bb25d917ce916b9d5, http://222.138.23.184:57343/i
-231439, 2024-09-03 07:22:53, 2024-09-03 07:22:53, malware, 634f4c49780c47fba3ed362e68cf33ba, http://222.138.119.98:59696/i
-231438, 2024-09-03 07:22:52, 2024-09-03 07:22:52, malware, a005d3b48982459e90ce77fe60d2adfb, http://222.138.119.98:59696/bin.sh
