@@ -1,11 +1,29 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-03 13:14:46 UTC                        #
+# Last updated: 2024-09-03 21:20:11 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	br.libjs.xyz
+127.0.0.1	safegrandapp.monster
+127.0.0.1	getabilityapp.monster
+127.0.0.1	goldabilityapp.monster
+127.0.0.1	hotabilityapp.monster
+127.0.0.1	runabilityapp.monster
+127.0.0.1	savegrandapp.monster
+127.0.0.1	speedgrandapp.monster
+127.0.0.1	topabilityapp.monster
+127.0.0.1	topgrandapp.monster
+127.0.0.1	vipabilityapp.monster
+127.0.0.1	webabilityapp.monster
+127.0.0.1	eliteabilityapp.monster
+127.0.0.1	webgrandapp.monster
+127.0.0.1	bestabilityapp.monster
+127.0.0.1	freeabilityapp.monster
+127.0.0.1	la-michael.gl.at.ply.gg
+127.0.0.1	tynoev02.top
 127.0.0.1	blacktds.online
 127.0.0.1	southasianfitness.com
 127.0.0.1	blacktds.site
@@ -7547,4 +7565,4 @@
 127.0.0.1	ns1.netiapp.org
 127.0.0.1	ns2.netiapp.org
 127.0.0.1	originwealth.ydns.eu
-# Number of entries: 7541
+# Number of entries: 7559
