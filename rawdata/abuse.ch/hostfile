@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-02 21:28:50 UTC                        #
+# Last updated: 2024-09-02 23:47:57 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	nova-stealer.xyz
+127.0.0.1	nova-stealer.tech
 127.0.0.1	newscom.today
 127.0.0.1	www.perfectogruop.net
 127.0.0.1	www.jobsprogress.pro
@@ -7537,4 +7539,4 @@
 127.0.0.1	gdfjkghndfjkghdfjkghdf.com
 127.0.0.1	jdkgradle.com
 127.0.0.1	pushkinorigin.ydns.eu
-# Number of entries: 7531
+# Number of entries: 7533
