@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-03 12:00:02 UTC
+# UPDATE: 2024-09-03 13:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+231559, 2024-09-03 12:58:19, 2024-09-03 12:58:19, phishing, d40e5b911caeb21c43978cbb91105101, http://12315yt.cc
+231558, 2024-09-03 12:56:17, 2024-09-03 12:56:17, phishing, c9f24d6d9acc41932e219a41c8435f9b, http://tg-com-telegram.org
+231557, 2024-09-03 12:36:12, 2024-09-03 12:36:12, phishing, 7deb451be6251c13f4140f214399ea53, http://phishtesting.pages.dev
+231556, 2024-09-03 12:18:13, 2024-09-03 12:18:13, phishing, 23b6fab959ba2f8818dee97903b0c196, http://tesioewurdhjsieyytdodma101.pages.dev
 231555, 2024-09-03 11:50:25, 2024-09-03 11:50:25, phishing, 7228801cbe90d13a98aec63df9c632f8, https://www.dullhonepaqe.vanlahelppi.com
 231554, 2024-09-03 11:46:41, 2024-09-03 11:46:41, phishing, 177c20ffcf4e994052c6924115e56f5c, https://voi-102989.weeblysite.com
 231553, 2024-09-03 11:46:28, 2024-09-03 11:40:17, phishing, 76fbced2c8dfae49a17c2c0fc4111668, https://voicebtmail.atlassian.net/wiki/external/MGQ1N2JjMGNhZTZlNDE4Y2JkYWFkYjUzYTU4NjI4Y2Y
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 231062, 2024-09-02 21:23:53, 2024-09-02 21:23:53, malware, 16635c6148f9454f9cbf32a06b36df83, http://222.141.101.229:40729/i
 231061, 2024-09-02 21:23:51, 2024-09-02 21:23:51, malware, 58bdfb384b3a479abe193bc4b272438b, http://222.139.226.84:52799/bin.sh
 231060, 2024-09-02 21:23:40, 2024-09-02 21:23:40, malware, c8b0f1711147453d99ef76a34e1d5888, http://197.204.62.89:41977/i
-231059, 2024-09-02 21:23:38, 2024-09-02 21:23:38, malware, 38026151d83648c7a5dca4153da7b39e, http://185.196.118.86:44817/
-231058, 2024-09-02 21:23:37, 2024-09-02 21:23:37, malware, 17276b8d3692451c9197163a8402d0f0, http://182.120.55.45:55665/i
-231057, 2024-09-02 21:23:27, 2024-09-02 21:23:27, malware, c035790dd07641538755509452972962, http://154.216.17.97/e6b4482ab80ea753/vcruntime140.dll
-231056, 2024-09-02 21:23:27, 2024-09-02 21:23:27, malware, cccac3d3c85349a3a3cb7108e1752fa8, http://154.216.17.97/e6b4482ab80ea753/sqlite3.dll

@@ -6,8 +6,12 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-03 12:00:02 UTC
+# UPDATE: 2024-09-03 13:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 231559, "url": "http://12315yt.cc", "discovery": "2024-09-03 12:58:19", "added": "2024-09-03 12:58:19", "target": "Telegram", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "d40e5b911caeb21c43978cbb91105101"}
+{"id": 231558, "url": "http://tg-com-telegram.org", "discovery": "2024-09-03 12:56:17", "added": "2024-09-03 12:56:17", "target": "Telegram", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "c9f24d6d9acc41932e219a41c8435f9b"}
+{"id": 231557, "url": "http://phishtesting.pages.dev", "discovery": "2024-09-03 12:36:12", "added": "2024-09-03 12:36:12", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "7deb451be6251c13f4140f214399ea53"}
+{"id": 231556, "url": "http://tesioewurdhjsieyytdodma101.pages.dev", "discovery": "2024-09-03 12:18:13", "added": "2024-09-03 12:18:13", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "23b6fab959ba2f8818dee97903b0c196"}
 {"id": 231555, "url": "https://www.dullhonepaqe.vanlahelppi.com", "discovery": "2024-09-03 11:50:25", "added": "2024-09-03 11:50:25", "target": "du(AE)", "reporter": "karenit", "AbuseType": "phishing", "UUID": "7228801cbe90d13a98aec63df9c632f8"}
 {"id": 231554, "url": "https://voi-102989.weeblysite.com", "discovery": "2024-09-03 11:46:41", "added": "2024-09-03 11:46:41", "target": "BT", "reporter": "urlabuse", "AbuseType": "phishing", "UUID": "177c20ffcf4e994052c6924115e56f5c"}
 {"id": 231553, "url": "https://voicebtmail.atlassian.net/wiki/external/MGQ1N2JjMGNhZTZlNDE4Y2JkYWFkYjUzYTU4NjI4Y2Y", "discovery": "2024-09-03 11:40:17", "added": "2024-09-03 11:46:28", "target": "BT", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "76fbced2c8dfae49a17c2c0fc4111668"}
@@ -504,7 +508,3 @@
 {"id": 231062, "url": "http://222.141.101.229:40729/i", "discovery": "2024-09-02 21:23:53", "added": "2024-09-02 21:23:53", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "16635c6148f9454f9cbf32a06b36df83"}
 {"id": 231061, "url": "http://222.139.226.84:52799/bin.sh", "discovery": "2024-09-02 21:23:51", "added": "2024-09-02 21:23:51", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "58bdfb384b3a479abe193bc4b272438b"}
 {"id": 231060, "url": "http://197.204.62.89:41977/i", "discovery": "2024-09-02 21:23:40", "added": "2024-09-02 21:23:40", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "c8b0f1711147453d99ef76a34e1d5888"}
-{"id": 231059, "url": "http://185.196.118.86:44817/", "discovery": "2024-09-02 21:23:38", "added": "2024-09-02 21:23:38", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "38026151d83648c7a5dca4153da7b39e"}
-{"id": 231058, "url": "http://182.120.55.45:55665/i", "discovery": "2024-09-02 21:23:37", "added": "2024-09-02 21:23:37", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "17276b8d3692451c9197163a8402d0f0"}
-{"id": 231057, "url": "http://154.216.17.97/e6b4482ab80ea753/vcruntime140.dll", "discovery": "2024-09-02 21:23:27", "added": "2024-09-02 21:23:27", "target": "#PE32DLL_CMD", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "c035790dd07641538755509452972962"}
-{"id": 231056, "url": "http://154.216.17.97/e6b4482ab80ea753/sqlite3.dll", "discovery": "2024-09-02 21:23:27", "added": "2024-09-02 21:23:27", "target": "#PE32DLL_CMD", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "cccac3d3c85349a3a3cb7108e1752fa8"}
