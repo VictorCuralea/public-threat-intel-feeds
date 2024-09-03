@@ -6,9 +6,19 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-03 04:00:01 UTC
+# UPDATE: 2024-09-03 05:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+231330, 2024-09-03 04:59:05, 2024-09-03 02:12:37, phishing, cf3c3210693cbed5bfab36e3504c5eee, https://checkered-messy-finch.glitch.me/loading.html#x
+231329, 2024-09-03 04:56:59, 2024-09-03 02:31:47, phishing, 01950ddc169a2a20cd94ceb3607c412d, https://email.abidokiba.site/_jurassic_oxy/zone/7d9a0d11cb36e12a68817aff945390de/login.php?login&_x_tr_sl=auto&_x_tr_tl=null&_x_tr_hl=null&_x_tr_pto=wapp&request_type=null&no_redrct=null&pcnt=null&no_psplash=null&pmax=null
+231328, 2024-09-03 04:56:15, 2024-09-03 04:56:15, phishing, 593f2cd972a85d1a5276d5983324ba8c, http://iadatiadekampanyasi2024.com
+231327, 2024-09-03 04:55:12, 2024-09-03 02:27:11, phishing, 6979768ebda8cc0ff7e5856e676bb11d, https://email.rootford.click/kvbapata?login=x
+231326, 2024-09-03 04:54:20, 2024-09-03 02:06:03, phishing, 4dfffda8c548471a3970c8acffd76faf, https://hardbin.com/ipfs/bafybeigldqjart7pafsj5di3l733zg4lc5rr6j3hl7vuhjk3bfjm45wuo4/#x
+231325, 2024-09-03 04:42:12, 2024-09-03 04:42:12, phishing, e4fc452b6dc96400ef45282057940472, http://2gyjthm.pages.dev
+231324, 2024-09-03 04:34:15, 2024-09-03 04:34:15, phishing, 0872ed1545180cd1db4a1aa8ec3aa005, http://oravocacndex.duckdns.org
+231323, 2024-09-03 04:20:13, 2024-09-03 04:20:13, phishing, 1e3b1c105433eaaccc03f160949b3ccd, http://fastfixed.pages.dev
+231322, 2024-09-03 04:16:12, 2024-09-03 04:16:12, phishing, d9c7fd7e6223a511247856a3cf035913, http://conneoranind.duckdns.org
+231321, 2024-09-03 04:02:15, 2024-09-03 04:02:15, phishing, 1f58a7fd89b5e4d87ceb990ae75560a2, https://owa.inteko.ru/
 231320, 2024-09-03 03:42:13, 2024-09-03 03:42:13, phishing, 4e577cf3fc939800bc9eabf5330ea810, http://copilot2.amm2074.top
 231319, 2024-09-03 03:25:52, 2024-09-03 03:25:52, malware, 06acb3598f464781b937002a9fac4971, http://61.53.72.53:54192/i
 231318, 2024-09-03 03:25:50, 2024-09-03 03:25:50, malware, 50c7591887354c6ca720f1c84c33d483, http://61.53.72.53:54192/bin.sh
@@ -499,13 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 230833, 2024-09-02 15:23:58, 2024-09-02 15:23:58, malware, 6a8e6a30689246c58efa94de0b0b662a, http://123.12.24.54:34026/bin.sh
 230832, 2024-09-02 15:23:56, 2024-09-02 15:23:56, malware, 9fba4ab544984eb392fae585a77fb3e7, http://123.11.202.121:57989/bin.sh
 230831, 2024-09-02 15:23:34, 2024-09-02 15:23:34, malware, cfa6e679778346519eea20a2241ee28a, http://119.179.214.55:55168/bin.sh
-230830, 2024-09-02 15:22:31, 2024-09-02 15:22:31, malware, 3ff77a5e5760409ab768ad7a6eb895ee, http://117.247.109.76:32878/Mozi.m
-230829, 2024-09-02 15:22:09, 2024-09-02 15:22:09, malware, ae4a8450dabd44cd8e127e46e8294e8e, http://117.235.124.208:36838/Mozi.m
-230828, 2024-09-02 15:21:57, 2024-09-02 15:21:57, malware, 0998de88a6f643cf89c56fbdc62c59d0, http://117.221.199.69:34906/i
-230827, 2024-09-02 15:21:36, 2024-09-02 15:21:36, malware, b77de75757914366aa6f653662571d2e, http://117.217.54.223:34928/Mozi.m
-230826, 2024-09-02 15:21:23, 2024-09-02 15:21:23, malware, 241ac0ad044d446287c171843014460c, http://117.212.175.137:58997/i
-230825, 2024-09-02 15:21:21, 2024-09-02 15:21:21, malware, 9898b6d670b94b04b6a451b0c1fa893d, http://117.208.253.184:38553/bin.sh
-230824, 2024-09-02 15:20:54, 2024-09-02 15:20:54, malware, b90bc82b47c441b6959c9a1a916070e6, http://117.205.46.243:46357/bin.sh
-230823, 2024-09-02 15:20:27, 2024-09-02 15:20:27, malware, bcf26fde6181400e89fbce884ddb98ce, http://117.195.175.33:59305/Mozi.m
-230822, 2024-09-02 15:20:15, 2024-09-02 15:20:15, malware, 84d71c35bd5e41cc873d452aa538f855, http://115.58.171.211:56917/i
-230821, 2024-09-02 15:20:14, 2024-09-02 15:20:14, malware, b9cd24e70f7541778f4f8e025b4b7e59, http://115.56.178.135:36621/bin.sh
