@@ -6,9 +6,18 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-03 20:00:01 UTC
+# UPDATE: 2024-09-03 21:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+231885, 2024-09-03 20:52:15, 2024-09-03 20:52:15, phishing, 15469c7f677a4ba42a6e45d3301dcd1b, https://chacararecantodosol.com.br/-/swisssa20244/swisscom/index2.php
+231884, 2024-09-03 20:50:18, 2024-09-03 20:50:18, phishing, b6cfcf6aaaae7594ae00ce5784bd0c11, https://www.confeitariadama.com.br/mar.html
+231883, 2024-09-03 20:47:54, 2024-09-03 20:47:54, phishing, 7e305a76e05b1b2e07b8b2a201b6a3c1, https://zolotayapodkovka.ru/.tmb/.../closed/fr/1/doc/start_index.php
+231882, 2024-09-03 20:47:33, 2024-09-03 20:47:33, phishing, 229d070bd48fc31029f87ee1ef26b9cc, https://harawla.info/wolves/
+231881, 2024-09-03 20:47:12, 2024-09-03 20:47:12, phishing, 377399ceceee8924fae3086f007d5807, https://jhb-castro.weeblysite.com/
+231880, 2024-09-03 20:46:43, 2024-09-03 20:46:43, phishing, 85cde00eba315960460661a8673b0541, https://bt-board-101491.weeblysite.com/
+231879, 2024-09-03 20:38:13, 2024-09-03 20:38:13, phishing, 810a9a5f450d1500284364f17019ebdd, https://www.mirandolinadipietrantonio.com/se/
+231878, 2024-09-03 20:30:17, 2024-09-03 20:30:17, phishing, e448bc1daa7ab59467bd12b1abd1e959, http://08952321800560725.xyz
+231877, 2024-09-03 20:26:17, 2024-09-03 20:26:17, phishing, 5de4432ac9b146419899be6e2d995c6e, https://cloud-php3038327.is-a-landscaper.com/sch/login.php
 231876, 2024-09-03 19:44:15, 2024-09-03 19:44:15, phishing, 6c8e570fe9106a978e95f0387c990925, http://actualisation-santevitale.com
 231875, 2024-09-03 19:42:15, 2024-09-03 19:42:15, phishing, 2d5e1b48b12dd1208316294919857063, http://actualisationrenouv-sante.com
 231874, 2024-09-03 19:24:20, 2024-09-03 19:24:20, malware, f16a04400f65431a984a82e49ac069c6, http://78.173.191.148:33268/Mozi.m
@@ -500,12 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 231388, 2024-09-03 05:27:40, 2024-09-03 05:27:40, malware, f33c7a27f2e24eb5b4e4f29327eb63be, http://88.250.50.11:36511/bin.sh
 231387, 2024-09-03 05:27:35, 2024-09-03 05:27:35, malware, da4a86d83eb649b7a2a8e9f698aadafc, http://61.53.73.216:36066/i
 231386, 2024-09-03 05:27:33, 2024-09-03 05:27:33, malware, afa57b16bf2f4539b24666185a6c701a, http://61.53.73.216:36066/bin.sh
-231385, 2024-09-03 05:27:31, 2024-09-03 05:27:31, malware, 8957892ffadc4f0d9f6466af20da3ce9, http://61.53.118.151:35599/Mozi.m
-231384, 2024-09-03 05:27:30, 2024-09-03 05:27:30, malware, 416ffe36919f4122827ac9e747518246, http://61.52.191.58:40754/i
-231383, 2024-09-03 05:27:28, 2024-09-03 05:27:28, malware, 7447fb0e3201494ebe33fbcaa380753b, http://61.52.159.87:40806/Mozi.m
-231382, 2024-09-03 05:27:07, 2024-09-03 05:27:07, malware, 0e022469ae904a6c89c4e26afea5d5b4, http://61.1.225.124:58904/bin.sh
-231381, 2024-09-03 05:25:55, 2024-09-03 05:25:55, malware, 1023a7017e654f4e958a236a4cb24431, http://59.89.239.158:34471/i
-231380, 2024-09-03 05:25:34, 2024-09-03 05:25:34, malware, 797a41937fa7426983cd1c62ae63592a, http://59.184.64.142:39874/Mozi.m
-231379, 2024-09-03 05:25:11, 2024-09-03 05:25:11, malware, 5b136b6af6614db2903e946163dc1076, http://59.183.108.14:44390/bin.sh
-231378, 2024-09-03 05:24:59, 2024-09-03 05:24:59, malware, c75bc7b2a4b14c44a5ded48e8205487b, http://42.231.251.31:39815/
-231377, 2024-09-03 05:24:57, 2024-09-03 05:24:57, malware, f5725952c21a4c748524a56085080df0, http://42.230.60.238:45693/i
