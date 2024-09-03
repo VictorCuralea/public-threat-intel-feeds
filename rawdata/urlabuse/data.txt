@@ -6,8 +6,16 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-03 06:00:01 UTC
+# UPDATE: 2024-09-03 07:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 231400, "url": "https://www.mobilielsa.it/wp-content/se/", "discovery": "2024-09-03 06:40:18", "added": "2024-09-03 06:40:18", "target": "SwissPass", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "3a920df2234adeea8ec390f1c5381e26"}
+{"id": 231399, "url": "http://1adyjwfety11.pages.dev", "discovery": "2024-09-03 06:20:13", "added": "2024-09-03 06:20:13", "target": "Amazon", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "65545ef8bcb19dcd7b2ec1ed0286adc7"}
+{"id": 231398, "url": "https://officecleaningcaremelbourne.com.au/", "discovery": "2024-09-03 06:02:26", "added": "2024-09-03 06:02:26", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "78f00f0e3bef7728be969eec724d3282"}
+{"id": 231397, "url": "https://aq.portraitsrus.com.au/", "discovery": "2024-09-03 06:02:25", "added": "2024-09-03 06:02:25", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "da43f172197767fcb932dd710766b45a"}
+{"id": 231396, "url": "https://_wildcard_.portraitsrus.com.au/", "discovery": "2024-09-03 06:02:21", "added": "2024-09-03 06:02:21", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "29e8afb5c0688aa57b494a1816c235e8"}
+{"id": 231395, "url": "https://martanunespsicologa.com.br/", "discovery": "2024-09-03 06:02:17", "added": "2024-09-03 06:02:17", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "1863ad7febb56f65b9ff702fb68a2a79"}
+{"id": 231394, "url": "https://empilhadeiras.shop/", "discovery": "2024-09-03 06:02:17", "added": "2024-09-03 06:02:17", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "72fd985167e158ec59d1c5fe325cf487"}
+{"id": 231393, "url": "http://rodasparaempilhadeiras.com.br/", "discovery": "2024-09-03 06:02:14", "added": "2024-09-03 06:02:14", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "878909b1648b7493d433fa165dfeda7c"}
 {"id": 231392, "url": "https://corporaciondirep.org/sci/9314668766/update/WEBMAIL1.html", "discovery": "2024-09-03 05:37:46", "added": "2024-09-03 05:54:19", "target": "Generic Email", "reporter": "anonymous", "AbuseType": "phishing", "UUID": "9a98a8621e7628d79c65c039ac55077a"}
 {"id": 231391, "url": "https://yvan.mywebmarseille.com/wpwpp/wpwww.php", "discovery": "2024-09-03 05:46:11", "added": "2024-09-03 05:46:11", "target": "SwissPass", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "9eb832a6b43eabd088609e728f331cb2"}
 {"id": 231390, "url": "https://kejar.telponin.com/wpwpp/in/", "discovery": "2024-09-03 05:32:13", "added": "2024-09-03 05:32:13", "target": "SwissPass", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "2b8a1dc96df683bf8fbf3d94f209c7d6"}
@@ -500,11 +508,3 @@
 {"id": 230903, "url": "http://smartreviseweb3.pages.dev", "discovery": "2024-09-02 17:28:15", "added": "2024-09-02 17:28:15", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "e0957531616ff6c77b4f16425fd76c31"}
 {"id": 230902, "url": "http://consulter-ameli.com", "discovery": "2024-09-02 17:24:15", "added": "2024-09-02 17:24:15", "target": "FR-GOV", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "23e722449a08b7b696b290281efed4b6"}
 {"id": 230901, "url": "https://my-bt-business-3892.webflow.io/", "discovery": "2024-09-02 17:16:12", "added": "2024-09-02 17:16:12", "target": "BT", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "e966840dae80573514aa6d2d003186c9"}
-{"id": 230900, "url": "https://owa.inteko.ru/CookieAuth.dll?GetLogon?curl=Z2Fowa&reason=0&formdir=1", "discovery": "2024-09-02 16:54:13", "added": "2024-09-02 16:54:13", "target": "Microsoft", "reporter": "lrucbotd", "AbuseType": "phishing", "UUID": "a3ad62a92491a51fe4b5fb509a414ee7"}
-{"id": 230899, "url": "http://owa.inteco.ru", "discovery": "2024-09-02 16:52:17", "added": "2024-09-02 16:52:17", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "bd167f0c19871aa2f0cd9847e3353033"}
-{"id": 230898, "url": "http://06tian-olu07auth-maggie07.pages.dev", "discovery": "2024-09-02 16:32:11", "added": "2024-09-02 16:32:11", "target": "AT&T", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "1a778158379c67a778690e88c6d3d741"}
-{"id": 230897, "url": "http://xn--aid-1laa2ga2ca40ha.online", "discovery": "2024-09-02 16:14:12", "added": "2024-09-02 16:14:12", "target": "TR-GOV", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "9112788958267f79000e03561932ffcf"}
-{"id": 230896, "url": "http://idern.rionegro.gov.ar/geoserver/", "discovery": "2024-09-02 16:04:33", "added": "2024-09-02 16:04:33", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "6895241d5c825863fec10d98845e4604"}
-{"id": 230895, "url": "http://logistik.innotech.co.id/zs.php", "discovery": "2024-09-02 16:04:29", "added": "2024-09-02 16:04:29", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "83aa7c584f2a2f759c9ea344005455d6"}
-{"id": 230894, "url": "http://dental.innotech.co.id/zs.php", "discovery": "2024-09-02 16:04:27", "added": "2024-09-02 16:04:27", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "535800c73e05d49d7c6a7cc5d513f8cd"}
-{"id": 230893, "url": "http://kiasalon.innotech.co.id/zs.php", "discovery": "2024-09-02 16:04:25", "added": "2024-09-02 16:04:25", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "a895867b711d95ec275e3c6f30adbd0e"}

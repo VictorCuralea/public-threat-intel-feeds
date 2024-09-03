@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-02 23:47:57 UTC                        #
+# Last updated: 2024-09-03 06:08:45 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	noithatcombo.com.vn
+127.0.0.1	fdfdsfdsag.duckdns.org
 127.0.0.1	nova-stealer.xyz
 127.0.0.1	nova-stealer.tech
 127.0.0.1	newscom.today
@@ -7538,5 +7540,4 @@
 127.0.0.1	originwealth.ydns.eu
 127.0.0.1	gdfjkghndfjkghdfjkghdf.com
 127.0.0.1	jdkgradle.com
-127.0.0.1	pushkinorigin.ydns.eu
-# Number of entries: 7533
+# Number of entries: 7534
