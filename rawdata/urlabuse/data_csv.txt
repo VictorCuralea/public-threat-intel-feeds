@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-03 00:00:01 UTC
+# UPDATE: 2024-09-03 01:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+231174, 2024-09-03 00:18:13, 2024-09-03 00:18:13, phishing, adc1c781289d8c1bb20a218665deec9d, http://tokenclaims.pages.dev
+231173, 2024-09-03 00:14:12, 2024-09-03 00:14:12, phishing, a77ae78d9e1839990a488332e2198e39, http://dee4e6a6ff5af5fbc520f9b5bee4e9b5b.pages.dev
 231172, 2024-09-02 23:38:10, 2024-09-02 23:38:10, phishing, f2afb54f49c8fbb080c5f3374f7fff0b, http://tasioewurdhjsieyytdodma04.pages.dev
 231171, 2024-09-02 23:27:19, 2024-09-02 23:27:19, malware, eeac56b952884f969e92c0a2f3ba9982, http://61.53.72.53:54192/
 231170, 2024-09-02 23:27:17, 2024-09-02 23:27:17, malware, baa7db1fe82d444a8880506688f3b5f7, http://61.53.72.184:34091/i
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 230677, 2024-09-02 11:30:13, 2024-09-02 11:30:13, phishing, 3333c3a77a030f8a7f29f60396fd500e, http://vxcvdshdswergwe.hopto.org
 230676, 2024-09-02 11:20:12, 2024-09-02 11:20:12, phishing, 5c1b66a54dfb036c8e7e65fba3221417, http://agdunadgdge03.pages.dev
 230675, 2024-09-02 10:48:13, 2024-09-02 10:48:13, phishing, 41021209566fccc5e8fd08ff788b56f3, https://docs.google.com/presentation/d/e/2PACX-1vRsfx634gqTR2aZuTjYGzuKaCQ251W3VfjJ4jn1iyRzYIChjOSStoxtzUMQOLBbuLUYvRaUUv4YGPn_/pub?start=true
-230674, 2024-09-02 10:34:40, 2024-09-02 10:00:11, phishing, 4f964963dcb200ace41618148cdcaea3, https://auth103.github.io/sfr/
-230673, 2024-09-02 10:34:26, 2024-09-02 09:53:59, phishing, 934a1fb61e354d2db7b14aa3caf8f394, https://ipfs.io/ipfs/bafkreialegy5uo24fmcscr2ehqiecy4f5any7yirr6wd23wqqmpxzvxlqy?index.html#x

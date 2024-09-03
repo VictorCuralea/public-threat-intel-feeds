@@ -6,8 +6,10 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-03 00:00:01 UTC
+# UPDATE: 2024-09-03 01:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 231174, "url": "http://tokenclaims.pages.dev", "discovery": "2024-09-03 00:18:13", "added": "2024-09-03 00:18:13", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "adc1c781289d8c1bb20a218665deec9d"}
+{"id": 231173, "url": "http://dee4e6a6ff5af5fbc520f9b5bee4e9b5b.pages.dev", "discovery": "2024-09-03 00:14:12", "added": "2024-09-03 00:14:12", "target": "AT&T", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "a77ae78d9e1839990a488332e2198e39"}
 {"id": 231172, "url": "http://tasioewurdhjsieyytdodma04.pages.dev", "discovery": "2024-09-02 23:38:10", "added": "2024-09-02 23:38:10", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "f2afb54f49c8fbb080c5f3374f7fff0b"}
 {"id": 231171, "url": "http://61.53.72.53:54192/", "discovery": "2024-09-02 23:27:19", "added": "2024-09-02 23:27:19", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "eeac56b952884f969e92c0a2f3ba9982"}
 {"id": 231170, "url": "http://61.53.72.184:34091/i", "discovery": "2024-09-02 23:27:17", "added": "2024-09-02 23:27:17", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "baa7db1fe82d444a8880506688f3b5f7"}
@@ -506,5 +508,3 @@
 {"id": 230677, "url": "http://vxcvdshdswergwe.hopto.org", "discovery": "2024-09-02 11:30:13", "added": "2024-09-02 11:30:13", "target": "TR-GOV", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "3333c3a77a030f8a7f29f60396fd500e"}
 {"id": 230676, "url": "http://agdunadgdge03.pages.dev", "discovery": "2024-09-02 11:20:12", "added": "2024-09-02 11:20:12", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "5c1b66a54dfb036c8e7e65fba3221417"}
 {"id": 230675, "url": "https://docs.google.com/presentation/d/e/2PACX-1vRsfx634gqTR2aZuTjYGzuKaCQ251W3VfjJ4jn1iyRzYIChjOSStoxtzUMQOLBbuLUYvRaUUv4YGPn_/pub?start=true", "discovery": "2024-09-02 10:48:13", "added": "2024-09-02 10:48:13", "target": "Other", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "41021209566fccc5e8fd08ff788b56f3"}
-{"id": 230674, "url": "https://auth103.github.io/sfr/", "discovery": "2024-09-02 10:00:11", "added": "2024-09-02 10:34:40", "target": "SFR", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "4f964963dcb200ace41618148cdcaea3"}
-{"id": 230673, "url": "https://ipfs.io/ipfs/bafkreialegy5uo24fmcscr2ehqiecy4f5any7yirr6wd23wqqmpxzvxlqy?index.html#x", "discovery": "2024-09-02 09:53:59", "added": "2024-09-02 10:34:26", "target": "Generic Email", "reporter": "anonymous", "AbuseType": "phishing", "UUID": "934a1fb61e354d2db7b14aa3caf8f394"}
