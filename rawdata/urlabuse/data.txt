@@ -6,8 +6,13 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-03 02:00:01 UTC
+# UPDATE: 2024-09-03 03:00:02 UTC
 ############### END COMMENTS ###############
+{"id": 231248, "url": "http://collabfarecreated.pages.dev", "discovery": "2024-09-03 02:58:17", "added": "2024-09-03 02:58:17", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "2c791b157f7318a8e5a12050ef5ca95d"}
+{"id": 231247, "url": "http://resolutiondapps.pages.dev", "discovery": "2024-09-03 02:48:15", "added": "2024-09-03 02:48:15", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "54a50fc36e009b2fd9697bb53bd6900f"}
+{"id": 231246, "url": "http://bing.fyl080801.top", "discovery": "2024-09-03 02:44:10", "added": "2024-09-03 02:44:10", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "df0515a57b0f6b5e1c046804bb048427"}
+{"id": 231245, "url": "http://wachat-jp.com", "discovery": "2024-09-03 02:42:14", "added": "2024-09-03 02:42:14", "target": "Whatsapp", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "f80d7c52c749861678e5336bdd04135b"}
+{"id": 231244, "url": "http://bywzygy.com", "discovery": "2024-09-03 02:30:18", "added": "2024-09-03 02:30:18", "target": "Whatsapp", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "4849a185d9f06f3abdf4f0a26c0db169"}
 {"id": 231243, "url": "http://downloadsparrow.com/cl/Nezur.exe", "discovery": "2024-09-03 01:27:07", "added": "2024-09-03 01:27:07", "target": "#PE64_CMD", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "c013d21645d24ed18fb4f105f08a83a2"}
 {"id": 231242, "url": "http://downloadsparrow.com/cl/byebyefronbypass.exe", "discovery": "2024-09-03 01:26:59", "added": "2024-09-03 01:26:59", "target": "#PE64_CMD", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "88c1a737fa2e4e3d8fd6de900906d956"}
 {"id": 231241, "url": "http://88.250.50.11:36511/", "discovery": "2024-09-03 01:24:32", "added": "2024-09-03 01:24:32", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "f4bc7c0bb5b4411cb6755e0dc18c607c"}
@@ -503,8 +508,3 @@
 {"id": 230751, "url": "https://gaurangimaitra.com/", "discovery": "2024-09-02 14:02:22", "added": "2024-09-02 14:02:22", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "8f453cf17abda1f98ec110acb9abcc9f"}
 {"id": 230750, "url": "https://cordoba-travel.com/index.html", "discovery": "2024-09-02 14:02:22", "added": "2024-09-02 14:02:22", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "035ab6689c04b346190d14b30a94da0e"}
 {"id": 230749, "url": "https://globalpis.applynowglobal.com/index.html", "discovery": "2024-09-02 14:02:20", "added": "2024-09-02 14:02:20", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "147af87cdc98e5e1c1bed65da365fa81"}
-{"id": 230748, "url": "https://abc.applynowglobal.com/index.html", "discovery": "2024-09-02 14:02:18", "added": "2024-09-02 14:02:18", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "5e98a4acc72ea31e0e28d11e43137d23"}
-{"id": 230747, "url": "https://progaticollegelibrary.co.in/", "discovery": "2024-09-02 14:02:14", "added": "2024-09-02 14:02:14", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "9672159385adc4cd180066fc515caa21"}
-{"id": 230746, "url": "http://mobilestream.xyz/", "discovery": "2024-09-02 14:02:13", "added": "2024-09-02 14:02:13", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "7cf9abfc50cdf5432b65a78dcb74980f"}
-{"id": 230745, "url": "https://sculptawaymedspa.com/index.html", "discovery": "2024-09-02 14:02:12", "added": "2024-09-02 14:02:12", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "d4d6d6743145be2ccc633d9dcf551f20"}
-{"id": 230744, "url": "https://xiaomi2024.serv00.net/index.html", "discovery": "2024-09-02 14:02:12", "added": "2024-09-02 14:02:12", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "f681cc99335e19d30d6d76684caf0650"}

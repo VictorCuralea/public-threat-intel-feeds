@@ -6,9 +6,14 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-03 02:00:01 UTC
+# UPDATE: 2024-09-03 03:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+231248, 2024-09-03 02:58:17, 2024-09-03 02:58:17, phishing, 2c791b157f7318a8e5a12050ef5ca95d, http://collabfarecreated.pages.dev
+231247, 2024-09-03 02:48:15, 2024-09-03 02:48:15, phishing, 54a50fc36e009b2fd9697bb53bd6900f, http://resolutiondapps.pages.dev
+231246, 2024-09-03 02:44:10, 2024-09-03 02:44:10, phishing, df0515a57b0f6b5e1c046804bb048427, http://bing.fyl080801.top
+231245, 2024-09-03 02:42:14, 2024-09-03 02:42:14, phishing, f80d7c52c749861678e5336bdd04135b, http://wachat-jp.com
+231244, 2024-09-03 02:30:18, 2024-09-03 02:30:18, phishing, 4849a185d9f06f3abdf4f0a26c0db169, http://bywzygy.com
 231243, 2024-09-03 01:27:07, 2024-09-03 01:27:07, malware, c013d21645d24ed18fb4f105f08a83a2, http://downloadsparrow.com/cl/Nezur.exe
 231242, 2024-09-03 01:26:59, 2024-09-03 01:26:59, malware, 88c1a737fa2e4e3d8fd6de900906d956, http://downloadsparrow.com/cl/byebyefronbypass.exe
 231241, 2024-09-03 01:24:32, 2024-09-03 01:24:32, malware, f4bc7c0bb5b4411cb6755e0dc18c607c, http://88.250.50.11:36511/
@@ -504,8 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 230751, 2024-09-02 14:02:22, 2024-09-02 14:02:22, hacked, 8f453cf17abda1f98ec110acb9abcc9f, https://gaurangimaitra.com/
 230750, 2024-09-02 14:02:22, 2024-09-02 14:02:22, hacked, 035ab6689c04b346190d14b30a94da0e, https://cordoba-travel.com/index.html
 230749, 2024-09-02 14:02:20, 2024-09-02 14:02:20, hacked, 147af87cdc98e5e1c1bed65da365fa81, https://globalpis.applynowglobal.com/index.html
-230748, 2024-09-02 14:02:18, 2024-09-02 14:02:18, hacked, 5e98a4acc72ea31e0e28d11e43137d23, https://abc.applynowglobal.com/index.html
-230747, 2024-09-02 14:02:14, 2024-09-02 14:02:14, hacked, 9672159385adc4cd180066fc515caa21, https://progaticollegelibrary.co.in/
-230746, 2024-09-02 14:02:13, 2024-09-02 14:02:13, hacked, 7cf9abfc50cdf5432b65a78dcb74980f, http://mobilestream.xyz/
-230745, 2024-09-02 14:02:12, 2024-09-02 14:02:12, hacked, d4d6d6743145be2ccc633d9dcf551f20, https://sculptawaymedspa.com/index.html
-230744, 2024-09-02 14:02:12, 2024-09-02 14:02:12, hacked, f681cc99335e19d30d6d76684caf0650, https://xiaomi2024.serv00.net/index.html
