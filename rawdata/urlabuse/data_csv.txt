@@ -6,9 +6,14 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-03 08:00:01 UTC
+# UPDATE: 2024-09-03 09:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+231464, 2024-09-03 08:32:11, 2024-09-03 08:32:11, phishing, 4dbe73b6d183ab69f2d57c419da92fbe, http://bygctwdfvbnmmmifeuhgybndeuytfvgbwe.pages.dev
+231463, 2024-09-03 08:24:14, 2024-09-03 08:24:14, phishing, 555bb44038284ed45d1e9d4de0901fa6, https://slnk.metricool.com/public/smartlink/btincbroadband
+231462, 2024-09-03 08:24:04, 2024-09-03 08:12:13, phishing, e5671b0663734893862f9cf5ee6ffafc, https://mtr.bio/btincbroadband
+231461, 2024-09-03 08:23:51, 2024-09-03 08:02:13, phishing, 23137ea890d3992fcad99ee71bc93eb7, https://bt-103851.weeblysite.com/
+231460, 2024-09-03 08:22:12, 2024-09-03 08:22:12, phishing, a54d3703427ae274235cb2f701464fd1, https://xxbtxx0360.weebly.com/
 231459, 2024-09-03 07:32:10, 2024-09-03 07:32:10, phishing, 5f5dc62c67c315ebe1da21cd077fd682, https://www.paperplanedesign.it/backup/home/packet/post/lang.php
 231458, 2024-09-03 07:30:16, 2024-09-03 07:30:16, phishing, 4768771c4c0c9c3389f2ddf9e4bc99d1, https://flowto.it/IV2RwaD1A?fc=0
 231457, 2024-09-03 07:24:58, 2024-09-03 07:24:58, malware, 002352121b984c4ca016ff5a7488d60c, http://61.53.193.135:49257/i
@@ -504,8 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 230967, 2024-09-02 19:20:20, 2024-09-02 19:20:20, malware, de1d26c71f0b403ebcee1d4c0a65d879, http://115.55.139.120:51417/i
 230966, 2024-09-02 19:20:19, 2024-09-02 19:20:19, malware, 9e8b781d1c9249a7a72a286087454429, http://115.50.213.15:38350/Mozi.m
 230965, 2024-09-02 19:20:17, 2024-09-02 19:20:17, malware, 82e5a91e9e6644f2acf72ddf886f7d10, http://115.49.210.90:48746/i
-230964, 2024-09-02 19:20:16, 2024-09-02 19:20:16, malware, c562877191324209b8eccde1ccb32645, http://115.49.210.90:48746/bin.sh
-230963, 2024-09-02 19:20:03, 2024-09-02 19:20:03, malware, 432f28ddd31542f2ae9bdb502a155eed, http://104.163.177.26:55340/i
-230962, 2024-09-02 19:02:20, 2024-09-02 19:02:20, phishing, 7af691adaf066e94904b83d2cf2962b7, http://telegrm-x.org/
-230961, 2024-09-02 19:02:16, 2024-09-02 19:02:16, phishing, 52d58314bbbc6772567c98cf6e957fb7, http://telegrm-c.org/
-230960, 2024-09-02 19:02:16, 2024-09-02 19:02:16, phishing, 591499cf7aac007166965679fa6c9524, http://telegrm-b.org/
