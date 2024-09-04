@@ -6,9 +6,22 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-04 14:00:02 UTC
+# UPDATE: 2024-09-04 15:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+232502, 2024-09-04 14:26:13, 2024-09-04 14:26:13, phishing, 76bd06831d8541d69232572e23f259c3, http://sdhawiahgfuwyeuyabfuiwayeuyruyahhfdjhakjdhjhfahdaurwwphp.pages.dev
+232501, 2024-09-04 14:22:16, 2024-09-04 14:22:16, phishing, 58fdb48b7c1f2ef06d7e444a440bb236, http://tokenpokcet.co
+232500, 2024-09-04 14:04:17, 2024-09-04 14:04:17, phishing, 3174761693741abf6030f1f60ad58953, http://wawhapp-llc.com
+232499, 2024-09-04 14:02:37, 2024-09-04 14:02:37, hacked, b5502b98451c98c9c9334873389ba176, https://flomakrealty.com/
+232498, 2024-09-04 14:02:33, 2024-09-04 14:02:33, hacked, 658552957c6b8b026ddc20e8e7b39b4d, https://www.odetocodeec.com/
+232497, 2024-09-04 14:02:27, 2024-09-04 14:02:27, hacked, bac6ed71e6cdfd6125f028aabc35c364, https://lestoges.webr.ma/
+232496, 2024-09-04 14:02:25, 2024-09-04 14:02:25, hacked, 503a61ad1f46590ed9718db915284a96, https://depanstore24.webr.ma/
+232495, 2024-09-04 14:02:23, 2024-09-04 14:02:23, hacked, f66c9042e8b3ae013c30462dc512ff92, https://chtaibi.webr.ma/
+232494, 2024-09-04 14:02:21, 2024-09-04 14:02:21, hacked, 84ee9b16863878e18c95988d3d8fb087, https://mywebsite.webr.ma/
+232493, 2024-09-04 14:02:15, 2024-09-04 14:02:15, hacked, 4e68b0ec37932c0c00850d1455179e21, http://test2.webr.ma
+232492, 2024-09-04 14:02:15, 2024-09-04 14:02:15, hacked, c2f4cac90a7cd6e5f443c60ff99bb07b, http://crm.webr.ma/
+232491, 2024-09-04 14:02:15, 2024-09-04 14:02:15, hacked, 0e324095f3976a543734bdad7fe87e76, http://avocat.webr.ma/
+232490, 2024-09-04 14:02:15, 2024-09-04 14:02:15, hacked, 4c0b1e0f67bbe6061e574ab653fa9b85, http://bavarian.webr.ma/
 232489, 2024-09-04 13:55:35, 2024-09-04 13:55:35, phishing, 824dabe197aa35c98ee221bc2865bca8, https://gggg-103097.weeblysite.com/
 232488, 2024-09-04 13:55:25, 2024-09-04 13:32:13, phishing, 42ef25a54cb849b3d7ffc9aea053d4ae, https://slnk.metricool.com/public/smartlink/jfjfjfjwhh3d
 232487, 2024-09-04 13:55:02, 2024-09-04 13:12:13, phishing, cbd95d8a2c4431a1a7b44d901b888031, https://gkb.zzt.mybluehost.me/ch2/mobile/
@@ -496,16 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 232005, 2024-09-04 01:20:52, 2024-09-04 01:20:52, malware, 527377da42234cac9e8880cd5c841e8a, http://117.200.91.151:40684/i
 232004, 2024-09-04 01:20:40, 2024-09-04 01:20:40, malware, 71d0bb4fa1844744997d8983da30c4a4, http://117.195.255.35:34742/bin.sh
 232003, 2024-09-04 01:20:28, 2024-09-04 01:20:28, malware, ec12273bda6442bc8bd3dadbaaa97a54, http://115.58.140.238:45308/bin.sh
-232002, 2024-09-04 01:20:27, 2024-09-04 01:20:27, malware, 5d0cfce2b1024b77877f05554731486d, http://115.56.58.249:54812/i
-232001, 2024-09-04 01:20:24, 2024-09-04 01:20:24, malware, c85ca177eae1469f81325a666c128e78, http://115.56.10.203:41293/i
-232000, 2024-09-04 01:20:22, 2024-09-04 01:20:22, malware, 397b45e1686a4a32aabcff7b2ed32524, http://115.55.251.165:37411/Mozi.m
-231999, 2024-09-04 01:20:20, 2024-09-04 01:20:20, malware, b96d3de5420e45e69873042e38519299, http://115.55.249.222:40783/Mozi.m
-231998, 2024-09-04 01:20:18, 2024-09-04 01:20:18, malware, a4e6e5ce8b19495e8f5e28386e42954e, http://115.50.25.53:47438/bin.sh
-231997, 2024-09-04 01:20:16, 2024-09-04 01:20:16, malware, 70a6337541fa489a93267dde1b0391e7, http://115.50.229.88:36262/i
-231996, 2024-09-04 01:20:14, 2024-09-04 01:20:14, malware, 748b125000af4084a969c96396eb2385, http://115.50.229.88:36262/
-231995, 2024-09-04 01:20:12, 2024-09-04 01:20:12, malware, 9600297f7e834a95ad6b90afbedb75b5, http://115.49.78.67:48145/Mozi.m
-231994, 2024-09-04 01:20:10, 2024-09-04 01:20:10, malware, 5d2d0819f04949c7959e4a1c41aca02e, http://115.49.74.95:39276/i
-231993, 2024-09-04 01:20:08, 2024-09-04 01:20:08, malware, 3e2015591667484ea1269971e7421d5d, http://111.38.123.165:58548/bin.sh
-231992, 2024-09-04 01:03:24, 2024-09-04 01:03:24, phishing, becb3d91b24887ca90bdf729f9f91ef1, https://redc4r4czhvf26rgr5auvcghj3r6klmg3kcu4yb5uor3loi6howq.ar-io.dev/iQYuR4LJ6l16Jo9BSojHTuPlLYbahU5gPaOjtbkeO60
-231991, 2024-09-04 01:03:16, 2024-09-04 01:03:16, phishing, da0bd65af7b9ef06487b21e6f493ceb1, https://gcjbsyge.hk-telegram-safety.com/
-231990, 2024-09-04 01:02:13, 2024-09-04 01:02:13, phishing, b0c3f5740e59f44371cc2e92b33c1137, http://simxtrackredirectjoyboy01.pages.dev/,n/a,https:/openphish.com/feed.txt
