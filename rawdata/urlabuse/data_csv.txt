@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-04 02:00:01 UTC
+# UPDATE: 2024-09-04 03:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+232066, 2024-09-04 02:46:46, 2024-09-04 02:39:50, phishing, dadef72db729b35f4716b9b3cdc7a99d, https://ipfs.io/ipfs/bafkreihy7k2ysmmxdfhe6rrlcdntepymzadgnm4tgcy3ix3w3ytmcyrxme#x
+232065, 2024-09-04 02:35:44, 2024-09-04 02:32:04, phishing, 5896bc9cf928c41ade3a6ac4846a58fc, https://sametzabun.com.tr/wp/Fixed/wp/#x
+232064, 2024-09-04 02:04:15, 2024-09-04 02:04:15, phishing, e784a14d4a96bdfbc73a175234234b51, http://whatsapp-kefu.cc
 232063, 2024-09-04 01:24:58, 2024-09-04 01:24:58, malware, 6ec560b4ad354d5f9e203b0fd75ec42b, http://95.32.100.203:33030/i
 232062, 2024-09-04 01:24:57, 2024-09-04 01:24:57, malware, 1a475fb2c4be46ab8c600f213a792736, http://95.32.100.203:33030/bin.sh
 232061, 2024-09-04 01:24:56, 2024-09-04 01:24:56, malware, ac844ca2d7154df7ba64a560a89f2814, http://61.53.90.217:34925/bin.sh
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 231569, 2024-09-03 13:20:32, 2024-09-03 13:20:32, malware, b0cebaf1a601498c8f77e94e1d387ca4, http://115.51.93.120:41535/bin.sh
 231568, 2024-09-03 13:20:22, 2024-09-03 13:20:22, malware, 40fc2e2f7c85499e94c8ca88dc6729de, http://115.48.6.136:41128/i
 231567, 2024-09-03 13:20:20, 2024-09-03 13:20:20, malware, 05d51d4cda4040afb5319809903e542d, http://115.48.155.143:33246/i
-231566, 2024-09-03 13:20:19, 2024-09-03 13:20:19, malware, 3e32c57d6b5647d49d94c3fb72311ced, http://115.48.143.59:46690/bin.sh
-231565, 2024-09-03 13:20:17, 2024-09-03 13:20:17, malware, 21fa37df2b51499cb5dd6ffb0299caa0, http://112.248.255.229:39564/bin.sh
-231564, 2024-09-03 13:20:15, 2024-09-03 13:20:15, malware, b64a9207d91a4e5897a96aa594de16f7, http://112.248.109.115:35923/bin.sh
