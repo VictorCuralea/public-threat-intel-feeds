@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-04 22:00:01 UTC
+# UPDATE: 2024-09-04 23:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+232771, 2024-09-04 22:36:13, 2024-09-04 22:36:13, phishing, 52feb92d9a39eb7620747e10afdbfbaf, http://digitalfirstmygappsystem.online
+232770, 2024-09-04 22:02:13, 2024-09-04 22:02:13, phishing, a3bb8d2357f1b7bfe42c53055b21dc4f, https://damin.alrass.net/oulook/look/
 232769, 2024-09-04 21:26:17, 2024-09-04 21:26:17, malware, 9b6fbccb6f004508a004bd8ffb658eb8, http://95.47.243.202:47501/Mozi.m
 232768, 2024-09-04 21:25:26, 2024-09-04 21:25:26, malware, e08ab76cf705455cbb57be436dfdefcb, http://61.54.43.245:59147/bin.sh
 232767, 2024-09-04 21:25:24, 2024-09-04 21:25:24, malware, 0773d1e78e5f4feba9e76050fe012430, http://61.53.106.237:53127/bin.sh
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 232274, 2024-09-04 09:22:12, 2024-09-04 09:22:12, malware, 03dcf1442e964cac9bb222e1e2923461, http://117.206.182.73:55609/i
 232273, 2024-09-04 09:21:44, 2024-09-04 09:21:44, malware, 769b5326e8934cdcb0897e4322542ed6, http://117.203.131.211:33568/Mozi.m
 232272, 2024-09-04 09:21:32, 2024-09-04 09:21:32, malware, e0418a1e96574064860e78fac867de85, http://117.200.179.222:33552/i
-232271, 2024-09-04 09:20:37, 2024-09-04 09:20:37, malware, 836c8fa89329408eb61f6e4a0d1135db, http://115.62.186.42:51523/bin.sh
-232270, 2024-09-04 09:20:35, 2024-09-04 09:20:35, malware, 7a659b339f5c4570b7b458884e633130, http://115.58.92.218:39343/i
