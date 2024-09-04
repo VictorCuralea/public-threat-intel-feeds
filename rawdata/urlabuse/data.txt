@@ -6,8 +6,13 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-04 18:00:01 UTC
+# UPDATE: 2024-09-04 19:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 232646, "url": "http://serviziopostales.sytes.net", "discovery": "2024-09-04 18:38:15", "added": "2024-09-04 18:38:15", "target": "DHL", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "2071f6a4eb0811273ab5a8e68b2420dc"}
+{"id": 232645, "url": "http://imtoken-ca.biz", "discovery": "2024-09-04 18:36:16", "added": "2024-09-04 18:36:16", "target": "imToken", "reporter": "lruray", "AbuseType": "phishing", "UUID": "5b0ad5c5851e1ccf30fb4effc2e6d71b"}
+{"id": 232644, "url": "http://imtoken-de.biz", "discovery": "2024-09-04 18:36:15", "added": "2024-09-04 18:36:15", "target": "imToken", "reporter": "lruray", "AbuseType": "phishing", "UUID": "43ad80daedde5f79e56d5a18935b626c"}
+{"id": 232643, "url": "http://imtoken-5g.biz", "discovery": "2024-09-04 18:34:15", "added": "2024-09-04 18:34:15", "target": "imToken", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "ff5e58c245babb7a0af69387fdc1d912"}
+{"id": 232642, "url": "http://degeneratedirectlydes.pages.dev", "discovery": "2024-09-04 18:02:15", "added": "2024-09-04 18:02:15", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "efb90366a3deba4762081a1f794cc317"}
 {"id": 232641, "url": "http://88.233.227.143:50871/Mozi.m", "discovery": "2024-09-04 17:32:54", "added": "2024-09-04 17:32:54", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "9a47f55559764ffe98efb296935d4b83"}
 {"id": 232640, "url": "http://78.186.177.105:45631/Mozi.m", "discovery": "2024-09-04 17:32:53", "added": "2024-09-04 17:32:53", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "54dab3cb12e143d8a83eac546c57cd9a"}
 {"id": 232639, "url": "http://61.54.43.245:59147/", "discovery": "2024-09-04 17:32:52", "added": "2024-09-04 17:32:52", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "7e224168680b4211ab40a52483018616"}
@@ -503,8 +508,3 @@
 {"id": 232149, "url": "http://27.216.138.233:33256/bin.sh", "discovery": "2024-09-04 05:22:06", "added": "2024-09-04 05:22:06", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "a9bb7702e4d64f0bb5d2130ae4dd5c67"}
 {"id": 232148, "url": "http://222.142.132.131:41531/i", "discovery": "2024-09-04 05:22:04", "added": "2024-09-04 05:22:04", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "94f8dbe19dad4a1a9b5b0a12511f8e36"}
 {"id": 232147, "url": "http://222.142.132.131:41531/bin.sh", "discovery": "2024-09-04 05:22:02", "added": "2024-09-04 05:22:02", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "55487cdc89494428b28e51ee66598eb5"}
-{"id": 232146, "url": "http://221.15.185.63:48651/", "discovery": "2024-09-04 05:22:01", "added": "2024-09-04 05:22:01", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "a7dbd26a75314423924137f4bd03156e"}
-{"id": 232145, "url": "http://182.117.131.178:43431/", "discovery": "2024-09-04 05:21:50", "added": "2024-09-04 05:21:50", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "eec9ab4986a443498117fc488e9f6596"}
-{"id": 232144, "url": "http://125.44.51.72:38226/", "discovery": "2024-09-04 05:21:48", "added": "2024-09-04 05:21:48", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "d23693ac7cd24d4db5efb8c33b1018f9"}
-{"id": 232143, "url": "http://125.44.194.0:40575/bin.sh", "discovery": "2024-09-04 05:21:46", "added": "2024-09-04 05:21:46", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "89ff24b53ec240baa7cc5e133a50b032"}
-{"id": 232142, "url": "http://123.9.244.189:56617/i", "discovery": "2024-09-04 05:21:43", "added": "2024-09-04 05:21:43", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "6275ac1f80cf46a7b2d6cefbf457760e"}

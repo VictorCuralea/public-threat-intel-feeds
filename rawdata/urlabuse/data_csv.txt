@@ -6,9 +6,14 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-04 18:00:01 UTC
+# UPDATE: 2024-09-04 19:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+232646, 2024-09-04 18:38:15, 2024-09-04 18:38:15, phishing, 2071f6a4eb0811273ab5a8e68b2420dc, http://serviziopostales.sytes.net
+232645, 2024-09-04 18:36:16, 2024-09-04 18:36:16, phishing, 5b0ad5c5851e1ccf30fb4effc2e6d71b, http://imtoken-ca.biz
+232644, 2024-09-04 18:36:15, 2024-09-04 18:36:15, phishing, 43ad80daedde5f79e56d5a18935b626c, http://imtoken-de.biz
+232643, 2024-09-04 18:34:15, 2024-09-04 18:34:15, phishing, ff5e58c245babb7a0af69387fdc1d912, http://imtoken-5g.biz
+232642, 2024-09-04 18:02:15, 2024-09-04 18:02:15, phishing, efb90366a3deba4762081a1f794cc317, http://degeneratedirectlydes.pages.dev
 232641, 2024-09-04 17:32:54, 2024-09-04 17:32:54, malware, 9a47f55559764ffe98efb296935d4b83, http://88.233.227.143:50871/Mozi.m
 232640, 2024-09-04 17:32:53, 2024-09-04 17:32:53, malware, 54dab3cb12e143d8a83eac546c57cd9a, http://78.186.177.105:45631/Mozi.m
 232639, 2024-09-04 17:32:52, 2024-09-04 17:32:52, malware, 7e224168680b4211ab40a52483018616, http://61.54.43.245:59147/
@@ -504,8 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 232149, 2024-09-04 05:22:06, 2024-09-04 05:22:06, malware, a9bb7702e4d64f0bb5d2130ae4dd5c67, http://27.216.138.233:33256/bin.sh
 232148, 2024-09-04 05:22:04, 2024-09-04 05:22:04, malware, 94f8dbe19dad4a1a9b5b0a12511f8e36, http://222.142.132.131:41531/i
 232147, 2024-09-04 05:22:02, 2024-09-04 05:22:02, malware, 55487cdc89494428b28e51ee66598eb5, http://222.142.132.131:41531/bin.sh
-232146, 2024-09-04 05:22:01, 2024-09-04 05:22:01, malware, a7dbd26a75314423924137f4bd03156e, http://221.15.185.63:48651/
-232145, 2024-09-04 05:21:50, 2024-09-04 05:21:50, malware, eec9ab4986a443498117fc488e9f6596, http://182.117.131.178:43431/
-232144, 2024-09-04 05:21:48, 2024-09-04 05:21:48, malware, d23693ac7cd24d4db5efb8c33b1018f9, http://125.44.51.72:38226/
-232143, 2024-09-04 05:21:46, 2024-09-04 05:21:46, malware, 89ff24b53ec240baa7cc5e133a50b032, http://125.44.194.0:40575/bin.sh
-232142, 2024-09-04 05:21:43, 2024-09-04 05:21:43, malware, 6275ac1f80cf46a7b2d6cefbf457760e, http://123.9.244.189:56617/i
