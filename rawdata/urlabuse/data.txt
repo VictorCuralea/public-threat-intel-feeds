@@ -6,8 +6,13 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-04 16:00:01 UTC
+# UPDATE: 2024-09-04 17:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 232556, "url": "https://lnc.pyw.mybluehost.me/wp-content/newdk/core/", "discovery": "2024-09-04 16:47:26", "added": "2024-09-04 16:47:26", "target": "PostNord", "reporter": "urlabuse", "AbuseType": "phishing", "UUID": "e07ec13397d0d802a549d7d86c523e44"}
+{"id": 232555, "url": "https://info.tracksls.top/ch/", "discovery": "2024-09-04 16:34:15", "added": "2024-09-04 16:44:41", "target": "SwissPost", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "15ac773d5c754f62808218ddb3422817"}
+{"id": 232554, "url": "https://stormbringer.serv00.net/W4FD87FEDS/?456TY280YU=45VGIsD", "discovery": "2024-09-04 16:11:57", "added": "2024-09-04 16:11:57", "target": "Hostpoint", "reporter": "urlabuse", "AbuseType": "phishing", "UUID": "1410f22c1e72ab47bdaac15a31964d1d"}
+{"id": 232553, "url": "https://earthbinder-stonecaster.blogspot.com/?m=1", "discovery": "2024-09-04 16:00:11", "added": "2024-09-04 16:11:45", "target": "Hostpoint", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "e21191bb74576febf565fb5e79dc636a"}
+{"id": 232552, "url": "https://damin.alrass.net/mess/message/", "discovery": "2024-09-04 16:02:12", "added": "2024-09-04 16:02:12", "target": "Microsoft", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "01a585f6f73f9ccb07df20e7f0a35726"}
 {"id": 232551, "url": "https://post.tracksys.top/ch/", "discovery": "2024-09-04 15:28:13", "added": "2024-09-04 15:34:54", "target": "SwissPost", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "776bb28a10362319cb4cdbe59fbdf152"}
 {"id": 232550, "url": "https://info.tracksod.top/ch/", "discovery": "2024-09-04 15:28:21", "added": "2024-09-04 15:33:51", "target": "SwissPost", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "999020de7310931fbdabe3c741cf8efc"}
 {"id": 232549, "url": "https://info.tracksys.top/ch/", "discovery": "2024-09-04 15:26:11", "added": "2024-09-04 15:33:30", "target": "SwissPost", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "8fd27afe46b3b4367206bdc7690c1b95"}
@@ -503,8 +508,3 @@
 {"id": 232059, "url": "http://61.53.153.58:42980/", "discovery": "2024-09-04 01:24:53", "added": "2024-09-04 01:24:53", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "7c46fba535224cdcb8eb5b230da8d1e1"}
 {"id": 232058, "url": "http://61.1.234.204:48547/i", "discovery": "2024-09-04 01:24:52", "added": "2024-09-04 01:24:52", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "4d280ed462994acab354cf321dc6750e"}
 {"id": 232057, "url": "http://61.0.217.119:49989/Mozi.m", "discovery": "2024-09-04 01:24:50", "added": "2024-09-04 01:24:50", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "089de0805af0479c9c145af991fe83a9"}
-{"id": 232056, "url": "http://60.209.102.66:45245/i", "discovery": "2024-09-04 01:24:33", "added": "2024-09-04 01:24:33", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "cf5d5ce731254d17b072e0f17c5cc774"}
-{"id": 232055, "url": "http://59.99.205.28:40886/i", "discovery": "2024-09-04 01:24:31", "added": "2024-09-04 01:24:31", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "a9e5bd4315a54e9fb66074e16be83020"}
-{"id": 232054, "url": "http://59.97.116.100:39467/Mozi.m", "discovery": "2024-09-04 01:24:26", "added": "2024-09-04 01:24:26", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "bd271bc5cacb4ccf816353905018a826"}
-{"id": 232053, "url": "http://59.91.91.25:49784/Mozi.m", "discovery": "2024-09-04 01:24:14", "added": "2024-09-04 01:24:14", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "0b96b4065ce14f75a8dd82e8da113dc1"}
-{"id": 232052, "url": "http://59.89.11.56:50294/i", "discovery": "2024-09-04 01:24:13", "added": "2024-09-04 01:24:13", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "f41de6af0de94f8b83c379a6cc5f1d4f"}

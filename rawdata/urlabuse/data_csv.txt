@@ -6,9 +6,14 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-04 16:00:01 UTC
+# UPDATE: 2024-09-04 17:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+232556, 2024-09-04 16:47:26, 2024-09-04 16:47:26, phishing, e07ec13397d0d802a549d7d86c523e44, https://lnc.pyw.mybluehost.me/wp-content/newdk/core/
+232555, 2024-09-04 16:44:41, 2024-09-04 16:34:15, phishing, 15ac773d5c754f62808218ddb3422817, https://info.tracksls.top/ch/
+232554, 2024-09-04 16:11:57, 2024-09-04 16:11:57, phishing, 1410f22c1e72ab47bdaac15a31964d1d, https://stormbringer.serv00.net/W4FD87FEDS/?456TY280YU=45VGIsD
+232553, 2024-09-04 16:11:45, 2024-09-04 16:00:11, phishing, e21191bb74576febf565fb5e79dc636a, https://earthbinder-stonecaster.blogspot.com/?m=1
+232552, 2024-09-04 16:02:12, 2024-09-04 16:02:12, phishing, 01a585f6f73f9ccb07df20e7f0a35726, https://damin.alrass.net/mess/message/
 232551, 2024-09-04 15:34:54, 2024-09-04 15:28:13, phishing, 776bb28a10362319cb4cdbe59fbdf152, https://post.tracksys.top/ch/
 232550, 2024-09-04 15:33:51, 2024-09-04 15:28:21, phishing, 999020de7310931fbdabe3c741cf8efc, https://info.tracksod.top/ch/
 232549, 2024-09-04 15:33:30, 2024-09-04 15:26:11, phishing, 8fd27afe46b3b4367206bdc7690c1b95, https://info.tracksys.top/ch/
@@ -504,8 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 232059, 2024-09-04 01:24:53, 2024-09-04 01:24:53, malware, 7c46fba535224cdcb8eb5b230da8d1e1, http://61.53.153.58:42980/
 232058, 2024-09-04 01:24:52, 2024-09-04 01:24:52, malware, 4d280ed462994acab354cf321dc6750e, http://61.1.234.204:48547/i
 232057, 2024-09-04 01:24:50, 2024-09-04 01:24:50, malware, 089de0805af0479c9c145af991fe83a9, http://61.0.217.119:49989/Mozi.m
-232056, 2024-09-04 01:24:33, 2024-09-04 01:24:33, malware, cf5d5ce731254d17b072e0f17c5cc774, http://60.209.102.66:45245/i
-232055, 2024-09-04 01:24:31, 2024-09-04 01:24:31, malware, a9e5bd4315a54e9fb66074e16be83020, http://59.99.205.28:40886/i
-232054, 2024-09-04 01:24:26, 2024-09-04 01:24:26, malware, bd271bc5cacb4ccf816353905018a826, http://59.97.116.100:39467/Mozi.m
-232053, 2024-09-04 01:24:14, 2024-09-04 01:24:14, malware, 0b96b4065ce14f75a8dd82e8da113dc1, http://59.91.91.25:49784/Mozi.m
-232052, 2024-09-04 01:24:13, 2024-09-04 01:24:13, malware, f41de6af0de94f8b83c379a6cc5f1d4f, http://59.89.11.56:50294/i

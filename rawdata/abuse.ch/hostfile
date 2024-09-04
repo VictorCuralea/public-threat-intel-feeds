@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-04 13:56:01 UTC                        #
+# Last updated: 2024-09-04 16:01:57 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	www.monmt.com
+127.0.0.1	albert.flora-kz.store
 127.0.0.1	mehdi.servernux.com
 127.0.0.1	mehdi.mine.bz
 127.0.0.1	slapping.homes
@@ -7536,6 +7538,4 @@
 127.0.0.1	trailcocompany.com
 127.0.0.1	trailcosolutions.com
 127.0.0.1	artstrailreviews.com
-127.0.0.1	314.hongdrama.xyz
-127.0.0.1	hongdrama.xyz
 # Number of entries: 7532
