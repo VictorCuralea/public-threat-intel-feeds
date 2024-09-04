@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-04 00:00:01 UTC
+# UPDATE: 2024-09-04 01:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+231989, 2024-09-04 00:00:15, 2024-09-04 00:00:15, phishing, 7f994654b184f61d1e90e82105fea7e1, http://lostvape.omba.my.id
 231988, 2024-09-03 23:50:13, 2024-09-03 23:50:13, phishing, dc91f9c1a6cb1ef2508a28d5008b677e, http://esnamic.com
 231987, 2024-09-03 23:25:52, 2024-09-03 23:25:52, malware, 1c98962b1fa747f29366f2d860b82b04, http://61.53.123.101:34236/
 231986, 2024-09-03 23:25:50, 2024-09-03 23:25:50, malware, c1d9417947564c969bde0300ac761136, http://61.52.49.203:34671/bin.sh
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 231492, 2024-09-03 09:24:25, 2024-09-03 09:24:25, malware, 73ec3155c6c144fb8dc6be740780bca9, http://42.226.89.100:51402/bin.sh
 231491, 2024-09-03 09:24:24, 2024-09-03 09:24:24, malware, 81ecfa7e5b2d42879298fb707c079992, http://37.53.43.175:36246/i
 231490, 2024-09-03 09:24:23, 2024-09-03 09:24:23, malware, 9f099af1e5d24149b29ac4b6dd4641a6, http://222.142.244.186:54848/
-231489, 2024-09-03 09:24:21, 2024-09-03 09:24:21, malware, ee5669afd8cf41238ab9962693089ae8, http://222.135.133.87:35892/bin.sh
