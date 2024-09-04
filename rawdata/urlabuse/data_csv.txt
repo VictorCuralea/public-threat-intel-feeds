@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-04 04:00:01 UTC
+# UPDATE: 2024-09-04 05:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+232125, 2024-09-04 04:42:17, 2024-09-04 04:42:17, phishing, dbfdf0b672f32e8dc4888816735b2992, http://ff.members.gerane.vn
 232124, 2024-09-04 03:25:31, 2024-09-04 03:25:31, malware, 93baa51e7b174f848434194bb40aabc3, http://61.53.72.135:33103/bin.sh
 232123, 2024-09-04 03:25:30, 2024-09-04 03:25:30, malware, 3618e09b34134439b35cba2a845a1fff, http://61.53.123.101:34236/Mozi.m
 232122, 2024-09-04 03:25:27, 2024-09-04 03:25:27, malware, 08290e46575e4871acc1da03c41a28e7, http://61.52.44.212:42329/i
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 231628, 2024-09-03 13:43:02, 2024-09-03 13:00:14, phishing, 6064a45cee9f713c1d4455952afefaa6, https://lqb.apdruie.pro/
 231627, 2024-09-03 13:42:48, 2024-09-03 12:58:13, phishing, bae1188bb58cbd1024afb48c6d9d13d0, https://postawde.top/ch
 231626, 2024-09-03 13:42:36, 2024-09-03 13:42:36, phishing, bedd0828dbfa587ccd151186b9265361, https://gsgsgs1gs.weeblysite.com/
-231625, 2024-09-03 13:42:24, 2024-09-03 11:52:15, phishing, aa2251525262eb89f180564dcf14654e, https://easygoing-emojis-610578.framer.app/

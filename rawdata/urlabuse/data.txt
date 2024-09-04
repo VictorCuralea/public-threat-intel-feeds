@@ -6,8 +6,9 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-04 04:00:01 UTC
+# UPDATE: 2024-09-04 05:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 232125, "url": "http://ff.members.gerane.vn", "discovery": "2024-09-04 04:42:17", "added": "2024-09-04 04:42:17", "target": "Facebook", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "dbfdf0b672f32e8dc4888816735b2992"}
 {"id": 232124, "url": "http://61.53.72.135:33103/bin.sh", "discovery": "2024-09-04 03:25:31", "added": "2024-09-04 03:25:31", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "93baa51e7b174f848434194bb40aabc3"}
 {"id": 232123, "url": "http://61.53.123.101:34236/Mozi.m", "discovery": "2024-09-04 03:25:30", "added": "2024-09-04 03:25:30", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "3618e09b34134439b35cba2a845a1fff"}
 {"id": 232122, "url": "http://61.52.44.212:42329/i", "discovery": "2024-09-04 03:25:27", "added": "2024-09-04 03:25:27", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "08290e46575e4871acc1da03c41a28e7"}
@@ -507,4 +508,3 @@
 {"id": 231628, "url": "https://lqb.apdruie.pro/", "discovery": "2024-09-03 13:00:14", "added": "2024-09-03 13:43:02", "target": "SFR", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "6064a45cee9f713c1d4455952afefaa6"}
 {"id": 231627, "url": "https://postawde.top/ch", "discovery": "2024-09-03 12:58:13", "added": "2024-09-03 13:42:48", "target": "SwissPost", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "bae1188bb58cbd1024afb48c6d9d13d0"}
 {"id": 231626, "url": "https://gsgsgs1gs.weeblysite.com/", "discovery": "2024-09-03 13:42:36", "added": "2024-09-03 13:42:36", "target": "BT", "reporter": "urlabuse", "AbuseType": "phishing", "UUID": "bedd0828dbfa587ccd151186b9265361"}
-{"id": 231625, "url": "https://easygoing-emojis-610578.framer.app/", "discovery": "2024-09-03 11:52:15", "added": "2024-09-03 13:42:24", "target": "BT", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "aa2251525262eb89f180564dcf14654e"}
