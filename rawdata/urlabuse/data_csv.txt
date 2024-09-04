@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-04 20:00:01 UTC
+# UPDATE: 2024-09-04 21:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+232708, 2024-09-04 20:46:16, 2024-09-04 20:46:16, phishing, 6c1f7c8e9495b16a1476ea77136f2b6f, http://quickfeatureszerion.pages.dev
+232707, 2024-09-04 20:36:12, 2024-09-04 20:36:12, phishing, 97b6ebba3e09a5cb34dd4ce1a7709cd7, http://neutralize-dapps.pages.dev
+232706, 2024-09-04 20:22:23, 2024-09-04 20:22:23, phishing, 03b399288351eac815cec19793718e4a, http://mediafiredownload.my.id
 232705, 2024-09-04 19:40:13, 2024-09-04 19:40:13, phishing, 8f20e6a6428020f228d1adbdce304224, http://dullhonepaqe.authorjohnholmes.com
 232704, 2024-09-04 19:25:30, 2024-09-04 19:25:30, malware, d8a9cb85943e4bb98a4d665cdf70d180, https://a3.bigdownloadtech.shop/webdav/reg/BaristaBagging.json
 232703, 2024-09-04 19:25:28, 2024-09-04 19:25:28, malware, 6e4aac4af6894e20a57e17b5b24e9a0a, http://77.81.87.111:33259/i
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 232211, 2024-09-04 07:22:55, 2024-09-04 07:22:55, malware, 17df9ed1687e47278af6fdc107d16a83, http://125.24.164.159:53859/
 232210, 2024-09-04 07:22:52, 2024-09-04 07:22:52, malware, 34bb0f71493646e682bfb9d5b124d8b9, http://123.5.117.101:45540/bin.sh
 232209, 2024-09-04 07:22:50, 2024-09-04 07:22:50, malware, 875090d7aa9044c199ea76f9bc7b098a, http://123.12.9.230:48846/bin.sh
-232208, 2024-09-04 07:22:48, 2024-09-04 07:22:48, malware, 67d916f150d74d9da32a951cc7f684d5, http://120.61.17.66:60463/Mozi.m
-232207, 2024-09-04 07:22:46, 2024-09-04 07:22:46, malware, dd11bd02d3d64803aab94694c62e7024, http://120.61.17.66:60463/
-232206, 2024-09-04 07:22:24, 2024-09-04 07:22:24, malware, 85bf9000c9f044119a69f95d864d7fe9, http://117.248.167.182:54508/bin.sh
