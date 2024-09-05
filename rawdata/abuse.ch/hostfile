@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-04 22:55:35 UTC                        #
+# Last updated: 2024-09-05 05:19:38 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	voxiumhub.com
+127.0.0.1	voxium.eu
 127.0.0.1	ghty.online
 127.0.0.1	cnc.ghty.online
 127.0.0.1	ghty.online
@@ -7597,8 +7599,4 @@
 127.0.0.1	afdhf198jfadafdkfad.com
 127.0.0.1	wizjqpi1.azureedge.net
 127.0.0.1	dns.trailcocompany.com
-127.0.0.1	electric-guest.gl.at.ply.gg
-127.0.0.1	points-detect.gl.at.ply.gg
-127.0.0.1	artist-shared.gl.at.ply.gg
-127.0.0.1	stories-boulevard.gl.at.ply.gg
-# Number of entries: 7595
+# Number of entries: 7593
