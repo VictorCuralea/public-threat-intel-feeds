@@ -6,7 +6,7 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-05 22:00:02 UTC
+# UPDATE: 2024-09-05 23:00:01 UTC
 ############### END COMMENTS ###############
 {"id": 233923, "url": "https://continuetodown.com/downloads/pgrt2.zip", "discovery": "2024-09-05 21:24:15", "added": "2024-09-05 21:24:15", "target": "#ZIP", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "5f779686a1f0450a89e282527b9d4ef8"}
 {"id": 233922, "url": "http://pen.gorillafirewall.su/x86_32.nn", "discovery": "2024-09-05 21:23:57", "added": "2024-09-05 21:23:57", "target": "#ELF32INTEL_v1", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "124159bb9c5542c783a0431a4d214ada"}
