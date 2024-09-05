@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-04 22:54:44 UTC                        #
+# Last updated: 2024-09-04 22:55:35 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ghty.online
+127.0.0.1	cnc.ghty.online
+127.0.0.1	ghty.online
 127.0.0.1	cnc.ghty.online
 127.0.0.1	ydl-v2.mhdy.site
 127.0.0.1	mhdy.site
@@ -7598,4 +7601,4 @@
 127.0.0.1	points-detect.gl.at.ply.gg
 127.0.0.1	artist-shared.gl.at.ply.gg
 127.0.0.1	stories-boulevard.gl.at.ply.gg
-# Number of entries: 7592
+# Number of entries: 7595
