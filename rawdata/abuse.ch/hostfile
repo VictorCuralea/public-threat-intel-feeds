@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-05 13:29:28 UTC                        #
+# Last updated: 2024-09-05 16:53:47 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	unimeduberlandia.duckdns.org
+127.0.0.1	juankaa123516-42965.portmap.host
+127.0.0.1	8msv-27569.portmap.host
+127.0.0.1	87-89-82-13.abo.bbox.fr
+127.0.0.1	i15-lef01-t2-87-89-82-13.ft.lns.abo.bbox.fr
 127.0.0.1	tventyv20sr.top
 127.0.0.1	fivev5vt.top
 127.0.0.1	sevxv17pn.top
@@ -7608,5 +7613,4 @@
 127.0.0.1	googlesupportacc.top
 127.0.0.1	hzp02itt0a.com
 127.0.0.1	security-socks.expert
-127.0.0.1	afdhf198jfadafdkfad.com
-# Number of entries: 7603
+# Number of entries: 7607
