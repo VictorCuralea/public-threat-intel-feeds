@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-05 12:00:01 UTC
+# UPDATE: 2024-09-05 13:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+233262, 2024-09-05 12:36:15, 2024-09-05 12:36:15, phishing, 2599cc728eeb3cf5e019d7257d3b067a, http://whatsapp-csm.com
 233261, 2024-09-05 11:52:20, 2024-09-05 11:12:11, phishing, 094a9801489a390d117c1b3c483dd2a0, https://free-5433695.webadorsite.com/
 233260, 2024-09-05 11:52:12, 2024-09-05 11:52:12, phishing, 640b706d23810e8f46cf5e314d837a56, https://bt-service-106246.weeblysite.com/
 233259, 2024-09-05 11:50:13, 2024-09-05 11:50:13, phishing, 9b85ac9be444ad999986ab98f69badfc, http://telegramgroupsx.pages.dev
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 232765, 2024-09-04 21:25:21, 2024-09-04 21:25:21, malware, c23839e0acba426e90e70cbcdbbb640e, http://61.52.156.18:37461/
 232764, 2024-09-04 21:25:00, 2024-09-04 21:25:00, malware, 82b245bfaa664a359f80cf68cc43b913, http://61.3.101.86:57021/i
 232763, 2024-09-04 21:24:54, 2024-09-04 21:24:54, malware, cf7dd0665e6e4e7ea3a8f67a8a6692ad, http://59.95.122.150:52620/i
-232762, 2024-09-04 21:24:52, 2024-09-04 21:24:52, malware, a2fec171a0ab48a7868d4ad605d446c4, http://59.95.122.150:52620/bin.sh
