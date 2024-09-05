@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-05 10:00:02 UTC
+# UPDATE: 2024-09-05 11:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+233190, 2024-09-05 10:52:19, 2024-09-05 10:52:19, phishing, 6a2ec7edde7a1e92fb79177c6b0090f8, http://wa-whatsapp-lnc.com
+233189, 2024-09-05 10:48:13, 2024-09-05 10:48:13, phishing, a4ed093020d856f8c6cd1d1f8df847a8, http://nodev4io.pages.dev
+233188, 2024-09-05 10:16:25, 2024-09-05 10:16:25, phishing, e03a65ce509accfec8e4951e89e88f84, http://qian.12315hp.cn
+233187, 2024-09-05 10:04:11, 2024-09-05 10:04:11, phishing, ee0ec8bbf9da015c1d05052aee70c2a8, http://dullhonepaqe.masterpenghasilduit.com
 233186, 2024-09-05 09:44:16, 2024-09-05 09:44:16, phishing, d8f1ebac8170d31faa10ad80a4debb8a, http://wsapp-stc.com
 233185, 2024-09-05 09:36:15, 2024-09-05 09:36:15, phishing, 1484457c0ef41006167780a79a6963b3, http://macarte-renouvellement.com
 233184, 2024-09-05 09:30:55, 2024-09-05 09:30:55, malware, 4eb42d4ce3e04142bc6e9b68dbede966, http://90.80.118.117:46385/bin.sh
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 232693, 2024-09-04 19:24:34, 2024-09-04 19:24:34, malware, b99a90a63fb54781b6713c6489582f75, http://59.182.88.235:44619/bin.sh
 232692, 2024-09-04 19:24:32, 2024-09-04 19:24:32, malware, 18687a0cf1904835b853018031f35f14, http://59.182.254.236:45826/i
 232691, 2024-09-04 19:24:15, 2024-09-04 19:24:15, malware, 79754b5b38784ab98a7e32f13cf8b1c5, http://59.182.242.115:58687/i
-232690, 2024-09-04 19:24:13, 2024-09-04 19:24:13, malware, 2570bf47e2ce46f3b6b23834afc032ba, http://59.178.95.169:51872/Mozi.m
-232689, 2024-09-04 19:24:09, 2024-09-04 19:24:09, malware, f36eac61b0bf4917b5c0cffe7c9b9309, http://59.178.212.218:58136/i
-232688, 2024-09-04 19:24:07, 2024-09-04 19:24:07, malware, 5ff48d75ce554a51a8754aa485d60637, http://42.231.64.253:54826/bin.sh
-232687, 2024-09-04 19:24:05, 2024-09-04 19:24:05, malware, 8be59edda67c4497a0c9aa18c22232be, http://42.230.46.230:37641/i

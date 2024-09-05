@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-05 05:19:38 UTC                        #
+# Last updated: 2024-09-05 10:44:40 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	aack.ru
+127.0.0.1	www.aack.ru
+127.0.0.1	www.india-scam-call-center.pw
+127.0.0.1	india-scam-call-center.pw
 127.0.0.1	voxiumhub.com
 127.0.0.1	voxium.eu
 127.0.0.1	ghty.online
@@ -7597,5 +7601,4 @@
 127.0.0.1	hzp02itt0a.com
 127.0.0.1	security-socks.expert
 127.0.0.1	afdhf198jfadafdkfad.com
-127.0.0.1	wizjqpi1.azureedge.net
-# Number of entries: 7592
+# Number of entries: 7595
