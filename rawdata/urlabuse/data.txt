@@ -6,7 +6,7 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-05 20:00:01 UTC
+# UPDATE: 2024-09-05 21:00:01 UTC
 ############### END COMMENTS ###############
 {"id": 233883, "url": "http://93.123.85.225/x86_64.nn", "discovery": "2024-09-05 19:27:42", "added": "2024-09-05 19:27:42", "target": "#ELF64", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "5e83f70846884f33aa3c6adb22bb6eb3"}
 {"id": 233882, "url": "http://93.123.85.225/sparc.nn", "discovery": "2024-09-05 19:27:41", "added": "2024-09-05 19:27:41", "target": "#ELF32SPARC", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "2806b2ecdfbb40bda00bca838ed64e44"}

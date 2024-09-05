@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-05 19:03:10 UTC                        #
+# Last updated: 2024-09-05 20:49:57 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	popipg.com
+127.0.0.1	server.fuerer-net.ru
+127.0.0.1	fuerer-net.ru
+127.0.0.1	fuerer-net.ru
+127.0.0.1	raw.fuerer-net.ru
 127.0.0.1	bot.haluodq.cc
 127.0.0.1	fttuvgt.ddnsfree.com
 127.0.0.1	editorials.duckdns.org
@@ -7629,4 +7634,4 @@
 127.0.0.1	googlesupportacc.top
 127.0.0.1	hzp02itt0a.com
 127.0.0.1	security-socks.expert
-# Number of entries: 7623
+# Number of entries: 7628
