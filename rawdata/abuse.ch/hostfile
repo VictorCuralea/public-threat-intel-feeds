@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-05 16:56:53 UTC                        #
+# Last updated: 2024-09-05 19:03:10 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	bot.haluodq.cc
 127.0.0.1	fttuvgt.ddnsfree.com
 127.0.0.1	editorials.duckdns.org
 127.0.0.1	bmh-global.myfirewall.org
@@ -7628,4 +7629,4 @@
 127.0.0.1	googlesupportacc.top
 127.0.0.1	hzp02itt0a.com
 127.0.0.1	security-socks.expert
-# Number of entries: 7622
+# Number of entries: 7623
