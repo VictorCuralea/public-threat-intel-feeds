@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-06 06:00:01 UTC
+# UPDATE: 2024-09-06 07:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+234154, 2024-09-06 06:18:06, 2024-09-06 06:15:27, phishing, 99e199f02e8ff53f7407aac727416967, https://sftradescon.one/skyyi/index.htm#x
+234153, 2024-09-06 06:08:19, 2024-09-06 05:48:45, phishing, 7082bbdacd69dd668d47f346e4de194f, https://privatecrafters.com/cgi/frame/edg/index.php?info=eWFob29AeWFob28uY29t
 234152, 2024-09-06 05:37:54, 2024-09-06 05:37:24, phishing, a94883a2a77cbe6377be438bcd79a7a1, https://ipfs.io/ipfs/bafkreiagkzab5bhumuuvvncjkpn73s5yric73uxivc6lmc4xnuq5ev5bhi#x
 234151, 2024-09-06 05:37:40, 2024-09-06 05:37:40, phishing, 2ccff7f49a29c4c60aa0173294bb9609, https://ipfs.io/ipfs/QmdNYLetFsYofmGgxyPyWtH27edFrNwfZ3yePcpAZHXv4i/#
 234150, 2024-09-06 05:34:57, 2024-09-06 05:34:57, phishing, 18be0613c0ed0cd092d3641916e0ffe3, https://bafkreihm74er5firwdzkomn4qiig5djrvmdabcg3lbde2po4g52cp7vs3m.ipfs.flk-ipfs.io/#
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 233329, 2024-09-05 13:27:37, 2024-09-05 13:27:37, malware, 69d654385b114d1ab7081dd3acc5e1a8, http://39.74.125.104:53660/i
 233328, 2024-09-05 13:27:35, 2024-09-05 13:27:35, malware, 1dbcc112feba4ffdafad64c0a51a72a7, http://39.74.125.104:53660/bin.sh
 233327, 2024-09-05 13:27:13, 2024-09-05 13:27:13, malware, e827a69c5e414c0a9d0cce10e5ac4d88, http://27.202.242.212:44894/bin.sh
-233326, 2024-09-05 13:27:01, 2024-09-05 13:27:01, malware, de04046e102f470c99386d72fe4c9de2, http://222.142.209.33:39397/bin.sh
-233325, 2024-09-05 13:27:00, 2024-09-05 13:27:00, malware, 0ade375c521142c39d995af3ef190445, http://222.140.183.150:51350/

@@ -1,11 +1,17 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-06 00:02:08 UTC                        #
+# Last updated: 2024-09-06 06:13:31 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	edificiobaldeares.linkpc.net
+127.0.0.1	theapplefix.com
+127.0.0.1	equipo.linkpc.net
+127.0.0.1	perfect5.publicvm.com
+127.0.0.1	perfect8.publicvm.com
+127.0.0.1	done-declared.gl.at.ply.gg
 127.0.0.1	post-chi.cc
 127.0.0.1	popipg.com
 127.0.0.1	server.fuerer-net.ru
@@ -7633,4 +7639,4 @@
 127.0.0.1	ns1.msn-microsoft.co
 127.0.0.1	i-wallet.net
 127.0.0.1	googlesupportacc.top
-# Number of entries: 7627
+# Number of entries: 7633
