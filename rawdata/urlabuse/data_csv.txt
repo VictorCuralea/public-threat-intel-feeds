@@ -6,7 +6,7 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-06 08:00:01 UTC
+# UPDATE: 2024-09-06 09:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
 234360, 2024-09-06 07:25:49, 2024-09-06 07:25:49, malware, cdaf072f5c7d4795a36f58eac3e7ac34, http://61.53.238.39:54812/bin.sh
