@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-06 20:00:01 UTC
+# UPDATE: 2024-09-06 21:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+234856, 2024-09-06 20:42:10, 2024-09-06 20:42:10, phishing, 3fac3d1ee52771a15a2f3aa5fbde8d62, http://dmksiodkfuyewns894509sdjfui3278dnfuiesmdkiyr75asnjfki4.pages.dev
+234855, 2024-09-06 20:26:13, 2024-09-06 20:26:13, phishing, e08a9fe2c6496315668e6d69c55a64de, http://jkloiuytresw2qaq1234rft5678uhgfdszxcvbnhgfdsasdfghjnmkiuyg.pages.dev
+234854, 2024-09-06 20:16:12, 2024-09-06 20:16:12, phishing, 58abe3cd061f833e5bef80e68242f99b, http://7gy6rffsuaygxhnzvududfvdheshdu3uyryhsgfaffeiidowehtxggahhe.pages.dev
+234853, 2024-09-06 20:14:15, 2024-09-06 20:14:15, phishing, fd23ba5f0a968cfbf7bb385419a4b8c2, http://co.lyone.xyz
 234852, 2024-09-06 19:58:14, 2024-09-06 19:58:14, phishing, b21498fe7024f23c3d372f7e0bd1f40e, http://copilot.42nn.cn
 234851, 2024-09-06 19:44:13, 2024-09-06 19:44:13, phishing, 2efd38571912ae61eb951e7808204f69, http://yojwbdlwourijahgwershodebigtj04.pages.dev
 234850, 2024-09-06 19:31:46, 2024-09-06 19:31:46, phishing, b95cf81a3fcf2a16e4cb486532eb4da1, http://dullhonepaqe.handtoolpro.com
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 234358, 2024-09-06 07:25:42, 2024-09-06 07:25:42, malware, 6077b7fedcc343cc8bc3db5908e53c75, http://61.3.140.0:60242/bin.sh
 234357, 2024-09-06 07:25:37, 2024-09-06 07:25:37, malware, 25d683992db749b48e9a13edf2e621aa, http://61.3.12.97:41348/i
 234356, 2024-09-06 07:25:25, 2024-09-06 07:25:25, malware, f769c390331f438586e1fd85435aa858, http://61.0.66.175:49389/bin.sh
-234355, 2024-09-06 07:25:17, 2024-09-06 07:25:17, malware, 408a8f78639c4722ac2e37d90b6a9830, http://61.0.150.203:54505/Mozi.m
-234354, 2024-09-06 07:25:04, 2024-09-06 07:25:04, malware, 319aa1e70bd04c66a214b5fecd51b929, http://59.91.93.205:55501/i
-234353, 2024-09-06 07:25:02, 2024-09-06 07:25:02, malware, a19993841c2d4a598bb3b761e281862f, http://59.89.224.8:34797/i
-234352, 2024-09-06 07:24:30, 2024-09-06 07:24:30, malware, 2e35d310510a4413acc2ba45b623b990, http://59.183.108.33:40442/bin.sh
