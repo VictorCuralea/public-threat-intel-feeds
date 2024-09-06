@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-06 22:00:01 UTC
+# UPDATE: 2024-09-06 23:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+234921, 2024-09-06 22:46:13, 2024-09-06 22:46:13, phishing, 16b4c5b29bb101e9a159634407688371, https://upc-mail-hispeed.weebly.com/
+234920, 2024-09-06 22:40:11, 2024-09-06 22:40:11, phishing, 84cde47f79009b77e48814446a92d6ab, http://htrdhjhgfdscvvcdfghjhvcdfghjopo0987tr54edxzsedfghgfdsqwwsc.pages.dev
+234919, 2024-09-06 22:00:13, 2024-09-06 22:00:13, phishing, 9d18942879faf8afee53550224e4fdff, http://copilot.jiakun93.us.kg
 234918, 2024-09-06 21:46:10, 2024-09-06 21:46:10, phishing, b9bfc3a5a0a23a8987c590dba3f2327c, http://ghsfgyowkunoeweijacziajhd04.pages.dev
 234917, 2024-09-06 21:46:10, 2024-09-06 21:46:10, phishing, a8f53a4f58f360cf9b11a5d18d70268f, http://siuhpagwesbvazxlckjweroiuqazbxm3.pages.dev
 234916, 2024-09-06 21:32:12, 2024-09-06 21:32:12, phishing, cccec4754fd0198fb4d88f3c943e7939, http://authh-oniinescf.cloud-api-qateway.workers.dev
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 234423, 2024-09-06 11:29:32, 2024-09-06 11:29:32, malware, a2a364f13998442d83d6c52cf30ad01b, http://125.47.3.198:49225/i
 234422, 2024-09-06 11:29:31, 2024-09-06 11:29:31, malware, 646f740e802c40b4a0b8e523a73a97c1, http://125.46.175.234:37252/bin.sh
 234421, 2024-09-06 11:29:29, 2024-09-06 11:29:29, malware, c671435b1cac4b7980aa079234ba2985, http://125.46.142.240:37269/bin.sh
-234420, 2024-09-06 11:29:07, 2024-09-06 11:29:07, malware, 5909b194fbd84c5eb83a7f8741890037, http://125.41.213.32:47708/i
-234419, 2024-09-06 11:29:05, 2024-09-06 11:29:05, malware, 09f35f30e7424ad596492b090770e234, http://123.9.22.205:59865/bin.sh
-234418, 2024-09-06 11:29:03, 2024-09-06 11:29:03, malware, 5425d40e0c8b49b3aaeb60b32ac83158, http://123.8.16.222:46594/i
