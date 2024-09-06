@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-06 16:21:27 UTC                        #
+# Last updated: 2024-09-06 17:11:33 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	fivev5ht.top
+127.0.0.1	sevtv17ht.top
+127.0.0.1	tventyv20pt.top
+127.0.0.1	twov2pt.top
+127.0.0.1	thirtv13pt.top
 127.0.0.1	uk1.localto.net
 127.0.0.1	korkos.now-dns.net
 127.0.0.1	tr3.localto.net
@@ -7781,4 +7786,4 @@
 127.0.0.1	rverde.duckdns.org
 127.0.0.1	shopmoneyweb.com
 127.0.0.1	distributors.commdistinc.com
-# Number of entries: 7775
+# Number of entries: 7780
