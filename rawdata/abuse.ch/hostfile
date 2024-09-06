@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-06 10:44:24 UTC                        #
+# Last updated: 2024-09-06 12:35:10 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	menucore.com
 127.0.0.1	vabercoach.com
 127.0.0.1	lokjopppkuimlpo.shop
 127.0.0.1	politics-mortgages.gl.at.ply.gg
@@ -7723,8 +7724,4 @@
 127.0.0.1	rverde.duckdns.org
 127.0.0.1	shopmoneyweb.com
 127.0.0.1	distributors.commdistinc.com
-127.0.0.1	www.cloudflarecache.top
-127.0.0.1	55.18.131.34.bc.googleusercontent.com
-127.0.0.1	ns2.msn-microsoft.co
-127.0.0.1	ns1.msn-microsoft.co
-# Number of entries: 7721
+# Number of entries: 7718

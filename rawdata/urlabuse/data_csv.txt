@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-06 12:00:01 UTC
+# UPDATE: 2024-09-06 13:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+234456, 2024-09-06 12:20:28, 2024-09-06 12:20:28, malware, e6b8d1338a4d4cf59099ef48caa92f5c, http://78.186.155.18:54721/i
+234455, 2024-09-06 12:20:25, 2024-09-06 12:20:25, malware, 1d215699d75a45fb848b4f76312fe95a, http://61.54.234.181:51523/bin.sh
 234454, 2024-09-06 11:34:56, 2024-09-06 11:34:56, malware, 1ccf9fdedb534dceb6da8da3ae3a2218, http://61.3.87.243:47395/bin.sh
 234453, 2024-09-06 11:34:54, 2024-09-06 11:34:54, malware, 7b14e03ece3d476c9d2046ef7f1fabaf, http://61.3.111.50:59927/Mozi.m
 234452, 2024-09-06 11:34:52, 2024-09-06 11:34:52, malware, f5c7edc0aeb64b9b9adb117182458dc0, http://61.0.150.203:54505/i
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 233474, 2024-09-05 17:24:11, 2024-09-05 17:24:11, malware, ab56f1f6edfe4e2b92ef186cdbccf133, http://218.29.29.48:35425/i
 233473, 2024-09-05 17:22:49, 2024-09-05 17:22:49, malware, e6e7d95063f24ae3b22b86d99518fc86, http://182.127.38.171:38075/bin.sh
 233472, 2024-09-05 17:22:47, 2024-09-05 17:22:47, malware, 84a8a7b3365446719ab89bd38dd65e99, http://182.126.98.156:54775/
-233471, 2024-09-05 17:22:45, 2024-09-05 17:22:45, malware, f83c3179fc51420383769234a09fcdcf, http://182.121.248.59:35427/i
-233470, 2024-09-05 17:22:43, 2024-09-05 17:22:43, malware, 29fc51af8dff474e94942c345d53b350, http://182.120.148.28:45743/bin.sh
