@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-07 16:00:01 UTC
+# UPDATE: 2024-09-07 17:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+235740, 2024-09-07 16:38:12, 2024-09-07 16:38:12, phishing, 75bb1f0a621e813b5d978a1318791441, http://knbvcdsw234rsazxsaq1234rfdfghjjuytyuijkopoiuyfdcr54rtyuioo.pages.dev
+235739, 2024-09-07 16:21:02, 2024-09-07 14:24:16, phishing, ebbad7133cc3133279107f0c56a5a82b, https://scurbroadbandworldbt.studio.site/
+235702, 2024-09-07 16:02:25, 2024-09-07 16:02:25, hacked, 33c541895021b38a6f6a15be57a4607d, http://heytakhfif.com
 235701, 2024-09-07 15:38:13, 2024-09-07 15:38:13, phishing, d09536107842898a203a2e608c5cddd3, https://biriz-birlikteyiz-milletin-sozundeyiz.online/burada/
 235700, 2024-09-07 15:36:15, 2024-09-07 15:36:15, phishing, deaad5489b1f6d93f8e25136ebd24eef, http://yeniden-basladi.online
 235699, 2024-09-07 15:27:59, 2024-09-07 15:27:59, malware, 865599a3a2b347db8b85a3587252f299, http://61.52.48.189:40482/i
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 234944, 2024-09-06 23:21:30, 2024-09-06 23:21:30, malware, 29c3790f6ac74e8fbb9e5ba6d40d218e, http://117.215.243.186:47624/i
 234943, 2024-09-06 23:21:07, 2024-09-06 23:21:07, malware, bb66050def82422c85f09955a09d81e6, http://117.211.209.140:59904/i
 234942, 2024-09-06 23:21:04, 2024-09-06 23:21:04, malware, a9ccfd4f1b3c403ead47c18398a3528d, http://117.210.217.235:53834/i
-234941, 2024-09-06 23:20:43, 2024-09-06 23:20:43, malware, 7791e5f3488c4ec389505d554b598c97, http://117.203.137.171:41183/bin.sh
-234940, 2024-09-06 23:20:41, 2024-09-06 23:20:41, malware, 1e5b5fd5808b4e42a32a7df3d7ec5712, http://117.198.29.169:55737/bin.sh
-234939, 2024-09-06 23:20:39, 2024-09-06 23:20:39, malware, 6d1d220b1aba4eae95fccc3d462a4918, http://117.196.171.158:53617/i
