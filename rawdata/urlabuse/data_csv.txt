@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-07 00:00:02 UTC
+# UPDATE: 2024-09-07 01:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+235001, 2024-09-07 00:44:13, 2024-09-07 00:44:13, phishing, c14a5f9a14c946b884375c7f9021798d, http://domailfreenamesrverwebmailvalidationservice1.pages.dev
+235000, 2024-09-07 00:12:14, 2024-09-07 00:12:14, phishing, f542015d3bd63e1d33899b20c4e933df, http://whatsapp-scv.com
+234999, 2024-09-07 00:06:12, 2024-09-07 00:06:12, phishing, 80c9d05685c6c4f40990334c7b30f511, http://xcdwefdzaqwsdftrtyunmkolkmkbvcxde32wsxzaqwegvcfghytrr4efvc.pages.dev
 234998, 2024-09-06 23:49:03, 2024-09-06 23:49:03, phishing, f986b18a2bd8f1bea3ac4345190aa6ab, https://trouvaycauvn.com/zews/index.html#
 234997, 2024-09-06 23:48:41, 2024-09-06 23:48:41, phishing, 725535f7ab6b7dd87fa514370d46811e, https://1nsider.one
 234996, 2024-09-06 23:48:24, 2024-09-06 23:48:24, phishing, 113cb3327d042ac498859113eb6f6d1b, https://estrategika.pe/WVmdo71ia/ffsw33vnvn3qo8c1/login.php?client_id=CMQVg5rD2Zvb3OFZLhWK6MyCvMhkBtm7gmHkxbepqR050oIik5SeS3OE3aGPwqL4
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 234498, 2024-09-06 13:24:45, 2024-09-06 13:24:45, malware, 8573e323071c49c5a7a610e1e6c442b5, http://182.115.159.190:58041/i
 234497, 2024-09-06 13:24:43, 2024-09-06 13:24:43, malware, a08667fa9c3e4faea8dec62178d19a58, http://182.115.159.190:58041/bin.sh
 234496, 2024-09-06 13:24:42, 2024-09-06 13:24:42, malware, 004a4d8ce86b4f2a8405b564cb1a60ea, http://181.94.210.3:37616/bin.sh
-234495, 2024-09-06 13:24:39, 2024-09-06 13:24:39, malware, 648e528ba0e44fbeb0e503e6cd665c0d, http://154.216.19.18/updates.x86
-234494, 2024-09-06 13:24:39, 2024-09-06 13:24:39, malware, 93a51f238cbc496c95d75df096f4dfdf, http://154.216.19.18/updates.mpsl
-234493, 2024-09-06 13:24:38, 2024-09-06 13:24:38, malware, 2f23d8ac7dcc468193848d6679148118, http://154.216.19.18/updates.mips
