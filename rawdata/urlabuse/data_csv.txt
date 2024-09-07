@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-07 22:00:01 UTC
+# UPDATE: 2024-09-07 23:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+236099, 2024-09-07 22:52:14, 2024-09-07 22:52:14, phishing, fafd126d8752383ef1244e3d9f77da80, http://microsoft-office.pages.dev
+236098, 2024-09-07 22:26:15, 2024-09-07 22:26:15, phishing, 69558b2e6f2c296a30d4917dc59a93a6, http://multiwallets-connects.pages.dev
+236097, 2024-09-07 22:22:14, 2024-09-07 22:22:14, phishing, 0f287f9c85aa01d1f824db1eafeeec6e, http://fixxedapp.pages.dev
+236096, 2024-09-07 22:08:17, 2024-09-07 22:08:17, phishing, 247ca2544fce7841f97534af5d3463ce, http://bicoicxswift.pages.dev
 236095, 2024-09-07 21:46:16, 2024-09-07 21:46:16, phishing, e96d0a61e75efd6dd3d3ee9829497549, http://zsrzksync.com
 236094, 2024-09-07 21:26:12, 2024-09-07 21:26:12, malware, f2c513b1e3fd432292655be6db5cd483, http://85.108.84.199:33670/
 236093, 2024-09-07 21:26:10, 2024-09-07 21:26:10, malware, fd1af6a85efa453690740edc79936303, http://85.105.76.45:49550/i
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 235112, 2024-09-07 05:24:25, 2024-09-07 05:24:25, malware, e82191b9703d443d9b78a0fb27f6cc1c, http://219.157.65.227:35119/Mozi.m
 235111, 2024-09-07 05:24:24, 2024-09-07 05:24:24, malware, 5b71e2c5541045d5a6ff8f005ddd22ae, http://190.72.228.174:56687/Mozi.m
 235110, 2024-09-07 05:23:58, 2024-09-07 05:23:58, malware, 5a8ebe49372644a6aa7cef1f91c8457a, http://182.121.111.70:33289/i
-235109, 2024-09-07 05:23:57, 2024-09-07 05:23:57, malware, c1864bd8162e40afac883b24211f7a4d, http://182.121.109.177:57819/
-235108, 2024-09-07 05:23:55, 2024-09-07 05:23:55, malware, 52dd2cf2825c4a968ef28c250d0a4ad8, http://182.119.149.95:57399/i
-235107, 2024-09-07 05:23:53, 2024-09-07 05:23:53, malware, 1efdca38e9264523a18ddd6d815324a9, http://182.119.149.95:57399/bin.sh
-235106, 2024-09-07 05:23:32, 2024-09-07 05:23:32, malware, 6e377046dc9c41e1ad75e7d7c85a8270, http://182.117.51.54:38967/bin.sh
