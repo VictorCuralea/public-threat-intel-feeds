@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-07 02:00:01 UTC
+# UPDATE: 2024-09-07 03:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+235036, 2024-09-07 02:52:10, 2024-09-07 02:52:10, phishing, 4f09887d61466275da317e6d0c2312b8, http://ghsfgyowkunoeweijacziajhd02.pages.dev
 235035, 2024-09-07 01:34:10, 2024-09-07 01:34:10, phishing, 8b0e0a44976d61b88c8326898ae7c879, http://domainhostinghosstingserviceshostingneeded03.pages.dev
 235034, 2024-09-07 01:23:52, 2024-09-07 01:23:52, malware, 6977529419bf4282af15ad39e982853a, http://59.93.182.156:58774/i
 235033, 2024-09-07 01:23:50, 2024-09-07 01:23:50, malware, 4e68f86ce49c4fa98d43f14e830b1c5d, http://59.91.82.197:43240/Mozi.a
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 234533, 2024-09-06 13:26:05, 2024-09-06 13:26:05, malware, ff69801fdd22469a9d90f9fa81ca9ad4, http://59.182.97.51:56420/
 234532, 2024-09-06 13:25:53, 2024-09-06 13:25:53, malware, 9f61765bc00243da89ddea439d22f589, http://59.182.127.190:35132/i
 234531, 2024-09-06 13:25:49, 2024-09-06 13:25:49, malware, 8accfb8c2bd94489b90af71d8d820f5d, http://59.180.137.77:52746/Mozi.m
-234530, 2024-09-06 13:25:47, 2024-09-06 13:25:47, malware, 8b844e9bf6b94b90b3b4a6a9a5935c80, http://59.178.41.231:39288/bin.sh
