@@ -6,8 +6,13 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-07 10:00:01 UTC
+# UPDATE: 2024-09-07 11:00:02 UTC
 ############### END COMMENTS ###############
+{"id": 235485, "url": "http://2admin.dtekcn.xyz", "discovery": "2024-09-07 10:32:15", "added": "2024-09-07 10:32:15", "target": "Telegram", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "0e9f169c041d784091a4759efaba2b84"}
+{"id": 235470, "url": "http://whatsapp-isv.com", "discovery": "2024-09-07 10:12:15", "added": "2024-09-07 10:12:15", "target": "Whatsapp", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "81e7405427eefc6eb89a12cf33a23a77"}
+{"id": 235469, "url": "http://huhyyy.business-minagne.com", "discovery": "2024-09-07 10:10:15", "added": "2024-09-07 10:10:15", "target": "Facebook", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "5ec9331d2397785e86efe24a69dfe32d"}
+{"id": 235468, "url": "http://ma-demande-renouvellement-enligne.fr", "discovery": "2024-09-07 10:00:12", "added": "2024-09-07 10:00:12", "target": "FR-GOV", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "ab696d031480d54dedda9e7c4dba4c15"}
+{"id": 235467, "url": "http://hhtttttrwhgvcwqazxcvgfd4r5t7ugcxr67890iuhgd43wszxsw2wq2wer.pages.dev", "discovery": "2024-09-07 10:00:10", "added": "2024-09-07 10:00:10", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "e85028aa1161687ffa5c409be1ac6d6b"}
 {"id": 235466, "url": "https://free-5468230.webadorsite.com/", "discovery": "2024-09-07 09:48:13", "added": "2024-09-07 09:50:09", "target": "BT", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "bdcb1b2ab84eccc9072a919f714559cd"}
 {"id": 235465, "url": "https://britcheck.weeblysite.com/", "discovery": "2024-09-07 09:49:54", "added": "2024-09-07 09:49:54", "target": "BT", "reporter": "urlabuse", "AbuseType": "phishing", "UUID": "664b6065f806a70f8d224409de3e6136"}
 {"id": 235464, "url": "https://gentle-timing-348804.framer.app/", "discovery": "2024-09-07 09:36:15", "added": "2024-09-07 09:49:42", "target": "BT", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "95f3ee2e9016fd6e012ef0340382300b"}
@@ -503,8 +508,3 @@
 {"id": 234775, "url": "http://123.5.147.173:56617/bin.sh", "discovery": "2024-09-06 19:22:39", "added": "2024-09-06 19:22:39", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "0f1db7fbae374bac918ebacee3eb0f8f"}
 {"id": 234774, "url": "https://my-site-109158-101622.weeblysite.com/", "discovery": "2024-09-06 19:22:36", "added": "2024-09-06 19:22:36", "target": "BT", "reporter": "urlabuse", "AbuseType": "phishing", "UUID": "aaecd9cd0234785a68f9c3ce29d75f5e"}
 {"id": 234773, "url": "http://tokend1ream.com", "discovery": "2024-09-06 19:22:28", "added": "2024-09-06 19:22:28", "target": "Token Pocket", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "d834621e96f125e7d59ddea578e89088"}
-{"id": 234772, "url": "http://tokenp1ioneer.com", "discovery": "2024-09-06 19:22:27", "added": "2024-09-06 19:22:27", "target": "Token Pocket", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "abf0bd75738c0fa6df2a90747605a4e6"}
-{"id": 234771, "url": "https://free-5456750.webadorsite.com/", "discovery": "2024-09-06 19:16:39", "added": "2024-09-06 19:22:18", "target": "BT", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "3f4008b7b002b4a91abd24fe2e874c7f"}
-{"id": 234770, "url": "http://119.189.192.66:38008/i", "discovery": "2024-09-06 19:22:17", "added": "2024-09-06 19:22:17", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "d46d501fd3764c51ae469cc3293d9001"}
-{"id": 234769, "url": "http://117.248.24.222:45687/i", "discovery": "2024-09-06 19:22:11", "added": "2024-09-06 19:22:11", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "8d84c251822247729dbdd70eb3f84be9"}
-{"id": 234768, "url": "http://irnt0ken-ah.com", "discovery": "2024-09-06 19:22:10", "added": "2024-09-06 19:22:10", "target": "imToken", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "e3e136977440e4c331aedad8058dcc9d"}
