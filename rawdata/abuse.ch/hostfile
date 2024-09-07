@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-07 15:55:57 UTC                        #
+# Last updated: 2024-09-07 18:51:44 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	fivev5sb.top
+127.0.0.1	threv3sb.top
+127.0.0.1	tenv10pt.top
+127.0.0.1	sevenv7sb.top
+127.0.0.1	neinv9pt.top
 127.0.0.1	very-aug.gl.at.ply.gg
 127.0.0.1	baby-contracts.gl.at.ply.gg
 127.0.0.1	third-cheque.gl.at.ply.gg
@@ -8041,4 +8046,4 @@
 127.0.0.1	mowilderness.com
 127.0.0.1	mtgimports.com
 127.0.0.1	netdognetworks.com
-# Number of entries: 8035
+# Number of entries: 8040

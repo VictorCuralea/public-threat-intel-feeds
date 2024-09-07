@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-07 18:00:01 UTC
+# UPDATE: 2024-09-07 19:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+235806, 2024-09-07 18:30:12, 2024-09-07 18:30:12, phishing, 1af8aa23def3a63db6430507c65bcb9f, http://easygoingsloganmadeeasy2.pages.dev
+235798, 2024-09-07 18:03:28, 2024-09-07 18:03:28, phishing, d001b80b81fd0db25f97dce06282cd47, https://aghsreil.org/%f0%9d%90%9c%e2%80%8c%e2%80%8c/
 235797, 2024-09-07 17:57:41, 2024-09-07 17:57:41, phishing, d15ad0f1ce83725e9cd06ccd8fb2843f, https://aghsreil.org
 235772, 2024-09-07 17:25:38, 2024-09-07 17:25:38, malware, 7af44a64f8d249e3a328373f9a5b04cd, http://61.52.193.83:54959/i
 235771, 2024-09-07 17:25:36, 2024-09-07 17:25:36, malware, 9d23bc674d2c41ba896c1e68f6e14b98, http://61.52.193.83:54959/bin.sh
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 234979, 2024-09-06 23:22:43, 2024-09-06 23:22:43, malware, d54827bfecf342269e6285b1cf322d93, http://59.178.154.168:59621/i
 234978, 2024-09-06 23:22:41, 2024-09-06 23:22:41, malware, 4e6a7eb0e75346d6ac3236c8c55fa432, http://42.232.27.219:46352/bin.sh
 234977, 2024-09-06 23:22:26, 2024-09-06 23:22:26, malware, 638874d494c44471bc9aa01398a06701, http://42.224.109.225:47460/i
-234976, 2024-09-06 23:22:25, 2024-09-06 23:22:25, malware, 2161e0e9cdcc43d1a0d703522ddea1a6, http://27.6.173.58:42786/i
-234975, 2024-09-06 23:22:23, 2024-09-06 23:22:23, malware, 4b9cb06cab9348d9b5df088c9e012863, http://27.6.173.58:42786/bin.sh
