@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-08 06:00:01 UTC
+# UPDATE: 2024-09-08 07:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+236377, 2024-09-08 06:34:17, 2024-09-08 06:34:17, phishing, 16ed0fba67ca39594dd0e62beac0d0b2, http://prompvemigracauns.pages.dev
+236376, 2024-09-08 06:14:15, 2024-09-08 06:14:15, phishing, d45b505f844eeb25c228739c0e5205f9, http://monerohashfil.pages.dev
+236375, 2024-09-08 06:14:11, 2024-09-08 06:14:11, phishing, 6dfac2350bbff89175f36f5fdb63b969, http://jfdrqjbfewjfbejkwjhfbeqwkqfahfhrfbvb.pages.dev
 236374, 2024-09-08 05:26:38, 2024-09-08 05:26:38, malware, 66c24d25cc594cf0bbdc663199edf207, http://61.53.88.151:58723/bin.sh
 236373, 2024-09-08 05:26:36, 2024-09-08 05:26:36, malware, c52d31d29e1448fa8e54902738c19333, http://61.53.81.217:55915/i
 236372, 2024-09-08 05:26:35, 2024-09-08 05:26:35, malware, 9448390082ab44a8b7c7965218c91635, http://61.53.121.237:40252/
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 235626, 2024-09-07 13:30:29, 2024-09-07 13:30:29, malware, 387044c9f21f4da5b59d1a8a8ab7d6ad, http://59.97.123.20:46863/i
 235625, 2024-09-07 13:30:16, 2024-09-07 13:30:16, malware, a652a7331adf4e0ea310410a684fe519, http://59.94.100.88:54323/bin.sh
 235624, 2024-09-07 13:30:12, 2024-09-07 13:30:12, phishing, c5f62d5191fbca3cd7084657f089eb4f, http://8u8y8y87y756t.pages.dev
-235623, 2024-09-07 13:29:12, 2024-09-07 13:29:12, malware, 6e898e78664245e99575fb8c6d38edb9, http://59.92.164.196:39514/bin.sh
-235622, 2024-09-07 13:29:10, 2024-09-07 13:29:10, malware, b5ae51054eb841aab6b217474d5c93b8, http://59.89.29.35:58600/Mozi.a
-235621, 2024-09-07 13:28:58, 2024-09-07 13:28:58, malware, 179ea0ad930d4e96a0de9300acfe15bf, http://59.183.96.247:36788/bin.sh

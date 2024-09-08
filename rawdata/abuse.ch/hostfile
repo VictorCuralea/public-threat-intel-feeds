@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-08 04:01:33 UTC                        #
+# Last updated: 2024-09-08 06:08:40 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	webcachespace.net
 127.0.0.1	hukumdarcraft.com
 127.0.0.1	correospanama-gov.shop
 127.0.0.1	test.ellava66.beget.tech
@@ -8072,4 +8073,4 @@
 127.0.0.1	updates.prdcdn.com
 127.0.0.1	citrix.prdcdn.com
 127.0.0.1	vip.z886888.top
-# Number of entries: 8066
+# Number of entries: 8067
