@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-08 08:24:37 UTC                        #
+# Last updated: 2024-09-08 09:02:50 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	trabajo25.duckdns.org
 127.0.0.1	post-43.shop
 127.0.0.1	www.ultrapowermac.com
 127.0.0.1	fulfillirite.com
@@ -8085,4 +8086,4 @@
 127.0.0.1	cdn.prdcdn.com
 127.0.0.1	updates.prdcdn.com
 127.0.0.1	citrix.prdcdn.com
-# Number of entries: 8079
+# Number of entries: 8080
