@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-08 10:00:02 UTC
+# UPDATE: 2024-09-08 11:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+236559, 2024-09-08 10:32:11, 2024-09-08 10:32:11, phishing, 5592447e9c1a0f9dbd85b3106e2988a9, http://naughtygroupgirls.pages.dev
+236558, 2024-09-08 10:18:17, 2024-09-08 10:18:17, phishing, af058f2c968f516ad68896f94c8a7169, http://unipaxstorm.pages.dev
 236557, 2024-09-08 09:56:23, 2024-09-08 09:56:23, phishing, 2b3e80482a00c213e5011a8d2f7155bf, http://tokenpocket.io
 236556, 2024-09-08 09:54:17, 2024-09-08 09:54:17, phishing, 4112b788563e9ce2d1cab3718aef7f7d, http://whatsapp-ssc.com
 236555, 2024-09-08 09:52:15, 2024-09-08 09:52:15, phishing, 5c7ea7cec3c631459d589a03276d675e, http://whantsapp-cs.com
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 235843, 2024-09-07 19:25:25, 2024-09-07 19:25:25, malware, dfab0fc349db4a80aa353781c0db20f2, http://182.127.164.77:53825/bin.sh
 235842, 2024-09-07 19:25:23, 2024-09-07 19:25:23, malware, 6d74304d62624b25bb902633684b9f9f, http://182.126.85.160:41677/bin.sh
 235841, 2024-09-07 19:25:22, 2024-09-07 19:25:22, malware, 299d02cc2f774091b76f506e7220834e, http://182.121.51.38:53693/i
-235840, 2024-09-07 19:25:20, 2024-09-07 19:25:20, malware, c53004abce824cfd8e5d330724f051ac, http://182.121.51.38:53693/bin.sh
-235839, 2024-09-07 19:25:19, 2024-09-07 19:25:19, malware, 112ad40cf4fd442d99ad8c22babbdf79, http://182.121.219.199:58467/i
