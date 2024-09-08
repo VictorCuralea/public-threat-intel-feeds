@@ -6,9 +6,14 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-08 18:00:01 UTC
+# UPDATE: 2024-09-08 19:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+237062, 2024-09-08 18:50:13, 2024-09-08 18:50:13, phishing, fd767aa7459afa362f11d84be25d95ef, http://update-sept-admlnlstrator.pages.dev
+237061, 2024-09-08 18:44:12, 2024-09-08 18:44:12, phishing, 9ef4ac1fc46b34b7e296a5de44f9c45e, http://xpub-debugtools.pages.dev
+236953, 2024-09-08 18:26:17, 2024-09-08 18:26:17, phishing, a5b34fabc4a2c96782cabcff400cc409, http://invest-8dh.pages.dev
+236952, 2024-09-08 18:09:49, 2024-09-08 16:34:12, phishing, acae170f21db15f8bf6fe6994904a653, http://track.yuhkeyb.com/f/a/pWFgiqeIRObcZnTN34k1og~~/AAArHAA~/RgRowAhNP0RbaHR0cHM6Ly95dWhmcHouc3ZpbHVwcG8uaG9zdC9hcHM_dXRtX3NvdXJjZT15dWgmdXRtX21lZGl1bT1lbWFpbC1tYXJrZXRpbmcmdXRtX2NhbXBhaWduPWtleVcFc3BjZXVCCmbPZIPdZj59OF1SGHNhYnJpbmEuYmxhc2lAc3VucmlzZS5jaFgEAAADig~~
+236951, 2024-09-08 18:09:03, 2024-09-08 17:00:13, phishing, 429078b80be3793b890a750ac95750cc, https://csn-sonora.mx/
 236950, 2024-09-08 17:54:16, 2024-09-08 17:54:16, phishing, 6806f5fc74dc3dfb122158108b5537f4, http://hashdefymonero.pages.dev
 236934, 2024-09-08 17:30:15, 2024-09-08 17:30:15, phishing, 9767990925c484ee708dd517801de90c, http://teleglam.xyz
 236933, 2024-09-08 17:28:16, 2024-09-08 17:28:16, malware, b22f8946702d48f5bb5000a524c28d95, http://81.213.214.180:38246/i
@@ -504,8 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 236318, 2024-09-08 05:21:26, 2024-09-08 05:21:26, malware, 26b78d616fe942f5950e86870157ea91, http://117.204.239.19:50010/i
 236317, 2024-09-08 05:20:44, 2024-09-08 05:20:44, malware, a3d535f3973e4fdcaf7d1931b0050328, http://117.193.157.136:52335/i
 236316, 2024-09-08 05:20:42, 2024-09-08 05:20:42, malware, ecffbf2d8f4a42bcad19a46ec27d9a2c, http://117.193.157.136:52335/bin.sh
-236315, 2024-09-08 05:20:39, 2024-09-08 05:20:39, malware, 5252c0ce944141bdbb7ee8297838a028, http://115.62.146.170:53169/bin.sh
-236314, 2024-09-08 05:20:38, 2024-09-08 05:20:38, malware, 9df1c1382c9549b7baf286b4a8ac8730, http://115.56.112.230:32832/Mozi.m
-236313, 2024-09-08 05:20:36, 2024-09-08 05:20:36, malware, ca710ccb6f01428786732a9cc3abb93d, http://115.55.244.153:46734/i
-236312, 2024-09-08 05:20:35, 2024-09-08 05:20:35, malware, 9d202894541c463e92b02959a05d57e8, http://115.55.244.153:46734/bin.sh
-236311, 2024-09-08 05:20:33, 2024-09-08 05:20:33, malware, 6c66f03746324b4f829fb32b9eed5f19, http://115.55.241.141:49189/Mozi.m
