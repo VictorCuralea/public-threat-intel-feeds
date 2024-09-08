@@ -6,9 +6,15 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-08 22:00:01 UTC
+# UPDATE: 2024-09-08 23:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+237373, 2024-09-08 22:39:07, 2024-09-08 22:39:07, phishing, 03783902eed098de8f26f810b863346b, http://fgchcgdru1.pages.dev
+237372, 2024-09-08 22:36:18, 2024-09-08 22:36:18, phishing, a1a47a76385c68898f191ddc944c28e1, https://s1042.use1.mysecurecloudhost.com/~apogeotv/as/signin.php
+237371, 2024-09-08 22:20:11, 2024-09-08 22:20:11, phishing, 62cb0e2c2febea90f4dfcb2be90313ba, https://48burjgate.com/images/bg/barty.html
+237370, 2024-09-08 22:04:21, 2024-09-08 22:04:21, phishing, 56a551e9d43b25b30e75f13e531db323, https://teier-gam.com/
+237369, 2024-09-08 22:02:19, 2024-09-08 22:02:19, hacked, df8ca5cedb75186b7dfe19d626cb3f64, https://proultimus.com/
+237368, 2024-09-08 22:02:16, 2024-09-08 22:02:16, phishing, 79ae2658475085516b1c1e53d6e531c8, https://teieg-arm.com/
 237367, 2024-09-08 21:54:13, 2024-09-08 21:54:13, phishing, fa6fb16840e4f8e7e617479384b32941, http://espace-vitale-en-ligne.com
 237366, 2024-09-08 21:25:45, 2024-09-08 21:25:45, malware, e61e4da6940b433e8568e0a06d3b38ec, http://77.81.87.111:57338/i
 237365, 2024-09-08 21:25:44, 2024-09-08 21:25:44, malware, 12b84398c7e4434188598de786e3df82, http://61.53.97.62:33146/bin.sh
@@ -503,9 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 236415, 2024-09-08 07:25:33, 2024-09-08 07:25:33, malware, 3ccd8a9011a94dcdbb90bb9d4c5db674, http://182.119.99.24:44711/bin.sh
 236414, 2024-09-08 07:25:31, 2024-09-08 07:25:31, malware, 32efa85acc5943e6818787ef3978d2ab, http://182.119.57.41:46215/bin.sh
 236413, 2024-09-08 07:25:21, 2024-09-08 07:25:21, malware, ad10588be828460ea5c2dae78f672ada, http://182.114.253.161:33437/i
-236412, 2024-09-08 07:25:19, 2024-09-08 07:25:19, malware, 7a3b996ea9994f6c8a9ed69980ea45b7, http://182.114.253.161:33437/bin.sh
-236411, 2024-09-08 07:25:18, 2024-09-08 07:25:18, malware, 250b0c7b21e04fa0a30509fa3883b4be, http://182.113.24.61:46858/i
-236410, 2024-09-08 07:25:15, 2024-09-08 07:25:15, malware, 867dacbe1115497d84ace21bf2c6df88, http://182.113.24.61:46858/bin.sh
-236409, 2024-09-08 07:25:13, 2024-09-08 07:25:13, malware, 1427a34580734be293abef889d6934b7, http://182.113.192.143:48348/i
-236408, 2024-09-08 07:25:02, 2024-09-08 07:25:02, malware, 3947b5ab21cc4ccaad479538b74385f8, http://123.7.227.235:33644/
-236407, 2024-09-08 07:25:00, 2024-09-08 07:25:00, malware, 214580ed5b7d4891a202efd0782ed28c, http://123.5.118.218:45540/Mozi.m
