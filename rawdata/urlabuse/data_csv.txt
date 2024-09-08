@@ -6,9 +6,15 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-08 16:00:02 UTC
+# UPDATE: 2024-09-08 17:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+236857, 2024-09-08 16:18:15, 2024-09-08 16:18:15, phishing, 42b117e44e85bd1a5a1b131966615bda, http://adorationvt.pages.dev
+236855, 2024-09-08 16:02:48, 2024-09-08 16:02:48, phishing, 6965f4167074e19c6c6696babcaf0f09, https://gxdfg.pages.dev/
+236854, 2024-09-08 16:02:27, 2024-09-08 16:02:27, hacked, 152ba8b6401a58e196989ec5baabd1d1, http://yourseoexpert.in
+236853, 2024-09-08 16:02:25, 2024-09-08 16:02:25, hacked, 47b6118545992422a7dbee490e210fbd, http://tapansecurityservice.com
+236852, 2024-09-08 16:02:23, 2024-09-08 16:02:23, hacked, 3f28b084c39b02784843752c7a8091ac, http://fincorebr.com
+236851, 2024-09-08 16:02:19, 2024-09-08 16:02:19, hacked, 96750903bdeb4b328d0dd4565d378a62, http://suhoolcompany.com
 236850, 2024-09-08 15:54:18, 2024-09-08 15:54:18, phishing, c2a6b7f4692319ab7af0354e0b30744c, http://defi.usdd888.com
 236849, 2024-09-08 15:30:27, 2024-09-08 15:30:27, phishing, fed245fc229fde2b9b1dfe6b5830495a, https://actionagainsthunger.pk/sarafi/
 236848, 2024-09-08 15:29:56, 2024-09-08 15:29:56, malware, bb008f0c701148c9bf0976e6ddfc44f2, https://actionagainsthunger.pk/eblagh/base.apk
@@ -503,9 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 236250, 2024-09-08 03:23:46, 2024-09-08 03:23:46, malware, 84e1ebc8f7a7473ca72df12a4a2ebaa3, http://119.162.162.105:39197/bin.sh
 236249, 2024-09-08 03:23:42, 2024-09-08 03:23:42, malware, 81551dfcb0394eef860a537651e02da4, http://117.254.14.117:51533/bin.sh
 236248, 2024-09-08 03:23:23, 2024-09-08 03:23:23, malware, 540e958b2640496585abfa1ab563a2a5, http://117.253.192.78:50652/i
-236247, 2024-09-08 03:23:20, 2024-09-08 03:23:20, malware, 441f420713884f8298c706cbd3f85edf, http://117.248.171.60:60595/Mozi.m
-236246, 2024-09-08 03:22:57, 2024-09-08 03:22:57, malware, 66fd8c254d60478190f0af4fa9896815, http://117.245.230.36:35555/bin.sh
-236245, 2024-09-08 03:22:51, 2024-09-08 03:22:51, malware, 365e26d9f5df422cbf83da6526e4108a, http://117.243.250.22:41134/bin.sh
-236244, 2024-09-08 03:22:49, 2024-09-08 03:22:49, malware, 67495c64eb6745fea352f7ba94dccb5b, http://117.243.240.126:33508/Mozi.m
-236243, 2024-09-08 03:22:24, 2024-09-08 03:22:24, malware, 62bec56a060940259ee13088304628d9, http://117.242.195.55:53722/i
-236242, 2024-09-08 03:22:15, 2024-09-08 03:22:15, malware, 8f66ef3bb0f94353ad3164e33354616c, http://117.217.64.93:41641/i
