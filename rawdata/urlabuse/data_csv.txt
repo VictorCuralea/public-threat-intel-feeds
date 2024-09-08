@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-08 00:00:01 UTC
+# UPDATE: 2024-09-08 01:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+236145, 2024-09-08 00:52:16, 2024-09-08 00:52:16, phishing, e40b9fc549fc72991cdfb4e0e4390e52, http://t.nazariyan.ir
+236144, 2024-09-08 00:36:17, 2024-09-08 00:36:17, phishing, 0f9c197dea02f9241c8ba99b6fefbe65, http://defydapp.pages.dev
+236143, 2024-09-08 00:34:17, 2024-09-08 00:34:17, phishing, cfa50641ac4b588cf3fc61b2955f5a9b, http://multiclick.pages.dev
 236142, 2024-09-07 23:36:15, 2024-09-07 23:36:15, phishing, 4189a02df37c1b85d2b99177c5a28154, http://smartprotocolx.pages.dev
 236141, 2024-09-07 23:23:19, 2024-09-07 23:23:19, malware, 905f11cfa7bc444aa17671eb7dec6e0f, http://61.53.32.236:36283/
 236140, 2024-09-07 23:23:11, 2024-09-07 23:23:11, malware, 20f9554f7b6145ba8a3681732e6131c8, http://59.99.201.88:48576/
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 235189, 2024-09-07 07:25:25, 2024-09-07 07:25:25, malware, 2787f6d0d60f4cf9a1c854c333451fb2, http://182.117.51.54:38967/i
 235188, 2024-09-07 07:25:23, 2024-09-07 07:25:23, malware, 07d13f4b2617458c8e32c8bfa11bca4e, http://182.114.33.103:40091/i
 235187, 2024-09-07 07:25:21, 2024-09-07 07:25:21, malware, 06e0f8182f654d57a3e2f9376b8553a4, http://182.113.4.160:51402/i
-235186, 2024-09-07 07:25:19, 2024-09-07 07:25:19, malware, 27bf6b687e9d434cb7d01a24eb1d70b3, http://182.113.28.111:57497/bin.sh
-235185, 2024-09-07 07:25:17, 2024-09-07 07:25:17, malware, 5c9b69bd247e4cf39edec8e1d275ff32, http://182.112.35.133:53445/bin.sh
-235184, 2024-09-07 07:25:14, 2024-09-07 07:25:14, malware, 139c6752a0b9442dad709500a4df30a9, http://160.119.156.23:37729/i
