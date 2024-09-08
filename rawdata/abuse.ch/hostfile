@@ -1,11 +1,24 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-08 06:08:40 UTC                        #
+# Last updated: 2024-09-08 08:24:37 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	post-43.shop
+127.0.0.1	www.ultrapowermac.com
+127.0.0.1	fulfillirite.com
+127.0.0.1	cpcalendars.fulfillirite.com
+127.0.0.1	www.germ-ac.com
+127.0.0.1	balfuorcare.com
+127.0.0.1	www.jan2401-services.com
+127.0.0.1	webdisk.fulfillirite.com
+127.0.0.1	cpanel.fulfillirite.com
+127.0.0.1	cpcontacts.fulfillirite.com
+127.0.0.1	jan2401-services.com
+127.0.0.1	mail.fulfillirite.com
+127.0.0.1	voidsystems.duckdns.org
 127.0.0.1	webcachespace.net
 127.0.0.1	hukumdarcraft.com
 127.0.0.1	correospanama-gov.shop
@@ -8072,5 +8085,4 @@
 127.0.0.1	cdn.prdcdn.com
 127.0.0.1	updates.prdcdn.com
 127.0.0.1	citrix.prdcdn.com
-127.0.0.1	vip.z886888.top
-# Number of entries: 8067
+# Number of entries: 8079
