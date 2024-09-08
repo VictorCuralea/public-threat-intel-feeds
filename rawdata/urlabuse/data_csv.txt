@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-08 20:00:01 UTC
+# UPDATE: 2024-09-08 21:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+237321, 2024-09-08 20:32:15, 2024-09-08 20:32:15, phishing, 3cdb30afb69c704361f871fa1f8f1bee, http://proxysync.pages.dev
 237106, 2024-09-08 19:26:05, 2024-09-08 19:26:05, malware, 942fcc230ac94d29a5038519545274eb, http://95.159.27.32:59224/Mozi.m
 237105, 2024-09-08 19:25:41, 2024-09-08 19:25:41, malware, 0313a2bc928647e880c5dffd0170edaf, http://61.52.158.136:35862/bin.sh
 237104, 2024-09-08 19:25:09, 2024-09-08 19:25:09, malware, 4917fee5adeb4f47b467e82a70c737f9, http://59.92.169.101:53722/Mozi.m
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 236363, 2024-09-08 05:24:36, 2024-09-08 05:24:36, malware, f27d954a467f4834b2ec7fa34a6bbe49, http://42.231.201.191:60332/i
 236362, 2024-09-08 05:24:34, 2024-09-08 05:24:34, malware, 80ba8ab505ed43d483e33c35c4cf4b6f, http://42.228.244.31:34230/i
 236361, 2024-09-08 05:24:33, 2024-09-08 05:24:33, malware, d5a5a87e69e445a48cefcd84d92f89df, http://42.228.220.50:53029/
-236360, 2024-09-08 05:24:31, 2024-09-08 05:24:31, malware, 712e589c66a440ab82108468d6549c62, http://42.224.3.251:60411/
