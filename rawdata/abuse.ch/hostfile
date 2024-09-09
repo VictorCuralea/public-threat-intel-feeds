@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-09 16:32:51 UTC                        #
+# Last updated: 2024-09-09 18:55:01 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	sevenv7pn.top
+127.0.0.1	tenv10sb.top
+127.0.0.1	neinv9sb.top
 127.0.0.1	chezfur.com
 127.0.0.1	connect.p2p-secure.org
 127.0.0.1	cuponerachilanga.com
@@ -7953,4 +7956,4 @@
 127.0.0.1	arpa.indiadreamdestinations.com
 127.0.0.1	arpa.giodnews.com
 127.0.0.1	zakifail.hopto.org
-# Number of entries: 7947
+# Number of entries: 7950
