@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-09 10:00:01 UTC
+# UPDATE: 2024-09-09 11:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+237878, 2024-09-09 10:54:15, 2024-09-09 10:54:15, phishing, 68ccdf2273f12df9b6ca58d6618e7071, http://starboarddefyloom.pages.dev
+237877, 2024-09-09 10:30:13, 2024-09-09 10:30:13, phishing, 2dafde1ca857fc45f0d402602e0869b4, http://ak-faizsiz-basvur.app
+237876, 2024-09-09 10:24:16, 2024-09-09 10:24:16, phishing, 4bf13105d6d7a55019c493226c887f99, https://grgmr.com/user/plugins/sbb/
 237875, 2024-09-09 09:44:12, 2024-09-09 09:44:12, phishing, e774329265c8a59b4c0f97e73bf12f89, http://racetoabillion.pages.dev
 237874, 2024-09-09 09:31:41, 2024-09-09 09:31:41, malware, de13a43fb88d49a89bbfddcf687f3034, http://61.54.234.251:51523/i
 237873, 2024-09-09 09:31:39, 2024-09-09 09:31:39, malware, c383f09782394a9d916c81d152ad4a66, http://61.53.138.92:53256/Mozi.m
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 237381, 2024-09-08 23:20:06, 2024-09-08 23:20:06, malware, 3ce57c31125940a1976b076cc4deb7c4, http://111.38.106.19:44496/bin.sh
 237380, 2024-09-08 23:18:45, 2024-09-08 23:18:45, phishing, 5fd58522c487d476b2de0b5fc99b4429, https://random-bhm.pages.dev/%
 237379, 2024-09-08 23:18:29, 2024-09-08 23:18:29, phishing, 94d9c62c519cfcf0944a62368fc37bcf, https://lhv-sisene.lacthosa.hn/Mx3mZjMky/j9H2jIVV.php
-237378, 2024-09-08 23:18:13, 2024-09-08 23:18:13, phishing, 063568495d33d35b0d2992d3979aa517, https://lhv-sisene.lacthosa.hn/LJ3r2ZCbj3rN1hZJ26ql
-237377, 2024-09-08 23:17:59, 2024-09-08 23:17:59, phishing, b340d3d6e3b8e48541c27e8785094cea, http://cleacrise.free.fr/C0kWlTCcGnJUxPCEmeEDQN4yp8
-237376, 2024-09-08 23:17:34, 2024-09-08 23:17:34, phishing, af13ab9bca5be515d270295d143eadb5, https://google.com.af/amp/cleacrise.free.fr/C0kWlTCcGnJUxPCEmeEDQN4yp8

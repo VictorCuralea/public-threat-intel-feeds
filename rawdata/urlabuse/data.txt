@@ -6,8 +6,11 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-09 10:00:01 UTC
+# UPDATE: 2024-09-09 11:00:02 UTC
 ############### END COMMENTS ###############
+{"id": 237878, "url": "http://starboarddefyloom.pages.dev", "discovery": "2024-09-09 10:54:15", "added": "2024-09-09 10:54:15", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "68ccdf2273f12df9b6ca58d6618e7071"}
+{"id": 237877, "url": "http://ak-faizsiz-basvur.app", "discovery": "2024-09-09 10:30:13", "added": "2024-09-09 10:30:13", "target": "TR-GOV", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "2dafde1ca857fc45f0d402602e0869b4"}
+{"id": 237876, "url": "https://grgmr.com/user/plugins/sbb/", "discovery": "2024-09-09 10:24:16", "added": "2024-09-09 10:24:16", "target": "SwissPass", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "4bf13105d6d7a55019c493226c887f99"}
 {"id": 237875, "url": "http://racetoabillion.pages.dev", "discovery": "2024-09-09 09:44:12", "added": "2024-09-09 09:44:12", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "e774329265c8a59b4c0f97e73bf12f89"}
 {"id": 237874, "url": "http://61.54.234.251:51523/i", "discovery": "2024-09-09 09:31:41", "added": "2024-09-09 09:31:41", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "de13a43fb88d49a89bbfddcf687f3034"}
 {"id": 237873, "url": "http://61.53.138.92:53256/Mozi.m", "discovery": "2024-09-09 09:31:39", "added": "2024-09-09 09:31:39", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "c383f09782394a9d916c81d152ad4a66"}
@@ -505,6 +508,3 @@
 {"id": 237381, "url": "http://111.38.106.19:44496/bin.sh", "discovery": "2024-09-08 23:20:06", "added": "2024-09-08 23:20:06", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "3ce57c31125940a1976b076cc4deb7c4"}
 {"id": 237380, "url": "https://random-bhm.pages.dev/%", "discovery": "2024-09-08 23:18:45", "added": "2024-09-08 23:18:45", "target": "SEB", "reporter": "KTSC", "AbuseType": "phishing", "UUID": "5fd58522c487d476b2de0b5fc99b4429"}
 {"id": 237379, "url": "https://lhv-sisene.lacthosa.hn/Mx3mZjMky/j9H2jIVV.php", "discovery": "2024-09-08 23:18:29", "added": "2024-09-08 23:18:29", "target": "LHV", "reporter": "KTSC", "AbuseType": "phishing", "UUID": "94d9c62c519cfcf0944a62368fc37bcf"}
-{"id": 237378, "url": "https://lhv-sisene.lacthosa.hn/LJ3r2ZCbj3rN1hZJ26ql", "discovery": "2024-09-08 23:18:13", "added": "2024-09-08 23:18:13", "target": "LHV", "reporter": "KTSC", "AbuseType": "phishing", "UUID": "063568495d33d35b0d2992d3979aa517"}
-{"id": 237377, "url": "http://cleacrise.free.fr/C0kWlTCcGnJUxPCEmeEDQN4yp8", "discovery": "2024-09-08 23:17:59", "added": "2024-09-08 23:17:59", "target": "LHV", "reporter": "KTSC", "AbuseType": "phishing", "UUID": "b340d3d6e3b8e48541c27e8785094cea"}
-{"id": 237376, "url": "https://google.com.af/amp/cleacrise.free.fr/C0kWlTCcGnJUxPCEmeEDQN4yp8", "discovery": "2024-09-08 23:17:34", "added": "2024-09-08 23:17:34", "target": "LHV", "reporter": "KTSC", "AbuseType": "phishing", "UUID": "af13ab9bca5be515d270295d143eadb5"}
