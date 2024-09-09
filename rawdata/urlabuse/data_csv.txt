@@ -6,9 +6,14 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-09 12:00:01 UTC
+# UPDATE: 2024-09-09 13:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+237949, 2024-09-09 12:50:13, 2024-09-09 12:50:13, phishing, 2f14d8333fc37df7ac247772c29d1f44, http://giris-webhizmetler-basvur.app
+237948, 2024-09-09 12:42:18, 2024-09-09 12:42:18, phishing, ec08da56c400c01b47411109e97d0512, http://dc.tgcustomer.org
+237947, 2024-09-09 12:26:12, 2024-09-09 12:26:12, phishing, ebd7d6517bcf1cf74ae3e06e14db056a, http://internationalcongratulationwemailservivesaticulation1.pages.dev
+237946, 2024-09-09 12:22:13, 2024-09-09 12:22:13, phishing, 68a59a8be8b0b222ba0acd7b7a5d2252, http://dhl-service.help/post/lang.php
+237945, 2024-09-09 12:14:14, 2024-09-09 12:14:14, phishing, 6d029dc061de0b5c467c5ed876dd25ac, http://xpubactivationprotocol.pages.dev
 237944, 2024-09-09 11:54:12, 2024-09-09 11:54:12, phishing, 2b5ae0a7129bd32550cdb6c48f1c6420, http://giris-basvurular-form.app
 237943, 2024-09-09 11:28:54, 2024-09-09 11:28:54, malware, 6e8d10a93b8e4835a237c38d267751af, https://clicktogo.click/downloads/tra10
 237942, 2024-09-09 11:28:51, 2024-09-09 11:28:51, malware, 490b93720fd74e129af9b5a7cb33470f, http://78.182.49.179:50295/
@@ -504,8 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 237452, 2024-09-08 23:26:23, 2024-09-08 23:26:23, malware, 6736933e906646eab0e2b2cece99bef7, http://59.178.73.103:45561/bin.sh
 237451, 2024-09-08 23:25:58, 2024-09-08 23:25:58, malware, 78d793c6c3144f71af74b214f459b8aa, http://45.166.117.3:59522/Mozi.m
 237450, 2024-09-08 23:25:56, 2024-09-08 23:25:56, malware, 96ba735d6c8c4807a3d54e27777598cd, http://42.239.169.186:57574/i
-237449, 2024-09-08 23:25:54, 2024-09-08 23:25:54, malware, 53acb70efa1546759e1571cb8e1d3f21, http://42.239.169.186:57574/bin.sh
-237448, 2024-09-08 23:25:53, 2024-09-08 23:25:53, malware, d4885dc8ec804d8b9ab4a8df888f05a2, http://42.234.101.202:60106/i
-237447, 2024-09-08 23:25:51, 2024-09-08 23:25:51, malware, 76a1cb4fecdd4544813c2ef28defd92a, http://42.228.220.224:53264/bin.sh
-237446, 2024-09-08 23:25:49, 2024-09-08 23:25:49, malware, 7370ef377f30435db1be9db24ea9e429, http://42.227.49.104:45743/bin.sh
-237445, 2024-09-08 23:25:28, 2024-09-08 23:25:28, malware, eeff7d01da76472b843af1e7efceae3a, http://39.73.226.103:54336/i
