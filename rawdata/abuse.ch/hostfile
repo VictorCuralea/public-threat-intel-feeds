@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-09 00:02:25 UTC                        #
+# Last updated: 2024-09-09 04:02:16 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ki.xxx9.info
+127.0.0.1	www.affilate-pirat.de
+127.0.0.1	www.ki-mafia.info
+127.0.0.1	affilate-pirat.de
 127.0.0.1	correos-2.com
 127.0.0.1	tanja-yaman.de
 127.0.0.1	post-cch.shop
@@ -7929,4 +7933,4 @@
 127.0.0.1	api.startservicefounds.com
 127.0.0.1	dns.startservicefounds.com
 127.0.0.1	botnet7.vani.ovh
-# Number of entries: 7923
+# Number of entries: 7927
