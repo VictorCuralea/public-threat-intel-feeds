@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-09 08:00:01 UTC
+# UPDATE: 2024-09-09 09:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+237791, 2024-09-09 08:58:17, 2024-09-09 08:58:17, phishing, 1dfaa65112a8f6bf611d4111c278289a, http://smartprotocol.pages.dev
+237790, 2024-09-09 08:54:15, 2024-09-09 08:54:15, phishing, 8dc7e9fe97cf8e13012f5f0099ffc667, http://relance-cartevitale.fr
+237789, 2024-09-09 08:24:17, 2024-09-09 08:24:17, phishing, 2c27e7747a24b69e221c45d72d92e730, http://web.tgforerue.top
+237788, 2024-09-09 08:22:12, 2024-09-09 08:22:12, phishing, 6a0483cba48bde876b84f7349bffcead, http://fantasticdomainmailserverautentication034.pages.dev
 237787, 2024-09-09 07:35:04, 2024-09-09 07:35:04, malware, d9668b50841b4e889065db51d7e6dd12, http://89.197.154.116/AvosLocker.exe
 237786, 2024-09-09 07:34:47, 2024-09-09 07:34:47, malware, 1294a63f9d6a4bbb99f6dfc5c7635e93, http://81.235.157.102:48997/i
 237785, 2024-09-09 07:34:45, 2024-09-09 07:34:45, malware, 04879c1a49844896a105b57b6f2d1ca0, http://81.235.157.102:48997/bin.sh
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 237080, 2024-09-08 19:22:48, 2024-09-08 19:22:48, malware, d34369084ae046d888455bc3581c9c41, http://14.155.222.32:52133/Mozi.m
 237079, 2024-09-08 19:22:33, 2024-09-08 19:22:33, malware, 9f512d5d60974750821a6a2c6e0d8422, http://125.211.145.13:49910/i
 237078, 2024-09-08 19:22:31, 2024-09-08 19:22:31, malware, 73aaa28bbf8a4a629e0164d276bda5e6, http://125.211.145.13:49910/bin.sh
-237077, 2024-09-08 19:22:27, 2024-09-08 19:22:27, malware, 2e464bad71334d879a873498bddd72de, http://123.13.97.169:47435/bin.sh
-237076, 2024-09-08 19:22:25, 2024-09-08 19:22:25, malware, 2d062af563bd40a99aa513ccf2e7fd6b, http://123.129.132.91:43425/Mozi.m
-237075, 2024-09-08 19:22:24, 2024-09-08 19:22:24, malware, 65eaa3df46254068b81d42a7eb9f62ff, http://123.10.133.9:56264/
-237074, 2024-09-08 19:21:53, 2024-09-08 19:21:53, malware, 8263f19adf2e46ff8e217a25605f3b26, http://117.248.170.157:41011/bin.sh
