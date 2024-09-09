@@ -6,9 +6,17 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-09 20:00:02 UTC
+# UPDATE: 2024-09-09 21:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+238226, 2024-09-09 20:52:11, 2024-09-09 20:52:11, phishing, f7972fafeed2a094cb72825f926244e1, http://barclaypremierleaguebestplayerofalltime4.pages.dev
+238225, 2024-09-09 20:48:12, 2024-09-09 20:48:12, phishing, 929a0bae6ca041f475418124e7b79afb, http://simxtrackblacklits.pages.dev
+238224, 2024-09-09 20:27:40, 2024-09-09 19:50:13, phishing, 8ee8ac2e552442418189f1eef220988c, https://leiten-sie-ihre-bestellung-weiter.com/
+238223, 2024-09-09 20:27:26, 2024-09-09 20:27:26, phishing, b6eceaad6ad784b17e423eea9ef19751, https://logistik-lagerung-lieferung.com/login/dpdch/
+238222, 2024-09-09 20:26:38, 2024-09-09 18:48:14, phishing, 161defa294e5641adee62890ce8b4baa, https://demarches-cartevitale.fr/
+238221, 2024-09-09 20:25:59, 2024-09-09 18:24:12, phishing, 263340db6cada471ae0ee7f169226996, https://cartevitale-assurance.fr/
+238220, 2024-09-09 20:25:41, 2024-09-09 18:10:13, phishing, b753c21d7204a7a7822d2f868f7f2e93, https://servicemajoration-antai.fr/
+238219, 2024-09-09 20:25:17, 2024-09-09 17:56:14, phishing, 55630dd1e2d26f46b03880aba16ae4a8, https://ameli-gov.fr/
 238217, 2024-09-09 19:25:21, 2024-09-09 19:25:21, malware, c82fbc9954b54c7dbfddbf8a4f799a5d, http://61.53.43.18:39136/i
 238216, 2024-09-09 19:25:20, 2024-09-09 19:25:20, malware, 74a8393397914ea1aa432caea8dad0f9, http://61.52.158.170:60110/i
 238215, 2024-09-09 19:25:18, 2024-09-09 19:25:18, malware, 032a9dc1b65a43b481c7ae3be6c6a9db, http://61.2.30.97:33092/i
@@ -501,11 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 237723, 2024-09-09 07:20:22, 2024-09-09 07:20:22, malware, ddd08d7778c845f3a33b48250f5f6ac4, http://115.57.112.172:47633/bin.sh
 237722, 2024-09-09 07:20:20, 2024-09-09 07:20:20, malware, 54a2907f2542403c8dcd6569cdf363f7, http://115.56.2.47:54552/i
 237721, 2024-09-09 07:20:18, 2024-09-09 07:20:18, malware, 522d448284da45b99fce7edfa13b2c5f, http://115.55.92.36:41906/Mozi.m
-237720, 2024-09-09 07:20:16, 2024-09-09 07:20:16, malware, 9e5cb485e41b49c1af0d44893093641a, http://115.50.94.71:42589/bin.sh
-237719, 2024-09-09 07:20:14, 2024-09-09 07:20:14, malware, cdd27056e54740cfbe39d3df442f4984, http://115.50.38.83:57703/
-237718, 2024-09-09 07:20:12, 2024-09-09 07:20:12, malware, 46f34e51efd94c5ca236845ecca5f945, http://115.50.3.137:40053/i
-237717, 2024-09-09 07:20:10, 2024-09-09 07:20:10, malware, afdea4c349634b7c940c8d6b08e67e24, http://115.48.154.190:47840/i
-237716, 2024-09-09 07:20:08, 2024-09-09 07:20:08, malware, 2822878ea75c41f89d6ab6f316249035, http://115.48.154.190:47840/bin.sh
-237715, 2024-09-09 07:20:07, 2024-09-09 07:20:07, malware, d0e7ec98d5754aaaadc2a6312d240b49, http://112.255.66.44:48289/i
-237714, 2024-09-09 07:20:05, 2024-09-09 07:20:05, malware, 358427faeb4a42acbb54513c179934ed, http://112.237.130.1:55962/bin.sh
-237713, 2024-09-09 07:03:05, 2024-09-09 07:03:05, phishing, 5b3be5f3b2cc87b7fac85284bbbb51b7, https://saterwite.online/data/5396629944/payment/Ta3Zc1YX/Mellat.php
