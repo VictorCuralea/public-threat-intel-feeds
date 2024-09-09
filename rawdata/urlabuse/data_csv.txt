@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-09 13:00:02 UTC
+# UPDATE: 2024-09-09 14:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+237951, 2024-09-09 13:04:09, 2024-09-09 13:04:09, phishing, 08f8afb0bfd93926f1d9035ee9d4e23e, http://pub-1e7c163e4efd48a3b40fc1992ffc5612.r2.dev/index.html
+237950, 2024-09-09 13:00:21, 2024-09-09 13:00:21, phishing, 2be58752f27a1713aec23bcf0cf426b1, https://mail-swisscom-ch-en-mail-webmail-html.weebly.com/#email=example@example.com
 237949, 2024-09-09 12:50:13, 2024-09-09 12:50:13, phishing, 2f14d8333fc37df7ac247772c29d1f44, http://giris-webhizmetler-basvur.app
 237948, 2024-09-09 12:42:18, 2024-09-09 12:42:18, phishing, ec08da56c400c01b47411109e97d0512, http://dc.tgcustomer.org
 237947, 2024-09-09 12:26:12, 2024-09-09 12:26:12, phishing, ebd7d6517bcf1cf74ae3e06e14db056a, http://internationalcongratulationwemailservivesaticulation1.pages.dev
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 237454, 2024-09-08 23:26:42, 2024-09-08 23:26:42, malware, 337702eae2f54628a9da8935325a1b1f, http://59.178.84.25:32877/bin.sh
 237453, 2024-09-08 23:26:40, 2024-09-08 23:26:40, malware, 2ad0ff0e5f2d4d24b0982c0e4b4c9166, http://59.178.77.147:44622/bin.sh
 237452, 2024-09-08 23:26:23, 2024-09-08 23:26:23, malware, 6736933e906646eab0e2b2cece99bef7, http://59.178.73.103:45561/bin.sh
-237451, 2024-09-08 23:25:58, 2024-09-08 23:25:58, malware, 78d793c6c3144f71af74b214f459b8aa, http://45.166.117.3:59522/Mozi.m
-237450, 2024-09-08 23:25:56, 2024-09-08 23:25:56, malware, 96ba735d6c8c4807a3d54e27777598cd, http://42.239.169.186:57574/i
