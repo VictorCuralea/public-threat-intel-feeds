@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-09 15:00:01 UTC
+# UPDATE: 2024-09-09 16:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+238044, 2024-09-09 15:18:30, 2024-09-09 15:18:16, malware, 9818397668744717b45935e5222710ec, https://post.ch-3dsecurity.com/de/receive/bank/sgkb/79469380
+238043, 2024-09-09 15:17:52, 2024-09-09 15:17:52, malware, d65b5a5dbbc64188bb6ec7354aab616a, https://pub-39c431b0c306497287a06e8cea23fa74.r2.dev/99.txt
+238042, 2024-09-09 15:17:18, 2024-09-09 15:17:18, malware, d78813a6aa4f483b948975b0251c11ff, https://ia601606.us.archive.org/10/items/deathnote_202407/deathnote.jpg
+238041, 2024-09-09 15:16:40, 2024-09-09 15:06:15, phishing, ac0567b84a49f3fc396f6064f3fefb40, https://twint.ch-daten.com/de/receive/bank/sgkb/79469380
 238040, 2024-09-09 14:32:14, 2024-09-09 14:32:14, phishing, 63a1fd57c0a20a378b692931f64b37e3, https://officepost.net/adminch/
 238039, 2024-09-09 14:30:16, 2024-09-09 14:30:16, malware, c4f32163527a46949b5d70f649b0d983, http://61.53.43.18:39136/bin.sh
 238038, 2024-09-09 14:30:14, 2024-09-09 14:30:14, malware, 99e7c5f90fc3461aa36a9d5b8feadcdc, http://61.52.174.45:44614/i
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 237547, 2024-09-09 03:20:29, 2024-09-09 03:20:29, malware, 98dcd9c18a6440e6bc80f6a939676713, http://117.196.169.52:34022/i
 237546, 2024-09-09 03:20:26, 2024-09-09 03:20:26, malware, 418f03c136f4451d97a0114f56fd7433, http://115.58.88.3:47822/bin.sh
 237545, 2024-09-09 03:20:25, 2024-09-09 03:20:25, malware, c6dd19c43b9e4ce587566de1cb6bf28e, http://115.58.152.229:37264/Mozi.m
-237544, 2024-09-09 03:20:23, 2024-09-09 03:20:23, malware, db9eabe4d7814630bfa1e4e2d5c76771, http://115.57.163.250:33365/bin.sh
-237543, 2024-09-09 03:20:22, 2024-09-09 03:20:22, malware, ab4d542048ea4c948c8a16652b1c0f37, http://115.55.58.80:41368/
-237542, 2024-09-09 03:20:10, 2024-09-09 03:20:10, malware, e97d297911ea4acab51a5d546706760b, http://115.55.20.206:54277/i
-237541, 2024-09-09 03:20:09, 2024-09-09 03:20:09, malware, 7bd7bbc3fa27417bac2f1028f2758b98, http://115.54.66.148:34672/Mozi.m
