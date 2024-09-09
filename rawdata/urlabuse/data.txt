@@ -6,8 +6,17 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-09 06:00:01 UTC
+# UPDATE: 2024-09-09 07:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 237711, "url": "http://1001win.zanstore.com.vn/", "discovery": "2024-09-09 06:02:43", "added": "2024-09-09 06:02:43", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "2d9211bc67d61521da7eac6d89e9f68c"}
+{"id": 237710, "url": "https://vayngay.net/", "discovery": "2024-09-09 06:02:39", "added": "2024-09-09 06:02:39", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "d36606aeb6d2249ded6d5ff5ec066eaf"}
+{"id": 237709, "url": "https://ethereal.com.vn/", "discovery": "2024-09-09 06:02:35", "added": "2024-09-09 06:02:35", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "cf45c54069c4f9de4f675c0d215c08d9"}
+{"id": 237708, "url": "http://vidrohiawaz.in/", "discovery": "2024-09-09 06:02:25", "added": "2024-09-09 06:02:25", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "58294adee845f50382d771cef55173ba"}
+{"id": 237707, "url": "http://wecareindustry.in/", "discovery": "2024-09-09 06:02:23", "added": "2024-09-09 06:02:23", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "d9d22d86198cd46f4b612387f834fb06"}
+{"id": 237706, "url": "https://habitatsertimoveis.com.br/index.html", "discovery": "2024-09-09 06:02:23", "added": "2024-09-09 06:02:23", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "0e11449d3a2640277da8c922ebb545e7"}
+{"id": 237705, "url": "https://www.shiseiimoveis.com.br/index.html", "discovery": "2024-09-09 06:02:23", "added": "2024-09-09 06:02:23", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "fafeec8930169b66bddef3cc2b5808cf"}
+{"id": 237704, "url": "http://shenterprise.org.in/", "discovery": "2024-09-09 06:02:15", "added": "2024-09-09 06:02:15", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "7f41b29f1e142f6d5ae34d012e64fba0"}
+{"id": 237703, "url": "https://seatol.co.in/", "discovery": "2024-09-09 06:02:15", "added": "2024-09-09 06:02:15", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "371d5bf3514bcf82a2b8a4d3f796f3a2"}
 {"id": 237702, "url": "https://cursosconexaodotantra.com.br/don/?email=x", "discovery": "2024-09-09 05:30:28", "added": "2024-09-09 05:50:23", "target": "Generic Email", "reporter": "anonymous", "AbuseType": "phishing", "UUID": "bb4ddc3880dace2220d6a0a8eec441c8"}
 {"id": 237701, "url": "http://singapore-gay-group.vvip4u.com", "discovery": "2024-09-09 05:48:21", "added": "2024-09-09 05:48:21", "target": "Telegram", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "1061c571ea7930a3ebff0fc0504de41b"}
 {"id": 237700, "url": "http://teleglam.top", "discovery": "2024-09-09 05:46:17", "added": "2024-09-09 05:46:17", "target": "Telegram", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "f0e7a214c122b4f945c7a834e1c33aeb"}
@@ -499,12 +508,3 @@
 {"id": 236863, "url": "http://115.51.93.67:41535/i", "discovery": "2024-09-08 17:20:10", "added": "2024-09-08 17:20:10", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "d0b418a7e7e94db9b245bf2beb9e2afa"}
 {"id": 236862, "url": "http://115.50.33.47:42918/bin.sh", "discovery": "2024-09-08 17:20:09", "added": "2024-09-08 17:20:09", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "570a350f074941a881f1ef9bca16e027"}
 {"id": 236861, "url": "http://101.108.14.175:53859/i", "discovery": "2024-09-08 17:20:07", "added": "2024-09-08 17:20:07", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "4017ad0fc3df4420ac613d8be303a059"}
-{"id": 236860, "url": "http://101.108.14.175:53859/bin.sh", "discovery": "2024-09-08 17:20:05", "added": "2024-09-08 17:20:05", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "484e4925e8ef4aad8a45e2d94a596a5b"}
-{"id": 236859, "url": "http://adm-update-sept67iyuh.pages.dev", "discovery": "2024-09-08 17:12:14", "added": "2024-09-08 17:12:14", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "1b5f7b74796386f3bdc43bbe8b17281f"}
-{"id": 236858, "url": "http://admverificaxionalessept.pages.dev", "discovery": "2024-09-08 17:06:14", "added": "2024-09-08 17:06:14", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "08f2da0728c277a6a36560d1861160d8"}
-{"id": 236857, "url": "http://adorationvt.pages.dev", "discovery": "2024-09-08 16:18:15", "added": "2024-09-08 16:18:15", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "42b117e44e85bd1a5a1b131966615bda"}
-{"id": 236855, "url": "https://gxdfg.pages.dev/", "discovery": "2024-09-08 16:02:48", "added": "2024-09-08 16:02:48", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "6965f4167074e19c6c6696babcaf0f09"}
-{"id": 236854, "url": "http://yourseoexpert.in", "discovery": "2024-09-08 16:02:27", "added": "2024-09-08 16:02:27", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "152ba8b6401a58e196989ec5baabd1d1"}
-{"id": 236853, "url": "http://tapansecurityservice.com", "discovery": "2024-09-08 16:02:25", "added": "2024-09-08 16:02:25", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "47b6118545992422a7dbee490e210fbd"}
-{"id": 236852, "url": "http://fincorebr.com", "discovery": "2024-09-08 16:02:23", "added": "2024-09-08 16:02:23", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "3f28b084c39b02784843752c7a8091ac"}
-{"id": 236851, "url": "http://suhoolcompany.com", "discovery": "2024-09-08 16:02:19", "added": "2024-09-08 16:02:19", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "96750903bdeb4b328d0dd4565d378a62"}
