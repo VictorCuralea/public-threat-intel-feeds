@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-10 09:00:01 UTC
+# UPDATE: 2024-09-10 10:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+238648, 2024-09-10 09:40:13, 2024-09-10 09:40:13, phishing, c93c8959a1d886094508f12c48fdcbc4, http://tru-01-qatevvay365.aompson53.workers.dev
 238647, 2024-09-10 08:54:17, 2024-09-10 08:54:17, phishing, ed2aed9eab2c9ff296dcd82d00dead74, http://service-cartevitale.fr
 238646, 2024-09-10 08:22:20, 2024-09-10 08:22:20, phishing, 9717f219b263a5756383c92e6da20082, http://whatsapp-scrm.com
 238645, 2024-09-10 07:54:16, 2024-09-10 07:54:16, phishing, 7edbe680c2125c8c9968cfa22f5484a0, http://carte-assurance.com
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 238108, 2024-09-09 16:28:20, 2024-09-09 16:28:20, phishing, 5465b16ebb118cc740241c6e0023757d, http://homand.com.cn
 238107, 2024-09-09 16:27:36, 2024-09-09 16:27:36, malware, 8a753f96392947ffb49fe82d2a64295e, http://85.191.154.37:39375/bin.sh
 238106, 2024-09-09 16:27:35, 2024-09-09 16:27:35, malware, 2167dc552986451bbc60e0726bceb1ae, http://78.182.49.179:50295/i
-238105, 2024-09-09 16:27:31, 2024-09-09 16:27:31, malware, 36cda46c8394400e9d2ed133fe2d1a6b, http://78.165.103.110:33670/Mozi.m
