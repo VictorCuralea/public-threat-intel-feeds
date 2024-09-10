@@ -6,8 +6,12 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-10 05:00:01 UTC
+# UPDATE: 2024-09-10 06:00:02 UTC
 ############### END COMMENTS ###############
+{"id": 238521, "url": "http://pointshare-cqx.pages.dev", "discovery": "2024-09-10 05:34:11", "added": "2024-09-10 05:34:11", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "c5f1a070ad52461e71f42a9eb65ea8bc"}
+{"id": 238520, "url": "https://b24-4fjgw6.bitrix24.site/crm_form_m1ly0/", "discovery": "2024-09-10 05:16:16", "added": "2024-09-10 05:30:57", "target": "SwissPost", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "8ec443fc4c994ecfb9bda81e5be797bb"}
+{"id": 238519, "url": "https://elitepalani.com/.well-known/acme-challenge/srp/index.html#x", "discovery": "2024-09-10 04:15:12", "added": "2024-09-10 05:30:33", "target": "Generic Phishing", "reporter": "anonymous", "AbuseType": "phishing", "UUID": "55af3f011d22173cb333d938ca0341f3"}
+{"id": 238518, "url": "http://whantsapp-sv.com", "discovery": "2024-09-10 05:00:17", "added": "2024-09-10 05:00:17", "target": "Whatsapp", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "a5927848d1e8489468c5815e8a96b1d7"}
 {"id": 238517, "url": "http://whatsapp-wsai.com", "discovery": "2024-09-10 04:40:19", "added": "2024-09-10 04:40:19", "target": "Whatsapp", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "622d69e8aff3ab54ddc3ab382b3df605"}
 {"id": 238516, "url": "http://96.33.220.208:46719/bin.sh", "discovery": "2024-09-10 04:28:06", "added": "2024-09-10 04:28:06", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "9c1b01b174784b17bba732836bd8694b"}
 {"id": 238515, "url": "http://95.132.207.213:49197/Mozi.m", "discovery": "2024-09-10 04:28:03", "added": "2024-09-10 04:28:03", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "aa7d048bc12544c78526c00a6fc644fc"}
@@ -504,7 +508,3 @@
 {"id": 237981, "url": "http://115.48.146.254:41677/i", "discovery": "2024-09-09 14:20:19", "added": "2024-09-09 14:20:19", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "ac38dc9a602e4f478197237dd5e32065"}
 {"id": 237980, "url": "http://115.48.146.254:41677/bin.sh", "discovery": "2024-09-09 14:20:18", "added": "2024-09-09 14:20:18", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "1a64bfd7b5634a5993f2e7bf62b54130"}
 {"id": 237979, "url": "http://112.248.81.222:40479/bin.sh", "discovery": "2024-09-09 14:20:06", "added": "2024-09-09 14:20:06", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "9994e0ca54e54b898945c047ff2a24ad"}
-{"id": 237978, "url": "https://ebtinternet.weebly.com", "discovery": "2024-09-09 14:13:17", "added": "2024-09-09 14:13:17", "target": "BT", "reporter": "urlabuse", "AbuseType": "phishing", "UUID": "8c8c171eaad130b5e1b24f7c59194c21"}
-{"id": 237977, "url": "https://free-5489194.webadorsite.com/", "discovery": "2024-09-09 13:54:12", "added": "2024-09-09 14:13:03", "target": "BT", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "b241c05469a828b36f38a4ef3107fa69"}
-{"id": 237976, "url": "https://ch-postaefd.top/ch/", "discovery": "2024-09-09 13:22:13", "added": "2024-09-09 14:12:46", "target": "SwissPost", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "7b94b43d7945790716d41ed333354a20"}
-{"id": 237975, "url": "https://checkin-100180.weeblysite.com", "discovery": "2024-09-09 14:12:09", "added": "2024-09-09 14:12:09", "target": "BT", "reporter": "urlabuse", "AbuseType": "phishing", "UUID": "5fa4841a887c0ce380b0fa0ae2b91297"}

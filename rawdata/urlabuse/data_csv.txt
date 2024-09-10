@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-10 05:00:01 UTC
+# UPDATE: 2024-09-10 06:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+238521, 2024-09-10 05:34:11, 2024-09-10 05:34:11, phishing, c5f1a070ad52461e71f42a9eb65ea8bc, http://pointshare-cqx.pages.dev
+238520, 2024-09-10 05:30:57, 2024-09-10 05:16:16, phishing, 8ec443fc4c994ecfb9bda81e5be797bb, https://b24-4fjgw6.bitrix24.site/crm_form_m1ly0/
+238519, 2024-09-10 05:30:33, 2024-09-10 04:15:12, phishing, 55af3f011d22173cb333d938ca0341f3, https://elitepalani.com/.well-known/acme-challenge/srp/index.html#x
+238518, 2024-09-10 05:00:17, 2024-09-10 05:00:17, phishing, a5927848d1e8489468c5815e8a96b1d7, http://whantsapp-sv.com
 238517, 2024-09-10 04:40:19, 2024-09-10 04:40:19, phishing, 622d69e8aff3ab54ddc3ab382b3df605, http://whatsapp-wsai.com
 238516, 2024-09-10 04:28:06, 2024-09-10 04:28:06, malware, 9c1b01b174784b17bba732836bd8694b, http://96.33.220.208:46719/bin.sh
 238515, 2024-09-10 04:28:03, 2024-09-10 04:28:03, malware, aa7d048bc12544c78526c00a6fc644fc, http://95.132.207.213:49197/Mozi.m
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 237981, 2024-09-09 14:20:19, 2024-09-09 14:20:19, malware, ac38dc9a602e4f478197237dd5e32065, http://115.48.146.254:41677/i
 237980, 2024-09-09 14:20:18, 2024-09-09 14:20:18, malware, 1a64bfd7b5634a5993f2e7bf62b54130, http://115.48.146.254:41677/bin.sh
 237979, 2024-09-09 14:20:06, 2024-09-09 14:20:06, malware, 9994e0ca54e54b898945c047ff2a24ad, http://112.248.81.222:40479/bin.sh
-237978, 2024-09-09 14:13:17, 2024-09-09 14:13:17, phishing, 8c8c171eaad130b5e1b24f7c59194c21, https://ebtinternet.weebly.com
-237977, 2024-09-09 14:13:03, 2024-09-09 13:54:12, phishing, b241c05469a828b36f38a4ef3107fa69, https://free-5489194.webadorsite.com/
-237976, 2024-09-09 14:12:46, 2024-09-09 13:22:13, phishing, 7b94b43d7945790716d41ed333354a20, https://ch-postaefd.top/ch/
-237975, 2024-09-09 14:12:09, 2024-09-09 14:12:09, phishing, 5fa4841a887c0ce380b0fa0ae2b91297, https://checkin-100180.weeblysite.com
