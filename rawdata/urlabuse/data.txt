@@ -6,8 +6,10 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-10 13:00:01 UTC
+# UPDATE: 2024-09-10 14:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 238706, "url": "http://copilot.06ll.cn", "discovery": "2024-09-10 13:38:15", "added": "2024-09-10 13:38:15", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "c49ce8fd79fa82f9f443c55b8110e9e9"}
+{"id": 238705, "url": "http://ansmkdioujenhfjuasnmdjk9846387589kcnlsjvsnjdkifogiun1.pages.dev", "discovery": "2024-09-10 13:38:13", "added": "2024-09-10 13:38:13", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "62a6053977a898c7d88061f03f3e0253"}
 {"id": 238704, "url": "https://www.ilocker.tn/CFF/", "discovery": "2024-09-10 12:54:16", "added": "2024-09-10 12:54:16", "target": "SwissPass", "reporter": "VERIFROMd", "AbuseType": "phishing", "UUID": "c6ea98bcec17ffcacbd4a897f76f55fc"}
 {"id": 238703, "url": "https://ferreterialaherradura.es/wp/", "discovery": "2024-09-10 12:52:12", "added": "2024-09-10 12:52:12", "target": "SwissPass", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "59de35e2235865b588d7f5ae0914136c"}
 {"id": 238702, "url": "http://test-pantaloni.dot-rossato-paolo.workers.dev", "discovery": "2024-09-10 12:26:10", "added": "2024-09-10 12:26:10", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "3ebfb612693b4c88604381bf0d8c18f1"}
@@ -506,5 +508,3 @@
 {"id": 238168, "url": "http://telegram.dog/", "discovery": "2024-09-09 19:02:41", "added": "2024-09-09 19:02:41", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "dd7acbcce61a36fb41bd8a853e60ef77"}
 {"id": 238167, "url": "http://bucolic-kheer-bd252e.netlify.app/", "discovery": "2024-09-09 19:02:21", "added": "2024-09-09 19:02:21", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "804b956a034694915b8a9c9f62788ff2"}
 {"id": 238166, "url": "https://grouptelegram18plus.pages.dev/", "discovery": "2024-09-09 19:02:11", "added": "2024-09-09 19:02:11", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "1e2b9e175ff5d5c06d5e9ad814122c60"}
-{"id": 238164, "url": "http://ciient-autheqatevvay.aompson53.workers.dev", "discovery": "2024-09-09 18:52:15", "added": "2024-09-09 18:52:15", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "e83bd98aab12eb50b6ad652fbd91d6c6"}
-{"id": 238163, "url": "http://c1ient-1oginoniine.api-avvs-oniline.workers.dev", "discovery": "2024-09-09 18:52:15", "added": "2024-09-09 18:52:15", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "a4908fab477f06102ee370e9e8cb0b20"}
