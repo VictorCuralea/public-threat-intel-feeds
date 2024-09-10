@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-10 19:00:02 UTC
+# UPDATE: 2024-09-10 20:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+239044, 2024-09-10 19:03:11, 2024-09-10 19:03:11, phishing, 224531038a59293b73fef4c120915f72, https://web.whatsapp.com.id1.putrivpn.us.kg/
 239043, 2024-09-10 18:32:58, 2024-09-10 18:32:58, phishing, 3d0b53bbbc878b470479b51a3d3b17db, https://www.settonfabrication.com
 239042, 2024-09-10 18:29:20, 2024-09-10 18:29:20, malware, b766895606c14c079f27bf304d1fa37d, http://77.107.46.151:42147/i
 239041, 2024-09-10 18:28:16, 2024-09-10 18:28:16, phishing, 99ed19f12d18e0097f25f1b3e56ecdd2, http://stardefyloomfil.pages.dev
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 238420, 2024-09-10 01:22:47, 2024-09-10 01:22:47, malware, 4165dadbce784d2aa30ea4d460415a8d, http://182.113.13.148:38043/bin.sh
 238419, 2024-09-10 01:22:45, 2024-09-10 01:22:45, malware, 7a2c1d6e987b46698be48bd40978c371, http://176.36.148.87:60504/bin.sh
 238418, 2024-09-10 01:22:44, 2024-09-10 01:22:44, malware, 74a8801ac48e4fe6b57f3afa119cb4e3, http://125.47.98.227:51957/Mozi.m
-238417, 2024-09-10 01:22:43, 2024-09-10 01:22:43, malware, 76fdef3a166d42f8be0705411565dfd4, http://125.47.98.227:51957/bin.sh
