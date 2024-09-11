@@ -6,9 +6,16 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-11 06:00:01 UTC
+# UPDATE: 2024-09-11 07:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+239556, 2024-09-11 06:42:21, 2024-09-11 06:42:21, phishing, 5774950ea6ea08c133eb1eca70d01691, http://whats-app-lnc.com
+239555, 2024-09-11 06:40:15, 2024-09-11 06:40:15, phishing, 5945bd3b38b59f024679b041858fcf75, http://whatssapp-lnc.com
+239554, 2024-09-11 06:36:11, 2024-09-11 06:36:11, phishing, 578122be0c241552e4717508dc9bf5fc, http://webmail-8p0.pages.dev
+239553, 2024-09-11 06:30:14, 2024-09-11 06:30:14, phishing, 613dea763d082a1458aebbe74794fbc6, http://generateclick.pages.dev
+239552, 2024-09-11 06:02:18, 2024-09-11 06:02:18, hacked, b9e2903d3f17c8e43b22378efe5de840, https://ace77.777ball.site/
+239551, 2024-09-11 06:02:13, 2024-09-11 06:02:13, hacked, 8f36e8facd53d4986996f9fca5fa98b3, http://pa.santabarbaradopara.tributario.aspec.com.br/portal/hackedbycryptobyte.html
+239550, 2024-09-11 06:00:17, 2024-09-11 06:00:17, phishing, 05e84b507887ae2dca33277dfc9327d3, http://webclick.pages.dev
 239549, 2024-09-11 05:52:17, 2024-09-11 05:52:17, phishing, 13c5e13c57d02bb171c01fa1c0b3512b, http://ma-carte-assurance.info
 239548, 2024-09-11 05:31:50, 2024-09-11 05:31:50, phishing, a00c7bceeb1f92a6cf5502bf1aba3ad5, http://gggyxu77.pages.dev
 239547, 2024-09-11 05:27:31, 2024-09-11 05:27:31, malware, 73dd8729d92d4727a5d01bec07137264, http://61.52.86.67:34632/
@@ -502,10 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 238780, 2024-09-10 14:33:08, 2024-09-10 14:33:08, malware, e556b0286e0840e78ecc08b8dad37b63, http://42.239.150.170:34037/i
 238779, 2024-09-10 14:33:06, 2024-09-10 14:33:06, malware, 315880cb596e4b148948c83330a58607, http://42.235.66.197:46251/bin.sh
 238778, 2024-09-10 14:33:03, 2024-09-10 14:33:03, malware, 3b19d183fa2f4380be984accf103f2c6, http://42.233.93.7:42492/bin.sh
-238777, 2024-09-10 14:32:30, 2024-09-10 14:32:30, malware, 79f050d6614a40b5bd5f9a80979db3bb, http://42.224.66.23:34157/i
-238776, 2024-09-10 14:32:28, 2024-09-10 14:32:28, malware, fb99997de643460d9e52135f97e58eb3, http://27.216.214.172:42634/i
-238775, 2024-09-10 14:32:26, 2024-09-10 14:32:26, malware, dbb67bf43dab4aaa85e8e6a905c8e929, http://27.216.214.172:42634/bin.sh
-238774, 2024-09-10 14:32:23, 2024-09-10 14:32:23, malware, 872ea10c69df4dadbe0e40fab0b54cb7, http://27.215.108.186:55325/Mozi.m
-238773, 2024-09-10 14:32:21, 2024-09-10 14:32:21, malware, 2a02e70786fa49c0af9c95e98a9999f3, http://27.210.45.224:44201/bin.sh
-238772, 2024-09-10 14:32:10, 2024-09-10 14:32:10, malware, 07dd2fa1d11142b7ac6680930c966e38, http://222.141.73.37:34532/bin.sh
-238771, 2024-09-10 14:32:08, 2024-09-10 14:32:08, malware, 8bb7c6e8848f41af968e6034ec813727, http://222.141.39.62:35933/i
