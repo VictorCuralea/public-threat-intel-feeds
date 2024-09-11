@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-11 00:02:17 UTC                        #
+# Last updated: 2024-09-11 04:02:25 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	www.pacmanspiele-online.de
+127.0.0.1	mechapeyachtclub.io
 127.0.0.1	wwwmail.pythr.net
 127.0.0.1	194-233-94-252.cprapid.com
 127.0.0.1	wwwgmoeuwwwadmin.ethergases.org
@@ -8062,4 +8064,4 @@
 127.0.0.1	ns2.dice1018.top
 127.0.0.1	ns1.dice1018.top
 127.0.0.1	mexico2020.duckdns.org
-# Number of entries: 8056
+# Number of entries: 8058
