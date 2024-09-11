@@ -6,9 +6,15 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-11 13:00:02 UTC
+# UPDATE: 2024-09-11 14:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+239766, 2024-09-11 13:44:15, 2024-09-11 13:44:15, phishing, b6249769ac7425c60ad9291325335602, http://xqfnu.pages.dev
+239765, 2024-09-11 13:24:15, 2024-09-11 13:24:15, phishing, 2d180575227547f9d79b77d49a927fdc, http://mobil-cepte-basvuru-online.app
+239764, 2024-09-11 13:18:12, 2024-09-11 13:18:12, phishing, 97381f5c2bde725fc45a31be72e21e34, https://azure-simple-sweatpants.glitch.me/emaillog.html#example@example.com
+239763, 2024-09-11 13:08:44, 2024-09-11 12:52:11, phishing, 5e35d76174c45ee1e995e67916c920d5, https://postascew.top/ch
+239762, 2024-09-11 13:08:10, 2024-09-11 12:16:17, phishing, 208e7acbce039d8874832fe03f12e639, https://ch-postors.top/ch/
+239761, 2024-09-11 13:02:21, 2024-09-11 13:02:21, phishing, f4378de4b622c5438aba6a53317807ad, https://tg.hispa-net.com/
 239760, 2024-09-11 12:42:17, 2024-09-11 12:42:17, phishing, 84f4c142da9146cb55925e6918f9188b, http://kuaishangyu.com
 239759, 2024-09-11 12:38:20, 2024-09-11 12:38:20, phishing, 81bdaa2dcdd0bc255df405cb94f6c26a, http://whantsapplnc.top
 239758, 2024-09-11 12:30:54, 2024-09-11 12:30:54, phishing, c477a661638081c0eadf7bd5f603d935, http://p36533.cc
@@ -503,9 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 239269, 2024-09-10 22:22:30, 2024-09-10 22:22:30, malware, 08158cccb5a046209deee4c5ed9a9b97, http://120.56.13.198:33833/i
 239268, 2024-09-10 22:22:05, 2024-09-10 22:22:05, malware, 0ca26b6926e44cdebb1aaaa691053b11, http://117.253.218.120:54826/i
 239267, 2024-09-10 22:22:03, 2024-09-10 22:22:03, malware, 4800bdbf27224226ac84ba2d1b0ee6e6, http://117.248.162.223:51712/bin.sh
-239266, 2024-09-10 22:22:00, 2024-09-10 22:22:00, malware, 85ce9d7b1e8b42b5bb1e4b6e6e80ff7e, http://117.247.24.107:59975/
-239265, 2024-09-10 22:21:58, 2024-09-10 22:21:58, malware, d56d9f5c732e4b0d92ee4e1fa074e54c, http://117.242.194.18:33208/bin.sh
-239264, 2024-09-10 22:21:56, 2024-09-10 22:21:56, malware, 7ca80476f69740699ded102d203102b7, http://117.235.247.58:55906/Mozi.m
-239263, 2024-09-10 22:21:54, 2024-09-10 22:21:54, malware, ff6515a2c9d9423fb1a2b6ee105eb6e9, http://117.235.13.84:39204/i
-239262, 2024-09-10 22:21:32, 2024-09-10 22:21:32, malware, b9889f363ca74ef0ad7c3f1f3df23724, http://117.213.53.202:35113/i
-239261, 2024-09-10 22:21:30, 2024-09-10 22:21:30, malware, a28a3ca90ff94b44b63e0f4a20c50e96, http://117.213.53.202:35113/bin.sh
