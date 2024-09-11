@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-11 12:02:10 UTC                        #
+# Last updated: 2024-09-11 15:09:09 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	cuanhuaanbinh.com
 127.0.0.1	api.pythr.net
 127.0.0.1	wwwwebmail.ethergases.org
 127.0.0.1	www.mobileconnect.pythr.net
@@ -8119,4 +8120,4 @@
 127.0.0.1	apifunctioncall.com
 127.0.0.1	wcjwcj.cn
 127.0.0.1	hex.lumosora.us
-# Number of entries: 8113
+# Number of entries: 8114
