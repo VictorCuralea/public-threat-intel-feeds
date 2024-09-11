@@ -6,9 +6,15 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-11 17:00:01 UTC
+# UPDATE: 2024-09-11 18:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+239892, 2024-09-11 17:54:17, 2024-09-11 17:54:17, phishing, f4e510350f3c8df490b74d1356d12bbf, http://waytosecureyourcion.pages.dev
+239891, 2024-09-11 17:50:15, 2024-09-11 17:50:15, phishing, 6e28c31eae0e1d1e23abf1da859168f7, http://smogtokendappfix.pages.dev
+239890, 2024-09-11 17:36:10, 2024-09-11 17:36:10, phishing, 0d7265d556f20e75d6854ec91e18104a, http://owlto-finanace-rpcdebug.pages.dev
+239889, 2024-09-11 17:28:14, 2024-09-11 17:28:14, phishing, ffdfee14624349b787043c72773a27c9, https://mnv.ijh.mybluehost.me/s/CHFINAL/CHFINALE/
+239888, 2024-09-11 17:26:15, 2024-09-11 17:26:15, phishing, 631c749b0e7e999e0114971ddf195e40, https://leodacreatives.com/masterclass/wp-admin/indexx.php
+239887, 2024-09-11 17:20:48, 2024-09-11 17:20:48, phishing, f0a1dc472b718c290bbd58499544a8b4, http://pb3650.cc
 239886, 2024-09-11 16:58:17, 2024-09-11 16:58:17, phishing, 7294be2200ac014c63d546ac31866492, http://emptclick.pages.dev
 239885, 2024-09-11 16:06:22, 2024-09-11 16:06:22, phishing, 54ee9f16e9d4db78d72d7e3d44ef19d2, http://web.teleglam.top
 239884, 2024-09-11 16:04:22, 2024-09-11 16:04:22, phishing, cc4ce110503aed1a2fff22110bf7ffe8, http://web.teleglams.top
@@ -503,9 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 239395, 2024-09-11 02:22:53, 2024-09-11 02:22:53, malware, f3a0ba3f335f463fa67a6b4749d2e755, http://117.248.164.178:40011/Mozi.m
 239394, 2024-09-11 02:22:51, 2024-09-11 02:22:51, malware, bedc9c29ea0f451bb819d1863ba1618e, http://117.248.161.30:57029/i
 239393, 2024-09-11 02:22:49, 2024-09-11 02:22:49, malware, 0d317cd6e5a54c2a823c400cadf59f3f, http://117.247.24.107:59975/i
-239392, 2024-09-11 02:22:47, 2024-09-11 02:22:47, malware, 54f4f65f2d304f1385b197d9621e9af2, http://117.242.196.105:52888/i
-239391, 2024-09-11 02:22:44, 2024-09-11 02:22:44, malware, 9bd5ddadae4746a7b94cc28f477ac0ba, http://117.222.255.175:47760/Mozi.m
-239390, 2024-09-11 02:22:42, 2024-09-11 02:22:42, malware, f93fcabf79824a7a8858ff2aa02b2333, http://117.222.249.244:58860/i
-239389, 2024-09-11 02:22:19, 2024-09-11 02:22:19, malware, 95a7f990e4ae40ffab38164332726e97, http://117.219.241.42:52394/Mozi.m
-239388, 2024-09-11 02:22:14, 2024-09-11 02:22:14, malware, 39666d8d754148849206e6939518412d, http://117.217.37.207:34764/i
-239387, 2024-09-11 02:22:11, 2024-09-11 02:22:11, malware, 6f80673c5ccb4167a874d8da713238b6, http://117.217.37.207:34764/bin.sh
