@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-11 15:09:09 UTC                        #
+# Last updated: 2024-09-11 18:51:39 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	hicham9risa.duckdns.org
+127.0.0.1	simplymecosmetics.com
+127.0.0.1	paylesssignandprinters.ca
+127.0.0.1	rpcgenetics.com
 127.0.0.1	cuanhuaanbinh.com
 127.0.0.1	api.pythr.net
 127.0.0.1	wwwwebmail.ethergases.org
@@ -8118,5 +8122,4 @@
 127.0.0.1	neko.ltd
 127.0.0.1	asyncawaitapi.com
 127.0.0.1	apifunctioncall.com
-127.0.0.1	wcjwcj.cn
-# Number of entries: 8113
+# Number of entries: 8116
