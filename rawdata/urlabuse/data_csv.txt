@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-11 07:00:01 UTC
+# UPDATE: 2024-09-11 08:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+239558, 2024-09-11 07:03:11, 2024-09-11 07:03:11, phishing, cecb485809bd2276333b19a7f57db89a, http://pub-9b61a65d85e54d68ba708193426a7af4.r2.dev/verify.html
+239557, 2024-09-11 07:02:13, 2024-09-11 07:02:13, phishing, 69c2dd147c7bccc79764dc8e4b9144ac, https://telegrama-sexo.pages.dev/
 239556, 2024-09-11 06:42:21, 2024-09-11 06:42:21, phishing, 5774950ea6ea08c133eb1eca70d01691, http://whats-app-lnc.com
 239555, 2024-09-11 06:40:15, 2024-09-11 06:40:15, phishing, 5945bd3b38b59f024679b041858fcf75, http://whatssapp-lnc.com
 239554, 2024-09-11 06:36:11, 2024-09-11 06:36:11, phishing, 578122be0c241552e4717508dc9bf5fc, http://webmail-8p0.pages.dev
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 238782, 2024-09-10 14:34:03, 2024-09-10 14:34:03, malware, 4dfca4bcc34e403bb7307ac3599575e1, http://59.184.245.128:43484/Mozi.m
 238781, 2024-09-10 14:33:10, 2024-09-10 14:33:10, malware, cbe300d415064d1c84c73f9dbfd8ba05, http://42.239.169.9:51217/Mozi.m
 238780, 2024-09-10 14:33:08, 2024-09-10 14:33:08, malware, e556b0286e0840e78ecc08b8dad37b63, http://42.239.150.170:34037/i
-238779, 2024-09-10 14:33:06, 2024-09-10 14:33:06, malware, 315880cb596e4b148948c83330a58607, http://42.235.66.197:46251/bin.sh
-238778, 2024-09-10 14:33:03, 2024-09-10 14:33:03, malware, 3b19d183fa2f4380be984accf103f2c6, http://42.233.93.7:42492/bin.sh
