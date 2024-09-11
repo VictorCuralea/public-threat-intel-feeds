@@ -6,8 +6,9 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-10 23:00:01 UTC
+# UPDATE: 2024-09-11 00:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 239299, "url": "http://resolveddappas.pages.dev", "discovery": "2024-09-10 23:46:12", "added": "2024-09-10 23:46:12", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "0b97b3802329829523b62d73c9b083d7"}
 {"id": 239298, "url": "http://desservermabagecloudsergeneratorjsjherjrsjgks.pages.dev", "discovery": "2024-09-10 22:52:12", "added": "2024-09-10 22:52:12", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "ca27c4c2d7cf931ac93b69b2d9e142a7"}
 {"id": 239297, "url": "http://web-bugfix.pages.dev", "discovery": "2024-09-10 22:44:15", "added": "2024-09-10 22:44:15", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "c9c0115c6d1526f4ea812bc990ac6ec4"}
 {"id": 239296, "url": "http://admincieueijniwiwieoeikcmnckaqooooeeeencnjc.pages.dev", "discovery": "2024-09-10 22:38:11", "added": "2024-09-10 22:38:11", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "e38531fd4e73e7583c7bfb2dc2f7dd00"}
@@ -507,4 +508,3 @@
 {"id": 238523, "url": "http://sakesense.mygamesonline.org/", "discovery": "2024-09-10 06:02:17", "added": "2024-09-10 06:02:17", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "2522960f329b1bdc54f8933139dca454"}
 {"id": 238522, "url": "http://careaga.atwebpages.com/index.html", "discovery": "2024-09-10 06:02:17", "added": "2024-09-10 06:02:17", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "82f31d6d2db8596746616c07b745bddc"}
 {"id": 238521, "url": "http://pointshare-cqx.pages.dev", "discovery": "2024-09-10 05:34:11", "added": "2024-09-10 05:34:11", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "c5f1a070ad52461e71f42a9eb65ea8bc"}
-{"id": 238520, "url": "https://b24-4fjgw6.bitrix24.site/crm_form_m1ly0/", "discovery": "2024-09-10 05:16:16", "added": "2024-09-10 05:30:57", "target": "SwissPost", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "8ec443fc4c994ecfb9bda81e5be797bb"}
