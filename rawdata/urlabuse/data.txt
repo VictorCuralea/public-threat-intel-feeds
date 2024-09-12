@@ -6,8 +6,11 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-12 17:00:01 UTC
+# UPDATE: 2024-09-12 18:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 241462, "url": "https://bttfgfgfgfgk.weeblysite.com/", "discovery": "2024-09-12 16:28:18", "added": "2024-09-12 17:54:29", "target": "BT", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "ba3776203f5ece0aaa65b230f8307975"}
+{"id": 241461, "url": "https://masseyfinman.wixsite.com/my-site-1", "discovery": "2024-09-12 16:16:15", "added": "2024-09-12 17:53:44", "target": "BT", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "33eb3f22942da63819732dfb37612cbc"}
+{"id": 241460, "url": "http://ocean-mantanetwork.pages.dev", "discovery": "2024-09-12 17:48:17", "added": "2024-09-12 17:48:17", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "d961df03724312a85a6d7d268fea9c7b"}
 {"id": 241459, "url": "http://67.214.245.59:36002/i", "discovery": "2024-09-12 16:25:57", "added": "2024-09-12 16:25:57", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "6cbeb1ab2cca4db9aba41042da3323f4"}
 {"id": 241458, "url": "http://61.54.62.171:35706/i", "discovery": "2024-09-12 16:25:54", "added": "2024-09-12 16:25:54", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "10ff619d80734d89b86e6a2305478c22"}
 {"id": 241457, "url": "http://61.52.107.126:34245/bin.sh", "discovery": "2024-09-12 16:25:51", "added": "2024-09-12 16:25:51", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "bcf54701c1274a90a2e790b90ac783c4"}
@@ -505,6 +508,3 @@
 {"id": 240531, "url": "http://pub-cde7b2c632ff4c60806e2d039b3a368d.r2.dev/kol.html", "discovery": "2024-09-12 04:03:24", "added": "2024-09-12 04:03:24", "target": "Microsoft", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "19ed29ed16ca88d7c4f6c29873cc2f8c"}
 {"id": 240530, "url": "https://123-byn.pages.dev/s/modsbots_tech", "discovery": "2024-09-12 04:03:20", "added": "2024-09-12 04:03:20", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "13c7170f84c1ea70875bf72f7e68809c"}
 {"id": 240529, "url": "http://www.telegeramc.club/", "discovery": "2024-09-12 04:03:12", "added": "2024-09-12 04:03:12", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "ed2f19eda1fc57c63f0b99116a7b9c8a"}
-{"id": 240528, "url": "https://telegramucn.com/", "discovery": "2024-09-12 04:03:07", "added": "2024-09-12 04:03:07", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "6fe6934d9decc4741e7a0dd3a4e68a13"}
-{"id": 240527, "url": "https://byzhxx.com/", "discovery": "2024-09-12 04:03:05", "added": "2024-09-12 04:03:05", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "75e07232b2387b6d90496b555fcf980e"}
-{"id": 240526, "url": "http://www.telegeramc.fit/", "discovery": "2024-09-12 04:02:57", "added": "2024-09-12 04:02:57", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "9089f300c20eafa8054fc67ada8ffbc3"}

@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-12 17:00:01 UTC
+# UPDATE: 2024-09-12 18:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+241462, 2024-09-12 17:54:29, 2024-09-12 16:28:18, phishing, ba3776203f5ece0aaa65b230f8307975, https://bttfgfgfgfgk.weeblysite.com/
+241461, 2024-09-12 17:53:44, 2024-09-12 16:16:15, phishing, 33eb3f22942da63819732dfb37612cbc, https://masseyfinman.wixsite.com/my-site-1
+241460, 2024-09-12 17:48:17, 2024-09-12 17:48:17, phishing, d961df03724312a85a6d7d268fea9c7b, http://ocean-mantanetwork.pages.dev
 241459, 2024-09-12 16:25:57, 2024-09-12 16:25:57, malware, 6cbeb1ab2cca4db9aba41042da3323f4, http://67.214.245.59:36002/i
 241458, 2024-09-12 16:25:54, 2024-09-12 16:25:54, malware, 10ff619d80734d89b86e6a2305478c22, http://61.54.62.171:35706/i
 241457, 2024-09-12 16:25:51, 2024-09-12 16:25:51, malware, bcf54701c1274a90a2e790b90ac783c4, http://61.52.107.126:34245/bin.sh
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 240531, 2024-09-12 04:03:24, 2024-09-12 04:03:24, phishing, 19ed29ed16ca88d7c4f6c29873cc2f8c, http://pub-cde7b2c632ff4c60806e2d039b3a368d.r2.dev/kol.html
 240530, 2024-09-12 04:03:20, 2024-09-12 04:03:20, phishing, 13c7170f84c1ea70875bf72f7e68809c, https://123-byn.pages.dev/s/modsbots_tech
 240529, 2024-09-12 04:03:12, 2024-09-12 04:03:12, phishing, ed2f19eda1fc57c63f0b99116a7b9c8a, http://www.telegeramc.club/
-240528, 2024-09-12 04:03:07, 2024-09-12 04:03:07, phishing, 6fe6934d9decc4741e7a0dd3a4e68a13, https://telegramucn.com/
-240527, 2024-09-12 04:03:05, 2024-09-12 04:03:05, phishing, 75e07232b2387b6d90496b555fcf980e, https://byzhxx.com/
-240526, 2024-09-12 04:02:57, 2024-09-12 04:02:57, phishing, 9089f300c20eafa8054fc67ada8ffbc3, http://www.telegeramc.fit/
