@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-12 09:00:01 UTC
+# UPDATE: 2024-09-12 10:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+240757, 2024-09-12 09:26:17, 2024-09-12 09:26:17, phishing, 2c5122e3db58cf771acce60414c12561, http://steemloomdefyhash.pages.dev
+240756, 2024-09-12 09:24:15, 2024-09-12 09:24:15, phishing, c6cb1f51b3b4133bcfdeb6ea45928378, http://amelicpam.fr
 240755, 2024-09-12 07:30:11, 2024-09-12 07:30:11, malware, 9c14c49d35f241478556e1adfa8df833, http://93.123.85.180/mips
 240754, 2024-09-12 07:30:02, 2024-09-12 07:30:02, malware, 28d77d42741b4c15ab430fd54289e586, http://61.3.101.10:48271/Mozi.m
 240753, 2024-09-12 07:28:59, 2024-09-12 07:28:59, malware, c1c00ec0843f4e839a0babcaa70f5721, http://59.97.117.211:33226/i
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 240122, 2024-09-11 20:26:34, 2024-09-11 20:26:34, malware, b11fab28395e486b914aaf98155ee823, http://124.131.155.191:44470/i
 240121, 2024-09-11 20:26:32, 2024-09-11 20:26:32, malware, 237d9a8814e842c4bdc65ddc75bf31f7, http://124.131.155.191:44470/bin.sh
 240120, 2024-09-11 20:26:31, 2024-09-11 20:26:31, malware, 841b5c43eb7e431f91eff0361488e378, http://123.13.136.206:43932/bin.sh
-240118, 2024-09-11 20:26:29, 2024-09-11 20:26:29, malware, eb23f2d1c7f14403b8e63a83deb527aa, http://123.129.56.177:54640/i
-240117, 2024-09-11 20:26:24, 2024-09-11 20:26:24, malware, efcb60f7f76a4a6d87a134e9d099a8a4, http://123.129.56.177:54640/bin.sh
