@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-12 03:00:01 UTC
+# UPDATE: 2024-09-12 04:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+240523, 2024-09-12 03:44:22, 2024-09-12 03:44:22, phishing, 7156cab5491d8a55563af3a0b42d7a51, http://ovh-com-9481f1dd.noticiasdopantanal.com.br/?d9501
 240522, 2024-09-12 02:25:06, 2024-09-12 02:25:06, malware, 8cf284c98bdd410e9b193408a8ccc4a5, http://59.99.212.123:41188/bin.sh
 240521, 2024-09-12 02:25:01, 2024-09-12 02:25:01, malware, ac4d633ef79a4247a8273c0f96c431f4, http://59.97.115.96:41214/i
 240520, 2024-09-12 02:24:59, 2024-09-12 02:24:59, malware, 2eb804a3ea944391b23c758384612ec0, http://59.97.115.96:41214/bin.sh
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 239713, 2024-09-11 12:20:41, 2024-09-11 12:20:41, malware, e29bc37febe344d7a6822a107107c1cd, http://117.195.246.56:38004/
 239712, 2024-09-11 12:20:28, 2024-09-11 12:20:28, malware, b52c34a6c09b4515bb5efe07381f088d, http://116.3.186.0:40375/Mozi.a
 239711, 2024-09-11 12:20:23, 2024-09-11 12:20:23, malware, bc1f31837a114b7c89f932d07947333b, http://115.55.207.155:47822/i
-239710, 2024-09-11 12:20:21, 2024-09-11 12:20:21, malware, 04c6fd207341485fb9ad5f14e17b209a, http://115.54.239.191:43121/
