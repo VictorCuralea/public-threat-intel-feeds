@@ -6,9 +6,15 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-12 11:00:01 UTC
+# UPDATE: 2024-09-12 12:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+240969, 2024-09-12 11:42:55, 2024-09-12 11:42:55, phishing, 3e1afe3c5168dee26158d66536202265, https://singpiass.top/gov/
+240968, 2024-09-12 11:20:17, 2024-09-12 11:20:17, phishing, 8b4bbfd63bc99a6ae99536edf388fc9b, http://imt0ken-oa.mom
+240967, 2024-09-12 11:09:53, 2024-09-12 10:38:13, phishing, f1473cc3c7569195e0f246966c94d153, https://login-in97257.cfd/?utm=med2
+240966, 2024-09-12 11:09:16, 2024-09-12 09:05:05, phishing, 7cc1ec59df5d95aebe5c8f225625fdbf, https://scream-transferring-sends.glitch.me/style/v3/643cle85w1dar75063.html#x
+240965, 2024-09-12 11:06:11, 2024-09-12 11:06:11, phishing, 4f3f5a44ed07c7040d0a6a4f8581ab08, http://jpool-xpubrectification.pages.dev
+240964, 2024-09-12 11:00:15, 2024-09-12 11:00:15, phishing, a184cabc744e5e06cf3f73677526bfa8, http://games-jp.shop
 240963, 2024-09-12 10:52:19, 2024-09-12 10:52:19, phishing, f53f5be980c669a43c33cbfc5f0c8113, https://azkddaij-azd.qc-plus.jp/dd/
 240962, 2024-09-12 10:48:10, 2024-09-12 10:48:10, phishing, ee131da549b3cfcd8a7e540a3be9b61b, http://dullhonepaqe.aromapomsmiami.com
 240885, 2024-09-12 10:32:03, 2024-09-12 10:32:03, malware, dbc315b4f89b4f858b0ddbf9d1ab5697, http://78.162.196.50:33268/i
@@ -503,9 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 240338, 2024-09-11 22:20:42, 2024-09-11 22:20:42, malware, 674037c5287748879a939bc25ddfedfe, http://115.55.8.111:56747/i
 240337, 2024-09-11 22:20:41, 2024-09-11 22:20:41, malware, a59db8e505634aabbae65880b51486ca, http://115.55.238.95:45693/i
 240336, 2024-09-11 22:20:38, 2024-09-11 22:20:38, malware, b71313276c8e4ee7a0c4d628f2babbba, http://115.55.238.95:45693/bin.sh
-240335, 2024-09-11 22:20:36, 2024-09-11 22:20:36, malware, 3a42190348e34774b619305990f634bd, http://115.54.75.30:52817/Mozi.m
-240334, 2024-09-11 22:20:34, 2024-09-11 22:20:34, malware, d9226ea1ee9e4537bac81a9578e8592c, http://115.48.144.50:56889/i
-240333, 2024-09-11 22:20:32, 2024-09-11 22:20:32, malware, 622ba476517c4bce9e6597fb02b56d8a, http://113.233.98.146:57698/i
-240332, 2024-09-11 22:20:28, 2024-09-11 22:20:28, malware, 4567f455b867463f8f7119147b0a3cf3, http://112.31.180.128:47648/i
-240331, 2024-09-11 22:20:24, 2024-09-11 22:20:24, malware, d64f03a2c4d147178ede72bb587e6ee6, http://112.249.61.5:60270/i
-240330, 2024-09-11 22:20:22, 2024-09-11 22:20:22, malware, 9a5f18164e474ae2878111e357a657f6, http://112.249.61.5:60270/bin.sh
