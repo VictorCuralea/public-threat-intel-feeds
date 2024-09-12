@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-12 13:00:01 UTC
+# UPDATE: 2024-09-12 14:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+241310, 2024-09-12 13:03:35, 2024-09-12 13:03:35, phishing, c0fe95ffcf5527095bf6d1cea773d31b, https://fancy-surf-b42b.mendharry042.workers.dev/
+241309, 2024-09-12 13:02:57, 2024-09-12 13:02:57, phishing, a1e6b620a0f8bf7bcd526080457b0490, http://login.microsoftonline.com.office.prod.abbvie.myshn.net/
 241308, 2024-09-12 12:56:15, 2024-09-12 12:56:15, phishing, d24f47e92421137cd3a60b5007c54e1c, http://sureloomversatile.pages.dev
 241300, 2024-09-12 12:38:11, 2024-09-12 12:38:11, phishing, 9536a1d1cd949e933d9b4d5f8d812155, http://dullhonepaqe.secretspacesocieties.com
 241286, 2024-09-12 12:25:39, 2024-09-12 12:25:39, malware, 4ef65382f11c4373a7fd3fdd7f898325, http://93.123.85.180/x86
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 240380, 2024-09-11 22:25:10, 2024-09-11 22:25:10, malware, b15af682f8024af895be8b91f1da8b0e, http://182.113.9.113:51402/i
 240379, 2024-09-11 22:25:08, 2024-09-11 22:25:08, malware, 9b4970cef44443daa0f66de3cbd147f6, http://182.113.203.218:53513/i
 240378, 2024-09-11 22:25:07, 2024-09-11 22:25:07, malware, bef7f83ffdf04503b5ce8d0c3ece497f, http://182.113.193.151:40933/i
-240377, 2024-09-11 22:25:05, 2024-09-11 22:25:05, malware, 82a94e6f9fab4eed9b6dbcee8b5710bb, http://182.113.193.151:40933/bin.sh
-240376, 2024-09-11 22:25:03, 2024-09-11 22:25:03, malware, 53471b7028fd494bbb3c88025c0783c1, http://182.112.46.188:59076/i
