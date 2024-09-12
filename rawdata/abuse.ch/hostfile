@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-12 00:02:26 UTC                        #
+# Last updated: 2024-09-12 04:01:01 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	www.wwwwwwpublicsecure.pythr.net
+127.0.0.1	www.demo.ethergases.app
+127.0.0.1	cnlenwwwofficevpn.pythr.net
+127.0.0.1	dev.ethergases.app
 127.0.0.1	www.back-dev.hook.app.br
 127.0.0.1	www.reporting.ethergases.app
 127.0.0.1	www.wwwadmin.ethergases.app
@@ -8133,4 +8137,4 @@
 127.0.0.1	neko.ltd
 127.0.0.1	asyncawaitapi.com
 127.0.0.1	apifunctioncall.com
-# Number of entries: 8127
+# Number of entries: 8131
