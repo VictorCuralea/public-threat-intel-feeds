@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-12 00:00:02 UTC
+# UPDATE: 2024-09-12 01:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+240477, 2024-09-12 00:44:12, 2024-09-12 00:44:12, phishing, 85ab7997514f76f4f56723a40c6f67dd, http://brandy-morgon-sexy.pages.dev
+240476, 2024-09-12 00:24:15, 2024-09-12 00:24:15, phishing, 5222b6b21b947ce0db91b23b0a107f78, http://soft-night-79cd.vegpro.workers.dev
+240475, 2024-09-12 00:22:11, 2024-09-12 00:22:11, phishing, d2fcbe794e35258c2b2339cad7fc8d5c, http://msgr.com
 240474, 2024-09-11 23:37:15, 2024-09-11 23:06:16, phishing, 5986cdaeef78f8e15fe7ff72a652ff72, https://hyettegye08670.weeblysite.com/
 240473, 2024-09-11 23:24:01, 2024-09-11 23:24:01, malware, 1184aafec28d4152980bf034ecf07d45, http://haporproletioperavivo.ru/download/%d0%9f%d0%bb%d0%b0%d1%82%d0%b5%d0%b6%d0%bd%d0%be%d0%b5_%d0%bf%d0%be%d1%80%d1%83%d1%87%d0%b5%d0%bd%d0%b8%d0%b5_%d0%b2_i%d0%bd%d0%be%d0%b7%d0%b5%d0%bd%d0%be%d0%b9_%d0%b2%d0%b0%d0%bb%d1%8e%d1%82%d0%b5.rar
 240472, 2024-09-11 23:23:59, 2024-09-11 23:23:59, malware, 7d6a78c84b1a4c7181510b1bc238fb26, http://61.53.81.57:34925/bin.sh
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 239667, 2024-09-11 09:24:37, 2024-09-11 09:24:37, malware, d9496ec1671a4ce190c18f1b6da95db8, http://222.141.103.184:54642/bin.sh
 239666, 2024-09-11 09:24:35, 2024-09-11 09:24:35, malware, 4c4f932754c0444f9fd7444c35b0d6ba, http://222.140.161.114:33607/i
 239665, 2024-09-11 09:24:33, 2024-09-11 09:24:33, malware, c0663bd53b854e7cb6fcaa158f6766e1, http://222.137.213.160:44069/i
-239664, 2024-09-11 09:24:31, 2024-09-11 09:24:31, malware, 5805c8fa07cd47d5bff933e3a9fff9e2, http://222.137.213.160:44069/bin.sh
-239663, 2024-09-11 09:24:29, 2024-09-11 09:24:29, malware, 36e1ba857d5b43cdbf66186e4c536f82, http://221.15.20.48:54634/
-239662, 2024-09-11 09:24:27, 2024-09-11 09:24:27, malware, 7bafb9e75bb84626815e7b14b3b65daf, http://219.157.184.112:52994/i

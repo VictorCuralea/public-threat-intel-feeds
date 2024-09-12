@@ -1,11 +1,22 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-11 18:51:39 UTC                        #
+# Last updated: 2024-09-12 00:02:26 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	www.back-dev.hook.app.br
+127.0.0.1	www.reporting.ethergases.app
+127.0.0.1	www.wwwadmin.ethergases.app
+127.0.0.1	analytics.ethergases.app
+127.0.0.1	www.wwwwwwstaging.ethergases.app
+127.0.0.1	www.dashboards.ethergases.app
+127.0.0.1	www.www1.ethergases.app
+127.0.0.1	sitemaps.ethergases.app
+127.0.0.1	wwwreporting.ethergases.app
+127.0.0.1	www.superset.ethergases.app
+127.0.0.1	www.wwwlogin.ethergases.app
 127.0.0.1	hicham9risa.duckdns.org
 127.0.0.1	simplymecosmetics.com
 127.0.0.1	paylesssignandprinters.ca
@@ -8122,4 +8133,4 @@
 127.0.0.1	neko.ltd
 127.0.0.1	asyncawaitapi.com
 127.0.0.1	apifunctioncall.com
-# Number of entries: 8116
+# Number of entries: 8127
