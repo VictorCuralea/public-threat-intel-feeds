@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-12 21:00:01 UTC
+# UPDATE: 2024-09-12 22:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+241589, 2024-09-12 21:56:21, 2024-09-12 21:56:21, phishing, 83089956b22c9b7580915e9d1d6131e8, http://joingroup.duckdns.org
+241588, 2024-09-12 21:38:13, 2024-09-12 21:38:13, phishing, 28fe07e2efde192b80fdd594cf27706c, http://restageapenashoje.online
+241587, 2024-09-12 21:32:15, 2024-09-12 21:32:15, phishing, 4b036c59817e681cdc855da7bbf69b2d, http://ahcpllcs.pages.dev
 241586, 2024-09-12 20:40:12, 2024-09-12 20:40:12, phishing, c5997d477865092f6a721872764704b5, http://vghbjnkjnvcvbnm.pages.dev
 241585, 2024-09-12 20:36:22, 2024-09-12 20:04:13, phishing, eff0ec098ae72225bc6246c9a105cdcd, https://btmailupdatelogin232.temporary-demo.site/
 241584, 2024-09-12 20:27:23, 2024-09-12 20:27:23, malware, ab4d5f615f22422fa294b746d252ace8, http://78.162.196.50:33268/bin.sh
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 240658, 2024-09-12 05:27:08, 2024-09-12 05:27:08, malware, b885844c8a7f4ea09fc4ae2d5885baf3, http://42.224.66.133:40053/bin.sh
 240657, 2024-09-12 05:27:06, 2024-09-12 05:27:06, malware, e6aa1d9b80994cfe9c70bcd18e8f4246, http://42.224.150.28:38572/
 240656, 2024-09-12 05:27:03, 2024-09-12 05:27:03, malware, 22058fdd811d4d2e84cfe609e7d7b660, http://27.215.81.133:35438/Mozi.m
-240655, 2024-09-12 05:27:01, 2024-09-12 05:27:01, malware, f21b32a9ec9440ce818871d80fec9da7, http://27.215.212.240:36686/
-240654, 2024-09-12 05:26:59, 2024-09-12 05:26:59, malware, e4249f1e5934416b8cebc7cad999ddef, http://27.202.98.207:38289/i
-240653, 2024-09-12 05:26:56, 2024-09-12 05:26:56, malware, dee6bf7428014cfdbe64a07cb4c6d978, http://27.194.83.49:35783/
