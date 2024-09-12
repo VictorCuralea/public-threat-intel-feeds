@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-12 01:00:01 UTC
+# UPDATE: 2024-09-12 02:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+240480, 2024-09-12 01:28:12, 2024-09-12 01:28:12, phishing, 7fb41f5bc96fe26cb478feb1c84aa77a, http://lifespacesinnovation-3i0.pages.dev
+240479, 2024-09-12 01:22:19, 2024-09-12 01:22:19, phishing, f3bc5d92b0cb984ec08383002373141c, http://wab-whantsapp.com
+240478, 2024-09-12 01:14:14, 2024-09-12 01:14:14, phishing, 199c781b7cde658949c61feffe06ba09, http://whatsappplinkszc.pages.dev
 240477, 2024-09-12 00:44:12, 2024-09-12 00:44:12, phishing, 85ab7997514f76f4f56723a40c6f67dd, http://brandy-morgon-sexy.pages.dev
 240476, 2024-09-12 00:24:15, 2024-09-12 00:24:15, phishing, 5222b6b21b947ce0db91b23b0a107f78, http://soft-night-79cd.vegpro.workers.dev
 240475, 2024-09-12 00:22:11, 2024-09-12 00:22:11, phishing, d2fcbe794e35258c2b2339cad7fc8d5c, http://msgr.com
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 239670, 2024-09-11 09:24:53, 2024-09-11 09:24:53, malware, 5fae799079d148fca2083a40488a8538, http://39.86.4.240:48770/bin.sh
 239669, 2024-09-11 09:24:51, 2024-09-11 09:24:51, malware, e4da530784e54a9798b630dba03a99fa, http://27.215.208.5:52839/bin.sh
 239668, 2024-09-11 09:24:49, 2024-09-11 09:24:49, malware, ac738be75cb849e492880e28299ac30f, http://27.215.176.64:34758/i
-239667, 2024-09-11 09:24:37, 2024-09-11 09:24:37, malware, d9496ec1671a4ce190c18f1b6da95db8, http://222.141.103.184:54642/bin.sh
-239666, 2024-09-11 09:24:35, 2024-09-11 09:24:35, malware, 4c4f932754c0444f9fd7444c35b0d6ba, http://222.140.161.114:33607/i
-239665, 2024-09-11 09:24:33, 2024-09-11 09:24:33, malware, c0663bd53b854e7cb6fcaa158f6766e1, http://222.137.213.160:44069/i
