@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-13 15:00:01 UTC
+# UPDATE: 2024-09-13 16:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+242390, 2024-09-13 15:24:15, 2024-09-13 15:24:15, phishing, a1a90579bf1db61844ae26069d7721c7, http://swap.otona.ai
 242371, 2024-09-13 14:54:10, 2024-09-13 14:54:10, phishing, 45ff7838d829ad6c812d58587dd6de6b, http://mysloganmadesoeasy2.pages.dev
 242370, 2024-09-13 14:48:11, 2024-09-13 14:48:11, phishing, cbe4f83e7fa8837fc1637e92b6bca4da, http://ms-copilot-play-6mb.pages.dev
 242369, 2024-09-13 14:46:13, 2024-09-13 14:46:13, phishing, 2be25f36cce24da32114cf2b397527c6, http://ciient-xuth.cloud-qatevvay-msonline.workers.dev
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 241744, 2024-09-13 00:26:18, 2024-09-13 00:26:18, malware, 4da1c040863d4a61a36b400bdf77161f, http://59.99.132.124:36669/i
 241743, 2024-09-13 00:26:13, 2024-09-13 00:26:13, malware, 5ce9f36ee57849a3a05147118992ef4e, http://59.99.132.124:36669/bin.sh
 241742, 2024-09-13 00:26:11, 2024-09-13 00:26:11, malware, dd8ca46977914a3287ae7d4e96362b78, http://59.97.113.244:44832/
-241741, 2024-09-13 00:26:09, 2024-09-13 00:26:09, malware, 0997f41fe659422681f35c0655647f89, http://59.93.129.245:36028/i
