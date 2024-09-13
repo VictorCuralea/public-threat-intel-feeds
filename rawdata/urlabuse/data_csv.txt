@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-13 01:00:02 UTC
+# UPDATE: 2024-09-13 02:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+241751, 2024-09-13 01:52:16, 2024-09-13 01:52:16, phishing, a820722b581815fb071fd8d167e51303, https://cima100fm.com/v/as/signin.php
+241750, 2024-09-13 01:20:19, 2024-09-13 01:20:19, phishing, 70f67c02e835b45f13deebdcddb3c02f, http://atecnologias.com
+241749, 2024-09-13 01:12:17, 2024-09-13 01:12:17, phishing, 9910ab99a3b2adfd9e3994b61f59ef03, https://www.domtec.com.br/wp-content/cache_/min/-/robotg/swisssa20244/swisscom/index2.php
 241748, 2024-09-13 00:40:15, 2024-09-13 00:40:15, phishing, 07546682a8308d9a1720fceb2950b883, http://vercel-merge-apps.pages.dev
 241747, 2024-09-13 00:27:18, 2024-09-13 00:27:18, malware, 74dde5b0d338450ab242fddf2923ea22, http://91.239.77.159:40091/i
 241746, 2024-09-13 00:26:37, 2024-09-13 00:26:37, malware, fa878aafdba74b288981821568a48765, http://61.0.185.225:59778/bin.sh
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 240869, 2024-09-12 10:30:55, 2024-09-12 10:30:55, malware, c20ae00f5ea94d8e948ac3c1955bc4c2, http://59.97.122.39:34307/i
 240859, 2024-09-12 10:29:35, 2024-09-12 10:29:35, malware, a4296e240a674eeb8520158e779b4cea, http://59.184.48.48:37885/
 240855, 2024-09-12 10:29:10, 2024-09-12 10:29:10, malware, a943b8e7d3ce42fe86d6d25e80fa2c89, http://59.183.122.5:53273/i
-240850, 2024-09-12 10:28:27, 2024-09-12 10:28:27, malware, 0e4ea33686e243d8be0552ed8834b144, http://59.182.114.18:47781/i
-240849, 2024-09-12 10:28:25, 2024-09-12 10:28:25, malware, 33925fcb0ccd4f88af8da87c00629175, http://59.182.114.18:47781/bin.sh
-240846, 2024-09-12 10:28:13, 2024-09-12 10:28:13, malware, 3c588c27250042d09c379bdc39ed0e11, http://59.178.159.70:35111/
