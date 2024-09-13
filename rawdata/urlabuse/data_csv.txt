@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-13 11:00:01 UTC
+# UPDATE: 2024-09-13 12:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+242244, 2024-09-13 11:03:39, 2024-09-13 10:06:14, phishing, 49c8d1821e719dcff027f814bc38b373, https://n-16t.pages.dev/
+242241, 2024-09-13 11:02:48, 2024-09-13 10:04:51, phishing, aab50d8ac3cd5caa815a3f0968ba37cb, https://loanmandi.co.in/Action/?email=x
+242240, 2024-09-13 11:02:11, 2024-09-13 11:02:11, phishing, 56e6a380addfc85e711b2693318f0df8, http://fluxlp2.pages.dev
 242221, 2024-09-13 10:54:10, 2024-09-13 10:54:10, phishing, 824d48335bf06eec8ab4ada90fd1adca, http://domainbroadcastrealizationinternationalservice01.pages.dev
 242176, 2024-09-13 10:30:24, 2024-09-13 10:30:24, malware, 07370a146c874844be94c74df7ece72d, http://93.123.85.123/z/spc
 242174, 2024-09-13 10:30:23, 2024-09-13 10:30:23, malware, 5d92e1801a8e44ce865baef7d56c66fe, http://93.123.85.123/z/sh4
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 241664, 2024-09-12 22:23:26, 2024-09-12 22:23:26, malware, 30d19d0a1d3a4219bb09897313f9c102, http://182.127.7.22:56661/i
 241663, 2024-09-12 22:23:24, 2024-09-12 22:23:24, malware, b3e70b4e6c48449192513c306c54ad95, http://182.127.7.22:56661/bin.sh
 241662, 2024-09-12 22:23:22, 2024-09-12 22:23:22, malware, e666f1ac4b4c48aa8d4e2e594fe32ab2, http://182.126.87.114:57166/i
-241661, 2024-09-12 22:23:20, 2024-09-12 22:23:20, malware, 44a432a7de014fa8ba65555f62117f9e, http://182.121.131.51:59842/bin.sh
-241660, 2024-09-12 22:23:18, 2024-09-12 22:23:18, malware, 3fe00434d1f84956ac2c9d4997499d2f, http://182.121.131.125:55522/i
-241659, 2024-09-12 22:23:16, 2024-09-12 22:23:16, malware, 87a0f952f8cd4d8aae8b1d2b13c32061, http://160.119.156.135:58360/i
