@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-13 19:00:01 UTC
+# UPDATE: 2024-09-13 20:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+242824, 2024-09-13 19:04:13, 2024-09-13 19:04:13, phishing, 03fc10dbd94bd1c65d18217ec0b6aa11, http://solicitaemprest.consignadobrasil.site
 242799, 2024-09-13 18:50:13, 2024-09-13 18:50:13, phishing, b832e3c731bcb228192ccd300431c840, http://ajsuieokdujyh6748950osklmijuyahnhd093wuu844iskn3.pages.dev
 242784, 2024-09-13 18:26:49, 2024-09-13 18:26:49, malware, 5ec90b0fc9304098a56ffb4808f3dac3, http://61.52.85.71:38060/
 242783, 2024-09-13 18:26:43, 2024-09-13 18:26:43, malware, b76b9fe2e22f491a88c642d171362598, http://61.52.54.125:60632/bin.sh
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 241845, 2024-09-13 03:23:43, 2024-09-13 03:23:43, malware, 30133022d3c74328adcf46bce81e0990, http://182.121.253.121:54592/bin.sh
 241844, 2024-09-13 03:23:41, 2024-09-13 03:23:41, malware, 249618b998c3453e9d9e2008ff100c0f, http://182.121.179.123:44484/i
 241843, 2024-09-13 03:23:38, 2024-09-13 03:23:38, malware, f78c5a1d1eb642a3b8ce6d0db4f6fe61, http://182.121.179.123:44484/bin.sh
-241842, 2024-09-13 03:23:36, 2024-09-13 03:23:36, malware, 0ed538caa9364ed9b1a5181eed85515e, http://182.120.62.158:37990/i
