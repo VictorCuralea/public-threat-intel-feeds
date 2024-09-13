@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-13 17:00:01 UTC
+# UPDATE: 2024-09-13 18:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+242739, 2024-09-13 17:42:15, 2024-09-13 17:42:15, phishing, 5b6ab24d9d600bb498efc912fd278b9e, http://carte-vitale-ameli.site
+242738, 2024-09-13 17:38:12, 2024-09-13 17:38:12, phishing, fd16d81e2419d2656ad36e5df645d34b, http://cartf0.site.tb-hosting.com
+242735, 2024-09-13 17:10:15, 2024-09-13 17:10:15, phishing, 47423f6444ea0bd4ebbe3bd35f5b2317, http://solicitaemprest.atuacadast.site
+242733, 2024-09-13 17:09:00, 2024-09-13 15:42:13, phishing, a0ce8ef9379612e66eecdf48daee0248, https://removalgoodsfreightltd.com/gxqg5dPZ3/mjg9qxafu9egloik/login.php?client_id=CpakDnSm7z5OAStnuoHrxskUZtGNGobnlDL9PuE7N2ceoZfphNsYYEPTE33cWWq1g
 242732, 2024-09-13 16:29:37, 2024-09-13 16:29:37, malware, 523cf820f00943e2b9869ba0644d1873, http://95.132.79.20:41817/bin.sh
 242731, 2024-09-13 16:29:34, 2024-09-13 16:29:34, malware, 974d0dff476246ed8c0d7105744c626f, http://61.53.254.150:37076/bin.sh
 242730, 2024-09-13 16:29:32, 2024-09-13 16:29:32, malware, 15e7d60f120d413aaa1d46fc5294153e, http://61.53.140.154:59597/Mozi.m
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 241799, 2024-09-13 02:26:46, 2024-09-13 02:26:46, malware, 7a24b5f0ffe5488da5ebc42818110ec3, http://59.93.129.6:34378/i
 241798, 2024-09-13 02:26:42, 2024-09-13 02:26:42, malware, 8fc03ac7695e4058981a9f5811e168a2, http://59.91.89.40:48997/bin.sh
 241797, 2024-09-13 02:26:34, 2024-09-13 02:26:34, malware, 4f583753e97740f7b60762835fdcfa3e, http://59.183.129.185:33795/i
-241796, 2024-09-13 02:26:32, 2024-09-13 02:26:32, malware, ed8e2c8bfe57441f997f361a74462fe1, http://39.72.63.20:33086/i
-241795, 2024-09-13 02:26:29, 2024-09-13 02:26:29, malware, fe4b5d85e59e4dc486dd8ad8bf83ab1d, http://39.72.63.20:33086/bin.sh
-241794, 2024-09-13 02:26:25, 2024-09-13 02:26:25, malware, 65ad01fac41d4722bea800df0cfd07cf, http://27.211.62.94:39197/i
-241793, 2024-09-13 02:26:22, 2024-09-13 02:26:22, malware, ff67b60a2f454876b943822603a63a58, http://222.138.179.209:53430/bin.sh
