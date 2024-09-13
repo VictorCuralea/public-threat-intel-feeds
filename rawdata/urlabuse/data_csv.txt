@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-13 07:00:01 UTC
+# UPDATE: 2024-09-13 08:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+241982, 2024-09-13 07:04:48, 2024-09-13 07:04:48, phishing, fd59c94bbe3d4b2165c53af772fb7292, https://www.vzmao.space/%f0%9d%90%9c/W569H/pay/
+241981, 2024-09-13 07:04:46, 2024-09-13 07:04:46, phishing, 197573f54b96356eac5d2aad4a7e38f0, http://agen.sensualy-tea.com/
+241980, 2024-09-13 07:03:34, 2024-09-13 07:03:34, phishing, 22294ce366c826ea38cf060e83d46e90, https://ams3.digitaloceanspaces.com/gracefoundchildrenparty/babyfoxx/attach.html
+241979, 2024-09-13 07:03:31, 2024-09-13 07:03:31, phishing, 5d215bb7102b978f22f5c07f036ad4fb, http://abc-r23.pages.dev/
 241978, 2024-09-13 06:55:15, 2024-09-13 06:55:15, phishing, 1afbc841615b7693f46df69865794146, https://webmail-live.ubpages.com/webmail_live/
 241977, 2024-09-13 06:55:07, 2024-09-13 06:40:13, phishing, f7c435eb7d59d5b7f78864441662c524, https://mymts81759.ac-page.com/webmail?test=true
 241976, 2024-09-13 06:28:23, 2024-09-13 06:28:23, malware, b12491f034904663bf3ad6bf547d7cac, http://93.123.85.123/z/mips
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 241485, 2024-09-12 18:27:12, 2024-09-12 18:27:12, malware, 4b6ee3381da64dbbbcea2fa2a3349a5c, http://123.5.162.126:36122/bin.sh
 241484, 2024-09-12 18:27:11, 2024-09-12 18:27:11, malware, c1665955dd1447a690d6ba1f7857bd6e, http://123.5.145.171:42834/bin.sh
 241483, 2024-09-12 18:27:08, 2024-09-12 18:27:08, malware, bb41728cb16f460f8affcedb2565c117, http://123.13.230.76:52625/i
-241482, 2024-09-12 18:27:07, 2024-09-12 18:27:07, malware, 297977407c314093ba9e925ff4ccc0a6, http://123.13.230.76:52625/bin.sh
-241481, 2024-09-12 18:27:05, 2024-09-12 18:27:05, malware, a7cb7afb54dc495c85702e5ca287b30c, http://123.11.64.247:57442/Mozi.m
-241480, 2024-09-12 18:27:03, 2024-09-12 18:27:03, malware, 47acf3165bbc4518b1baabb604efcc0b, http://123.10.153.198:60794/i
-241479, 2024-09-12 18:27:01, 2024-09-12 18:27:01, malware, 1abb445cdbfd49698f0a03a389c8d3a5, http://123.10.153.198:60794/bin.sh
