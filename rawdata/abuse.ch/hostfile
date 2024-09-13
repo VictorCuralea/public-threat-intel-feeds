@@ -1,11 +1,31 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-13 08:02:16 UTC                        #
+# Last updated: 2024-09-13 12:01:04 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	www.wwwwwwvdi.pythr.net
+127.0.0.1	www.wwwwwwbackend.ethergases.org
+127.0.0.1	apps.pythr.net
+127.0.0.1	www.wwwvpnssl.pythr.net
+127.0.0.1	reports.pythr.net
+127.0.0.1	login.ethergases.org
+127.0.0.1	www.virtualstudent.pythr.net
+127.0.0.1	chart.pythr.net
+127.0.0.1	www.intel.pythr.net
+127.0.0.1	wwwwwwvirtualapps.pythr.net
+127.0.0.1	www.wwwintra.pythr.net
+127.0.0.1	webmail.ethergases.org
+127.0.0.1	dev.pythr.net
+127.0.0.1	wwwsitemap.pythr.net
+127.0.0.1	guild-zksync.io
+127.0.0.1	www.wwwgatewayrdweb.pythr.net
+127.0.0.1	www.wwwclientesvpn.pythr.net
+127.0.0.1	wwwssl.pythr.net
+127.0.0.1	wwwwwwvirtualstudent.pythr.net
+127.0.0.1	wwwwwwapps.pythr.net
 127.0.0.1	danzimmer.space
 127.0.0.1	www.connect.pythr.net
 127.0.0.1	www.wwwwwwwww1.pythr.net
@@ -8206,4 +8226,4 @@
 127.0.0.1	jspassport.ssl.qhimg.com.dsa.dnsv1.com
 127.0.0.1	docloudstorage.com
 127.0.0.1	newcleos.com
-# Number of entries: 8200
+# Number of entries: 8220
