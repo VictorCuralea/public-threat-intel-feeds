@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-13 09:00:01 UTC
+# UPDATE: 2024-09-13 10:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+242092, 2024-09-13 09:32:41, 2024-09-13 09:32:41, phishing, c397f0564b7aa695383a3d62671cc971, https://ssoedsevmtli.web.app
+242089, 2024-09-13 09:02:11, 2024-09-13 09:02:11, phishing, e52be1245bd67d12e1048d6d5b6b5946, http://08647657587656.cloud-runofficeqatevvay.workers.dev
+242088, 2024-09-13 09:00:25, 2024-09-13 09:00:25, phishing, 8129e5a9bc612914aa72bcc257c5cec2, https://casao-samc-9385.standard.us-east-1.oortech.com/idx.aspx
 242087, 2024-09-13 08:59:45, 2024-09-13 08:59:45, phishing, ad75156ba8e9c736a7d34df2f3de0642, https://lhv-ee.gulfinsurance.llc/LpOwQVPZOWJqxENGgf0G
 242086, 2024-09-13 08:59:35, 2024-09-13 08:59:35, phishing, 88579d30758e917de269e203d74b0d6c, http://al.aucher.online.fr/CZXKCR4Le69PsAEhw
 242085, 2024-09-13 08:59:17, 2024-09-13 08:59:17, phishing, 3645d776993b4319a778cef6779a1646, https://google.am/amp/al.aucher.online.fr/CZXKCR4Le69PsAEhw
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 241585, 2024-09-12 20:36:22, 2024-09-12 20:04:13, phishing, eff0ec098ae72225bc6246c9a105cdcd, https://btmailupdatelogin232.temporary-demo.site/
 241584, 2024-09-12 20:27:23, 2024-09-12 20:27:23, malware, ab4d5f615f22422fa294b746d252ace8, http://78.162.196.50:33268/bin.sh
 241583, 2024-09-12 20:27:07, 2024-09-12 20:27:07, malware, e12e6c41f1914dfa81d6fa887b01087c, http://61.3.88.23:38471/bin.sh
-241582, 2024-09-12 20:27:04, 2024-09-12 20:27:04, malware, 8954015de76b479b92612f9781023115, http://61.3.17.132:42793/Mozi.m
-241581, 2024-09-12 20:26:35, 2024-09-12 20:26:35, malware, 0fd3e147bfe740b08d25d23ed3c25496, http://59.93.129.6:34378/bin.sh
-241580, 2024-09-12 20:26:29, 2024-09-12 20:26:29, malware, 74f81874605b4ab5998ec58495d309bc, http://59.89.198.199:53640/bin.sh
