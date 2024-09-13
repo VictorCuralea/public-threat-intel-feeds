@@ -6,9 +6,14 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-12 23:00:01 UTC
+# UPDATE: 2024-09-13 00:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+241690, 2024-09-12 23:41:39, 2024-09-12 23:36:16, phishing, f7e3a2c51ca0bde70c9a71a6178aed0c, https://elounge-cicsuisse.com/e48735b9e26f3452d86ce86d4cb4eb08/lgn.php?user=true
+241689, 2024-09-12 23:41:25, 2024-09-12 23:08:11, phishing, 692ca6fb463c2cc5e6fc78edada8ef3a, http://online-cic-ch.com/a9f0e61a137d86aa9db53465e0801612/lgn.php?user=true
+241688, 2024-09-12 23:40:12, 2024-09-12 23:40:12, phishing, 630e3d39ea32945c31dfc9a48d348c75, https://btsusud.weebly.com
+241687, 2024-09-12 23:40:02, 2024-09-12 22:18:17, phishing, aeebcdb8e3cd0d6318406f90859e9f2d, https://mysoci.al/britishtelecommunicationtr4m
+241686, 2024-09-12 23:12:10, 2024-09-12 23:12:10, phishing, ecaa01bb58813fb59a3ad7d24742d69f, http://free-for-live-cam11-9gi.pages.dev
 241685, 2024-09-12 22:27:39, 2024-09-12 22:27:39, malware, 7b6541c64dd84e76befc514579bbb3a1, https://expertpromotions.ru/files/svc.exe
 241684, 2024-09-12 22:27:05, 2024-09-12 22:27:05, malware, 908e35b949dd4fc1b79ff55db55080fc, http://61.53.207.251:35462/i
 241683, 2024-09-12 22:27:03, 2024-09-12 22:27:03, malware, cc233573b3ff485a847cb244d38c134a, http://61.53.207.251:35462/bin.sh
@@ -504,8 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 240768, 2024-09-12 10:02:33, 2024-09-12 10:02:33, phishing, a143b0c8b246047aa5148db4746dd88b, https://investors.spotify.com.sg2.putrivpn1.us.kg/
 240767, 2024-09-12 10:02:25, 2024-09-12 10:02:25, phishing, b4bf6d8c2db813dce58ab210c3ddf99c, https://cloudflarevless-ckn.pages.dev/
 240757, 2024-09-12 09:26:17, 2024-09-12 09:26:17, phishing, 2c5122e3db58cf771acce60414c12561, http://steemloomdefyhash.pages.dev
-240756, 2024-09-12 09:24:15, 2024-09-12 09:24:15, phishing, c6cb1f51b3b4133bcfdeb6ea45928378, http://amelicpam.fr
-240755, 2024-09-12 07:30:11, 2024-09-12 07:30:11, malware, 9c14c49d35f241478556e1adfa8df833, http://93.123.85.180/mips
-240754, 2024-09-12 07:30:02, 2024-09-12 07:30:02, malware, 28d77d42741b4c15ab430fd54289e586, http://61.3.101.10:48271/Mozi.m
-240753, 2024-09-12 07:28:59, 2024-09-12 07:28:59, malware, c1c00ec0843f4e839a0babcaa70f5721, http://59.97.117.211:33226/i
-240752, 2024-09-12 07:28:20, 2024-09-12 07:28:20, malware, a563d013f7704532a3ca09ca3629567a, http://59.89.201.130:50863/

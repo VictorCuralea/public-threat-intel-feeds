@@ -6,8 +6,13 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-12 23:00:01 UTC
+# UPDATE: 2024-09-13 00:00:02 UTC
 ############### END COMMENTS ###############
+{"id": 241690, "url": "https://elounge-cicsuisse.com/e48735b9e26f3452d86ce86d4cb4eb08/lgn.php?user=true", "discovery": "2024-09-12 23:36:16", "added": "2024-09-12 23:41:39", "target": "CIC Bank", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "f7e3a2c51ca0bde70c9a71a6178aed0c"}
+{"id": 241689, "url": "http://online-cic-ch.com/a9f0e61a137d86aa9db53465e0801612/lgn.php?user=true", "discovery": "2024-09-12 23:08:11", "added": "2024-09-12 23:41:25", "target": "CIC Bank", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "692ca6fb463c2cc5e6fc78edada8ef3a"}
+{"id": 241688, "url": "https://btsusud.weebly.com", "discovery": "2024-09-12 23:40:12", "added": "2024-09-12 23:40:12", "target": "BT", "reporter": "urlabuse", "AbuseType": "phishing", "UUID": "630e3d39ea32945c31dfc9a48d348c75"}
+{"id": 241687, "url": "https://mysoci.al/britishtelecommunicationtr4m", "discovery": "2024-09-12 22:18:17", "added": "2024-09-12 23:40:02", "target": "BT", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "aeebcdb8e3cd0d6318406f90859e9f2d"}
+{"id": 241686, "url": "http://free-for-live-cam11-9gi.pages.dev", "discovery": "2024-09-12 23:12:10", "added": "2024-09-12 23:12:10", "target": "Whatsapp", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "ecaa01bb58813fb59a3ad7d24742d69f"}
 {"id": 241685, "url": "https://expertpromotions.ru/files/svc.exe", "discovery": "2024-09-12 22:27:39", "added": "2024-09-12 22:27:39", "target": "#PE32INTEL_GUI", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "7b6541c64dd84e76befc514579bbb3a1"}
 {"id": 241684, "url": "http://61.53.207.251:35462/i", "discovery": "2024-09-12 22:27:05", "added": "2024-09-12 22:27:05", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "908e35b949dd4fc1b79ff55db55080fc"}
 {"id": 241683, "url": "http://61.53.207.251:35462/bin.sh", "discovery": "2024-09-12 22:27:03", "added": "2024-09-12 22:27:03", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "cc233573b3ff485a847cb244d38c134a"}
@@ -503,8 +508,3 @@
 {"id": 240768, "url": "https://investors.spotify.com.sg2.putrivpn1.us.kg/", "discovery": "2024-09-12 10:02:33", "added": "2024-09-12 10:02:33", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "a143b0c8b246047aa5148db4746dd88b"}
 {"id": 240767, "url": "https://cloudflarevless-ckn.pages.dev/", "discovery": "2024-09-12 10:02:25", "added": "2024-09-12 10:02:25", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "b4bf6d8c2db813dce58ab210c3ddf99c"}
 {"id": 240757, "url": "http://steemloomdefyhash.pages.dev", "discovery": "2024-09-12 09:26:17", "added": "2024-09-12 09:26:17", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "2c5122e3db58cf771acce60414c12561"}
-{"id": 240756, "url": "http://amelicpam.fr", "discovery": "2024-09-12 09:24:15", "added": "2024-09-12 09:24:15", "target": "FR-GOV", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "c6cb1f51b3b4133bcfdeb6ea45928378"}
-{"id": 240755, "url": "http://93.123.85.180/mips", "discovery": "2024-09-12 07:30:11", "added": "2024-09-12 07:30:11", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "9c14c49d35f241478556e1adfa8df833"}
-{"id": 240754, "url": "http://61.3.101.10:48271/Mozi.m", "discovery": "2024-09-12 07:30:02", "added": "2024-09-12 07:30:02", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "28d77d42741b4c15ab430fd54289e586"}
-{"id": 240753, "url": "http://59.97.117.211:33226/i", "discovery": "2024-09-12 07:28:59", "added": "2024-09-12 07:28:59", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "c1c00ec0843f4e839a0babcaa70f5721"}
-{"id": 240752, "url": "http://59.89.201.130:50863/", "discovery": "2024-09-12 07:28:20", "added": "2024-09-12 07:28:20", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "a563d013f7704532a3ca09ca3629567a"}
