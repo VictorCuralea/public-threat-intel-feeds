@@ -6,8 +6,11 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-13 21:00:01 UTC
+# UPDATE: 2024-09-13 22:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 242884, "url": "http://maslowcre.pages.dev", "discovery": "2024-09-13 21:32:13", "added": "2024-09-13 21:32:13", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "0ec96ce5ff858e5c943a1b5a90c3a691"}
+{"id": 242883, "url": "http://maslowcre.pages.dev", "discovery": "2024-09-13 21:32:13", "added": "2024-09-13 21:32:13", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "22f70932d277e51ade1893880eeb66c3"}
+{"id": 242882, "url": "http://bluediditllc.pages.dev", "discovery": "2024-09-13 21:08:12", "added": "2024-09-13 21:08:12", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "ed5fe60480d009585508b6859252962f"}
 {"id": 242881, "url": "http://gratasuphomujaecoprinsehu04.pages.dev", "discovery": "2024-09-13 20:32:12", "added": "2024-09-13 20:32:12", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "65f87d5a30c20cc01e274b0e24a8a290"}
 {"id": 242880, "url": "http://78.162.107.134:47254/bin.sh", "discovery": "2024-09-13 20:27:05", "added": "2024-09-13 20:27:05", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "4767427392f74dcfa5831f82f9b52a22"}
 {"id": 242879, "url": "http://61.52.54.125:60632/i", "discovery": "2024-09-13 20:26:51", "added": "2024-09-13 20:26:51", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "c63b6d06457540ed8dbe93267a2b4892"}
@@ -505,6 +508,3 @@
 {"id": 241901, "url": "http://saylistore.jubelio.store/index.html", "discovery": "2024-09-13 06:02:35", "added": "2024-09-13 06:02:35", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "2b72e3c14fcc8e6b483ec5ca4755bb0d"}
 {"id": 241900, "url": "http://yoorakids.jubelio.store/index.html", "discovery": "2024-09-13 06:02:35", "added": "2024-09-13 06:02:35", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "713da653022fb290b94892fd8da1ce61"}
 {"id": 241899, "url": "http://redwineshoesandb.jubelio.store/index.html", "discovery": "2024-09-13 06:02:33", "added": "2024-09-13 06:02:33", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "dd9e6822ad07e00912e77302dfe8f2e5"}
-{"id": 241898, "url": "http://vineroindonesia.jubelio.store/index.html", "discovery": "2024-09-13 06:02:31", "added": "2024-09-13 06:02:31", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "acb6ceadd4e7e897a4c499423d73137e"}
-{"id": 241897, "url": "http://sharnplastco.jubelio.store/index.html", "discovery": "2024-09-13 06:02:29", "added": "2024-09-13 06:02:29", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "df9a87d3f14a753793bef7f94edad09a"}
-{"id": 241896, "url": "http://gudangtasorichina.com/index.html", "discovery": "2024-09-13 06:02:27", "added": "2024-09-13 06:02:27", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "e33b380bded2dcf6b28d0a90b8fad30f"}

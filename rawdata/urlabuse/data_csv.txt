@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-13 21:00:01 UTC
+# UPDATE: 2024-09-13 22:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+242884, 2024-09-13 21:32:13, 2024-09-13 21:32:13, phishing, 0ec96ce5ff858e5c943a1b5a90c3a691, http://maslowcre.pages.dev
+242883, 2024-09-13 21:32:13, 2024-09-13 21:32:13, phishing, 22f70932d277e51ade1893880eeb66c3, http://maslowcre.pages.dev
+242882, 2024-09-13 21:08:12, 2024-09-13 21:08:12, phishing, ed5fe60480d009585508b6859252962f, http://bluediditllc.pages.dev
 242881, 2024-09-13 20:32:12, 2024-09-13 20:32:12, phishing, 65f87d5a30c20cc01e274b0e24a8a290, http://gratasuphomujaecoprinsehu04.pages.dev
 242880, 2024-09-13 20:27:05, 2024-09-13 20:27:05, malware, 4767427392f74dcfa5831f82f9b52a22, http://78.162.107.134:47254/bin.sh
 242879, 2024-09-13 20:26:51, 2024-09-13 20:26:51, malware, c63b6d06457540ed8dbe93267a2b4892, http://61.52.54.125:60632/i
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 241901, 2024-09-13 06:02:35, 2024-09-13 06:02:35, hacked, 2b72e3c14fcc8e6b483ec5ca4755bb0d, http://saylistore.jubelio.store/index.html
 241900, 2024-09-13 06:02:35, 2024-09-13 06:02:35, hacked, 713da653022fb290b94892fd8da1ce61, http://yoorakids.jubelio.store/index.html
 241899, 2024-09-13 06:02:33, 2024-09-13 06:02:33, hacked, dd9e6822ad07e00912e77302dfe8f2e5, http://redwineshoesandb.jubelio.store/index.html
-241898, 2024-09-13 06:02:31, 2024-09-13 06:02:31, hacked, acb6ceadd4e7e897a4c499423d73137e, http://vineroindonesia.jubelio.store/index.html
-241897, 2024-09-13 06:02:29, 2024-09-13 06:02:29, hacked, df9a87d3f14a753793bef7f94edad09a, http://sharnplastco.jubelio.store/index.html
-241896, 2024-09-13 06:02:27, 2024-09-13 06:02:27, hacked, e33b380bded2dcf6b28d0a90b8fad30f, http://gudangtasorichina.com/index.html
