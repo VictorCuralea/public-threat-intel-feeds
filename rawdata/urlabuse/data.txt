@@ -6,7 +6,7 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-14 09:00:01 UTC
+# UPDATE: 2024-09-14 10:00:01 UTC
 ############### END COMMENTS ###############
 {"id": 243241, "url": "http://toekc.im", "discovery": "2024-09-14 08:50:13", "added": "2024-09-14 08:50:13", "target": "imToken", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "07ad4b821bc2dc83624c98eafc9de79c"}
 {"id": 243240, "url": "http://93.123.85.141/hiddenbin/boatnet.x86_64", "discovery": "2024-09-14 08:29:34", "added": "2024-09-14 08:29:34", "target": "#ELF64", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "1cf366e1229942c6866752244fcb7d88"}
