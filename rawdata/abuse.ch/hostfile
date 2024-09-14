@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-14 08:00:56 UTC                        #
+# Last updated: 2024-09-14 11:50:38 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	loginge.com
 127.0.0.1	www.analyze.pythr.net
 127.0.0.1	qtvzudev.pythr.net
 127.0.0.1	www.visual.ethergases.app
@@ -8266,4 +8267,4 @@
 127.0.0.1	kumbaraan.com
 127.0.0.1	cdn-1488.winstate.cc
 127.0.0.1	jspassport.ssl.qhimg.com.dsa.dnsv1.com
-# Number of entries: 8260
+# Number of entries: 8261

@@ -6,8 +6,9 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-14 11:00:01 UTC
+# UPDATE: 2024-09-14 12:00:02 UTC
 ############### END COMMENTS ###############
+{"id": 243403, "url": "http://unipokabased.pages.dev", "discovery": "2024-09-14 11:34:15", "added": "2024-09-14 11:34:15", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "958053e58beacbb957f4f081384ca9e7"}
 {"id": 243402, "url": "http://checkhtml8274hsjbsfkhmail334httpakfhkajfbikmailtoolee3sbox.pages.dev", "discovery": "2024-09-14 10:54:10", "added": "2024-09-14 10:54:10", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "a22559aceec46a7339aadb2478ce3fbb"}
 {"id": 243398, "url": "http://token.cqywb.com", "discovery": "2024-09-14 10:52:19", "added": "2024-09-14 10:52:19", "target": "Token Pocket", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "51e46d08bf4ed38c6595105fdfe54822"}
 {"id": 243374, "url": "http://95.132.79.20:41817/i", "discovery": "2024-09-14 10:29:20", "added": "2024-09-14 10:29:20", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "3fdb93c8932f4f5ba12a3111e3ff1a6c"}
@@ -507,4 +508,3 @@
 {"id": 242739, "url": "http://carte-vitale-ameli.site", "discovery": "2024-09-13 17:42:15", "added": "2024-09-13 17:42:15", "target": "FR-GOV", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "5b6ab24d9d600bb498efc912fd278b9e"}
 {"id": 242738, "url": "http://cartf0.site.tb-hosting.com", "discovery": "2024-09-13 17:38:12", "added": "2024-09-13 17:38:12", "target": "FR-GOV", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "fd16d81e2419d2656ad36e5df645d34b"}
 {"id": 242735, "url": "http://solicitaemprest.atuacadast.site", "discovery": "2024-09-13 17:10:15", "added": "2024-09-13 17:10:15", "target": "CAIXA-BR", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "47423f6444ea0bd4ebbe3bd35f5b2317"}
-{"id": 242733, "url": "https://removalgoodsfreightltd.com/gxqg5dPZ3/mjg9qxafu9egloik/login.php?client_id=CpakDnSm7z5OAStnuoHrxskUZtGNGobnlDL9PuE7N2ceoZfphNsYYEPTE33cWWq1g", "discovery": "2024-09-13 15:42:13", "added": "2024-09-13 17:09:00", "target": "LHV", "reporter": "CERT-EE", "AbuseType": "phishing", "UUID": "a0ce8ef9379612e66eecdf48daee0248"}
