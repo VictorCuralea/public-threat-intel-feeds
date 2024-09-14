@@ -1,11 +1,23 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-13 21:37:09 UTC                        #
+# Last updated: 2024-09-14 00:01:19 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	hdobussl.ethergases.app
+127.0.0.1	wwwwwwwp.ethergases.app
+127.0.0.1	layerzero-crystaldash.co
+127.0.0.1	wwwhdobussl.ethergases.app
+127.0.0.1	www.wwwsuperset.ethergases.app
+127.0.0.1	wwwdev.ethergases.app
+127.0.0.1	mail.back-dev.hook.app.br
+127.0.0.1	wwwkfrlllogin.ethergases.app
+127.0.0.1	wwwchart.ethergases.app
+127.0.0.1	metis-launchpad.app
+127.0.0.1	launchpads-metis.app
+127.0.0.1	www.kfrlllogin.ethergases.app
 127.0.0.1	sixvd16pt.top
 127.0.0.1	tventyvd20ht.top
 127.0.0.1	eihtv18pn.top
@@ -8252,4 +8264,4 @@
 127.0.0.1	cdn-1488.winstate.cc
 127.0.0.1	jspassport.ssl.qhimg.com.dsa.dnsv1.com
 127.0.0.1	docloudstorage.com
-# Number of entries: 8246
+# Number of entries: 8258
