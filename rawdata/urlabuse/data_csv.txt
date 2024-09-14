@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-14 19:00:02 UTC
+# UPDATE: 2024-09-14 20:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+243877, 2024-09-14 19:48:13, 2024-09-14 19:48:13, phishing, 8d0ff6e2735b49d994211efca595df48, http://onlychatsexss.pages.dev
+243876, 2024-09-14 19:22:15, 2024-09-14 19:22:15, phishing, 51c1c00a2cdf856f3d9cf171a7e243ff, http://instagran.fr
 243875, 2024-09-14 18:27:29, 2024-09-14 18:27:29, malware, 2aa6884416244e4c89b995159e83cf10, http://94.156.71.126/mpsl
 243874, 2024-09-14 18:27:29, 2024-09-14 18:27:29, malware, ab57a2b50829425ca10a3d843a4de297, http://94.156.71.126/mips
 243873, 2024-09-14 18:27:19, 2024-09-14 18:27:19, malware, 672708fa80114d8e8bbae03f300547ed, http://61.52.43.47:43409/i
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 243015, 2024-09-14 02:23:57, 2024-09-14 02:23:57, malware, e657641971bd43c78919569e670a5233, http://182.123.196.254:41346/i
 243014, 2024-09-14 02:23:54, 2024-09-14 02:23:54, malware, a9fdf5ecc2a84908843843103f261e1f, http://182.123.196.254:41346/bin.sh
 243013, 2024-09-14 02:23:52, 2024-09-14 02:23:52, malware, 86c8df416eba480bb094e778d11b03c8, http://182.119.13.111:36931/i
-243012, 2024-09-14 02:23:50, 2024-09-14 02:23:50, malware, f6f47c0dfa3f4a6087755f5f686c9c04, http://182.113.38.200:41224/bin.sh
-243011, 2024-09-14 02:23:47, 2024-09-14 02:23:47, malware, f4ea7e5f28f24e4fbb09b27454841857, http://125.44.58.33:54625/bin.sh
