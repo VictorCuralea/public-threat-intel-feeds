@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-14 17:00:01 UTC
+# UPDATE: 2024-09-14 18:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+243845, 2024-09-14 17:04:15, 2024-09-14 17:04:15, phishing, d0e6e38775f8294a029b334f88b39701, http://redex-exch.pages.dev
 243844, 2024-09-14 16:50:13, 2024-09-14 16:50:13, phishing, c47ead80ddc89ba2accd926dee927486, https://www.dgcreations.in/
 243843, 2024-09-14 16:48:15, 2024-09-14 16:48:15, phishing, 436c37751b1fe2a60d3e571913bd1565, http://dgcreations.in
 243832, 2024-09-14 16:27:40, 2024-09-14 16:27:40, malware, 75dbf9b8cd4c410a8e22472ec0c4cb83, http://61.52.43.47:43409/bin.sh
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 242983, 2024-09-14 00:25:40, 2024-09-14 00:25:40, malware, 44190b7fb7fb4228aba82087433dd7f1, http://45.164.178.6:11220/bin.sh
 242982, 2024-09-14 00:25:39, 2024-09-14 00:25:39, malware, 67f95c465e1b41aa9afff4125180a756, http://42.234.145.208:48494/i
 242981, 2024-09-14 00:25:30, 2024-09-14 00:25:30, malware, 474803b19d234cf598391b12506e2f9f, http://42.231.66.201:34507/i
-242980, 2024-09-14 00:25:27, 2024-09-14 00:25:27, malware, 8dcaf3efa619466ca0bac0dc7fd964fd, http://42.230.60.89:41283/i
