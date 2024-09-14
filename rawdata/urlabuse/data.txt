@@ -6,8 +6,11 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-14 03:00:01 UTC
+# UPDATE: 2024-09-14 04:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 243048, "url": "https://e-vmlt-mano-kliente-lt.pages.dev/o", "discovery": "2024-09-14 02:04:11", "added": "2024-09-14 03:11:06", "target": "VMI", "reporter": "CERT-EE", "AbuseType": "phishing", "UUID": "5fed2d9a0c1b2714bffe3e722111d2ce"}
+{"id": 243047, "url": "https://technical-project-mobile-apptowner2024.pages.dev/&", "discovery": "2024-09-14 02:00:13", "added": "2024-09-14 03:10:36", "target": "SEB", "reporter": "CERT-EE", "AbuseType": "phishing", "UUID": "2ffec83dd10e0df31b129671fa0c229b"}
+{"id": 243046, "url": "https://e-vim-lt.com/", "discovery": "2024-09-14 02:02:12", "added": "2024-09-14 03:10:00", "target": "VMI", "reporter": "CERT-EE", "AbuseType": "phishing", "UUID": "3bf2c9104050e60795985bb91fbb4306"}
 {"id": 243045, "url": "https://ldy.imtoken-hk.com/c/", "discovery": "2024-09-14 02:30:17", "added": "2024-09-14 02:30:17", "target": "imToken", "reporter": "lrucbotd", "AbuseType": "phishing", "UUID": "00f8cd02960ccd0402f60ae434b2bef7"}
 {"id": 243044, "url": "http://hhanggroup.com", "discovery": "2024-09-14 02:28:23", "added": "2024-09-14 02:28:23", "target": "imToken", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "b1b3bc9e2a3f86fd3dafc51ba2e219ff"}
 {"id": 243043, "url": "http://78.165.102.160:33670/bin.sh", "discovery": "2024-09-14 02:27:58", "added": "2024-09-14 02:27:58", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "4018cc16d3a44024bf68f392cb9bfb0c"}
@@ -505,6 +508,3 @@
 {"id": 242073, "url": "https://lifetechscenefo.com.de/ls6xy/", "discovery": "2024-09-13 08:50:10", "added": "2024-09-13 08:50:10", "target": "Microsoft", "reporter": "KTSC", "AbuseType": "phishing", "UUID": "1e8485e663882f6b439d118938e2816a"}
 {"id": 242072, "url": "https://mec-help.freshdesk.com/support/solutions/articles/157000000205-mec-insenerilahendused-arve-nr-2043802347", "discovery": "2024-09-13 08:50:00", "added": "2024-09-13 08:50:00", "target": "Microsoft", "reporter": "KTSC", "AbuseType": "phishing", "UUID": "62e397e583e209ce9a1c0e6932d6da6d"}
 {"id": 242071, "url": "https://urbanlifedigitalji.za.com/mbo5/", "discovery": "2024-09-13 08:49:11", "added": "2024-09-13 08:49:11", "target": "Microsoft", "reporter": "KTSC", "AbuseType": "phishing", "UUID": "83d7134cda362943993c71e96247db6a"}
-{"id": 242070, "url": "https://lhv-ee.desiertosonora.com/Zp1jVq9gH/cxuv2orl4f9b7eq5/login.php", "discovery": "2024-09-13 08:48:05", "added": "2024-09-13 08:48:05", "target": "LHV", "reporter": "KTSC", "AbuseType": "phishing", "UUID": "c95e5c19c964efa8e0e93502b7b02120"}
-{"id": 242069, "url": "https://lhv-ee.gulfinsurance.llc/gHDc2A24CWIvTQFgAVlA", "discovery": "2024-09-13 08:47:32", "added": "2024-09-13 08:47:32", "target": "LHV", "reporter": "KTSC", "AbuseType": "phishing", "UUID": "9c15e4a97ed43f50538823b4d7627378"}
-{"id": 242068, "url": "http://kevin.vidalens.free.fr/UC3PriFDH19c0EnWQP", "discovery": "2024-09-13 08:47:18", "added": "2024-09-13 08:47:18", "target": "LHV", "reporter": "KTSC", "AbuseType": "phishing", "UUID": "4b5385f6bd90d833b92c9b5e46b629e4"}
