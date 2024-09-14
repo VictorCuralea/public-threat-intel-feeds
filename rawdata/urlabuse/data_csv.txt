@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-14 21:00:01 UTC
+# UPDATE: 2024-09-14 22:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+243915, 2024-09-14 21:38:16, 2024-09-14 21:38:16, phishing, 285c650294ff95deccd765586dd89814, https://theavtsports.com/tott/AT880/index.html
+243914, 2024-09-14 21:36:13, 2024-09-14 21:36:13, phishing, 87100a5ab2d81e548180c81b8627212e, http://mygov8934849248logging.theavtsports.com
 243913, 2024-09-14 20:26:33, 2024-09-14 20:26:33, malware, 0911f4eeb9a54723a8c8a0130c6583ff, http://61.53.119.176:47568/i
 243912, 2024-09-14 20:26:18, 2024-09-14 20:26:18, malware, 1c29bcf526e9444683b395396edf397f, http://59.96.200.141:34117/Mozi.m
 243911, 2024-09-14 20:25:39, 2024-09-14 20:25:39, malware, 15a917ee79fd4c02a75daff10058c7bc, http://59.183.123.232:40714/Mozi.m
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 243053, 2024-09-14 04:20:24, 2024-09-14 04:20:24, malware, fea7bbc232734c34b520d241829a6281, http://115.52.0.84:33294/bin.sh
 243052, 2024-09-14 04:20:22, 2024-09-14 04:20:22, malware, f29ad92604424aeb9e70b1e37ca0ce75, http://115.48.153.79:45345/i
 243051, 2024-09-14 04:20:12, 2024-09-14 04:20:12, phishing, 83f0090d464ce02015f3a1781eab8f70, http://leymicc.com
-243050, 2024-09-14 04:20:09, 2024-09-14 04:20:09, malware, 1c4dbaed70774da28071d25fd2d48b47, http://112.247.86.215:60366/i
-243049, 2024-09-14 04:20:06, 2024-09-14 04:20:06, malware, dae7bed3ae88484c800834f312552358, http://112.247.86.215:60366/bin.sh
