@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-14 17:26:25 UTC                        #
+# Last updated: 2024-09-14 20:27:27 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	blakaa.duckdns.org
 127.0.0.1	bush-granted.gl.at.ply.gg
 127.0.0.1	boards-particular.gl.at.ply.gg
 127.0.0.1	can-h.gl.at.ply.gg
@@ -8327,4 +8328,4 @@
 127.0.0.1	1v.nz
 127.0.0.1	t6m.pics
 127.0.0.1	bot.nhankimcuong.vn
-# Number of entries: 8321
+# Number of entries: 8322
