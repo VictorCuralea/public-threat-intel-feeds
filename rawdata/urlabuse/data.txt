@@ -6,7 +6,7 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-14 15:00:01 UTC
+# UPDATE: 2024-09-14 16:00:02 UTC
 ############### END COMMENTS ###############
 {"id": 243543, "url": "http://hotel.synchronousdigital.com/index.php", "discovery": "2024-09-14 14:03:52", "added": "2024-09-14 14:03:52", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "35e5c00dc4133cce6b11a7dc2b41c2d8"}
 {"id": 243542, "url": "http://nabil.synchronousdigital.com/index.php", "discovery": "2024-09-14 14:03:51", "added": "2024-09-14 14:03:51", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "032a1ea90c9c8f350c55ad91bb898adc"}
