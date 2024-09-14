@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-14 05:00:01 UTC
+# UPDATE: 2024-09-14 06:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+243099, 2024-09-14 05:38:12, 2024-09-14 05:38:12, phishing, 1c9b02bef230e1d08786d64ab23ef727, http://docuscan-3ap.pages.dev
 243098, 2024-09-14 04:52:12, 2024-09-14 04:52:12, phishing, 387c6dc7751a025c9dcd2110057ad7a8, http://headlinesponsurditaminationdomainservicecomunicationalsav2.pages.dev
 243097, 2024-09-14 04:50:15, 2024-09-14 04:50:15, phishing, a5489cf3fc5af795bfe1ffa35d0fbc6b, http://feiji.pg-bw.com
 243096, 2024-09-14 04:28:13, 2024-09-14 04:28:13, phishing, 0510c4c85d14836f8411d24ce2c90719, http://newlpsol.pages.dev
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 242126, 2024-09-13 10:25:23, 2024-09-13 10:25:23, malware, 43517c534dd54fe380d995170ed94cfb, http://182.126.94.133:34562/i
 242125, 2024-09-13 10:25:19, 2024-09-13 10:25:19, malware, b19d1bd97cfc48cea1583d818f530350, http://182.124.176.170:45983/i
 242124, 2024-09-13 10:25:17, 2024-09-13 10:25:17, malware, 1d631022422c4c17af29d18ab188d6e0, http://182.124.176.170:45983/bin.sh
-242123, 2024-09-13 10:25:15, 2024-09-13 10:25:15, malware, 7c8e181beab94b9e9c845f71ea743ccb, http://182.123.208.44:55023/bin.sh
