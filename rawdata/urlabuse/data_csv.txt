@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-13 23:00:01 UTC
+# UPDATE: 2024-09-14 00:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+242938, 2024-09-13 23:18:10, 2024-09-13 23:18:10, phishing, cb4724778e0c3c785ebb8e30ec55bfdd, http://5uxfno.pages.dev
 242937, 2024-09-13 22:56:12, 2024-09-13 22:56:12, phishing, 9640cdf928c90b2e4c2cbedbb6385380, http://cff101dj9302ikdkd93i3jk2k49d9007.pages.dev
 242936, 2024-09-13 22:26:07, 2024-09-13 22:26:07, malware, eb6320964eeb445e94b4a11593ee23ab, http://61.53.89.168:37874/bin.sh
 242935, 2024-09-13 22:26:05, 2024-09-13 22:26:05, malware, 95f79b6368374a0292c79b5055827d48, http://61.52.85.71:38060/i
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 241955, 2024-09-13 06:23:53, 2024-09-13 06:23:53, malware, f0339a6e9868453fb07b9e161c53a1c0, http://182.112.48.72:39246/bin.sh
 241954, 2024-09-13 06:23:50, 2024-09-13 06:23:50, malware, 9c54456fced74a77b9464b49ac212c37, http://14.136.163.134:37894/i
 241953, 2024-09-13 06:23:47, 2024-09-13 06:23:47, malware, c8c738a4ca8f4f2489a41a8d8b712d62, http://14.136.163.134:37894/bin.sh
-241952, 2024-09-13 06:23:44, 2024-09-13 06:23:44, malware, 6a2f3a837a02437f95319c94ca4c48e2, http://125.46.196.132:42159/i
