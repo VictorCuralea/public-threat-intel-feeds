@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-15 15:00:02 UTC
+# UPDATE: 2024-09-15 16:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+244498, 2024-09-15 15:06:17, 2024-09-15 15:06:17, phishing, cdb9aba8ce2c349b20c4ee4c5520e197, http://ai.lcyteam.us.kg
 244497, 2024-09-15 14:56:13, 2024-09-15 14:56:13, phishing, cd53d58b90ace6e9d343db51d3d2c4f6, http://sso-maiwebsrvr-5tefwwr3rf.pages.dev
 244496, 2024-09-15 14:54:15, 2024-09-15 14:54:15, phishing, 5ac8b8d167f3c813b98e5fae32efaebc, http://mes-demande-renouvellement-assure.fr
 244495, 2024-09-15 14:40:16, 2024-09-15 14:40:16, phishing, 1d2c52a754fdf8f547605ab587ea9b84, http://defdapp-protocol.pages.dev
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 243493, 2024-09-14 13:25:48, 2024-09-14 13:25:48, malware, 4a8fbc7a2e714579a2bd83904614ed08, http://42.224.112.238:34399/i
 243492, 2024-09-14 13:25:45, 2024-09-14 13:25:45, malware, 3435bf3afc8d43439a3299c9a0d450ba, http://42.224.112.238:34399/
 243491, 2024-09-14 13:25:43, 2024-09-14 13:25:43, malware, e8f0d494f42d436fab0854ea5d803838, http://222.142.254.140:51830/bin.sh
-243490, 2024-09-14 13:25:41, 2024-09-14 13:25:41, malware, 7653a7e4490d4f8bb9edfe13c66a7a2f, http://222.142.211.77:53430/bin.sh
