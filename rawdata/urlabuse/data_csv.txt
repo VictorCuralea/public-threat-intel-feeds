@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-15 09:00:01 UTC
+# UPDATE: 2024-09-15 10:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+244216, 2024-09-15 09:20:17, 2024-09-15 09:20:17, phishing, 61e05d71a2d97749dd64c04bed0d11d8, http://revenue-explorer.pages.dev
 244182, 2024-09-15 08:44:30, 2024-09-15 07:18:16, phishing, af8d7d18fefcf49e03a6426a2b279ee6, https://uttermost-need.surge.sh/form.html
 244149, 2024-09-15 08:32:15, 2024-09-15 08:32:15, phishing, 4609d51813cfe105c85fe23ec5552e70, http://atomicwallet-5lm.pages.dev
 244148, 2024-09-15 08:22:24, 2024-09-15 08:22:24, malware, 8a7b987a6aeb469194b386897513014a, http://61.53.133.249:56330/i
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 243413, 2024-09-14 12:21:18, 2024-09-14 12:21:18, malware, 7c1a98bf62a74d0987cce55b659bc4e3, http://117.201.235.45:55411/i
 243412, 2024-09-14 12:20:23, 2024-09-14 12:20:23, malware, a3c0edcfbc9a46d3a53c15486372793e, http://115.57.29.131:42913/bin.sh
 243411, 2024-09-14 12:20:21, 2024-09-14 12:20:21, malware, 19ca092b3449434bad98f6f92a8b5ee1, http://115.55.226.228:56738/bin.sh
-243410, 2024-09-14 12:20:18, 2024-09-14 12:20:18, malware, d2776140bbb7436d81445c0152ea5861, http://115.51.103.174:52102/Mozi.m
