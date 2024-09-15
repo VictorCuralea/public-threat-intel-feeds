@@ -1,11 +1,17 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-15 00:02:02 UTC                        #
+# Last updated: 2024-09-15 04:01:44 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	www.secure.ethergases.app
+127.0.0.1	sowgoowa.ethergases.app
+127.0.0.1	www.wwwsecure.ethergases.app
+127.0.0.1	www.wwwsowgoowa.ethergases.app
+127.0.0.1	www.wwwwebmail.ethergases.org
+127.0.0.1	www.wwwreporting.ethergases.app
 127.0.0.1	159-223-62-95.cprapid.com
 127.0.0.1	ant-reclamation.com
 127.0.0.1	185-47-174-89.cloud-xip.com
@@ -8344,4 +8350,4 @@
 127.0.0.1	1v.nz
 127.0.0.1	t6m.pics
 127.0.0.1	bot.nhankimcuong.vn
-# Number of entries: 8338
+# Number of entries: 8344

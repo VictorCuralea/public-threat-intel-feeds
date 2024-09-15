@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-15 04:00:02 UTC
+# UPDATE: 2024-09-15 05:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+244062, 2024-09-15 04:32:14, 2024-09-15 04:32:14, phishing, c78ae9bbb4b279c05af137f25a4a435a, http://ff.memberrs.garanav.vn
 244061, 2024-09-15 03:32:13, 2024-09-15 03:32:13, phishing, 8e8970d4b3fe90a6d01509c4793f55ce, http://blockunified-apps.pages.dev
 244060, 2024-09-15 03:30:13, 2024-09-15 03:30:13, phishing, ac0d95bdedc261f4e1ab9bb75d988035, http://meetmeatthejunction5.pages.dev
 244059, 2024-09-15 03:24:53, 2024-09-15 03:24:53, malware, 3c132cdb50b34f1399f69d413a5bc059, http://59.99.142.171:40348/i
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 243200, 2024-09-14 08:25:59, 2024-09-14 08:25:59, malware, c9c786b8f69040269c5398d2a02523e8, http://182.119.231.44:47822/bin.sh
 243199, 2024-09-14 08:25:57, 2024-09-14 08:25:57, malware, 0fa1c5b438c94c16914db095353dd792, http://182.115.68.166:50713/i
 243198, 2024-09-14 08:25:55, 2024-09-14 08:25:55, malware, 9e3e3ab2525b4e2e8fc232c8005dfabe, http://182.112.59.203:57198/i
-243197, 2024-09-14 08:25:53, 2024-09-14 08:25:53, malware, aa45e5cf71e94f2e983f9137f22f3ea6, http://182.112.28.127:47296/i
