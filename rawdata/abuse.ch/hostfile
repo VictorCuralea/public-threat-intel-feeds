@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-15 19:38:10 UTC                        #
+# Last updated: 2024-09-15 20:01:03 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	analytic.ethergases.app
+127.0.0.1	www.wwwhdobussl.ethergases.app
 127.0.0.1	domainlumm.fun
 127.0.0.1	speednewapp.monster
 127.0.0.1	topnewapp.monster
@@ -8411,4 +8413,4 @@
 127.0.0.1	onlinetraveler.net
 127.0.0.1	update.mozilia-tm.org
 127.0.0.1	z886888.top
-# Number of entries: 8405
+# Number of entries: 8407
