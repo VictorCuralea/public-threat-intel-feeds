@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-14 20:27:27 UTC                        #
+# Last updated: 2024-09-14 23:50:33 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	net.fuerer-net.ru
+127.0.0.1	vpsprivate.xyz
+127.0.0.1	185.196.10.128.vpsprivate.xyz
+127.0.0.1	185.196.10.129.vpsprivate.xyz
+127.0.0.1	jaimelecaca.com
 127.0.0.1	blakaa.duckdns.org
 127.0.0.1	bush-granted.gl.at.ply.gg
 127.0.0.1	boards-particular.gl.at.ply.gg
@@ -8328,4 +8333,4 @@
 127.0.0.1	1v.nz
 127.0.0.1	t6m.pics
 127.0.0.1	bot.nhankimcuong.vn
-# Number of entries: 8322
+# Number of entries: 8327
