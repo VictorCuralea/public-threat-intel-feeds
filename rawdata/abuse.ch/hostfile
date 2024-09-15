@@ -1,11 +1,20 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-15 04:01:44 UTC                        #
+# Last updated: 2024-09-15 08:01:31 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	static.247.68.76.144.clients.your-server.de
+127.0.0.1	forecast.pythr.net
+127.0.0.1	www.supersets.ethergases.org
+127.0.0.1	wwwvpn.pythr.net
+127.0.0.1	analytics.pythr.net
+127.0.0.1	wwwsuperset.pythr.net
+127.0.0.1	2024.ethergases.org
+127.0.0.1	wwwwwwcnlenwwwofficevpn.pythr.net
+127.0.0.1	www.wwwwwwwwwwwwvirtualstudent.pythr.net
 127.0.0.1	www.secure.ethergases.app
 127.0.0.1	sowgoowa.ethergases.app
 127.0.0.1	www.wwwsecure.ethergases.app
@@ -8336,4 +8345,4 @@
 127.0.0.1	trackgroup.net
 127.0.0.1	businessprofessionalllc.com
 127.0.0.1	service-mx77zdhn-1303081427.sh.tencentapigw.com
-# Number of entries: 8330
+# Number of entries: 8339
