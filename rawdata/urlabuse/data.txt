@@ -6,8 +6,16 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-15 18:00:01 UTC
+# UPDATE: 2024-09-15 19:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 244585, "url": "http://62.204.41.159/db293a2c1b1c70c4/vcruntime140.dll", "discovery": "2024-09-15 18:24:53", "added": "2024-09-15 18:24:53", "target": "#PE32DLL_CMD", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "53f856542aa84eb69764b71b898fd59f"}
+{"id": 244584, "url": "http://62.204.41.159/db293a2c1b1c70c4/sqlite3.dll", "discovery": "2024-09-15 18:24:53", "added": "2024-09-15 18:24:53", "target": "#PE32DLL_CMD", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "3150936b287a4118ae5367b51fd5aca8"}
+{"id": 244583, "url": "http://62.204.41.159/db293a2c1b1c70c4/msvcp140.dll", "discovery": "2024-09-15 18:24:36", "added": "2024-09-15 18:24:36", "target": "#PE32DLL_CMD", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "1a4cf608729c4d08af7997246d31fc4b"}
+{"id": 244582, "url": "http://59.88.13.77:53205/Mozi.m", "discovery": "2024-09-15 18:23:17", "added": "2024-09-15 18:23:17", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "6132df4a120c47f2b3ff214bb75a6936"}
+{"id": 244581, "url": "http://espace-assurance-maladie.info", "discovery": "2024-09-15 18:22:15", "added": "2024-09-15 18:22:15", "target": "FR-GOV", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "bf34e5d9219e5f76d98f37615ebc09e1"}
+{"id": 244580, "url": "http://5.188.86.71/8fea5587cedd1725/vcruntime140.dll", "discovery": "2024-09-15 18:21:54", "added": "2024-09-15 18:21:54", "target": "#PE32DLL_CMD", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "e52fba6f5735460bab7f84bccb1e6603"}
+{"id": 244579, "url": "http://5.188.86.71/8fea5587cedd1725/sqlite3.dll", "discovery": "2024-09-15 18:21:54", "added": "2024-09-15 18:21:54", "target": "#PE32DLL_CMD", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "dc228520816a4916aa556f90fd67cbb3"}
+{"id": 244578, "url": "http://5.188.86.71/8fea5587cedd1725/msvcp140.dll", "discovery": "2024-09-15 18:21:39", "added": "2024-09-15 18:21:39", "target": "#PE32DLL_CMD", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "ffcc27bf5cc344fa9b03d3a7959b335e"}
 {"id": 244577, "url": "http://daperchain.pages.dev", "discovery": "2024-09-15 17:50:17", "added": "2024-09-15 17:50:17", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "e144cc71e7bfe47a995bc4e6b2f466db"}
 {"id": 244576, "url": "http://optsbuildfi.pages.dev", "discovery": "2024-09-15 17:48:17", "added": "2024-09-15 17:48:17", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "fae1249cece39fd13e257048c7487482"}
 {"id": 244575, "url": "http://42.224.74.210:60025/bin.sh", "discovery": "2024-09-15 17:35:21", "added": "2024-09-15 17:35:21", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "2d9177a3f6ea4b4c8c3047a027a06a3b"}
@@ -500,11 +508,3 @@
 {"id": 243782, "url": "http://219.157.63.23:53230/i", "discovery": "2024-09-14 16:23:36", "added": "2024-09-14 16:23:36", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "9cb9ded9ae0845919057de7550433856"}
 {"id": 243781, "url": "http://219.157.63.23:53230/bin.sh", "discovery": "2024-09-14 16:23:34", "added": "2024-09-14 16:23:34", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "b962519863fa404f818b2b4a6da0912f"}
 {"id": 243779, "url": "http://196.189.9.233:40508/Mozi.a", "discovery": "2024-09-14 16:23:31", "added": "2024-09-14 16:23:31", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "6919aeff217f4b57bacb0ff5319931ec"}
-{"id": 243778, "url": "http://182.123.193.112:42590/i", "discovery": "2024-09-14 16:23:29", "added": "2024-09-14 16:23:29", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "a7883754732d4158b69e3778e19c76e2"}
-{"id": 243777, "url": "http://182.123.193.112:42590/bin.sh", "discovery": "2024-09-14 16:23:27", "added": "2024-09-14 16:23:27", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "b09e6fda984a4c00a341ac88bd23994c"}
-{"id": 243776, "url": "http://182.121.67.2:46652/i", "discovery": "2024-09-14 16:23:24", "added": "2024-09-14 16:23:24", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "1fd5f78df4e5423aa4d83c8ef89cf45d"}
-{"id": 243774, "url": "http://182.116.82.211:44712/bin.sh", "discovery": "2024-09-14 16:23:22", "added": "2024-09-14 16:23:22", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "2efbcf82311e4b30bd41a1d1853ab06b"}
-{"id": 243773, "url": "http://175.107.15.96:41235/Mozi.m", "discovery": "2024-09-14 16:23:20", "added": "2024-09-14 16:23:20", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "d8a36d340c174cd4bdcbe1dbfe676eee"}
-{"id": 243771, "url": "http://138.204.196.254:38508/i", "discovery": "2024-09-14 16:23:13", "added": "2024-09-14 16:23:13", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "d7ef57e14f7a48e88db99647dba311ea"}
-{"id": 243770, "url": "http://125.45.67.58:45690/bin.sh", "discovery": "2024-09-14 16:23:10", "added": "2024-09-14 16:23:10", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "79baf492aa384727b7f3b888a9f864af"}
-{"id": 243769, "url": "http://123.5.23.87:58936/i", "discovery": "2024-09-14 16:23:08", "added": "2024-09-14 16:23:08", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "36ed0ba9b5d74b1cbe03e6561e406cf3"}
