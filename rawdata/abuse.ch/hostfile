@@ -1,11 +1,26 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-15 08:01:31 UTC                        #
+# Last updated: 2024-09-15 10:41:28 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	play.animeku.fun
+127.0.0.1	webmail.animeku.fun
+127.0.0.1	mail.animeku.fun
+127.0.0.1	animeku.ink
+127.0.0.1	e1.animeku.fun
+127.0.0.1	webdisk.animeku.fun
+127.0.0.1	cpcalendars.animeku.fun
+127.0.0.1	animeku.live
+127.0.0.1	animeku.fun
+127.0.0.1	cpanel.animeku.fun
+127.0.0.1	www.animeku.ink
+127.0.0.1	www.animeku.fun
+127.0.0.1	80-251-153-96.cprapid.com
+127.0.0.1	www.animeku.live
+127.0.0.1	cpcontacts.animeku.fun
 127.0.0.1	static.247.68.76.144.clients.your-server.de
 127.0.0.1	forecast.pythr.net
 127.0.0.1	www.supersets.ethergases.org
@@ -8336,13 +8351,4 @@
 127.0.0.1	cheaterpro.live
 127.0.0.1	dns.ontexcare.com
 127.0.0.1	apps.nbcnews.site
-127.0.0.1	ns2.jd-vip.cn
-127.0.0.1	ns1.jd-vip.cn
-127.0.0.1	otxcosmeticscare.com
-127.0.0.1	otxcarecosmetics.com
-127.0.0.1	artstrailman.com
-127.0.0.1	ontexcare.com
-127.0.0.1	trackgroup.net
-127.0.0.1	businessprofessionalllc.com
-127.0.0.1	service-mx77zdhn-1303081427.sh.tencentapigw.com
-# Number of entries: 8339
+# Number of entries: 8345
