@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-15 07:00:01 UTC
+# UPDATE: 2024-09-15 08:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+244130, 2024-09-15 07:02:33, 2024-09-15 07:02:33, phishing, 8710011b40916a86ebfef08de6a249a1, https://chochol.sbs/data/6577821522/payment/Z8T4720b/Mellat.php
 244129, 2024-09-15 06:23:54, 2024-09-15 06:23:54, malware, 7a33695c7db24166b7065e208efe6b3c, http://61.53.200.157:42492/i
 244128, 2024-09-15 06:23:51, 2024-09-15 06:23:51, malware, bfa75d84d33a4c099c4e622e143462bf, http://61.53.200.157:42492/bin.sh
 244127, 2024-09-15 06:23:26, 2024-09-15 06:23:26, malware, 10e1d3c2819e4e9bb9435fd4fbe559fb, http://59.99.213.95:45660/bin.sh
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 243366, 2024-09-14 10:26:14, 2024-09-14 10:26:14, malware, 04b1e6a82ed54191bed7699eb342ac6e, http://27.215.179.53:34070/i
 243365, 2024-09-14 10:25:53, 2024-09-14 10:25:53, malware, dbef75be64bf479a84cab56f8f4a5a68, http://222.138.104.62:57127/i
 243364, 2024-09-14 10:25:51, 2024-09-14 10:25:51, malware, 76095ecf302045158d50d6d804dfcae7, http://222.137.196.115:39305/i
-243363, 2024-09-14 10:25:48, 2024-09-14 10:25:48, malware, ccc89ac8390644c1a264db1fe4a16b28, http://222.137.196.115:39305/bin.sh
