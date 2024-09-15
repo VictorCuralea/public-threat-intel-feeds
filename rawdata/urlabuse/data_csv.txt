@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-15 01:00:01 UTC
+# UPDATE: 2024-09-15 02:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+243995, 2024-09-15 01:47:40, 2024-09-15 01:47:40, phishing, 834cc2626c1a2e3008bec285b508f53e, http://pb3653.cc
+243994, 2024-09-15 01:12:13, 2024-09-15 01:12:13, phishing, 3ae21544dc86f8500faf4a9c858e7bfd, http://aldsf.eespl.com
 243993, 2024-09-15 00:24:54, 2024-09-15 00:24:54, malware, ee5275501f1e475c969e75144fd85139, http://61.53.133.249:56330/bin.sh
 243992, 2024-09-15 00:24:45, 2024-09-15 00:24:45, malware, bfaa97adc7b14c8b9161ffef15b722f9, http://59.99.141.235:48711/bin.sh
 243991, 2024-09-15 00:24:39, 2024-09-15 00:24:39, malware, 3d0d4084f73640259c688023a3dc2702, http://59.97.117.11:52363/bin.sh
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 243133, 2024-09-14 06:25:10, 2024-09-14 06:25:10, malware, 098bb20800b6499681d375b2e2f922b0, http://119.187.203.166:42557/bin.sh
 243132, 2024-09-14 06:25:08, 2024-09-14 06:25:08, malware, f2a41e15a85547c7ba1b0a79ee68ba16, http://119.180.119.161:40901/bin.sh
 243131, 2024-09-14 06:25:06, 2024-09-14 06:25:06, malware, 8295afcddaf249c2a4a3a8c4a740b47d, http://117.255.20.160:45186/bin.sh
-243130, 2024-09-14 06:24:41, 2024-09-14 06:24:41, malware, 71158a736ae74da3a7cbbc026e49ae60, http://117.252.42.0:38960/i
-243129, 2024-09-14 06:24:19, 2024-09-14 06:24:19, malware, 9c4edac6e79b4168838ad6f6d3cf0856, http://117.248.36.9:54465/bin.sh
