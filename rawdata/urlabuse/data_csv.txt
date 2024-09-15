@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-15 13:00:01 UTC
+# UPDATE: 2024-09-15 14:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+244476, 2024-09-15 13:52:11, 2024-09-15 13:52:11, phishing, 55444a09b0ad7566c6ada1d02794804a, http://jamiryosnkakdkaks.world
+244475, 2024-09-15 13:44:11, 2024-09-15 13:44:11, phishing, db820282e507d9cbaf5a39439f6b4662, http://encrypted-message.pages.dev
+244474, 2024-09-15 13:04:15, 2024-09-15 13:04:15, phishing, d774a1184729c0feb3cde74187bbcd21, https://poczta.zepak.com.pl/CookieAuth.dll?GetLogon?curl=Z2Fowa&reason=0&formdir=1
+244473, 2024-09-15 13:03:27, 2024-09-15 13:03:27, phishing, 6b96905b727a8e5ed8e58f8efcab8d15, https://tiger.pakgornictwo.com.pl/
 244472, 2024-09-15 12:56:15, 2024-09-15 12:56:15, phishing, eb28c8c8e6eed03cec1e2cfc7b5cc141, http://mirror-tk.pages.dev
 244444, 2024-09-15 12:35:17, 2024-09-15 12:35:17, phishing, 0e0704122f23f03b8cc2bb979343edaf, https://myworkspaceb7b88.myclickfunnels.com/client/ds6fds3v2ds2sd1v84rgv21svsdv0grz498ve1fdc2svd45dvarxhqbbcvxauwtrhv8auanpugsgbhpyageasqhwbwbub1b1vwawagwwouufikab0ndlzzt18adguawvqfwwigbwydvarxhqbbcvxauqhwbwbuvxbl4jaa
 244438, 2024-09-15 12:34:36, 2024-09-15 12:34:36, phishing, 6d3174522f34ab62430de972958a5558, https://www.cleansweepfireplace.com/check
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 243471, 2024-09-14 13:23:25, 2024-09-14 13:23:25, malware, 4451362eb2824bb4bcb04750a33c9d53, http://119.187.241.199:60602/i
 243470, 2024-09-14 13:23:23, 2024-09-14 13:23:23, malware, 3726e30ed98e43e99244bc9f81d89506, http://119.187.241.199:60602/bin.sh
 243469, 2024-09-14 13:23:00, 2024-09-14 13:23:00, malware, dc73d6073c2947b59a7661df10b69dca, http://117.254.178.156:36423/Mozi.m
-243468, 2024-09-14 13:22:38, 2024-09-14 13:22:38, malware, 99e029c91a134b7c9d8be2607f5b2615, http://117.248.171.42:43235/
-243467, 2024-09-14 13:21:12, 2024-09-14 13:21:12, malware, 69f098b15e774dcb839d91418d525442, http://117.215.217.157:40164/i
-243466, 2024-09-14 13:21:03, 2024-09-14 13:21:03, malware, b9e6ae6e448d4936b28f4b3c13e96381, http://117.215.217.157:40164/bin.sh
-243465, 2024-09-14 13:20:53, 2024-09-14 13:20:53, malware, 894afec88bdf407eb3e6a6df9b915632, http://117.211.43.170:41716/i
