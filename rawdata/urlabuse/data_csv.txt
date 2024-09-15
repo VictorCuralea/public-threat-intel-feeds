@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-15 19:00:01 UTC
+# UPDATE: 2024-09-15 20:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+244588, 2024-09-15 19:38:12, 2024-09-15 19:38:12, phishing, 7c8127dd2be0c746764bffaa15be8039, http://scroll-zkp.pages.dev
+244587, 2024-09-15 19:04:15, 2024-09-15 19:04:15, phishing, 8932e8891c0d222e47a37dcca76f6933, http://optdsbuildefil.pages.dev
+244586, 2024-09-15 19:02:25, 2024-09-15 19:02:25, phishing, de9d3725bf2aaabe4ddaf5fc15042989, https://invoice-8of.pages.dev/
 244585, 2024-09-15 18:24:53, 2024-09-15 18:24:53, malware, 53f856542aa84eb69764b71b898fd59f, http://62.204.41.159/db293a2c1b1c70c4/vcruntime140.dll
 244584, 2024-09-15 18:24:53, 2024-09-15 18:24:53, malware, 3150936b287a4118ae5367b51fd5aca8, http://62.204.41.159/db293a2c1b1c70c4/sqlite3.dll
 244583, 2024-09-15 18:24:36, 2024-09-15 18:24:36, malware, 1a4cf608729c4d08af7997246d31fc4b, http://62.204.41.159/db293a2c1b1c70c4/msvcp140.dll
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 243786, 2024-09-14 16:23:43, 2024-09-14 16:23:43, malware, 7a3fa2263da3409bb17864ec6fad7070, http://222.138.212.212:48738/i
 243784, 2024-09-14 16:23:40, 2024-09-14 16:23:40, malware, 76ac5d4915654c5eaa98bdc37d53132d, http://222.138.212.212:48738/bin.sh
 243783, 2024-09-14 16:23:38, 2024-09-14 16:23:38, malware, ef0c8fe678664e74b002cf64e1d171c0, http://222.138.212.212:48738/
-243782, 2024-09-14 16:23:36, 2024-09-14 16:23:36, malware, 9cb9ded9ae0845919057de7550433856, http://219.157.63.23:53230/i
-243781, 2024-09-14 16:23:34, 2024-09-14 16:23:34, malware, b962519863fa404f818b2b4a6da0912f, http://219.157.63.23:53230/bin.sh
-243779, 2024-09-14 16:23:31, 2024-09-14 16:23:31, malware, 6919aeff217f4b57bacb0ff5319931ec, http://196.189.9.233:40508/Mozi.a
