@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-15 23:00:01 UTC
+# UPDATE: 2024-09-16 00:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+244649, 2024-09-15 23:22:16, 2024-09-15 23:22:16, phishing, 254f2ca3ebfac885dc28143ee0900cda, http://alphalobstarpal.pages.dev
 244648, 2024-09-15 22:48:17, 2024-09-15 22:48:17, phishing, ddb35d0aadb1ed57a84add1ce3d1680d, http://securetokens-charts.pages.dev
 244647, 2024-09-15 22:40:15, 2024-09-15 22:40:15, phishing, dc10d37a7516c9318896e554e6dadd15, http://generatesxclick.pages.dev
 244646, 2024-09-15 22:38:14, 2024-09-15 22:38:14, phishing, 9dbbea20e165b4d857f772b8620a988d, http://registrongclick.pages.dev
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 243885, 2024-09-14 20:20:49, 2024-09-14 20:20:49, malware, 2c3eeebbb8dd4a2da8d2c7ed56c755d4, http://117.198.52.161:43340/i
 243884, 2024-09-14 20:20:47, 2024-09-14 20:20:47, malware, 3c2998ab225d4012a5d3bdc89f2d46ac, http://117.198.52.161:43340/bin.sh
 243883, 2024-09-14 20:20:34, 2024-09-14 20:20:34, malware, 1ac33eb0d74042a0959a9f49ee9576f1, http://115.55.73.37:34680/bin.sh
-243882, 2024-09-14 20:20:32, 2024-09-14 20:20:32, malware, a13c008150484865bbca5ea5bc5c5541, http://115.55.207.217:47822/bin.sh
