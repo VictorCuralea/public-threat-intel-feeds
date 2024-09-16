@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-16 11:00:01 UTC
+# UPDATE: 2024-09-16 12:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+244881, 2024-09-16 11:06:57, 2024-09-16 10:46:24, phishing, fc0333944b48246361061e955fbdbd47, https://webmail-mail-account-server-update.tiiny.site/#
 244880, 2024-09-16 10:54:14, 2024-09-16 10:54:14, phishing, f23fe5626136321eb4c87b01dfce826b, http://renouvellement-assurance-vitale.com
 244879, 2024-09-16 10:52:13, 2024-09-16 10:52:13, phishing, b009983d570252c24bffd1c9d411e5cc, http://renouvellement-cartevital-ameli.com
 244878, 2024-09-16 10:34:15, 2024-09-16 10:34:15, phishing, d438bf3ee81464e2af42c27a8683ab95, http://dapps-nodeapplication.pages.dev
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 244117, 2024-09-15 06:22:21, 2024-09-15 06:22:21, malware, c4ba64cdee6d4dd093ba1f6f07f848f7, http://125.41.141.64:52738/bin.sh
 244116, 2024-09-15 06:22:00, 2024-09-15 06:22:00, malware, d67c0376be7f4de4a4d0a4b2c722f621, http://117.253.217.201:34898/bin.sh
 244115, 2024-09-15 06:21:34, 2024-09-15 06:21:34, malware, 075c10aec5af496b8a2e217870899c15, http://117.248.168.127:37133/Mozi.m
-244114, 2024-09-15 06:21:31, 2024-09-15 06:21:31, malware, d35f568a01f444388b3a2348dfc6d2d8, http://117.248.164.174:36363/i
