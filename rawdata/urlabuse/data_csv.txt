@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-16 21:00:01 UTC
+# UPDATE: 2024-09-16 22:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+245226, 2024-09-16 21:02:12, 2024-09-16 21:02:12, phishing, 9dd29762f5d57ab40242696ecdcd6f97, http://saiosghsuwyremncbeoiau02.pages.dev
 245225, 2024-09-16 20:29:45, 2024-09-16 20:29:45, malware, db8b1da1a59e420882abef25916fcfce, http://78.165.109.69:33670/bin.sh
 245224, 2024-09-16 20:29:41, 2024-09-16 20:29:41, malware, 1d733d39369b4681a99f674a18f08913, http://78.165.109.69:33670/
 245223, 2024-09-16 20:28:18, 2024-09-16 20:28:18, malware, 93c59d6213214ca5ae78d0fdc85cbb9b, http://42.228.194.254:40339/Mozi.m
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 244604, 2024-09-15 20:25:27, 2024-09-15 20:25:27, malware, 68791c5963d54036957ae56a559eb6d9, http://222.140.208.149:42209/bin.sh
 244603, 2024-09-15 20:25:25, 2024-09-15 20:25:25, malware, ead83a85f58f45429bc1c76eace4546f, http://185.215.113.100/rada/lake.exe
 244602, 2024-09-15 20:25:16, 2024-09-15 20:25:16, malware, 9dd9692ffbe644eb9093dbd4395314a1, http://185.196.11.8/home/A30.exe
-244601, 2024-09-15 20:23:47, 2024-09-15 20:23:47, malware, 91257c5084704cfe9e7c3fb706e70cf5, http://182.112.187.51:49193/bin.sh
