@@ -6,9 +6,16 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-16 03:00:01 UTC
+# UPDATE: 2024-09-16 04:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+244720, 2024-09-16 03:56:13, 2024-09-16 03:56:13, phishing, d2a81ad6c51d7dafcf69a15b3a0593ff, http://tgs.boygift.workers.dev
+244719, 2024-09-16 03:26:39, 2024-09-16 03:26:39, malware, 3579d8a61c0f4c9ab6ad81c1f1f4d97a, https://adl-iirranii.serv00.net/itsOK/Edalat.apk
+244718, 2024-09-16 03:25:32, 2024-09-16 03:25:32, phishing, b374396f070227fbcdda82768b97358e, https://adl-iirranii.serv00.net/itsOK/
+244717, 2024-09-16 03:25:06, 2024-09-16 02:49:07, phishing, dace08bde6c237b33070a4344396543f, https://6tvddvervver3vvf.br-gru-1.linodeobjects.com/aufedfdfdfto.HTML#x
+244716, 2024-09-16 03:24:43, 2024-09-16 02:40:04, phishing, 9762fc3c529d453c78a065ec9788d97f, https://docsend.com/view/y9bm43kmuq4nj4q4#x
+244715, 2024-09-16 03:24:30, 2024-09-16 02:22:09, phishing, de2461bfba457716669d1ec60b96f296, https://triton.url.com.tw.gatcontrol.co/VUtdXupS
+244714, 2024-09-16 03:24:14, 2024-09-16 02:11:30, phishing, ac38f5f9ff38dabf97eae1324a04302f, https://pub-3e1369c4f7914306a59c80cb87924fc8.r2.dev/jnd1.html?sp1=secur.html#
 244713, 2024-09-16 02:32:15, 2024-09-16 02:32:15, phishing, f937b290966b525e6e88bd9c3ce0a6ec, http://loomsteadifydao.pages.dev
 244712, 2024-09-16 02:24:27, 2024-09-16 02:24:27, malware, 6c2880ef6b314190bbe0a55f6240b5e0, http://78.178.111.74:42682/bin.sh
 244711, 2024-09-16 02:22:56, 2024-09-16 02:22:56, malware, 1e7af259f19747d79f8db6c1f7ee391a, http://42.239.168.131:38436/i
@@ -502,10 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 243956, 2024-09-14 22:36:17, 2024-09-14 22:36:17, phishing, 7226ff3488e35353b43520ef18c66670, http://defyluyu.pages.dev
 243955, 2024-09-14 22:23:39, 2024-09-14 22:23:39, malware, 26418e5f513740e1ac61f463b971b3c5, http://61.53.133.249:56330/
 243954, 2024-09-14 22:23:27, 2024-09-14 22:23:27, malware, 27a95d0c56b34a7e846a9125cbbf0dbf, http://59.93.235.252:42620/bin.sh
-243953, 2024-09-14 22:23:07, 2024-09-14 22:23:07, malware, 4c0da31583c941ddb02e878b9f9b22d4, http://59.183.134.244:48306/Mozi.m
-243952, 2024-09-14 22:22:44, 2024-09-14 22:22:44, malware, decdf253b47e48a08a13b6ce526d9d2b, http://59.182.100.34:35082/i
-243951, 2024-09-14 22:22:39, 2024-09-14 22:22:39, malware, 7a98ee17dd67432f9fc41f89482dda4e, http://59.182.100.34:35082/bin.sh
-243950, 2024-09-14 22:22:27, 2024-09-14 22:22:27, malware, 8d30d460d4c443c9aa6001c61edbf7f5, http://5.79.231.6:33073/bin.sh
-243949, 2024-09-14 22:22:26, 2024-09-14 22:22:26, malware, 3ee86f7ffa544ec1a5d8806071417171, http://45.127.56.242:53093/Mozi.m
-243948, 2024-09-14 22:22:24, 2024-09-14 22:22:24, malware, eee7201d74dc43989edac90e8d36fb5f, http://42.239.254.69:37284/
-243947, 2024-09-14 22:22:22, 2024-09-14 22:22:22, malware, 03ff9d68e8784205a867c6855eab20f3, http://42.239.238.241:52991/i
