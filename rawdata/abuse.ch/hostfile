@@ -1,11 +1,20 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-16 13:54:00 UTC                        #
+# Last updated: 2024-09-16 16:01:29 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	superset.ethergases.org
+127.0.0.1	metrics.ethergases.org
+127.0.0.1	www.ethergases.app
+127.0.0.1	www.wwwwww.ethergases.org
+127.0.0.1	www.wwwwwwclientesvpn.pythr.net
+127.0.0.1	superset.pythr.net
+127.0.0.1	rds1.pythr.net
+127.0.0.1	www.gatewaycitrix.pythr.net
+127.0.0.1	www.dashboards.ethergases.org
 127.0.0.1	whizability.com
 127.0.0.1	imap.dateupdata.com
 127.0.0.1	therapy.emergencepsychservices.com
@@ -8422,4 +8431,4 @@
 127.0.0.1	4qvvg9ud51lxa5te.gta5.eu.org
 127.0.0.1	rebirthltd.com
 127.0.0.1	huot.ltd
-# Number of entries: 8416
+# Number of entries: 8425
