@@ -6,8 +6,10 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-16 05:00:02 UTC
+# UPDATE: 2024-09-16 06:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 244746, "url": "http://alisonrainergroups.pages.dev", "discovery": "2024-09-16 05:28:15", "added": "2024-09-16 05:28:15", "target": "Whatsapp", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "212372b3c0ba71e54dfefb08643c004c"}
+{"id": 244745, "url": "https://dikwis.com/wp-includes/don/upload/?email=x", "discovery": "2024-09-16 05:02:34", "added": "2024-09-16 05:07:22", "target": "Generic Email", "reporter": "anonymous", "AbuseType": "phishing", "UUID": "cde112de7c46660bbf5afac63f471760"}
 {"id": 244744, "url": "https://xbq.src.mybluehost.me/CHFINAL/CHFINALE/", "discovery": "2024-09-16 04:56:42", "added": "2024-09-16 04:56:42", "target": "SwissPass", "reporter": "GovCERT-CH", "AbuseType": "phishing", "UUID": "6a6d3e9ece100639af237112ea69f331"}
 {"id": 244743, "url": "https://manage-administrere-sbbswisspass-online-finladosaris128096.codeanyapp.com/Edelgard/PbGviMrnBpb6pzSd/R5kNw71EpwQFBtHX/Login/selection/d", "discovery": "2024-09-16 04:54:53", "added": "2024-09-16 04:54:53", "target": "SwissPass", "reporter": "GovCERT-CH", "AbuseType": "phishing", "UUID": "e003fbcef1b2fb471dc0adf1bc52edcb"}
 {"id": 244742, "url": "http://flodapp-protocol.pages.dev", "discovery": "2024-09-16 04:48:17", "added": "2024-09-16 04:48:17", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "463020701cd67430d1f1000466799ba3"}
@@ -506,5 +508,3 @@
 {"id": 243982, "url": "http://222.142.255.94:36657/bin.sh", "discovery": "2024-09-15 00:23:24", "added": "2024-09-15 00:23:24", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "fd67a4470f004a1aad4c9c63ad730cec"}
 {"id": 243981, "url": "http://219.155.170.24:59272/bin.sh", "discovery": "2024-09-15 00:23:22", "added": "2024-09-15 00:23:22", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "5369c390d5964de7a68a81067ea190e5"}
 {"id": 243980, "url": "http://210.22.177.142:59813/Mozi.a", "discovery": "2024-09-15 00:23:20", "added": "2024-09-15 00:23:20", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "bd26f1066b56467193ad1af8f9094c45"}
-{"id": 243979, "url": "http://199.16.59.214:49101/Mozi.m", "discovery": "2024-09-15 00:23:18", "added": "2024-09-15 00:23:18", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "4bf3a39722b044fa8bc49426c301b247"}
-{"id": 243978, "url": "http://182.126.126.254:54834/i", "discovery": "2024-09-15 00:23:06", "added": "2024-09-15 00:23:06", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "0a668e5af61c4b4a8fc817f101f7d13a"}

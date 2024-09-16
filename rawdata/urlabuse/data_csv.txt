@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-16 05:00:02 UTC
+# UPDATE: 2024-09-16 06:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+244746, 2024-09-16 05:28:15, 2024-09-16 05:28:15, phishing, 212372b3c0ba71e54dfefb08643c004c, http://alisonrainergroups.pages.dev
+244745, 2024-09-16 05:07:22, 2024-09-16 05:02:34, phishing, cde112de7c46660bbf5afac63f471760, https://dikwis.com/wp-includes/don/upload/?email=x
 244744, 2024-09-16 04:56:42, 2024-09-16 04:56:42, phishing, 6a6d3e9ece100639af237112ea69f331, https://xbq.src.mybluehost.me/CHFINAL/CHFINALE/
 244743, 2024-09-16 04:54:53, 2024-09-16 04:54:53, phishing, e003fbcef1b2fb471dc0adf1bc52edcb, https://manage-administrere-sbbswisspass-online-finladosaris128096.codeanyapp.com/Edelgard/PbGviMrnBpb6pzSd/R5kNw71EpwQFBtHX/Login/selection/d
 244742, 2024-09-16 04:48:17, 2024-09-16 04:48:17, phishing, 463020701cd67430d1f1000466799ba3, http://flodapp-protocol.pages.dev
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 243982, 2024-09-15 00:23:24, 2024-09-15 00:23:24, malware, fd67a4470f004a1aad4c9c63ad730cec, http://222.142.255.94:36657/bin.sh
 243981, 2024-09-15 00:23:22, 2024-09-15 00:23:22, malware, 5369c390d5964de7a68a81067ea190e5, http://219.155.170.24:59272/bin.sh
 243980, 2024-09-15 00:23:20, 2024-09-15 00:23:20, malware, bd26f1066b56467193ad1af8f9094c45, http://210.22.177.142:59813/Mozi.a
-243979, 2024-09-15 00:23:18, 2024-09-15 00:23:18, malware, 4bf3a39722b044fa8bc49426c301b247, http://199.16.59.214:49101/Mozi.m
-243978, 2024-09-15 00:23:06, 2024-09-15 00:23:06, malware, 0a668e5af61c4b4a8fc817f101f7d13a, http://182.126.126.254:54834/i
