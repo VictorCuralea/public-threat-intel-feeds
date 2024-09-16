@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-16 10:59:25 UTC                        #
+# Last updated: 2024-09-16 13:54:00 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	whizability.com
+127.0.0.1	imap.dateupdata.com
+127.0.0.1	therapy.emergencepsychservices.com
+127.0.0.1	smolcatkgi.shop
 127.0.0.1	lolimpissed.xyz
 127.0.0.1	cdnhou.bbbdfsdfsfffdddd.top
 127.0.0.1	tasuju.xyz
@@ -8421,5 +8425,4 @@
 127.0.0.1	bad.bois.sh
 127.0.0.1	scoring.bois.sh
 127.0.0.1	good.bois.sh
-127.0.0.1	onlinetraveler.net
-# Number of entries: 8416
+# Number of entries: 8419

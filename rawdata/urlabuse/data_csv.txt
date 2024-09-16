@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-16 13:00:01 UTC
+# UPDATE: 2024-09-16 14:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+244928, 2024-09-16 13:03:00, 2024-09-16 13:03:00, phishing, 67b64a8e902b877558dacc50ee0447fa, http://vision-ariosacademy.com/
+244927, 2024-09-16 13:02:34, 2024-09-16 13:02:34, phishing, b4b50a0b36c4bf0b2ca252e65c432617, https://driver.gojek.link.gatot.wonghd.my.id/
+244926, 2024-09-16 13:02:16, 2024-09-16 13:02:16, phishing, e6a7e4192e11473bbf327895926d7fcb, https://usdt.wuxian.in/
 244925, 2024-09-16 12:58:25, 2024-09-16 12:58:25, phishing, 7954c8581da3584883d2663dc637b860, http://helpcsp.hosted.phplist.com/lists/?p=subscribe&id=1
 244924, 2024-09-16 12:58:13, 2024-09-16 12:58:13, phishing, ffb070d960e6815e689d08a7a16bb430, https://go.click.ly/swisspachid1996
 244923, 2024-09-16 12:57:28, 2024-09-16 12:57:28, phishing, 44585c9d585ff7d3315f7f0493d0a833, https://secgemandnvocievipsdjfn.itorr.com/?username=info@example.org
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 244311, 2024-09-15 10:22:45, 2024-09-15 10:22:45, malware, a10d3342b4c8430ca9d892bf1b449306, http://175.107.15.96:48245/bin.sh
 244310, 2024-09-15 10:22:26, 2024-09-15 10:22:26, malware, db0313e3ac054de2a497eca2e094ccad, http://124.133.130.76:37993/bin.sh
 244309, 2024-09-15 10:22:24, 2024-09-15 10:22:24, malware, 6bf51c3680f242a6b0464eeec33deb91, http://123.8.11.154:37472/i
-244308, 2024-09-15 10:22:02, 2024-09-15 10:22:02, malware, eccc256f3e834dec97f33e1a56bf77f6, http://119.187.235.109:44470/bin.sh
-244307, 2024-09-15 10:21:30, 2024-09-15 10:21:30, malware, a278038fc1424130b8beecce9228d58b, http://117.248.165.61:33596/bin.sh
-244306, 2024-09-15 10:20:45, 2024-09-15 10:20:45, malware, 7c6650810bc449ae942f5cb812fe0b36, http://117.208.18.113:35762/bin.sh
