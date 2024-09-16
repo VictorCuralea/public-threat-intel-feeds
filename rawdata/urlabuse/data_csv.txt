@@ -6,9 +6,17 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-16 19:00:01 UTC
+# UPDATE: 2024-09-16 20:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+245198, 2024-09-16 19:38:13, 2024-09-16 19:38:13, phishing, 6124c573eb10acc112b72df4a245d40f, http://securepasswordadminportal.pages.dev
+245197, 2024-09-16 19:36:13, 2024-09-16 19:36:13, phishing, ef6a4b687946adb8f17d5b22c345b565, http://somujayrpysoijboneusweszdhg01.pages.dev
+245196, 2024-09-16 19:22:17, 2024-09-16 19:22:17, phishing, e361237c5db3798c1ca1f1bad0025c6a, http://predev-migrazerionzx.pages.dev
+245195, 2024-09-16 19:20:55, 2024-09-16 19:20:55, malware, 8244ff2a632d4b0fbd04e649c9e2bf8d, http://78.165.109.69:33670/i
+245194, 2024-09-16 19:20:47, 2024-09-16 19:20:47, malware, 7eaf9e91c1fc48f3a21bcf0093f9f318, http://62.204.41.159/DataSyncTest.exe
+245193, 2024-09-16 19:20:36, 2024-09-16 19:20:36, malware, 82e8cda30a9343169667d5affcf5b3bd, http://59.97.123.102:40509/bin.sh
+245192, 2024-09-16 19:03:27, 2024-09-16 19:03:27, phishing, d3840f21746a159508aa2a75be5777aa, https://www.qnohy.space/%f0%9d%90%9c/W569H/pay/
+245191, 2024-09-16 19:02:44, 2024-09-16 19:02:44, phishing, 9d24d6203592cce58e1360dc2a8ca226, https://wd2j7pld3xzftpzd7f456be6yrqsqvvqnrr3fkbs2ggc667honva.ar-io.dev/sPSfvWPd8lm_I_l53wSexGEoVrBsY7KoMtGML3vnc2o
 245189, 2024-09-16 18:33:13, 2024-09-16 18:33:13, malware, 07927f4bf09a4570945085424ad13138, http://42.239.254.127:41269/bin.sh
 245188, 2024-09-16 18:33:11, 2024-09-16 18:33:11, malware, c0bb82547b1c47e7806e06a2038926d5, http://42.233.104.2:55623/Mozi.m
 245187, 2024-09-16 18:32:58, 2024-09-16 18:32:58, malware, 277ea39ef8024bfda0e6cc770f5df91d, http://42.230.69.226:47308/i
@@ -501,11 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 244576, 2024-09-15 17:48:17, 2024-09-15 17:48:17, phishing, fae1249cece39fd13e257048c7487482, http://optsbuildfi.pages.dev
 244575, 2024-09-15 17:35:21, 2024-09-15 17:35:21, malware, 2d9177a3f6ea4b4c8c3047a027a06a3b, http://42.224.74.210:60025/bin.sh
 244574, 2024-09-15 17:35:19, 2024-09-15 17:35:19, malware, 39c44c65430d4b22b1596ccdb00e4e4e, http://37.27.43.13/b32c99581062a357/vcruntime140.dll
-244573, 2024-09-15 17:35:18, 2024-09-15 17:35:18, malware, e13922a96c7a4871bc3c1882dd02aaee, http://37.27.43.13/b32c99581062a357/sqlite3.dll
-244572, 2024-09-15 17:35:14, 2024-09-15 17:35:14, malware, abcf86cc707249448509e4b954f628d6, http://37.27.43.13/b32c99581062a357/msvcp140.dll
-244571, 2024-09-15 17:35:12, 2024-09-15 17:35:12, malware, ccf3bb99771d4e358aabd6e3e4348ede, http://31.163.252.100:44594/bin.sh
-244570, 2024-09-15 17:35:10, 2024-09-15 17:35:10, malware, b4ed60f48f9d43dab13d8db7b7aa3832, http://27.215.181.35:52839/i
-244569, 2024-09-15 17:35:08, 2024-09-15 17:35:08, malware, 5391d52f6df848cf9029f51518241ddf, http://27.215.181.35:52839/bin.sh
-244568, 2024-09-15 17:35:06, 2024-09-15 17:35:06, malware, 9a42bf8f3e084d7186e3c44f2f69dba5, http://222.140.208.149:42209/
-244567, 2024-09-15 17:35:04, 2024-09-15 17:35:04, malware, f25deb6c97e1471db8bd07e72a68ae1f, http://221.14.52.172:54942/bin.sh
-244566, 2024-09-15 17:35:02, 2024-09-15 17:35:02, malware, 66b20cac98c344b7b11a9726a7f7d63e, http://219.156.108.166:40511/i
