@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-16 17:00:01 UTC
+# UPDATE: 2024-09-16 18:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+245121, 2024-09-16 17:10:13, 2024-09-16 17:10:13, phishing, 5237a79fa2be404e738beb25dd259ebe, http://trinityconsultingservice.pages.dev
 245109, 2024-09-16 16:48:13, 2024-09-16 16:48:13, phishing, 667a90fec556dceef656c3edb1168919, http://pocoinc.pages.dev
 245108, 2024-09-16 16:34:13, 2024-09-16 16:34:13, phishing, 9a118c273f230db78c103677ac89f2ef, http://integratewallet.pages.dev
 245100, 2024-09-16 16:28:35, 2024-09-16 16:28:35, malware, 59e0258736aa47448d2182b2346074b5, http://88.241.1.16:53288/i
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 244521, 2024-09-15 16:27:03, 2024-09-15 16:27:03, malware, ec1b7ae3b39d4df59687fb5b3e4f002f, http://42.235.191.184:44416/i
 244520, 2024-09-15 16:27:01, 2024-09-15 16:27:01, malware, 71b174ba594349a4bdf265cd47ecc70c, http://39.90.145.143:57717/bin.sh
 244519, 2024-09-15 16:26:59, 2024-09-15 16:26:59, malware, fd58333f4f864aa3aad6b85ccd476706, http://39.79.234.117:38289/i
-244518, 2024-09-15 16:26:56, 2024-09-15 16:26:56, malware, 23be637770564211a40ccc02a56274d8, http://222.139.98.249:38890/bin.sh
