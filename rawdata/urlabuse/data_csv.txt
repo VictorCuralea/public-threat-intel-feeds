@@ -6,9 +6,16 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-16 15:00:01 UTC
+# UPDATE: 2024-09-16 16:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+244973, 2024-09-16 15:44:12, 2024-09-16 15:44:12, phishing, 7d014978182b96d0480d7beb6c79f3f2, http://godyeiaknahepaizxcbhwuewopsa01.pages.dev
+244972, 2024-09-16 15:42:15, 2024-09-16 15:42:15, phishing, 60faf6dad6e8270dea1d155fc832e63c, http://renouvellement-mon-assure-enligne.fr
+244971, 2024-09-16 15:36:19, 2024-09-16 15:36:19, phishing, d22e621f560b8d224ad72895c731dea6, http://test1.garsena.com
+244970, 2024-09-16 15:36:13, 2024-09-16 15:36:13, phishing, 975072386d9112fd13ca6fac81a5e61e, http://ne.nerosage.click
+244967, 2024-09-16 15:28:11, 2024-09-16 15:28:11, phishing, adfeaab847529bd4bd6045c73fc9f483, http://denisonisd-pdf.pages.dev
+244966, 2024-09-16 15:18:15, 2024-09-16 15:18:15, phishing, db3f5fed83b958bbb2a0e716de3b05d1, http://informations-ameli.com
+244965, 2024-09-16 15:08:15, 2024-09-16 15:08:15, phishing, d98359e0d28901caaf864c71e66993e9, http://dappsconnectapps.pages.dev
 244964, 2024-09-16 14:48:17, 2024-09-16 14:48:17, phishing, e5913d7ca569eb3f3d9618d3fd037a16, http://dappresolvenode.pages.dev
 244963, 2024-09-16 14:26:30, 2024-09-16 14:26:30, malware, 03d087f320754e54865231490c647db8, http://88.241.1.16:53288/bin.sh
 244962, 2024-09-16 14:25:52, 2024-09-16 14:25:52, malware, a279d0e730d44c61a0a407bbbe72ca84, http://59.97.124.114:34619/bin.sh
@@ -502,10 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 244474, 2024-09-15 13:04:15, 2024-09-15 13:04:15, phishing, d774a1184729c0feb3cde74187bbcd21, https://poczta.zepak.com.pl/CookieAuth.dll?GetLogon?curl=Z2Fowa&reason=0&formdir=1
 244473, 2024-09-15 13:03:27, 2024-09-15 13:03:27, phishing, 6b96905b727a8e5ed8e58f8efcab8d15, https://tiger.pakgornictwo.com.pl/
 244472, 2024-09-15 12:56:15, 2024-09-15 12:56:15, phishing, eb28c8c8e6eed03cec1e2cfc7b5cc141, http://mirror-tk.pages.dev
-244444, 2024-09-15 12:35:17, 2024-09-15 12:35:17, phishing, 0e0704122f23f03b8cc2bb979343edaf, https://myworkspaceb7b88.myclickfunnels.com/client/ds6fds3v2ds2sd1v84rgv21svsdv0grz498ve1fdc2svd45dvarxhqbbcvxauwtrhv8auanpugsgbhpyageasqhwbwbub1b1vwawagwwouufikab0ndlzzt18adguawvqfwwigbwydvarxhqbbcvxauqhwbwbuvxbl4jaa
-244438, 2024-09-15 12:34:36, 2024-09-15 12:34:36, phishing, 6d3174522f34ab62430de972958a5558, https://www.cleansweepfireplace.com/check
-244423, 2024-09-15 12:32:17, 2024-09-15 12:32:17, phishing, be7127f1d5302553aafa06ecbb2b5e7d, http://versecloudzill.pages.dev
-244368, 2024-09-15 12:24:05, 2024-09-15 12:24:05, malware, 9f92e4057194406aae92782cc7754b72, http://85.239.33.253/AB4g5/Josho.x86
-244367, 2024-09-15 12:24:05, 2024-09-15 12:24:05, malware, e212e216856a4cb6b2b74aa234bb2576, http://85.239.33.253/AB4g5/Josho.sh4
-244366, 2024-09-15 12:24:04, 2024-09-15 12:24:04, malware, c3c5c2ab65c4415f96363851b1abfd40, http://85.239.33.253/AB4g5/Josho.ppc
-244364, 2024-09-15 12:24:04, 2024-09-15 12:24:04, malware, 6b37bf46b5a647c5bdeee24a91f33a46, http://85.239.33.253/AB4g5/Josho.mpsl
