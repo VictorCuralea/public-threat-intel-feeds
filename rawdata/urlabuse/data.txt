@@ -6,8 +6,9 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-17 03:00:02 UTC
+# UPDATE: 2024-09-17 04:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 245361, "url": "http://gjsoiuehgdugenlsdisjhewas02.pages.dev", "discovery": "2024-09-17 03:02:12", "added": "2024-09-17 03:02:12", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "2fd3dc7f0e0dca634acdafbe48aee2dc"}
 {"id": 245360, "url": "http://61.53.101.199:44613/", "discovery": "2024-09-17 02:28:06", "added": "2024-09-17 02:28:06", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "39b1e7a4aea142a2ad2444d55b23ea3c"}
 {"id": 245359, "url": "http://59.99.212.44:53302/i", "discovery": "2024-09-17 02:27:51", "added": "2024-09-17 02:27:51", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "6266969152be44cbb26a8dffa198f355"}
 {"id": 245358, "url": "http://59.97.115.144:55832/", "discovery": "2024-09-17 02:27:33", "added": "2024-09-17 02:27:33", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "3e280b1ff68f47ac8019fc18b5beea22"}
@@ -507,4 +508,3 @@
 {"id": 244739, "url": "http://59.91.81.198:36191/Mozi.m", "discovery": "2024-09-16 04:23:32", "added": "2024-09-16 04:23:32", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "23cb3bf43dce4ca8829d758c1cfc0e67"}
 {"id": 244738, "url": "http://59.178.20.194:57464/bin.sh", "discovery": "2024-09-16 04:23:13", "added": "2024-09-16 04:23:13", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "c05a174d5fd149099792f2332c70a8d6"}
 {"id": 244737, "url": "http://42.235.69.54:47416/i", "discovery": "2024-09-16 04:23:04", "added": "2024-09-16 04:23:04", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "74bdeecfc30748cfa1cf7f8b2887d51f"}
-{"id": 244736, "url": "http://182.119.205.11:59975/bin.sh", "discovery": "2024-09-16 04:22:36", "added": "2024-09-16 04:22:36", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "bbe1433a5f2042089a40d5d3eabf0dd2"}
