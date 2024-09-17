@@ -6,8 +6,9 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-17 21:00:01 UTC
+# UPDATE: 2024-09-17 22:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 245987, "url": "http://mes-renouvellement-info-enligne.fr", "discovery": "2024-09-17 21:30:17", "added": "2024-09-17 21:30:17", "target": "FR-GOV", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "8dddd40118ba97b3aafe32d5957c6892"}
 {"id": 245986, "url": "https://epsys.ro/we/ord.exe", "discovery": "2024-09-17 20:29:41", "added": "2024-09-17 20:29:41", "target": "#PE32INTEL_GUI", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "de61e0e60baa49db922e0d791bfbaab7"}
 {"id": 245985, "url": "http://59.183.139.47:36696/bin.sh", "discovery": "2024-09-17 20:27:57", "added": "2024-09-17 20:27:57", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "9ae69ede7c1641cb812d4746eb5f6819"}
 {"id": 245984, "url": "http://42.230.36.240:55458/i", "discovery": "2024-09-17 20:27:21", "added": "2024-09-17 20:27:21", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "34ab0a31945642cc9ff2f7c43d33180f"}
@@ -507,4 +508,3 @@
 {"id": 245321, "url": "http://87.120.166.37/hiddenbin/boatnet.x86", "discovery": "2024-09-17 00:27:12", "added": "2024-09-17 00:27:12", "target": "#ELF32INTEL_v1", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "9f78cd3163914729b63745bb9f7a3ef7"}
 {"id": 245320, "url": "http://87.120.166.37/hiddenbin/boatnet.spc", "discovery": "2024-09-17 00:27:11", "added": "2024-09-17 00:27:11", "target": "#ELF32SPARC", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "5ff2d1f56be54d24b4c6c5c67606e3f4"}
 {"id": 245319, "url": "http://87.120.166.37/hiddenbin/boatnet.sh4", "discovery": "2024-09-17 00:27:11", "added": "2024-09-17 00:27:11", "target": "#ELF32SH", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "fef1974c40314c5ab1115f2a054d030e"}
-{"id": 245318, "url": "http://87.120.166.37/hiddenbin/boatnet.ppc", "discovery": "2024-09-17 00:27:11", "added": "2024-09-17 00:27:11", "target": "#ELF32CISCO", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "84a8afa1a60c4d3592ab61ed7ece1e01"}

@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-17 21:00:01 UTC
+# UPDATE: 2024-09-17 22:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+245987, 2024-09-17 21:30:17, 2024-09-17 21:30:17, phishing, 8dddd40118ba97b3aafe32d5957c6892, http://mes-renouvellement-info-enligne.fr
 245986, 2024-09-17 20:29:41, 2024-09-17 20:29:41, malware, de61e0e60baa49db922e0d791bfbaab7, https://epsys.ro/we/ord.exe
 245985, 2024-09-17 20:27:57, 2024-09-17 20:27:57, malware, 9ae69ede7c1641cb812d4746eb5f6819, http://59.183.139.47:36696/bin.sh
 245984, 2024-09-17 20:27:21, 2024-09-17 20:27:21, malware, 34ab0a31945642cc9ff2f7c43d33180f, http://42.230.36.240:55458/i
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 245321, 2024-09-17 00:27:12, 2024-09-17 00:27:12, malware, 9f78cd3163914729b63745bb9f7a3ef7, http://87.120.166.37/hiddenbin/boatnet.x86
 245320, 2024-09-17 00:27:11, 2024-09-17 00:27:11, malware, 5ff2d1f56be54d24b4c6c5c67606e3f4, http://87.120.166.37/hiddenbin/boatnet.spc
 245319, 2024-09-17 00:27:11, 2024-09-17 00:27:11, malware, fef1974c40314c5ab1115f2a054d030e, http://87.120.166.37/hiddenbin/boatnet.sh4
-245318, 2024-09-17 00:27:11, 2024-09-17 00:27:11, malware, 84a8afa1a60c4d3592ab61ed7ece1e01, http://87.120.166.37/hiddenbin/boatnet.ppc
