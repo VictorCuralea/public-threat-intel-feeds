@@ -6,8 +6,12 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-17 11:00:01 UTC
+# UPDATE: 2024-09-17 12:00:02 UTC
 ############### END COMMENTS ###############
+{"id": 245533, "url": "http://atendimento.mtalk.com.br", "discovery": "2024-09-17 11:46:16", "added": "2024-09-17 11:46:16", "target": "Whatsapp", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "717277a4b85b279e5d300b804e614733"}
+{"id": 245532, "url": "http://fsghixjksytgxbvslwoiystwvhaywush3.pages.dev", "discovery": "2024-09-17 11:40:11", "added": "2024-09-17 11:40:11", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "6b2007ffb8aeca6877f717e91facc262"}
+{"id": 245531, "url": "https://spofity.serv00.net/spotify/auth/login.php", "discovery": "2024-09-17 11:28:34", "added": "2024-09-17 11:28:34", "target": "Spotify", "reporter": "GovCERT-CH", "AbuseType": "phishing", "UUID": "37785f4460f113563ca7488db5b0bb5c"}
+{"id": 245530, "url": "https://bafkreift3zj74udnucywyzlye7w345s4unuh6j3yewarthkgfyhwmn44ky.ipfs.dweb.link/#austria%40gxxxxxx.xxx", "discovery": "2024-09-17 11:27:34", "added": "2024-09-17 11:27:34", "target": "Generic Email", "reporter": "GovCERT-CH", "AbuseType": "phishing", "UUID": "ef489bb297d5dc577447b1ea3f6afae0"}
 {"id": 245529, "url": "https://pontografica.com/Disney+/login.php?company=", "discovery": "2024-09-17 10:37:19", "added": "2024-09-17 10:37:19", "target": "Disney+", "reporter": "GovCERT-CH", "AbuseType": "phishing", "UUID": "f2cba1a67e9fc220d70a1acee6021671"}
 {"id": 245528, "url": "https://emporiolamego.com/wp-content/uploads/de/de/1/doc/start_index.php", "discovery": "2024-09-17 10:34:34", "added": "2024-09-17 10:34:34", "target": "Swisscom", "reporter": "GovCERT-CH", "AbuseType": "phishing", "UUID": "475890842d4127eca9609859b7699ccc"}
 {"id": 245527, "url": "http://votre-espace-ameli.info", "discovery": "2024-09-17 10:34:16", "added": "2024-09-17 10:34:16", "target": "FR-GOV", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "fdd78b6777ac9afa7449adb4c4836af5"}
@@ -504,7 +508,3 @@
 {"id": 244911, "url": "http://61.53.119.176:47568/Mozi.m", "discovery": "2024-09-16 12:25:01", "added": "2024-09-16 12:25:01", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "ef4c2ed1c51344a7a93e2e8ff7fe761d"}
 {"id": 244910, "url": "http://59.88.255.234:59123/bin.sh", "discovery": "2024-09-16 12:24:12", "added": "2024-09-16 12:24:12", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "08289ae8c00b459c969b77dfa5d51021"}
 {"id": 244909, "url": "http://59.88.176.88:52231/bin.sh", "discovery": "2024-09-16 12:24:03", "added": "2024-09-16 12:24:03", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "d746fcadca704afb8fd3251f42c377b0"}
-{"id": 244908, "url": "http://59.182.145.190:54864/Mozi.m", "discovery": "2024-09-16 12:23:23", "added": "2024-09-16 12:23:23", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "2ef502a50357409b969af3b8c7c88e0c"}
-{"id": 244907, "url": "http://42.233.151.147:39608/", "discovery": "2024-09-16 12:23:12", "added": "2024-09-16 12:23:12", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "fc57bacdfed14e40af8c0a46593904a4"}
-{"id": 244906, "url": "http://42.228.218.68:59274/i", "discovery": "2024-09-16 12:23:10", "added": "2024-09-16 12:23:10", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "e6d20a4d83e14717b82f01d9afd47f1f"}
-{"id": 244905, "url": "http://39.81.74.162:45894/i", "discovery": "2024-09-16 12:23:08", "added": "2024-09-16 12:23:08", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "9ffc4a09babd403a86e8c6870dfe94c4"}
