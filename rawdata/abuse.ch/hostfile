@@ -1,11 +1,19 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-17 16:01:29 UTC                        #
+# Last updated: 2024-09-17 20:01:46 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	5.42.102.43.sslip.io
+127.0.0.1	www.remote.pythr.net
+127.0.0.1	www.wwwwwwwwwapp.pythr.net
+127.0.0.1	forum.pythr.net
+127.0.0.1	www.wwwvirtualapps.pythr.net
+127.0.0.1	www.wwwwwwcloudapp.pythr.net
+127.0.0.1	wwwmail.ethergases.org
+127.0.0.1	www.wwwwwwwwwrds.pythr.net
 127.0.0.1	www.www1.pythr.net
 127.0.0.1	kfhgwwwwebmail.pythr.net
 127.0.0.1	dashboard.pythr.net
@@ -8475,4 +8483,4 @@
 127.0.0.1	6lpc.online
 127.0.0.1	4url312.vip
 127.0.0.1	4url.vip
-# Number of entries: 8469
+# Number of entries: 8477
