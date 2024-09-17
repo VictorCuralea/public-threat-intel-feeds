@@ -6,9 +6,15 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-17 15:00:01 UTC
+# UPDATE: 2024-09-17 16:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+245682, 2024-09-17 15:50:11, 2024-09-17 15:50:11, phishing, 49640229a8315b4a8bcbc44b4af51aa4, http://saiosghsuwyremncbeoiau03.pages.dev
+245681, 2024-09-17 15:38:04, 2024-09-17 15:38:04, phishing, a064d901bbcb1195bab6ba3cfae91fba, https://shotscs.saylorie.click/bjcn/mrrs/rbgnn/qmoo?12c7d160ca2f6662d4cd25a6c8ded438
+245680, 2024-09-17 15:37:52, 2024-09-17 15:22:24, phishing, fc4b266aeb508bdac42c73ea6b174645, https://google.co.uk/amp/ageecomputer.click/QzMvdXlkQ2phVGd5ekMyai96VGdyMldweDVwMjBIWjFmV2RSU3B5Sll2NWUzMGVYcHp5ZDJHMlJaTlZQcHd0SFRZSkVPMGZ1YithWGdLalRxNU14WmtVakYrNHZ0ZXZrVkN5Z2pRYitsbklyK3VvMjhMNk1URVBUTy9SempTVEoxVWZtc1hlQkdOd3Z0QytwMFhFQVlRPT0_
+245679, 2024-09-17 15:34:17, 2024-09-17 15:34:17, phishing, b3f8303dc92d8d035ac6f45beb581d49, http://infon-telegram.org
+245672, 2024-09-17 15:12:14, 2024-09-17 15:12:14, phishing, 3ce3943d0adfd9e914c1f574cb2ff7f6, http://mail.appeals.transparency-business.com
+245671, 2024-09-17 15:10:15, 2024-09-17 15:10:15, phishing, 7287f109d65d3629eced701f024afd38, http://appeals.transparency-business.com
 245670, 2024-09-17 14:48:54, 2024-09-17 14:46:14, phishing, 5914470707619899245a8d17e4dad867, https://seb.antonelly.com.br/login/
 245669, 2024-09-17 14:30:39, 2024-09-17 14:30:39, malware, a3a33499b02e4ebba757b65846b4aa35, http://61.52.112.37:41265/bin.sh
 245668, 2024-09-17 14:28:19, 2024-09-17 14:28:19, malware, 85e48390470a4d288aa0c124038b1079, http://59.182.70.126:57745/bin.sh
@@ -503,9 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 245178, 2024-09-16 18:32:01, 2024-09-16 18:32:01, malware, d53f1df53a0f45f48b35e3e070c0dfad, http://27.219.120.127:50945/i
 245177, 2024-09-16 18:31:36, 2024-09-16 18:31:36, malware, 502dc435b4b6471cb677e48126987eb5, http://222.141.120.17:36029/bin.sh
 245176, 2024-09-16 18:31:34, 2024-09-16 18:31:34, malware, 1a30f664a2b94bb791ab129ffc82d52e, http://222.133.101.232:48587/bin.sh
-245175, 2024-09-16 18:31:32, 2024-09-16 18:31:32, malware, 362e34e60dda4d63ac801a04bec5e3fd, http://221.15.77.49:57339/i
-245174, 2024-09-16 18:31:30, 2024-09-16 18:31:30, malware, 3a969221f57643e88682f4275fa3cffe, http://221.15.77.49:57339/bin.sh
-245173, 2024-09-16 18:31:12, 2024-09-16 18:31:12, malware, a4ba61e1f4a546bd814e54ed098c1a7b, http://221.15.172.255:51500/bin.sh
-245172, 2024-09-16 18:31:11, 2024-09-16 18:31:11, malware, 9de7c24b3c964b96a7e9ed4fff301231, http://219.155.11.137:52218/i
-245171, 2024-09-16 18:31:09, 2024-09-16 18:31:09, malware, e0fba400d88e411eb82bbc6a3131f92e, http://193.187.174.58/ssl/online.exe
-245170, 2024-09-16 18:30:51, 2024-09-16 18:30:51, malware, 8a89d3683e924330a8398c6700c4c76f, http://185.215.113.16/inc/clip.exe
