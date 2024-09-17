@@ -6,9 +6,14 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-17 01:00:02 UTC
+# UPDATE: 2024-09-17 02:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+245327, 2024-09-17 01:52:13, 2024-09-17 01:52:13, phishing, c5439b58b48c7322f1186b4fa4fbeb62, http://shoayuywgsajnvxlzkowiuytazuhdgve03.pages.dev
+245326, 2024-09-17 01:34:13, 2024-09-17 01:34:13, phishing, 985a348f255cc111f1044f82b931d9f9, http://premka-uz.shop
+245325, 2024-09-17 01:28:10, 2024-09-17 01:28:10, phishing, 5bab9a8ee91ca5c0568aa16a71bef291, http://ytrewesfdajhqijndsgtfybjkwdeygfdcbh.pages.dev
+245324, 2024-09-17 01:22:12, 2024-09-17 01:22:12, phishing, c355dd083a67d9ef1b22a32ba0521dd2, http://agdunadgdge04.pages.dev
+245323, 2024-09-17 01:02:18, 2024-09-17 01:02:18, phishing, 9f01a17989c12bfa32976770bc7df5eb, https://teleagrm-hk.com/
 245322, 2024-09-17 00:54:13, 2024-09-17 00:54:13, phishing, 34cf3f564a97c09d34b3f2ce55107fc5, http://webmail.caesar.de
 245321, 2024-09-17 00:27:12, 2024-09-17 00:27:12, malware, 9f78cd3163914729b63745bb9f7a3ef7, http://87.120.166.37/hiddenbin/boatnet.x86
 245320, 2024-09-17 00:27:11, 2024-09-17 00:27:11, malware, 5ff2d1f56be54d24b4c6c5c67606e3f4, http://87.120.166.37/hiddenbin/boatnet.spc
@@ -504,8 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 244705, 2024-09-16 02:22:29, 2024-09-16 02:22:29, malware, f0dd6dbecb8d4999b08198b17c295ca7, http://219.139.196.81:39293/bin.sh
 244704, 2024-09-16 02:22:18, 2024-09-16 02:22:18, malware, 61240f37682f476cb64b34485e4bfc1f, http://182.121.12.249:55379/i
 244703, 2024-09-16 02:22:16, 2024-09-16 02:22:16, malware, a7a917f2c5a2495d849b8abd95e652ba, http://182.119.62.211:46215/
-244702, 2024-09-16 02:22:14, 2024-09-16 02:22:14, malware, afa58ac6c26341e69c0a45f2162c35b2, http://124.131.147.230:38184/i
-244701, 2024-09-16 02:21:42, 2024-09-16 02:21:42, malware, f04702118fba4e6ca81520ef06b3a072, http://117.248.165.132:48017/bin.sh
-244700, 2024-09-16 02:21:40, 2024-09-16 02:21:40, malware, c74fe61d434e485dbe1625202756169f, http://117.235.121.103:50889/bin.sh
-244699, 2024-09-16 02:20:37, 2024-09-16 02:20:37, malware, c644e13b154f4049a272350ca1501d7d, http://117.216.68.26:43995/bin.sh
-244698, 2024-09-16 02:20:35, 2024-09-16 02:20:35, malware, daf96586caa4403ea980d2dbfd5088d9, http://117.216.24.227:55663/Mozi.m
