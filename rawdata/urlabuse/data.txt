@@ -6,8 +6,9 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-17 09:00:01 UTC
+# UPDATE: 2024-09-17 10:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 245467, "url": "http://gjsoiuehgdugenlsdisjhewas01.pages.dev", "discovery": "2024-09-17 09:42:13", "added": "2024-09-17 09:42:13", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "6e9dfbabd5d3868ff6e868d77bc295b7"}
 {"id": 245466, "url": "http://61.53.126.254:56340/bin.sh", "discovery": "2024-09-17 08:26:41", "added": "2024-09-17 08:26:41", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "9b022108a58b4e8c82d389b21833bc9e"}
 {"id": 245465, "url": "http://61.52.87.76:43290/bin.sh", "discovery": "2024-09-17 08:26:39", "added": "2024-09-17 08:26:39", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "b492c6c5562243ea813c9b53027adb3c"}
 {"id": 245464, "url": "http://59.89.14.37:53171/i", "discovery": "2024-09-17 08:25:04", "added": "2024-09-17 08:25:04", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "8960410c0e8f4737924c8beabb900455"}
@@ -507,4 +508,3 @@
 {"id": 244845, "url": "http://112.239.101.226:39664/bin.sh", "discovery": "2024-09-16 10:20:05", "added": "2024-09-16 10:20:05", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "2f4beb96ec6940d2936c2073894aebe7"}
 {"id": 244844, "url": "http://web.telegams.top", "discovery": "2024-09-16 10:14:18", "added": "2024-09-16 10:14:18", "target": "Telegram", "reporter": "lruray", "AbuseType": "phishing", "UUID": "9d01ff167f645760d97efc8bdd0853f7"}
 {"id": 244843, "url": "http://web.telegum.top", "discovery": "2024-09-16 10:12:13", "added": "2024-09-16 10:12:13", "target": "Telegram", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "d0506046fb820188914f97fa3a96f660"}
-{"id": 244842, "url": "https://pub-853a8c6d224746258050ceb1dd4dc8c3.r2.dev/response_auth.html", "discovery": "2024-09-16 10:08:26", "added": "2024-09-16 10:08:26", "target": "Other", "reporter": "lrugbot", "AbuseType": "phishing", "UUID": "135bb010af6661758629fb58bd556858"}

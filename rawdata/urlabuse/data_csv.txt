@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-17 09:00:01 UTC
+# UPDATE: 2024-09-17 10:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+245467, 2024-09-17 09:42:13, 2024-09-17 09:42:13, phishing, 6e9dfbabd5d3868ff6e868d77bc295b7, http://gjsoiuehgdugenlsdisjhewas01.pages.dev
 245466, 2024-09-17 08:26:41, 2024-09-17 08:26:41, malware, 9b022108a58b4e8c82d389b21833bc9e, http://61.53.126.254:56340/bin.sh
 245465, 2024-09-17 08:26:39, 2024-09-17 08:26:39, malware, b492c6c5562243ea813c9b53027adb3c, http://61.52.87.76:43290/bin.sh
 245464, 2024-09-17 08:25:04, 2024-09-17 08:25:04, malware, 8960410c0e8f4737924c8beabb900455, http://59.89.14.37:53171/i
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 244845, 2024-09-16 10:20:05, 2024-09-16 10:20:05, malware, 2f4beb96ec6940d2936c2073894aebe7, http://112.239.101.226:39664/bin.sh
 244844, 2024-09-16 10:14:18, 2024-09-16 10:14:18, phishing, 9d01ff167f645760d97efc8bdd0853f7, http://web.telegams.top
 244843, 2024-09-16 10:12:13, 2024-09-16 10:12:13, phishing, d0506046fb820188914f97fa3a96f660, http://web.telegum.top
-244842, 2024-09-16 10:08:26, 2024-09-16 10:08:26, phishing, 135bb010af6661758629fb58bd556858, https://pub-853a8c6d224746258050ceb1dd4dc8c3.r2.dev/response_auth.html
