@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-17 07:00:01 UTC
+# UPDATE: 2024-09-17 08:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+245436, 2024-09-17 07:03:56, 2024-09-17 07:03:56, phishing, b7a83951d5ae72d22236ac7a761a1674, https://loginsite.blog/payment/index.php
+245435, 2024-09-17 07:03:50, 2024-09-17 07:03:50, phishing, 3677f75e093416a4d105eb1a19ff8fb0, https://www.zmxoq.space/%f0%9d%90%9c/W569H/pay/
+245434, 2024-09-17 07:02:26, 2024-09-17 07:02:26, phishing, 940468bedf6d95093da87f5f9fbe8091, http://nivestsmart.pics/
 245433, 2024-09-17 06:44:10, 2024-09-17 06:44:10, phishing, 2646c100c418fe2cdea45dbc4466e90d, http://web3autoreg.pages.dev
 245432, 2024-09-17 06:40:13, 2024-09-17 06:40:13, phishing, 8cb65915500452fe74d5517bbdb17f57, http://dappauto.pages.dev
 245431, 2024-09-17 06:25:24, 2024-09-17 06:25:24, malware, 843b6a057dca43379e902d34437e1727, http://61.53.101.199:44613/bin.sh
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 244814, 2024-09-16 08:23:32, 2024-09-16 08:23:32, malware, 94ad3044bed8401292e840b91449d21c, http://119.185.169.138:53835/i
 244813, 2024-09-16 08:23:30, 2024-09-16 08:23:30, malware, 0de32429e2014ac09b2918db3d1d8c67, http://119.185.169.138:53835/bin.sh
 244812, 2024-09-16 08:22:57, 2024-09-16 08:22:57, malware, b96ac250d9334b949f6c24c922e701b5, http://117.248.175.151:53202/i
-244811, 2024-09-16 08:22:55, 2024-09-16 08:22:55, malware, 507546e0acb342adb5a4f437496acd5d, http://117.245.37.196:35828/i
-244810, 2024-09-16 08:22:48, 2024-09-16 08:22:48, malware, f643a1e81f8145dbb6789574275a1eae, http://117.245.32.13:43209/bin.sh
-244809, 2024-09-16 08:21:50, 2024-09-16 08:21:50, malware, 227613d26f074f6487844fa2cdf62359, http://117.217.70.139:42434/i
