@@ -6,9 +6,23 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-17 13:00:01 UTC
+# UPDATE: 2024-09-17 14:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+245601, 2024-09-17 13:43:01, 2024-09-17 13:43:01, phishing, d620dba1d0927293b0121eb28a30ef1a, https://outlook-web-access-38fbaa.webflow.io/
+245600, 2024-09-17 13:42:13, 2024-09-17 13:42:13, phishing, b0bc88e49591240cb6110b0062055a04, https://battle-trite-mountain.glitch.me/doc.html?trhehgfftg-gen-pgiekkfmic-kff=info@example.org
+245599, 2024-09-17 13:39:57, 2024-09-17 13:39:57, phishing, d6db1d28509df003bb4e3899995db36e, https://qna.bmr.mybluehost.me/sw/
+245598, 2024-09-17 13:38:37, 2024-09-17 13:38:37, phishing, 5059f76fa5168805bb04454acdb1839f, https://s80921.blogspot.com/
+245597, 2024-09-17 13:36:32, 2024-09-17 13:36:32, phishing, 7d212b6d9f1be15ce295c8282db6f51a, https://ch-kappo.com/update/
+245596, 2024-09-17 13:20:24, 2024-09-17 13:20:24, malware, d57d7c89523a449eb61ac9131f8014fb, http://95.133.61.78:47493/i
+245595, 2024-09-17 13:20:23, 2024-09-17 13:20:23, malware, a00dcededd9e4c9ba6a24b18ccf36800, http://95.133.61.78:47493/bin.sh
+245594, 2024-09-17 13:05:04, 2024-09-17 13:05:04, phishing, 340795f8d3f98c17759b2b902dbcb240, https://m.5115666999.com/
+245593, 2024-09-17 13:03:53, 2024-09-17 13:03:53, phishing, 849fca790ffa8d60603fb3d5ff6cad6e, http://owa2013.turck.com.cn/
+245592, 2024-09-17 13:03:50, 2024-09-17 13:03:50, phishing, b3fc5ce5d590024d5e7c30a7413f5ec3, https://post.lindbak.no/
+245591, 2024-09-17 13:03:25, 2024-09-17 13:03:25, phishing, 6e4fd6a22f486aa9ec984d4f351afcdc, https://jv2yakqgfkty3vjwx6z2oiw35osszgrfqgvy55roi7rq36wmqxyq.ar-io.dev/TXWAKgYqp43VNr-zpyLb66UsmiWBq472LkfjDfrMhfE
+245590, 2024-09-17 13:02:51, 2024-09-17 13:02:51, phishing, a686b9454815a86df0422c824b8794b3, http://my-apps-57b62c79.azurewebsites.net/
+245589, 2024-09-17 13:02:31, 2024-09-17 13:02:31, phishing, 14332f6bc249ecbabbe298f5d5a1fd40, https://info-telegram.com/
+245588, 2024-09-17 13:02:27, 2024-09-17 13:02:27, phishing, 19cb4d01c57c75ee10e0cb75d22cf17c, https://digi.miau3789.workers.dev/
 245587, 2024-09-17 12:54:15, 2024-09-17 12:54:15, phishing, 412443e05057e0a7df5ea351e2ff8681, http://87y7878y8y5r5.pages.dev
 245586, 2024-09-17 12:34:47, 2024-09-17 12:34:47, malware, 6dd41110ae8246cdbe49585aa983b9ef, http://61.53.135.252:49821/i
 245585, 2024-09-17 12:34:43, 2024-09-17 12:34:43, malware, d7890cd043254729b65e0c235bc0189b, http://61.52.41.28:52624/bin.sh
@@ -495,17 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 245038, 2024-09-16 16:23:01, 2024-09-16 16:23:01, malware, 6490bb26d3394c0db28688a9066b7219, http://117.248.169.9:36508/bin.sh
 245027, 2024-09-16 16:21:38, 2024-09-16 16:21:38, malware, 18ddd308393a46709af884468019f28f, http://117.208.16.237:43336/bin.sh
 245016, 2024-09-16 16:20:15, 2024-09-16 16:20:15, malware, 2575097c77dc4d0abb9fddbccb80619a, http://115.58.171.62:55097/
-245015, 2024-09-16 16:20:14, 2024-09-16 16:20:14, malware, d31674b1c86b4672b3b09c2e7a369c7d, http://115.56.158.148:32805/bin.sh
-245014, 2024-09-16 16:20:12, 2024-09-16 16:20:12, malware, 2bd01bca34fd4cf7bb04dc094c821a1d, http://115.49.5.226:36284/bin.sh
-245013, 2024-09-16 16:20:10, 2024-09-16 16:20:10, malware, b1a23f4fd2464ec5918f1ff526ac649e, http://112.85.213.241:42269/i
-245011, 2024-09-16 16:20:07, 2024-09-16 16:20:07, malware, 98a3b2e9f2d3473c9a876004c196a0a5, http://1.189.12.130:49910/bin.sh
-244985, 2024-09-16 16:16:21, 2024-09-16 16:16:21, phishing, 8691b3f1c4bffd792680c07377f9143e, http://opax.top
-244973, 2024-09-16 15:44:12, 2024-09-16 15:44:12, phishing, 7d014978182b96d0480d7beb6c79f3f2, http://godyeiaknahepaizxcbhwuewopsa01.pages.dev
-244972, 2024-09-16 15:42:15, 2024-09-16 15:42:15, phishing, 60faf6dad6e8270dea1d155fc832e63c, http://renouvellement-mon-assure-enligne.fr
-244971, 2024-09-16 15:36:19, 2024-09-16 15:36:19, phishing, d22e621f560b8d224ad72895c731dea6, http://test1.garsena.com
-244970, 2024-09-16 15:36:13, 2024-09-16 15:36:13, phishing, 975072386d9112fd13ca6fac81a5e61e, http://ne.nerosage.click
-244967, 2024-09-16 15:28:11, 2024-09-16 15:28:11, phishing, adfeaab847529bd4bd6045c73fc9f483, http://denisonisd-pdf.pages.dev
-244966, 2024-09-16 15:18:15, 2024-09-16 15:18:15, phishing, db3f5fed83b958bbb2a0e716de3b05d1, http://informations-ameli.com
-244965, 2024-09-16 15:08:15, 2024-09-16 15:08:15, phishing, d98359e0d28901caaf864c71e66993e9, http://dappsconnectapps.pages.dev
-244964, 2024-09-16 14:48:17, 2024-09-16 14:48:17, phishing, e5913d7ca569eb3f3d9618d3fd037a16, http://dappresolvenode.pages.dev
-244963, 2024-09-16 14:26:30, 2024-09-16 14:26:30, malware, 03d087f320754e54865231490c647db8, http://88.241.1.16:53288/bin.sh
