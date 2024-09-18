@@ -6,8 +6,13 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-18 19:00:02 UTC
+# UPDATE: 2024-09-18 20:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 246631, "url": "http://wakerplumbing.pages.dev", "discovery": "2024-09-18 19:22:15", "added": "2024-09-18 19:22:15", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "9b536d62205c81b4284e349a50cf84ac"}
+{"id": 246630, "url": "http://i-99andyou.com", "discovery": "2024-09-18 19:03:08", "added": "2024-09-18 19:03:08", "target": "Whatsapp", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "ae627d956830fed44bea7837d4b12bd5"}
+{"id": 246629, "url": "https://mandegaran.sbs/data/1000133597/payment/2cd4bYa9/Mellat.php", "discovery": "2024-09-18 19:03:03", "added": "2024-09-18 19:03:03", "target": "Shaparak", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "29d41c93a05203bc907d6fa31d380fee"}
+{"id": 246628, "url": "https://www.mahonylawyers.com.au/wp-admin/js/config/login.php?", "discovery": "2024-09-18 19:03:00", "added": "2024-09-18 19:03:00", "target": "Microsoft", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "1cc4e96c7c34032b31dd240de4b06270"}
+{"id": 246627, "url": "https://telegram.ins-kr.com/", "discovery": "2024-09-18 19:02:25", "added": "2024-09-18 19:02:25", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "b11728c0b9a0ea3ed89f875706aeb938"}
 {"id": 246626, "url": "https://its.radio-continente.com/zimbra1/gov/login.html", "discovery": "2024-09-18 18:54:53", "added": "2024-09-18 18:54:53", "target": "Generic Email", "reporter": "GovCERT-CH", "AbuseType": "phishing", "UUID": "a43f704ecdf576c99364fa030e6fd76f"}
 {"id": 246625, "url": "http://surfwsa.pages.dev", "discovery": "2024-09-18 18:54:15", "added": "2024-09-18 18:54:15", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "fd7bb9938de1f35001913a960233bed6"}
 {"id": 246624, "url": "https://lygeum.saylorie.click/mfuuz/iqys/jgkfs/rsjbv?f01a488694b9c66b43dfb8fc5e5c50bb", "discovery": "2024-09-18 18:50:58", "added": "2024-09-18 18:50:58", "target": "Apple", "reporter": "urlabuse", "AbuseType": "phishing", "UUID": "b45fe2c1098a9afe6d0305cbb9329cba"}
@@ -503,8 +508,3 @@
 {"id": 246047, "url": "http://119.187.235.109:44470/Mozi.m", "discovery": "2024-09-18 00:24:01", "added": "2024-09-18 00:24:01", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "333c670977c5443fbc0d73537d5ac2dc"}
 {"id": 246046, "url": "http://117.255.211.18:35686/bin.sh", "discovery": "2024-09-18 00:23:59", "added": "2024-09-18 00:23:59", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "00c997b6f558401ca655a540537872ed"}
 {"id": 246045, "url": "http://117.254.103.136:44832/i", "discovery": "2024-09-18 00:23:31", "added": "2024-09-18 00:23:31", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "55e368486fb14a68816df647c6c3108f"}
-{"id": 246044, "url": "http://117.253.5.85:33611/i", "discovery": "2024-09-18 00:23:27", "added": "2024-09-18 00:23:27", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "24fb9c07b6004f90980ac8750cee9c3e"}
-{"id": 246043, "url": "http://117.252.230.169:46616/i", "discovery": "2024-09-18 00:23:25", "added": "2024-09-18 00:23:25", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "9c638ad890b94929af587cc325c473a0"}
-{"id": 246042, "url": "http://117.252.230.169:46616/bin.sh", "discovery": "2024-09-18 00:23:08", "added": "2024-09-18 00:23:08", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "33a398a2124f475aa8b5a4221321f0df"}
-{"id": 246041, "url": "http://117.248.49.113:35914/i", "discovery": "2024-09-18 00:23:06", "added": "2024-09-18 00:23:06", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "a71b085e4b624a6f9fcac6f5f98899b1"}
-{"id": 246040, "url": "http://pan.chinatelecom.workers.dev", "discovery": "2024-09-18 00:22:12", "added": "2024-09-18 00:22:12", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "d026b6e0bccff8f79a08a046a3b15703"}
