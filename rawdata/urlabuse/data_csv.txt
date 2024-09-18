@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-18 09:00:01 UTC
+# UPDATE: 2024-09-18 10:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+246355, 2024-09-18 09:50:17, 2024-09-18 09:50:17, phishing, 1d2aa161997de0a5172b58ed5eb67faa, http://stanpushverifikation.com
+246298, 2024-09-18 09:02:02, 2024-09-18 09:02:02, phishing, 9b88a35627486aacff9055a272c9f4cc, https://mst.ail.mybluehost.me/swisscom-login/swiss-login/bill/cc.php
 246297, 2024-09-18 08:58:14, 2024-09-18 08:58:14, phishing, 85394576a6217fc3d364bdfd4010537f, https://ch-stappo.com/de/receive/79469380
 246296, 2024-09-18 08:57:40, 2024-09-18 08:57:40, phishing, 03da2c3eb49627572f5598a901caae76, https://zollpaketdienst-express.com/home/
 246295, 2024-09-18 08:57:26, 2024-09-18 08:57:26, phishing, a2e9e18d0bc44dd24c3327d26181860f, https://zollpaketdienst-express.com
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 245628, 2024-09-17 14:20:43, 2024-09-17 14:20:43, malware, 3d55a650f0f3488ca66edc21d7dea63b, http://113.221.73.106:60192/bin.sh
 245627, 2024-09-17 14:20:32, 2024-09-17 14:20:32, malware, f01daa75ec7a4c46aab15106dba56f2e, http://112.248.83.184:38636/bin.sh
 245626, 2024-09-17 14:20:26, 2024-09-17 14:20:26, malware, 02416e06d5c2461fa1084d132ec17900, http://110.86.161.40:47241/bin.sh
-245625, 2024-09-17 14:18:13, 2024-09-17 14:18:13, phishing, b81dae533b5625d549a8f2fcfc5e15d7, http://gsuywerhdjqasyeoilshgdfweuwe03.pages.dev
-245624, 2024-09-17 14:04:57, 2024-09-17 14:04:57, hacked, 00244628f11890aeafa087587ceb4870, https://angelicacademy.com.ng/school/
