@@ -6,9 +6,19 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-18 03:00:02 UTC
+# UPDATE: 2024-09-18 04:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+246120, 2024-09-18 03:30:32, 2024-09-18 03:30:32, phishing, 1b747f968d8b912688da58e5c6bed3b0, https://accounts.configurations.best/validation.asp?mode=8xxx@xxx.com
+246119, 2024-09-18 03:28:48, 2024-09-18 03:28:48, phishing, 7380a4ad2ba987d8f95201975756927b, https://kappo-ch.com/de/receive/79469380
+246118, 2024-09-18 03:27:54, 2024-09-18 03:27:54, phishing, a2a0108e133062e3b017544d16bf1ab5, https://kumasch.mx-router-i.com/c/rjpr/_bon6idp/g33fdxwbxsu
+246117, 2024-09-18 03:27:33, 2024-09-18 03:27:33, phishing, 6040f5691c6069a988d9cd822e8d5eca, https://westernupd.com/xccdy
+246116, 2024-09-18 03:25:47, 2024-09-18 03:25:47, phishing, 987ff113a5e1df0293fc953cef055aca, http://paypal-service.aywsw.com/
+246115, 2024-09-18 03:25:15, 2024-09-18 03:25:15, phishing, 783e59f6199bd8b7e79659d9d716fc56, http://admin-eiam.com/paylog2/index.html
+246114, 2024-09-18 03:23:09, 2024-09-18 03:23:09, phishing, d763832949c50e53171862aed04cbe78, https://tapchigiambeo.com/TWINT_App/home.php
+246113, 2024-09-18 03:22:24, 2024-09-18 03:22:24, phishing, 9c81733c47af05acb72c56f7763b1a02, https://kumasch.mx-router-i.com/c/ldq5/fwmibzsy/g33fdxwbxsu
+246112, 2024-09-18 03:18:57, 2024-09-18 02:59:14, phishing, 230f229ff9c25dda30e2d097b591c085, https://ipfs.io/ipfs/bafkreie25gvitvp7heitjayfs7xhnqt4lagcplp5d7qq4jqjapgyzonrpi?index.html#x
+246111, 2024-09-18 03:02:11, 2024-09-18 03:02:11, phishing, 023e9a17fe47e276344a57f3688d464e, http://telegram-free-sexnaughty.pages.dev
 246110, 2024-09-18 02:30:17, 2024-09-18 02:30:17, phishing, 8e4584a8ee101f5ed2f5fe603a686baa, http://smartprotocols.pages.dev
 246109, 2024-09-18 02:21:44, 2024-09-18 02:21:44, malware, d9c11ec4c34d40bc9803a699bc47358b, http://59.182.114.8:36895/i
 246108, 2024-09-18 02:21:41, 2024-09-18 02:21:41, malware, 250d95d73f354b07b89141d78a7a1906, http://42.239.255.173:46589/i
@@ -499,13 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 245454, 2024-09-17 08:23:14, 2024-09-17 08:23:14, malware, 16e9d5819935433faa22de86a46bbb92, http://219.157.49.198:42834/bin.sh
 245453, 2024-09-17 08:23:11, 2024-09-17 08:23:11, malware, f260a110d9c34d32a1abeae5280697dd, http://182.121.252.251:54592/i
 245452, 2024-09-17 08:23:06, 2024-09-17 08:23:06, malware, fd46bd0151c147b2946a95ce82f757d8, http://175.9.171.207:33211/bin.sh
-245451, 2024-09-17 08:23:03, 2024-09-17 08:23:03, malware, 3c6ee955111a4847bc6d1009023e1504, http://123.4.74.77:53031/i
-245450, 2024-09-17 08:23:00, 2024-09-17 08:23:00, malware, 69a13d3f22bc4645a6dcccaf0c47d194, http://123.4.74.77:53031/bin.sh
-245449, 2024-09-17 08:22:58, 2024-09-17 08:22:58, malware, 7d104a2397c0454a81d9328d0996615d, http://123.129.155.31:38478/i
-245448, 2024-09-17 08:22:56, 2024-09-17 08:22:56, malware, 146b8637d0c048ab87ceaf9f0572cc9a, http://123.129.155.31:38478/bin.sh
-245447, 2024-09-17 08:22:54, 2024-09-17 08:22:54, malware, 16e1ba88a1394389bd86845200084b80, http://123.12.44.95:58684/
-245446, 2024-09-17 08:22:51, 2024-09-17 08:22:51, malware, 8dcc052dd6cd4e56970779659583c177, http://117.255.21.164:44662/bin.sh
-245445, 2024-09-17 08:22:29, 2024-09-17 08:22:29, malware, 1516cf0ea4234665972e70bd37761128, http://117.245.93.164:43895/bin.sh
-245444, 2024-09-17 08:22:26, 2024-09-17 08:22:26, malware, 128d43dcebe24a998e8597f7cd64321c, http://117.245.44.191:55194/i
-245443, 2024-09-17 08:21:06, 2024-09-17 08:21:06, malware, b93ee3b511614a1598e002e3d8864b9c, http://117.195.60.18:51169/i
-245442, 2024-09-17 08:20:19, 2024-09-17 08:20:19, malware, 5c8bcef22b9f455fb5349e3daae3d68b, http://115.63.207.252:55141/i
