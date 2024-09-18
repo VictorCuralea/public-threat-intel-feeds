@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-17 20:01:46 UTC                        #
+# Last updated: 2024-09-18 08:01:28 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ansj.duckdns.org
 127.0.0.1	5.42.102.43.sslip.io
 127.0.0.1	www.remote.pythr.net
 127.0.0.1	www.wwwwwwwwwapp.pythr.net
@@ -8428,5 +8429,4 @@
 127.0.0.1	ns2.fwmtest.cn
 127.0.0.1	ns1.fwmtest.cn
 127.0.0.1	service-akqr4y12-1300243308.hk.tencentapigw.cn
-127.0.0.1	firmware.fucktheccp.top
 # Number of entries: 8423
