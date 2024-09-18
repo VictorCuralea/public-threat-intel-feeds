@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-18 07:00:02 UTC
+# UPDATE: 2024-09-18 08:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+246230, 2024-09-18 07:04:17, 2024-09-18 07:04:17, phishing, 90e82ba06ba9db984f1b839973f59e82, https://mail.sf-express.com/
+246229, 2024-09-18 07:03:33, 2024-09-18 07:03:33, phishing, a08987eae0879901debea70a31ebd0d0, https://7365ss.com/
+246228, 2024-09-18 07:03:23, 2024-09-18 07:03:23, phishing, c3214d30dbf95e1958af8eda2fa6beff, https://sf-express.exchange-outlook.com/
+246227, 2024-09-18 07:03:19, 2024-09-18 07:03:19, phishing, 227cb8cba207b6c08f65e8426c0f03b9, https://yaranbartar.sbs/data/1000133597/payment/8e294ad6/Mellat.php
 246226, 2024-09-18 06:54:17, 2024-09-18 06:54:17, phishing, ac3d38d7725e53ad5aa2d3343e200ea5, http://that.gr
 246225, 2024-09-18 06:50:12, 2024-09-18 06:50:12, phishing, 3f9d555c38ccb6a86bb213d9ac9c7c5c, http://utudiegwuabaraubaeeyenwwnnemmaduakwanaguzimotmolabalalanas.pages.dev
 246224, 2024-09-18 06:24:26, 2024-09-18 06:24:26, malware, 8ece5fb23fbc49ec86936cdefc55a2e0, http://61.3.178.128:57846/i
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 245564, 2024-09-17 12:28:26, 2024-09-17 12:28:26, malware, af3f7edb756046658a325931b5d791da, http://219.155.84.96:52738/bin.sh
 245563, 2024-09-17 12:28:24, 2024-09-17 12:28:24, malware, 64ded44d2a78487e94adc19e634f3a99, http://197.89.51.93:55498/bin.sh
 245562, 2024-09-17 12:28:21, 2024-09-17 12:28:21, malware, 607a4a9d078c40b59666358448c30d3d, http://197.89.51.93:55498/
-245561, 2024-09-17 12:28:19, 2024-09-17 12:28:19, malware, b7d2bea1830f4240ac0b09d6fa6a6de5, http://182.120.40.229:56360/bin.sh
-245560, 2024-09-17 12:28:14, 2024-09-17 12:28:14, malware, 356711d10ece4b11a2822989f5dcdfbe, http://182.118.147.130:34597/
-245559, 2024-09-17 12:28:11, 2024-09-17 12:28:11, phishing, b0036c8d1670182b4a102e74dfe2d591, http://somujayrpysoijboneusweszdhg03.pages.dev
-245558, 2024-09-17 12:28:01, 2024-09-17 12:28:01, malware, 93feeca17f4740238029ea90e385b893, http://125.40.115.186:52637/i
