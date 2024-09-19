@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-19 13:00:02 UTC
+# UPDATE: 2024-09-19 14:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+247066, 2024-09-19 13:02:31, 2024-09-19 13:02:31, phishing, 7ae1e6e340088e644e4a2d67f8131f10, https://web.whatsapp.com.id4.tingkehvpn.us.kg/
+247065, 2024-09-19 13:02:14, 2024-09-19 13:02:14, phishing, 4ae3b99bd0013aa84a249cb2d7f753f4, https://sec-telegram.org/
 247064, 2024-09-19 12:22:40, 2024-09-19 12:22:40, malware, abdd15df95bd40ca8c38df6e45c657c7, http://59.95.89.185:33836/i
 247063, 2024-09-19 12:22:07, 2024-09-19 12:22:07, malware, 9cf22433c2294d2898c0591d36ec38dc, http://42.232.239.94:46185/i
 247062, 2024-09-19 12:22:05, 2024-09-19 12:22:05, malware, d855c51691004270ab19074c6b1453cb, http://42.232.239.94:46185/bin.sh
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 246569, 2024-09-18 16:25:48, 2024-09-18 16:25:48, malware, d0050ca567b249e0b3a6739a470e22bd, http://42.230.56.71:51204/i
 246568, 2024-09-18 16:25:35, 2024-09-18 16:25:35, malware, 347b1b1cda554585b549cef2e7ed56d3, http://42.228.246.37:37597/
 246567, 2024-09-18 16:25:34, 2024-09-18 16:25:34, malware, da497f7a67bd4c88822d4acbb72212b1, http://39.74.99.216:41280/bin.sh
-246566, 2024-09-18 16:25:32, 2024-09-18 16:25:32, malware, 8383ac457fb643fa952cf21ab9fde2d7, http://39.74.91.239:60805/i
-246565, 2024-09-18 16:25:30, 2024-09-18 16:25:30, malware, 3f210c74686f488195cdc654cd0a61c4, http://31.163.239.11:44594/i
