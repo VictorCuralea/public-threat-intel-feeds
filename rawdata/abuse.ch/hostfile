@@ -1,11 +1,18 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-18 20:01:55 UTC                        #
+# Last updated: 2024-09-19 04:01:20 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	session.mailsession.com
+127.0.0.1	www.manishgoyal.in
+127.0.0.1	sitemap.ethergases.org
+127.0.0.1	www.lnatboxtv.org
+127.0.0.1	staging.pythr.net
+127.0.0.1	visual.ethergases.org
+127.0.0.1	163-172-125-253.rev.poneytelecom.eu
 127.0.0.1	outlook.adminstream.org
 127.0.0.1	dtngbwwwwwwdesktopstudent.pythr.net
 127.0.0.1	wwwwwwwebmail.ethergases.org
@@ -8467,4 +8474,4 @@
 127.0.0.1	cf-protected-l7.com
 127.0.0.1	xmr.2miners.com
 127.0.0.1	aptcorp.us
-# Number of entries: 8461
+# Number of entries: 8468
