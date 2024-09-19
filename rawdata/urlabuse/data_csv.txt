@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-19 19:00:02 UTC
+# UPDATE: 2024-09-19 20:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+247459, 2024-09-19 19:03:26, 2024-09-19 19:03:26, phishing, dea84013013077358031f8a2046c1963, http://pub-02e50e21a32c4827adaaec2353ad80e2.r2.dev/sm.html
+247458, 2024-09-19 19:02:49, 2024-09-19 19:02:49, phishing, 685ed3a08e99373655861970155f88e5, http://pub-e98bcbb63fbd4f549e44c6a27ef5d234.r2.dev/to.html
 247457, 2024-09-19 18:46:13, 2024-09-19 18:46:13, phishing, 0481b65ab05004dc79c64a85e3988eb8, http://35ya5rt5a3t3t3r54t34.pages.dev
 247456, 2024-09-19 18:32:14, 2024-09-19 18:32:14, phishing, 8026ef79973f3fec458813c17d4e8063, http://ridex-extra.pages.dev
 247452, 2024-09-19 18:27:51, 2024-09-19 18:27:51, malware, 2d0ee39d7a0b44f2b13472015e31a7b7, http://61.53.251.16:47346/i
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 246720, 2024-09-18 22:22:26, 2024-09-18 22:22:26, malware, 2670cc9461704f5f9c0c6e5d16bcb9f2, http://221.15.160.244:35390/
 246719, 2024-09-18 22:22:24, 2024-09-18 22:22:24, malware, c1846fd439164368b5e4a318e98c5707, http://200.111.102.27:54359/bin.sh
 246718, 2024-09-18 22:22:15, 2024-09-18 22:22:15, malware, 4ed2f3f13213415c8ce71b332bbb23c8, http://185.215.113.100/doun/game.exe
-246717, 2024-09-18 22:21:49, 2024-09-18 22:21:49, malware, 0b845fa2623342f3921e5591d639f7bc, http://182.122.234.25:38053/bin.sh
-246716, 2024-09-18 22:21:46, 2024-09-18 22:21:46, malware, 01047665c636478aba92eb0c14b23149, http://182.121.248.61:54592/i
