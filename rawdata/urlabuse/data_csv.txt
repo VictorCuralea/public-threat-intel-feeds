@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-19 09:00:01 UTC
+# UPDATE: 2024-09-19 10:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+246951, 2024-09-19 09:42:15, 2024-09-19 09:42:15, phishing, 402a7cdcccc3419c131d547f945fbd28, http://blikowski.pl
+246950, 2024-09-19 09:24:19, 2024-09-19 09:24:19, phishing, ff21f73589ef9d46d4a6dae080fed33f, http://token.im.app5c.top
+246949, 2024-09-19 09:06:50, 2024-09-19 09:06:50, phishing, 437e21b794564134edf87369c5539699, https://pub-1fc3045e5f3b47f7b3665fc5a9ed4c1e.r2.dev/chinamaxmail.html#x
+246948, 2024-09-19 09:06:42, 2024-09-19 08:46:18, phishing, bd8c05af7845fd6591c335f86a0dc16a, https://urlgo.co/r/17549#x
 246947, 2024-09-19 08:47:03, 2024-09-19 08:28:51, phishing, b3ae2373a86696c881cbac97c867e583, https://doc.gac-uae.com/mode1/?top=amazon@amazon.com
 246946, 2024-09-19 08:40:15, 2024-09-19 08:40:15, phishing, 6b85acb657779f314ee1e3fa63058015, http://launchloomsol.pages.dev
 246945, 2024-09-19 08:28:13, 2024-09-19 08:28:13, phishing, 69934e1e9e08c8f8f55a1850217bd17f, http://telegramsexxxnew.pages.dev
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 246454, 2024-09-18 12:26:28, 2024-09-18 12:26:28, malware, bd7044cc250e4b6da0fb03892fd87b98, http://182.119.3.194:52218/bin.sh
 246453, 2024-09-18 12:26:16, 2024-09-18 12:26:16, malware, 6646ebe670034aa7b0bfec6f04ea40ec, http://182.116.87.142:48139/bin.sh
 246452, 2024-09-18 12:26:14, 2024-09-18 12:26:14, malware, d7737f2547954ba6924b0d4054eb749d, http://182.116.87.142:48139/
-246451, 2024-09-18 12:26:12, 2024-09-18 12:26:12, malware, d4eb71346e1d4b31810c60c87c20f724, http://182.116.114.32:39690/bin.sh
-246450, 2024-09-18 12:26:10, 2024-09-18 12:26:10, malware, 53d96fcb0b914aeabd1bf78909bc0b6a, http://182.113.47.11:35571/i
-246449, 2024-09-18 12:26:08, 2024-09-18 12:26:08, malware, feb7ac9a06a44a4ebb678c4c84b9c783, http://182.113.47.11:35571/bin.sh
-246448, 2024-09-18 12:25:27, 2024-09-18 12:25:27, malware, 4ea31fe0a9a34962ace56e7945d79366, http://125.40.114.147:40922/i
