@@ -2,7 +2,7 @@
 
 
 ```
-git clone hhttps://github.com/VictorCuralea/public-threat-intel-feeds
+git clone https://github.com/VictorCuralea/public-threat-intel-feeds
 cd searchfeeds
 ```
 
