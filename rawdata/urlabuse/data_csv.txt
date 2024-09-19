@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-19 11:00:01 UTC
+# UPDATE: 2024-09-19 12:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+247053, 2024-09-19 11:52:17, 2024-09-19 11:52:17, phishing, e41517b6702cbff28e705240cc3bfa2c, http://redex-mint.pages.dev
+247052, 2024-09-19 11:48:16, 2024-09-19 11:48:16, phishing, 35a05c9bae0f78efb9596a62ec9e518c, http://re-accesscloud.pages.dev
+247051, 2024-09-19 11:30:15, 2024-09-19 11:30:15, phishing, fd17d189a9242094cb7bd46d94a866cd, http://re-accessco.pages.dev
+247050, 2024-09-19 11:26:15, 2024-09-19 11:26:15, phishing, bbd643cc0dca1d746c6c0e1264c5edbc, http://solvesynchronizationissues.live
 247049, 2024-09-19 10:57:51, 2024-09-19 10:48:12, phishing, e23e77802701010c71d2d7af2685d9ad, https://lhv-ee.pacotravelhub.com
 247048, 2024-09-19 10:47:34, 2024-09-19 09:17:29, phishing, 4d1809c709941bf4c1e958c613edd56d, https://cienta.jxgb.info/ga/click/2-344583606-21143-68298-135323-80203-df7bd05133-ed7fd045d9
 247047, 2024-09-19 10:46:14, 2024-09-19 10:46:14, phishing, a0419c853eb6a66e28a2d47e12a0a9d6, http://pozcmvasymmetrical.pages.dev
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 246556, 2024-09-18 16:24:39, 2024-09-18 16:24:39, malware, d269ba10ec9545749772e45ca54ed6ed, http://219.154.144.148:46687/bin.sh
 246555, 2024-09-18 16:24:37, 2024-09-18 16:24:37, malware, 1c6416b87c8543e685d1f2f38ead44ea, http://185.8.196.52:47781/i
 246554, 2024-09-18 16:24:36, 2024-09-18 16:24:36, malware, 83f697494d784760aa39a1acf1e799dd, http://185.8.196.52:47781/bin.sh
-246553, 2024-09-18 16:24:36, 2024-09-18 16:24:36, malware, 8b65d7ed2f94483e8b55dbc012010f81, http://182.127.69.237:57557/i
-246552, 2024-09-18 16:24:33, 2024-09-18 16:24:33, malware, 1247d953fc7049bcacef2cce3fb1038d, http://182.127.69.237:57557/bin.sh
-246551, 2024-09-18 16:24:31, 2024-09-18 16:24:31, malware, 9082259f23ea4110a822e760dfe7a281, http://182.120.53.221:35681/
-246550, 2024-09-18 16:24:00, 2024-09-18 16:24:00, malware, a077c5536bff4600a87e3428c6df8e11, http://125.47.56.245:42674/i
