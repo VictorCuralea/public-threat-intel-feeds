@@ -1,11 +1,20 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-19 04:01:20 UTC                        #
+# Last updated: 2024-09-19 08:01:15 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	wwwwwwwwwvpnssl.pythr.net
+127.0.0.1	wwwwwwwww2024.ethergases.org
+127.0.0.1	www.wwwwwwmobileconnect.pythr.net
+127.0.0.1	www.wwwwwwrds1.pythr.net
+127.0.0.1	owa.pythr.net
+127.0.0.1	remoto.pythr.net
+127.0.0.1	www.fyblbwwwdesktopstudent.pythr.net
+127.0.0.1	metric.ethergases.org
+127.0.0.1	report.pythr.net
 127.0.0.1	session.mailsession.com
 127.0.0.1	www.manishgoyal.in
 127.0.0.1	sitemap.ethergases.org
@@ -8467,4 +8476,4 @@
 127.0.0.1	stealit.online
 127.0.0.1	blendy-game.com
 127.0.0.1	service-jby1ivts-1324864909.hk.tencentapigw.cn
-# Number of entries: 8461
+# Number of entries: 8470
