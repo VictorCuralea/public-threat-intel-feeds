@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-19 17:00:01 UTC
+# UPDATE: 2024-09-19 18:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+247407, 2024-09-19 17:45:11, 2024-09-19 17:44:11, phishing, 997114947ecfd786db9465cad5186dca, https://lhv-ee.himalayabusiness.com
 247186, 2024-09-19 16:43:14, 2024-09-19 16:32:15, phishing, f264d0a8309cb587d40309956765a195, https://service-bulgposta934869.codeanyapp.com/cs/page_settings/login.php?
 247185, 2024-09-19 16:24:15, 2024-09-19 16:24:15, phishing, b095caad2d186299e44d1fb905a34bf1, http://tp.ch56789.com
 247184, 2024-09-19 16:22:15, 2024-09-19 16:22:15, phishing, 75f09b80cc088ddb716af4644dc121f1, http://profile-mfacebook.help
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 246686, 2024-09-18 22:02:24, 2024-09-18 22:02:24, hacked, f27c5dbbfafe3b80f75eb2c1f148b2c9, https://corporate.elfshock.com/wp-content/anka.html
 246685, 2024-09-18 22:00:17, 2024-09-18 22:00:17, phishing, 10acf32168d2e1360e2e84f07465ad08, http://blockchainsyncprotocol.pages.dev
 246684, 2024-09-18 20:28:18, 2024-09-18 20:28:18, malware, a26f48df1a3c44e3bd1c828f3f361d67, http://61.52.113.45:41265/i
-246683, 2024-09-18 20:28:17, 2024-09-18 20:28:17, malware, 6f7dd080561a4731a07d2a4c857c43ac, http://61.52.113.45:41265/bin.sh

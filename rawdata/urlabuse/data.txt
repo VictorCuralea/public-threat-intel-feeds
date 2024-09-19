@@ -6,8 +6,9 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-19 17:00:01 UTC
+# UPDATE: 2024-09-19 18:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 247407, "url": "https://lhv-ee.himalayabusiness.com", "discovery": "2024-09-19 17:44:11", "added": "2024-09-19 17:45:11", "target": "LHV", "reporter": "CERT-EE", "AbuseType": "phishing", "UUID": "997114947ecfd786db9465cad5186dca"}
 {"id": 247186, "url": "https://service-bulgposta934869.codeanyapp.com/cs/page_settings/login.php?", "discovery": "2024-09-19 16:32:15", "added": "2024-09-19 16:43:14", "target": "Netflix", "reporter": "CERT-EE", "AbuseType": "phishing", "UUID": "f264d0a8309cb587d40309956765a195"}
 {"id": 247185, "url": "http://tp.ch56789.com", "discovery": "2024-09-19 16:24:15", "added": "2024-09-19 16:24:15", "target": "Token Pocket", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "b095caad2d186299e44d1fb905a34bf1"}
 {"id": 247184, "url": "http://profile-mfacebook.help", "discovery": "2024-09-19 16:22:15", "added": "2024-09-19 16:22:15", "target": "Facebook", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "75f09b80cc088ddb716af4644dc121f1"}
@@ -507,4 +508,3 @@
 {"id": 246686, "url": "https://corporate.elfshock.com/wp-content/anka.html", "discovery": "2024-09-18 22:02:24", "added": "2024-09-18 22:02:24", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "f27c5dbbfafe3b80f75eb2c1f148b2c9"}
 {"id": 246685, "url": "http://blockchainsyncprotocol.pages.dev", "discovery": "2024-09-18 22:00:17", "added": "2024-09-18 22:00:17", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "10acf32168d2e1360e2e84f07465ad08"}
 {"id": 246684, "url": "http://61.52.113.45:41265/i", "discovery": "2024-09-18 20:28:18", "added": "2024-09-18 20:28:18", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "a26f48df1a3c44e3bd1c828f3f361d67"}
-{"id": 246683, "url": "http://61.52.113.45:41265/bin.sh", "discovery": "2024-09-18 20:28:17", "added": "2024-09-18 20:28:17", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "6f7dd080561a4731a07d2a4c857c43ac"}
