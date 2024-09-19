@@ -1,11 +1,17 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-19 13:03:41 UTC                        #
+# Last updated: 2024-09-19 14:08:45 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	chefspavilion.com
+127.0.0.1	blv23728.ddns.net
+127.0.0.1	milandvb.no-ip.net
+127.0.0.1	trvtest.click
+127.0.0.1	beheshtsoft.com
+127.0.0.1	notablelibrary.com
 127.0.0.1	garageserviceoperation.com
 127.0.0.1	tventyvd20vt.top
 127.0.0.1	sevtvd17vs.top
@@ -8487,4 +8493,4 @@
 127.0.0.1	beacon.etallyall.com
 127.0.0.1	stealit.online
 127.0.0.1	blendy-game.com
-# Number of entries: 8481
+# Number of entries: 8487
