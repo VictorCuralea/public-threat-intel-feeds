@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-18 23:00:02 UTC
+# UPDATE: 2024-09-19 00:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+246724, 2024-09-18 23:32:17, 2024-09-18 23:32:17, phishing, 46b0c5393ed81b396e1c133f0b74a33d, http://revappaccess.pages.dev
 246723, 2024-09-18 22:28:12, 2024-09-18 22:28:12, phishing, 23d551953bd1cac9c128a73ffb8c35c7, http://vfat-rpcdebugtool.pages.dev
 246722, 2024-09-18 22:22:31, 2024-09-18 22:22:31, malware, 02bf8d66a1bd42a1b9ffc8014577eb8a, http://42.231.66.159:54826/i
 246721, 2024-09-18 22:22:28, 2024-09-18 22:22:28, malware, b05e6406af68419ab996b6cb494d6ec1, http://42.231.252.101:39608/i
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 246140, 2024-09-18 04:23:56, 2024-09-18 04:23:56, malware, 17eaf2c6f41c4ee789a46261f0f6f232, http://117.253.172.59:58611/Mozi.m
 246139, 2024-09-18 04:23:19, 2024-09-18 04:23:19, malware, 2731bf943fe84ab4806f9547833fb7ae, http://117.245.46.156:47187/bin.sh
 246138, 2024-09-18 04:22:43, 2024-09-18 04:22:43, malware, 1289959b7e244711bc7fbd21e4f2f305, http://117.219.240.79:56981/bin.sh
-246137, 2024-09-18 04:22:41, 2024-09-18 04:22:41, malware, a9ee3f5854bb449cb04b0bea9ff1ee10, http://117.219.180.231:47824/bin.sh
