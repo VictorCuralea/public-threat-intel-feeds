@@ -6,8 +6,15 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-20 19:00:01 UTC
+# UPDATE: 2024-09-20 20:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 248280, "url": "http://cronosconnect.pages.dev", "discovery": "2024-09-20 19:56:13", "added": "2024-09-20 19:56:13", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "fdd7042d78a6d6d0b1f97f9113428710"}
+{"id": 248260, "url": "https://telegram.grafana.es/", "discovery": "2024-09-20 19:04:19", "added": "2024-09-20 19:04:19", "target": "Telegram", "reporter": "lruubotd", "AbuseType": "phishing", "UUID": "0bf80e24c1e92027ba9270657f4d46b9"}
+{"id": 248259, "url": "https://telegram.grafana.es/", "discovery": "2024-09-20 19:04:19", "added": "2024-09-20 19:04:19", "target": "Telegram", "reporter": "lruubotd", "AbuseType": "phishing", "UUID": "e53eff1fff7180c5a467a173facac4bb"}
+{"id": 248258, "url": "https://vorodibartar.sbs/data/6654981346/payment/5802Xc9T/Mellat.php?amount=100,000", "discovery": "2024-09-20 19:03:36", "added": "2024-09-20 19:03:36", "target": "Shaparak", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "745c5d1b588a97f6358acb9334a4391d"}
+{"id": 248257, "url": "https://grafana.es/", "discovery": "2024-09-20 19:02:37", "added": "2024-09-20 19:02:37", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "1df546a6f2447d1ce3c654ebf08a7bb2"}
+{"id": 248256, "url": "http://grafana.es/ekanban", "discovery": "2024-09-20 19:02:31", "added": "2024-09-20 19:02:31", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "adad1dfd889856ca74fb2393111ef067"}
+{"id": 248255, "url": "http://dailyanalysisfree.com/", "discovery": "2024-09-20 19:02:26", "added": "2024-09-20 19:02:26", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "fa1f124e3848d3ffce05bcfa0025ffd2"}
 {"id": 248212, "url": "http://61.54.197.80:38341/", "discovery": "2024-09-20 18:25:55", "added": "2024-09-20 18:25:55", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "bc73b271d2b049bc873c1fcc964666d4"}
 {"id": 248211, "url": "http://61.53.202.137:39991/bin.sh", "discovery": "2024-09-20 18:25:53", "added": "2024-09-20 18:25:53", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "ed8a951af74b4f35a596f4c806779e62"}
 {"id": 248209, "url": "http://59.98.121.119:56867/i", "discovery": "2024-09-20 18:25:42", "added": "2024-09-20 18:25:42", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "bde6449e900f47a4a856fdecfa9030af"}
@@ -501,10 +508,3 @@
 {"id": 247474, "url": "http://115.54.239.30:43121/i", "discovery": "2024-09-19 20:20:28", "added": "2024-09-19 20:20:28", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "d9b64b1861f34c2aa8f0e0958f81ca93"}
 {"id": 247473, "url": "http://115.54.239.30:43121/bin.sh", "discovery": "2024-09-19 20:20:26", "added": "2024-09-19 20:20:26", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "1187d8abe61f4daaa2ee2514f464a127"}
 {"id": 247472, "url": "http://115.52.81.133:46082/i", "discovery": "2024-09-19 20:20:24", "added": "2024-09-19 20:20:24", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "42f3beeb131543ada82a5a9c28ff1dd6"}
-{"id": 247471, "url": "http://115.48.154.59:47813/bin.sh", "discovery": "2024-09-19 20:20:10", "added": "2024-09-19 20:20:10", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "53850bbcea9f4ed1ae6d1447bae84662"}
-{"id": 247470, "url": "http://113.205.171.53:50923/bin.sh", "discovery": "2024-09-19 20:20:09", "added": "2024-09-19 20:20:09", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "fded88929d7742bead48904e28e82602"}
-{"id": 247469, "url": "http://111.22.21.217:37592/bin.sh", "discovery": "2024-09-19 20:20:07", "added": "2024-09-19 20:20:07", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "8aa69f3f2ba84831b5ea9409453455f0"}
-{"id": 247466, "url": "http://remove.dermomakeup.com.br", "discovery": "2024-09-19 20:00:15", "added": "2024-09-19 20:00:15", "target": "Whatsapp", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "2e75b8fa52726319b1063631a1bee729"}
-{"id": 247459, "url": "http://pub-02e50e21a32c4827adaaec2353ad80e2.r2.dev/sm.html", "discovery": "2024-09-19 19:03:26", "added": "2024-09-19 19:03:26", "target": "Microsoft", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "dea84013013077358031f8a2046c1963"}
-{"id": 247458, "url": "http://pub-e98bcbb63fbd4f549e44c6a27ef5d234.r2.dev/to.html", "discovery": "2024-09-19 19:02:49", "added": "2024-09-19 19:02:49", "target": "Microsoft", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "685ed3a08e99373655861970155f88e5"}
-{"id": 247457, "url": "http://35ya5rt5a3t3t3r54t34.pages.dev", "discovery": "2024-09-19 18:46:13", "added": "2024-09-19 18:46:13", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "0481b65ab05004dc79c64a85e3988eb8"}

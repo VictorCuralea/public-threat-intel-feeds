@@ -6,9 +6,16 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-20 19:00:01 UTC
+# UPDATE: 2024-09-20 20:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+248280, 2024-09-20 19:56:13, 2024-09-20 19:56:13, phishing, fdd7042d78a6d6d0b1f97f9113428710, http://cronosconnect.pages.dev
+248260, 2024-09-20 19:04:19, 2024-09-20 19:04:19, phishing, 0bf80e24c1e92027ba9270657f4d46b9, https://telegram.grafana.es/
+248259, 2024-09-20 19:04:19, 2024-09-20 19:04:19, phishing, e53eff1fff7180c5a467a173facac4bb, https://telegram.grafana.es/
+248258, 2024-09-20 19:03:36, 2024-09-20 19:03:36, phishing, 745c5d1b588a97f6358acb9334a4391d, https://vorodibartar.sbs/data/6654981346/payment/5802Xc9T/Mellat.php?amount=100,000
+248257, 2024-09-20 19:02:37, 2024-09-20 19:02:37, phishing, 1df546a6f2447d1ce3c654ebf08a7bb2, https://grafana.es/
+248256, 2024-09-20 19:02:31, 2024-09-20 19:02:31, phishing, adad1dfd889856ca74fb2393111ef067, http://grafana.es/ekanban
+248255, 2024-09-20 19:02:26, 2024-09-20 19:02:26, phishing, fa1f124e3848d3ffce05bcfa0025ffd2, http://dailyanalysisfree.com/
 248212, 2024-09-20 18:25:55, 2024-09-20 18:25:55, malware, bc73b271d2b049bc873c1fcc964666d4, http://61.54.197.80:38341/
 248211, 2024-09-20 18:25:53, 2024-09-20 18:25:53, malware, ed8a951af74b4f35a596f4c806779e62, http://61.53.202.137:39991/bin.sh
 248209, 2024-09-20 18:25:42, 2024-09-20 18:25:42, malware, bde6449e900f47a4a856fdecfa9030af, http://59.98.121.119:56867/i
@@ -502,10 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 247474, 2024-09-19 20:20:28, 2024-09-19 20:20:28, malware, d9b64b1861f34c2aa8f0e0958f81ca93, http://115.54.239.30:43121/i
 247473, 2024-09-19 20:20:26, 2024-09-19 20:20:26, malware, 1187d8abe61f4daaa2ee2514f464a127, http://115.54.239.30:43121/bin.sh
 247472, 2024-09-19 20:20:24, 2024-09-19 20:20:24, malware, 42f3beeb131543ada82a5a9c28ff1dd6, http://115.52.81.133:46082/i
-247471, 2024-09-19 20:20:10, 2024-09-19 20:20:10, malware, 53850bbcea9f4ed1ae6d1447bae84662, http://115.48.154.59:47813/bin.sh
-247470, 2024-09-19 20:20:09, 2024-09-19 20:20:09, malware, fded88929d7742bead48904e28e82602, http://113.205.171.53:50923/bin.sh
-247469, 2024-09-19 20:20:07, 2024-09-19 20:20:07, malware, 8aa69f3f2ba84831b5ea9409453455f0, http://111.22.21.217:37592/bin.sh
-247466, 2024-09-19 20:00:15, 2024-09-19 20:00:15, phishing, 2e75b8fa52726319b1063631a1bee729, http://remove.dermomakeup.com.br
-247459, 2024-09-19 19:03:26, 2024-09-19 19:03:26, phishing, dea84013013077358031f8a2046c1963, http://pub-02e50e21a32c4827adaaec2353ad80e2.r2.dev/sm.html
-247458, 2024-09-19 19:02:49, 2024-09-19 19:02:49, phishing, 685ed3a08e99373655861970155f88e5, http://pub-e98bcbb63fbd4f549e44c6a27ef5d234.r2.dev/to.html
-247457, 2024-09-19 18:46:13, 2024-09-19 18:46:13, phishing, 0481b65ab05004dc79c64a85e3988eb8, http://35ya5rt5a3t3t3r54t34.pages.dev

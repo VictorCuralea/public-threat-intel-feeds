@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-20 18:02:27 UTC                        #
+# Last updated: 2024-09-20 19:00:11 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	flfprlkgpppg.shop
+127.0.0.1	vanessalove.com
+127.0.0.1	myynzl.com
 127.0.0.1	hacker.eliron-networks369.org
 127.0.0.1	virtual.urban-orthodontics.com
 127.0.0.1	levels-plane.gl.at.ply.gg
@@ -8498,4 +8501,4 @@
 127.0.0.1	update.windows.server-microsoft.com
 127.0.0.1	www.security-microsoft.net
 127.0.0.1	update.centos-yum.com
-# Number of entries: 8492
+# Number of entries: 8495
