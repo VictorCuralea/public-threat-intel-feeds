@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-20 11:00:01 UTC
+# UPDATE: 2024-09-20 12:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+247813, 2024-09-20 11:18:13, 2024-09-20 11:18:13, phishing, 336a3e73923319ebda7559c807f7ba9d, http://a-b-c-d.pages.dev
 247812, 2024-09-20 10:42:13, 2024-09-20 10:42:13, phishing, 10d5440d37c423cfbdf49e44403263a2, http://assu-client-carte.com
 247811, 2024-09-20 10:27:03, 2024-09-20 10:27:03, malware, 0d66acc3a9d4412898c1dcf18ae282b4, http://93.123.85.163/mips
 247810, 2024-09-20 10:26:44, 2024-09-20 10:26:44, malware, e4d327a30f9a443f9eceb41f0e101258, http://60.214.56.173:54306/bin.sh
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 247065, 2024-09-19 13:02:14, 2024-09-19 13:02:14, phishing, 4ae3b99bd0013aa84a249cb2d7f753f4, https://sec-telegram.org/
 247064, 2024-09-19 12:22:40, 2024-09-19 12:22:40, malware, abdd15df95bd40ca8c38df6e45c657c7, http://59.95.89.185:33836/i
 247063, 2024-09-19 12:22:07, 2024-09-19 12:22:07, malware, 9cf22433c2294d2898c0591d36ec38dc, http://42.232.239.94:46185/i
-247062, 2024-09-19 12:22:05, 2024-09-19 12:22:05, malware, d855c51691004270ab19074c6b1453cb, http://42.232.239.94:46185/bin.sh
