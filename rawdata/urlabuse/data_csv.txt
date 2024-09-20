@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-20 01:00:02 UTC
+# UPDATE: 2024-09-20 02:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+247612, 2024-09-20 01:08:10, 2024-09-20 01:08:10, phishing, e8f32d4d20742dfe07530a63a49af952, http://adobe-stan.pages.dev
+247611, 2024-09-20 01:02:23, 2024-09-20 01:02:23, phishing, 9c84233815fd6d6bc5fc159198e56c58, https://teleprcem.icu/
+247610, 2024-09-20 01:02:15, 2024-09-20 01:02:15, phishing, b3667825ba90a657bd14892476d83372, https://projectsky.github.io/telegram
+247609, 2024-09-20 01:02:15, 2024-09-20 01:02:15, phishing, fc9ee4fcfce87faeac5ef63b8edae8b5, http://www.web-telegram.growthukraine.com/
 247608, 2024-09-20 00:36:16, 2024-09-20 00:36:16, phishing, a8172e9e5e2af7c8a43b2f3f5f6fb32b, http://versatileburnifysol.pages.dev
 247607, 2024-09-20 00:26:15, 2024-09-20 00:26:15, phishing, 829f8092eb17c086572c42d7988fc19b, http://tour-mexico-cbd-viajes-63224.tirp-documentation-cv.workers.dev
 247606, 2024-09-20 00:24:29, 2024-09-20 00:24:29, malware, 698a949de7374f45a01f770f6a2fa6c5, http://87.253.4.13:60269/i
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 246864, 2024-09-19 04:26:29, 2024-09-19 04:26:29, malware, 8706967acd464ff6be6e6cb0b0911245, http://59.99.93.208:56039/bin.sh
 246863, 2024-09-19 04:26:27, 2024-09-19 04:26:27, malware, 623f79e02f6b478897a2425ce8f99172, http://59.99.128.234:50800/bin.sh
 246862, 2024-09-19 04:26:09, 2024-09-19 04:26:09, malware, a3abccd012744b4ca3f451c5552fd43c, http://59.93.144.79:45557/i
-246861, 2024-09-19 04:26:07, 2024-09-19 04:26:07, malware, 90fbea01572e4f5c955f1c2846c9bff2, http://59.92.86.139:55946/bin.sh
-246860, 2024-09-19 04:25:55, 2024-09-19 04:25:55, malware, 7769c69a05c5428fa5f94f61944d4c54, http://59.89.200.101:41093/bin.sh
-246859, 2024-09-19 04:25:32, 2024-09-19 04:25:32, malware, 2790f24d36da47289ec110d24a49e157, http://59.182.144.254:47007/bin.sh
-246858, 2024-09-19 04:24:43, 2024-09-19 04:24:43, malware, 89be3fb6f8364d24a3ccab3e916213be, http://42.239.159.169:58034/i
