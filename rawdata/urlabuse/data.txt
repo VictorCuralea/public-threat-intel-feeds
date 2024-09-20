@@ -6,8 +6,14 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-20 07:00:02 UTC
+# UPDATE: 2024-09-20 08:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 247733, "url": "https://ipfs.io/ipfs/bafkreicxwh4oyb6souhugksgx3wtmavppcigyfq5cs64tvlsz3salgc3gy#x", "discovery": "2024-09-20 07:31:39", "added": "2024-09-20 07:38:20", "target": "Generic Email", "reporter": "anonymous", "AbuseType": "phishing", "UUID": "4b5cac375045dc89dbe488065aa42488"}
+{"id": 247732, "url": "https://pub-7a0f2f98ccee4b768053ae38d6732d35.r2.dev/index.html", "discovery": "2024-09-20 07:23:23", "added": "2024-09-20 07:24:00", "target": "Generic Email", "reporter": "anonymous", "AbuseType": "phishing", "UUID": "5effbd11f29a3e97e9c58d31ba039585"}
+{"id": 247731, "url": "http://smartmigratetool.pages.dev", "discovery": "2024-09-20 07:20:14", "added": "2024-09-20 07:20:14", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "3c79698dfb688601a0d98bea14cf0b15"}
+{"id": 247730, "url": "https://pub-32ee9d922dfd44f9972365f4730d8b9f.r2.dev/index.html#x", "discovery": "2024-09-20 06:37:05", "added": "2024-09-20 07:19:28", "target": "Generic Email", "reporter": "anonymous", "AbuseType": "phishing", "UUID": "96b2bf2db21884895db55398e048c137"}
+{"id": 247729, "url": "https://ipfs.io/ipfs/bafybeihhgxjxkwrh5vve2fv7w5qvxih562yohgl43db77hmlmqrnqxal7i/index.html#x", "discovery": "2024-09-20 07:06:16", "added": "2024-09-20 07:19:13", "target": "Generic Email", "reporter": "anonymous", "AbuseType": "phishing", "UUID": "e3e4827fe89ecc3dd97193db24d05ee8"}
+{"id": 247728, "url": "https://gateway.lighthouse.storage/ipfs/bafybeiccx3egzzgrk2zwecexyi3kvwfquupjup2gnhk73kp3x2277av6te#x", "discovery": "2024-09-20 06:58:49", "added": "2024-09-20 07:18:35", "target": "Generic Email", "reporter": "anonymous", "AbuseType": "phishing", "UUID": "9236545284e77fa61aec45497639ef36"}
 {"id": 247727, "url": "http://consolidates.pages.dev", "discovery": "2024-09-20 06:54:13", "added": "2024-09-20 06:54:13", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "2fa5fdb6044ec692e253912643b88722"}
 {"id": 247726, "url": "http://85.108.84.109:39621/bin.sh", "discovery": "2024-09-20 06:28:17", "added": "2024-09-20 06:28:17", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "c4a35898148f492390d2113514be4cff"}
 {"id": 247725, "url": "http://85.108.84.109:39621/", "discovery": "2024-09-20 06:28:13", "added": "2024-09-20 06:28:13", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "f5f3b71d7a1a4c55985a88bdd450f32d"}
@@ -502,9 +508,3 @@
 {"id": 246985, "url": "http://telegrarvm.work/", "discovery": "2024-09-19 10:07:16", "added": "2024-09-19 10:07:16", "target": "Telegram", "reporter": "lruray", "AbuseType": "phishing", "UUID": "acffded4aef703c4b116bceceb1a535b"}
 {"id": 246984, "url": "http://telegsrams.club/", "discovery": "2024-09-19 10:07:06", "added": "2024-09-19 10:07:06", "target": "Telegram", "reporter": "lruray", "AbuseType": "phishing", "UUID": "d61962ae800179d813a4a750c3a15986"}
 {"id": 246983, "url": "http://telegramu.club/", "discovery": "2024-09-19 10:07:04", "added": "2024-09-19 10:07:04", "target": "Telegram", "reporter": "lruray", "AbuseType": "phishing", "UUID": "cae30ea0f9e73cfbf72d263c628a5323"}
-{"id": 246982, "url": "http://telegsramt.club/", "discovery": "2024-09-19 10:07:00", "added": "2024-09-19 10:07:00", "target": "Telegram", "reporter": "lruray", "AbuseType": "phishing", "UUID": "3828ef34990fb90de45de231b7c64eff"}
-{"id": 246981, "url": "http://telegvrams.work/", "discovery": "2024-09-19 10:06:56", "added": "2024-09-19 10:06:56", "target": "Telegram", "reporter": "lruray", "AbuseType": "phishing", "UUID": "46ab4fc37dbcbfe7a1969ead17db8218"}
-{"id": 246980, "url": "http://telegiramc.club/", "discovery": "2024-09-19 10:06:48", "added": "2024-09-19 10:06:48", "target": "Telegram", "reporter": "lruray", "AbuseType": "phishing", "UUID": "9b2f004845784559a5d9692e3fa8da27"}
-{"id": 246979, "url": "http://telegiamr.club/", "discovery": "2024-09-19 10:06:48", "added": "2024-09-19 10:06:48", "target": "Telegram", "reporter": "lruray", "AbuseType": "phishing", "UUID": "79040c6da426e5585b3ee02cc2d458fa"}
-{"id": 246978, "url": "http://telegrsamx.club/", "discovery": "2024-09-19 10:06:48", "added": "2024-09-19 10:06:48", "target": "Telegram", "reporter": "lruray", "AbuseType": "phishing", "UUID": "53e4359d1442136cceb723e8eba0f233"}
-{"id": 246977, "url": "http://telegrarvm.club/", "discovery": "2024-09-19 10:06:44", "added": "2024-09-19 10:06:44", "target": "Telegram", "reporter": "lruray", "AbuseType": "phishing", "UUID": "f50b3386080ae4a994634be3bed4ea87"}

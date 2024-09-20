@@ -6,9 +6,15 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-20 07:00:02 UTC
+# UPDATE: 2024-09-20 08:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+247733, 2024-09-20 07:38:20, 2024-09-20 07:31:39, phishing, 4b5cac375045dc89dbe488065aa42488, https://ipfs.io/ipfs/bafkreicxwh4oyb6souhugksgx3wtmavppcigyfq5cs64tvlsz3salgc3gy#x
+247732, 2024-09-20 07:24:00, 2024-09-20 07:23:23, phishing, 5effbd11f29a3e97e9c58d31ba039585, https://pub-7a0f2f98ccee4b768053ae38d6732d35.r2.dev/index.html
+247731, 2024-09-20 07:20:14, 2024-09-20 07:20:14, phishing, 3c79698dfb688601a0d98bea14cf0b15, http://smartmigratetool.pages.dev
+247730, 2024-09-20 07:19:28, 2024-09-20 06:37:05, phishing, 96b2bf2db21884895db55398e048c137, https://pub-32ee9d922dfd44f9972365f4730d8b9f.r2.dev/index.html#x
+247729, 2024-09-20 07:19:13, 2024-09-20 07:06:16, phishing, e3e4827fe89ecc3dd97193db24d05ee8, https://ipfs.io/ipfs/bafybeihhgxjxkwrh5vve2fv7w5qvxih562yohgl43db77hmlmqrnqxal7i/index.html#x
+247728, 2024-09-20 07:18:35, 2024-09-20 06:58:49, phishing, 9236545284e77fa61aec45497639ef36, https://gateway.lighthouse.storage/ipfs/bafybeiccx3egzzgrk2zwecexyi3kvwfquupjup2gnhk73kp3x2277av6te#x
 247727, 2024-09-20 06:54:13, 2024-09-20 06:54:13, phishing, 2fa5fdb6044ec692e253912643b88722, http://consolidates.pages.dev
 247726, 2024-09-20 06:28:17, 2024-09-20 06:28:17, malware, c4a35898148f492390d2113514be4cff, http://85.108.84.109:39621/bin.sh
 247725, 2024-09-20 06:28:13, 2024-09-20 06:28:13, malware, f5f3b71d7a1a4c55985a88bdd450f32d, http://85.108.84.109:39621/
@@ -503,9 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 246985, 2024-09-19 10:07:16, 2024-09-19 10:07:16, phishing, acffded4aef703c4b116bceceb1a535b, http://telegrarvm.work/
 246984, 2024-09-19 10:07:06, 2024-09-19 10:07:06, phishing, d61962ae800179d813a4a750c3a15986, http://telegsrams.club/
 246983, 2024-09-19 10:07:04, 2024-09-19 10:07:04, phishing, cae30ea0f9e73cfbf72d263c628a5323, http://telegramu.club/
-246982, 2024-09-19 10:07:00, 2024-09-19 10:07:00, phishing, 3828ef34990fb90de45de231b7c64eff, http://telegsramt.club/
-246981, 2024-09-19 10:06:56, 2024-09-19 10:06:56, phishing, 46ab4fc37dbcbfe7a1969ead17db8218, http://telegvrams.work/
-246980, 2024-09-19 10:06:48, 2024-09-19 10:06:48, phishing, 9b2f004845784559a5d9692e3fa8da27, http://telegiramc.club/
-246979, 2024-09-19 10:06:48, 2024-09-19 10:06:48, phishing, 79040c6da426e5585b3ee02cc2d458fa, http://telegiamr.club/
-246978, 2024-09-19 10:06:48, 2024-09-19 10:06:48, phishing, 53e4359d1442136cceb723e8eba0f233, http://telegrsamx.club/
-246977, 2024-09-19 10:06:44, 2024-09-19 10:06:44, phishing, f50b3386080ae4a994634be3bed4ea87, http://telegrarvm.club/
