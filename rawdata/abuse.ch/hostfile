@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-19 17:22:31 UTC                        #
+# Last updated: 2024-09-20 00:01:12 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	idc-131-120-212-116.hkt.cc
+127.0.0.1	admin.propertiesbecho.com
+127.0.0.1	delonuevomision.con-ip.com
 127.0.0.1	github-scanner.com
 127.0.0.1	enemybotnet.com
 127.0.0.1	chefspavilion.com
@@ -8491,4 +8494,4 @@
 127.0.0.1	nanomarch8100.duckdns.org
 127.0.0.1	ameerpplus.ddns.net
 127.0.0.1	badbutperfect.com
-# Number of entries: 8485
+# Number of entries: 8488
