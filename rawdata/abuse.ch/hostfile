@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-20 15:26:50 UTC                        #
+# Last updated: 2024-09-20 18:02:27 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	hacker.eliron-networks369.org
 127.0.0.1	virtual.urban-orthodontics.com
 127.0.0.1	levels-plane.gl.at.ply.gg
 127.0.0.1	mtpolice2030.com
@@ -8497,4 +8498,4 @@
 127.0.0.1	update.windows.server-microsoft.com
 127.0.0.1	www.security-microsoft.net
 127.0.0.1	update.centos-yum.com
-# Number of entries: 8491
+# Number of entries: 8492
