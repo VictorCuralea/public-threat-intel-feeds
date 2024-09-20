@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-20 03:00:02 UTC
+# UPDATE: 2024-09-20 04:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+247649, 2024-09-20 03:20:11, 2024-09-20 03:20:11, phishing, e8b6ff5918f17dd9c83d60b25943a117, http://muhtesemagustosflrsatlrl.com
 247648, 2024-09-20 02:50:12, 2024-09-20 02:50:12, phishing, 2303d039c59efaa04d664b6b881cbcfc, http://adobe-amanda.pages.dev
 247647, 2024-09-20 02:24:08, 2024-09-20 02:24:08, malware, 8a6270e5a31142dabf4485d1d09f58cd, http://61.3.91.95:36196/bin.sh
 247646, 2024-09-20 02:24:06, 2024-09-20 02:24:06, malware, aa551f4da8a04d9aa5f12a4c0b44dfde, http://61.3.131.32:56539/bin.sh
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 246901, 2024-09-19 06:25:01, 2024-09-19 06:25:01, malware, 6f8b166ba70e4cf499f412e5175112d5, http://182.126.113.103:59053/i
 246900, 2024-09-19 06:24:59, 2024-09-19 06:24:59, malware, 483e2c1bf23c45ef92a242d93089d6e3, http://182.126.113.103:59053/bin.sh
 246899, 2024-09-19 06:24:57, 2024-09-19 06:24:57, malware, 1126540916f244f2abc2d1d4da2d6314, http://182.117.70.135:46879/i
-246898, 2024-09-19 06:24:55, 2024-09-19 06:24:55, malware, dda3a21a841a4ad682514d79872d4dd2, http://125.44.62.42:47846/i
