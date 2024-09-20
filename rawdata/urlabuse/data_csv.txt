@@ -6,9 +6,24 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-20 21:00:01 UTC
+# UPDATE: 2024-09-20 22:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+248362, 2024-09-20 21:58:49, 2024-09-20 21:58:49, phishing, 2aca6c91a11a91d154f7cc826d67439e, https://swisspassch-oevlogin.symbolsonstuff.com/daffed346e29c5654f54133d1fc65ccb
+248361, 2024-09-20 21:57:36, 2024-09-20 21:57:36, phishing, 6f07cfa539f37088ce3eb3256cad0a32, https://account.login.twint.ch.3-64-192-101.cprapid.com/twint.ch/.2ee489030e0ca80f536484648c215216/login/?5ffc216409a823fb83a11ce60da9e252
+248360, 2024-09-20 21:57:04, 2024-09-20 21:57:04, phishing, 29058b081807c7c8e2eb696dbb009528, https://0rc5zd5pdqbnlrkv5.adigeni.ge/eazy/web/
+248359, 2024-09-20 21:55:54, 2024-09-20 21:55:54, phishing, a03cb743c543ea4dc48f59ef30111218, https://saimuseiri-taiken.com/mt/TWINT_App
+248358, 2024-09-20 21:54:37, 2024-09-20 21:54:37, phishing, 8a80c4ea02dd526bcb55c20eae1151ad, https://autoscout24.swismarketplace.com
+248357, 2024-09-20 21:50:53, 2024-09-20 21:50:53, phishing, 09db0c0193141c71804f00f3190c486c, https://myemaiu.sbs/r2/re/raiffeisen/?session=31873814
+248356, 2024-09-20 21:50:00, 2024-09-20 21:50:00, phishing, 62a389d58932e2400f7d7638d6983886, https://start-saimuseiri.com/mt/TWINT_App
+248355, 2024-09-20 21:49:45, 2024-09-20 21:49:45, phishing, c527be24deb66ba0e7462a4f27f9480d, https://tapchigiambeo.com/app/TWINT_App/home.php
+248354, 2024-09-20 21:49:31, 2024-09-20 21:49:31, phishing, 0e7f2e69d18bd20eb25dc01f752b875f, https://saimuseiri-osaka.info/mt/TWINT_App
+248353, 2024-09-20 21:48:01, 2024-09-20 21:48:01, phishing, 06407c8f97f199c6dd2ea21c42b05865, https://tapchigiambeo.com/app/TWINT_App/profile.php?land=4
+248352, 2024-09-20 21:46:46, 2024-09-20 21:46:46, phishing, f88b3e3af41690d979be5233efa5f583, https://exchangeactiveserverowade.softr.app/
+248351, 2024-09-20 21:45:54, 2024-09-20 21:45:54, phishing, c1dbfe9e43ebd6ee54034e049909b098, https://owa365pathlogon.softr.app/
+248350, 2024-09-20 21:45:25, 2024-09-20 21:45:25, phishing, a408a54a26fc43b702c5e0b531c1aa81, https://fouzdouli.run-eu-central1.goorm.site/tyu/
+248349, 2024-09-20 21:38:19, 2024-09-20 21:38:19, phishing, 91b2fe1db1e16e8d6de87199c5cc18f8, http://ftaeblahyou.freehost.io/Dlc1pay/app.apk
+248348, 2024-09-20 21:37:16, 2024-09-20 21:25:07, phishing, 8b64381f3d324ed10598f462b3a008d3, http://ftaeblahyou.freehost.io/Dlc1pay/
 248340, 2024-09-20 20:34:19, 2024-09-20 20:34:19, malware, 318113f10a5d4bb9b785f0b0c6dcb482, http://94.51.192.135:47417/bin.sh
 248339, 2024-09-20 20:34:10, 2024-09-20 20:34:10, malware, c8ef31d07d3542b8bfc4b7c138991351, http://61.54.197.80:38341/i
 248338, 2024-09-20 20:34:08, 2024-09-20 20:34:08, malware, a148f86dd4fc42d98a5d74491fc0a76a, http://61.53.94.85:50505/
@@ -494,18 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 247550, 2024-09-19 22:22:32, 2024-09-19 22:22:32, malware, 2580552c064d4b96993a2c3970c3e070, http://117.248.28.62:37258/i
 247549, 2024-09-19 22:22:30, 2024-09-19 22:22:30, malware, b0e40a12015241fb83ed4a96a2f9a936, http://117.248.163.55:43883/i
 247548, 2024-09-19 22:22:10, 2024-09-19 22:22:10, malware, 812cd90fe3a0497ba74ba282faf22161, http://117.222.251.74:39123/Mozi.m
-247547, 2024-09-19 22:22:08, 2024-09-19 22:22:08, malware, 346564644acd45faab1594a2b1b39714, http://117.219.134.59:59985/i
-247546, 2024-09-19 22:21:25, 2024-09-19 22:21:25, malware, 919b23bd6eb9408c8c77c1f0b286914e, http://117.208.94.151:32945/bin.sh
-247545, 2024-09-19 22:21:13, 2024-09-19 22:21:13, malware, 1be71f00addf4b51904d104102e82c0a, http://117.206.75.59:45328/i
-247544, 2024-09-19 22:21:04, 2024-09-19 22:21:04, malware, 14755ebe1e534dd6bac5d2d13c4090b2, http://117.206.188.30:58232/i
-247543, 2024-09-19 22:20:38, 2024-09-19 22:20:38, malware, 6a44ce2290574e6ea25077f4c5caac0f, http://115.61.114.138:57166/Mozi.m
-247542, 2024-09-19 22:20:16, 2024-09-19 22:20:16, malware, 729f47c5022e4a2f9ab5cfc3778ae4d5, http://115.52.81.133:46082/Mozi.m
-247541, 2024-09-19 22:08:23, 2024-09-19 22:08:23, phishing, 346058feaf4b25c5e002a53b2dbc6038, http://tpwallct.com
-247540, 2024-09-19 22:06:18, 2024-09-19 22:06:18, phishing, af24bf32582f742539703a55114e6436, http://tpwallke.com
-247539, 2024-09-19 22:03:01, 2024-09-19 22:03:01, phishing, f64e3aaccd76615544594827954765ab, https://www.regis.chilltalk.co.th/plugins/toastr/config/login.php?
-247538, 2024-09-19 22:02:29, 2024-09-19 22:02:29, phishing, b2f8e6df6fa9fe48013a5b45e628c23d, https://netfimarketing.com/i13f5cd6fece3b4e5fsac1fc57b00f68eb3b.html
-247537, 2024-09-19 22:02:25, 2024-09-19 22:02:25, hacked, f2812e0f6562c9c5e55e07b2dddf56ba, https://asad.usamawork.com/php.html
-247536, 2024-09-19 22:02:23, 2024-09-19 22:02:23, phishing, 5225ccff3ac91d9e28e013626b15a639, https://telegram.dog/NWOxxxCOLLECTION
-247535, 2024-09-19 21:58:20, 2024-09-19 21:58:20, phishing, bac34fc90fd6484be835c22d7f01cde0, https://rff.ijh.mybluehost.me/me/ch/
-247534, 2024-09-19 21:57:33, 2024-09-19 21:57:33, phishing, 7ae5ba98c3c79cafc93631b75c02dd9d, https://trishulbook.com/setting
-247533, 2024-09-19 21:56:27, 2024-09-19 21:56:27, phishing, 9b0b1faaa10a750960fdba139ee772d7, https://myemaiu.sbs/r/re/raiffeisen/?session=31873814
