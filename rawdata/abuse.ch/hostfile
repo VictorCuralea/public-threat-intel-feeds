@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-20 20:01:29 UTC                        #
+# Last updated: 2024-09-20 22:20:09 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	greshunka.com
 127.0.0.1	events.api.georgicaautoholding.com
 127.0.0.1	outlook.mailsession.com
 127.0.0.1	www.evail.pw
@@ -8504,4 +8505,4 @@
 127.0.0.1	update.windows.server-microsoft.com
 127.0.0.1	www.security-microsoft.net
 127.0.0.1	update.centos-yum.com
-# Number of entries: 8498
+# Number of entries: 8499
