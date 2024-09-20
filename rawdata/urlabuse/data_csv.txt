@@ -6,9 +6,15 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-20 13:00:01 UTC
+# UPDATE: 2024-09-20 14:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+247864, 2024-09-20 13:56:13, 2024-09-20 13:56:13, phishing, 1a2b0eb4c4d14e6150f0432e3f6fcbe3, http://secrumm-doc052763.mscf-avvs-onilnee.workers.dev
+247863, 2024-09-20 13:46:13, 2024-09-20 13:46:13, phishing, cb36b57cd1597b110e76795e9057ff1d, http://giris-ceptehemenonline.com
+247862, 2024-09-20 13:40:14, 2024-09-20 13:40:14, phishing, b8d79b87dbc5d1473f453e443b69a68a, http://qatewayindex-run.cioud-api-online.workers.dev
+247861, 2024-09-20 13:24:15, 2024-09-20 13:24:15, phishing, 73c611066eb729666dc5ee740d5a3007, http://ci1ient-aiuth.cioud-api-online.workers.dev
+247860, 2024-09-20 13:06:15, 2024-09-20 13:06:15, phishing, 4fd5edec042c523c74f10359e5440955, http://ciienthqatevvay.cioud-api-online.workers.dev
+247859, 2024-09-20 13:04:18, 2024-09-20 13:04:18, phishing, ea717e3a0dc552b64b8f26960266c2e8, http://telagremn.cyou
 247858, 2024-09-20 12:52:18, 2024-09-20 12:52:18, phishing, 21fa0245b3422dd6b3851ddd429423ab, http://uspsdelivery.cc
 247857, 2024-09-20 12:30:59, 2024-09-20 12:30:59, malware, 39c2a6048b8b4bf592c92b9c50698889, https://siff-sd.com/temp/Docs-08-2024
 247856, 2024-09-20 12:30:50, 2024-09-20 12:30:50, malware, 37d756bbb1db4802b111cd2ae67b1d5a, http://95.134.54.197:54232/bin.sh
@@ -503,9 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 247116, 2024-09-19 15:20:07, 2024-09-19 15:20:07, malware, dd0fb2a7658b49b3b44c8d387e7f98b0, http://101.108.78.93:46191/bin.sh
 247115, 2024-09-19 14:33:32, 2024-09-19 14:33:32, malware, a879de74fc0e4abb980d33a5c8e412e4, http://61.53.97.180:55778/i
 247114, 2024-09-19 14:33:30, 2024-09-19 14:33:30, malware, 9f4745fbff794e3fb524d26c0fbbdaa0, http://61.53.97.180:55778/bin.sh
-247113, 2024-09-19 14:33:28, 2024-09-19 14:33:28, malware, ce814eb91a2742bf8aba43f594cc8d5c, http://61.53.237.156:41344/i
-247112, 2024-09-19 14:33:25, 2024-09-19 14:33:25, malware, 7677407f48784ab383d479d6fbd2fea2, http://61.53.237.156:41344/bin.sh
-247111, 2024-09-19 14:33:12, 2024-09-19 14:33:12, malware, 5ddb7fb376b14074b91864d58f21ee2e, http://61.53.135.118:50246/bin.sh
-247110, 2024-09-19 14:33:09, 2024-09-19 14:33:09, malware, b75462f27ae44e0f8699b0cdfe3f0e28, http://61.3.82.169:38603/bin.sh
-247109, 2024-09-19 14:31:27, 2024-09-19 14:31:27, malware, 2f96763a436f4b7689fe4817ea949c36, http://59.93.23.126:60449/i
-247108, 2024-09-19 14:31:25, 2024-09-19 14:31:25, malware, de8cfb0ad94849b5af49684e963dfcbf, http://59.93.106.150:53824/bin.sh
