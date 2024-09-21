@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-21 08:00:59 UTC                        #
+# Last updated: 2024-09-21 09:33:58 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	elevateecom.com
 127.0.0.1	wwwcloud.pythr.net
 127.0.0.1	peaqe.dev
 127.0.0.1	wwwwwwpublicsecure.pythr.net
@@ -8507,4 +8508,4 @@
 127.0.0.1	jenb128hiuedfhajduihfa.com
 127.0.0.1	alltorq-net.oncallservices.ca
 127.0.0.1	service-cedqvyh7-1322145958.sh.tencentapigw.com
-# Number of entries: 8501
+# Number of entries: 8502
