@@ -1,11 +1,18 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-20 22:20:09 UTC                        #
+# Last updated: 2024-09-21 00:01:36 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	evail.pw
+127.0.0.1	www.porkaloxov.com
+127.0.0.1	www.reports.ethergases.app
+127.0.0.1	superset.ethergases.app
+127.0.0.1	back-dev.hook.app.br
+127.0.0.1	www.wwwwwwwebmail.ethergases.app
+127.0.0.1	wwwreport.ethergases.app
 127.0.0.1	greshunka.com
 127.0.0.1	events.api.georgicaautoholding.com
 127.0.0.1	outlook.mailsession.com
@@ -8505,4 +8512,4 @@
 127.0.0.1	update.windows.server-microsoft.com
 127.0.0.1	www.security-microsoft.net
 127.0.0.1	update.centos-yum.com
-# Number of entries: 8499
+# Number of entries: 8506
