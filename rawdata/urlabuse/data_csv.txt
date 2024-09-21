@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-21 19:00:01 UTC
+# UPDATE: 2024-09-21 20:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+249064, 2024-09-21 19:40:19, 2024-09-21 19:40:19, phishing, c7feb7cf3f327d65578b1fa512bca0e8, http://tasty-husky-29.telebit.io
+249063, 2024-09-21 19:02:35, 2024-09-21 19:02:35, phishing, 51aef1d6094313fffef9a18f8f7f21d2, https://myloder.shop/delsgo/payment/
+249062, 2024-09-21 19:02:31, 2024-09-21 19:02:31, phishing, d2bb8e4202b885abc2b54032269ba930, https://ytkhw.freehost.io/ss/payment/index.php
 249061, 2024-09-21 18:25:28, 2024-09-21 18:25:28, malware, 24e82ea5f89a4b63a427ad580662156e, http://catkinlows.info/files/file.exe
 249060, 2024-09-21 18:24:41, 2024-09-21 18:24:41, malware, b0f68170008542d39b0ecd5869a1b89e, http://61.53.254.175:42594/i
 249059, 2024-09-21 18:24:07, 2024-09-21 18:24:07, malware, 2a785faffe7b4bcbba51d549e069f48a, http://59.91.31.202:53711/i
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 248303, 2024-09-20 20:27:42, 2024-09-20 20:27:42, malware, 35c91a3e7fd54f70b281d053b6b4e0fb, http://125.43.80.128:48411/i
 248302, 2024-09-20 20:27:38, 2024-09-20 20:27:38, malware, 0e253ad2721345d8bef24ca5815fed79, http://125.43.80.128:48411/bin.sh
 248301, 2024-09-20 20:27:36, 2024-09-20 20:27:36, malware, bb1265da94dc424d98aef4dd2c1a696a, http://125.41.6.217:38300/bin.sh
-248300, 2024-09-20 20:26:45, 2024-09-20 20:26:45, malware, 37605bc84b9a47aa9dbb6dfbb9be1711, http://117.248.173.33:34500/i
-248299, 2024-09-20 20:26:43, 2024-09-20 20:26:43, malware, 0313ef614a4b439fb90d9a1f0ff12272, http://117.248.173.33:34500/bin.sh
-248298, 2024-09-20 20:26:05, 2024-09-20 20:26:05, malware, dbe70349ea534f848845583f9f6348aa, http://117.248.164.102:43710/bin.sh
