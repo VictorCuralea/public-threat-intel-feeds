@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-21 05:00:01 UTC
+# UPDATE: 2024-09-21 06:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+248493, 2024-09-21 05:02:18, 2024-09-21 05:02:18, phishing, d386db8b1b79495d6d4f049099151e5d, http://verasuperinchmeta.pages.dev
 248492, 2024-09-21 04:02:33, 2024-09-21 04:02:33, phishing, d7175896bc7a953f4432273bce5f1932, http://mstsistema.com/liiwoeu/Monthly
 248491, 2024-09-21 04:02:28, 2024-09-21 04:02:28, phishing, 4e36d6f4c49654eaa0e88e99e1b6bf64, https://long8510.cc:8989/
 248490, 2024-09-21 03:27:54, 2024-09-21 03:27:54, malware, 6e0a299fc4a54ff38569e847360d2448, http://61.53.202.163:42702/i
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 247681, 2024-09-20 04:22:54, 2024-09-20 04:22:54, malware, 607feaf6e3a44789a72f39150536a4f3, http://61.0.221.50:58686/i
 247680, 2024-09-20 04:22:35, 2024-09-20 04:22:35, malware, 0351133591ab4ede8c83b2c11b9db6d5, http://59.95.93.50:32968/i
 247679, 2024-09-20 04:22:23, 2024-09-20 04:22:23, malware, 5d43fd73bc304e48afcb834e20b75b46, http://59.183.116.70:40031/i
-247678, 2024-09-20 04:22:21, 2024-09-20 04:22:21, malware, 151a8a7391ed47f382ae80197cb404f3, http://59.182.78.47:38074/i
