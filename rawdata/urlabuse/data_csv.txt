@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-21 15:00:02 UTC
+# UPDATE: 2024-09-21 16:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+249006, 2024-09-21 15:36:14, 2024-09-21 15:36:14, phishing, 427fc56d4b2df34aa2563cfdcbdf6d87, http://wtg.growthukraine.com
+249005, 2024-09-21 15:30:04, 2024-09-21 15:30:04, phishing, d5d960027d7069d497ee4eb8a957d59a, https://iyr.jnk.mybluehost.me/SBB/index/
+249004, 2024-09-21 15:26:21, 2024-09-21 15:26:21, phishing, c02d7ea1f32bfc1aa9f469abab1f3146, https://scotiaban.mnsas.com/public/wp-inc.html
 249003, 2024-09-21 14:58:13, 2024-09-21 14:58:13, phishing, 6cf19028bc890a36308def3cc4b6a8ae, http://eidekk.com
 249002, 2024-09-21 14:54:12, 2024-09-21 14:54:12, phishing, 4e71cc40d48ccf4853734937aa555975, http://authoffonline.duckdns.org
 249001, 2024-09-21 14:54:11, 2024-09-21 14:54:11, phishing, 4b788d96a35561cec63e8d7a3af9d317, http://esisverifya.xyz
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 247945, 2024-09-20 16:31:36, 2024-09-20 16:31:36, malware, 7d9a5909417a4aa5a9bd5f3524849d9d, http://61.3.191.135:57846/i
 247944, 2024-09-20 16:30:24, 2024-09-20 16:30:24, malware, ee93d3910b294fe6a5a6f8f6458b28a0, http://59.98.142.179:57389/i
 247943, 2024-09-20 16:30:22, 2024-09-20 16:30:22, malware, 3ea1d723c7cf40c583ac9688f90b3806, http://59.98.142.179:57389/bin.sh
-247942, 2024-09-20 16:27:56, 2024-09-20 16:27:56, malware, f168373b560d4fecbfa8ba6eba250a41, http://42.235.103.238:36737/Mozi.m
-247941, 2024-09-20 16:27:54, 2024-09-20 16:27:54, malware, 93293fd95aba49b0b2816229ddf5b26f, http://39.71.113.240:60436/i
-247940, 2024-09-20 16:27:52, 2024-09-20 16:27:52, malware, 0b6ce83ffc12493f95666d1e6e5c4f07, http://39.71.113.240:60436/bin.sh
