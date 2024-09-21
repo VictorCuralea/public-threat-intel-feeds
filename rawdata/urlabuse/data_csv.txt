@@ -6,9 +6,19 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-21 21:00:02 UTC
+# UPDATE: 2024-09-21 22:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+249114, 2024-09-21 21:58:36, 2024-09-21 21:58:36, phishing, 9c675ed90cf8951a60a68b4fdda4088f, https://antibiotic.es/ricardo/
+249113, 2024-09-21 21:53:30, 2024-09-21 21:53:30, malware, 12f5d42af5bb4cb49e9d4a2b990540e8, https://ytkhw.freehost.io/U/app.apk
+249112, 2024-09-21 21:52:51, 2024-09-21 21:48:18, phishing, 4bf34012863c7d0c27159810eaa1b9ad, https://ytkhw.freehost.io/U/
+249111, 2024-09-21 21:52:33, 2024-09-21 21:47:44, malware, 9f985b6424c240d59860621485eb3145, https://ytkhw.freehost.io/Y/app.apk
+249109, 2024-09-21 21:39:08, 2024-09-21 21:39:08, malware, b297a7caf5b1474da099faa1fc258a8f, https://faoei.org/%E2%80%8C/base.apk
+249108, 2024-09-21 21:38:22, 2024-09-21 21:37:34, phishing, ab457edcaca165cac3379d2ddea2227c, https://faoei.org/%E2%80%8C/
+249107, 2024-09-21 21:31:31, 2024-09-21 21:31:31, phishing, f57b5d1234786e75e48ded2f40c235af, https://irefn.com/%F0%9D%90%9C%E2%80%8C%E2%80%8C/page.php
+249106, 2024-09-21 21:31:20, 2024-09-21 21:17:51, phishing, 58124024d334222396c2bb35b4b5e7d9, https://irefn.com/𝐜‌‌/page.php
+249105, 2024-09-21 21:26:25, 2024-09-21 21:26:25, malware, bfd968fc4fff439b9dfc01b6f369dbe2, http://146.70.87.15/ir/%F0%9D%90%9C%E2%80%8C%E2%80%8C/app.apk
+249104, 2024-09-21 21:22:02, 2024-09-21 21:14:49, phishing, 533b3ed73498e869ce77147d808c46b3, https://sina.wuaze.com/login.html?i=1
 249103, 2024-09-21 20:29:36, 2024-09-21 20:29:36, malware, 13f1c0dbe450467f86da9334ca6be94c, http://catkinlows.info/files/file1.exe
 249102, 2024-09-21 20:27:06, 2024-09-21 20:27:06, malware, 19fc4183d7e1409f8d81074641f98707, http://77.125.241.86:33267/bin.sh
 249101, 2024-09-21 20:27:04, 2024-09-21 20:27:04, malware, 595974f2cc134b31866225084129257e, http://61.53.97.144:45366/i
@@ -499,13 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 248359, 2024-09-20 21:55:54, 2024-09-20 21:55:54, phishing, a03cb743c543ea4dc48f59ef30111218, https://saimuseiri-taiken.com/mt/TWINT_App
 248358, 2024-09-20 21:54:37, 2024-09-20 21:54:37, phishing, 8a80c4ea02dd526bcb55c20eae1151ad, https://autoscout24.swismarketplace.com
 248357, 2024-09-20 21:50:53, 2024-09-20 21:50:53, phishing, 09db0c0193141c71804f00f3190c486c, https://myemaiu.sbs/r2/re/raiffeisen/?session=31873814
-248356, 2024-09-20 21:50:00, 2024-09-20 21:50:00, phishing, 62a389d58932e2400f7d7638d6983886, https://start-saimuseiri.com/mt/TWINT_App
-248355, 2024-09-20 21:49:45, 2024-09-20 21:49:45, phishing, c527be24deb66ba0e7462a4f27f9480d, https://tapchigiambeo.com/app/TWINT_App/home.php
-248354, 2024-09-20 21:49:31, 2024-09-20 21:49:31, phishing, 0e7f2e69d18bd20eb25dc01f752b875f, https://saimuseiri-osaka.info/mt/TWINT_App
-248353, 2024-09-20 21:48:01, 2024-09-20 21:48:01, phishing, 06407c8f97f199c6dd2ea21c42b05865, https://tapchigiambeo.com/app/TWINT_App/profile.php?land=4
-248352, 2024-09-20 21:46:46, 2024-09-20 21:46:46, phishing, f88b3e3af41690d979be5233efa5f583, https://exchangeactiveserverowade.softr.app/
-248351, 2024-09-20 21:45:54, 2024-09-20 21:45:54, phishing, c1dbfe9e43ebd6ee54034e049909b098, https://owa365pathlogon.softr.app/
-248350, 2024-09-20 21:45:25, 2024-09-20 21:45:25, phishing, a408a54a26fc43b702c5e0b531c1aa81, https://fouzdouli.run-eu-central1.goorm.site/tyu/
-248349, 2024-09-20 21:38:19, 2024-09-20 21:38:19, phishing, 91b2fe1db1e16e8d6de87199c5cc18f8, http://ftaeblahyou.freehost.io/Dlc1pay/app.apk
-248348, 2024-09-20 21:37:16, 2024-09-20 21:25:07, phishing, 8b64381f3d324ed10598f462b3a008d3, http://ftaeblahyou.freehost.io/Dlc1pay/
-248340, 2024-09-20 20:34:19, 2024-09-20 20:34:19, malware, 318113f10a5d4bb9b785f0b0c6dcb482, http://94.51.192.135:47417/bin.sh

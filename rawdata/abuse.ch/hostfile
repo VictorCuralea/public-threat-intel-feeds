@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-21 20:27:13 UTC                        #
+# Last updated: 2024-09-21 21:23:43 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	cn.foxnointel.ru
 127.0.0.1	timez0.duckdns.org
 127.0.0.1	process-medieval.gl.at.ply.gg
 127.0.0.1	armayalitim.com
@@ -8526,4 +8527,4 @@
 127.0.0.1	powellfrank.ddns.net
 127.0.0.1	yubarats.ddns.net
 127.0.0.1	darkstorm275991.ddns.net
-# Number of entries: 8520
+# Number of entries: 8521
