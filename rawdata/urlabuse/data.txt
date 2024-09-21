@@ -6,7 +6,7 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-20 23:00:02 UTC
+# UPDATE: 2024-09-21 00:00:01 UTC
 ############### END COMMENTS ###############
 {"id": 248398, "url": "http://mywalletweb3.com", "discovery": "2024-09-20 22:58:13", "added": "2024-09-20 22:58:13", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "cfd1bb9c949be3aabcaf63c8eff79cda"}
 {"id": 248397, "url": "http://61.53.94.85:50505/i", "discovery": "2024-09-20 22:24:26", "added": "2024-09-20 22:24:26", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "ca66303c579d4d01913e0534474b8002"}
