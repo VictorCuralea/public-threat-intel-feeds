@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-21 12:08:35 UTC                        #
+# Last updated: 2024-09-21 14:14:36 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	update-ledger.net
 127.0.0.1	sound-falls.gl.at.ply.gg
 127.0.0.1	www.wwwwwwsitemap.ethergases.org
 127.0.0.1	www.intel.ethergases.org
@@ -8513,4 +8514,4 @@
 127.0.0.1	ns1.kogyoung.com
 127.0.0.1	ns9.bpibank.org
 127.0.0.1	ns8.bpibank.org
-# Number of entries: 8507
+# Number of entries: 8508
