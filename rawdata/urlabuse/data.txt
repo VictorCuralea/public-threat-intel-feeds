@@ -6,8 +6,9 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-21 23:00:01 UTC
+# UPDATE: 2024-09-22 00:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 249190, "url": "http://ladybirdsss.pages.dev", "discovery": "2024-09-21 23:30:13", "added": "2024-09-21 23:30:13", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "fc2ccc71c50974afe08d1b72f448a26a"}
 {"id": 249189, "url": "http://mainchain3dapp.pages.dev", "discovery": "2024-09-21 22:50:13", "added": "2024-09-21 22:50:13", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "2fbdd016f392973a231b73f4df068052"}
 {"id": 249188, "url": "http://91.239.77.159:58339/bin.sh", "discovery": "2024-09-21 22:29:34", "added": "2024-09-21 22:29:34", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "1ee6358494374c16adf876324ff168b3"}
 {"id": 249187, "url": "http://59.95.91.146:55980/bin.sh", "discovery": "2024-09-21 22:29:23", "added": "2024-09-21 22:29:23", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "e23ca1b5ab0e4314832619bc77136446"}
@@ -507,4 +508,3 @@
 {"id": 248435, "url": "http://117.206.185.105:47836/i", "discovery": "2024-09-21 02:21:48", "added": "2024-09-21 02:21:48", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "268b192169c64e81b533c870d92f45aa"}
 {"id": 248434, "url": "http://112.239.99.253:41694/i", "discovery": "2024-09-21 02:20:56", "added": "2024-09-21 02:20:56", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "6df053bf512543e290321fb81354dd37"}
 {"id": 248433, "url": "http://datingavailablexxx.pages.dev", "discovery": "2024-09-21 01:42:13", "added": "2024-09-21 01:42:13", "target": "Telegram", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "03daa1519ce108cbb576bfdc453a0816"}
-{"id": 248432, "url": "http://sjdfoeusoednhskiuovescenisu04.pages.dev", "discovery": "2024-09-21 01:40:10", "added": "2024-09-21 01:40:10", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "e3537da7c707ddf687371eeeec1b3845"}
