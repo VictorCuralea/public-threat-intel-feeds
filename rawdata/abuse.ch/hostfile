@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-22 13:51:09 UTC                        #
+# Last updated: 2024-09-22 14:17:12 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	viewphoto.lol
+127.0.0.1	l3g3nd.sytes.net
 127.0.0.1	appleboltelwk.shop
 127.0.0.1	intelligenctjwi.shop
 127.0.0.1	cyrtainnywkos.shop
@@ -8395,4 +8397,4 @@
 127.0.0.1	apiframeworknode.com
 127.0.0.1	apistoragecache.com
 127.0.0.1	consulheartinc.com
-# Number of entries: 8389
+# Number of entries: 8391
