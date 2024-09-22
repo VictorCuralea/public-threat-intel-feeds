@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-22 14:17:12 UTC                        #
+# Last updated: 2024-09-22 15:39:45 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	snaggelpuss123.zapto.org
+127.0.0.1	natural-processor.gl.at.ply.gg
+127.0.0.1	crissnda5.ddns.net
+127.0.0.1	index-login.gl.at.ply.gg
+127.0.0.1	pst-pierre.gl.at.ply.gg
 127.0.0.1	viewphoto.lol
 127.0.0.1	l3g3nd.sytes.net
 127.0.0.1	appleboltelwk.shop
@@ -8396,5 +8401,4 @@
 127.0.0.1	sharkagency.store
 127.0.0.1	apiframeworknode.com
 127.0.0.1	apistoragecache.com
-127.0.0.1	consulheartinc.com
-# Number of entries: 8391
+# Number of entries: 8395

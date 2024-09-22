@@ -6,9 +6,14 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-22 15:00:02 UTC
+# UPDATE: 2024-09-22 16:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+249684, 2024-09-22 15:30:15, 2024-09-22 15:30:15, phishing, 7ab58326c0ccd6a122ed43ab487ede5d, http://nguyen-nhi.grouplive-vvip.web.id
+249683, 2024-09-22 15:22:16, 2024-09-22 15:22:16, phishing, f3da4a989c231e224356dfd6d51eedf7, http://ckn8rz.aweys.net
+249682, 2024-09-22 15:20:11, 2024-09-22 15:20:11, phishing, 178424c70a6898c09dd097fc2cd30144, http://utbloginbah.info
+249681, 2024-09-22 15:20:11, 2024-09-22 15:20:11, phishing, 7561a3a75beba5d158f30eaa8540ce60, http://khalesidating.pages.dev
+249680, 2024-09-22 15:02:15, 2024-09-22 15:02:15, phishing, d1a70500636173dcf619469f2eb21afc, http://waytosecureyoutokss.pages.dev
 249679, 2024-09-22 14:52:15, 2024-09-22 14:52:15, phishing, b12550fc5c75319a767906d00fe00f2b, http://new-way-to-protect-your-cion.pages.dev
 249678, 2024-09-22 14:46:11, 2024-09-22 14:46:11, phishing, 70ba040a19f83ce7cdbfce264d826df1, http://servemaildomainvalidationihostingservices1.pages.dev
 249677, 2024-09-22 14:28:18, 2024-09-22 14:28:18, malware, 1ebd4f10c0184784b0a658f5abbecde8, http://95.134.47.11:34519/bin.sh
@@ -504,8 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 248995, 2024-09-21 14:25:55, 2024-09-21 14:25:55, malware, cf7b495b3c2340149f3660f3a5658c36, http://59.184.246.89:41710/bin.sh
 248994, 2024-09-21 14:25:46, 2024-09-21 14:25:46, malware, 696830fb4341464c9613c26b04ff1043, http://59.184.244.49:39104/bin.sh
 248993, 2024-09-21 14:25:34, 2024-09-21 14:25:34, malware, 17f7147772e4465188a821c5054d66da, http://59.184.240.110:45633/bin.sh
-248992, 2024-09-21 14:25:11, 2024-09-21 14:25:11, malware, 8a1922a793d84f1ca75e83c6902d5a12, http://59.182.158.184:45122/bin.sh
-248991, 2024-09-21 14:24:43, 2024-09-21 14:24:43, malware, c89ce31c97f4445b8f38e5bea6a6343b, http://42.225.53.43:41375/bin.sh
-248990, 2024-09-21 14:24:41, 2024-09-21 14:24:41, malware, a15440e649644435bc0575dafd13d91d, http://42.224.64.86:41029/i
-248989, 2024-09-21 14:24:38, 2024-09-21 14:24:38, malware, e57d5686ea354c6cbb730764cdf6006d, http://222.140.187.114:57911/i
-248988, 2024-09-21 14:24:35, 2024-09-21 14:24:35, malware, 840c6d5d757a4a1badddfa2ab22b53d0, http://222.140.187.114:57911/bin.sh
