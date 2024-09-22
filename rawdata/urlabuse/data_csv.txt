@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-22 19:00:02 UTC
+# UPDATE: 2024-09-22 20:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+249756, 2024-09-22 19:56:15, 2024-09-22 19:56:15, phishing, 15ed086e745d22dcb98efdd0959fe201, http://upkm.pages.dev
+249755, 2024-09-22 19:10:01, 2024-09-22 18:21:39, phishing, 65e92b7501ca37eff81488e57030b385, https://ebiaghlran.org/%f0%9d%90%9c/web.php
 249754, 2024-09-22 18:55:24, 2024-09-22 18:20:56, phishing, 713149c521aa16379061c0a307889ba7, https://my.edlirau.com/iR/index.php
 249753, 2024-09-22 18:54:39, 2024-09-22 18:54:39, malware, febe6eb15b574f8ba9f69a3281728efa, http://sjsjsjsjsjndmdmdnd.freehost.io/adl/adl/app/eblagh.apk
 249752, 2024-09-22 18:53:20, 2024-09-22 18:20:18, phishing, 16cb6dc2c5af0753f89e6eb3676b105f, http://sjsjsjsjsjndmdmdnd.freehost.io/adl/adl/eblagh.html
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 249067, 2024-09-21 20:20:26, 2024-09-21 20:20:26, malware, 7127c9318ac2472a858587274c4c4a95, http://115.49.219.224:51129/i
 249066, 2024-09-21 20:20:15, 2024-09-21 20:20:15, malware, bec3ab98b4514927a5b7212d9133cec6, http://112.230.187.119:51670/bin.sh
 249065, 2024-09-21 20:20:13, 2024-09-21 20:20:13, malware, 99d40dce0ff9469eb93d229a49152726, http://104.243.38.54/600/audiodg.exe
-249064, 2024-09-21 19:40:19, 2024-09-21 19:40:19, phishing, c7feb7cf3f327d65578b1fa512bca0e8, http://tasty-husky-29.telebit.io
-249063, 2024-09-21 19:02:35, 2024-09-21 19:02:35, phishing, 51aef1d6094313fffef9a18f8f7f21d2, https://myloder.shop/delsgo/payment/

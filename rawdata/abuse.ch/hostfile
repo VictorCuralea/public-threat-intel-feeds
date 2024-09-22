@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-22 18:15:24 UTC                        #
+# Last updated: 2024-09-22 19:21:48 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	fgwe.myvnc.com
 127.0.0.1	uttercarrigsno.shop
 127.0.0.1	vottermrkw.shop
 127.0.0.1	votteryloeq.shop
@@ -8553,4 +8554,4 @@
 127.0.0.1	sharkagency.store
 127.0.0.1	apiframeworknode.com
 127.0.0.1	apistoragecache.com
-# Number of entries: 8547
+# Number of entries: 8548

@@ -6,8 +6,10 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-22 19:00:02 UTC
+# UPDATE: 2024-09-22 20:00:02 UTC
 ############### END COMMENTS ###############
+{"id": 249756, "url": "http://upkm.pages.dev", "discovery": "2024-09-22 19:56:15", "added": "2024-09-22 19:56:15", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "15ed086e745d22dcb98efdd0959fe201"}
+{"id": 249755, "url": "https://ebiaghlran.org/%f0%9d%90%9c/web.php", "discovery": "2024-09-22 18:21:39", "added": "2024-09-22 19:10:01", "target": "Adliran", "reporter": "Sh", "AbuseType": "phishing", "UUID": "65e92b7501ca37eff81488e57030b385"}
 {"id": 249754, "url": "https://my.edlirau.com/iR/index.php", "discovery": "2024-09-22 18:20:56", "added": "2024-09-22 18:55:24", "target": "Adliran", "reporter": "Sh", "AbuseType": "phishing", "UUID": "713149c521aa16379061c0a307889ba7"}
 {"id": 249753, "url": "http://sjsjsjsjsjndmdmdnd.freehost.io/adl/adl/app/eblagh.apk", "discovery": "2024-09-22 18:54:39", "added": "2024-09-22 18:54:39", "target": "#IRATA", "reporter": "urlabuse", "AbuseType": "malware", "UUID": "febe6eb15b574f8ba9f69a3281728efa"}
 {"id": 249752, "url": "http://sjsjsjsjsjndmdmdnd.freehost.io/adl/adl/eblagh.html", "discovery": "2024-09-22 18:20:18", "added": "2024-09-22 18:53:20", "target": "Adliran", "reporter": "Sh", "AbuseType": "phishing", "UUID": "16cb6dc2c5af0753f89e6eb3676b105f"}
@@ -506,5 +508,3 @@
 {"id": 249067, "url": "http://115.49.219.224:51129/i", "discovery": "2024-09-21 20:20:26", "added": "2024-09-21 20:20:26", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "7127c9318ac2472a858587274c4c4a95"}
 {"id": 249066, "url": "http://112.230.187.119:51670/bin.sh", "discovery": "2024-09-21 20:20:15", "added": "2024-09-21 20:20:15", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "bec3ab98b4514927a5b7212d9133cec6"}
 {"id": 249065, "url": "http://104.243.38.54/600/audiodg.exe", "discovery": "2024-09-21 20:20:13", "added": "2024-09-21 20:20:13", "target": "#PE32INTEL_GUI", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "99d40dce0ff9469eb93d229a49152726"}
-{"id": 249064, "url": "http://tasty-husky-29.telebit.io", "discovery": "2024-09-21 19:40:19", "added": "2024-09-21 19:40:19", "target": "Whatsapp", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "c7feb7cf3f327d65578b1fa512bca0e8"}
-{"id": 249063, "url": "https://myloder.shop/delsgo/payment/", "discovery": "2024-09-21 19:02:35", "added": "2024-09-21 19:02:35", "target": "Shaparak", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "51aef1d6094313fffef9a18f8f7f21d2"}
