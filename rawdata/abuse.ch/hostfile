@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-22 00:01:47 UTC                        #
+# Last updated: 2024-09-22 04:01:31 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	supersets.ethergases.app
+127.0.0.1	wwwlogin.ethergases.app
 127.0.0.1	mailsession.com
 127.0.0.1	242.30.45.34.bc.googleusercontent.com
 127.0.0.1	www.sandbox-superset.ethergases.app
@@ -8297,4 +8299,4 @@
 127.0.0.1	my.nimade.top
 127.0.0.1	ck.aj05.top
 127.0.0.1	sjdkghsdughpowieugh8932.griefcube.cc
-# Number of entries: 8291
+# Number of entries: 8293
