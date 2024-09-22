@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-22 04:01:31 UTC                        #
+# Last updated: 2024-09-22 06:52:35 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	get-lic.com
+127.0.0.1	bb.khashibd.ir
+127.0.0.1	khashibd.ir
 127.0.0.1	supersets.ethergases.app
 127.0.0.1	wwwlogin.ethergases.app
 127.0.0.1	mailsession.com
@@ -8298,5 +8301,4 @@
 127.0.0.1	delabfactory.com
 127.0.0.1	my.nimade.top
 127.0.0.1	ck.aj05.top
-127.0.0.1	sjdkghsdughpowieugh8932.griefcube.cc
-# Number of entries: 8293
+# Number of entries: 8295
