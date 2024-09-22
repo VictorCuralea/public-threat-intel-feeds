@@ -6,9 +6,20 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-22 21:00:02 UTC
+# UPDATE: 2024-09-22 22:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+249793, 2024-09-22 21:39:51, 2024-09-22 21:39:51, malware, 2fea630ab26d4202b9fc6f67a015ef09, https://evilyn.org/0/dashboard/apps/download.php
+249792, 2024-09-22 21:39:18, 2024-09-22 21:33:05, phishing, 885b8ded50fe91de750bc8d379b32ba7, https://evilyn.org/2/page.php
+249791, 2024-09-22 21:38:40, 2024-09-22 21:32:58, phishing, 894953287b4a69cba3226b8fba0ff6d4, https://irszd.org/%F0%9D%90%9C%E2%80%8C%E2%80%8C
+249790, 2024-09-22 21:33:06, 2024-09-22 21:33:06, phishing, 25da39753cbe81a9fad9881c10bdfba6, https://s.bluemail.info/ws/AAaK2XJOT9F
+249789, 2024-09-22 21:32:33, 2024-09-22 21:32:33, phishing, bc421c510cdac36ef4f4e9e5fb1458f4, https://ws.bluemail.info/ws/AAaK2XJOT9
+249788, 2024-09-22 21:28:13, 2024-09-22 21:28:13, phishing, d7cf17c5c2ccea24c53a0b85749afa1b, https://www.confeitariadama.com.br/wp-admin/js/widgets/kha/swisssa20244/swisscom/index2.php
+249787, 2024-09-22 21:27:51, 2024-09-22 21:27:51, phishing, 85895a6e14a1e57241439da0fb8c070c, https://markusjans.com/ricardo/
+249786, 2024-09-22 21:26:15, 2024-09-22 21:26:15, phishing, 8f431b5d364160fe5dca719e3160e85c, http://anonpandaverse.pages.dev
+249785, 2024-09-22 21:22:52, 2024-09-22 21:22:52, phishing, 3b8fffb0be9c9481905e32d9800075f0, https://riprogramma.spedizione.20-218-140-126.cprapid.com/brt/update.php?2zb69q4pdqeu7r12nt4v
+249784, 2024-09-22 21:21:30, 2024-09-22 21:21:30, phishing, a3bde0abd1ea191a806228596077c6b4, https://azurecommunique.in/mailAction.php
+249783, 2024-09-22 21:18:08, 2024-09-22 21:18:08, phishing, a7dfa0c4da9a2606a15f127627a4deb0, https://swisspassch.info/
 249782, 2024-09-22 20:27:29, 2024-09-22 20:27:29, malware, e40feb1387cb4c5fb773e5191978e086, http://95.134.47.11:34519/i
 249781, 2024-09-22 20:27:28, 2024-09-22 20:27:28, malware, 3b6c94a60301434d8e7c7b1efd5b5ef6, http://61.52.41.166:42483/i
 249780, 2024-09-22 20:27:27, 2024-09-22 20:27:27, malware, 155efc422f214c1e9bef4956348887ee, http://61.52.41.166:42483/bin.sh
@@ -498,14 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 249104, 2024-09-21 21:22:02, 2024-09-21 21:14:49, phishing, 533b3ed73498e869ce77147d808c46b3, https://sina.wuaze.com/login.html?i=1
 249103, 2024-09-21 20:29:36, 2024-09-21 20:29:36, malware, 13f1c0dbe450467f86da9334ca6be94c, http://catkinlows.info/files/file1.exe
 249102, 2024-09-21 20:27:06, 2024-09-21 20:27:06, malware, 19fc4183d7e1409f8d81074641f98707, http://77.125.241.86:33267/bin.sh
-249101, 2024-09-21 20:27:04, 2024-09-21 20:27:04, malware, 595974f2cc134b31866225084129257e, http://61.53.97.144:45366/i
-249100, 2024-09-21 20:27:02, 2024-09-21 20:27:02, malware, 50ca8b3b4a824a4584c5198bae41eafb, http://61.53.97.144:45366/bin.sh
-249099, 2024-09-21 20:27:00, 2024-09-21 20:27:00, malware, a0dc3a60058d4f21bfe889ff4dcadc1a, http://61.53.41.34:54883/i
-249098, 2024-09-21 20:25:57, 2024-09-21 20:25:57, malware, 7bacddf967c246c9ab9d1c5d0060dd5c, http://59.92.166.129:57040/i
-249097, 2024-09-21 20:25:28, 2024-09-21 20:25:28, malware, aa14899cc2e644c5813bd5bbb98b8c68, http://59.88.3.194:45939/bin.sh
-249096, 2024-09-21 20:25:06, 2024-09-21 20:25:06, malware, c9042ea501b242b9bcafcb1a2fb04faa, http://42.231.88.207:53513/bin.sh
-249095, 2024-09-21 20:25:04, 2024-09-21 20:25:04, malware, cf955029bee7401187981702a6847bd4, http://42.225.221.13:58241/i
-249094, 2024-09-21 20:25:01, 2024-09-21 20:25:01, malware, 0299debc9c7741bd8e6d7a20a3b4692c, http://42.225.221.13:58241/bin.sh
-249093, 2024-09-21 20:24:59, 2024-09-21 20:24:59, malware, bbdb4bd9bf624787ba69c89addf31879, http://39.79.206.189:36328/bin.sh
-249092, 2024-09-21 20:24:57, 2024-09-21 20:24:57, malware, a4bb35cf2eda47b2902d764c1548639a, http://27.207.166.245:51568/bin.sh
-249091, 2024-09-21 20:24:36, 2024-09-21 20:24:36, malware, 8c2c5739c5734b82a0a7f248f064185b, http://223.220.162.90:49426/i
