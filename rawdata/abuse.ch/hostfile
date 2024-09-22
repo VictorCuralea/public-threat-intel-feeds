@@ -1,11 +1,24 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-22 19:21:48 UTC                        #
+# Last updated: 2024-09-22 20:14:32 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	bundeskriminalamt.agency
+127.0.0.1	www.bundeskriminalamt.agency
+127.0.0.1	wwwwwwwwwwwwvirtualstudent.pythr.net
+127.0.0.1	www.forum.ethergases.app
+127.0.0.1	wwwwwwbackend.pythr.net
+127.0.0.1	wwwwwwfqwvcwwwsslvpn.pythr.net
+127.0.0.1	www.admin.ethergases.app
+127.0.0.1	www.pythr.net
+127.0.0.1	www.wwwwww.ethergases.app
+127.0.0.1	www.wwwwwwm.ethergases.org
+127.0.0.1	www.wwwapi.ethergases.app
+127.0.0.1	wwwvdi.pythr.net
+127.0.0.1	www.workspace.pythr.net
 127.0.0.1	fgwe.myvnc.com
 127.0.0.1	uttercarrigsno.shop
 127.0.0.1	vottermrkw.shop
@@ -8554,4 +8567,4 @@
 127.0.0.1	sharkagency.store
 127.0.0.1	apiframeworknode.com
 127.0.0.1	apistoragecache.com
-# Number of entries: 8548
+# Number of entries: 8561
