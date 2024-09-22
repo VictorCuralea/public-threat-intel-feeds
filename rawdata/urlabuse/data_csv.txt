@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-22 17:00:01 UTC
+# UPDATE: 2024-09-22 18:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+249735, 2024-09-22 17:58:13, 2024-09-22 17:58:13, phishing, 68035cb7e645cbbfb8cb345dcee3c2c3, http://rpcblockdapps.pages.dev
+249734, 2024-09-22 17:56:23, 2024-09-22 17:56:23, phishing, ca23ec6e26acdaab13fd364ee942fbf1, http://tokenppoket.io
+249733, 2024-09-22 17:52:14, 2024-09-22 17:52:14, phishing, 8bd0b39583ade6aaf61fcede5636cf41, http://satlayer-rpcdebug.pages.dev
+249732, 2024-09-22 17:44:19, 2024-09-22 17:44:19, phishing, cf24538b5fc70b1603d631e464fae204, http://tokenpcket.io
 249731, 2024-09-22 16:44:13, 2024-09-22 16:44:13, phishing, 2e2d3310abd401b7fe91c9561231d06c, http://mobyonbase.pages.dev
 249730, 2024-09-22 16:31:57, 2024-09-22 16:31:57, malware, e5f9ac9283864c829ff80a658f72012b, http://sylhetvoice.com/ehgbrhbrerer/2.jpg
 249729, 2024-09-22 16:31:52, 2024-09-22 16:31:52, malware, 8a03d362465f4a5a89ad0c7c565e6a0c, http://77.125.241.86:33267/i
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 249046, 2024-09-21 17:23:10, 2024-09-21 17:23:10, phishing, 1f62d8ae44ce51a7a7e605520f9b85ff, http://ef365.3656aak.cc
 249045, 2024-09-21 17:12:18, 2024-09-21 17:12:18, phishing, f91fc311428fb526f2947b79f35c584b, http://joingdgg.yzcom.biz.id
 249044, 2024-09-21 17:10:13, 2024-09-21 17:10:13, phishing, 9933fe3f158a620ebc9c335dbbf818d5, http://instabio.freewebhostmost.com
-249043, 2024-09-21 16:52:13, 2024-09-21 16:52:13, phishing, cf0db2f1ef33dbdefa2bb25e544faeab, http://brandfareabledefy.pages.dev
-249042, 2024-09-21 16:50:20, 2024-09-21 16:50:20, phishing, 006b485b322a56671dac8d0ed8762f75, http://ecomavericks.rkfd.com
-249041, 2024-09-21 16:30:10, 2024-09-21 16:30:10, malware, 7cbafafb80254a19a68cf484e4e58fd0, http://61.53.254.175:42594/bin.sh
-249040, 2024-09-21 16:29:37, 2024-09-21 16:29:37, malware, 452e13589658464689683e45f7ae3187, http://59.93.19.245:57578/bin.sh

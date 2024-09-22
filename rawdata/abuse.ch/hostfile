@@ -1,11 +1,17 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-22 16:01:29 UTC                        #
+# Last updated: 2024-09-22 17:24:03 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	s3-azure.com
+127.0.0.1	s3-microsoft.com
+127.0.0.1	s3bucket-azure.online
+127.0.0.1	hinet.lat
+127.0.0.1	islot.ink
+127.0.0.1	visualstudio-microsoft.com
 127.0.0.1	mutbea.shop
 127.0.0.1	www.wwwlabvirtual.pythr.net
 127.0.0.1	www.wwwwwwaccess.pythr.net
@@ -8420,4 +8426,4 @@
 127.0.0.1	sharkagency.store
 127.0.0.1	apiframeworknode.com
 127.0.0.1	apistoragecache.com
-# Number of entries: 8414
+# Number of entries: 8420
