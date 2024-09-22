@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-22 05:00:02 UTC
+# UPDATE: 2024-09-22 06:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+249293, 2024-09-22 05:26:10, 2024-09-22 05:26:10, phishing, cdf79f6b8903d4efa92fd6af46ac438b, http://hitrec.pages.dev
+249292, 2024-09-22 05:22:15, 2024-09-22 05:22:15, phishing, 83b4096b07319e96bc98182a180b9425, http://proxybing.us.kg
 249291, 2024-09-22 04:46:15, 2024-09-22 04:46:15, phishing, 3496c72389e24ea103f2defb80681619, http://nitronovapods.pages.dev
 249290, 2024-09-22 04:34:13, 2024-09-22 04:34:13, phishing, 62d3a297b4f1d766b602a80b945ceb03, http://bing.11451145.xyz
 249289, 2024-09-22 04:30:11, 2024-09-22 04:30:11, malware, c006c1787fef47028a091c0c7e9763c5, http://61.2.105.38:44931/i
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 248763, 2024-09-21 08:20:53, 2024-09-21 08:20:53, malware, ce63cbff8ed54a279085b528aadd49ce, http://117.195.243.126:50982/i
 248762, 2024-09-21 08:20:40, 2024-09-21 08:20:40, malware, db831df07ae8468a9015d24d03c8f0e3, http://115.57.30.176:59427/i
 248761, 2024-09-21 08:20:38, 2024-09-21 08:20:38, malware, 1b8cbb445755410a9640db7e518520c1, http://115.55.21.213:56579/i
-248760, 2024-09-21 08:20:26, 2024-09-21 08:20:26, malware, 7bc30342efcd4a6a8024f23eb306f3e6, http://115.54.77.104:53285/i
-248739, 2024-09-21 08:04:12, 2024-09-21 08:04:12, phishing, ff79c8e80aa796f2b502f000b6d02b78, http://cudacmi.pages.dev
