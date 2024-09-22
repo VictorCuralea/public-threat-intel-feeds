@@ -1,11 +1,30 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-22 15:39:45 UTC                        #
+# Last updated: 2024-09-22 16:01:29 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	mutbea.shop
+127.0.0.1	www.wwwlabvirtual.pythr.net
+127.0.0.1	www.wwwwwwaccess.pythr.net
+127.0.0.1	wwwwwwsitemap.ethergases.org
+127.0.0.1	wwwwwwwwwwebmail.ethergases.org
+127.0.0.1	wwwwwwapi.pythr.net
+127.0.0.1	www.app.ethergases.org
+127.0.0.1	wwwbackend.pythr.net
+127.0.0.1	www.reports.ethergases.org
+127.0.0.1	www.forum.pythr.net
+127.0.0.1	bi.ethergases.org
+127.0.0.1	xn--premnt-6va.xyz
+127.0.0.1	www.wwwwwwadmin.ethergases.app
+127.0.0.1	wwwofficevpn.pythr.net
+127.0.0.1	www.wwwwwwmail.ethergases.org
+127.0.0.1	wwwfqwvcwwwsslvpn.pythr.net
+127.0.0.1	omnibus-zksync.io
+127.0.0.1	www.wwwwwwdesktopstudent.pythr.net
+127.0.0.1	wwwmobileconnect.pythr.net
 127.0.0.1	snaggelpuss123.zapto.org
 127.0.0.1	natural-processor.gl.at.ply.gg
 127.0.0.1	crissnda5.ddns.net
@@ -8401,4 +8420,4 @@
 127.0.0.1	sharkagency.store
 127.0.0.1	apiframeworknode.com
 127.0.0.1	apistoragecache.com
-# Number of entries: 8395
+# Number of entries: 8414
