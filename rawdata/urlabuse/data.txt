@@ -6,8 +6,10 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-22 07:00:01 UTC
+# UPDATE: 2024-09-22 08:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 249317, "url": "http://aidathazinebakanligiiadepaneli.store", "discovery": "2024-09-22 07:10:15", "added": "2024-09-22 07:10:15", "target": "TR-GOV", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "4a52bd293d39548f6385a6cd56c534f6"}
+{"id": 249316, "url": "https://telegram.dog/HasibulKabir", "discovery": "2024-09-22 07:02:47", "added": "2024-09-22 07:02:47", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "4eefa35deaaec11c4a4a367d257ff51e"}
 {"id": 249315, "url": "http://61.53.223.90:40506/", "discovery": "2024-09-22 06:27:12", "added": "2024-09-22 06:27:12", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "0c407a3d35f04b6cbde0450f445adf5a"}
 {"id": 249314, "url": "http://61.3.141.65:46453/bin.sh", "discovery": "2024-09-22 06:27:00", "added": "2024-09-22 06:27:00", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "22731a2218024a7aa59ad4606676e1f4"}
 {"id": 249313, "url": "http://59.95.90.236:38322/i", "discovery": "2024-09-22 06:26:30", "added": "2024-09-22 06:26:30", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "f99f01679b1240948fbd99ebe5bc6478"}
@@ -506,5 +508,3 @@
 {"id": 248787, "url": "http://185.215.113.37/well/random.exe", "discovery": "2024-09-21 08:27:13", "added": "2024-09-21 08:27:13", "target": "#PE32INTEL_GUI", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "5b475d8ea7ef40e3aef28b9c88f3fdc8"}
 {"id": 248786, "url": "http://185.215.113.37/test/wels.exe", "discovery": "2024-09-21 08:27:08", "added": "2024-09-21 08:27:08", "target": "#PE32INTEL_GUI", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "520022d5bbf44bb59a2bdb920fb7326b"}
 {"id": 248785, "url": "http://185.215.113.37/test/random.exe", "discovery": "2024-09-21 08:27:04", "added": "2024-09-21 08:27:04", "target": "#PE32INTEL_GUI", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "7b306e19540e44979ea1aaa6e11cf74a"}
-{"id": 248784, "url": "http://185.215.113.37/steam/random.exe", "discovery": "2024-09-21 08:26:49", "added": "2024-09-21 08:26:49", "target": "#PE32INTEL_GUI", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "91911a6eee024e99bd5939f59af8a534"}
-{"id": 248783, "url": "http://185.215.113.37/mine/random.exe", "discovery": "2024-09-21 08:26:32", "added": "2024-09-21 08:26:32", "target": "#PE32INTEL_GUI", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "bf39034711314ce4b20e397c3fd289d6"}

@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-22 07:00:01 UTC
+# UPDATE: 2024-09-22 08:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+249317, 2024-09-22 07:10:15, 2024-09-22 07:10:15, phishing, 4a52bd293d39548f6385a6cd56c534f6, http://aidathazinebakanligiiadepaneli.store
+249316, 2024-09-22 07:02:47, 2024-09-22 07:02:47, phishing, 4eefa35deaaec11c4a4a367d257ff51e, https://telegram.dog/HasibulKabir
 249315, 2024-09-22 06:27:12, 2024-09-22 06:27:12, malware, 0c407a3d35f04b6cbde0450f445adf5a, http://61.53.223.90:40506/
 249314, 2024-09-22 06:27:00, 2024-09-22 06:27:00, malware, 22731a2218024a7aa59ad4606676e1f4, http://61.3.141.65:46453/bin.sh
 249313, 2024-09-22 06:26:30, 2024-09-22 06:26:30, malware, f99f01679b1240948fbd99ebe5bc6478, http://59.95.90.236:38322/i
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 248787, 2024-09-21 08:27:13, 2024-09-21 08:27:13, malware, 5b475d8ea7ef40e3aef28b9c88f3fdc8, http://185.215.113.37/well/random.exe
 248786, 2024-09-21 08:27:08, 2024-09-21 08:27:08, malware, 520022d5bbf44bb59a2bdb920fb7326b, http://185.215.113.37/test/wels.exe
 248785, 2024-09-21 08:27:04, 2024-09-21 08:27:04, malware, 7b306e19540e44979ea1aaa6e11cf74a, http://185.215.113.37/test/random.exe
-248784, 2024-09-21 08:26:49, 2024-09-21 08:26:49, malware, 91911a6eee024e99bd5939f59af8a534, http://185.215.113.37/steam/random.exe
-248783, 2024-09-21 08:26:32, 2024-09-21 08:26:32, malware, bf39034711314ce4b20e397c3fd289d6, http://185.215.113.37/mine/random.exe
