@@ -1,11 +1,28 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-23 17:04:35 UTC                        #
+# Last updated: 2024-09-23 20:01:33 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	wwwm.ethergases.app
+127.0.0.1	sitemaps.pythr.net
+127.0.0.1	dashboards.ethergases.app
+127.0.0.1	cloud.pythr.net
+127.0.0.1	analyze.pythr.net
+127.0.0.1	supersets.ethergases.org
+127.0.0.1	forum.ethergases.app
+127.0.0.1	www.wwwwwwssl.pythr.net
+127.0.0.1	staging.ethergases.org
+127.0.0.1	wwwwwwssl.pythr.net
+127.0.0.1	www.wwwwwwsecure.ethergases.org
+127.0.0.1	wwwwebmail.pythr.net
+127.0.0.1	intelligence.ethergases.app
+127.0.0.1	zuakeportal.pythr.net
+127.0.0.1	www.forum.ethergases.org
+127.0.0.1	1.pythr.net
+127.0.0.1	185-235-128-217.netherlands-2.vps.ac
 127.0.0.1	trendmicrotech.com
 127.0.0.1	skt-info.online
 127.0.0.1	virtana-tech.com
@@ -8632,4 +8649,4 @@
 127.0.0.1	service-lidgmacv-1317471912.cd.tencentapigw.com
 127.0.0.1	service-75oa09db-1317471892.cd.tencentapigw.com
 127.0.0.1	www.guerrilladefense.com
-# Number of entries: 8626
+# Number of entries: 8643
