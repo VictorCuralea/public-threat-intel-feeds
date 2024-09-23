@@ -6,9 +6,16 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-23 11:00:01 UTC
+# UPDATE: 2024-09-23 12:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+250213, 2024-09-23 11:38:15, 2024-09-23 11:38:15, phishing, 57c9f9c63238465406ffb1370ac6fd82, http://yuntonghuiyi.cc
+250212, 2024-09-23 11:12:23, 2024-09-23 11:12:23, phishing, bc134462cebd731f616bd6769b4cf748, https://helpcenter-netflx.com/ch/monopoly/bootstrap/css/helpcenters.html
+250211, 2024-09-23 11:11:34, 2024-09-23 11:11:34, phishing, e9ae5c3cb7af80b894f86eeb251550d6, https://ufh.gin.mybluehost.me/Pass/SBB/index/
+250210, 2024-09-23 11:11:24, 2024-09-23 11:11:24, phishing, 41c44b3c9adf42a3f1f161c7b541c0c7, https://sppchdz.blogspot.fr/
+250209, 2024-09-23 11:08:19, 2024-09-23 11:08:19, phishing, 27ca8e5da0df46ff660089787146d0cd, http://adminuser.zappos-gb.shop
+250208, 2024-09-23 11:07:59, 2024-09-23 11:07:59, phishing, f971e6749a29d9399c734fd22d374511, https://jii.li/swis-passch
+250207, 2024-09-23 11:00:08, 2024-09-23 11:00:08, phishing, e79123d9b7faf700cfcdf9b1a2f27fe0, https://s-wisspass.com/swisspass/
 250206, 2024-09-23 10:59:04, 2024-09-23 10:59:04, phishing, 13e025e4ec5ddac4fe44bc41fec476fa, https://lionsruntalya.com/in.html
 250205, 2024-09-23 10:58:13, 2024-09-23 10:58:13, phishing, 16a221ab8b01a017f0db23eb6220ac2b, http://ameli-espace.info
 250204, 2024-09-23 10:57:40, 2024-09-23 10:57:40, phishing, 05d8305e84019c51b5363d2666eeafc3, https://t.co/IclBrs3tDV
@@ -502,10 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 249716, 2024-09-22 16:26:44, 2024-09-22 16:26:44, malware, 30ecaef2950f4848a78b6c16d40b626b, http://193.117.208.101//TripVPN.zip
 249715, 2024-09-22 16:26:44, 2024-09-22 16:26:44, malware, 74f90b0e1ed44f3d80c9e438a4e129f1, http://193.117.208.101//CovidPass.exe
 249714, 2024-09-22 16:26:34, 2024-09-22 16:26:34, malware, a7947549e199486cbaa7008306bf0a48, http://182.126.79.70:51426/i
-249713, 2024-09-22 16:26:31, 2024-09-22 16:26:31, malware, c71aada480b64b9ea435f0806cf8a502, http://182.121.158.249:42694/i
-249712, 2024-09-22 16:26:27, 2024-09-22 16:26:27, malware, 75d5598a37d3437b8f1ebd07141e5559, http://182.120.38.52:56360/bin.sh
-249711, 2024-09-22 16:26:12, 2024-09-22 16:26:12, malware, 9b8f165301c9484dacc4011db126084b, http://123.13.4.170:57165/i
-249710, 2024-09-22 16:26:10, 2024-09-22 16:26:10, malware, 7a7742f7196c4197bb6fcd8a420bea02, http://123.13.4.170:57165/
-249709, 2024-09-22 16:26:08, 2024-09-22 16:26:08, malware, 873a0df2b7d0482b984c8d567df9f6b8, http://123.13.139.166:46082/bin.sh
-249708, 2024-09-22 16:26:05, 2024-09-22 16:26:05, malware, b9bd41fb46584d628fb78f015e64ba1e, http://123.11.7.33:59272/bin.sh
-249707, 2024-09-22 16:25:52, 2024-09-22 16:25:52, malware, 7a32d43f56a64e148e87523f9d082273, http://120.60.238.166:36925/i
