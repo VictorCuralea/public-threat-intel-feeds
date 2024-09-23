@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-23 04:54:47 UTC                        #
+# Last updated: 2024-09-23 05:51:27 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	twofact.ddns.net
 127.0.0.1	discoveriwm.shop
 127.0.0.1	steppyplantnw.shop
 127.0.0.1	bundeskriminalamt.agency
@@ -8569,4 +8570,4 @@
 127.0.0.1	sharkagency.store
 127.0.0.1	apiframeworknode.com
 127.0.0.1	apistoragecache.com
-# Number of entries: 8563
+# Number of entries: 8564

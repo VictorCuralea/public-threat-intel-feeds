@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-23 05:00:01 UTC
+# UPDATE: 2024-09-23 06:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+250024, 2024-09-23 05:52:17, 2024-09-23 05:52:17, phishing, 8bfa98764f80d93ec0a02d7636631dc7, http://teiegrom.online
 250023, 2024-09-23 04:26:29, 2024-09-23 04:26:29, malware, 33db624937584c26a04f6c90df635dc7, http://59.95.87.221:57959/i
 250022, 2024-09-23 04:26:25, 2024-09-23 04:26:25, malware, 223416aeec7946e58acfcb7c9f57e204, http://59.184.250.165:36059/i
 250021, 2024-09-23 04:26:08, 2024-09-23 04:26:08, malware, f70b38b88ce04cf6ad01ca0441e70535, http://59.182.74.217:46001/bin.sh
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 249337, 2024-09-22 08:26:13, 2024-09-22 08:26:13, malware, 152cfb6ab73e42efb859c74c1e453d33, http://212.251.68.204:60040/
 249336, 2024-09-22 08:25:55, 2024-09-22 08:25:55, malware, a10ad571199a48648655a5b6c5983b55, http://182.127.179.246:47356/i
 249335, 2024-09-22 08:25:52, 2024-09-22 08:25:52, malware, 096ce067fa5f486c9f5d486f0cdfed67, http://182.127.179.246:47356/bin.sh
-249334, 2024-09-22 08:25:50, 2024-09-22 08:25:50, malware, e6a26249a76c4999960fac76177767c4, http://182.127.100.191:46185/bin.sh
