@@ -6,8 +6,10 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-23 19:00:01 UTC
+# UPDATE: 2024-09-23 20:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 250513, "url": "http://safe0encryption.pages.dev", "discovery": "2024-09-23 19:30:15", "added": "2024-09-23 19:30:15", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "8c6093ee859b47e75a9cf16e97a3b0a2"}
+{"id": 250512, "url": "https://syd1.digitaloceanspaces.com/childsplayfeeds/braveparents/attach.html", "discovery": "2024-09-23 19:03:17", "added": "2024-09-23 19:03:17", "target": "Microsoft", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "7f45f63fd9117698838722c47dabc560"}
 {"id": 250511, "url": "http://fareanontadefy.pages.dev", "discovery": "2024-09-23 18:56:15", "added": "2024-09-23 18:56:15", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "46ac84f06d66ac82a652634f23141310"}
 {"id": 250510, "url": "https://111b43d.rcomhost.com/wordpress1/pass/sw/", "discovery": "2024-09-23 18:54:17", "added": "2024-09-23 18:54:17", "target": "SwissPass", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "0d1ff803254423a0ef8f71c59facd070"}
 {"id": 250509, "url": "https://suyth-jubilant-waffle.vercel.app/auth.html", "discovery": "2024-09-23 17:50:12", "added": "2024-09-23 18:40:46", "target": "Generic Email", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "93d69648e9f7669fb126e4baffa3e9be"}
@@ -506,5 +508,3 @@
 {"id": 249952, "url": "http://fgwe.myvnc.com/zeros6x.sh", "discovery": "2024-09-23 02:32:53", "added": "2024-09-23 02:32:53", "target": "#BASHSHELL", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "12faf132b4ba427999a5dc86ed5fb0e0"}
 {"id": 249951, "url": "http://fgwe.myvnc.com/yarn", "discovery": "2024-09-23 02:32:53", "added": "2024-09-23 02:32:53", "target": "#BASHSHELL", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "02d82c7f4f414f57a5fb099c2e474fd0"}
 {"id": 249950, "url": "http://fgwe.myvnc.com/thinkphp", "discovery": "2024-09-23 02:32:53", "added": "2024-09-23 02:32:53", "target": "#BASHSHELL", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "9405d01d1eb748f798c155cc999800fe"}
-{"id": 249949, "url": "http://fgwe.myvnc.com/realtek", "discovery": "2024-09-23 02:32:53", "added": "2024-09-23 02:32:53", "target": "#BASHSHELL", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "c53ba17dafcf42de9e8728fb02e2d972"}
-{"id": 249948, "url": "http://fgwe.myvnc.com/lg", "discovery": "2024-09-23 02:32:53", "added": "2024-09-23 02:32:53", "target": "#BASHSHELL", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "8492bbcfd5d6494d8310c32a098c4077"}
