@@ -1,12 +1,13 @@
 ################################################################
 # ThreatFox IOCs: recent SHA256 hashes - CSV format            #
-# Last updated: 2024-09-23 06:34:25 UTC                        #
+# Last updated: 2024-09-23 11:56:14 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
 # "first_seen_utc","ioc_id","ioc_value","ioc_type","threat_type","fk_malware","malware_alias","malware_printable","last_seen_utc","confidence_level","reference","tags","anonymous","reporter"
+"2024-09-23 11:56:14", "1328333", "3c317dbab70d3ab4fce944c92532d111f69fd71dca5c7f7c7b8d57e657f26a1a", "sha256_hash", "payload", "win.lumma", "LummaC2 Stealer", "Lumma Stealer", "", "100", "https://app.any.run/tasks/174e2732-ec4a-4819-97f8-e2f0ae4a5a33", "None", "0", "pitachu"
 "2024-09-23 06:34:25", "1328255", "3f071245c9bdc5b72d0df448f825c946f0024b5572de0ca1f86d167cc18e2b13", "sha256_hash", "payload", "win.agent_tesla", "AgenTesla,AgentTesla,Negasteal", "Agent Tesla", "", "95", "None", "None", "0", "Grim"
 "2024-09-23 06:34:22", "1328252", "a736269f5f3a9f2e11dd776e352e1801bc28bb699e47876784b8ef761e0062db", "sha256_hash", "payload", "win.blackmatter", "None", "BlackMatter", "", "95", "None", "None", "0", "Grim"
 "2024-09-23 06:34:18", "1328249", "4338c9a123bf015cf41b11546cde0a3a03bcbfee2a5ee759f9e7d6573da29e05", "sha256_hash", "payload", "win.formbook", "win.xloader", "Formbook", "", "95", "None", "None", "0", "Grim"
@@ -156,4 +157,4 @@
 "2024-09-21 23:10:35", "1327179", "7559e6ca8b77400f88bf4e67208a1c32570a670068eccae9e3d226cc5471bd47", "sha256_hash", "payload", "win.remcos", "RemcosRAT,Remvio,Socmer", "Remcos", "", "100", "", "RAT,Remcos", "0", "nickkuechel"
 "2024-09-21 23:10:35", "1327180", "2b08ba942fe3db3fb1937ca40e1f392ed7d98513b70fd73c2da9723ac8c971ac", "sha256_hash", "payload", "win.remcos", "RemcosRAT,Remvio,Socmer", "Remcos", "", "100", "", "RAT,Remcos", "0", "nickkuechel"
 "2024-09-21 23:10:34", "1327158", "4b42ed6bfed1bd64fbcc07e4ef108ae715802d54f2d7b1268aeab39d8a2966e8", "sha256_hash", "payload", "win.remcos", "RemcosRAT,Remvio,Socmer", "Remcos", "2024-09-22 06:46:28", "100", "", "RAT,Remcos", "0", "nickkuechel"
-# Number of entries: 149
+# Number of entries: 150
