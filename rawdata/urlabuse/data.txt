@@ -6,7 +6,7 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-23 09:00:01 UTC
+# UPDATE: 2024-09-23 10:00:01 UTC
 ############### END COMMENTS ###############
 {"id": 250158, "url": "http://93.123.85.159/yakuza.x86", "discovery": "2024-09-23 08:34:43", "added": "2024-09-23 08:34:43", "target": "#ELF64", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "c018108ce0544fb0ba6c3b87718fd10b"}
 {"id": 250157, "url": "http://93.123.85.159/yakuza.x32", "discovery": "2024-09-23 08:34:42", "added": "2024-09-23 08:34:42", "target": "#ELF32INTEL_v1", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "7f34ee53126c42b2babada1c189afb60"}
