@@ -6,7 +6,7 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-23 21:00:01 UTC
+# UPDATE: 2024-09-23 22:00:01 UTC
 ############### END COMMENTS ###############
 {"id": 250545, "url": "http://a0ca727fcd37da2a7e64bf27ac6bd.pages.dev", "discovery": "2024-09-23 20:54:12", "added": "2024-09-23 20:54:12", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "6bd9a0b4cdec637f556a081f02a02212"}
 {"id": 250544, "url": "http://59560be5aca9c6316a3790bbd000ffc.pages.dev", "discovery": "2024-09-23 20:48:11", "added": "2024-09-23 20:48:11", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "2bb894a0d06f0d71bb41d7c28df4d980"}
