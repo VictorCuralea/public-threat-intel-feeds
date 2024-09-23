@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-23 05:51:27 UTC                        #
+# Last updated: 2024-09-23 07:36:57 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	free.thebitmeister.com
 127.0.0.1	twofact.ddns.net
 127.0.0.1	discoveriwm.shop
 127.0.0.1	steppyplantnw.shop
@@ -8567,7 +8568,4 @@
 127.0.0.1	equi-hosting.fr
 127.0.0.1	gamerforyou.com
 127.0.0.1	www.gamerforyou.com
-127.0.0.1	sharkagency.store
-127.0.0.1	apiframeworknode.com
-127.0.0.1	apistoragecache.com
-# Number of entries: 8564
+# Number of entries: 8562
