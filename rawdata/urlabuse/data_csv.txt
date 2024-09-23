@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-22 23:00:02 UTC
+# UPDATE: 2024-09-23 00:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+249828, 2024-09-22 23:24:11, 2024-09-22 23:24:11, phishing, dbff388812d30739e7c53d76e40d9e8a, http://host-cloud-astro.pages.dev
+249827, 2024-09-22 23:04:18, 2024-09-22 23:04:18, phishing, 54761e2a90f73a27117abf10c1131339, http://moonboardwhirl.dev
 249826, 2024-09-22 22:44:12, 2024-09-22 22:44:12, phishing, 9b44a475055a3371c54bf33efe27fac0, http://showmypussyxxxvb.pages.dev
 249825, 2024-09-22 22:36:10, 2024-09-22 22:36:10, phishing, e58d5e68cb9e6d49e8ead3c9566b25f3, http://explanationmailserverdomainsertisfing1.pages.dev
 249824, 2024-09-22 22:25:17, 2024-09-22 22:25:17, malware, 9a38aaea892f4d9386c4f86070364cbf, http://69.117.23.50:44458/bin.sh
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 249140, 2024-09-21 22:24:19, 2024-09-21 22:24:19, malware, bc96462a90434acb9f76b344061822e4, http://117.235.72.172:60386/Mozi.m
 249139, 2024-09-21 22:21:49, 2024-09-21 22:21:49, malware, 595bfbab25a94ad5bb25dbb99eed02d8, http://117.198.249.102:38525/i
 249138, 2024-09-21 22:21:06, 2024-09-21 22:21:06, malware, 70af0bf3533d42bbbff50d4aa504a550, http://117.193.253.207:47848/
-249137, 2024-09-21 22:21:04, 2024-09-21 22:21:04, malware, 25f39cfbf81d4a7d9160cda10e57f176, http://115.63.8.141:56946/
-249136, 2024-09-21 22:21:02, 2024-09-21 22:21:02, malware, 1da2b6812284401b9a11e4c0902537ca, http://115.63.43.146:35525/
