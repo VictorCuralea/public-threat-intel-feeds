@@ -6,9 +6,15 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-23 01:00:02 UTC
+# UPDATE: 2024-09-23 02:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+249892, 2024-09-23 01:38:11, 2024-09-23 01:38:11, phishing, 110e1faab2bfab332738dc73251a3cc8, http://projectdmain.pages.dev
+249891, 2024-09-23 01:12:10, 2024-09-23 01:12:10, phishing, 7ba9a0b1b8a1196dff5a89174b3e4c13, http://positif-ngelit21.pages.dev
+249890, 2024-09-23 01:04:17, 2024-09-23 01:04:17, phishing, 1dfde87e16c8e12fd57d18324e5115d6, https://telegram.dog/BotFather
+249889, 2024-09-23 01:02:17, 2024-09-23 01:02:17, phishing, e914508b5e79d127f29c7bc8f7ed7182, http://www.telegram.dog/BotFather
+249888, 2024-09-23 01:02:17, 2024-09-23 01:02:17, phishing, 15adf6ddd30b32b146aac6e014a1a87a, https://telegram.dog/Tamilan_BotsZ
+249887, 2024-09-23 01:00:13, 2024-09-23 01:00:13, phishing, d60f0563489e82a28fb7dd5a1ea75873, http://nodedapp-pandoshi.pages.dev
 249886, 2024-09-23 00:32:56, 2024-09-23 00:32:56, malware, d3161e12633a4a46a400c5bca6f03a5e, http://61.136.86.68:60006/
 249885, 2024-09-23 00:32:23, 2024-09-23 00:32:23, malware, 1887d3b1310e4ec1a31cccbb03d7b2c6, http://59.95.87.221:57959/bin.sh
 249884, 2024-09-23 00:32:21, 2024-09-23 00:32:21, malware, 33a65d326c3343b8a450ed1118077ce0, http://59.93.230.46:55403/i
@@ -503,9 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 249204, 2024-09-22 00:22:12, 2024-09-22 00:22:12, malware, e51fb67f7c174c0bb8dfec9b1551add0, http://182.127.100.191:46185/i
 249203, 2024-09-22 00:22:10, 2024-09-22 00:22:10, malware, 19be65bb4fb2477db2a490dc77d8db82, http://182.121.85.205:57259/i
 249202, 2024-09-22 00:22:08, 2024-09-22 00:22:08, malware, ab479a29dffd4917ad09b1fdc3ee91d3, http://182.119.101.217:59671/
-249201, 2024-09-22 00:22:05, 2024-09-22 00:22:05, malware, f6709dca414047b0b1a21f1c4c9a3612, http://182.116.11.163:33616/bin.sh
-249200, 2024-09-22 00:21:33, 2024-09-22 00:21:33, malware, 082666c87538430e9d7f8864bfad83a3, http://125.41.245.234:45920/i
-249199, 2024-09-22 00:21:20, 2024-09-22 00:21:20, malware, 7141136f85464ae3ad584463bb73c688, http://123.11.7.33:59272/i
-249198, 2024-09-22 00:21:14, 2024-09-22 00:21:14, malware, a352d15cf8e2481f9f9c0d0cd81de646, http://117.255.103.133:47828/bin.sh
-249197, 2024-09-22 00:21:12, 2024-09-22 00:21:12, malware, 68e471a83c8a4df68c37d0789274793d, http://117.248.169.195:33727/bin.sh
-249196, 2024-09-22 00:20:50, 2024-09-22 00:20:50, malware, ecc34ce45d6b40539c2b87925d04cc26, http://117.195.48.3:51169/i
