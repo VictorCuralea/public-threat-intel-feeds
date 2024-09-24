@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-24 17:00:01 UTC
+# UPDATE: 2024-09-24 18:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+251640, 2024-09-24 17:56:19, 2024-09-24 17:56:19, phishing, 279ee19b5f0c66436333ae989c11abfe, http://skfrefire.gerarna.io.vn
+251639, 2024-09-24 17:24:12, 2024-09-24 17:24:12, phishing, 2c292dc593d91784a06dc74aa8398a44, https://accoudam.serv00.net/___2/aa/swiss/sign.php
 251638, 2024-09-24 16:27:59, 2024-09-24 16:27:59, malware, cc6d5dddcb3e4e3195422cfdff892c4e, http://98.233.5.92:44850/i
 251637, 2024-09-24 16:27:57, 2024-09-24 16:27:57, malware, 4ed22ad647874d8593551293cadc3e66, http://98.233.5.92:44850/bin.sh
 251636, 2024-09-24 16:27:46, 2024-09-24 16:27:46, malware, b61bfc9f688e48279fb79b8e7703ec99, http://94.50.179.33:44166/i
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 250553, 2024-09-23 22:20:28, 2024-09-23 22:20:28, malware, bdf840e29f1249e3b9f11ce8a1ecb00a, http://115.51.16.14:37345/bin.sh
 250552, 2024-09-23 22:20:23, 2024-09-23 22:20:23, malware, cdb0f152fdad42d3adb5b0e574d80394, http://113.24.184.173:33231/i
 250551, 2024-09-23 22:20:09, 2024-09-23 22:20:09, malware, 957586d3f1a24b3989045514347308ac, http://112.248.117.44:53031/i
-250550, 2024-09-23 22:20:06, 2024-09-23 22:20:06, malware, 88499bbddf7142ea88b149d4855fb374, http://112.248.117.44:53031/bin.sh
-250549, 2024-09-23 22:20:04, 2024-09-23 22:20:04, malware, 5b57369d12784eaa9ca894ba011fed85, http://112.248.101.166:32924/bin.sh
