@@ -1,11 +1,84 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-24 12:59:00 UTC                        #
+# Last updated: 2024-09-24 14:37:12 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	extrapowerapps.monster
+127.0.0.1	freeactiveapp.monster
+127.0.0.1	freedigitalapp.monster
+127.0.0.1	freenewapp.monster
+127.0.0.1	freeperfectapps.monster
+127.0.0.1	freepowerapps.monster
+127.0.0.1	freequickapp.monster
+127.0.0.1	freshcoolapp.monster
+127.0.0.1	freshlightapp.monster
+127.0.0.1	freshneatapp.monster
+127.0.0.1	freshquickapps.monster
+127.0.0.1	getactiveapps.monster
+127.0.0.1	getdigitalapp.monster
+127.0.0.1	getnewapp.monster
+127.0.0.1	goldpowerapps.monster
+127.0.0.1	grandactiveapps.monster
+127.0.0.1	hotapps.monster
+127.0.0.1	hotfreeapp.com
+127.0.0.1	hotgrandapp.monster
+127.0.0.1	hotleaderapp.monster
+127.0.0.1	hotpowerapp.monster
+127.0.0.1	keyactiveapp.monster
+127.0.0.1	keyactiveapps.monster
+127.0.0.1	newactiveapps.monster
+127.0.0.1	poweractiveapp.monster
+127.0.0.1	poweractiveapps.monster
+127.0.0.1	pureactiveapps.monster
+127.0.0.1	purenewapp.monster
+127.0.0.1	pureofficialapp.monster
+127.0.0.1	purequickapp.monster
+127.0.0.1	runactiveapps.monster
+127.0.0.1	runleaderapp.monster
+127.0.0.1	runofficialapp.monster
+127.0.0.1	runpowerapps.monster
+127.0.0.1	safeactiveapps.monster
+127.0.0.1	safeapps.monster
+127.0.0.1	safedigitalapp.monster
+127.0.0.1	safegrandapp.monster
+127.0.0.1	safenewapp.monster
+127.0.0.1	safeperfectapps.monster
+127.0.0.1	safepowerapp.monster
+127.0.0.1	saveactiveapp.monster
+127.0.0.1	saveactiveapps.monster
+127.0.0.1	savepowerapps.monster
+127.0.0.1	sendperfectapps.monster
+127.0.0.1	speedabilityapp.monster
+127.0.0.1	extraperfectapps.monster
+127.0.0.1	extraactiveapp.monster
+127.0.0.1	extralightapp.monster
+127.0.0.1	elitequickapp.monster
+127.0.0.1	cleanpowerapps.monster
+127.0.0.1	eliteabilityapp.monster
+127.0.0.1	eliteactiveapps.monster
+127.0.0.1	bestquickapps.monster
+127.0.0.1	bestpowerapp.monster
+127.0.0.1	bestofficialapp.monster
+127.0.0.1	speedigitalapp.monster
+127.0.0.1	speedpowerapps.monster
+127.0.0.1	storeactiveapp.monster
+127.0.0.1	topactiveapp.monster
+127.0.0.1	topnewapp.monster
+127.0.0.1	topowerapps.monster
+127.0.0.1	useperfectapps.monster
+127.0.0.1	vipactiveapp.monster
+127.0.0.1	vipactiveapps.monster
+127.0.0.1	vipdigitalapp.monster
+127.0.0.1	vipnewapp.monster
+127.0.0.1	vipperfectapps.monster
+127.0.0.1	webabilityapp.monster
+127.0.0.1	webactiveapps.monster
+127.0.0.1	webpowerapp.monster
+127.0.0.1	webdigitalapp.monster
+127.0.0.1	webpowerapps.monster
 127.0.0.1	jdl-borsh.com
 127.0.0.1	bab-dadhi.com
 127.0.0.1	jpt-bulsa.com
@@ -8623,38 +8696,4 @@
 127.0.0.1	eclipseofmasters.com
 127.0.0.1	himalware.cn
 127.0.0.1	sketchcolor.shop
-127.0.0.1	nblcc.co
-127.0.0.1	thpataa.chat
-127.0.0.1	aane.xyz
-127.0.0.1	azmmhh.tech
-127.0.0.1	eyedr.art
-127.0.0.1	fboadbns.shop
-127.0.0.1	hygxq.xyz
-127.0.0.1	us17.xyz
-127.0.0.1	js-min.site
-127.0.0.1	stickloader.info
-127.0.0.1	api.localadswidget.com
-127.0.0.1	assets.watchasync.com
-127.0.0.1	cdn.jsdevlvr.info
-127.0.0.1	cdn.wt-api.top
-127.0.0.1	js.abc-cdn.online
-127.0.0.1	js.opttracker.online
-127.0.0.1	js.schema-forms.org
-127.0.0.1	l.js-assets.cloud
-127.0.0.1	load.365analytics.xyz
-127.0.0.1	page.24supportkit.com
-127.0.0.1	spf.js-min.site
-127.0.0.1	stat.counter247.live
-127.0.0.1	streaming.jsonmediapacks.com
-127.0.0.1	stylesheet.webstaticcdn.com
-127.0.0.1	tags.stickloader.info
-127.0.0.1	flonea.live
-127.0.0.1	grasping.oss-me-east-1.aliyuncs.com
-127.0.0.1	360sec.online
-127.0.0.1	vviill.com
-127.0.0.1	mosc.vviill.com
-127.0.0.1	mos4.vviill.com
-127.0.0.1	mos2.vviill.com
-127.0.0.1	mos1.vviill.com
-127.0.0.1	mos5.vviill.com
-# Number of entries: 8651
+# Number of entries: 8690
