@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-24 11:48:55 UTC                        #
+# Last updated: 2024-09-24 12:53:01 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	zenofs.zapto.org
+127.0.0.1	flyjeta.com
 127.0.0.1	floisinvestimentos.shop
 127.0.0.1	comercialduarte.shop
 127.0.0.1	tmtconsultoria.store
@@ -8654,4 +8656,4 @@
 127.0.0.1	mos5.vviill.com
 127.0.0.1	find-ball.com
 127.0.0.1	service-lidgmacv-1317471912.cd.tencentapigw.com
-# Number of entries: 8648
+# Number of entries: 8650

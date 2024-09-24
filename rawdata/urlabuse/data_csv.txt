@@ -6,9 +6,32 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-24 12:00:01 UTC
+# UPDATE: 2024-09-24 13:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+251499, 2024-09-24 12:30:15, 2024-09-24 12:30:15, malware, 237d391d376d47eca9629540cb67c8e0, http://61.53.120.53:49270/bin.sh
+251498, 2024-09-24 12:30:11, 2024-09-24 12:30:11, malware, 818abe2fa4ba4490939f58f32da05f79, http://61.52.72.217:38060/i
+251497, 2024-09-24 12:28:25, 2024-09-24 12:28:25, malware, b5772bda771f455095faca92190a03b0, http://60.214.17.90:44511/i
+251496, 2024-09-24 12:25:29, 2024-09-24 12:25:29, malware, 914727e963914d9eb438a29665bb5d68, http://42.224.27.185:37878/i
+251495, 2024-09-24 12:25:24, 2024-09-24 12:25:24, malware, 1490bf2c908e478b97b6e664a9ccdfd4, http://42.224.27.185:37878/bin.sh
+251494, 2024-09-24 12:25:20, 2024-09-24 12:25:20, malware, b15141f49f3540b88b7252bfdae42592, http://221.15.21.184:52714/i
+251493, 2024-09-24 12:25:16, 2024-09-24 12:25:16, malware, 43a80f8b4d07448d8dc8fb78cea219ef, http://182.121.175.77:40562/bin.sh
+251492, 2024-09-24 12:25:13, 2024-09-24 12:25:13, malware, 9ad81e0b01814d80a15452c73c86c59a, http://182.120.146.100:34282/
+251491, 2024-09-24 12:24:38, 2024-09-24 12:24:38, malware, 0ec39b992e9446ae8d500d15c819b6fa, http://125.43.33.22:46668/bin.sh
+251490, 2024-09-24 12:24:34, 2024-09-24 12:24:34, malware, 6f739eba31974c95acb3795297ce84c0, http://123.129.130.163:48384/i
+251489, 2024-09-24 12:24:28, 2024-09-24 12:24:28, malware, 1cf1bddad35f475c8533336754361ea7, http://123.12.43.93:57637/bin.sh
+251488, 2024-09-24 12:24:08, 2024-09-24 12:24:08, malware, 77a4bea442544691bf51cdcba6725b7c, http://119.164.44.135:57692/bin.sh
+251487, 2024-09-24 12:24:04, 2024-09-24 12:24:04, malware, a677b78d93ef456da624213ee9ac8fb0, http://117.248.174.160:45653/i
+251486, 2024-09-24 12:22:40, 2024-09-24 12:22:40, malware, c729db8b13074aebb74d028334d17fcb, http://117.235.123.230:33952/i
+251485, 2024-09-24 12:22:37, 2024-09-24 12:22:37, malware, 00f9ffabd9e74dea863bcb94d264e86b, http://117.212.188.187:55093/bin.sh
+251484, 2024-09-24 12:20:21, 2024-09-24 12:20:21, malware, bc42a6dafc8c47e9b5bca71cccadba03, http://115.61.102.116:52740/
+251483, 2024-09-24 12:20:20, 2024-09-24 12:20:20, malware, 0e6aed1e4c184a44bdc5c458e8fa3631, http://115.60.253.117:51739/
+251482, 2024-09-24 12:20:17, 2024-09-24 12:20:17, malware, 46b46110e9b64bc8ad669f25a2e06ba3, http://115.59.27.149:44835/bin.sh
+251481, 2024-09-24 12:20:13, 2024-09-24 12:20:13, phishing, 835e476838e66bc5ebb801ee4d115b4c, http://fractal-unisat-rpcdebug.pages.dev
+251480, 2024-09-24 12:20:13, 2024-09-24 12:20:13, phishing, 8ce6933ab43567d2c77a73012a67424c, http://fractal-unisat-rpcdebug.pages.dev
+251479, 2024-09-24 12:20:10, 2024-09-24 12:20:10, malware, 9a959866db264bd4857fb0fe85cf47a9, http://115.50.223.25:46814/bin.sh
+251478, 2024-09-24 12:20:08, 2024-09-24 12:20:08, malware, fc8c6f3b4baf4c4983b0266ef42c7075, http://115.50.213.56:48684/bin.sh
+251477, 2024-09-24 12:20:06, 2024-09-24 12:20:06, malware, ee39c056d8734e6f94cf2f7c9870447f, http://115.50.210.107:34387/i
 251476, 2024-09-24 11:03:29, 2024-09-24 11:02:14, phishing, 3ef2ead6905623bcfc1db63a39cfe478, https://spotify-services.serv00.net/spotify/auth/login.php
 251475, 2024-09-24 10:48:27, 2024-09-24 10:48:27, phishing, ea44b13908d32dff271f64207b9dd22c, http://telegrcams.icu
 251474, 2024-09-24 10:46:17, 2024-09-24 10:46:17, phishing, f0c5a23a7c749883dbeeb4acaa3711cb, http://teleg-ram.icu
@@ -486,26 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 250348, 2024-09-23 15:50:26, 2024-09-23 15:42:24, phishing, 78336a091d67637480363b8e199c41d4, https://b4ppp.vexolara.su/5fa1TxY/
 250347, 2024-09-23 15:49:43, 2024-09-23 15:42:16, phishing, f474726b4d4b534c5a2ba3ec9e616fad, https://test2024.carlomagnolaboratori.com/vjnvnjvjdvnjvjvnjnvjnj.html
 250346, 2024-09-23 15:48:35, 2024-09-23 15:40:17, phishing, 5960d50c1f6f01357159308a51250b45, https://davidmarrton.wixstudio.io/btsupportt
-250345, 2024-09-23 15:47:34, 2024-09-23 15:36:16, phishing, bd2c1af75879d171470734f12fb0a3d3, https://pwkeerkeer0.wixsite.com/my-site-1
-250344, 2024-09-23 15:46:11, 2024-09-23 15:46:11, phishing, 764d173081ed48026c8369e153b60c6c, http://tru1-l0ginmcsfoniine.apii-c1oudmcsf-onilne.workers.dev
-250343, 2024-09-23 15:46:01, 2024-09-23 15:38:23, phishing, f333434f03c1b85b9f2835e02c97904b, https://nckhahadf.weeblysite.com/
-250342, 2024-09-23 15:45:51, 2024-09-23 15:36:15, phishing, ca83c65d7837d93ef27b253bfeb476fa, https://btinc-108313.weeblysite.com/
-250341, 2024-09-23 15:42:19, 2024-09-23 15:42:19, phishing, 24d09689c63d96cec21840fa9015e87a, https://citycabledf.weebly.com/
-250340, 2024-09-23 15:42:12, 2024-09-23 15:42:12, phishing, bbcbccd4fcf2945ed9052d79ba8850d8, https://go.click.ly/sevnex
-250339, 2024-09-23 15:38:20, 2024-09-23 15:38:20, phishing, 75426541081851351688880510b0e4da, http://ms0nline-qatevvay-wps.api-ms365-cloud.workers.dev
-250338, 2024-09-23 15:38:16, 2024-09-23 15:38:16, phishing, 66e41e9bffc1a460dea9fe06f2789cf8, https://docs.google.com/presentation/d/1KDVLpWKrOlrWp-uQEAVTvZKFqMq9bSDqDDP8WGb1DfI/pub?start=false
-250337, 2024-09-23 15:38:16, 2024-09-23 15:38:16, phishing, 19edfb27ebe8bc0fdbca34c624c6e646, https://docs.google.com/presentation/d/1yzDMOL_KJgjEQh12Gg77IBvkVa341jXMKPx23Q6nQ_g/pub?start=false
-250336, 2024-09-23 15:36:15, 2024-09-23 15:36:15, phishing, 87672963135cca76e96a23cb230432c7, https://docs.google.com/presentation/d/1_QmC5XeJBysp2U86JqgyVwosgzGalE1KTGa37Q0C3EU/pub?start=false
-250335, 2024-09-23 15:36:15, 2024-09-23 15:36:15, phishing, c4e057e54393d4f9d600b56b4dfbcbb5, https://docs.google.com/presentation/d/1ncO98rYeskVigNlo9QwC-yZMoznmVZIyMakPHkk2K90/pub?start=false
-250334, 2024-09-23 15:34:36, 2024-09-23 15:32:25, phishing, f72257c274f0791fd906ee6e4b3022ff, http://775e6e94.shorelinecapmgmt.com/?id=jgvk.ch
-250333, 2024-09-23 15:34:23, 2024-09-23 15:34:23, phishing, 4b186a97f20ff854803bab5ecb15dc3c, https://docs.google.com/presentation/d/16qUxGLkQlvmCIGJJZPwZm16SQ_RgSnW2l90b92m4tPQ/pub?start=true
-250332, 2024-09-23 15:34:18, 2024-09-23 15:34:18, phishing, 73058104f2f55c479e1cfb28dc2130c5, https://lxggzvxted.beefreedesign.com/ZU3dZ
-250331, 2024-09-23 15:33:41, 2024-09-23 15:32:25, phishing, c3fc4fe4af59c79dd1d6092bb810a02c, https://amaruler106.systeme.io/df477df1
-250330, 2024-09-23 15:31:10, 2024-09-23 15:28:22, phishing, 9262f1cb989f29608e2e6a5e9203b175, http://b3e788c8.shorelinecapmgmt.com/?id=frauenbundsins.ch
-250329, 2024-09-23 15:29:13, 2024-09-23 15:26:19, phishing, 009dbc13029b087db0171df728b21b25, http://atomicwallet-ee.com/
-250328, 2024-09-23 15:27:53, 2024-09-23 15:27:53, malware, ca89c0314b92486487b7559310c72a91, https://sms-szfang.com/download/%E5%9B%9B%E6%96%B9%E5%B9%B3%E5%8F%B0-%E5%8D%A1%E5%95%86%E7%AB%AF.exe
-250327, 2024-09-23 15:27:45, 2024-09-23 15:27:45, malware, 1e2720e3fa914258bbc4460c35f739dd, https://pb.agnt.ru/upload/temp/_rels/key.exe
-250326, 2024-09-23 15:26:45, 2024-09-23 15:26:45, malware, fd229ad2aa7a4ef880b9f6323be2ba92, http://61.3.91.110:55077/i
-250325, 2024-09-23 15:26:36, 2024-09-23 15:26:36, phishing, 4a29ef72e055687f4df264cdbf6443ca, http://jobofferservice.pages.dev
-250324, 2024-09-23 15:26:22, 2024-09-23 15:26:22, malware, f2e63636e11740efb16dde99f5ca4424, http://61.163.13.162:40955/bin.sh
-250323, 2024-09-23 15:22:24, 2024-09-23 15:22:24, malware, 04bd1865af5947d6a57529f4d7a2a7fd, http://59.183.39.103:36064/bin.sh
