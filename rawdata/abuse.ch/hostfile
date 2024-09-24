@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-24 12:53:01 UTC                        #
+# Last updated: 2024-09-24 12:59:00 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	jdl-borsh.com
+127.0.0.1	bab-dadhi.com
+127.0.0.1	jpt-bulsa.com
 127.0.0.1	zenofs.zapto.org
 127.0.0.1	flyjeta.com
 127.0.0.1	floisinvestimentos.shop
@@ -8654,6 +8657,4 @@
 127.0.0.1	mos2.vviill.com
 127.0.0.1	mos1.vviill.com
 127.0.0.1	mos5.vviill.com
-127.0.0.1	find-ball.com
-127.0.0.1	service-lidgmacv-1317471912.cd.tencentapigw.com
-# Number of entries: 8650
+# Number of entries: 8651

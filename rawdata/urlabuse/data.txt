@@ -6,8 +6,11 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-24 13:00:01 UTC
+# UPDATE: 2024-09-24 14:00:02 UTC
 ############### END COMMENTS ###############
+{"id": 251502, "url": "http://discard.jauxkolayaidat.click", "discovery": "2024-09-24 13:52:15", "added": "2024-09-24 13:52:15", "target": "TR-GOV", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "3606cb2bafcb1d30706e6a812aeb7973"}
+{"id": 251501, "url": "http://speedod.clss.us.kg", "discovery": "2024-09-24 13:18:25", "added": "2024-09-24 13:18:25", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "dbc618910a49522740cde872af25abf0"}
+{"id": 251500, "url": "https://www.instagram.com.sg1.putrivpn1.us.kg/", "discovery": "2024-09-24 13:02:44", "added": "2024-09-24 13:02:44", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "21ea29d066faa0ab1019e82c866fb8c3"}
 {"id": 251499, "url": "http://61.53.120.53:49270/bin.sh", "discovery": "2024-09-24 12:30:15", "added": "2024-09-24 12:30:15", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "237d391d376d47eca9629540cb67c8e0"}
 {"id": 251498, "url": "http://61.52.72.217:38060/i", "discovery": "2024-09-24 12:30:11", "added": "2024-09-24 12:30:11", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "818abe2fa4ba4490939f58f32da05f79"}
 {"id": 251497, "url": "http://60.214.17.90:44511/i", "discovery": "2024-09-24 12:28:25", "added": "2024-09-24 12:28:25", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "b5772bda771f455095faca92190a03b0"}
@@ -505,6 +508,3 @@
 {"id": 250351, "url": "https://id.mborezvpn.us.kg/", "discovery": "2024-09-23 16:02:18", "added": "2024-09-23 16:02:18", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "284343fe7798f8e370df71f43cd6f055"}
 {"id": 250350, "url": "http://roseaisded.com", "discovery": "2024-09-23 15:54:17", "added": "2024-09-23 15:54:17", "target": "Facebook", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "64d288c7e9e43c4cc760a7d7d72dd273"}
 {"id": 250349, "url": "http://rrl.ccy.mybluehost.me/SWICA-ID/Login/CH/", "discovery": "2024-09-23 15:44:14", "added": "2024-09-23 15:51:48", "target": "SWICA", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "940c08684b3d923f1ceb20fd85fbeda5"}
-{"id": 250348, "url": "https://b4ppp.vexolara.su/5fa1TxY/", "discovery": "2024-09-23 15:42:24", "added": "2024-09-23 15:50:26", "target": "Microsoft", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "78336a091d67637480363b8e199c41d4"}
-{"id": 250347, "url": "https://test2024.carlomagnolaboratori.com/vjnvnjvjdvnjvjvnjnvjnj.html", "discovery": "2024-09-23 15:42:16", "added": "2024-09-23 15:49:43", "target": "FedEx", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "f474726b4d4b534c5a2ba3ec9e616fad"}
-{"id": 250346, "url": "https://davidmarrton.wixstudio.io/btsupportt", "discovery": "2024-09-23 15:40:17", "added": "2024-09-23 15:48:35", "target": "BT", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "5960d50c1f6f01357159308a51250b45"}
