@@ -1,11 +1,17 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-24 14:37:12 UTC                        #
+# Last updated: 2024-09-24 15:32:15 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	tiguanin.com
+127.0.0.1	bazarunet.com
+127.0.0.1	mazinom.com
+127.0.0.1	leroboy.com
+127.0.0.1	krinzhodom.com
+127.0.0.1	klemanzino.net
 127.0.0.1	extrapowerapps.monster
 127.0.0.1	freeactiveapp.monster
 127.0.0.1	freedigitalapp.monster
@@ -8694,6 +8700,4 @@
 127.0.0.1	low-feeding.gl.at.ply.gg
 127.0.0.1	limited-architect.gl.at.ply.gg
 127.0.0.1	eclipseofmasters.com
-127.0.0.1	himalware.cn
-127.0.0.1	sketchcolor.shop
-# Number of entries: 8690
+# Number of entries: 8694
