@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-24 11:00:01 UTC
+# UPDATE: 2024-09-24 12:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+251476, 2024-09-24 11:03:29, 2024-09-24 11:02:14, phishing, 3ef2ead6905623bcfc1db63a39cfe478, https://spotify-services.serv00.net/spotify/auth/login.php
 251475, 2024-09-24 10:48:27, 2024-09-24 10:48:27, phishing, ea44b13908d32dff271f64207b9dd22c, http://telegrcams.icu
 251474, 2024-09-24 10:46:17, 2024-09-24 10:46:17, phishing, f0c5a23a7c749883dbeeb4acaa3711cb, http://teleg-ram.icu
 251473, 2024-09-24 10:40:15, 2024-09-24 10:40:15, phishing, 09fa5f184a2434108864a546946d6989, http://mail.shamilah-asupan-manis.gleeze.com
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 250325, 2024-09-23 15:26:36, 2024-09-23 15:26:36, phishing, 4a29ef72e055687f4df264cdbf6443ca, http://jobofferservice.pages.dev
 250324, 2024-09-23 15:26:22, 2024-09-23 15:26:22, malware, f2e63636e11740efb16dde99f5ca4424, http://61.163.13.162:40955/bin.sh
 250323, 2024-09-23 15:22:24, 2024-09-23 15:22:24, malware, 04bd1865af5947d6a57529f4d7a2a7fd, http://59.183.39.103:36064/bin.sh
-250322, 2024-09-23 15:20:49, 2024-09-23 15:20:49, malware, db5ed3a6ca4f4b068d74b1d4f59ce3cc, http://42.239.177.226:54654/bin.sh
