@@ -6,9 +6,15 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-24 19:00:01 UTC
+# UPDATE: 2024-09-24 20:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+251703, 2024-09-24 19:53:40, 2024-09-24 19:53:40, malware, 0b43ce841bce431692990a2e5dce357a, https://ironir.online/app.apk
+251702, 2024-09-24 19:53:08, 2024-09-24 19:20:14, phishing, 6c2e650ac13ea9e44582756919d7a1b4, https://ironir.online/dashbord/
+251701, 2024-09-24 19:28:13, 2024-09-24 19:28:13, phishing, 7506843d6f063818ca5e4de805f8c424, http://uacunicon.pages.dev
+251700, 2024-09-24 19:20:27, 2024-09-24 19:20:27, malware, fee9931b91184ab6949bf859b2192516, http://61.53.73.34:40169/bin.sh
+251699, 2024-09-24 19:20:25, 2024-09-24 19:20:25, malware, 7d36f99aaf454495a04b68ca7998439c, http://61.52.61.142:46497/bin.sh
+251698, 2024-09-24 19:06:13, 2024-09-24 19:06:13, phishing, ddda3e9ac065cb3f88807c009d9f027d, http://sadawsaws.best
 251697, 2024-09-24 18:58:14, 2024-09-24 18:58:14, phishing, 6173c1fc10867e17adb078e66ec5147e, http://imtoken.help
 251696, 2024-09-24 18:52:34, 2024-09-24 18:52:34, malware, 8d28a149c8674f1096d297e22d6a20f0, https://ghestvam.com/ghesta.apk
 251695, 2024-09-24 18:51:21, 2024-09-24 18:51:21, phishing, 202ff2d381dbd95a3cb3504adb4f058a, https://ghestvam.com/
@@ -503,9 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 250616, 2024-09-24 02:24:58, 2024-09-24 02:24:58, malware, 5c00f9bbe542453cb2db95f1c82e6509, http://125.43.33.22:46668/i
 250615, 2024-09-24 02:24:46, 2024-09-24 02:24:46, malware, 881eeebfe9fc4ef69ab4dbd4f8c0e63d, http://124.132.133.212:48366/i
 250614, 2024-09-24 02:24:44, 2024-09-24 02:24:44, malware, b3b785fded2b484da66430e3b4833730, http://123.7.245.116:39690/i
-250613, 2024-09-24 02:24:39, 2024-09-24 02:24:39, malware, 68d0477cb53146459eaea1d3bf787d89, http://123.5.171.69:41616/i
-250612, 2024-09-24 02:24:35, 2024-09-24 02:24:35, malware, 9861c51ed7854c2397e0e9c15c958d7a, http://123.4.189.84:47889/i
-250611, 2024-09-24 02:24:32, 2024-09-24 02:24:32, malware, 9dc511dcb6784488b916d3e13c8418dd, http://123.4.189.84:47889/bin.sh
-250610, 2024-09-24 02:24:17, 2024-09-24 02:24:17, malware, 73f5c3e2951f4deea197d3cd8caf121e, http://123.129.130.163:48384/bin.sh
-250609, 2024-09-24 02:24:02, 2024-09-24 02:24:02, malware, 8085dfddd6de4cc79dd1f05f16d0c026, http://117.254.58.34:51642/bin.sh
-250608, 2024-09-24 02:23:15, 2024-09-24 02:23:15, malware, 2f800473959c4dc8af7d33b0ebdd5300, http://117.248.170.214:52412/i
