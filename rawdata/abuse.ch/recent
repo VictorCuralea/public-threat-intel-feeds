@@ -1,12 +1,13 @@
 ################################################################
 # ThreatFox IOCs: recent SHA256 hashes - CSV format            #
-# Last updated: 2024-09-23 11:56:14 UTC                        #
+# Last updated: 2024-09-24 03:17:05 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
 # "first_seen_utc","ioc_id","ioc_value","ioc_type","threat_type","fk_malware","malware_alias","malware_printable","last_seen_utc","confidence_level","reference","tags","anonymous","reporter"
+"2024-09-24 03:17:05", "1328498", "5C109D42BE2B29EDFC34290EFFD892B44B53F1BCC34799CFA9789764C54F254C", "sha256_hash", "payload", "ps1.powershell_web_backdoor", "None", "powershell_web_backdoor", "", "100", "", "loader", "0", "gregojff"
 "2024-09-23 11:56:14", "1328333", "3c317dbab70d3ab4fce944c92532d111f69fd71dca5c7f7c7b8d57e657f26a1a", "sha256_hash", "payload", "win.lumma", "LummaC2 Stealer", "Lumma Stealer", "", "100", "https://app.any.run/tasks/174e2732-ec4a-4819-97f8-e2f0ae4a5a33", "None", "0", "pitachu"
 "2024-09-23 06:34:25", "1328255", "3f071245c9bdc5b72d0df448f825c946f0024b5572de0ca1f86d167cc18e2b13", "sha256_hash", "payload", "win.agent_tesla", "AgenTesla,AgentTesla,Negasteal", "Agent Tesla", "", "95", "None", "None", "0", "Grim"
 "2024-09-23 06:34:22", "1328252", "a736269f5f3a9f2e11dd776e352e1801bc28bb699e47876784b8ef761e0062db", "sha256_hash", "payload", "win.blackmatter", "None", "BlackMatter", "", "95", "None", "None", "0", "Grim"
@@ -132,4 +133,4 @@
 "2024-09-22 06:45:42", "1327243", "fd4ca109bbafcc509f99cea673648c2baa6934e9eb9a903b0c24c2e7f84d56c4", "sha256_hash", "payload", "win.agent_tesla", "AgenTesla,AgentTesla,Negasteal", "Agent Tesla", "", "95", "None", "None", "0", "Grim"
 "2024-09-22 06:45:37", "1327240", "172799005230f9863cf5a2248248fc9ddcf1849a45d40c2f79ea1924bb14075c", "sha256_hash", "payload", "win.agent_tesla", "AgenTesla,AgentTesla,Negasteal", "Agent Tesla", "", "95", "None", "None", "0", "Grim"
 "2024-09-22 06:45:33", "1327237", "86c0e8c71fe53ff1ee1ac2a494c208392b9f4128f85552e69105e8fa19724f63", "sha256_hash", "payload", "win.agent_tesla", "AgenTesla,AgentTesla,Negasteal", "Agent Tesla", "", "95", "None", "None", "0", "Grim"
-# Number of entries: 125
+# Number of entries: 126

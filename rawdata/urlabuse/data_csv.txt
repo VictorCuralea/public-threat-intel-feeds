@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-24 03:00:01 UTC
+# UPDATE: 2024-09-24 04:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+250633, 2024-09-24 03:38:17, 2024-09-24 03:38:17, phishing, 3db177dbc703e740f90a57208018f797, http://decentralized.anteus.com
+250632, 2024-09-24 03:10:15, 2024-09-24 03:10:15, phishing, a31ae6a234ce8375dc9ea21d072a37da, http://multidapps-net.fghcnfsg.online
 250631, 2024-09-24 02:56:17, 2024-09-24 02:56:17, phishing, 29233027546fdd4751f5027c28abdcd2, http://decentralized.defdc.com
 250630, 2024-09-24 02:56:11, 2024-09-24 02:56:11, phishing, 1db65242301ad9d3eb0bb5c825b3ccfa, http://rjbtctele.pages.dev
 250629, 2024-09-24 02:46:11, 2024-09-24 02:46:11, phishing, 48d72468c8450edc7c954580574eef1e, http://e57i57ije57ije57i656.pages.dev
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 250072, 2024-09-23 06:31:51, 2024-09-23 06:31:51, malware, 13e791fb0de54acab7c91a5db9ef4c4a, http://42.237.83.186:34302/
 250071, 2024-09-23 06:31:17, 2024-09-23 06:31:17, malware, 82a60031129e4f9486db86a59b80b46d, http://42.228.39.45:44310/i
 250070, 2024-09-23 06:31:15, 2024-09-23 06:31:15, malware, d3f86fe089f9435198e643110ac2070f, http://42.227.203.77:60783/
-250069, 2024-09-23 06:31:11, 2024-09-23 06:31:11, malware, ca3057920bc24ac4a11e297d6153a7c2, http://39.90.144.106:48989/bin.sh
-250068, 2024-09-23 06:30:56, 2024-09-23 06:30:56, malware, 246a0b06284147c394aebd9e696110cd, http://222.138.72.155:43559/i
