@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-24 15:32:15 UTC                        #
+# Last updated: 2024-09-24 16:02:59 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	thvip-bm.tokenv1.cloud
+127.0.0.1	www.reporting.pythr.net
 127.0.0.1	tiguanin.com
 127.0.0.1	bazarunet.com
 127.0.0.1	mazinom.com
@@ -8700,4 +8702,4 @@
 127.0.0.1	low-feeding.gl.at.ply.gg
 127.0.0.1	limited-architect.gl.at.ply.gg
 127.0.0.1	eclipseofmasters.com
-# Number of entries: 8694
+# Number of entries: 8696
