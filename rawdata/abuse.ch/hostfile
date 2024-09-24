@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-23 20:01:33 UTC                        #
+# Last updated: 2024-09-24 00:01:50 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	porkaloxov.com
+127.0.0.1	asmby.duckdns.org
 127.0.0.1	wwwm.ethergases.app
 127.0.0.1	sitemaps.pythr.net
 127.0.0.1	dashboards.ethergases.app
@@ -8648,5 +8650,4 @@
 127.0.0.1	find-ball.com
 127.0.0.1	service-lidgmacv-1317471912.cd.tencentapigw.com
 127.0.0.1	service-75oa09db-1317471892.cd.tencentapigw.com
-127.0.0.1	www.guerrilladefense.com
-# Number of entries: 8643
+# Number of entries: 8644
