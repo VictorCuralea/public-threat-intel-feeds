@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-25 19:53:30 UTC                        #
+# Last updated: 2024-09-25 20:02:06 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	103.230.121.12.sslip.io
+127.0.0.1	www.portal.pythr.net
+127.0.0.1	www.visual.pythr.net
+127.0.0.1	www.analytic.pythr.net
+127.0.0.1	xspeed.freemyip.com
 127.0.0.1	oca.pics
 127.0.0.1	mazurax.com
 127.0.0.1	nor-reg.com
@@ -8751,4 +8756,4 @@
 127.0.0.1	incachespace.com
 127.0.0.1	lyddemper.com
 127.0.0.1	xjp.xinjiangworker.shop
-# Number of entries: 8745
+# Number of entries: 8750
