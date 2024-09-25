@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-25 18:00:02 UTC
+# UPDATE: 2024-09-25 19:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+252605, 2024-09-25 18:46:12, 2024-09-25 18:46:12, phishing, 0d7a192146d3cf8094229b3d4a0ea1a7, http://met-bio-764.pages.dev
+252604, 2024-09-25 18:32:11, 2024-09-25 18:32:11, phishing, b4bcc7e8eb327785710bbd841bd368ba, http://c1ientindexoniine1ogin.msonilne-avvs-api.workers.dev
 252603, 2024-09-25 17:36:05, 2024-09-25 16:56:16, phishing, e7f92ffe110549f8867a3eea41031c53, https://nn-nc.weeblysite.com/
 252602, 2024-09-25 17:32:51, 2024-09-25 17:32:51, malware, 4a25e5d51d1647e1ba8a6beafaf31da8, http://59.98.197.101:43927/i
 252601, 2024-09-25 17:28:39, 2024-09-25 17:28:39, malware, e815f25886994e4d81c52ca9347f5580, http://59.89.65.176:55760/Mozi.m
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 251775, 2024-09-24 22:26:54, 2024-09-24 22:26:54, malware, e7e7d0e79c504c6d9e3c1e811591bb09, http://59.95.97.169:56290/bin.sh
 251774, 2024-09-24 22:26:48, 2024-09-24 22:26:48, malware, f5c99f018080493d98f84d94fb4f8e35, http://59.95.90.1:55324/bin.sh
 251773, 2024-09-24 22:26:29, 2024-09-24 22:26:29, malware, a25db15c620541b5b3e7bb6b81d929be, http://59.89.199.69:54229/i
-251772, 2024-09-24 22:25:32, 2024-09-24 22:25:32, malware, f8f635eb45014262aaaa97e35c24bac3, http://59.178.87.114:46706/bin.sh
-251771, 2024-09-24 22:25:30, 2024-09-24 22:25:30, malware, ea5771cceef641c2913752be95c6712f, http://59.178.60.241:32892/i
