@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-25 16:02:15 UTC                        #
+# Last updated: 2024-09-25 17:29:01 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	nor-reg.com
 127.0.0.1	m.outlook.adminstream.org
 127.0.0.1	staging.ethergases.app
 127.0.0.1	www.tthvlgatewaycitrix.pythr.net
@@ -8748,4 +8749,4 @@
 127.0.0.1	incachespace.com
 127.0.0.1	lyddemper.com
 127.0.0.1	xjp.xinjiangworker.shop
-# Number of entries: 8742
+# Number of entries: 8743
