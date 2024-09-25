@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-25 03:00:01 UTC
+# UPDATE: 2024-09-25 04:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+251897, 2024-09-25 03:54:13, 2024-09-25 03:54:13, phishing, de50ce746893b46dd74e0685129c183c, http://brandy.pages.dev
+251896, 2024-09-25 03:30:12, 2024-09-25 03:30:12, phishing, f4872bc5901e44841b210f98378be6e6, http://76ue5e5u7uje5u7.pages.dev
 251895, 2024-09-25 02:42:17, 2024-09-25 02:42:17, phishing, 102536f2eee8196e3f358419f96ebe47, http://whantsapp-fb.com
 251894, 2024-09-25 02:42:13, 2024-09-25 02:42:13, phishing, b8573e81676e5a547481618242ed9caa, http://ms-copilot-play-6v7.pages.dev
 251893, 2024-09-25 02:32:00, 2024-09-25 02:32:00, malware, 463a849aaa874c40aac2242fa40ec577, http://59.99.142.86:50439/i
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 251162, 2024-09-24 09:02:33, 2024-09-24 09:02:33, phishing, f0c144edf54d005eb598842497540c5b, https://dev-612101459966.pantheonsite.io
 251160, 2024-09-24 09:02:24, 2024-09-24 08:56:24, phishing, aac419a7a384107fdc7d494259cf4a10, https://rb.gy/6ucw3c
 251157, 2024-09-24 09:02:05, 2024-09-24 08:56:17, phishing, 8d2e4af3ad59e2b336d2a3cea176bace, https://rb.gy/h66x7g
-251150, 2024-09-24 09:01:13, 2024-09-24 09:01:13, phishing, 9df83a677e3d437adc392ecdfdf5d919, https://dev-3494935923581924219248.pantheonsite.io
-251147, 2024-09-24 09:01:05, 2024-09-24 08:54:16, phishing, 1cfa56556f29eff56caab7395c1c2979, https://rb.gy/61a7l8

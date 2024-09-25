@@ -6,8 +6,10 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-25 03:00:01 UTC
+# UPDATE: 2024-09-25 04:00:02 UTC
 ############### END COMMENTS ###############
+{"id": 251897, "url": "http://brandy.pages.dev", "discovery": "2024-09-25 03:54:13", "added": "2024-09-25 03:54:13", "target": "Whatsapp", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "de50ce746893b46dd74e0685129c183c"}
+{"id": 251896, "url": "http://76ue5e5u7uje5u7.pages.dev", "discovery": "2024-09-25 03:30:12", "added": "2024-09-25 03:30:12", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "f4872bc5901e44841b210f98378be6e6"}
 {"id": 251895, "url": "http://whantsapp-fb.com", "discovery": "2024-09-25 02:42:17", "added": "2024-09-25 02:42:17", "target": "Whatsapp", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "102536f2eee8196e3f358419f96ebe47"}
 {"id": 251894, "url": "http://ms-copilot-play-6v7.pages.dev", "discovery": "2024-09-25 02:42:13", "added": "2024-09-25 02:42:13", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "b8573e81676e5a547481618242ed9caa"}
 {"id": 251893, "url": "http://59.99.142.86:50439/i", "discovery": "2024-09-25 02:32:00", "added": "2024-09-25 02:32:00", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "463a849aaa874c40aac2242fa40ec577"}
@@ -506,5 +508,3 @@
 {"id": 251162, "url": "https://dev-612101459966.pantheonsite.io", "discovery": "2024-09-24 09:02:33", "added": "2024-09-24 09:02:33", "target": "Orange", "reporter": "urlabuse", "AbuseType": "phishing", "UUID": "f0c144edf54d005eb598842497540c5b"}
 {"id": 251160, "url": "https://rb.gy/6ucw3c", "discovery": "2024-09-24 08:56:24", "added": "2024-09-24 09:02:24", "target": "Orange", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "aac419a7a384107fdc7d494259cf4a10"}
 {"id": 251157, "url": "https://rb.gy/h66x7g", "discovery": "2024-09-24 08:56:17", "added": "2024-09-24 09:02:05", "target": "Orange", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "8d2e4af3ad59e2b336d2a3cea176bace"}
-{"id": 251150, "url": "https://dev-3494935923581924219248.pantheonsite.io", "discovery": "2024-09-24 09:01:13", "added": "2024-09-24 09:01:13", "target": "Orange", "reporter": "urlabuse", "AbuseType": "phishing", "UUID": "9df83a677e3d437adc392ecdfdf5d919"}
-{"id": 251147, "url": "https://rb.gy/61a7l8", "discovery": "2024-09-24 08:54:16", "added": "2024-09-24 09:01:05", "target": "Orange", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "1cfa56556f29eff56caab7395c1c2979"}
