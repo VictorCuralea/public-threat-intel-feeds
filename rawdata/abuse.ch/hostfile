@@ -1,11 +1,23 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-25 14:48:02 UTC                        #
+# Last updated: 2024-09-25 16:02:15 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	m.outlook.adminstream.org
+127.0.0.1	staging.ethergases.app
+127.0.0.1	www.tthvlgatewaycitrix.pythr.net
+127.0.0.1	www.wwwremoto.pythr.net
+127.0.0.1	www.wwwwebmail.ethergases.app
+127.0.0.1	www.wwwwp.ethergases.org
+127.0.0.1	www.secure.ethergases.org
+127.0.0.1	www.virtualapps.pythr.net
+127.0.0.1	metis-launchpad.org
+127.0.0.1	www.sitemaps.ethergases.org
+127.0.0.1	www.admin.ethergases.org
+127.0.0.1	wwwwww.pythr.net
 127.0.0.1	newlumm.fun
 127.0.0.1	younngpresseo.shop
 127.0.0.1	candleduseiwo.shop
@@ -8736,5 +8748,4 @@
 127.0.0.1	incachespace.com
 127.0.0.1	lyddemper.com
 127.0.0.1	xjp.xinjiangworker.shop
-127.0.0.1	cdn.next2.cx
-# Number of entries: 8731
+# Number of entries: 8742
