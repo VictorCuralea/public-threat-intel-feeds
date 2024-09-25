@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-25 05:23:14 UTC                        #
+# Last updated: 2024-09-25 06:46:14 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ms-edge.link
 127.0.0.1	notificadoresrma.duckdns.org
 127.0.0.1	ssl.officefilechecks.com
 127.0.0.1	play.officefilechecks.com
@@ -8726,9 +8727,4 @@
 127.0.0.1	d69b6834b7eb46fcb7bbcaa60f9f0f2d.apig.cn-east-3.huaweicloudapis.com
 127.0.0.1	f6d2b014a8664ddd8d859ce64f3741ad.apig.cn-east-3.huaweicloudapis.com
 127.0.0.1	billions.ooguy.com
-127.0.0.1	share-introduced.gl.at.ply.gg
-127.0.0.1	h2cker.ddns.net
-127.0.0.1	low-feeding.gl.at.ply.gg
-127.0.0.1	limited-architect.gl.at.ply.gg
-127.0.0.1	eclipseofmasters.com
-# Number of entries: 8725
+# Number of entries: 8721
