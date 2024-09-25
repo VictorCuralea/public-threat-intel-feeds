@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-25 09:48:18 UTC                        #
+# Last updated: 2024-09-25 11:12:02 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	lumnew.fun
 127.0.0.1	meet.google.us-join.com
 127.0.0.1	meet.googie.com-join.us
 127.0.0.1	meet.google.com-join.us
@@ -8735,4 +8736,4 @@
 127.0.0.1	d69b6834b7eb46fcb7bbcaa60f9f0f2d.apig.cn-east-3.huaweicloudapis.com
 127.0.0.1	f6d2b014a8664ddd8d859ce64f3741ad.apig.cn-east-3.huaweicloudapis.com
 127.0.0.1	billions.ooguy.com
-# Number of entries: 8729
+# Number of entries: 8730
