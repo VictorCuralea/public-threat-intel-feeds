@@ -1,11 +1,21 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-24 20:02:03 UTC                        #
+# Last updated: 2024-09-25 00:02:20 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ssl.officefilechecks.com
+127.0.0.1	play.officefilechecks.com
+127.0.0.1	gstatic.officefilechecks.com
+127.0.0.1	myaccount.officefilechecks.com
+127.0.0.1	content.officefilechecks.com
+127.0.0.1	apis.officefilechecks.com
+127.0.0.1	blog.olivescode.com
+127.0.0.1	accounts.officefilechecks.com
+127.0.0.1	outlook.caltechsystems.com
+127.0.0.1	youtube.officefilechecks.com
 127.0.0.1	urbanhomes.agency
 127.0.0.1	fake.starchop.shop
 127.0.0.1	skcvycevgwwwwsowgoowa.ethergases.app
@@ -8720,4 +8730,4 @@
 127.0.0.1	low-feeding.gl.at.ply.gg
 127.0.0.1	limited-architect.gl.at.ply.gg
 127.0.0.1	eclipseofmasters.com
-# Number of entries: 8714
+# Number of entries: 8724
