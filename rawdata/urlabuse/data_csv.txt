@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-25 05:00:01 UTC
+# UPDATE: 2024-09-25 06:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+251935, 2024-09-25 05:52:11, 2024-09-25 05:52:11, phishing, 8b802560238eac3bffcc443b0460c21d, http://debita-rpcdebug.pages.dev
+251934, 2024-09-25 05:06:11, 2024-09-25 05:06:11, phishing, 2a0ccb58c99af736d380370a799d93d7, http://griffinartdesign.com
 251933, 2024-09-25 04:36:13, 2024-09-25 04:36:13, phishing, cc3443de1db2c1bc8650fe466c3d0c18, http://probaproba-8kf.pages.dev
 251932, 2024-09-25 04:29:34, 2024-09-25 04:29:34, malware, 01efafbb5c324351a66593a09f2ef2a4, https://rainhamabattoir.co.zw/wp-content/build.exe
 251931, 2024-09-25 04:27:11, 2024-09-25 04:27:11, malware, b7a34e2233f8414bafb4cbf8c7c25c05, http://59.95.91.11:57959/i
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 251437, 2024-09-24 10:21:26, 2024-09-24 10:21:26, malware, d612c29306a74930ac0170d721f33b5c, http://117.203.128.250:59795/i
 251436, 2024-09-24 10:21:08, 2024-09-24 10:21:08, malware, 9641a4cda67c4b888ab06ec23381c1dd, http://117.202.64.15:48254/i
 251435, 2024-09-24 10:20:52, 2024-09-24 10:20:52, malware, 798920282eac4dbf84dee1390be41eb5, http://117.199.74.85:52898/i
-251434, 2024-09-24 10:20:19, 2024-09-24 10:20:19, malware, 0646fd3933b4479288b808882cbe46a8, http://115.60.253.117:51739/bin.sh
-251433, 2024-09-24 10:20:17, 2024-09-24 10:20:17, malware, 9dac4b9f10aa4c6ba3a081ad1761f5fd, http://115.59.235.43:47308/i

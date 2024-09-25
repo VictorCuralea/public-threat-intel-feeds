@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-25 00:02:20 UTC                        #
+# Last updated: 2024-09-25 05:23:14 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	notificadoresrma.duckdns.org
 127.0.0.1	ssl.officefilechecks.com
 127.0.0.1	play.officefilechecks.com
 127.0.0.1	gstatic.officefilechecks.com
@@ -8730,4 +8731,4 @@
 127.0.0.1	low-feeding.gl.at.ply.gg
 127.0.0.1	limited-architect.gl.at.ply.gg
 127.0.0.1	eclipseofmasters.com
-# Number of entries: 8724
+# Number of entries: 8725
