@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-26 00:02:18 UTC                        #
+# Last updated: 2024-09-26 04:01:30 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	v120527.hosted-by-vdsina.com
 127.0.0.1	www.inforig.ru
 127.0.0.1	103.230.121.12.sslip.io
 127.0.0.1	www.portal.pythr.net
@@ -8757,4 +8758,4 @@
 127.0.0.1	incachespace.com
 127.0.0.1	lyddemper.com
 127.0.0.1	xjp.xinjiangworker.shop
-# Number of entries: 8751
+# Number of entries: 8752
