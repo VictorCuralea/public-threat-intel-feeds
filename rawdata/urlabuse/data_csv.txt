@@ -6,9 +6,14 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-25 23:00:02 UTC
+# UPDATE: 2024-09-26 00:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+252689, 2024-09-25 23:30:28, 2024-09-25 23:30:28, malware, c22c85a37f094674b951845edcf7a0e4, http://59.98.197.101:43927/bin.sh
+252688, 2024-09-25 23:30:11, 2024-09-25 23:30:11, phishing, 595dbdd414413396db11a832cd6c719b, http://blockdagnetworkservice.pages.dev
+252687, 2024-09-25 23:29:57, 2024-09-25 23:29:57, malware, 0cbf44402e424d2f84e0b25eee85420e, http://59.97.125.41:40163/bin.sh
+252686, 2024-09-25 23:24:37, 2024-09-25 23:24:37, malware, a51ad0473cf4422cace176987bb6d26e, http://59.89.68.141:56485/i
+252685, 2024-09-25 23:20:05, 2024-09-25 23:20:05, malware, 12bbb924630b4d70a4e64bad90cd7822, http://117.206.187.226:53637/bin.sh
 252684, 2024-09-25 22:34:10, 2024-09-25 22:34:10, malware, 9c9ffd6b21d548b69555b6c88c03e00a, http://45.10.160.45/su
 252683, 2024-09-25 22:33:32, 2024-09-25 22:33:32, malware, e0c5cee730034d8f888b7e4fd2e319b8, http://45.10.160.45/po
 252682, 2024-09-25 22:25:55, 2024-09-25 22:25:55, malware, e3fa42598e8148519252e3716c6cdcb9, http://45.10.160.45/curl
@@ -504,8 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 251859, 2024-09-25 02:11:03, 2024-09-25 01:03:11, phishing, d2808ea0813bdf75328413d0c5007670, https://www.settonfabrication.com/
 251858, 2024-09-25 02:10:38, 2024-09-25 01:03:09, phishing, d063fc134d530c296eb5c9b2fad4b5e2, https://uprendezmalgo.pages.dev/%
 251857, 2024-09-25 02:10:07, 2024-09-25 00:50:18, phishing, c9413b43e633414970e437bfb0882624, https://s4i72.mjt.lu/lnk/AV4AAE6SVJwAAAAAAAAAAf1kxf8AAYCtOo0AAAAAACl8QwBm62spIpSbSezYTI6PecWYoUi1KAAmbfg/1/amTJ5tHIy5U0ukRcQxKDVg/aHR0cHM6Ly9jMzR0M2Zld3guc3RhcnR2LmNvbS5ici9wb3J0YWwvI2l0bWVlc0BpdG1lZXMuZWU#
-251856, 2024-09-25 00:33:45, 2024-09-25 00:33:45, malware, ee15cc473e994e9e8682359104a7333b, http://61.52.27.251:42637/bin.sh
-251855, 2024-09-25 00:33:43, 2024-09-25 00:33:43, malware, eee8c38e2d3148daacd0c6846c9eadad, http://61.3.1.226:56307/bin.sh
-251854, 2024-09-25 00:33:30, 2024-09-25 00:33:30, malware, c11bec8f876b45d3a67f96e7c3d88f4c, http://59.99.138.224:50787/i
-251853, 2024-09-25 00:33:18, 2024-09-25 00:33:18, malware, 6e889c5d5dae4cc592d07bfb41a2d4fc, http://59.99.101.89:57993/i
-251852, 2024-09-25 00:32:42, 2024-09-25 00:32:42, malware, 7e838bebf4014f928cb1c55186770ab7, http://59.95.134.46:33699/i
