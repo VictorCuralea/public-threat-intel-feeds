@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-26 10:15:46 UTC                        #
+# Last updated: 2024-09-26 12:51:45 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	restbycalm.com
+127.0.0.1	circle.innovativecsportal.com
 127.0.0.1	mabident.com
 127.0.0.1	finalstepgo.com
 127.0.0.1	comandoespecial2023.duckdns.org
@@ -8760,17 +8762,4 @@
 127.0.0.1	mythictherapy.org
 127.0.0.1	www.srryontop.fr
 127.0.0.1	srryontop.fr
-127.0.0.1	lionos.xyz
-127.0.0.1	axz.lionos.xyz
-127.0.0.1	pda.lionos.xyz
-127.0.0.1	ml.lionos.xyz
-127.0.0.1	goweqmcsa.xyz
-127.0.0.1	wwea.goweqmcsa.xyz
-127.0.0.1	xza.goweqmcsa.xyz
-127.0.0.1	api.virtue.ltd
-127.0.0.1	networkbn.com
-127.0.0.1	net-killer.work.gd
-127.0.0.1	bot.layer4.bf
-127.0.0.1	hiyl7.hilariocolche.com
-127.0.0.1	metis-info.com
-# Number of entries: 8767
+# Number of entries: 8756
