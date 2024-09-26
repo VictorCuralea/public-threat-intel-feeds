@@ -1,11 +1,29 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-26 18:05:10 UTC                        #
+# Last updated: 2024-09-26 20:02:33 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	tx.s.officefilechecks.com
+127.0.0.1	s.officefilechecks.com
+127.0.0.1	cdn.c.officefilechecks.com
+127.0.0.1	banking.s.officefilechecks.com
+127.0.0.1	my.c.officefilechecks.com
+127.0.0.1	wwwwwwcloudapp.pythr.net
+127.0.0.1	www.metric.ethergases.org
+127.0.0.1	www.wkfhgwwwwebmail.pythr.net
+127.0.0.1	www.wwwwww1.ethergases.org
+127.0.0.1	wwwwp.ethergases.app
+127.0.0.1	app.ethergases.org
+127.0.0.1	www.wwwwwwwwwwebmail.pythr.net
+127.0.0.1	www.metrics.pythr.net
+127.0.0.1	www.wwwchart.ethergases.app
+127.0.0.1	fqwvcwwwsslvpn.pythr.net
+127.0.0.1	wwwwwwapp.ethergases.org
+127.0.0.1	chronopostx.lat
+127.0.0.1	www.owa.pythr.net
 127.0.0.1	trustterwowqm.shop
 127.0.0.1	c.officefilechecks.com
 127.0.0.1	my.officefilechecks.com
@@ -8771,5 +8789,4 @@
 127.0.0.1	withupdate.com
 127.0.0.1	arku.xyz
 127.0.0.1	usersync.tiqcdn.net
-127.0.0.1	g.fyss888.com
-# Number of entries: 8766
+# Number of entries: 8783
