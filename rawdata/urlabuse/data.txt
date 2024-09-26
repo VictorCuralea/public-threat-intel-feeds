@@ -6,8 +6,16 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-26 18:00:01 UTC
+# UPDATE: 2024-09-26 19:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 253398, "url": "http://sdohfor.us.kg", "discovery": "2024-09-26 18:58:13", "added": "2024-09-26 18:58:13", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "a82098c872ef9601b829ea78c8393bed"}
+{"id": 253397, "url": "http://117.209.93.84:60164/bin.sh", "discovery": "2024-09-26 18:32:57", "added": "2024-09-26 18:32:57", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "76b712ca30ab45a19f540f1f4a875557"}
+{"id": 253396, "url": "http://117.196.165.76:54642/bin.sh", "discovery": "2024-09-26 18:22:04", "added": "2024-09-26 18:22:04", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "2f75d70f2e5c473b85806b5b6c7df4f3"}
+{"id": 253395, "url": "http://115.55.11.29:36786/i", "discovery": "2024-09-26 18:20:48", "added": "2024-09-26 18:20:48", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "79e79ba202bc43439cd059547288087f"}
+{"id": 253394, "url": "http://validate.lol", "discovery": "2024-09-26 18:14:13", "added": "2024-09-26 18:14:13", "target": "Wells Fargo", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "c7dd83ce1069125f9efee5816726a888"}
+{"id": 253393, "url": "http://validate.lol", "discovery": "2024-09-26 18:14:12", "added": "2024-09-26 18:14:12", "target": "Wells Fargo", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "6f454e57f34c8efc2909f1948410c2fd"}
+{"id": 253392, "url": "https://vod-flx.com/home/src/1.php", "discovery": "2024-09-26 18:00:59", "added": "2024-09-26 18:00:59", "target": "Disney+", "reporter": "urlabuse", "AbuseType": "phishing", "UUID": "852f5f861213abe57eb91f914b8642fd"}
+{"id": 253391, "url": "https://vod-doi.com/", "discovery": "2024-09-26 17:58:15", "added": "2024-09-26 18:00:48", "target": "Disney+", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "45f06797ec3b10d5ff9f3b0f4f7df1d8"}
 {"id": 253390, "url": "https://orange907771.studio.site", "discovery": "2024-09-26 17:55:10", "added": "2024-09-26 17:55:10", "target": "BT", "reporter": "urlabuse", "AbuseType": "phishing", "UUID": "1c3b8cda5691a0adbbe7dbf58649c19c"}
 {"id": 253389, "url": "https://free-5502225.webadorsite.com/", "discovery": "2024-09-26 17:14:28", "added": "2024-09-26 17:54:57", "target": "BT", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "daefe53b837b116fd81055b583298f1d"}
 {"id": 253388, "url": "https://free-5494529.webadorsite.com/", "discovery": "2024-09-26 17:14:28", "added": "2024-09-26 17:54:31", "target": "BT", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "958af28bf61944112b8e6c5a6f658c3e"}
@@ -500,11 +508,3 @@
 {"id": 252594, "url": "http://222.142.240.4:59260/i", "discovery": "2024-09-25 17:24:13", "added": "2024-09-25 17:24:13", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "a4cb791b0000440b984d2372a9bf995b"}
 {"id": 252593, "url": "http://bt-109970.weeblysite.com/", "discovery": "2024-09-25 16:58:18", "added": "2024-09-25 17:23:58", "target": "BT", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "2eeeaf9fac381234bbe7411ef9fa5f17"}
 {"id": 252592, "url": "http://222.142.240.4:59260/bin.sh", "discovery": "2024-09-25 17:23:58", "added": "2024-09-25 17:23:58", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "4784ce79ccd0486b98fc24a6f955621d"}
-{"id": 252591, "url": "http://221.15.91.122:37878/i", "discovery": "2024-09-25 17:23:40", "added": "2024-09-25 17:23:40", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "8d8af2cbe8da440b8bf2bcffbe9dea20"}
-{"id": 252590, "url": "http://182.121.84.173:35032/bin.sh", "discovery": "2024-09-25 17:23:31", "added": "2024-09-25 17:23:31", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "c8148a116b1e42e9a7867819ca9fee0e"}
-{"id": 252589, "url": "https://free-5553367.webadorsite.com/", "discovery": "2024-09-25 16:50:17", "added": "2024-09-25 17:23:24", "target": "BT", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "0f24af1fca9d05fb021bfe8088332046"}
-{"id": 252588, "url": "http://182.117.77.74:60327/bin.sh", "discovery": "2024-09-25 17:23:13", "added": "2024-09-25 17:23:13", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "576e78cabb1447b79f9fc7c409b6b3b8"}
-{"id": 252587, "url": "https://free-5555167.webadorsite.com/", "discovery": "2024-09-25 16:50:17", "added": "2024-09-25 17:23:05", "target": "BT", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "52c4b6c48483779f7c808317d5b4fcbe"}
-{"id": 252586, "url": "http://176.36.148.87:34688/i", "discovery": "2024-09-25 17:23:04", "added": "2024-09-25 17:23:04", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "2297818045214afdadb7f13a4a35be0b"}
-{"id": 252585, "url": "http://146.19.230.96/ns/remcmdstub.exe", "discovery": "2024-09-25 17:22:52", "added": "2024-09-25 17:22:52", "target": "#PE32INTEL_CMD", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "c7427f5905a94190b841d215e04a3914"}
-{"id": 252584, "url": "https://free-5494472.webadorsite.com/", "discovery": "2024-09-25 16:50:17", "added": "2024-09-25 17:22:40", "target": "BT", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "d3d5c4d4ba33429701ec67d19cda28dc"}

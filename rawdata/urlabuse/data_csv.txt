@@ -6,9 +6,17 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-26 18:00:01 UTC
+# UPDATE: 2024-09-26 19:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+253398, 2024-09-26 18:58:13, 2024-09-26 18:58:13, phishing, a82098c872ef9601b829ea78c8393bed, http://sdohfor.us.kg
+253397, 2024-09-26 18:32:57, 2024-09-26 18:32:57, malware, 76b712ca30ab45a19f540f1f4a875557, http://117.209.93.84:60164/bin.sh
+253396, 2024-09-26 18:22:04, 2024-09-26 18:22:04, malware, 2f75d70f2e5c473b85806b5b6c7df4f3, http://117.196.165.76:54642/bin.sh
+253395, 2024-09-26 18:20:48, 2024-09-26 18:20:48, malware, 79e79ba202bc43439cd059547288087f, http://115.55.11.29:36786/i
+253394, 2024-09-26 18:14:13, 2024-09-26 18:14:13, phishing, c7dd83ce1069125f9efee5816726a888, http://validate.lol
+253393, 2024-09-26 18:14:12, 2024-09-26 18:14:12, phishing, 6f454e57f34c8efc2909f1948410c2fd, http://validate.lol
+253392, 2024-09-26 18:00:59, 2024-09-26 18:00:59, phishing, 852f5f861213abe57eb91f914b8642fd, https://vod-flx.com/home/src/1.php
+253391, 2024-09-26 18:00:48, 2024-09-26 17:58:15, phishing, 45f06797ec3b10d5ff9f3b0f4f7df1d8, https://vod-doi.com/
 253390, 2024-09-26 17:55:10, 2024-09-26 17:55:10, phishing, 1c3b8cda5691a0adbbe7dbf58649c19c, https://orange907771.studio.site
 253389, 2024-09-26 17:54:57, 2024-09-26 17:14:28, phishing, daefe53b837b116fd81055b583298f1d, https://free-5502225.webadorsite.com/
 253388, 2024-09-26 17:54:31, 2024-09-26 17:14:28, phishing, 958af28bf61944112b8e6c5a6f658c3e, https://free-5494529.webadorsite.com/
@@ -501,11 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 252594, 2024-09-25 17:24:13, 2024-09-25 17:24:13, malware, a4cb791b0000440b984d2372a9bf995b, http://222.142.240.4:59260/i
 252593, 2024-09-25 17:23:58, 2024-09-25 16:58:18, phishing, 2eeeaf9fac381234bbe7411ef9fa5f17, http://bt-109970.weeblysite.com/
 252592, 2024-09-25 17:23:58, 2024-09-25 17:23:58, malware, 4784ce79ccd0486b98fc24a6f955621d, http://222.142.240.4:59260/bin.sh
-252591, 2024-09-25 17:23:40, 2024-09-25 17:23:40, malware, 8d8af2cbe8da440b8bf2bcffbe9dea20, http://221.15.91.122:37878/i
-252590, 2024-09-25 17:23:31, 2024-09-25 17:23:31, malware, c8148a116b1e42e9a7867819ca9fee0e, http://182.121.84.173:35032/bin.sh
-252589, 2024-09-25 17:23:24, 2024-09-25 16:50:17, phishing, 0f24af1fca9d05fb021bfe8088332046, https://free-5553367.webadorsite.com/
-252588, 2024-09-25 17:23:13, 2024-09-25 17:23:13, malware, 576e78cabb1447b79f9fc7c409b6b3b8, http://182.117.77.74:60327/bin.sh
-252587, 2024-09-25 17:23:05, 2024-09-25 16:50:17, phishing, 52c4b6c48483779f7c808317d5b4fcbe, https://free-5555167.webadorsite.com/
-252586, 2024-09-25 17:23:04, 2024-09-25 17:23:04, malware, 2297818045214afdadb7f13a4a35be0b, http://176.36.148.87:34688/i
-252585, 2024-09-25 17:22:52, 2024-09-25 17:22:52, malware, c7427f5905a94190b841d215e04a3914, http://146.19.230.96/ns/remcmdstub.exe
-252584, 2024-09-25 17:22:40, 2024-09-25 16:50:17, phishing, d3d5c4d4ba33429701ec67d19cda28dc, https://free-5494472.webadorsite.com/
