@@ -1,11 +1,18 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-26 12:59:53 UTC                        #
+# Last updated: 2024-09-26 16:02:25 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	c.officefilechecks.com
+127.0.0.1	my.officefilechecks.com
+127.0.0.1	_.mariona.duckdns.org
+127.0.0.1	www.cloudapp.pythr.net
+127.0.0.1	www.wwwwwwacceso.pythr.net
+127.0.0.1	www.dashboards.pythr.net
+127.0.0.1	www.fauowwwwwwwwww1.pythr.net
 127.0.0.1	coinnyfrownwejr.shop
 127.0.0.1	reliabledmwqj.shop
 127.0.0.1	chlakkymagazi.shop
@@ -8765,4 +8772,4 @@
 127.0.0.1	usersync.tiqcdn.net
 127.0.0.1	g.fyss888.com
 127.0.0.1	mythictherapy.org
-# Number of entries: 8759
+# Number of entries: 8766
