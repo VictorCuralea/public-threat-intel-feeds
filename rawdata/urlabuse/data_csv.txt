@@ -6,9 +6,19 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-27 16:00:02 UTC
+# UPDATE: 2024-09-27 17:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+253744, 2024-09-27 16:32:55, 2024-09-27 16:32:55, malware, d5ac0591815842cf87fa06e7e7c381d9, http://117.213.112.18:49949/i
+253700, 2024-09-27 16:26:14, 2024-09-27 16:26:14, phishing, 220383f92e29d729bea010f42006c132, http://superfareboard.pages.dev
+253699, 2024-09-27 16:26:12, 2024-09-27 16:26:12, phishing, 14c31d4ff20712faf52536547e3f2179, https://docs.google.com/presentation/d/1aZY4R_9dzQInf7ony3ydPdRQ7msV4abdONxlWo-s8Zk/pub?start=false
+253681, 2024-09-27 16:20:28, 2024-09-27 16:20:28, malware, e42e5d3f55b84b76b9c0b412af04b36a, http://110.182.14.238:41464/bin.sh
+253680, 2024-09-27 16:08:14, 2024-09-27 16:08:14, phishing, b8b0850c95dea6e97e7109c9b45f5fc9, https://www.domtec.com.br/wp-admin/maint/swisssa20244/swisscom/index2.php
+253679, 2024-09-27 16:06:26, 2024-09-27 16:06:26, phishing, 0304a62817e88ab5cfdffbda1c9a0186, http://ixswap.pages.dev
+253678, 2024-09-27 16:06:15, 2024-09-27 16:06:15, phishing, 65542f46db099270f8376558ce863b2a, https://honda-m-club.nl/_wp_generated/1a.html
+253677, 2024-09-27 16:04:46, 2024-09-27 16:04:46, phishing, a07bd0ff820f78a3f60d84346a671535, http://trumppepe-airdrop.pages.dev
+253676, 2024-09-27 16:02:28, 2024-09-27 16:02:28, hacked, 5a9b35e9eaa033b09f8db95e0aee4fc4, http://hatiradergi.com/V.html
+253675, 2024-09-27 16:02:19, 2024-09-27 16:02:19, hacked, 4e135ab6c621cce0244c867a5ebfb4cc, http://accountant-in-london.com
 253673, 2024-09-27 15:31:50, 2024-09-27 15:31:50, malware, 600d65616efe4adaa92eeb72fa4778f5, http://117.211.211.51:57196/bin.sh
 253663, 2024-09-27 15:24:53, 2024-09-27 15:24:53, malware, f1642dbcb3e54a70b5c5cbd14f8af7fc, http://117.209.82.251:53728/Mozi.m
 253662, 2024-09-27 15:20:15, 2024-09-27 15:20:15, malware, 9c91ecdeca744e3c98a191d76bae8f0f, http://110.182.14.238:41464/i
@@ -499,13 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 252873, 2024-09-26 07:27:26, 2024-09-26 07:27:26, malware, 03a0b3fa97f04f7287615f5828019353, http://117.211.208.253:35785/i
 252872, 2024-09-26 07:26:32, 2024-09-26 07:26:32, malware, 5297824d2faf4c98bcbfcecdab8d8811, http://117.209.91.63:57703/bin.sh
 252871, 2024-09-26 07:26:20, 2024-09-26 07:26:20, malware, 11a948131bcf45529b15bd089a6e07ee, http://117.209.82.166:42869/i
-252870, 2024-09-26 07:25:23, 2024-09-26 07:25:23, malware, 44ebe937c8a7489abdebc51876cb3d7a, http://117.209.4.145:38975/i
-252869, 2024-09-26 07:25:00, 2024-09-26 07:25:00, malware, 214460d58533481eba781484b3f5e7fb, http://117.209.13.4:38276/Mozi.m
-252868, 2024-09-26 07:24:38, 2024-09-26 07:24:38, malware, 861c62f8fe97422bbbafbb9f1f54c2d4, http://117.209.0.119:37111/Mozi.m
-252867, 2024-09-26 07:23:08, 2024-09-26 07:23:08, malware, f4ced29abf554090923dfc8b34286be6, http://117.201.6.15:48254/i
-252866, 2024-09-26 07:20:08, 2024-09-26 07:20:08, malware, 2ec6d18ce3124078a9fecab63781c0de, http://111.38.106.19:51641/bin.sh
-252865, 2024-09-26 07:06:13, 2024-09-26 07:06:13, phishing, eaf2766bebd592c7341698a731e4ff50, http://ms-copilot-play-e7y.pages.dev
-252864, 2024-09-26 07:04:48, 2024-09-26 07:04:48, phishing, 3d590de12784167202cb26b642dbefdd, https://wtpartners.101ameri-sync.io/?nnd9=lL
-252863, 2024-09-26 06:49:41, 2024-09-26 04:22:13, phishing, 6fc8fcb764dcf29829a9a44717f57e29, https://sahashratechnologies.com/mailinabox/index.php?i=i&keyid=eWFob29AeWFob28uY29t
-252862, 2024-09-26 06:49:27, 2024-09-26 04:11:52, phishing, 0264290e27bc51e42bdac8c3cd712dfa, https://kasey.sa.com/General22/General2/?login=x
-252861, 2024-09-26 06:48:54, 2024-09-26 04:06:37, phishing, d993c38662afca7208468be4e32d3170, https://ipfs.io/ipfs/QmWaYePqfYon3xhV6sGNMZpTW6abShuGzy1agpf9yneZww?filename=zprasindex.html/#x

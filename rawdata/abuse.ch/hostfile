@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-27 14:11:33 UTC                        #
+# Last updated: 2024-09-27 16:02:17 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	www.wwwwwwapi.pythr.net
+127.0.0.1	chart.ethergases.org
+127.0.0.1	metrics.pythr.net
+127.0.0.1	backend.pythr.net
+127.0.0.1	report.ethergases.app
 127.0.0.1	mysteryedjw.site
 127.0.0.1	filetip.shop
 127.0.0.1	oldenlumm.fun
@@ -8762,4 +8767,4 @@
 127.0.0.1	alexanderalbie.xyz
 127.0.0.1	prior-gently.gl.at.ply.gg
 127.0.0.1	cdn-aws-amazon.nbcnews.site
-# Number of entries: 8756
+# Number of entries: 8761
