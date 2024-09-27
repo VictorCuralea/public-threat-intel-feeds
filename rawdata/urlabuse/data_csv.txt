@@ -6,9 +6,22 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-27 08:00:01 UTC
+# UPDATE: 2024-09-27 09:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+253572, 2024-09-27 08:59:07, 2024-09-27 08:59:07, phishing, fe9c984ea9bb59896258ce53ec49d515, https://huimm89.weebly.com/
+253571, 2024-09-27 08:58:57, 2024-09-27 08:58:15, phishing, 26b0b9f003b05398859aeff25d7006fc, https://www.playbook.com/s/jjjjj888/welcome-to-playbook
+253570, 2024-09-27 08:34:15, 2024-09-27 08:34:15, malware, b6799ab2002d4ed798596c66c800f3ed, http://182.117.95.95:47187/i
+253569, 2024-09-27 08:34:13, 2024-09-27 08:34:13, phishing, 562c8715bb20586507c32443d1e418ab, http://telegram.christianctq2023.workers.dev
+253568, 2024-09-27 08:31:35, 2024-09-27 08:31:35, malware, fdc6e99b1da448b7bfa9d200146cd013, http://182.113.36.233:52726/bin.sh
+253567, 2024-09-27 08:31:33, 2024-09-27 08:31:33, malware, 8c294f6b5e8f4c6ca54781262cc4fae1, http://182.113.36.233:52726/
+253566, 2024-09-27 08:31:01, 2024-09-27 08:31:01, malware, 1908c05227e74b7490afb1608b42df8b, http://182.112.30.143:32805/i
+253565, 2024-09-27 08:27:57, 2024-09-27 08:27:57, malware, 45fcf36b75b14ace81fa5b64a612e333, http://117.254.102.222:47485/bin.sh
+253564, 2024-09-27 08:23:46, 2024-09-27 08:23:46, malware, 13adad98289849a6b03118f26700d925, http://117.211.213.219:51347/bin.sh
+253563, 2024-09-27 08:21:16, 2024-09-27 08:21:16, malware, a6231f6e6c80428db26f81044be831fc, http://116.68.162.186:55526/bin.sh
+253562, 2024-09-27 08:14:14, 2024-09-27 08:14:14, phishing, 9281dbc262c477ab47c4d9c4fd7b6c29, https://bhy.srl.mybluehost.me/SBB/index/
+253561, 2024-09-27 08:14:13, 2024-09-27 08:14:13, phishing, 4d8ccec7a51f6acac409ba573b83e330, https://ragwah.com/wp-includes/Requests/src/Auth/secure/
+253560, 2024-09-27 08:12:13, 2024-09-27 08:12:13, phishing, 4c1727b3046add4e960effd4588f91a9, https://aquaanalytics.uz/wp-includes/vbkdj.php
 253559, 2024-09-27 07:51:34, 2024-09-27 07:20:14, phishing, 33b93f8dcb9bd68b7185cc515da88537, http://track.yuhkeykc.com/f/a/NOuXRIFQNmu_SOmF4-7krg~~/AAArHAA~/RgRo2B9KP0R-aHR0cHM6Ly95dWhzdXBwLnN2aWx1cHBvLmhvc3QvanM_dXRtX3NvdXJjZT1jbGllbnRpZnkmdXRtX21lZGl1bT1lbWFpbC1tYXJrZXRpbmcmdXRtX2NhbXBhaWduPWNvcGlhLWRlLWNvcGlhLWRlLWNvcGlhLWRlLWVycmZnVwVzcGNldUIKZvJYmvVm3fZ_z1IYcnV0aC5oYW5zbWFubkBoaXNwZWVkLmNoWAQAAATB
 253558, 2024-09-27 07:50:49, 2024-09-27 07:26:12, phishing, 7edc307df65983c73ea85e7c7c321deb, http://track.yuhkeykc.com/f/a/seL8bzx3RXKxapw4d9qVTw~~/AAArHAA~/RgRo2B9JP0R-aHR0cHM6Ly95dWhzdXBwLnN2aWx1cHBvLmhvc3QvanM_dXRtX3NvdXJjZT1jbGllbnRpZnkmdXRtX21lZGl1bT1lbWFpbC1tYXJrZXRpbmcmdXRtX2NhbXBhaWduPWNvcGlhLWRlLWNvcGlhLWRlLWNvcGlhLWRlLWVycmZnVwVzcGNldUIKZvJLmvVm3rhXAlIVaC5ob2ZmbWFubkBibHVld2luLmNoWAQAAATB
 253557, 2024-09-27 07:49:32, 2024-09-27 07:49:32, phishing, 34f0f02bdb40e94c58ed3e4917218902, https://servermailler.wixsite.com/my-site-1
@@ -496,16 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 252768, 2024-09-26 03:25:14, 2024-09-26 03:25:14, malware, cbccb11886184c3d80ff05e973a5c6c9, http://117.252.119.170:42569/i
 252767, 2024-09-26 03:24:53, 2024-09-26 03:24:53, malware, 4b6d5568ffa04f0d8152443ace4f1f80, http://117.243.68.190:59684/bin.sh
 252766, 2024-09-26 03:24:32, 2024-09-26 03:24:32, malware, 299346cbc7ac414da607be6c42d922b4, http://117.219.34.36:45610/bin.sh
-252765, 2024-09-26 03:24:25, 2024-09-26 03:24:25, malware, 9e5a5b0fc5974645bc8d85d0ff0e545a, http://117.206.176.247:56588/i
-252764, 2024-09-26 03:23:56, 2024-09-26 03:23:56, malware, 35fdc7d96df545de909f6d1804518386, http://117.205.58.207:60001/bin.sh
-252763, 2024-09-26 03:23:46, 2024-09-26 03:23:46, malware, ec7c36abdca542fe91d2dd44ea093ee0, http://117.205.175.244:37237/i
-252762, 2024-09-26 03:22:57, 2024-09-26 03:22:57, malware, c409740e324e4476b84e93033095250d, http://117.197.31.15:59822/bin.sh
-252761, 2024-09-26 03:22:27, 2024-09-26 03:22:27, malware, 692041b29a304f52ac53bf180bdd7b56, http://117.196.169.193:37618/i
-252760, 2024-09-26 03:22:13, 2024-09-26 03:22:13, malware, 3ce8ec5334904db088e9bb86010a3d66, http://117.195.88.237:43700/i
-252759, 2024-09-26 03:21:55, 2024-09-26 03:21:55, malware, f343b305899b45ed9a127ec8e2f683cd, http://117.193.174.224:37740/i
-252758, 2024-09-26 03:21:39, 2024-09-26 03:21:39, malware, 0e7b3552ff4542589d663d2ff0377701, http://117.192.37.86:40474/bin.sh
-252757, 2024-09-26 03:21:20, 2024-09-26 03:21:20, malware, 13c2825fb4d340c690a2bd9b6dd0779f, http://115.58.33.40:51807/i
-252756, 2024-09-26 03:21:10, 2024-09-26 03:21:10, malware, 6724b453ded9451092869a9d8029afc8, http://115.58.33.40:51807/bin.sh
-252755, 2024-09-26 03:20:36, 2024-09-26 03:20:36, malware, e3d5d773122948aea70de987d02cda2a, http://115.49.224.176:48903/i
-252754, 2024-09-26 03:14:15, 2024-09-26 03:14:15, phishing, 58d090ab7742b984c71ec4e6e766a068, http://earnm.pages.dev
-252753, 2024-09-26 03:00:18, 2024-09-26 03:00:18, phishing, edb851ac659032759e629384d6148c7f, http://rognarexvazenes.pages.dev
