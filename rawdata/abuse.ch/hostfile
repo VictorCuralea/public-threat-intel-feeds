@@ -1,11 +1,20 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-27 16:02:17 UTC                        #
+# Last updated: 2024-09-27 20:02:22 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	static-100-1-226-154.nwrknj.fios.verizon.net
+127.0.0.1	www.kqivbwwwanyconnect.pythr.net
+127.0.0.1	wwwrds1.pythr.net
+127.0.0.1	www.wwwwwwstaging.ethergases.org
+127.0.0.1	wwwapp.pythr.net
+127.0.0.1	www.dev.ethergases.org
+127.0.0.1	www.wwwwwwsitemap.ethergases.app
+127.0.0.1	backend.ethergases.org
+127.0.0.1	sitemap.ethergases.app
 127.0.0.1	www.wwwwwwapi.pythr.net
 127.0.0.1	chart.ethergases.org
 127.0.0.1	metrics.pythr.net
@@ -8765,4 +8774,4 @@
 127.0.0.1	hepialid.xyz
 127.0.0.1	suggst.xyz
 127.0.0.1	alexanderalbie.xyz
-# Number of entries: 8759
+# Number of entries: 8768
