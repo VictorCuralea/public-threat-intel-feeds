@@ -6,9 +6,14 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-27 17:00:01 UTC
+# UPDATE: 2024-09-27 18:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+253962, 2024-09-27 17:46:22, 2024-09-27 17:46:22, phishing, 358555ce4cba14e3ba034993cd433ce9, http://hrrdept.duckdns.org
+253961, 2024-09-27 17:46:20, 2024-09-27 17:46:20, phishing, 2ef7188a786b74312432f62e4693bac4, http://mail.hrrdept.duckdns.org
+253960, 2024-09-27 17:32:21, 2024-09-27 17:32:21, malware, 4e18d79737a64ddab1ac8dcaccf9164c, http://117.215.219.111:52125/i
+253959, 2024-09-27 17:29:23, 2024-09-27 17:29:23, malware, f4a8a25603994d3ca8521c90dadd014a, http://117.215.214.205:54043/Mozi.m
+253898, 2024-09-27 17:02:13, 2024-09-27 17:02:13, phishing, d3e051c9f17238cd091a389920f0e9ab, http://brawllstars.ru
 253744, 2024-09-27 16:32:55, 2024-09-27 16:32:55, malware, d5ac0591815842cf87fa06e7e7c381d9, http://117.213.112.18:49949/i
 253700, 2024-09-27 16:26:14, 2024-09-27 16:26:14, phishing, 220383f92e29d729bea010f42006c132, http://superfareboard.pages.dev
 253699, 2024-09-27 16:26:12, 2024-09-27 16:26:12, phishing, 14c31d4ff20712faf52536547e3f2179, https://docs.google.com/presentation/d/1aZY4R_9dzQInf7ony3ydPdRQ7msV4abdONxlWo-s8Zk/pub?start=false
@@ -504,8 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 252878, 2024-09-26 07:31:11, 2024-09-26 07:31:11, malware, 964b8b42bd7445778559ccda18f1518d, http://182.112.129.43:59362/i
 252877, 2024-09-26 07:30:53, 2024-09-26 07:30:53, malware, 0ec59aa526d742f9956832e03eb644a7, http://182.112.129.43:59362/bin.sh
 252876, 2024-09-26 07:30:47, 2024-09-26 07:30:47, malware, 121959de91714791ad5f0bac0265da51, http://120.61.24.237:36589/i
-252875, 2024-09-26 07:30:31, 2024-09-26 07:30:31, malware, 8363136d7b00413090c23907a3abd69b, http://120.61.24.237:36589/bin.sh
-252874, 2024-09-26 07:27:43, 2024-09-26 07:27:43, malware, 470ca769320a4663a1e1f695b0ac644c, http://117.221.112.174:53292/i
-252873, 2024-09-26 07:27:26, 2024-09-26 07:27:26, malware, 03a0b3fa97f04f7287615f5828019353, http://117.211.208.253:35785/i
-252872, 2024-09-26 07:26:32, 2024-09-26 07:26:32, malware, 5297824d2faf4c98bcbfcecdab8d8811, http://117.209.91.63:57703/bin.sh
-252871, 2024-09-26 07:26:20, 2024-09-26 07:26:20, malware, 11a948131bcf45529b15bd089a6e07ee, http://117.209.82.166:42869/i
