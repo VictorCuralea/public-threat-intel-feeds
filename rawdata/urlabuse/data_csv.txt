@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-27 21:00:01 UTC
+# UPDATE: 2024-09-27 22:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+254091, 2024-09-27 21:28:10, 2024-09-27 21:28:10, malware, 19420ea7956644d1a5a1ebf90c7129aa, http://117.245.210.132:55524/Mozi.m
+254090, 2024-09-27 21:21:02, 2024-09-27 21:21:02, malware, 612760e3106943d9b88238eab308f1b1, http://117.235.221.229:50868/i
+254089, 2024-09-27 21:20:29, 2024-09-27 21:20:29, malware, d0a241b701a2491abee7f619f4ca9e4c, http://117.235.221.229:50868/bin.sh
+254088, 2024-09-27 21:20:26, 2024-09-27 21:20:26, malware, 2e0874cd6fd24f57a6df53813259e8c6, http://117.235.221.229:50868/
 254085, 2024-09-27 20:28:34, 2024-09-27 20:28:34, malware, 7459268c49874e29b86194e286f68451, http://117.220.151.168:58552/Mozi.m
 254084, 2024-09-27 20:28:21, 2024-09-27 20:28:21, malware, 774e4d78fc6b43e0898287539f82853e, http://117.219.41.53:37785/Mozi.m
 254083, 2024-09-27 20:24:51, 2024-09-27 20:24:51, malware, e90c4b4346964ef4ba0824320a4d104d, http://117.200.176.49:48254/i
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 253213, 2024-09-26 10:03:13, 2024-09-26 10:03:13, phishing, 45c58892dac46716aad9ea342e52b928, https://id8.tingkehvpn.us.kg/
 253212, 2024-09-26 10:03:01, 2024-09-26 10:03:01, phishing, 89a17de859bc7d9b81ad8153f18fc5b8, https://im-telegram.org/
 253211, 2024-09-26 10:02:20, 2024-09-26 10:02:20, phishing, 5e1668e5c7698238218d0578ed9d2b84, https://id6.tingkehvpn.us.kg/
-253210, 2024-09-26 10:02:18, 2024-09-26 10:02:18, phishing, 3c5482430f9e7766cd3beb0a9bb068bb, https://id7.tingkehvpn.us.kg/
-253197, 2024-09-26 09:35:30, 2024-09-26 09:35:30, malware, e57af0eef05f4a78b012d65c9953eafa, http://59.95.80.107:41159/i
-253191, 2024-09-26 09:34:48, 2024-09-26 09:34:48, malware, 6dc628f445f54c54a6c6e9d99194ebc9, http://59.93.235.96:46819/i
-253175, 2024-09-26 09:32:14, 2024-09-26 09:32:14, phishing, bfa4ba5bad66af672dc7c7426c7247ce, http://actualite-cartevitale.fr
