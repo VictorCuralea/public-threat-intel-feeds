@@ -6,9 +6,14 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-27 15:00:02 UTC
+# UPDATE: 2024-09-27 16:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+253673, 2024-09-27 15:31:50, 2024-09-27 15:31:50, malware, 600d65616efe4adaa92eeb72fa4778f5, http://117.211.211.51:57196/bin.sh
+253663, 2024-09-27 15:24:53, 2024-09-27 15:24:53, malware, f1642dbcb3e54a70b5c5cbd14f8af7fc, http://117.209.82.251:53728/Mozi.m
+253662, 2024-09-27 15:20:15, 2024-09-27 15:20:15, malware, 9c91ecdeca744e3c98a191d76bae8f0f, http://110.182.14.238:41464/i
+253661, 2024-09-27 15:03:31, 2024-09-27 15:03:31, phishing, a266fea96b314b20f9c68a5fd94cd674, https://sp159594.sitebeat.crazydomains.com
+253660, 2024-09-27 15:03:13, 2024-09-27 14:10:18, phishing, 1075c55c546c69c7d2c987f84495f8c9, https://sociatap.com/optimmumnet
 253659, 2024-09-27 14:32:34, 2024-09-27 14:32:34, malware, 927cdaf69c2a4f76b4708f2736380421, http://117.207.181.47:42898/Mozi.m
 253658, 2024-09-27 14:30:52, 2024-09-27 14:30:52, malware, 83d1c725ed16411883d4c86c9869eb50, http://117.206.20.11:55272/bin.sh
 253657, 2024-09-27 14:22:58, 2024-09-27 14:22:58, malware, 17ed816d853b4f51975519b51c23138b, http://115.56.158.90:40554/Mozi.m
@@ -504,8 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 252863, 2024-09-26 06:49:41, 2024-09-26 04:22:13, phishing, 6fc8fcb764dcf29829a9a44717f57e29, https://sahashratechnologies.com/mailinabox/index.php?i=i&keyid=eWFob29AeWFob28uY29t
 252862, 2024-09-26 06:49:27, 2024-09-26 04:11:52, phishing, 0264290e27bc51e42bdac8c3cd712dfa, https://kasey.sa.com/General22/General2/?login=x
 252861, 2024-09-26 06:48:54, 2024-09-26 04:06:37, phishing, d993c38662afca7208468be4e32d3170, https://ipfs.io/ipfs/QmWaYePqfYon3xhV6sGNMZpTW6abShuGzy1agpf9yneZww?filename=zprasindex.html/#x
-252860, 2024-09-26 06:34:39, 2024-09-26 06:34:39, malware, 1794bb7bf29a4bbcba4c6f38e59dfdcf, http://42.227.205.60:38318/bin.sh
-252859, 2024-09-26 06:31:36, 2024-09-26 06:31:36, malware, 621558dff8524ab08e2b68eb78d68e37, http://182.116.72.201:51319/i
-252858, 2024-09-26 06:31:29, 2024-09-26 06:31:29, malware, f171739a9d5d4c5a9d9441c1d326bee6, http://182.116.15.17:50365/i
-252857, 2024-09-26 06:31:21, 2024-09-26 06:31:21, malware, cef568c9f83f43d4963c2845154d55bc, http://182.116.15.17:50365/bin.sh
-252856, 2024-09-26 06:30:56, 2024-09-26 06:30:56, malware, 301c25184f364cdf9be8bf54c7fd05b5, http://175.165.132.149:57333/i
