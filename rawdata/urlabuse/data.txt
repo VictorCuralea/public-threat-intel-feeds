@@ -6,8 +6,14 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-26 23:00:02 UTC
+# UPDATE: 2024-09-27 00:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 253465, "url": "http://whtapp-hk.com", "discovery": "2024-09-26 23:40:19", "added": "2024-09-26 23:40:19", "target": "Whatsapp", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "01720f0998790c4aa058653bd7a62751"}
+{"id": 253464, "url": "http://59.183.116.177:55504/Mozi.m", "discovery": "2024-09-26 23:30:46", "added": "2024-09-26 23:30:46", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "212e88b8e4664b4fbc5b6d1a11bd72ca"}
+{"id": 253463, "url": "http://59.183.116.177:55504/", "discovery": "2024-09-26 23:30:43", "added": "2024-09-26 23:30:43", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "c4bed6a171034e2b9b0f00c31d38e524"}
+{"id": 253462, "url": "http://42.231.69.201:44902/i", "discovery": "2024-09-26 23:25:38", "added": "2024-09-26 23:25:38", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "2d3d80f600be4cb68681da4452f31cf3"}
+{"id": 253461, "url": "http://42.231.69.201:44902/bin.sh", "discovery": "2024-09-26 23:25:25", "added": "2024-09-26 23:25:25", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "97b1f66b1ab94353aec17bffbd4bfddb"}
+{"id": 253460, "url": "http://117.253.11.186:60092/Mozi.m", "discovery": "2024-09-26 23:22:57", "added": "2024-09-26 23:22:57", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "f3e136512cbf4abea371a4d01d3566e8"}
 {"id": 253459, "url": "http://83478378hjch2hxn2hj4nhj5i4u5398sharepoint.pages.dev", "discovery": "2024-09-26 22:34:13", "added": "2024-09-26 22:34:13", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "9291b5054a2352aa7bd7e0f96df73007"}
 {"id": 253458, "url": "http://42.5.228.210:34981/i", "discovery": "2024-09-26 22:33:55", "added": "2024-09-26 22:33:55", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "605d5861afa146bb85690c519c4f937a"}
 {"id": 253457, "url": "http://42.5.228.210:34981/bin.sh", "discovery": "2024-09-26 22:33:51", "added": "2024-09-26 22:33:51", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "7a3b5b0fe4b14f4a85c0cf6fb89aecc3"}
@@ -502,9 +508,3 @@
 {"id": 252661, "url": "https://dev-designdynastyagency.pantheonsite.io/nmomA.html", "discovery": "2024-09-25 22:03:03", "added": "2024-09-25 22:03:03", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "c9a682833730c2a7cfb3f78059266fb2"}
 {"id": 252660, "url": "https://dev-combinewell-store.pantheonsite.io/nmomA.html", "discovery": "2024-09-25 22:03:03", "added": "2024-09-25 22:03:03", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "2713ff728e37931d7d5e60afdf59fa3f"}
 {"id": 252659, "url": "https://dev-kreator.pantheonsite.io/nmomA.html", "discovery": "2024-09-25 22:02:57", "added": "2024-09-25 22:02:57", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "6d9cf4e22faadda22363d04a152d6643"}
-{"id": 252658, "url": "https://dev-learninglearning.pantheonsite.io/nmomA.html", "discovery": "2024-09-25 22:02:51", "added": "2024-09-25 22:02:51", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "5e309d0a84c7dc96e6bee307addd72b2"}
-{"id": 252657, "url": "https://dev-fatex.pantheonsite.io/nmomA.html", "discovery": "2024-09-25 22:02:45", "added": "2024-09-25 22:02:45", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "3c91f5aa0c5876e740dd3482c7674294"}
-{"id": 252656, "url": "https://dev-aliaabdo.pantheonsite.io/nmomA.html", "discovery": "2024-09-25 22:02:45", "added": "2024-09-25 22:02:45", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "800585a8391e50b0b64306f345f166ac"}
-{"id": 252655, "url": "https://dev-westcamschool3.pantheonsite.io/nmomA.html", "discovery": "2024-09-25 22:02:45", "added": "2024-09-25 22:02:45", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "5ab88c7f64de5250e86305ec0eaad028"}
-{"id": 252654, "url": "https://dev-ztunez.pantheonsite.io/nmomA.html", "discovery": "2024-09-25 22:02:39", "added": "2024-09-25 22:02:39", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "c66182a1d6446bb88a8023a178e455d3"}
-{"id": 252653, "url": "https://dev-sophiemichael.pantheonsite.io/nmomA.html", "discovery": "2024-09-25 22:02:25", "added": "2024-09-25 22:02:25", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "7bc19cb87954c8e3ee98b0280c637368"}
