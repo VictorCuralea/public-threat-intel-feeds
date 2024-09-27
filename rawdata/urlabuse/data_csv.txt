@@ -6,9 +6,16 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-27 22:00:01 UTC
+# UPDATE: 2024-09-27 23:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+254098, 2024-09-27 22:30:52, 2024-09-27 22:30:52, malware, b395d47bfad64e758ca83f722bc28275, http://117.253.165.68:58282/bin.sh
+254097, 2024-09-27 22:22:34, 2024-09-27 22:22:34, malware, 07b34d71775e496ea08a2d28f2fb82fe, http://117.247.193.33:35332/Mozi.m
+254096, 2024-09-27 22:22:25, 2024-09-27 22:22:25, malware, 29458aa9079a43fe9098687ea8f05646, http://117.245.232.158:33268/Mozi.m
+254095, 2024-09-27 22:20:06, 2024-09-27 22:20:06, malware, c636aa31ef154f3180ec31ffce23fbca, http://117.235.40.222:51839/Mozi.m
+254094, 2024-09-27 22:18:17, 2024-09-27 22:18:17, phishing, 93fda16f5b49dbde0e5535b7694bef37, http://re-appslaunchpads.pages.dev
+254093, 2024-09-27 22:01:22, 2024-09-27 22:01:22, phishing, d7b7f5acd9b12aba45a726222e7e527d, http://pub-76e71094b95a4f5cac44d5947c75e898.r2.dev/owa.html?usrn
+254092, 2024-09-27 22:00:29, 2024-09-27 22:00:29, phishing, 977c9053c3174a7ed45e72cad62a5da6, https://com-tg-teiegram.com/
 254091, 2024-09-27 21:28:10, 2024-09-27 21:28:10, malware, 19420ea7956644d1a5a1ebf90c7129aa, http://117.245.210.132:55524/Mozi.m
 254090, 2024-09-27 21:21:02, 2024-09-27 21:21:02, malware, 612760e3106943d9b88238eab308f1b1, http://117.235.221.229:50868/i
 254089, 2024-09-27 21:20:29, 2024-09-27 21:20:29, malware, d0a241b701a2491abee7f619f4ca9e4c, http://117.235.221.229:50868/bin.sh
@@ -502,10 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 253228, 2024-09-26 10:25:52, 2024-09-26 10:25:52, malware, b690ff9d7b744ff6ba6b0e2f1baa1501, http://117.200.185.169:53344/i
 253227, 2024-09-26 10:25:16, 2024-09-26 10:25:16, malware, 501069e1fe6d495aaaaa8f44da475864, http://115.51.6.88:52325/bin.sh
 253226, 2024-09-26 10:24:09, 2024-09-26 10:24:09, malware, 65e57ebf92d74e80a1278d01c35382ba, http://113.26.233.23:53425/i
-253225, 2024-09-26 10:23:48, 2024-09-26 10:23:48, malware, cd89e1753da54e4490b4d88341d5e878, http://113.26.226.69:45778/bin.sh
-253224, 2024-09-26 10:22:30, 2024-09-26 10:22:30, malware, 12ebe187cf294e91a0dc92e61bc2c0ef, http://110.182.73.101:41705/i
-253215, 2024-09-26 10:03:57, 2024-09-26 10:03:57, phishing, 1991794bf3061c4072fc8ef2c36be340, https://rezayat.sbs/data/6840406982/payment/52Z3daYX/Mellat.php
-253214, 2024-09-26 10:03:19, 2024-09-26 10:03:19, phishing, 62bf6055325dc4b3e71d998b8c4ae2e1, https://investors.spotify.com.id7.tingkehvpn.us.kg/
-253213, 2024-09-26 10:03:13, 2024-09-26 10:03:13, phishing, 45c58892dac46716aad9ea342e52b928, https://id8.tingkehvpn.us.kg/
-253212, 2024-09-26 10:03:01, 2024-09-26 10:03:01, phishing, 89a17de859bc7d9b81ad8153f18fc5b8, https://im-telegram.org/
-253211, 2024-09-26 10:02:20, 2024-09-26 10:02:20, phishing, 5e1668e5c7698238218d0578ed9d2b84, https://id6.tingkehvpn.us.kg/
