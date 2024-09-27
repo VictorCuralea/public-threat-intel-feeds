@@ -6,9 +6,18 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-27 00:00:01 UTC
+# UPDATE: 2024-09-27 01:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+253474, 2024-09-27 00:34:25, 2024-09-27 00:34:25, malware, 5ce44da606624c3b974877dbcaf307b8, http://117.209.95.31:55619/i
+253473, 2024-09-27 00:32:54, 2024-09-27 00:32:54, malware, 0609f6223fad4f75a33b784f06480852, http://117.209.85.118:59982/bin.sh
+253472, 2024-09-27 00:29:26, 2024-09-27 00:29:26, malware, 3613665fb8404f9197e158e159a34c34, http://117.209.25.104:43387/i
+253471, 2024-09-27 00:28:47, 2024-09-27 00:28:47, malware, ba04c5a30da1472b92553cbae44d7ae1, http://117.209.25.104:43387/bin.sh
+253470, 2024-09-27 00:28:10, 2024-09-27 00:28:10, phishing, e554e52120924cb6a1de897f5a0d3826, http://carmel-wa-edu-file.pages.dev
+253469, 2024-09-27 00:22:16, 2024-09-27 00:22:16, malware, 42f15fd0a9c3463caec5491ee3143ad3, http://117.206.182.244:47998/i
+253468, 2024-09-27 00:20:45, 2024-09-27 00:20:45, malware, be0692463e7741f2a877fc099848541f, http://115.55.139.120:39690/i
+253467, 2024-09-27 00:20:24, 2024-09-27 00:20:24, malware, ccef575d24584916ba369d913e7c8ec3, http://115.50.222.158:43265/i
+253466, 2024-09-27 00:20:05, 2024-09-27 00:20:05, malware, f7b85bc4ae294a8997c638253edf055a, http://115.50.222.158:43265/bin.sh
 253465, 2024-09-26 23:40:19, 2024-09-26 23:40:19, phishing, 01720f0998790c4aa058653bd7a62751, http://whtapp-hk.com
 253464, 2024-09-26 23:30:46, 2024-09-26 23:30:46, malware, 212e88b8e4664b4fbc5b6d1a11bd72ca, http://59.183.116.177:55504/Mozi.m
 253463, 2024-09-26 23:30:43, 2024-09-26 23:30:43, malware, c4bed6a171034e2b9b0f00c31d38e524, http://59.183.116.177:55504/
@@ -500,12 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 252670, 2024-09-25 22:22:14, 2024-09-25 22:22:14, malware, 8761fa51adf74468a3d919308ec96b43, http://125.46.135.227:36182/
 252669, 2024-09-25 22:21:53, 2024-09-25 22:21:53, malware, 5280f169290249b18bd5300652de4083, http://123.5.149.183:54433/bin.sh
 252668, 2024-09-25 22:20:48, 2024-09-25 22:20:48, malware, 406cef436cce498b867017dede29da87, http://117.221.55.215:58048/i
-252667, 2024-09-25 22:03:27, 2024-09-25 22:03:27, hacked, b621c24613d558494512b73ad406f398, https://lorem.itsupersonics.com/nmomA.html
-252666, 2024-09-25 22:03:25, 2024-09-25 22:03:25, hacked, e8d294180a85f98d786f46333645ebaa, https://uat.gamesxyz.com/nmomA.html
-252665, 2024-09-25 22:03:19, 2024-09-25 22:03:19, hacked, cd27241cee541f22c44f9f33bc10e38f, https://recommended-address.000webhostapp.com/nmomA.html
-252664, 2024-09-25 22:03:19, 2024-09-25 22:03:19, hacked, 7772f87a53674fdb404658ffebe7f0c7, https://finance3030303030.000webhostapp.com/nmomA.html
-252663, 2024-09-25 22:03:09, 2024-09-25 22:03:09, hacked, 012530dba4ff2379a71df654d611f5c5, https://dev-techalchemist.pantheonsite.io/nmomA.html
-252662, 2024-09-25 22:03:05, 2024-09-25 22:03:05, hacked, 26c243ec19ef630fcdfa078017df160f, https://dev-ejaz123.pantheonsite.io/nmomA.html
-252661, 2024-09-25 22:03:03, 2024-09-25 22:03:03, hacked, c9a682833730c2a7cfb3f78059266fb2, https://dev-designdynastyagency.pantheonsite.io/nmomA.html
-252660, 2024-09-25 22:03:03, 2024-09-25 22:03:03, hacked, 2713ff728e37931d7d5e60afdf59fa3f, https://dev-combinewell-store.pantheonsite.io/nmomA.html
-252659, 2024-09-25 22:02:57, 2024-09-25 22:02:57, hacked, 6d9cf4e22faadda22363d04a152d6643, https://dev-kreator.pantheonsite.io/nmomA.html

@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-26 20:02:33 UTC                        #
+# Last updated: 2024-09-27 00:02:35 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	tools.nawhack.fr
+127.0.0.1	172-104-139-26.ip.linodeusercontent.com
 127.0.0.1	tx.s.officefilechecks.com
 127.0.0.1	s.officefilechecks.com
 127.0.0.1	cdn.c.officefilechecks.com
@@ -8789,4 +8791,4 @@
 127.0.0.1	withupdate.com
 127.0.0.1	arku.xyz
 127.0.0.1	usersync.tiqcdn.net
-# Number of entries: 8783
+# Number of entries: 8785
