@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-27 10:35:31 UTC                        #
+# Last updated: 2024-09-27 11:37:54 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	steam.buy-nitro.ru
 127.0.0.1	literacyhangwk.shop
 127.0.0.1	riderratttinow.shop
 127.0.0.1	for4hs.top
@@ -8790,4 +8791,4 @@
 127.0.0.1	nimappche.buzz
 127.0.0.1	endpointinfrart.azureedge.net
 127.0.0.1	mariyel-therapy.com
-# Number of entries: 8784
+# Number of entries: 8785
