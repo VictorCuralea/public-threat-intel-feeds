@@ -6,9 +6,18 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-27 19:00:02 UTC
+# UPDATE: 2024-09-27 20:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+254046, 2024-09-27 19:52:15, 2024-09-27 19:52:15, phishing, 0395bb368d1f955ffbe85929e0b335aa, http://walletikacommunity.pages.dev
+254045, 2024-09-27 19:29:52, 2024-09-27 19:29:52, malware, 4e78f8407fb34a7c8dcc247e78735b65, http://117.215.208.217:39180/i
+254044, 2024-09-27 19:29:23, 2024-09-27 19:29:23, malware, e37cefe1706c4ebe87a11210ea6e4b41, http://117.211.211.51:57196/i
+254043, 2024-09-27 19:26:22, 2024-09-27 19:26:22, malware, 5adcf4cb25a94d809efec0f67a6e2aa1, http://117.209.80.104:57871/i
+254042, 2024-09-27 19:25:37, 2024-09-27 19:25:37, malware, 2669d5658b714c2c8b7c94992af97692, http://117.209.80.104:57871/bin.sh
+254041, 2024-09-27 19:22:35, 2024-09-27 19:22:35, malware, f669912e1afb4ac4b9778f8cf248df21, http://117.206.77.149:37738/i
+254040, 2024-09-27 19:21:11, 2024-09-27 19:21:11, malware, 082a72bd241a47edbdbc3c93ec1a90a8, http://117.206.177.97:47998/i
+254039, 2024-09-27 19:20:08, 2024-09-27 19:20:08, malware, 9ed1238c30484294b0b16128c35a30e1, http://115.57.82.252:54151/
+254038, 2024-09-27 19:18:11, 2024-09-27 19:18:11, phishing, fb6f3161451eb0b73a6d4e50faed7150, http://estenera.life
 254036, 2024-09-27 18:54:43, 2024-09-27 16:42:11, phishing, 36b8c2252010d5758009cd98f7c07882, https://antai-amende-gouv.com/
 254035, 2024-09-27 18:54:23, 2024-09-27 16:40:19, phishing, cc77f19a07db055efab82ed05c90af3b, https://renouvellement-assure-infos-en-ligne.fr/
 254034, 2024-09-27 18:54:00, 2024-09-27 16:40:13, phishing, 61ef2fee2170d9d663bd4021ee6e9e46, https://espacesante-patient-ameli.fr/
@@ -500,12 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 253095, 2024-09-26 09:18:45, 2024-09-26 08:54:18, phishing, 286a1b929d281a26916b8f01f0758b4f, https://ytratycdjhvsjhdihkadgh-ouiwyscwoucgdslik.teemill.com/
 253094, 2024-09-26 09:18:28, 2024-09-26 09:18:28, phishing, a297b054f00de2b113acec3009ea1c6d, https://xiwusgyftweuikeulfgwdufykaysauikilgesdfik.weebly.com/index.html
 253093, 2024-09-26 09:18:13, 2024-09-26 08:52:13, phishing, 515b9cf60a186a0d22cc833802f8b1b2, https://scyujvaszgusikfjhvwed-dukvwayujukjwr.teemill.com/
-253092, 2024-09-26 09:18:05, 2024-09-26 09:18:05, phishing, 85879cb258670cfb2fcb776dd0331e78, https://connecthhf.weebly.com
-253091, 2024-09-26 09:17:51, 2024-09-26 08:50:13, phishing, 5467a78a50cabcd7b961fae1ca3f00c5, https://mlv0arwm.forms.app/nwvoicmail
-253049, 2024-09-26 09:08:16, 2024-09-26 09:08:16, phishing, d1f0402b5285f4b9cbd1665791ae4925, http://indexconorge.duckdns.org
-253023, 2024-09-26 09:04:13, 2024-09-26 09:04:13, phishing, bfff5f3ae47af0e6ee4da6ad476d008b, https://fsn.bmr.mybluehost.me/nummer/
-252903, 2024-09-26 08:44:10, 2024-09-26 08:44:10, phishing, 7defa26272f63ea92bfea7626ec4c335, http://telegramdatingsextwo.pages.dev
-252902, 2024-09-26 08:33:54, 2024-09-26 08:33:54, malware, 806db27390d1423cb23fe23c6bc74243, http://219.157.31.235:49095/i
-252901, 2024-09-26 08:29:49, 2024-09-26 08:29:49, malware, 9049866c7ae342fbbfb5c4cb143f9c2c, http://117.243.248.98:59154/bin.sh
-252900, 2024-09-26 08:28:28, 2024-09-26 08:28:28, malware, aa9c3bb8688b4db5a8188edfe0a31552, http://117.209.93.171:53125/bin.sh
-252899, 2024-09-26 08:28:11, 2024-09-26 08:28:11, malware, 0c706a0ed2e943b388d45100aa202120, http://117.209.91.63:57703/i
