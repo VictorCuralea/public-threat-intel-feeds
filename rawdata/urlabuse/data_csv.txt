@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-27 09:00:02 UTC
+# UPDATE: 2024-09-27 10:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+253575, 2024-09-27 09:27:24, 2024-09-27 09:27:24, malware, 659b796a76cf4c21a73d789c123a6bf1, http://219.155.63.195:49860/i
+253574, 2024-09-27 09:27:19, 2024-09-27 09:27:19, malware, 82a1d8fd37ff475daa4e48890f3edeb3, http://219.155.63.195:49860/bin.sh
+253573, 2024-09-27 09:10:13, 2024-09-27 09:10:13, phishing, 7ee392cb8c02f833fc2e9fb7e4109415, http://oyksakinolurmusun.com
 253572, 2024-09-27 08:59:07, 2024-09-27 08:59:07, phishing, fe9c984ea9bb59896258ce53ec49d515, https://huimm89.weebly.com/
 253571, 2024-09-27 08:58:57, 2024-09-27 08:58:15, phishing, 26b0b9f003b05398859aeff25d7006fc, https://www.playbook.com/s/jjjjj888/welcome-to-playbook
 253570, 2024-09-27 08:34:15, 2024-09-27 08:34:15, malware, b6799ab2002d4ed798596c66c800f3ed, http://182.117.95.95:47187/i
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 252771, 2024-09-26 03:29:35, 2024-09-26 03:29:35, malware, dd8a6df5dd694741b16cb4bc07f19c5b, http://125.46.135.227:36182/i
 252770, 2024-09-26 03:29:32, 2024-09-26 03:29:32, malware, 74e4c07b6a81430eb7355d365a656f43, http://123.5.149.183:54433/i
 252769, 2024-09-26 03:29:30, 2024-09-26 03:29:30, malware, 1e147096aeab43a9a460cd346483676e, http://120.61.79.127:39180/i
-252768, 2024-09-26 03:25:14, 2024-09-26 03:25:14, malware, cbccb11886184c3d80ff05e973a5c6c9, http://117.252.119.170:42569/i
-252767, 2024-09-26 03:24:53, 2024-09-26 03:24:53, malware, 4b6d5568ffa04f0d8152443ace4f1f80, http://117.243.68.190:59684/bin.sh
-252766, 2024-09-26 03:24:32, 2024-09-26 03:24:32, malware, 299346cbc7ac414da607be6c42d922b4, http://117.219.34.36:45610/bin.sh
