@@ -6,7 +6,7 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-27 05:00:01 UTC
+# UPDATE: 2024-09-27 06:00:01 UTC
 ############### END COMMENTS ###############
 {"id": 253526, "url": "http://retrobridge-apidebugtool.pages.dev", "discovery": "2024-09-27 04:30:13", "added": "2024-09-27 04:30:13", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "89b846a39549ac55e0840da0bb73c05f"}
 {"id": 253525, "url": "http://112.31.82.160:60624/bin.sh", "discovery": "2024-09-27 04:20:58", "added": "2024-09-27 04:20:58", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "e4e2917230b944d4acb4f022916c175b"}
