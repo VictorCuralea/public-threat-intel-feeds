@@ -6,8 +6,9 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-28 09:00:02 UTC
+# UPDATE: 2024-09-28 10:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 254218, "url": "https://boubouboutique.co.uk/gtdftsyteydeyd/SSB/", "discovery": "2024-09-28 09:20:24", "added": "2024-09-28 09:20:24", "target": "SwissPass", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "6bd55b7149165283715d07fd3c91ed1c"}
 {"id": 254217, "url": "http://59.183.120.166:43789/Mozi.m", "discovery": "2024-09-28 08:29:31", "added": "2024-09-28 08:29:31", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "d3a8f79a096242c1b99b43f457ed82ae"}
 {"id": 254216, "url": "http://42.235.85.63:46814/i", "discovery": "2024-09-28 07:33:41", "added": "2024-09-28 07:33:41", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "1d6a305815a649968fe612ebbbcafe6b"}
 {"id": 254215, "url": "http://42.235.85.63:46814/bin.sh", "discovery": "2024-09-28 07:33:29", "added": "2024-09-28 07:33:29", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "fb218adc74264cfe857fba459aac9c01"}
@@ -507,4 +508,3 @@
 {"id": 253357, "url": "http://mes-renouvellements-assure-en-ligne.fr", "discovery": "2024-09-26 16:56:16", "added": "2024-09-26 16:56:16", "target": "FR-GOV", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "2e553b5e42e5f015275b3d07a7ee4b0f"}
 {"id": 253356, "url": "http://telegramsex-dft.pages.dev", "discovery": "2024-09-26 16:54:13", "added": "2024-09-26 16:54:13", "target": "Telegram", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "7ce625b64db955470be5d680c46dbcf0"}
 {"id": 253355, "url": "http://telegramdatingsexyfive.pages.dev", "discovery": "2024-09-26 16:46:11", "added": "2024-09-26 16:46:11", "target": "Telegram", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "9c6b2c7c2df10c2b20f57e88296a3e52"}
-{"id": 253354, "url": "http://wsapp-hhk.com", "discovery": "2024-09-26 16:42:18", "added": "2024-09-26 16:42:18", "target": "Whatsapp", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "8fb4f30bade8df9fb5583c2e847998c0"}
