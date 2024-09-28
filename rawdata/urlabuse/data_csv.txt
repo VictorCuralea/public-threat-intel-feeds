@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-28 19:00:01 UTC
+# UPDATE: 2024-09-28 20:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+254626, 2024-09-28 19:27:26, 2024-09-28 19:27:26, malware, 2ffaad0230c44605807cbfcf66f38a71, http://117.215.76.250:46925/Mozi.m
+254625, 2024-09-28 19:20:46, 2024-09-28 19:20:46, malware, a77e63c8ad4f46e59b370dc0c72306e8, http://117.195.232.29:53770/Mozi.m
+254624, 2024-09-28 19:01:25, 2024-09-28 19:01:25, phishing, 87065911933ce6fa770bd71e85496890, https://fardanews.cc/data/6494698876/payment/b9Z1YXVW/Mellat.php
 254623, 2024-09-28 18:44:13, 2024-09-28 18:44:13, phishing, 2a0b43a6b8b11220f69568ba58c9e144, http://whatsappgroupd4tingxxxx.pages.dev
 254622, 2024-09-28 18:34:12, 2024-09-28 18:34:12, phishing, 2355d17f7f7bb9976bb8d53f7f74fa73, http://camelotexchange-ticket.pages.dev
 254621, 2024-09-28 18:23:13, 2024-09-28 18:23:13, malware, ddf4546c721c42d19faf65f608953910, http://117.209.86.19:47753/bin.sh
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 253487, 2024-09-27 01:33:38, 2024-09-27 01:33:38, malware, cfba8939ef194998be00cc962f0a3012, http://182.121.10.249:49914/i
 253486, 2024-09-27 01:33:20, 2024-09-27 01:33:20, malware, 992ef4d4b9da4253af7ea234aa57969a, http://182.121.10.249:49914/bin.sh
 253485, 2024-09-27 01:32:41, 2024-09-27 01:32:41, malware, f9c56fdf2c2c4cb5b6dec291b7318f0e, http://125.46.135.227:36182/Mozi.m
-253484, 2024-09-27 01:32:15, 2024-09-27 01:32:15, phishing, 921cc5934dfdf4c55873b421cf71417c, http://one.hongyexian.eu.org
-253483, 2024-09-27 01:30:33, 2024-09-27 01:30:33, malware, 03e9ffa176d14bf9a5e8a25a382bfa1c, http://119.179.216.25:55190/Mozi.m
-253482, 2024-09-27 01:26:24, 2024-09-27 01:26:24, malware, c8d5b2089ca9483cae3c906ce7c64ef0, http://117.223.2.56:50577/Mozi.m
