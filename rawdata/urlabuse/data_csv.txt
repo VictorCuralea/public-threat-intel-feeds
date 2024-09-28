@@ -6,9 +6,14 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-27 23:00:02 UTC
+# UPDATE: 2024-09-28 00:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+254103, 2024-09-27 23:33:43, 2024-09-27 23:33:43, malware, d74d8f8b6e6a41a7a69df886ed72e97f, http://117.255.82.141:48371/Mozi.m
+254102, 2024-09-27 23:33:14, 2024-09-27 23:33:14, malware, 85ddcacf0c45427d9ef10cb21e6c6044, http://117.255.208.215:54232/i
+254101, 2024-09-27 23:30:58, 2024-09-27 23:30:58, phishing, 15b2c62f4f89431b6475090d5a101b02, https://login.gogie.com.000000000001.phish.farm/XWWRXUWNvQjZLVk1hK0FLRk41clBBMGE2ZWJKNUFDVkVsdmZkbXdPNUR2cExGQ2I5QnVHQTAzalYySFJmTVZlbmplM3UvQzY1SzNDQ1U1L3l6RDBYaW4zQmZVVzBQWTk3cDkvQmk0Sy83anlrYVZWWlNVN1VIajdTNFpFemZxQStSa053d2l0c2JGUVV0Zk5OWlVETTIxZVloSzN2cU9LdnVJa3d3bnpyVmI3MWdzODA2WUpWN1ByUWl4a1ctLUxjTkM0R0ZuRGduaGZreS8tLWh4VVlQWUdlQ2xJamI5WGxEYnlxNHc9PQ==?cid=278158191
+254100, 2024-09-27 23:22:15, 2024-09-27 23:22:15, phishing, c56d30806d779a6118fca0feff927f72, http://aigame-1.com
+254099, 2024-09-27 23:02:12, 2024-09-27 23:02:12, phishing, 1cbfbda9f281c8c1f701ae98e0460ee1, https://verwalten-sbb-informationen-managecff-kundenportal-online.codeanyapp.com/manage-SBB/ManageSign/B9E5XLLUFF/Portal/Login_OPTXWD58C8/main/d2a04d71301a8915217dd5faf81d12cffd6cd958
 254098, 2024-09-27 22:30:52, 2024-09-27 22:30:52, malware, b395d47bfad64e758ca83f722bc28275, http://117.253.165.68:58282/bin.sh
 254097, 2024-09-27 22:22:34, 2024-09-27 22:22:34, malware, 07b34d71775e496ea08a2d28f2fb82fe, http://117.247.193.33:35332/Mozi.m
 254096, 2024-09-27 22:22:25, 2024-09-27 22:22:25, malware, 29458aa9079a43fe9098687ea8f05646, http://117.245.232.158:33268/Mozi.m
@@ -504,8 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 253242, 2024-09-26 11:23:19, 2024-09-26 11:23:19, malware, 559e28fe3fef40f3a2f5dbf05370a314, http://182.127.101.53:54505/i
 253241, 2024-09-26 11:23:04, 2024-09-26 11:23:04, malware, 67b9b017b3c2442f9a0267405ba1b874, http://182.127.101.53:54505/bin.sh
 253240, 2024-09-26 11:21:21, 2024-09-26 11:21:21, malware, 6cb2174ed4c943f28a34ad9cc8518ff1, http://175.0.96.134:33211/bin.sh
-253239, 2024-09-26 11:21:07, 2024-09-26 11:21:07, malware, 7512eb41268440e0bba3dcf68718485c, http://125.41.0.222:38300/
-253229, 2024-09-26 10:27:11, 2024-09-26 10:27:11, malware, c18eeddb6f60474494f19751bd59c7e2, http://117.209.127.45:48506/i
-253228, 2024-09-26 10:25:52, 2024-09-26 10:25:52, malware, b690ff9d7b744ff6ba6b0e2f1baa1501, http://117.200.185.169:53344/i
-253227, 2024-09-26 10:25:16, 2024-09-26 10:25:16, malware, 501069e1fe6d495aaaaa8f44da475864, http://115.51.6.88:52325/bin.sh
-253226, 2024-09-26 10:24:09, 2024-09-26 10:24:09, malware, 65e57ebf92d74e80a1278d01c35382ba, http://113.26.233.23:53425/i
