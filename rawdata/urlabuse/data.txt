@@ -6,8 +6,9 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-28 03:00:01 UTC
+# UPDATE: 2024-09-28 04:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 254137, "url": "http://182.114.196.203:57105/bin.sh", "discovery": "2024-09-28 03:34:36", "added": "2024-09-28 03:34:36", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "5c8f390fb9ca4a469d4604e4e4271846"}
 {"id": 254136, "url": "http://182.112.189.195:37716/i", "discovery": "2024-09-28 02:34:06", "added": "2024-09-28 02:34:06", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "cd95ada45d5049aa981d6538390ce267"}
 {"id": 254135, "url": "http://182.112.189.195:37716/bin.sh", "discovery": "2024-09-28 02:33:50", "added": "2024-09-28 02:33:50", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "c7dc07a4c33747dab0a9208a5d083711"}
 {"id": 254134, "url": "http://182.112.189.195:37716/", "discovery": "2024-09-28 02:33:48", "added": "2024-09-28 02:33:48", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "a7ba925466a84e01b46cf7d6d2d4f0ea"}
@@ -507,4 +508,3 @@
 {"id": 253276, "url": "https://ivw.byd.mybluehost.me/oneviseca/ONE/", "discovery": "2024-09-26 12:45:55", "added": "2024-09-26 12:45:55", "target": "One", "reporter": "GovCERT-CH", "AbuseType": "phishing", "UUID": "99bb1e88c38aa8320779f2381da987bf"}
 {"id": 253275, "url": "https://livingwater.com.br//ch/de/", "discovery": "2024-09-26 12:41:39", "added": "2024-09-26 12:41:39", "target": "DHL", "reporter": "GovCERT-CH", "AbuseType": "phishing", "UUID": "c40c8e1e5d81b32d80d885e3a2b7b06e"}
 {"id": 253274, "url": "https://t.co/TU2KL4GTdd", "discovery": "2024-09-26 12:39:51", "added": "2024-09-26 12:39:51", "target": "DHL", "reporter": "urlabuse", "AbuseType": "phishing", "UUID": "cbcfa6c326d2e0db4fe6d15407f3c703"}
-{"id": 253273, "url": "https://joinnow.live/a/bu0NqH?id=76j3HI", "discovery": "2024-09-26 12:20:18", "added": "2024-09-26 12:39:41", "target": "DHL", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "f4025f8555a267ccc278003d456a45ec"}

@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-28 03:00:01 UTC
+# UPDATE: 2024-09-28 04:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+254137, 2024-09-28 03:34:36, 2024-09-28 03:34:36, malware, 5c8f390fb9ca4a469d4604e4e4271846, http://182.114.196.203:57105/bin.sh
 254136, 2024-09-28 02:34:06, 2024-09-28 02:34:06, malware, cd95ada45d5049aa981d6538390ce267, http://182.112.189.195:37716/i
 254135, 2024-09-28 02:33:50, 2024-09-28 02:33:50, malware, c7dc07a4c33747dab0a9208a5d083711, http://182.112.189.195:37716/bin.sh
 254134, 2024-09-28 02:33:48, 2024-09-28 02:33:48, malware, a7ba925466a84e01b46cf7d6d2d4f0ea, http://182.112.189.195:37716/
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 253276, 2024-09-26 12:45:55, 2024-09-26 12:45:55, phishing, 99bb1e88c38aa8320779f2381da987bf, https://ivw.byd.mybluehost.me/oneviseca/ONE/
 253275, 2024-09-26 12:41:39, 2024-09-26 12:41:39, phishing, c40c8e1e5d81b32d80d885e3a2b7b06e, https://livingwater.com.br//ch/de/
 253274, 2024-09-26 12:39:51, 2024-09-26 12:39:51, phishing, cbcfa6c326d2e0db4fe6d15407f3c703, https://t.co/TU2KL4GTdd
-253273, 2024-09-26 12:39:41, 2024-09-26 12:20:18, phishing, f4025f8555a267ccc278003d456a45ec, https://joinnow.live/a/bu0NqH?id=76j3HI
