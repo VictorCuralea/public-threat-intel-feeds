@@ -1,11 +1,37 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-28 19:37:11 UTC                        #
+# Last updated: 2024-09-28 20:36:03 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	tipinfodownload-soft1.com
+127.0.0.1	resourcedownloadslatin3.com
+127.0.0.1	resourcedownloadslatin2.com
+127.0.0.1	innovupdates3.com
+127.0.0.1	innovupdates2.com
+127.0.0.1	tipinfodownload-soft3.com
+127.0.0.1	tipinfodownload-soft2.com
+127.0.0.1	cloudapp.pythr.net
+127.0.0.1	research.pythr.net
+127.0.0.1	wwwsowgoowa.ethergases.app
+127.0.0.1	www.secure.pythr.net
+127.0.0.1	metis-launchpads.app
+127.0.0.1	clientesvpn.pythr.net
+127.0.0.1	wwwwwwwwwrds.pythr.net
+127.0.0.1	www.wwwfqwvcwwwsslvpn.pythr.net
+127.0.0.1	intel.ethergases.org
+127.0.0.1	www.wwwwwwportal.pythr.net
+127.0.0.1	www.api.ethergases.app
+127.0.0.1	wwwgatewayvpn.pythr.net
+127.0.0.1	www.bigdata.pythr.net
+127.0.0.1	2024.pythr.net
+127.0.0.1	sandbox-superset.ethergases.app
+127.0.0.1	wwwadmin.ethergases.app
+127.0.0.1	www.wwwwwwofficevpn.pythr.net
+127.0.0.1	www.metric.ethergases.app
+127.0.0.1	wwwsupersets.pythr.net
 127.0.0.1	naver-info.store
 127.0.0.1	taipeilivecenter.online
 127.0.0.1	www.venitex.nut.cc
@@ -8795,4 +8821,4 @@
 127.0.0.1	softkey.app
 127.0.0.1	sweetapp.page
 127.0.0.1	spencerstuartllc.top
-# Number of entries: 8789
+# Number of entries: 8815
