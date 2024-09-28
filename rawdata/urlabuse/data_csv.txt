@@ -6,9 +6,15 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-28 07:00:01 UTC
+# UPDATE: 2024-09-28 08:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+254216, 2024-09-28 07:33:41, 2024-09-28 07:33:41, malware, 1d6a305815a649968fe612ebbbcafe6b, http://42.235.85.63:46814/i
+254215, 2024-09-28 07:33:29, 2024-09-28 07:33:29, malware, fb218adc74264cfe857fba459aac9c01, http://42.235.85.63:46814/bin.sh
+254214, 2024-09-28 07:32:52, 2024-09-28 07:32:52, malware, 3a015126e1ca4a98a414e099fe3815b6, http://42.235.100.30:40073/bin.sh
+254213, 2024-09-28 07:31:20, 2024-09-28 07:31:20, malware, 52afaa3000974a0283f30c65b1427df2, http://42.233.136.236:36632/i
+254212, 2024-09-28 07:21:05, 2024-09-28 07:21:05, malware, ff7b2bcf18074cd68401cab2d8bbf9f9, http://39.90.145.83:58672/i
+254211, 2024-09-28 07:20:47, 2024-09-28 07:20:47, malware, 423606b34dc143828bd5c7d339968f55, http://39.90.145.83:58672/bin.sh
 254210, 2024-09-28 06:31:49, 2024-09-28 06:31:49, malware, 6ce6a9714656464699eea08572dc82e6, http://27.215.48.9:45381/Mozi.m
 254209, 2024-09-28 06:30:46, 2024-09-28 06:30:46, malware, 582d98e426994455832471aaae24b14c, http://27.206.80.51:52308/Moz93.123.85.3/hiddenbin/boatnet.i486
 254208, 2024-09-28 06:29:59, 2024-09-28 06:29:59, malware, 1994588faab847d7bf030734f43639d7, http://27.202.137.42:33964/Mozi.m
@@ -503,9 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 253355, 2024-09-26 16:46:11, 2024-09-26 16:46:11, phishing, 9c6b2c7c2df10c2b20f57e88296a3e52, http://telegramdatingsexyfive.pages.dev
 253354, 2024-09-26 16:42:18, 2024-09-26 16:42:18, phishing, 8fb4f30bade8df9fb5583c2e847998c0, http://wsapp-hhk.com
 253353, 2024-09-26 16:33:31, 2024-09-26 16:33:31, malware, 2259facbd92a4f888dcc0d00bac29463, http://117.235.31.125:36064/i
-253352, 2024-09-26 16:20:58, 2024-09-26 16:20:58, malware, ba4c0a60b46a442d8679aba3fad67535, http://117.199.77.240:57109/i
-253351, 2024-09-26 16:20:28, 2024-09-26 16:20:28, malware, 9398fd8bbbc84b5eb38df50b49474e20, http://115.58.9.78:41261/i
-253350, 2024-09-26 16:20:08, 2024-09-26 16:20:08, malware, 7339fbd1e7484f8e9a4809efc7334911, http://112.31.82.160:60624/i
-253349, 2024-09-26 16:11:35, None, phishing, aedda79e558f7063ad8a4a56e6cafe75, https://postchrz.top/
-253348, 2024-09-26 16:10:05, 2024-09-26 14:58:47, phishing, c4969a82f7ecd0bd6ed96f49aedb331b, https://002235cc.cc/binkuraxo/Archive/index.html#yahoo@yahoo.com
-253347, 2024-09-26 16:09:55, None, phishing, acc829538608ad7685c0acee0bf2aa93, https://ownzyou.com/mirror/095f3a92d958ee37af6152d7ea59b521.html
