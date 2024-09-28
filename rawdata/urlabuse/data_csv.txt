@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-28 15:00:01 UTC
+# UPDATE: 2024-09-28 16:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+254596, 2024-09-28 15:01:48, 2024-09-28 15:01:48, phishing, 3d281572cbffa21479fc08ef2682da00, https://bittinternet.weebly.com
+254595, 2024-09-28 15:01:35, 2024-09-28 13:28:15, phishing, f50137f6ab2663fb8f66ba34294f5f03, https://dash.formaloo.com/app/bdjnkqgck6pgjwc/p/sw3Okgn2
 254594, 2024-09-28 14:34:15, 2024-09-28 14:34:15, phishing, 88c3e66b773fe0fccfe6347dc5e3288a, http://cloudboardtechpythversatile.pages.dev
 254593, 2024-09-28 14:26:41, 2024-09-28 14:26:41, malware, e906e502ff52464198ecedf0096fa34a, http://117.208.223.108:46577/bin.sh
 254592, 2024-09-28 14:25:18, 2024-09-28 14:25:18, malware, d9af2f1bfb1f4f359a33234789700c69, http://117.206.28.22:40526/i
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 253457, 2024-09-26 22:33:51, 2024-09-26 22:33:51, malware, 7a3b5b0fe4b14f4a85c0cf6fb89aecc3, http://42.5.228.210:34981/bin.sh
 253456, 2024-09-26 22:33:36, 2024-09-26 22:33:36, malware, 03e7ab48f2e1496784d8672c6d500f0e, http://42.235.182.165:57293/i
 253455, 2024-09-26 22:33:20, 2024-09-26 22:33:20, malware, babd274c7be245dfba7822ab9a56c206, http://42.235.182.165:57293/bin.sh
-253454, 2024-09-26 22:33:17, 2024-09-26 22:33:17, malware, 2f799cf2619c4addbf7d6df9756d562c, http://42.235.182.165:57293/
-253453, 2024-09-26 22:33:09, 2024-09-26 22:33:09, malware, c7282a49fd7341d09016f93bad15c9c1, http://42.231.53.113:49809/i
