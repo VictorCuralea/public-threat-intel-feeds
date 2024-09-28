@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-28 04:01:50 UTC                        #
+# Last updated: 2024-09-28 05:50:20 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	raciimoppero.shop
+127.0.0.1	admissionfaccen.shop
 127.0.0.1	pools-eth.org
 127.0.0.1	mazurax.com
 127.0.0.1	sumerda.com
@@ -8785,4 +8787,4 @@
 127.0.0.1	service-ps16whvt-1304800271.sh.tencentapigw.com
 127.0.0.1	gammaproject.dev
 127.0.0.1	results-outdoors.gl.at.ply.gg
-# Number of entries: 8779
+# Number of entries: 8781

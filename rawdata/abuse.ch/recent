@@ -1,12 +1,14 @@
 ################################################################
 # ThreatFox IOCs: recent SHA256 hashes - CSV format            #
-# Last updated: 2024-09-27 21:14:45 UTC                        #
+# Last updated: 2024-09-28 05:46:01 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
 # "first_seen_utc","ioc_id","ioc_value","ioc_type","threat_type","fk_malware","malware_alias","malware_printable","last_seen_utc","confidence_level","reference","tags","anonymous","reporter"
+"2024-09-28 05:46:01", "1330920", "0e86f47bdf75e0f9b32f71f1fa90f423c46e1d5a8d2102b917af67cfed6b818e", "sha256_hash", "payload", "win.meduza", "None", "Meduza Stealer", "", "75", "https://app.any.run/tasks/826b0c3a-0b6d-416d-9bfd-24f54233a63b", "None", "0", "pitachu"
+"2024-09-28 05:45:59", "1330924", "48d3787367a2f64299e4889d7e32ca5f07ce6f79bf50543816e216e423b71e7f", "sha256_hash", "payload", "win.lumma", "LummaC2 Stealer", "Lumma Stealer", "", "100", "https://app.any.run/tasks/f0cc551d-46a5-43cf-a228-e2e2c83de7b0", "None", "0", "pitachu"
 "2024-09-27 21:14:45", "1331049", "d7ea65fb9c018f20cff23dc97bb8a9a6818e97c333a5485142f2e0210be204e1", "sha256_hash", "payload", "win.krakenkeylogger", "None", "KrakenKeylogger", "", "95", "None", "None", "0", "Grim"
 "2024-09-27 21:14:42", "1331046", "3b799063aa6a0a79e4a160b4650dc3199ebe128d1a183de4591e03a0b29674f1", "sha256_hash", "payload", "win.agent_tesla", "AgenTesla,AgentTesla,Negasteal", "Agent Tesla", "", "95", "None", "None", "0", "Grim"
 "2024-09-27 21:14:39", "1331043", "6dc1bba66cba9a4ee7a5156375e1935bd30c6b1022bea4082fb3714ce5c73e07", "sha256_hash", "payload", "win.formbook", "win.xloader", "Formbook", "", "95", "None", "None", "0", "Grim"
@@ -113,4 +115,4 @@
 "2024-09-26 19:36:01", "1330172", "1232b1aee31f39db334e9233e7658f5dfdc588f3f698e619c3a0c9b3484c1629", "sha256_hash", "payload", "win.amadey", "None", "Amadey", "", "95", "None", "None", "0", "Grim"
 "2024-09-26 19:35:57", "1330169", "175e4400e2e99b0d0ac35bd3fe68519fa91f9ae5cc7a71d0b8697302bd8fbe8e", "sha256_hash", "payload", "win.quasar_rat", "CinaRAT,QuasarRAT,Yggdrasil", "Quasar RAT", "", "95", "None", "None", "0", "Grim"
 "2024-09-26 19:35:53", "1330166", "e0d8f6ff6907a5520028d962ed0db8131e642de31b911926ae8df3b2f16c7384", "sha256_hash", "payload", "win.dcrat", "DarkCrystal RAT", "DCRat", "", "95", "None", "None", "0", "Grim"
-# Number of entries: 106
+# Number of entries: 108
