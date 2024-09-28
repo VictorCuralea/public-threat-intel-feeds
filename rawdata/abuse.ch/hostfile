@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-28 11:04:43 UTC                        #
+# Last updated: 2024-09-28 16:58:54 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	taipeilivecenter.online
 127.0.0.1	www.venitex.nut.cc
 127.0.0.1	socket.infinyx.us
 127.0.0.1	www.tablebusiness.us
@@ -8793,4 +8794,4 @@
 127.0.0.1	softkey.app
 127.0.0.1	sweetapp.page
 127.0.0.1	spencerstuartllc.top
-# Number of entries: 8787
+# Number of entries: 8788

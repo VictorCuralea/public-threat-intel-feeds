@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-28 17:00:02 UTC
+# UPDATE: 2024-09-28 18:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+254615, 2024-09-28 17:40:15, 2024-09-28 17:40:15, phishing, 1b5275f9f91f6e6f622d852ee050a065, http://maneki-claimrewards.pages.dev
 254614, 2024-09-28 16:38:13, 2024-09-28 16:38:13, phishing, 8623cb7d1262f0f6b6d30b015d7fd7c2, http://group-telegplus.pages.dev
 254613, 2024-09-28 16:32:37, 2024-09-28 16:32:37, malware, 4bc177dd3a38473fa9329d2c3ed7e8bc, http://117.211.223.225:49266/bin.sh
 254612, 2024-09-28 16:26:03, 2024-09-28 16:26:03, malware, e47bb68462be4544bb73c3a91bd89d00, http://117.209.94.109:50525/bin.sh
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 253476, 2024-09-27 01:03:37, 2024-09-27 01:03:37, phishing, 2ca04d7d40dd8cb6b2c27a18969ef768, http://cloudsynxcweb.pages.dev
 253475, 2024-09-27 01:02:33, 2024-09-27 01:02:33, phishing, 419871fe2600cb1ed550602a9bf6e413, https://telegrezm.bond/
 253474, 2024-09-27 00:34:25, 2024-09-27 00:34:25, malware, 5ce44da606624c3b974877dbcaf307b8, http://117.209.95.31:55619/i
-253473, 2024-09-27 00:32:54, 2024-09-27 00:32:54, malware, 0609f6223fad4f75a33b784f06480852, http://117.209.85.118:59982/bin.sh
