@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-27 20:02:22 UTC                        #
+# Last updated: 2024-09-28 00:48:03 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	sumerda.com
+127.0.0.1	sumonare.com
+127.0.0.1	baruopas.com
 127.0.0.1	static-100-1-226-154.nwrknj.fios.verizon.net
 127.0.0.1	www.kqivbwwwanyconnect.pythr.net
 127.0.0.1	wwwrds1.pythr.net
@@ -8769,4 +8772,4 @@
 127.0.0.1	service-ps16whvt-1304800271.sh.tencentapigw.com
 127.0.0.1	gammaproject.dev
 127.0.0.1	results-outdoors.gl.at.ply.gg
-# Number of entries: 8763
+# Number of entries: 8766
