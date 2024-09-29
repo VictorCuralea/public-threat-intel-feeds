@@ -1,11 +1,32 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-29 07:53:23 UTC                        #
+# Last updated: 2024-09-29 09:54:11 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	mx01.pqpw.com
+127.0.0.1	cs.pqpw.com
+127.0.0.1	spam.pqpw.com
+127.0.0.1	ns.pqpw.com
+127.0.0.1	mail.pqpw.com
+127.0.0.1	rj.pqpw.com
+127.0.0.1	seed.pqpw.com
+127.0.0.1	willibleu.com
+127.0.0.1	gw.pqpw.com
+127.0.0.1	imap.pqpw.com
+127.0.0.1	post.pqpw.com
+127.0.0.1	www1.pqpw.com
+127.0.0.1	auth.pqpw.com
+127.0.0.1	mx.pqpw.com
+127.0.0.1	host.pqpw.com
+127.0.0.1	wiki.pqpw.com
+127.0.0.1	smtp.pqpw.com
+127.0.0.1	metromich.com
+127.0.0.1	send.pqpw.com
+127.0.0.1	dddd.pqpw.com
+127.0.0.1	iholdtelnet.com
 127.0.0.1	cr87986.tw1.ru
 127.0.0.1	lootebarrkeyn.shop
 127.0.0.1	famikyjdiag.site
@@ -8800,5 +8821,4 @@
 127.0.0.1	anti-ddos.io.vn
 127.0.0.1	mainnetwork.sysromeu.eu.org
 127.0.0.1	fdh32fsdfhs.shop
-127.0.0.1	sares.xyz
-# Number of entries: 8795
+# Number of entries: 8815
