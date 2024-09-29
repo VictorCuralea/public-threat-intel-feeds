@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-29 14:17:16 UTC                        #
+# Last updated: 2024-09-29 20:02:07 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	badion.top
+127.0.0.1	www.wwwstaging.ethergases.org
+127.0.0.1	remote.pythr.net
+127.0.0.1	points-crystaldash.co
+127.0.0.1	www.intelligence.pythr.net
 127.0.0.1	branchtriviawlek.shop
 127.0.0.1	chaptermusu.store
 127.0.0.1	elevenvx11vs.top
@@ -8754,4 +8759,4 @@
 127.0.0.1	89.213.140.115.nerozix.ovh
 127.0.0.1	onsttuiona.com
 127.0.0.1	bitonecore.com
-# Number of entries: 8748
+# Number of entries: 8753
