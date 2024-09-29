@@ -6,8 +6,15 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-28 23:00:01 UTC
+# UPDATE: 2024-09-29 00:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 254673, "url": "http://playdoge-claimreward.pages.dev", "discovery": "2024-09-28 23:56:15", "added": "2024-09-28 23:56:15", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "7fd83d92fb8eabefaf43ef5dfc90ca6d"}
+{"id": 254672, "url": "http://117.235.76.205:59112/Mozi.m", "discovery": "2024-09-28 23:30:33", "added": "2024-09-28 23:30:33", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "ef413bfac8c04b8ab52733d4cf42f5a2"}
+{"id": 254671, "url": "http://117.235.255.195:44210/bin.sh", "discovery": "2024-09-28 23:28:17", "added": "2024-09-28 23:28:17", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "a44a7b6518564ce796169ff6cfacbc28"}
+{"id": 254670, "url": "http://117.235.120.176:40588/i", "discovery": "2024-09-28 23:24:04", "added": "2024-09-28 23:24:04", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "89a94d04697a44349c631c16a7380cda"}
+{"id": 254669, "url": "http://117.235.120.176:40588/bin.sh", "discovery": "2024-09-28 23:23:35", "added": "2024-09-28 23:23:35", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "ee0cdbfe21d14000a1e900a8ba97710e"}
+{"id": 254668, "url": "http://117.235.11.49:52950/bin.sh", "discovery": "2024-09-28 23:20:22", "added": "2024-09-28 23:20:22", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "c63a3a7ad35547a99ccbabba160fc864"}
+{"id": 254667, "url": "http://117.201.22.16:33522/bin.sh", "discovery": "2024-09-28 23:20:07", "added": "2024-09-28 23:20:07", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "aa4e79d97a254d27a617479f728c167c"}
 {"id": 254666, "url": "http://tokenpocket.cfd", "discovery": "2024-09-28 22:48:14", "added": "2024-09-28 22:48:14", "target": "Token Pocket", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "3d7206cef092b465a22144f36dc59e09"}
 {"id": 254665, "url": "https://ym.tpwalke.vip/", "discovery": "2024-09-28 22:42:15", "added": "2024-09-28 22:42:15", "target": "Token Pocket", "reporter": "lrurayd", "AbuseType": "phishing", "UUID": "535011d27be85992be22e1ac09fda8bc"}
 {"id": 254664, "url": "http://tokenzpocket.com", "discovery": "2024-09-28 22:40:44", "added": "2024-09-28 22:40:44", "target": "Token Pocket", "reporter": "lruray", "AbuseType": "phishing", "UUID": "a292abc807ba585b87fba367f76418d0"}
@@ -501,10 +508,3 @@
 {"id": 253534, "url": "http://119.91.152.151:4442/srys.exe", "discovery": "2024-09-27 06:31:25", "added": "2024-09-27 06:31:25", "target": "#PE32INTEL_GUI", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "81948c54105341c991f2be2092c6cff4"}
 {"id": 253533, "url": "http://telegeron.top", "discovery": "2024-09-27 06:04:20", "added": "2024-09-27 06:04:20", "target": "Telegram", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "7c384ab666e065dc29defa9a430643ac"}
 {"id": 253532, "url": "https://woolube.mymoodle.com.au/index.html", "discovery": "2024-09-27 06:02:26", "added": "2024-09-27 06:02:26", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "56d439fedc81caa77dce229cd787e110"}
-{"id": 253531, "url": "https://wj666.mymoodle.com.au/index.html", "discovery": "2024-09-27 06:02:24", "added": "2024-09-27 06:02:24", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "30636891ff8711be8421ae6da4f6c3ee"}
-{"id": 253530, "url": "https://_wildcard_.mymoodle.com.au/index.html", "discovery": "2024-09-27 06:02:18", "added": "2024-09-27 06:02:18", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "6e119472ade7b102de801e4f1f0b6be9"}
-{"id": 253529, "url": "http://temnobras.com.br/index.html", "discovery": "2024-09-27 06:02:16", "added": "2024-09-27 06:02:16", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "5cb76c49f52c59defe881bee6bb48993"}
-{"id": 253528, "url": "https://awogbamipe.com.br/index.html", "discovery": "2024-09-27 06:02:16", "added": "2024-09-27 06:02:16", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "3b3cc8cae7ed98803c06d5315277f587"}
-{"id": 253527, "url": "https://algzerariyadh.edublogs.org/hacked-by-team_r70/", "discovery": "2024-09-27 06:02:16", "added": "2024-09-27 06:02:16", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "4803ac9e8df06fe954823a5f097c0c51"}
-{"id": 253526, "url": "http://retrobridge-apidebugtool.pages.dev", "discovery": "2024-09-27 04:30:13", "added": "2024-09-27 04:30:13", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "89b846a39549ac55e0840da0bb73c05f"}
-{"id": 253525, "url": "http://112.31.82.160:60624/bin.sh", "discovery": "2024-09-27 04:20:58", "added": "2024-09-27 04:20:58", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "e4e2917230b944d4acb4f022916c175b"}

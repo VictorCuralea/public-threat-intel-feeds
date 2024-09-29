@@ -6,9 +6,16 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-28 23:00:01 UTC
+# UPDATE: 2024-09-29 00:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+254673, 2024-09-28 23:56:15, 2024-09-28 23:56:15, phishing, 7fd83d92fb8eabefaf43ef5dfc90ca6d, http://playdoge-claimreward.pages.dev
+254672, 2024-09-28 23:30:33, 2024-09-28 23:30:33, malware, ef413bfac8c04b8ab52733d4cf42f5a2, http://117.235.76.205:59112/Mozi.m
+254671, 2024-09-28 23:28:17, 2024-09-28 23:28:17, malware, a44a7b6518564ce796169ff6cfacbc28, http://117.235.255.195:44210/bin.sh
+254670, 2024-09-28 23:24:04, 2024-09-28 23:24:04, malware, 89a94d04697a44349c631c16a7380cda, http://117.235.120.176:40588/i
+254669, 2024-09-28 23:23:35, 2024-09-28 23:23:35, malware, ee0cdbfe21d14000a1e900a8ba97710e, http://117.235.120.176:40588/bin.sh
+254668, 2024-09-28 23:20:22, 2024-09-28 23:20:22, malware, c63a3a7ad35547a99ccbabba160fc864, http://117.235.11.49:52950/bin.sh
+254667, 2024-09-28 23:20:07, 2024-09-28 23:20:07, malware, aa4e79d97a254d27a617479f728c167c, http://117.201.22.16:33522/bin.sh
 254666, 2024-09-28 22:48:14, 2024-09-28 22:48:14, phishing, 3d7206cef092b465a22144f36dc59e09, http://tokenpocket.cfd
 254665, 2024-09-28 22:42:15, 2024-09-28 22:42:15, phishing, 535011d27be85992be22e1ac09fda8bc, https://ym.tpwalke.vip/
 254664, 2024-09-28 22:40:44, 2024-09-28 22:40:44, phishing, a292abc807ba585b87fba367f76418d0, http://tokenzpocket.com
@@ -502,10 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 253534, 2024-09-27 06:31:25, 2024-09-27 06:31:25, malware, 81948c54105341c991f2be2092c6cff4, http://119.91.152.151:4442/srys.exe
 253533, 2024-09-27 06:04:20, 2024-09-27 06:04:20, phishing, 7c384ab666e065dc29defa9a430643ac, http://telegeron.top
 253532, 2024-09-27 06:02:26, 2024-09-27 06:02:26, hacked, 56d439fedc81caa77dce229cd787e110, https://woolube.mymoodle.com.au/index.html
-253531, 2024-09-27 06:02:24, 2024-09-27 06:02:24, hacked, 30636891ff8711be8421ae6da4f6c3ee, https://wj666.mymoodle.com.au/index.html
-253530, 2024-09-27 06:02:18, 2024-09-27 06:02:18, hacked, 6e119472ade7b102de801e4f1f0b6be9, https://_wildcard_.mymoodle.com.au/index.html
-253529, 2024-09-27 06:02:16, 2024-09-27 06:02:16, hacked, 5cb76c49f52c59defe881bee6bb48993, http://temnobras.com.br/index.html
-253528, 2024-09-27 06:02:16, 2024-09-27 06:02:16, hacked, 3b3cc8cae7ed98803c06d5315277f587, https://awogbamipe.com.br/index.html
-253527, 2024-09-27 06:02:16, 2024-09-27 06:02:16, hacked, 4803ac9e8df06fe954823a5f097c0c51, https://algzerariyadh.edublogs.org/hacked-by-team_r70/
-253526, 2024-09-27 04:30:13, 2024-09-27 04:30:13, phishing, 89b846a39549ac55e0840da0bb73c05f, http://retrobridge-apidebugtool.pages.dev
-253525, 2024-09-27 04:20:58, 2024-09-27 04:20:58, malware, e4e2917230b944d4acb4f022916c175b, http://112.31.82.160:60624/bin.sh
