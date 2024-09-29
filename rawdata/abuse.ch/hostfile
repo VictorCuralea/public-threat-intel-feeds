@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-28 20:36:03 UTC                        #
+# Last updated: 2024-09-29 00:02:18 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	mozg55.com
+127.0.0.1	speak-easy-school.com
 127.0.0.1	tipinfodownload-soft1.com
 127.0.0.1	resourcedownloadslatin3.com
 127.0.0.1	resourcedownloadslatin2.com
@@ -8821,4 +8823,4 @@
 127.0.0.1	softkey.app
 127.0.0.1	sweetapp.page
 127.0.0.1	spencerstuartllc.top
-# Number of entries: 8815
+# Number of entries: 8817

@@ -6,9 +6,25 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-29 00:00:01 UTC
+# UPDATE: 2024-09-29 01:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+254689, 2024-09-29 00:33:10, 2024-09-29 00:33:10, malware, 38773136cb644ad882da05f086ebdeb9, http://117.248.41.163:46045/i
+254688, 2024-09-29 00:32:48, 2024-09-29 00:32:48, malware, a6bb6d167505443492dd1e42ffd6f34d, http://117.248.32.241:58354/Mozi.m
+254687, 2024-09-29 00:31:35, 2024-09-29 00:31:35, malware, 1a2b3b3fc61a46ceba64830a3519efbe, http://117.248.30.149:54643/i
+254686, 2024-09-29 00:26:54, 2024-09-29 00:26:54, malware, 5d97bc77153646f794aa8347cf92e1d2, http://117.245.12.108:52266/Mozi.m
+254685, 2024-09-29 00:26:40, 2024-09-29 00:26:40, malware, a932ef3686e24b969d2e050bc3d968be, http://117.242.234.205:35809/i
+254684, 2024-09-29 00:25:58, 2024-09-29 00:25:58, malware, 26b1e80394ef46f1be43e22ed131690c, http://117.217.162.187:46653/bin.sh
+254683, 2024-09-29 00:25:09, 2024-09-29 00:25:09, malware, 3da1aa69e74c4880b8a5202c64bb053b, http://117.216.245.225:36746/i
+254682, 2024-09-29 00:23:27, 2024-09-29 00:23:27, malware, 2d16796915d649329dcb8defa23569b1, http://117.209.82.12:35742/bin.sh
+254681, 2024-09-29 00:22:48, 2024-09-29 00:22:48, malware, 84d687a46cfe49358b7ecb5a1c74e53c, http://117.208.220.3:51055/i
+254680, 2024-09-29 00:21:22, 2024-09-29 00:21:22, malware, 44eef02a1b7840c69664cbfb33f5650e, http://117.195.87.177:45017/Mozi.m
+254679, 2024-09-29 00:21:17, 2024-09-29 00:21:17, malware, e296e6092c0348f4a55ee8d87923752a, http://117.193.142.221:44931/bin.sh
+254678, 2024-09-29 00:21:02, 2024-09-29 00:21:02, malware, cf562f8fdee9432499f4eb016bfe738b, http://115.52.251.192:56912/i
+254677, 2024-09-29 00:20:52, 2024-09-29 00:20:52, malware, 2caec9d8dfe84a168acac36acf6c0d08, http://112.248.100.190:59054/Mozi.m
+254676, 2024-09-29 00:20:37, 2024-09-29 00:20:37, malware, 8b3cf466f6224bd3bcddeac93d3b63f7, http://112.238.213.86:38888/i
+254675, 2024-09-29 00:20:08, 2024-09-29 00:20:08, malware, be19cfea33d74ce19f29f7aec4e5ed51, http://112.225.174.56:41103/bin.sh
+254674, 2024-09-29 00:00:15, 2024-09-29 00:00:15, phishing, eb8e1bbca144b2427eec2efb5cab013d, http://pepeinamemesworld-claim.pages.dev
 254673, 2024-09-28 23:56:15, 2024-09-28 23:56:15, phishing, 7fd83d92fb8eabefaf43ef5dfc90ca6d, http://playdoge-claimreward.pages.dev
 254672, 2024-09-28 23:30:33, 2024-09-28 23:30:33, malware, ef413bfac8c04b8ab52733d4cf42f5a2, http://117.235.76.205:59112/Mozi.m
 254671, 2024-09-28 23:28:17, 2024-09-28 23:28:17, malware, a44a7b6518564ce796169ff6cfacbc28, http://117.235.255.195:44210/bin.sh
@@ -493,19 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 253550, 2024-09-27 07:43:42, 2024-09-27 07:26:13, phishing, 2e246b46ff91f06701f6f695e4ba2119, https://twintidid.s3.amazonaws.com/user.html
 253549, 2024-09-27 07:43:04, 2024-09-27 07:22:18, phishing, 2874206ad6a8812e5cca87a99513b71b, https://set.daten-aktualisieren24.com/tkunde-online?uid=b2c=
 253548, 2024-09-27 07:42:16, 2024-09-27 07:20:14, phishing, 540baf2a23718d253a17d0691e1577e0, https://yuhkey-hilfe.cfolks.pl/
-253547, 2024-09-27 07:41:13, 2024-09-27 05:53:38, phishing, 7def4cb7aa702c7354ac55aea13bfb2b, https://mashriqtraders.com/mailwebchina/index.php?i=i&keyid=eWFob29AeWFob28uY29t
-253546, 2024-09-27 07:34:17, 2024-09-27 07:34:17, phishing, a8ffddd47272d975bd711e1235b1546b, https://mmf.zzm.mybluehost.me/wp-content/upgrade/S/new/
-253545, 2024-09-27 07:34:17, 2024-09-27 07:34:17, phishing, f590fee8aaa6ef437e1e446810266573, https://mmf.zzm.mybluehost.me/wp-content/upgrade/S/new
-253544, 2024-09-27 07:31:21, 2024-09-27 07:31:21, malware, 9b829ce64fff46beb4d52f42e93baa5e, http://123.13.1.76:45148/i
-253543, 2024-09-27 07:27:19, 2024-09-27 07:27:19, malware, c89c05d8c0804d5992af203576384c68, http://117.222.194.136:33741/bin.sh
-253542, 2024-09-27 07:22:20, 2024-09-27 07:22:20, phishing, a9fc8110d24fd466d1b0d385c3e821af, https://accupaysystems.com/
-253541, 2024-09-27 07:04:19, 2024-09-27 07:04:19, phishing, 06c0fbd7b3f4dcea6fde15af1c2dea5c, https://telegram.dog/FinallyliveStreaming
-253540, 2024-09-27 07:04:14, 2024-09-27 07:04:14, phishing, c875be258c72e4f7ce9988e4e024dd91, http://telegesam.xyz/
-253539, 2024-09-27 07:03:19, 2024-09-27 07:03:19, phishing, d253e81ff58ddd16fe3a8a87db033433, http://pub-f048656a851b4cef8f601ed0e07c2493.r2.dev/WILLS.html
-253538, 2024-09-27 07:02:31, 2024-09-27 07:02:31, phishing, 78b9b3d0a20fd6a5b6d94df3c0b27fec, http://scricketfinally.pages.dev/
-253537, 2024-09-27 07:02:30, 2024-09-27 07:02:30, phishing, b5dad9f3564dd5884e2d7f837a0c8f6e, http://telegpzem.xyz/
-253536, 2024-09-27 07:02:13, 2024-09-27 07:02:13, phishing, 782cef36a601df7ad6c4e0042e3b6d09, https://imu-telegram.org/
-253535, 2024-09-27 06:50:12, 2024-09-27 06:50:12, phishing, cea059d170bccf3af63199cbd0fbd5fb, http://dullhonepaqe.motelinnvestor.com
-253534, 2024-09-27 06:31:25, 2024-09-27 06:31:25, malware, 81948c54105341c991f2be2092c6cff4, http://119.91.152.151:4442/srys.exe
-253533, 2024-09-27 06:04:20, 2024-09-27 06:04:20, phishing, 7c384ab666e065dc29defa9a430643ac, http://telegeron.top
-253532, 2024-09-27 06:02:26, 2024-09-27 06:02:26, hacked, 56d439fedc81caa77dce229cd787e110, https://woolube.mymoodle.com.au/index.html
