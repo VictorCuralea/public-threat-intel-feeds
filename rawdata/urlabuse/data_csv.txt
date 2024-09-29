@@ -6,9 +6,19 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-29 11:00:01 UTC
+# UPDATE: 2024-09-29 12:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+254967, 2024-09-29 11:40:18, 2024-09-29 11:40:18, phishing, 6a26923b28feda7682b19590ed0969ce, http://matmomomey.pages.dev
+254966, 2024-09-29 11:28:17, 2024-09-29 11:28:17, phishing, d2183ffb48d7438f8f385b038120b8cd, http://alist.imkm.top
+254965, 2024-09-29 11:27:04, 2024-09-29 11:27:04, malware, f6c9bdffe92f412daafb47be1794f48d, http://117.219.44.223:47557/i
+254964, 2024-09-29 11:25:26, 2024-09-29 11:25:26, malware, 9b9e2fd04b5f4d55b25b43d9b05018a5, http://117.211.210.220:60567/bin.sh
+254963, 2024-09-29 11:24:38, 2024-09-29 11:24:38, malware, 3f04a4442a5a4102b84184f61a44f29c, http://117.209.92.39:39108/
+254962, 2024-09-29 11:24:20, 2024-09-29 11:24:20, malware, 3d0785a545bc42ba87ddd889a737392d, http://117.209.90.8:59987/bin.sh
+254961, 2024-09-29 11:24:08, 2024-09-29 11:24:08, malware, db357b123a504994bcd3061e08e0210d, http://117.209.89.94:37271/Mozi.m
+254960, 2024-09-29 11:23:17, 2024-09-29 11:23:17, malware, 24cfb3feb2e64140bc52a9fe7aafd77d, http://117.209.27.75:52369/bin.sh
+254959, 2024-09-29 11:21:09, 2024-09-29 11:21:09, malware, 293a2c499b4a4d7fbe11a7e2bb08722a, http://117.205.58.251:37038/i
+254958, 2024-09-29 11:20:19, 2024-09-29 11:20:19, malware, 363e26f0b5894b699029aabcede6277b, http://113.221.31.114:60811/i
 254957, 2024-09-29 10:34:41, 2024-09-29 10:34:41, malware, ebe1c13e3d5a464192088e5681f2c9e3, http://117.208.223.6:47022/i
 254956, 2024-09-29 10:34:08, 2024-09-29 10:34:08, malware, ed8683bfe44a4f4fb8d3668d1d26c847, http://117.208.223.6:47022/bin.sh
 254955, 2024-09-29 10:33:25, 2024-09-29 10:33:25, malware, 2cbf4bbae31c4910a30138ba77b76176, http://117.208.223.154:49767/i
@@ -499,13 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 254036, 2024-09-27 18:54:43, 2024-09-27 16:42:11, phishing, 36b8c2252010d5758009cd98f7c07882, https://antai-amende-gouv.com/
 254035, 2024-09-27 18:54:23, 2024-09-27 16:40:19, phishing, cc77f19a07db055efab82ed05c90af3b, https://renouvellement-assure-infos-en-ligne.fr/
 254034, 2024-09-27 18:54:00, 2024-09-27 16:40:13, phishing, 61ef2fee2170d9d663bd4021ee6e9e46, https://espacesante-patient-ameli.fr/
-254033, 2024-09-27 18:53:49, 2024-09-27 16:40:13, phishing, 4492e8402672f6e113d9d7c138d7fb35, https://renouveler-carte-sante.fr/
-254032, 2024-09-27 18:53:34, 2024-09-27 16:10:12, phishing, 50bdc645037c27132474c80d5a4b1ae3, https://orange-warm-actress.glitch.me/continue.html
-254031, 2024-09-27 18:52:52, 2024-09-27 18:52:52, phishing, ac3c206f68bd864b35993e1df960cbdb, https://signon.auth-verify.com/pages/10ab5b62ac22/XWWRXUWNvQjZLVk1hK0FLRk41clBBMGE2ZWJKNUFDVkVsdmZkbXdPNUR2cExGQ2I5QnVHQTAzalYySFJmTVZlbmplM3UvQzY1SzNDQ1U1L3l6RDBYaW4zQmZVVzBQWTk3cDkvQmk0Sy83anlrYVZWWlNVN1VIajdTNFpFemZxQStSa053d2l0c2JGUVV0Zk5OWlVETTIxZVloSzN2cU9LdnVJa3d3bnpyVmI3MWdzODA2WUpWN1ByUWl4a1ctLUxjTkM0R0ZuRGduaGZreS8tLWh4VVlQWUdlQ2xJamI5WGxEYnlxNHc9PQ==#
-254030, 2024-09-27 18:52:19, 2024-09-27 16:04:39, phishing, fedfaadd4a4609e44f3d8e9b012a175d, https://mystartdata.com/storage/app/dp/web/
-254029, 2024-09-27 18:52:00, 2024-09-27 15:18:19, phishing, 7cee64d27316a2ad98acfa3ea7255fe2, https://shredline1.torialservice.us/?UA2an=xpS4Uy4NbCJILZmvZO5H4yGZHMC0XaRLXbMfgZuExdl
-254028, 2024-09-27 18:51:24, 2024-09-27 15:18:16, phishing, b377d62eb0f1c96cbf5a71e114742632, https://vya3wblyy2.codedesign.app/?G9rZW4iOnsibmJmIjp7ImVzc2V=udGlhbCI6dHJ1ZSwidmFsdWUiOiIxNzI2NTQ0MTY3In0sI
-254027, 2024-09-27 18:40:13, 2024-09-27 18:40:13, phishing, b3c2cc6bc9e3df739033dd8c1803bb14, http://santeformulaire.info
-254026, 2024-09-27 18:26:24, 2024-09-27 18:26:24, malware, 753d0d0281eb4136954a88f043341b53, http://117.215.219.111:52125/bin.sh
-254025, 2024-09-27 18:24:42, 2024-09-27 18:24:42, malware, a10d684f2368467f8f242e71198ab615, http://117.209.95.253:54389/bin.sh
-254024, 2024-09-27 18:23:19, 2024-09-27 18:23:19, malware, d670731e73b1400c80b6b1adea097d6d, http://117.209.27.219:52955/i
