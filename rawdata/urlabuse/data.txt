@@ -6,8 +6,11 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-29 12:00:01 UTC
+# UPDATE: 2024-09-29 13:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 254974, "url": "http://sehitlerolmezvatanbolunmez.online", "discovery": "2024-09-29 12:58:15", "added": "2024-09-29 12:58:15", "target": "TR-GOV", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "5957fbda6d8160fbcf125e8b2b2baa84"}
+{"id": 254973, "url": "http://117.255.85.163:51425/i", "discovery": "2024-09-29 12:32:03", "added": "2024-09-29 12:32:03", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "44f1ba233b4347ae9b9e770cefea0a4b"}
+{"id": 254972, "url": "http://117.254.61.111:33994/Mozi.m", "discovery": "2024-09-29 12:26:44", "added": "2024-09-29 12:26:44", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "37798145eb6746448c010e2ea13405b0"}
 {"id": 254967, "url": "http://matmomomey.pages.dev", "discovery": "2024-09-29 11:40:18", "added": "2024-09-29 11:40:18", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "6a26923b28feda7682b19590ed0969ce"}
 {"id": 254966, "url": "http://alist.imkm.top", "discovery": "2024-09-29 11:28:17", "added": "2024-09-29 11:28:17", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "d2183ffb48d7438f8f385b038120b8cd"}
 {"id": 254965, "url": "http://117.219.44.223:47557/i", "discovery": "2024-09-29 11:27:04", "added": "2024-09-29 11:27:04", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "f6c9bdffe92f412daafb47be1794f48d"}
@@ -505,6 +508,3 @@
 {"id": 254040, "url": "http://117.206.177.97:47998/i", "discovery": "2024-09-27 19:21:11", "added": "2024-09-27 19:21:11", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "082a72bd241a47edbdbc3c93ec1a90a8"}
 {"id": 254039, "url": "http://115.57.82.252:54151/", "discovery": "2024-09-27 19:20:08", "added": "2024-09-27 19:20:08", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "9ed1238c30484294b0b16128c35a30e1"}
 {"id": 254038, "url": "http://estenera.life", "discovery": "2024-09-27 19:18:11", "added": "2024-09-27 19:18:11", "target": "TR-GOV", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "fb6f3161451eb0b73a6d4e50faed7150"}
-{"id": 254036, "url": "https://antai-amende-gouv.com/", "discovery": "2024-09-27 16:42:11", "added": "2024-09-27 18:54:43", "target": "FR-GOV", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "36b8c2252010d5758009cd98f7c07882"}
-{"id": 254035, "url": "https://renouvellement-assure-infos-en-ligne.fr/", "discovery": "2024-09-27 16:40:19", "added": "2024-09-27 18:54:23", "target": "FR-GOV", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "cc77f19a07db055efab82ed05c90af3b"}
-{"id": 254034, "url": "https://espacesante-patient-ameli.fr/", "discovery": "2024-09-27 16:40:13", "added": "2024-09-27 18:54:00", "target": "FR-GOV", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "61ef2fee2170d9d663bd4021ee6e9e46"}

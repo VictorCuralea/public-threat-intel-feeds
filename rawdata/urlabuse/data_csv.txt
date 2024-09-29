@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-29 12:00:01 UTC
+# UPDATE: 2024-09-29 13:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+254974, 2024-09-29 12:58:15, 2024-09-29 12:58:15, phishing, 5957fbda6d8160fbcf125e8b2b2baa84, http://sehitlerolmezvatanbolunmez.online
+254973, 2024-09-29 12:32:03, 2024-09-29 12:32:03, malware, 44f1ba233b4347ae9b9e770cefea0a4b, http://117.255.85.163:51425/i
+254972, 2024-09-29 12:26:44, 2024-09-29 12:26:44, malware, 37798145eb6746448c010e2ea13405b0, http://117.254.61.111:33994/Mozi.m
 254967, 2024-09-29 11:40:18, 2024-09-29 11:40:18, phishing, 6a26923b28feda7682b19590ed0969ce, http://matmomomey.pages.dev
 254966, 2024-09-29 11:28:17, 2024-09-29 11:28:17, phishing, d2183ffb48d7438f8f385b038120b8cd, http://alist.imkm.top
 254965, 2024-09-29 11:27:04, 2024-09-29 11:27:04, malware, f6c9bdffe92f412daafb47be1794f48d, http://117.219.44.223:47557/i
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 254040, 2024-09-27 19:21:11, 2024-09-27 19:21:11, malware, 082a72bd241a47edbdbc3c93ec1a90a8, http://117.206.177.97:47998/i
 254039, 2024-09-27 19:20:08, 2024-09-27 19:20:08, malware, 9ed1238c30484294b0b16128c35a30e1, http://115.57.82.252:54151/
 254038, 2024-09-27 19:18:11, 2024-09-27 19:18:11, phishing, fb6f3161451eb0b73a6d4e50faed7150, http://estenera.life
-254036, 2024-09-27 18:54:43, 2024-09-27 16:42:11, phishing, 36b8c2252010d5758009cd98f7c07882, https://antai-amende-gouv.com/
-254035, 2024-09-27 18:54:23, 2024-09-27 16:40:19, phishing, cc77f19a07db055efab82ed05c90af3b, https://renouvellement-assure-infos-en-ligne.fr/
-254034, 2024-09-27 18:54:00, 2024-09-27 16:40:13, phishing, 61ef2fee2170d9d663bd4021ee6e9e46, https://espacesante-patient-ameli.fr/
