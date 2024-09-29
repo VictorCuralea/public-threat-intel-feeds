@@ -6,9 +6,26 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-29 02:00:01 UTC
+# UPDATE: 2024-09-29 03:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+254710, 2024-09-29 02:33:15, 2024-09-29 02:33:15, malware, 6958d2e5122246d9a6e2d69efa193970, http://117.253.216.186:44306/Mozi.m
+254709, 2024-09-29 02:26:17, 2024-09-29 02:26:17, phishing, 66e97cb166181966291156f6906bdc7a, http://whactsapp-im.com
+254708, 2024-09-29 02:25:09, 2024-09-29 02:25:09, malware, c36efd6f6cf04cc6b4ee5554a4e180c7, http://117.235.253.183:37453/Mozi.m
+254707, 2024-09-29 02:25:01, 2024-09-29 02:25:01, malware, 280561cd520c4d03954b6efe29793836, http://117.235.2.49:58501/i
+254706, 2024-09-29 02:24:28, 2024-09-29 02:24:28, malware, c75aafac63914cd083df29b706820a55, http://117.235.2.49:58501/bin.sh
+254705, 2024-09-29 02:23:42, 2024-09-29 02:23:42, malware, 22f41940fe6047f5a29d394b980825df, http://117.209.80.143:36298/i
+254704, 2024-09-29 02:23:10, 2024-09-29 02:23:10, malware, 817e3c1ba83447f78c61c6f9655f161c, http://117.207.242.142:50047/i
+254703, 2024-09-29 02:22:27, 2024-09-29 02:22:27, malware, 3f96364709244e16bbf432312dabe040, http://117.207.242.142:50047/bin.sh
+254702, 2024-09-29 02:22:13, 2024-09-29 02:22:13, phishing, c61942dff4e67a6cc9a74e103fc6096f, http://stapsexmilf.pages.dev
+254701, 2024-09-29 02:22:11, 2024-09-29 02:22:11, phishing, d27cc99befc78fabf3b9b1327e74535c, http://wh4tsappd4tin9group.pages.dev
+254700, 2024-09-29 02:22:00, 2024-09-29 02:22:00, malware, a734792032f14c1d94063272af86ec53, http://117.198.14.153:50730/bin.sh
+254699, 2024-09-29 02:21:12, 2024-09-29 02:21:12, malware, 1beff226a3f147ebbff58b635304aaa8, http://117.197.135.99:33489/i
+254698, 2024-09-29 02:20:35, 2024-09-29 02:20:35, malware, aba4a9716163417cb6a568215e89a43a, http://115.50.69.239:54258/bin.sh
+254697, 2024-09-29 02:20:30, 2024-09-29 02:20:30, malware, 36a0a6bee04a46a6a968669f7236c59f, http://115.49.197.224:47148/i
+254696, 2024-09-29 02:20:28, 2024-09-29 02:20:28, malware, 1041515c1ef74af9b5a301ae2249dc57, http://112.31.82.160:60624/bish
+254695, 2024-09-29 02:20:14, 2024-09-29 02:20:14, malware, 1eb5fd7b93874dae8d507cdf171a42ae, http://111.38.123.165:48929/bin.sh
+254694, 2024-09-29 02:20:07, 2024-09-29 02:20:07, malware, dd53054ebbd94acb8f289c9aed55905b, http://101.108.7.87:46327/bin.sh
 254693, 2024-09-29 01:52:12, 2024-09-29 01:52:12, phishing, 221c97715fd4e99f78a086d602ef0bd9, http://elitebetoficial.com.br
 254692, 2024-09-29 01:28:13, 2024-09-29 01:28:13, phishing, 6fc9ccf9387e85f673b02e1b60a61a6a, http://merit-infra.com
 254691, 2024-09-29 01:20:50, 2024-09-29 01:20:50, malware, 6738f54d5693436d8e0dba86b3ba16ed, http://117.242.234.205:35809/
@@ -492,20 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 253571, 2024-09-27 08:58:57, 2024-09-27 08:58:15, phishing, 26b0b9f003b05398859aeff25d7006fc, https://www.playbook.com/s/jjjjj888/welcome-to-playbook
 253570, 2024-09-27 08:34:15, 2024-09-27 08:34:15, malware, b6799ab2002d4ed798596c66c800f3ed, http://182.117.95.95:47187/i
 253569, 2024-09-27 08:34:13, 2024-09-27 08:34:13, phishing, 562c8715bb20586507c32443d1e418ab, http://telegram.christianctq2023.workers.dev
-253568, 2024-09-27 08:31:35, 2024-09-27 08:31:35, malware, fdc6e99b1da448b7bfa9d200146cd013, http://182.113.36.233:52726/bin.sh
-253567, 2024-09-27 08:31:33, 2024-09-27 08:31:33, malware, 8c294f6b5e8f4c6ca54781262cc4fae1, http://182.113.36.233:52726/
-253566, 2024-09-27 08:31:01, 2024-09-27 08:31:01, malware, 1908c05227e74b7490afb1608b42df8b, http://182.112.30.143:32805/i
-253565, 2024-09-27 08:27:57, 2024-09-27 08:27:57, malware, 45fcf36b75b14ace81fa5b64a612e333, http://117.254.102.222:47485/bin.sh
-253564, 2024-09-27 08:23:46, 2024-09-27 08:23:46, malware, 13adad98289849a6b03118f26700d925, http://117.211.213.219:51347/bin.sh
-253563, 2024-09-27 08:21:16, 2024-09-27 08:21:16, malware, a6231f6e6c80428db26f81044be831fc, http://116.68.162.186:55526/bin.sh
-253562, 2024-09-27 08:14:14, 2024-09-27 08:14:14, phishing, 9281dbc262c477ab47c4d9c4fd7b6c29, https://bhy.srl.mybluehost.me/SBB/index/
-253561, 2024-09-27 08:14:13, 2024-09-27 08:14:13, phishing, 4d8ccec7a51f6acac409ba573b83e330, https://ragwah.com/wp-includes/Requests/src/Auth/secure/
-253560, 2024-09-27 08:12:13, 2024-09-27 08:12:13, phishing, 4c1727b3046add4e960effd4588f91a9, https://aquaanalytics.uz/wp-includes/vbkdj.php
-253559, 2024-09-27 07:51:34, 2024-09-27 07:20:14, phishing, 33b93f8dcb9bd68b7185cc515da88537, http://track.yuhkeykc.com/f/a/NOuXRIFQNmu_SOmF4-7krg~~/AAArHAA~/RgRo2B9KP0R-aHR0cHM6Ly95dWhzdXBwLnN2aWx1cHBvLmhvc3QvanM_dXRtX3NvdXJjZT1jbGllbnRpZnkmdXRtX21lZGl1bT1lbWFpbC1tYXJrZXRpbmcmdXRtX2NhbXBhaWduPWNvcGlhLWRlLWNvcGlhLWRlLWNvcGlhLWRlLWVycmZnVwVzcGNldUIKZvJYmvVm3fZ_z1IYcnV0aC5oYW5zbWFubkBoaXNwZWVkLmNoWAQAAATB
-253558, 2024-09-27 07:50:49, 2024-09-27 07:26:12, phishing, 7edc307df65983c73ea85e7c7c321deb, http://track.yuhkeykc.com/f/a/seL8bzx3RXKxapw4d9qVTw~~/AAArHAA~/RgRo2B9JP0R-aHR0cHM6Ly95dWhzdXBwLnN2aWx1cHBvLmhvc3QvanM_dXRtX3NvdXJjZT1jbGllbnRpZnkmdXRtX21lZGl1bT1lbWFpbC1tYXJrZXRpbmcmdXRtX2NhbXBhaWduPWNvcGlhLWRlLWNvcGlhLWRlLWNvcGlhLWRlLWVycmZnVwVzcGNldUIKZvJLmvVm3rhXAlIVaC5ob2ZmbWFubkBibHVld2luLmNoWAQAAATB
-253557, 2024-09-27 07:49:32, 2024-09-27 07:49:32, phishing, 34f0f02bdb40e94c58ed3e4917218902, https://servermailler.wixsite.com/my-site-1
-253556, 2024-09-27 07:48:21, 2024-09-27 07:40:17, phishing, 49d17e4bf27769c517d7de7822a13c5d, https://skpye.univer.se/?typeform-source=mail.google.com
-253555, 2024-09-27 07:48:01, 2024-09-27 07:48:01, phishing, fd1e45865a67e2cba9bd62d77c3d119e, https://pwheeler1201.wixsite.com/my-site-1
-253554, 2024-09-27 07:46:40, 2024-09-27 07:34:22, phishing, 2b59fb729ef2a884d7a57183e91217f9, https://ftfweiy.ck.page/d79e874c4c
-253553, 2024-09-27 07:46:11, 2024-09-27 07:46:11, phishing, 084b605dc14963fb07680e8bf842277d, http://telegramgirlshorny.pages.dev
-253552, 2024-09-27 07:44:10, 2024-09-27 07:28:13, phishing, f04cc6d3d6d8c08569db93141e3fa8ff, https://e-nanny.de/jdvnjndvnjdvjndjndnj.html
