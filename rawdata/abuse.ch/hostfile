@@ -1,11 +1,18 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-29 20:02:07 UTC                        #
+# Last updated: 2024-09-30 00:02:02 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	www.qtvzudev.pythr.net
+127.0.0.1	www.intelligence.ethergases.app
+127.0.0.1	m.ethergases.app
+127.0.0.1	wwwapi.pythr.net
+127.0.0.1	www.wwwwwwwp.ethergases.app
+127.0.0.1	xwdvawwwwwwwebmail.ethergases.app
+127.0.0.1	wwwcloudapp.pythr.net
 127.0.0.1	badion.top
 127.0.0.1	www.wwwstaging.ethergases.org
 127.0.0.1	remote.pythr.net
@@ -8759,4 +8766,4 @@
 127.0.0.1	89.213.140.115.nerozix.ovh
 127.0.0.1	onsttuiona.com
 127.0.0.1	bitonecore.com
-# Number of entries: 8753
+# Number of entries: 8760
