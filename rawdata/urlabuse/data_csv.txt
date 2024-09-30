@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-30 03:00:02 UTC
+# UPDATE: 2024-09-30 04:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+255431, 2024-09-30 03:46:23, 2024-09-30 03:46:23, phishing, 6f3d37442cd9540bf0ea4a82ef34a2af, http://tpowallet.com
+255430, 2024-09-30 03:29:15, 2024-09-30 03:29:15, malware, 90b7c9ef8cd94d58b0f3e9181464e248, http://59.183.126.179:48943/i
+255429, 2024-09-30 03:29:13, 2024-09-30 03:29:13, malware, b084e401fbf84fcd92b06adfd99e5d84, http://59.183.126.179:48943/bin.sh
 255428, 2024-09-30 02:40:20, 2024-09-30 02:40:20, phishing, 61e94c240846a601a3bbb4144b6a2dd6, http://teiesgram.vip
 255427, 2024-09-30 02:33:52, 2024-09-30 02:33:52, malware, c7bb7e6c1b9546a2ba61acb7e0cb18c4, http://59.182.154.25:51746/
 255426, 2024-09-30 02:26:23, 2024-09-30 02:26:23, malware, 57790efab9e946688c291e936b6f078c, http://46.153.82.146:40040/i
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 254804, 2024-09-29 08:20:06, 2024-09-29 08:20:06, malware, 54204877cbde48498b3d626e1b28bb49, http://112.248.101.231:51207/Mozi.m
 254803, 2024-09-29 08:08:19, 2024-09-29 08:08:19, phishing, 257fb17c91102e4a6d04951cadd11a21, http://reaoucxacnzxroa.pages.dev
 254802, 2024-09-29 07:46:17, 2024-09-29 07:46:17, phishing, f00e3ff521212f034d7cce3284939ef4, https://fjr.iig.mybluehost.me/.well-known/pki-validation/CH/CHPASS/toto/
-254801, 2024-09-29 07:35:01, 2024-09-29 07:35:01, malware, cae0defb1fc049fabdbcbdb4818dd590, http://117.212.96.19:54517/Mozi.m
-254800, 2024-09-29 07:34:47, 2024-09-29 07:34:47, malware, 44c794bcbeae451b8579d73ebf1c1d1a, http://117.211.213.137:34429/bin.sh
-254799, 2024-09-29 07:34:21, 2024-09-29 07:34:21, malware, 517969e5a3734c7a9a7f62569bf3d590, http://117.211.209.223:53593/i

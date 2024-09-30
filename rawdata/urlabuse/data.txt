@@ -6,8 +6,11 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-30 03:00:02 UTC
+# UPDATE: 2024-09-30 04:00:02 UTC
 ############### END COMMENTS ###############
+{"id": 255431, "url": "http://tpowallet.com", "discovery": "2024-09-30 03:46:23", "added": "2024-09-30 03:46:23", "target": "Token Pocket", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "6f3d37442cd9540bf0ea4a82ef34a2af"}
+{"id": 255430, "url": "http://59.183.126.179:48943/i", "discovery": "2024-09-30 03:29:15", "added": "2024-09-30 03:29:15", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "90b7c9ef8cd94d58b0f3e9181464e248"}
+{"id": 255429, "url": "http://59.183.126.179:48943/bin.sh", "discovery": "2024-09-30 03:29:13", "added": "2024-09-30 03:29:13", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "b084e401fbf84fcd92b06adfd99e5d84"}
 {"id": 255428, "url": "http://teiesgram.vip", "discovery": "2024-09-30 02:40:20", "added": "2024-09-30 02:40:20", "target": "Telegram", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "61e94c240846a601a3bbb4144b6a2dd6"}
 {"id": 255427, "url": "http://59.182.154.25:51746/", "discovery": "2024-09-30 02:33:52", "added": "2024-09-30 02:33:52", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "c7bb7e6c1b9546a2ba61acb7e0cb18c4"}
 {"id": 255426, "url": "http://46.153.82.146:40040/i", "discovery": "2024-09-30 02:26:23", "added": "2024-09-30 02:26:23", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "57790efab9e946688c291e936b6f078c"}
@@ -505,6 +508,3 @@
 {"id": 254804, "url": "http://112.248.101.231:51207/Mozi.m", "discovery": "2024-09-29 08:20:06", "added": "2024-09-29 08:20:06", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "54204877cbde48498b3d626e1b28bb49"}
 {"id": 254803, "url": "http://reaoucxacnzxroa.pages.dev", "discovery": "2024-09-29 08:08:19", "added": "2024-09-29 08:08:19", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "257fb17c91102e4a6d04951cadd11a21"}
 {"id": 254802, "url": "https://fjr.iig.mybluehost.me/.well-known/pki-validation/CH/CHPASS/toto/", "discovery": "2024-09-29 07:46:17", "added": "2024-09-29 07:46:17", "target": "SwissPass", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "f00e3ff521212f034d7cce3284939ef4"}
-{"id": 254801, "url": "http://117.212.96.19:54517/Mozi.m", "discovery": "2024-09-29 07:35:01", "added": "2024-09-29 07:35:01", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "cae0defb1fc049fabdbcbdb4818dd590"}
-{"id": 254800, "url": "http://117.211.213.137:34429/bin.sh", "discovery": "2024-09-29 07:34:47", "added": "2024-09-29 07:34:47", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "44c794bcbeae451b8579d73ebf1c1d1a"}
-{"id": 254799, "url": "http://117.211.209.223:53593/i", "discovery": "2024-09-29 07:34:21", "added": "2024-09-29 07:34:21", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "517969e5a3734c7a9a7f62569bf3d590"}
