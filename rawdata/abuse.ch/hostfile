@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-30 17:21:26 UTC                        #
+# Last updated: 2024-09-30 20:02:29 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	canvas.pet
+127.0.0.1	wwwssl.ethergases.app
+127.0.0.1	wwwwwwmail.ethergases.org
+127.0.0.1	www.wwwstaging.ethergases.app
 127.0.0.1	torressociedade.site
 127.0.0.1	camburiengenharia.site
 127.0.0.1	rochaacessoria.site
@@ -8799,4 +8803,4 @@
 127.0.0.1	a.iruko.top
 127.0.0.1	www.nocapsrt.site
 127.0.0.1	nocapsrt.site
-# Number of entries: 8793
+# Number of entries: 8797
