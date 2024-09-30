@@ -6,9 +6,17 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-30 07:00:01 UTC
+# UPDATE: 2024-09-30 08:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+255601, 2024-09-30 07:48:21, 2024-09-30 07:48:21, phishing, b1e5d1f1f074e191abcb40cdaf71cafc, http://telegramczl.org
+255600, 2024-09-30 07:34:13, 2024-09-30 07:34:13, malware, 4eb387f082444f0e9f6508c23bc73756, http://59.99.133.190:44257/
+255599, 2024-09-30 07:30:03, 2024-09-30 07:30:03, malware, 71d0d996c2f640569e4c28f38ff9c3b9, http://59.97.125.84:47464/i
+255598, 2024-09-30 07:20:26, 2024-09-30 07:20:26, malware, 17e8da2719a140f29491aba254fc7efe, http://59.89.70.188:51567/Mozi.m
+255597, 2024-09-30 07:04:19, 2024-09-30 07:04:19, phishing, 9432a43a506b92af0449da0175b92386, https://www.gamingxcrypto.com/
+255596, 2024-09-30 07:02:45, 2024-09-30 07:02:45, phishing, 1d043b4435323d3c55b4f5cc97b5b9f4, https://gamingxcrypto.com/
+255595, 2024-09-30 07:02:26, 2024-09-30 07:02:26, phishing, 90c6d263dcc00b01709c486d88e59f0b, http://rl-telegram.org
+255594, 2024-09-30 07:02:16, 2024-09-30 07:02:16, phishing, c19ab7604486f6a208186fd2cdff741d, https://rl-telegram.org/
 255593, 2024-09-30 06:58:15, 2024-09-30 06:58:15, phishing, 22d0a3efca5e843ef3ecd7bc14af71e7, http://dappsrestore.pages.dev
 255592, 2024-09-30 06:32:10, 2024-09-30 06:32:10, malware, 521b2b03e51b4b6f972c56c0f45f9d60, http://59.88.9.150:55877/
 255591, 2024-09-30 06:30:34, 2024-09-30 06:30:34, malware, 4c024d95ae6a439da0d484a4946f6691, http://59.182.131.0:38506/i
@@ -501,11 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 255031, 2024-09-29 14:03:49, 2024-09-29 14:03:49, hacked, 785becf0e0bd0e94e9bbc83af7a1db5d, http://her.bs
 255030, 2024-09-29 14:03:46, 2024-09-29 14:03:46, hacked, cfd72e6cc73c3083642d13b90d748907, http://cincinnati.radio
 255029, 2024-09-29 14:03:46, 2024-09-29 14:03:46, hacked, 5787b074e6478463d8e5b3f773fcfcfc, http://col.ae
-255028, 2024-09-29 14:03:42, 2024-09-29 14:03:42, hacked, 569188d1a589f6c5b1319114f7f56f18, http://jaag.guru
-255027, 2024-09-29 14:03:40, 2024-09-29 14:03:40, hacked, 016bc4b024a5198b327c67ddfd925b69, http://fortyc.al
-255026, 2024-09-29 14:03:37, 2024-09-29 14:03:37, hacked, b1c66629e96b5aef2acee25fc925b7c8, http://allpurpo.se
-255025, 2024-09-29 14:03:36, 2024-09-29 14:03:36, hacked, 29031105e51139972879f8039a97759c, http://jaag.ar
-255024, 2024-09-29 14:03:34, 2024-09-29 14:03:34, hacked, 19de0089a84906ee7792cb951f58b0e8, http://jaag.shop
-255023, 2024-09-29 14:03:32, 2024-09-29 14:03:32, hacked, 2a6d61fd76d87fb938397dd19836c3d5, http://m-o.link
-255022, 2024-09-29 14:03:30, 2024-09-29 14:03:30, hacked, d3133a910c435090b16ca62e4d13e30f, http://hairstreak.pro
-255021, 2024-09-29 14:03:27, 2024-09-29 14:03:27, hacked, 3efebeae5543a396f2d2ca345127bfa4, http://hairstreak.salon

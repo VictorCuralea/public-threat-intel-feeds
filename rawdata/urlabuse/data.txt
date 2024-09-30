@@ -6,8 +6,16 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-30 07:00:01 UTC
+# UPDATE: 2024-09-30 08:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 255601, "url": "http://telegramczl.org", "discovery": "2024-09-30 07:48:21", "added": "2024-09-30 07:48:21", "target": "Telegram", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "b1e5d1f1f074e191abcb40cdaf71cafc"}
+{"id": 255600, "url": "http://59.99.133.190:44257/", "discovery": "2024-09-30 07:34:13", "added": "2024-09-30 07:34:13", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "4eb387f082444f0e9f6508c23bc73756"}
+{"id": 255599, "url": "http://59.97.125.84:47464/i", "discovery": "2024-09-30 07:30:03", "added": "2024-09-30 07:30:03", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "71d0d996c2f640569e4c28f38ff9c3b9"}
+{"id": 255598, "url": "http://59.89.70.188:51567/Mozi.m", "discovery": "2024-09-30 07:20:26", "added": "2024-09-30 07:20:26", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "17e8da2719a140f29491aba254fc7efe"}
+{"id": 255597, "url": "https://www.gamingxcrypto.com/", "discovery": "2024-09-30 07:04:19", "added": "2024-09-30 07:04:19", "target": "Telegram", "reporter": "lruubotd", "AbuseType": "phishing", "UUID": "9432a43a506b92af0449da0175b92386"}
+{"id": 255596, "url": "https://gamingxcrypto.com/", "discovery": "2024-09-30 07:02:45", "added": "2024-09-30 07:02:45", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "1d043b4435323d3c55b4f5cc97b5b9f4"}
+{"id": 255595, "url": "http://rl-telegram.org", "discovery": "2024-09-30 07:02:26", "added": "2024-09-30 07:02:26", "target": "Telegram", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "90c6d263dcc00b01709c486d88e59f0b"}
+{"id": 255594, "url": "https://rl-telegram.org/", "discovery": "2024-09-30 07:02:16", "added": "2024-09-30 07:02:16", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "c19ab7604486f6a208186fd2cdff741d"}
 {"id": 255593, "url": "http://dappsrestore.pages.dev", "discovery": "2024-09-30 06:58:15", "added": "2024-09-30 06:58:15", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "22d0a3efca5e843ef3ecd7bc14af71e7"}
 {"id": 255592, "url": "http://59.88.9.150:55877/", "discovery": "2024-09-30 06:32:10", "added": "2024-09-30 06:32:10", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "521b2b03e51b4b6f972c56c0f45f9d60"}
 {"id": 255591, "url": "http://59.182.131.0:38506/i", "discovery": "2024-09-30 06:30:34", "added": "2024-09-30 06:30:34", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "4c024d95ae6a439da0d484a4946f6691"}
@@ -500,11 +508,3 @@
 {"id": 255031, "url": "http://her.bs", "discovery": "2024-09-29 14:03:49", "added": "2024-09-29 14:03:49", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "785becf0e0bd0e94e9bbc83af7a1db5d"}
 {"id": 255030, "url": "http://cincinnati.radio", "discovery": "2024-09-29 14:03:46", "added": "2024-09-29 14:03:46", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "cfd72e6cc73c3083642d13b90d748907"}
 {"id": 255029, "url": "http://col.ae", "discovery": "2024-09-29 14:03:46", "added": "2024-09-29 14:03:46", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "5787b074e6478463d8e5b3f773fcfcfc"}
-{"id": 255028, "url": "http://jaag.guru", "discovery": "2024-09-29 14:03:42", "added": "2024-09-29 14:03:42", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "569188d1a589f6c5b1319114f7f56f18"}
-{"id": 255027, "url": "http://fortyc.al", "discovery": "2024-09-29 14:03:40", "added": "2024-09-29 14:03:40", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "016bc4b024a5198b327c67ddfd925b69"}
-{"id": 255026, "url": "http://allpurpo.se", "discovery": "2024-09-29 14:03:37", "added": "2024-09-29 14:03:37", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "b1c66629e96b5aef2acee25fc925b7c8"}
-{"id": 255025, "url": "http://jaag.ar", "discovery": "2024-09-29 14:03:36", "added": "2024-09-29 14:03:36", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "29031105e51139972879f8039a97759c"}
-{"id": 255024, "url": "http://jaag.shop", "discovery": "2024-09-29 14:03:34", "added": "2024-09-29 14:03:34", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "19de0089a84906ee7792cb951f58b0e8"}
-{"id": 255023, "url": "http://m-o.link", "discovery": "2024-09-29 14:03:32", "added": "2024-09-29 14:03:32", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "2a6d61fd76d87fb938397dd19836c3d5"}
-{"id": 255022, "url": "http://hairstreak.pro", "discovery": "2024-09-29 14:03:30", "added": "2024-09-29 14:03:30", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "d3133a910c435090b16ca62e4d13e30f"}
-{"id": 255021, "url": "http://hairstreak.salon", "discovery": "2024-09-29 14:03:27", "added": "2024-09-29 14:03:27", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "3efebeae5543a396f2d2ca345127bfa4"}
