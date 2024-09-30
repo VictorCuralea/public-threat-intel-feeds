@@ -6,9 +6,21 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-30 19:00:01 UTC
+# UPDATE: 2024-09-30 20:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+255977, 2024-09-30 19:52:13, 2024-09-30 19:52:13, phishing, bc3f58f64803e3e0911c8b12777c447f, http://c1ient-auth-runindex.qateway-cloudimages.workers.dev
+255976, 2024-09-30 19:44:13, 2024-09-30 19:44:13, phishing, cbaaa3706ca78b157652194e260e49b0, http://telegram18sexxx-88h.pages.dev
+255975, 2024-09-30 19:23:56, 2024-09-30 19:23:56, malware, 418e8a8a91134ed6b9fc942277b709c9, http://95.132.220.241:50813/i
+255974, 2024-09-30 19:23:52, 2024-09-30 19:23:52, malware, 9ec32367f49d4c16bdf676845012d578, http://95.132.220.241:50813/bin.sh
+255973, 2024-09-30 19:23:50, 2024-09-30 19:23:50, malware, 0d7887a365c64491abf5f5a9e7b9e30b, http://77.81.87.111:36526/bin.sh
+255972, 2024-09-30 19:22:06, 2024-09-30 19:22:06, malware, d93a3ab1eb084853ad80a2467fc1f6b2, http://61.2.108.211:54509/Mozi.m
+255971, 2024-09-30 19:04:11, 2024-09-30 19:04:11, phishing, 984e633fbb142927cfbeb90d8a21ca3f, https://adl-em.org/b/gateway/
+255970, 2024-09-30 19:03:39, 2024-09-30 19:03:39, phishing, 4ca051d12ab8106698c1acbf39f33b60, http://game1-online.shop/ga/payment/index.php
+255969, 2024-09-30 19:03:35, 2024-09-30 19:03:35, phishing, 3d57f1c008b3a6a286073bd0bce8f9e4, https://sfo3.digitaloceanspaces.com/oceanmilesplayground/babyfox/attach.html
+255968, 2024-09-30 19:03:35, 2024-09-30 19:03:35, phishing, 24e7d1195e174b99eb6d49c5d9623a1e, https://adl-ei.org/b/gateway/
+255967, 2024-09-30 19:03:33, 2024-09-30 19:03:33, phishing, b2681cdee230fbdc5a2c1a7e9af09406, https://talab.site/Hirad/Baskol/shaparak.ir.payment1243.sharj/
+255966, 2024-09-30 19:03:13, 2024-09-30 19:03:13, phishing, 41b8e45b36e383f307bd8dcd2f3e822d, http://login.microsoftonline.com.office.prod.abbvie.myshn.net/
 255965, 2024-09-30 18:54:16, 2024-09-30 18:54:16, phishing, 28da8fe82933dd82c2c74ab1a777d0ae, https://web.teleqzam.bond/login
 255964, 2024-09-30 18:52:16, 2024-09-30 18:52:16, phishing, 88a9ac489011856c0df65d29731bde36, http://teleqzam.bond
 255963, 2024-09-30 18:36:13, 2024-09-30 18:36:13, phishing, 74a40522fb039a701a78df0095b2ae24, http://rune-bridge.pages.dev
@@ -497,15 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 255425, 2024-09-30 02:26:01, 2024-09-30 02:26:01, malware, 3ff82a7a8ad04a9cbed6cc3a4a7219b8, http://46.153.82.146:40040/bin.sh
 255424, 2024-09-30 02:25:56, 2024-09-30 02:25:56, malware, 1e4e28678edd455d96bd69457849d75a, http://45.232.75.26:57885/i
 255423, 2024-09-30 02:25:46, 2024-09-30 02:25:46, malware, 6d7f8afa193e4b30abf4413710aad030, http://45.232.75.26:57885/bin.sh
-255422, 2024-09-30 02:25:40, 2024-09-30 02:25:40, malware, f2f2eedb20be4dbe9e1ce267049b6ca5, http://42.227.236.237:58517/i
-255421, 2024-09-30 02:25:29, 2024-09-30 02:25:29, malware, d2e0f4e5a28b40e0931a0e4f1830c265, http://31.222.201.125/x86
-255420, 2024-09-30 02:25:26, 2024-09-30 02:25:26, malware, 120f32baf5c44f729a5771ccd5b5671d, http://31.222.201.125/sparc
-255419, 2024-09-30 02:25:24, 2024-09-30 02:25:24, malware, 3882ff815cab4481879e6c20ff776dbb, http://31.222.201.125/arm7
-255418, 2024-09-30 02:25:14, 2024-09-30 02:25:14, malware, 86e183e2325f4b708305eb80e1fc264c, http://31.222.201.125/arm6
-255417, 2024-09-30 02:25:11, 2024-09-30 02:25:11, malware, 9bd161ea956445aab7f43ef1147216c1, http://31.222.201.125/arm5
-255416, 2024-09-30 02:24:44, 2024-09-30 02:24:44, malware, 5f32b2edf80c4c5f99557859e7e0c9fe, http://222.138.212.10:59472/i
-255415, 2024-09-30 02:24:38, 2024-09-30 02:24:38, malware, 539f5f8fcf5143e18282b7613f33af6a, http://219.155.202.128:44326/Mozi.m
-255414, 2024-09-30 02:24:22, 2024-09-30 02:24:22, malware, f080d1bf2fa8488c831b79f9e42ca8a5, http://182.121.113.155:60879/bin.sh
-255413, 2024-09-30 02:24:14, 2024-09-30 02:24:14, malware, dd954aee4cf949b78b364e5b85574d7b, http://182.119.100.34:45114/i
-255412, 2024-09-30 02:24:11, 2024-09-30 02:24:11, phishing, ed5913cfc7d6bf7f1707b63632c30447, http://mycopilot.wxlhome.com
-255411, 2024-09-30 02:23:55, 2024-09-30 02:23:55, malware, 1c06ae91bca046a0b995adcc804b3f38, http://125.41.241.248:59077/i
