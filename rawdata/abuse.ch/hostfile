@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-30 12:45:14 UTC                        #
+# Last updated: 2024-09-30 16:54:48 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	artbykathrynmorin.com
+127.0.0.1	transfer-server.store
+127.0.0.1	limacamposadv.online
+127.0.0.1	camposacessoria.online
 127.0.0.1	urusvisa.com
 127.0.0.1	softbyms.com
 127.0.0.1	beef.softbyms.com
@@ -8779,5 +8783,4 @@
 127.0.0.1	www.nocapsrt.site
 127.0.0.1	nocapsrt.site
 127.0.0.1	service-bjb5aex0-1318428097.gz.tencentapigw.com.cn
-127.0.0.1	cleaninghouseinc.com
-# Number of entries: 8774
+# Number of entries: 8777
