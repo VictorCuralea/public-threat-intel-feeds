@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-30 08:02:15 UTC                        #
+# Last updated: 2024-09-30 09:53:03 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	beef.softbyms.com
 127.0.0.1	cpcontacts.purefusionos.com
 127.0.0.1	portalvpn.pythr.net
 127.0.0.1	www.wwwportal.pythr.net
@@ -8777,5 +8778,4 @@
 127.0.0.1	nocapsrt.site
 127.0.0.1	service-bjb5aex0-1318428097.gz.tencentapigw.com.cn
 127.0.0.1	cleaninghouseinc.com
-127.0.0.1	service-b7okr3qc-1300276284.nj.tencentapigw.com
 # Number of entries: 8772
