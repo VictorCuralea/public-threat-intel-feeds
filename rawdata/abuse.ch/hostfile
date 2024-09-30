@@ -1,11 +1,24 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-30 06:18:13 UTC                        #
+# Last updated: 2024-09-30 08:02:15 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	cpcontacts.purefusionos.com
+127.0.0.1	portalvpn.pythr.net
+127.0.0.1	www.wwwportal.pythr.net
+127.0.0.1	www.wwwconnect.pythr.net
+127.0.0.1	wwwwwwwwwwebmail.pythr.net
+127.0.0.1	wwwwwwrds1.pythr.net
+127.0.0.1	www.wwwwwwwwwgatewayvpn.pythr.net
+127.0.0.1	wwwwwwconnect.pythr.net
+127.0.0.1	wwwconnect.pythr.net
+127.0.0.1	www.backend.pythr.net
+127.0.0.1	us-ps-cp.life
+127.0.0.1	tthvlgatewaycitrix.pythr.net
+127.0.0.1	shades.whatisaweekend.com
 127.0.0.1	innerglowjourney.com
 127.0.0.1	encrypted7745.hopto.org
 127.0.0.1	mail.purefusionos.com
@@ -8765,4 +8778,4 @@
 127.0.0.1	service-bjb5aex0-1318428097.gz.tencentapigw.com.cn
 127.0.0.1	cleaninghouseinc.com
 127.0.0.1	service-b7okr3qc-1300276284.nj.tencentapigw.com
-# Number of entries: 8759
+# Number of entries: 8772
