@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-30 04:02:21 UTC                        #
+# Last updated: 2024-09-30 06:18:13 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	innerglowjourney.com
+127.0.0.1	encrypted7745.hopto.org
 127.0.0.1	mail.purefusionos.com
 127.0.0.1	cpanel.purefusionos.com
 127.0.0.1	login.kane-com.com
@@ -8771,4 +8773,4 @@
 127.0.0.1	89.213.140.115.nerozix.ovh
 127.0.0.1	onsttuiona.com
 127.0.0.1	bitonecore.com
-# Number of entries: 8765
+# Number of entries: 8767
