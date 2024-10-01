@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-10-01 00:02:09 UTC                        #
+# Last updated: 2024-10-01 04:53:06 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	paveldurov.sbs
+127.0.0.1	tag224.ddns.net
+127.0.0.1	sam.mr
+127.0.0.1	68-183-110-121.ipv4.staticdns3.io
+127.0.0.1	www.gateway.pythr.net
 127.0.0.1	www.wwwdemo.ethergases.org
 127.0.0.1	analyze.ethergases.org
 127.0.0.1	www.wwwadmin.ethergases.org
@@ -8790,4 +8795,4 @@
 127.0.0.1	heicehjuisyq.bond
 127.0.0.1	goliathms.azureedge.net
 127.0.0.1	rdtest.static.hao123-wise.otp.baidu.com.cn.cdn.dnsv1.com
-# Number of entries: 8784
+# Number of entries: 8789
