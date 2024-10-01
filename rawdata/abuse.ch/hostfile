@@ -1,11 +1,22 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-10-01 04:53:06 UTC                        #
+# Last updated: 2024-10-01 07:26:46 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ghd-34kaspod.com
+127.0.0.1	sufsharkos.com
+127.0.0.1	vpnspia.com
+127.0.0.1	privatevpnos.com
+127.0.0.1	nrdvpn.pro
+127.0.0.1	piavpn.pro
+127.0.0.1	privatvpn.pro
+127.0.0.1	surfshrkvpn.pro
+127.0.0.1	vpnexprss.pro
+127.0.0.1	nordvpnos.com
+127.0.0.1	expressovvpn.com
 127.0.0.1	paveldurov.sbs
 127.0.0.1	tag224.ddns.net
 127.0.0.1	sam.mr
@@ -8795,4 +8806,4 @@
 127.0.0.1	heicehjuisyq.bond
 127.0.0.1	goliathms.azureedge.net
 127.0.0.1	rdtest.static.hao123-wise.otp.baidu.com.cn.cdn.dnsv1.com
-# Number of entries: 8789
+# Number of entries: 8800
