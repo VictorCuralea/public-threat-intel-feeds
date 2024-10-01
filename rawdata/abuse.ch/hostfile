@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-10-01 07:26:46 UTC                        #
+# Last updated: 2024-10-01 08:36:02 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	solutviewmen.viewdns.net
+127.0.0.1	www.portalvpn.pythr.net
+127.0.0.1	wwwwwwvpnssl.pythr.net
+127.0.0.1	www.wwwsecure.ethergases.org
 127.0.0.1	ghd-34kaspod.com
 127.0.0.1	sufsharkos.com
 127.0.0.1	vpnspia.com
@@ -8805,5 +8809,4 @@
 127.0.0.1	stviw.xyz
 127.0.0.1	heicehjuisyq.bond
 127.0.0.1	goliathms.azureedge.net
-127.0.0.1	rdtest.static.hao123-wise.otp.baidu.com.cn.cdn.dnsv1.com
-# Number of entries: 8800
+# Number of entries: 8803
