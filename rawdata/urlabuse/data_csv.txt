@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-09-30 23:00:01 UTC
+# UPDATE: 2024-10-01 00:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+256062, 2024-09-30 23:48:15, 2024-09-30 23:48:15, phishing, 041cbef7293466288735eaa37f8e5b80, http://netcustomer-livechat.com
+256061, 2024-09-30 23:21:09, 2024-09-30 23:21:09, malware, f8745a783c784fff87fa9f9f3ccb0c8d, http://61.155.88.94:47610/i
+256060, 2024-09-30 23:20:31, 2024-09-30 23:20:31, malware, 1b414cc140944f1f9c3bda9ddb6a113e, http://59.92.42.252:54702/i
+256059, 2024-09-30 23:20:25, 2024-09-30 23:20:25, malware, a45eb359b8e946faad5fc74ef36e50f2, http://59.89.66.32:47998/i
 256058, 2024-09-30 22:44:23, 2024-09-30 22:42:14, phishing, 34ed63eb8d814d0dab4100ed871727c6, https://dpd.trustdeal.cfd/pay/order/ftqurqjN
 256057, 2024-09-30 22:34:42, 2024-09-30 22:34:42, malware, 728c667d82a04b18a897649dc2257b39, http://59.88.253.228:41526/i
 256056, 2024-09-30 22:34:37, 2024-09-30 22:34:37, malware, 7abc4c142b104eee80b5031a561dcd06, http://59.88.253.228:41526/bin.sh
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 255565, 2024-09-30 06:20:35, 2024-09-30 06:20:35, malware, 858365a961fa4c14890cf74cfbe27dc4, http://115.54.118.87:47889/bin.sh
 255564, 2024-09-30 06:20:33, 2024-09-30 06:20:33, malware, f0ef07f39ee74a58b00895161973c6cf, http://115.53.195.137:47486/
 255563, 2024-09-30 06:20:28, 2024-09-30 06:20:28, malware, e362d5087d4d4128af802eba7c2b5824, http://115.51.29.133:55808/bin.sh
-255562, 2024-09-30 06:20:26, 2024-09-30 06:20:26, malware, b9648c5c4648461f8a5c470e615ccdcc, http://115.50.6.117:38249/
-255561, 2024-09-30 06:19:27, 2024-09-30 06:19:27, phishing, df8445dd63d53be87b48523658287242, https://n94myg.com/
-255560, 2024-09-30 06:04:22, 2024-09-30 05:50:20, phishing, f5ce6a54f8018caf45e8e3c14ae51d40, https://swisspost.o67876.cfd/229644144
-255559, 2024-09-30 06:02:50, 2024-09-30 06:02:50, hacked, 3504ec5e066dd9d4fb445797b43805f6, https://cdn-sikadeka.kpu.go.id/logos/calon_dpd__9e2cfd9a7ccf4cdba564e7725b683a41.jpg
