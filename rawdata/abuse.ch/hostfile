@@ -1,11 +1,17 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-10-02 11:29:51 UTC                        #
+# Last updated: 2024-10-02 15:45:34 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	thehyperfocus.quest
+127.0.0.1	lgbtrestaurant.com
+127.0.0.1	tselka.org
+127.0.0.1	novo.doxbin.top
+127.0.0.1	byeux.com
+127.0.0.1	update.byeux.com
 127.0.0.1	eyh.ocry.com
 127.0.0.1	nbt201.dynamic-dns.net
 127.0.0.1	language-sublime.gl.at.ply.gg
@@ -8883,4 +8889,4 @@
 127.0.0.1	brigadafraternidade.com
 127.0.0.1	twiceoohah.uk
 127.0.0.1	healitytherapy.xyz
-# Number of entries: 8877
+# Number of entries: 8883
