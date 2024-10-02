@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-10-02 05:54:57 UTC                        #
+# Last updated: 2024-10-02 11:29:51 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	eyh.ocry.com
+127.0.0.1	nbt201.dynamic-dns.net
 127.0.0.1	language-sublime.gl.at.ply.gg
 127.0.0.1	anoive.top
 127.0.0.1	trenndylicensei.shop
@@ -8882,4 +8884,4 @@
 127.0.0.1	twiceoohah.uk
 127.0.0.1	healitytherapy.xyz
 127.0.0.1	trembolone.duckdns.org
-# Number of entries: 8876
+# Number of entries: 8878
