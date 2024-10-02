@@ -6,9 +6,17 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-02 19:00:01 UTC
+# UPDATE: 2024-10-02 20:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+257702, 2024-10-02 19:30:30, 2024-10-02 19:30:30, malware, 7ecbd1e9844949539cddb5d85f556d56, http://59.183.104.91:58915/
+257701, 2024-10-02 19:30:11, 2024-10-02 19:30:11, phishing, 2bb5e7f5b032bab812708d0d8f145735, http://tru-01-3dfs.api-avvs-qatevvay-onilne.workers.dev
+257700, 2024-10-02 19:21:56, 2024-10-02 19:21:56, malware, 2a85148c8ca2444093a9df199e5c7dba, http://59.178.88.204:56686/bin.sh
+257699, 2024-10-02 19:21:54, 2024-10-02 19:21:54, malware, 21079f085db74c1799558d7040e47f4d, http://59.178.88.204:56686/
+257698, 2024-10-02 19:21:26, 2024-10-02 19:21:26, malware, 71d7be8ef4724a26974e1a37295cd933, http://59.178.220.134:55200/
+257697, 2024-10-02 19:03:29, 2024-10-02 19:03:29, phishing, be399fa3d723f76677739cfce2121de0, https://softwaregold.sbs/data/7402491281/payment/94ZWU23V/Mellat.php
+257696, 2024-10-02 19:03:25, 2024-10-02 19:03:25, phishing, 57696cd9ec9618b390f63c13459feac3, https://owa.caspiansun.xyz/
+257695, 2024-10-02 19:02:15, 2024-10-02 19:02:15, phishing, 8a7e9fcdf639e6ab321287f6a6a0fa21, https://telegram.old-versions.org/
 257694, 2024-10-02 18:48:29, 2024-10-02 18:48:29, phishing, 59a804ad1de0480c76a6b85f4cd3a1ab, https://max-chrom.gr/test/ssi/test/login.php
 257693, 2024-10-02 18:48:17, 2024-10-02 18:48:17, phishing, 7b04897592ad847876015dc488cbd8f0, https://mainardi-gknhv.formstack.com/forms/jqhide
 257692, 2024-10-02 18:45:54, 2024-10-02 18:45:54, phishing, b47fd042894c7156a47d9956adc41133, https://app.getresponse.com/view.html?x=a62b&m=BrDq7e&u=Cg8TD&z=EtaSBGz&o=pp_6%20(https://app.getresponse.com/view.html?x=a62b&m=BrDq7e&u=Cg8TD&z=EtaSBGz&o=pp_6)
@@ -501,11 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 257089, 2024-10-02 00:29:46, 2024-10-02 00:29:46, malware, b8fbe02a42ed47efb1509c3d01d6475a, http://125.40.54.122:51588/bin.sh
 257088, 2024-10-02 00:28:35, 2024-10-02 00:28:35, malware, a915a975cbca4f9bba5860eedb61e941, http://123.5.181.208:39774/i
 257087, 2024-10-02 00:28:11, 2024-10-02 00:28:11, malware, e6966f0e6cf846bba269149e7c2c3bcd, http://123.5.181.208:39774/bin.sh
-257086, 2024-10-02 00:27:53, 2024-10-02 00:27:53, malware, 99ba9bbf349849699f7971d2c1e74a78, http://123.14.145.39:52173/i
-257085, 2024-10-02 00:27:51, 2024-10-02 00:27:51, malware, 5febdde765bc43449af036f677c6ffd7, http://123.14.145.39:52173/
-257084, 2024-10-02 00:27:43, 2024-10-02 00:27:43, malware, 5b27c8bd9c194d19927e7ba87aa11aaf, http://123.129.128.134:47571/i
-257083, 2024-10-02 00:27:25, 2024-10-02 00:27:25, malware, 983dd466c4da4232918b07921ddbe556, http://120.61.18.143:50501/Mozi.m
-257082, 2024-10-02 00:26:43, 2024-10-02 00:26:43, malware, 3533809e9f0a4fbba2a32b0f70b2d035, http://117.245.249.250:50390/i
-257081, 2024-10-02 00:26:28, 2024-10-02 00:26:28, malware, f3920ad96c6845108a35de74cd0c234c, http://117.242.233.219:39123/i
-257080, 2024-10-02 00:25:39, 2024-10-02 00:25:39, malware, 6b0f0999f61f4bf6982bd7d21825c06d, http://117.222.254.30:47567/i
-257079, 2024-10-02 00:25:21, 2024-10-02 00:25:21, malware, ddbf48966eb646bdbd20cc4bf28971aa, http://117.221.242.240:59598/bin.sh
