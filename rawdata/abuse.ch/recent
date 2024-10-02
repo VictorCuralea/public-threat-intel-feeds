@@ -1,12 +1,13 @@
 ################################################################
 # ThreatFox IOCs: recent SHA256 hashes - CSV format            #
-# Last updated: 2024-10-01 17:46:21 UTC                        #
+# Last updated: 2024-10-02 05:54:59 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
 # "first_seen_utc","ioc_id","ioc_value","ioc_type","threat_type","fk_malware","malware_alias","malware_printable","last_seen_utc","confidence_level","reference","tags","anonymous","reporter"
+"2024-10-02 05:54:59", "1332358", "fd20ec0d4e54a7511378b20042e3817c965ef392293f5f9d5015b5eb9d066b6f", "sha256_hash", "payload", "apk.copybara", "None", "Copybara", "", "50", "", "None", "1", "JPPS"
 "2024-10-01 17:46:21", "1332556", "8ed1f28fe0588fd7e27b22329ba5c2cbed9bf6aeec4e2e4dbe2cf751f2f1d629", "sha256_hash", "payload", "win.mars_stealer", "None", "Mars Stealer", "", "95", "None", "None", "0", "Grim"
 "2024-10-01 17:46:18", "1332553", "9721ce3f920fb4e3410b28d98077ca621a2a79e8a1e41ee0673533fb20e3dc43", "sha256_hash", "payload", "win.formbook", "win.xloader", "Formbook", "", "95", "None", "None", "0", "Grim"
 "2024-10-01 17:46:15", "1332550", "a390b03e67b809b3dd08b840e3e917eb701387309c5a8859438dc926ce62ec64", "sha256_hash", "payload", "win.cobalt_strike", "Agentemis,BEACON,CobaltStrike,cobeacon", "Cobalt Strike", "", "95", "None", "None", "0", "Grim"
@@ -102,4 +103,4 @@
 "2024-09-30 17:08:47", "1332001", "5ea66e4e338b5ded7b00ad1575010d7c1149341323a646069f3b00a518f300d5", "sha256_hash", "payload", "win.agent_tesla", "AgenTesla,AgentTesla,Negasteal", "Agent Tesla", "", "95", "None", "None", "0", "Grim"
 "2024-09-30 17:08:43", "1331998", "c89c37f0b5dc89251da6c37aa8e1071c43d52c80fd2326f1e6de8dcd5eaf0dfc", "sha256_hash", "payload", "win.formbook", "win.xloader", "Formbook", "", "95", "None", "None", "0", "Grim"
 "2024-09-30 17:08:40", "1331995", "cad71f61562fdc34dafc567081d21ff6044322ff75b67c3b5172fba7f4ee1e5d", "sha256_hash", "payload", "win.formbook", "win.xloader", "Formbook", "", "95", "None", "None", "0", "Grim"
-# Number of entries: 95
+# Number of entries: 96
