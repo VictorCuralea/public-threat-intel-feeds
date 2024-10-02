@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-10-02 15:45:34 UTC                        #
+# Last updated: 2024-10-02 16:02:26 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	static.241.115.12.49.clients.your-server.de
 127.0.0.1	thehyperfocus.quest
 127.0.0.1	lgbtrestaurant.com
 127.0.0.1	tselka.org
@@ -8889,4 +8890,4 @@
 127.0.0.1	brigadafraternidade.com
 127.0.0.1	twiceoohah.uk
 127.0.0.1	healitytherapy.xyz
-# Number of entries: 8883
+# Number of entries: 8884
