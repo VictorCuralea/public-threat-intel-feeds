@@ -6,9 +6,15 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-02 23:00:01 UTC
+# UPDATE: 2024-10-03 00:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+257845, 2024-10-02 23:54:19, 2024-10-02 23:54:19, phishing, c406602b075d8f9d103dcbe5df512eb8, http://nnygovr-online.crystalsuisse.com
+257844, 2024-10-02 23:30:39, 2024-10-02 23:30:39, malware, a65a026a49704d9a814acd235b142339, http://61.163.13.78:40955/bin.sh
+257843, 2024-10-02 23:30:37, 2024-10-02 23:30:37, malware, 34ae966c1f0f4c2391b9a98bc071774c, http://61.163.13.78:40955/
+257842, 2024-10-02 23:22:22, 2024-10-02 23:22:22, malware, 34e7da41698d47ae81897dbaac4bf2fc, http://59.99.33.121:56279/Mozi.m
+257841, 2024-10-02 23:21:21, 2024-10-02 23:21:21, malware, 1e4ce070de4a4b42b735bcc273bbd3eb, http://59.99.214.31:58126/bin.sh
+257840, 2024-10-02 23:20:07, 2024-10-02 23:20:07, malware, 5eb955c7064546fca49d419dfc518bc0, http://59.99.199.127:52209/Mozi.m
 257839, 2024-10-02 22:36:04, 2024-10-02 21:26:52, phishing, edc4c0196b95eac8d632be308215048b, http://filertia.ir/ebla/
 257838, 2024-10-02 22:35:19, 2024-10-02 22:32:14, phishing, 83588bc5002cfaa425819964116cfe00, https://venipak.dealpayingtrust.one/pay/order/yxToGgEa
 257837, 2024-10-02 22:35:07, 2024-10-02 22:30:16, phishing, 26b1ed33b9f03995e049a7c73b5a4fa2, https://track-omniva.kycsolve.live/payit/
@@ -503,9 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 257232, 2024-10-02 06:26:58, 2024-10-02 06:26:58, malware, 4d83f30731024d88ba037a2b61b2acb9, http://115.56.148.8:44336/bin.sh
 257231, 2024-10-02 06:26:37, 2024-10-02 06:26:37, malware, ceaa167dfdda458da708f8cfc2575945, http://115.56.148.248:60327/Mozi.m
 257230, 2024-10-02 06:26:18, 2024-10-02 06:26:18, malware, 7c721285a9ca4eba87fb1230ba20e6a1, http://115.55.61.156:52314/i
-257229, 2024-10-02 06:26:16, 2024-10-02 06:26:16, phishing, 3ddaa552db380599cd63dc1f06c8b106, https://www.mostlymontana.com/twint.ch/login.php
-257228, 2024-10-02 06:24:12, 2024-10-02 06:24:12, malware, b80fe947ee9346d6a9efd4cdb1ab4240, http://115.52.255.81:56912/Mozi.m
-257227, 2024-10-02 06:23:54, 2024-10-02 06:23:54, malware, e26517a463d34246bfc8b444b0e004a1, http://115.50.84.118:35716/Mozi.m
-257226, 2024-10-02 06:23:29, 2024-10-02 06:23:29, malware, ee0f5913ccc54972bd08ef6b490b3eb8, http://115.50.220.224:60879/i
-257225, 2024-10-02 06:23:08, 2024-10-02 06:23:08, malware, 1e68bc5e2804486da28ca02f2a5503ff, http://115.50.220.224:60879/bin.sh
-257224, 2024-10-02 06:23:06, 2024-10-02 06:23:06, malware, 93d89fdbe36046f9af1bed1c7d0b1ae0, http://115.50.220.224:60879/
