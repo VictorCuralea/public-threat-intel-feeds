@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-10-03 13:14:58 UTC                        #
+# Last updated: 2024-10-03 14:09:52 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	skiiin.club
 127.0.0.1	shaoriffandco.com
 127.0.0.1	chorusarorp.site
 127.0.0.1	soldiefieop.site
@@ -9037,5 +9038,4 @@
 127.0.0.1	canarapay-f5agf9ccgteqbpg2.z03.azurefd.net
 127.0.0.1	chu-healthcare-infra.org
 127.0.0.1	healitytherapy.pro
-127.0.0.1	service-qwflcy7c-1305872204.gz.tencentapigw.com.cn
 # Number of entries: 9032
