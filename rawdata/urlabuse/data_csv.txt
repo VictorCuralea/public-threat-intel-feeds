@@ -6,9 +6,16 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-03 17:00:01 UTC
+# UPDATE: 2024-10-03 18:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+259127, 2024-10-03 17:56:16, 2024-10-03 17:56:16, phishing, 2ed9888170714c975b282ba14cdf3d9a, https://docs.google.com/presentation/d/e/2PACX-1vT5U7talc5_DflV-2ZEE8bARXN4sfAcOhH0Mhr-ZTA1ZJRip8GaM_PT_Otrqn-PY8rSGmPOSjKgfuPg/pub?start=false
+259126, 2024-10-03 17:38:15, 2024-10-03 17:38:15, phishing, b9a996d51734b162e4225d7a33d4c21e, http://sac.andradedeveloper.net
+259089, 2024-10-03 17:16:14, 2024-10-03 17:16:14, phishing, f14d60313d47e657dc43a84a824aeb16, http://nur-miranda-free-content.private-live.web.id
+259087, 2024-10-03 17:14:32, 2024-10-03 17:14:32, phishing, 9e1e4eeb2757e68ff65e730e48ed581e, http://telegromb.com
+259086, 2024-10-03 17:14:20, 2024-10-03 17:14:20, phishing, ecf1a4d9e7f6dd3f701c34b4d7855ce2, http://telegrafm.com
+259085, 2024-10-03 17:14:18, 2024-10-03 17:14:18, phishing, 989af37a96faa0cbf29123ec016d0f0d, https://web.telegrezm.com/
+259080, 2024-10-03 17:12:19, 2024-10-03 17:12:19, phishing, 359a0f73a5760d10a289afd1b4871d73, http://telegrezm.com
 258653, 2024-10-03 16:26:04, 2024-10-03 16:26:04, malware, 3e78403efabf41b6a6940a47c3d864e1, http://61.53.138.159:48972/i
 258652, 2024-10-03 16:26:02, 2024-10-03 16:26:02, malware, 1b80ab25ddd64945bc8f062b0295909e, http://61.52.38.168:43878/bin.sh
 258650, 2024-10-03 16:26:00, 2024-10-03 16:26:00, malware, 3ca0e6a1d39d4ba7a4f359b5227ddff2, http://61.52.134.252:48379/bin.sh
@@ -502,10 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 257969, 2024-10-03 04:02:14, 2024-10-03 04:02:14, phishing, f9e8934a8f918143982dca5bf1ac064b, https://claim-giveaway2.info-resmi.my.id/
 257968, 2024-10-03 02:36:15, 2024-10-03 02:36:15, phishing, 7b933d692971668fa80d600f98917f67, http://proxy01.4xdhvb.us.kg
 257967, 2024-10-03 02:24:52, 2024-10-03 02:24:52, malware, 062a35fec3be4885a702e3ce432b982d, http://61.54.42.40:56174/bin.sh
-257966, 2024-10-03 02:24:50, 2024-10-03 02:24:50, malware, 140050a7b4594f1fa65ff95e3e4cc51d, http://61.3.191.188:39494/bin.sh
-257965, 2024-10-03 02:24:48, 2024-10-03 02:24:48, malware, fc005ac186d44354abe4e4f17fad5cde, http://59.89.227.116:49514/i
-257964, 2024-10-03 02:24:46, 2024-10-03 02:24:46, malware, d47cc75f866a4377b5f33d2ae2847f76, http://59.88.6.208:45433/Mozi.m
-257963, 2024-10-03 02:24:26, 2024-10-03 02:24:26, malware, 14bd3eaf18ff4d16915de91657ad1d9b, http://59.178.45.226:53695/Mozi.m
-257962, 2024-10-03 02:24:24, 2024-10-03 02:24:24, malware, cc16e58ec8ad42009b7cc3254a36a40b, http://42.231.213.227:56296/i
-257961, 2024-10-03 02:24:22, 2024-10-03 02:24:22, malware, d5548008704a40ec9ea979e51fa8cd94, http://42.230.47.241:50739/
-257960, 2024-10-03 02:24:19, 2024-10-03 02:24:19, malware, 769dba2fd82e411a85b60cad9f33ff5b, http://42.229.216.32:44674/i
