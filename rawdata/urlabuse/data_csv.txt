@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-03 11:00:01 UTC
+# UPDATE: 2024-10-03 12:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+258278, 2024-10-03 11:06:15, 2024-10-03 11:06:15, phishing, 18e246d0af2da0bac35fbc61c5767973, http://seasidegraphics.pages.dev
 258277, 2024-10-03 10:42:38, 2024-10-03 10:23:20, phishing, 9ba2f5960983efd2d8c80208746e6cf0, https://arashmohamadi.freehost.io/m%20j%20f%20/g%20d%20h%20/payment=5698542365.php?amount=20%2C000
 258276, 2024-10-03 10:29:23, 2024-10-03 10:29:23, malware, 5ee4205c6e18430b9ace63495932f566, http://96.33.218.253:53311/i
 258275, 2024-10-03 10:29:21, 2024-10-03 10:29:21, malware, d43b04b185bf4fbc8a966e10a6adf65a, http://96.33.218.253:53311/bin.sh
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 257781, 2024-10-02 22:21:20, 2024-10-02 22:21:20, malware, b47183f9267346819735220f95771282, http://117.206.77.225:37643/Mozi.m
 257780, 2024-10-02 22:21:18, 2024-10-02 22:21:18, malware, dcc19d03b9c142f5b74e7ce73c49292f, http://117.206.66.89:33051/i
 257779, 2024-10-02 22:21:09, 2024-10-02 22:21:09, malware, 9f0ef0f9d3cc43bcaf6a894646b5ed6d, http://117.206.180.21:58860/i
-257778, 2024-10-02 22:20:56, 2024-10-02 22:20:56, malware, 546052ec83cc4365a84c1da3f0a82f67, http://117.204.230.193:56219/Mozi.m
