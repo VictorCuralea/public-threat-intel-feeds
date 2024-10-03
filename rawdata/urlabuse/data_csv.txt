@@ -6,9 +6,25 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-03 19:00:01 UTC
+# UPDATE: 2024-10-03 20:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+259190, 2024-10-03 19:40:13, 2024-10-03 19:40:13, phishing, e1f6504f717092bcaa164f397e1dbe4f, http://adobe-8ql.pages.dev
+259189, 2024-10-03 19:25:25, 2024-10-03 19:25:25, malware, 6f0665eb25534427b9dabf424e6f2825, http://playd.healthnlife.pk/yuop/66fc5c187ba75_lyla343.exe
+259188, 2024-10-03 19:25:23, 2024-10-03 19:25:23, malware, d32c3bc7de934a339254297b85d67d24, http://playd.healthnlife.pk/yuop/66f6b6b7f2ec8_intro.exe
+259187, 2024-10-03 19:24:01, 2024-10-03 19:24:01, malware, 4a932c1948464a039354997d6f839b61, http://playd.healthnlife.pk/yuop/66ed8059174df_ConsiderMilfs.exe
+259186, 2024-10-03 19:23:56, 2024-10-03 19:23:56, malware, 2de9470259d54fc39ca3107bdddc8409, http://playd.healthnlife.pk/yuop/66e733ba30ec8_Server.exe
+259185, 2024-10-03 19:23:56, 2024-10-03 19:23:56, malware, b696959a231748eba27eb8508a51c010, http://playd.healthnlife.pk/yuop/66e5ac6b74d82_Pink_0x000872A650EA3FB.exe
+259184, 2024-10-03 19:23:50, 2024-10-03 19:23:50, malware, ffe33c88c8db4f0ebfc360e9d0e059fe, http://playd.healthnlife.pk/yuop/66d4be7ccdf92_UniformDaniel.exe
+259183, 2024-10-03 19:23:43, 2024-10-03 19:23:43, malware, 1b75be520e354b6aa6d37eb433947be4, http://playd.healthnlife.pk/yuop/66d32ff81a663_lump.exe
+259182, 2024-10-03 19:22:35, 2024-10-03 19:22:35, malware, 4dd5590976fe4c1bb5dcee544076042c, http://playd.healthnlife.pk/yuop/66cf567bc9ba6_NEWCR.exe
+259181, 2024-10-03 19:22:31, 2024-10-03 19:22:31, malware, 6459d7358e7648559d15364c7449bbb2, http://playd.healthnlife.pk/yuop/66ca20a26df75_PastaCache.exe
+259180, 2024-10-03 19:22:27, 2024-10-03 19:22:27, malware, 3c41a7d7747149599ea13a4d5394e051, http://playd.healthnlife.pk/yuop/66c62a65595f9_Identification2.exe
+259179, 2024-10-03 19:20:30, 2024-10-03 19:20:30, malware, 889af41532ce41d8badb25d05afe9096, http://playd.healthnlife.pk/yuop/66bdd24d2ac1b_uninstaller.exe
+259178, 2024-10-03 19:06:19, 2024-10-03 19:06:19, phishing, 17a386aa4be9e2797269e0d6b7afe025, https://algebraiibs.com/wp.html
+259177, 2024-10-03 19:03:27, 2024-10-03 19:03:27, phishing, ddeaeef2483f95f4f5ca31c709f8a694, https://hypenews.sbs/data/6577821522/payment/eTc1XZ90/Mellat.php
+259176, 2024-10-03 19:03:22, 2024-10-03 19:03:22, phishing, 7115ca5521cf8abcd514ae1f0c1f52d4, https://gveir.link/%C3%A7/W568H/pay/
+259175, 2024-10-03 19:03:15, 2024-10-03 19:03:15, phishing, b45a15f00181049e4440b0b514627a8c, https://notifyhubss.net/43eb69c18ud842489blb9aa5258labd6cf43.html__;!!OepYZ6Q!9RgFCvTWORFV608myckF3utsnUaP3OxGwPCXDB-fXUjoTHo_WV4vVyfKD7-vwf352Z1ukEzAQZdko3ZgGTujxXnCY8ozhOuDPg$/
 259174, 2024-10-03 18:35:39, 2024-10-03 18:35:39, malware, 2ed6cdbe9ede4a64a26962affad9274b, http://playd.healthnlife.pk/revada/66fce880d2739_union.exe
 259173, 2024-10-03 18:33:52, 2024-10-03 18:33:52, malware, 1d9e0520f7134f9791b06620cd36ae1a, http://playd.healthnlife.pk/revada/66f4186b24569_sfx_123_500.exe
 259172, 2024-10-03 18:32:45, 2024-10-03 18:32:45, malware, 31395761824f40ab8a034e1a75f7842b, http://playd.healthnlife.pk/revada/66b2871b47a8b_uhigdbf.exe
@@ -493,19 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 258032, 2024-10-03 05:42:14, 2024-10-03 05:42:14, phishing, ec802f55e4c41abe24d0cf254d157ad2, https://huminnov.org/wp-content/mu-plugins/fr/fr/1/doc/start_index.php
 258031, 2024-10-03 05:40:19, 2024-10-03 05:40:19, phishing, 5e9083be1f10ff7a08128acfca9eea96, https://zazaconcierge.com/js/source/
 258030, 2024-10-03 04:25:41, 2024-10-03 04:25:41, malware, 100dd64be5dc426d80d1b85610f25995, http://61.54.197.189:47234/i
-258029, 2024-10-03 04:25:31, 2024-10-03 04:25:31, malware, 9890c411a1404dd68906cf7ed9b58f0a, http://61.3.27.73:43141/bin.sh
-258028, 2024-10-03 04:25:16, 2024-10-03 04:25:16, malware, f1cc710ba249469cae703ceb0355a50a, http://59.97.127.193:37922/bin.sh
-258027, 2024-10-03 04:25:12, 2024-10-03 04:25:12, malware, 6a216555878a4b45a517f531655a59f0, http://59.93.227.10:55184/bin.sh
-258026, 2024-10-03 04:25:09, 2024-10-03 04:25:09, malware, 6740ae0b9dfc4e03ae713296f27604f6, http://59.89.71.184:33143/bin.sh
-258025, 2024-10-03 04:25:00, 2024-10-03 04:25:00, malware, 8a35d2523b6c4a29a883cc0153956abe, http://59.89.24.44:44850/bin.sh
-258024, 2024-10-03 04:24:58, 2024-10-03 04:24:58, malware, ccc5bf77b04f40559ddd611ef7ae4495, http://59.89.203.153:54229/i
-258023, 2024-10-03 04:24:56, 2024-10-03 04:24:56, malware, ef3c0ebdfff248ae835b3e6cff04bb98, http://59.184.60.219:45592/bin.sh
-258022, 2024-10-03 04:24:34, 2024-10-03 04:24:34, malware, 6a6c02bfe3a44aa385652b326ff353e3, http://42.235.91.29:44522/bin.sh
-258021, 2024-10-03 04:24:23, 2024-10-03 04:24:23, malware, cb77b426c25a48ac9802f218d75a1c8e, http://36.49.35.224:46290/i
-258020, 2024-10-03 04:24:21, 2024-10-03 04:24:21, malware, c8c0641f91c4405f9ce276918a4468ff, http://27.215.179.99:54960/i
-258019, 2024-10-03 04:24:17, 2024-10-03 04:24:17, malware, 3e39863fbbf84c4481f242b4d4012c06, http://222.141.36.196:41408/i
-258018, 2024-10-03 04:24:15, 2024-10-03 04:24:15, malware, a276a88d33ba4e1486530a2b44b52bb1, http://222.139.53.139:41330/Mozi.m
-258017, 2024-10-03 04:24:12, 2024-10-03 04:24:12, malware, 4bb98d5027dc4adb9ab8fc56467e2844, http://222.139.53.139:41330/
-258016, 2024-10-03 04:24:10, 2024-10-03 04:24:10, malware, dd52c34889fb442cbbac4c54a8a6cc1f, http://222.138.74.187:42281/Mozi.m
-258015, 2024-10-03 04:24:08, 2024-10-03 04:24:08, malware, 6de427f0330048e381b313ccc3af6fb5, http://222.138.72.14:50637/i
-258014, 2024-10-03 04:24:06, 2024-10-03 04:24:06, malware, a46aeaaa8ae74275ba1fbdbe466be527, http://221.3.70.159:40714/Mozi.m
