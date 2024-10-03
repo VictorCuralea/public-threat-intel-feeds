@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-03 09:00:01 UTC
+# UPDATE: 2024-10-03 10:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+258224, 2024-10-03 09:46:13, 2024-10-03 09:46:13, phishing, fa3292ef03ae660bdf936354ed8e6a30, http://suivi-cartevitale.fr
+258223, 2024-10-03 09:40:10, 2024-10-03 09:40:10, phishing, ab282d194071f78df2448c0a352dd99a, http://kenduinuprojects.pages.dev
+258222, 2024-10-03 09:38:13, 2024-10-03 09:38:13, phishing, 7ec5dac2a6835d8683af4c723a907f30, http://eanindasiraislem.app
+258221, 2024-10-03 09:28:12, 2024-10-03 09:28:12, phishing, 075b5352f4e4c4152ef2c994ffc5a3b5, https://happytoseeu.de/login/MitID/
 258220, 2024-10-03 08:51:42, 2024-10-03 08:42:15, phishing, 8a1f38c2469ed2131d39588f68fb751f, https://btbroadband.framer.website/
 258219, 2024-10-03 08:51:27, 2024-10-03 08:40:17, phishing, 5641cd4d1c692d2fcdf543914374debf, https://charismatic-objects-678420.framer.app/
 258218, 2024-10-03 08:51:09, 2024-10-03 08:51:09, phishing, 1522ff3a4cac7840438ece0d66982459, https://bt-105278.weeblysite.com
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 257727, 2024-10-02 20:24:40, 2024-10-02 20:24:40, malware, 4a6c8a087d8542a293dcce803ec837a9, http://182.126.115.95:40999/i
 257726, 2024-10-02 20:24:38, 2024-10-02 20:24:38, malware, b63ef1f91d254db58b531d5e1a1c6c13, http://182.126.103.196:55245/i
 257725, 2024-10-02 20:24:35, 2024-10-02 20:24:35, malware, fd54d205a96a45a28d598c8df4102d31, http://182.117.79.47:36642/bin.sh
-257724, 2024-10-02 20:24:32, 2024-10-02 20:24:32, malware, 77858730d12d42daabe2a09f9182c8ef, http://182.116.117.237:41105/Mozi.m
-257723, 2024-10-02 20:24:21, 2024-10-02 20:24:21, malware, 56b6ad42ded7407db3cc2370c585a746, http://182.113.46.78:52726/bin.sh
-257722, 2024-10-02 20:24:14, 2024-10-02 20:24:14, phishing, eaee851a9303124f6733b0f69890d521, http://whctsapp-cc.com
-257721, 2024-10-02 20:24:08, 2024-10-02 20:24:08, malware, fc30da442b1e4613af1a1c1b332a94fe, http://125.44.23.33:50609/i
