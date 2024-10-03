@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-03 05:00:02 UTC
+# UPDATE: 2024-10-03 06:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+258034, 2024-10-03 05:50:19, 2024-10-03 05:50:19, phishing, e324ad82df346f9b5013dd594e47665f, https://alzeer.ch/cgi/
+258033, 2024-10-03 05:50:18, 2024-10-03 05:50:18, phishing, b4e92523f4024dd61b9913e3b6b16dab, http://eguncelform.online
+258032, 2024-10-03 05:42:14, 2024-10-03 05:42:14, phishing, ec802f55e4c41abe24d0cf254d157ad2, https://huminnov.org/wp-content/mu-plugins/fr/fr/1/doc/start_index.php
+258031, 2024-10-03 05:40:19, 2024-10-03 05:40:19, phishing, 5e9083be1f10ff7a08128acfca9eea96, https://zazaconcierge.com/js/source/
 258030, 2024-10-03 04:25:41, 2024-10-03 04:25:41, malware, 100dd64be5dc426d80d1b85610f25995, http://61.54.197.189:47234/i
 258029, 2024-10-03 04:25:31, 2024-10-03 04:25:31, malware, 9890c411a1404dd68906cf7ed9b58f0a, http://61.3.27.73:43141/bin.sh
 258028, 2024-10-03 04:25:16, 2024-10-03 04:25:16, malware, f1cc710ba249469cae703ceb0355a50a, http://59.97.127.193:37922/bin.sh
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 257473, 2024-10-02 15:21:02, 2024-10-02 15:21:02, malware, c0da1ee8740f45a3aa5a0a3cfe323287, http://125.44.23.33:50609/
 257472, 2024-10-02 15:21:00, 2024-10-02 15:21:00, malware, 6054414c863046718144f119413706c5, http://125.40.145.205:49095/
 257471, 2024-10-02 15:20:46, 2024-10-02 15:20:46, malware, fa236e0a606e40da9bb1e32a8f169ea1, http://123.4.72.22:45983/bin.sh
-257470, 2024-10-02 15:20:37, 2024-10-02 15:20:37, malware, 271e3cff92f44bbea9258c627476e38b, http://123.12.225.145:54505/bin.sh
-257469, 2024-10-02 15:20:24, 2024-10-02 15:20:24, malware, a143d7eb9faa4184ae08a63d08547ed9, http://123.10.209.18:53793/i
-257468, 2024-10-02 15:20:18, 2024-10-02 15:20:18, malware, 988bbe7cf1a04bfa8380175caccb668b, http://121.236.44.51:33328/i
-257467, 2024-10-02 15:20:08, 2024-10-02 15:20:08, malware, ecddcca3f4b14e5396d025ce59a414ad, http://119.179.236.208:45599/bin.sh
