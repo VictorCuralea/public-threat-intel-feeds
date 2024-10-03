@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-03 15:00:02 UTC
+# UPDATE: 2024-10-03 16:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+258419, 2024-10-03 15:24:33, 2024-10-03 14:34:15, phishing, 038e4f05be5fdec3411b2a4d13584fc6, https://lxggzvxted.preview-beefreedesign.com/A96B
+258418, 2024-10-03 15:10:16, 2024-10-03 15:10:16, phishing, f42368fe0fdd8bce9b6f1799285d199a, https://sistematsg.com/wp-admin/Tracking/
 258417, 2024-10-03 14:32:19, 2024-10-03 14:32:19, phishing, 22737ef1c24cf752156516be62429642, http://whnatsapp-tw.com
 258416, 2024-10-03 14:29:25, 2024-10-03 14:29:25, malware, 4d0605cef7694fd1998c248ffb968c99, http://playd.healthnlife.pk/ldms/a43486128347.exe
 258415, 2024-10-03 14:29:21, 2024-10-03 14:29:21, malware, 42da3f52209a47d99330e4c26d3f589c, http://69.165.65.90/bins/speedtest-cli.sh
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 257922, 2024-10-03 00:34:37, 2024-10-03 00:34:37, malware, 82067c9c73574388bed3a7f791bd7553, http://bestmagazineforanimalsunicum.ru/download/svc.exe
 257921, 2024-10-03 00:34:33, 2024-10-03 00:34:33, malware, e784f6747e9d4451a85b5b59d894cb27, http://96.33.218.253:53311/Mozi.m
 257920, 2024-10-03 00:34:10, 2024-10-03 00:34:10, malware, b522a80fe6174007af306d6e0795fa67, http://95.134.3.64:43909/i
-257919, 2024-10-03 00:34:09, 2024-10-03 00:34:09, malware, 26609c0e612b450c9898ef9c31b3551e, http://95.134.3.64:43909/bin.sh
-257918, 2024-10-03 00:34:08, 2024-10-03 00:34:08, malware, 0a5965169c6d4bc99c071ccd10e28ea7, http://95.134.3.64:43909/
