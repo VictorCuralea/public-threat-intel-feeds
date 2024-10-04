@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-10-04 05:24:14 UTC                        #
+# Last updated: 2024-10-04 09:19:46 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ansss2608.duckdns.org
 127.0.0.1	02oct.duckdns.org
 127.0.0.1	randomized.sytes.net
 127.0.0.1	pc-star.fi
@@ -9054,4 +9055,4 @@
 127.0.0.1	bbystealer.xyz
 127.0.0.1	ipv6.beijing-qax.top
 127.0.0.1	canarapay-f5agf9ccgteqbpg2.z03.azurefd.net
-# Number of entries: 9048
+# Number of entries: 9049
