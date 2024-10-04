@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-10-03 19:21:28 UTC                        #
+# Last updated: 2024-10-04 00:02:54 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	www.mozg55.com
+127.0.0.1	semurox.com
 127.0.0.1	opewolumeras.com
 127.0.0.1	dlink.cfd
 127.0.0.1	frank.dlink.cfd
@@ -9050,4 +9052,4 @@
 127.0.0.1	ipv6.beijing-qax.top
 127.0.0.1	canarapay-f5agf9ccgteqbpg2.z03.azurefd.net
 127.0.0.1	chu-healthcare-infra.org
-# Number of entries: 9044
+# Number of entries: 9046
