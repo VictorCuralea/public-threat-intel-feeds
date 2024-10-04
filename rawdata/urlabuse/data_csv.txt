@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-04 07:00:01 UTC
+# UPDATE: 2024-10-04 08:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+259656, 2024-10-04 07:30:14, 2024-10-04 07:30:14, phishing, d3539b715365ced35157ff5886969380, https://asjksdjhjss.weebly.com/
+259525, 2024-10-04 07:22:15, 2024-10-04 07:22:15, phishing, a3c58607612a59d329f111cfa9145557, http://syncdappsresolvers.pages.dev
 259461, 2024-10-04 06:32:16, 2024-10-04 06:32:16, phishing, 4511f40176673a840a1617e45cdd6f28, https://boxpos.ehost-services239.com/twint.ch/login.php
 259460, 2024-10-04 06:30:15, 2024-10-04 06:30:15, phishing, 252c910a7447ab7794ab44de346061fa, https://kxs.gin.mybluehost.me/d/ONE/
 259459, 2024-10-04 06:26:19, 2024-10-04 06:26:19, phishing, 1d14cfbc15decaae1b45d2933f7b498f, http://livemigraznsvtwo.pages.dev
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 258305, 2024-10-03 12:23:32, 2024-10-03 12:23:32, malware, 63c6bc3c6de84aa38fb34a59555cfc79, http://222.138.150.119:55203/i
 258304, 2024-10-03 12:23:29, 2024-10-03 12:23:29, malware, 39af33723344430dad878f90d2f04e38, http://222.138.116.83:58355/bin.sh
 258303, 2024-10-03 12:23:19, 2024-10-03 12:23:19, malware, ed79890117804869b972211e9b6b2ffa, http://182.126.66.171:47228/i
-258302, 2024-10-03 12:23:17, 2024-10-03 12:23:17, malware, e0859c11cdcb438ea42f936b372128d4, http://182.121.138.164:59629/i
-258301, 2024-10-03 12:23:15, 2024-10-03 12:23:15, malware, ea2ae8627a1f422096cf0824c9a401b2, http://182.116.12.87:49601/i
