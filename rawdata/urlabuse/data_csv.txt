@@ -6,9 +6,14 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-04 05:00:02 UTC
+# UPDATE: 2024-10-04 06:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+259426, 2024-10-04 05:54:14, 2024-10-04 05:54:14, phishing, e609b92917ade1127d1276b8bb384411, https://bctxpha.ehost-services238.com/twint.ch/login.php
+259425, 2024-10-04 05:48:15, 2024-10-04 05:48:15, phishing, 897ad45af9e4884d5f40f95a221a0405, http://msbreewcviralterbaru.private-live.web.id
+259424, 2024-10-04 05:10:15, 2024-10-04 05:10:15, phishing, 13045d5756cdb6896b5519928eea09c9, http://securetoken-chart.pages.dev
+259423, 2024-10-04 05:08:17, 2024-10-04 05:08:17, phishing, fd44466fe338109c1ce94f5d9d859e98, http://if-telegram.org
+259422, 2024-10-04 05:06:13, 2024-10-04 05:06:13, phishing, 0a9706d9da6088ac02b7a8ef22f9622d, http://eguncelform.com.tr
 259421, 2024-10-04 04:24:36, 2024-10-04 04:24:36, malware, aff85c8fdc804f54ace63b5b6d8762bc, http://59.99.209.233:55877/i
 259420, 2024-10-04 04:24:33, 2024-10-04 04:24:33, malware, cdc25eee4a87469980ca3b8914b98a96, http://59.96.210.186:36238/i
 259419, 2024-10-04 04:24:18, 2024-10-04 04:24:18, malware, 1daebdde116045aaaeba6fe0c98e01c4, http://59.95.84.148:40359/bin.sh
@@ -504,8 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 258268, 2024-10-03 10:27:55, 2024-10-03 10:27:55, malware, e138fb278d6d4b98884fc5d4c81c312e, http://59.94.150.64:55472/bin.sh
 258267, 2024-10-03 10:27:22, 2024-10-03 10:27:22, malware, cef0abfc85fb41d1addb82b1371748e3, http://59.54.88.92:47423/i
 258266, 2024-10-03 10:27:19, 2024-10-03 10:27:19, malware, b7c87a6905374e6e87676c433bc89b97, http://59.54.88.92:47423/bin.sh
-258265, 2024-10-03 10:27:06, 2024-10-03 10:27:06, malware, ff76f583afe04f0a9b4fd753175ea056, http://59.184.49.255:34065/i
-258264, 2024-10-03 10:26:43, 2024-10-03 10:26:43, malware, 4d58fe138851421faffd2d36250fda06, http://59.183.130.112:57845/i
-258263, 2024-10-03 10:26:41, 2024-10-03 10:26:41, malware, 737b9cb5b2fa4b8f9db7392a1ecc1576, http://59.182.107.134:60341/bin.sh
-258262, 2024-10-03 10:26:37, 2024-10-03 10:26:37, malware, c486ef08181f46c2a9b780b5e7ff245b, http://59.178.240.253:40946/
-258261, 2024-10-03 10:26:35, 2024-10-03 10:26:35, malware, 933b64cf696b4ff4b591285f2bac7569, http://42.235.93.58:45060/bin.sh
