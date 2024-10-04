@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-04 11:00:01 UTC
+# UPDATE: 2024-10-04 12:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+259963, 2024-10-04 11:44:26, 2024-10-04 11:44:26, phishing, 6f1a0ccf9b2961afcf06f3b93a071eeb, https://ant.maxformaacademias.com.br/antiq/newantai/
+259962, 2024-10-04 11:44:09, 2024-10-04 11:42:12, phishing, e1bef957a412ea60df6565f4ffe6623f, https://portatifflogs.web.app/
+259961, 2024-10-04 11:31:57, 2024-10-04 11:26:17, phishing, d1d27642405daead967f6dfc5bcf3ed2, https://shoutout.wix.com/so/16P9ND9Ls?languageTag=en
+259960, 2024-10-04 11:31:43, 2024-10-04 11:20:14, phishing, 17a7fd5f1b76d5abba78216cbf12e3ab, https://pub-8e59d00ee62d41dd8859104da4492229.r2.dev/SimulationandRenderingroun.html#@
 259959, 2024-10-04 10:56:17, 2024-10-04 10:56:17, phishing, 5c33dcc0679270a647b62ffb8cdd9de5, http://1.12315fe.cc
 259941, 2024-10-04 10:33:44, 2024-10-04 10:33:44, phishing, 68f2daaafe0a4d8d02b49d9d3ff5be01, https://track.adform.net/C/?bn=35405429;cpdir=https%3A%2F%2Fsdbios.com.br/image/?va=
 259940, 2024-10-04 10:31:40, 2024-10-04 10:31:40, phishing, 8f8677230d941b4c8b705432b4e74c5e, http://docsh29394.s3-website.us-east-2.amazonaws.com/P97P0Z/JHD4LY/2RCGJT/
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 258372, 2024-10-03 14:24:17, 2024-10-03 14:24:17, malware, 0f9c9c72d31a4748bec3a50d68d9bbce, http://117.248.60.118:50748/i
 258371, 2024-10-03 14:24:16, 2024-10-03 14:24:16, malware, 58923638fb9841a097b08c5ed5b99ff8, http://117.248.60.118:50748/bin.sh
 258370, 2024-10-03 14:22:55, 2024-10-03 14:22:55, malware, 5add031abcbe4e878f32c4c30ea876cc, http://117.219.90.16:35434/i
-258369, 2024-10-03 14:22:52, 2024-10-03 14:22:52, malware, 5722f14d2181473c9148ca0a19077958, http://117.219.90.16:35434/bin.sh
-258368, 2024-10-03 14:22:31, 2024-10-03 14:22:31, malware, b1cabb95f0f143bba1aa87cc70c70497, http://117.219.171.5:47373/Mozi.m
-258367, 2024-10-03 14:22:21, 2024-10-03 14:22:21, malware, 51928417f444486fa6e39e452068dc93, http://117.211.253.161:55815/bin.sh
-258366, 2024-10-03 14:21:58, 2024-10-03 14:21:58, malware, e1586b8052b54ce6bca052fb879f82be, http://117.209.85.106:51996/bin.sh

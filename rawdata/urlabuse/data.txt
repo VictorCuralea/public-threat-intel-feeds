@@ -6,8 +6,12 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-04 11:00:01 UTC
+# UPDATE: 2024-10-04 12:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 259963, "url": "https://ant.maxformaacademias.com.br/antiq/newantai/", "discovery": "2024-10-04 11:44:26", "added": "2024-10-04 11:44:26", "target": "FR-GOV", "reporter": "urlabuse", "AbuseType": "phishing", "UUID": "6f1a0ccf9b2961afcf06f3b93a071eeb"}
+{"id": 259962, "url": "https://portatifflogs.web.app/", "discovery": "2024-10-04 11:42:12", "added": "2024-10-04 11:44:09", "target": "FR-GOV", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "e1bef957a412ea60df6565f4ffe6623f"}
+{"id": 259961, "url": "https://shoutout.wix.com/so/16P9ND9Ls?languageTag=en", "discovery": "2024-10-04 11:26:17", "added": "2024-10-04 11:31:57", "target": "one", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "d1d27642405daead967f6dfc5bcf3ed2"}
+{"id": 259960, "url": "https://pub-8e59d00ee62d41dd8859104da4492229.r2.dev/SimulationandRenderingroun.html#@", "discovery": "2024-10-04 11:20:14", "added": "2024-10-04 11:31:43", "target": "Generic Phishing", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "17a7fd5f1b76d5abba78216cbf12e3ab"}
 {"id": 259959, "url": "http://1.12315fe.cc", "discovery": "2024-10-04 10:56:17", "added": "2024-10-04 10:56:17", "target": "Telegram", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "5c33dcc0679270a647b62ffb8cdd9de5"}
 {"id": 259941, "url": "https://track.adform.net/C/?bn=35405429;cpdir=https%3A%2F%2Fsdbios.com.br/image/?va=", "discovery": "2024-10-04 10:33:44", "added": "2024-10-04 10:33:44", "target": "Generic Email", "reporter": "urlabuse", "AbuseType": "phishing", "UUID": "68f2daaafe0a4d8d02b49d9d3ff5be01"}
 {"id": 259940, "url": "http://docsh29394.s3-website.us-east-2.amazonaws.com/P97P0Z/JHD4LY/2RCGJT/", "discovery": "2024-10-04 10:31:40", "added": "2024-10-04 10:31:40", "target": "Generic Email", "reporter": "GovCERT-CH", "AbuseType": "phishing", "UUID": "8f8677230d941b4c8b705432b4e74c5e"}
@@ -504,7 +508,3 @@
 {"id": 258372, "url": "http://117.248.60.118:50748/i", "discovery": "2024-10-03 14:24:17", "added": "2024-10-03 14:24:17", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "0f9c9c72d31a4748bec3a50d68d9bbce"}
 {"id": 258371, "url": "http://117.248.60.118:50748/bin.sh", "discovery": "2024-10-03 14:24:16", "added": "2024-10-03 14:24:16", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "58923638fb9841a097b08c5ed5b99ff8"}
 {"id": 258370, "url": "http://117.219.90.16:35434/i", "discovery": "2024-10-03 14:22:55", "added": "2024-10-03 14:22:55", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "5add031abcbe4e878f32c4c30ea876cc"}
-{"id": 258369, "url": "http://117.219.90.16:35434/bin.sh", "discovery": "2024-10-03 14:22:52", "added": "2024-10-03 14:22:52", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "5722f14d2181473c9148ca0a19077958"}
-{"id": 258368, "url": "http://117.219.171.5:47373/Mozi.m", "discovery": "2024-10-03 14:22:31", "added": "2024-10-03 14:22:31", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "b1cabb95f0f143bba1aa87cc70c70497"}
-{"id": 258367, "url": "http://117.211.253.161:55815/bin.sh", "discovery": "2024-10-03 14:22:21", "added": "2024-10-03 14:22:21", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "51928417f444486fa6e39e452068dc93"}
-{"id": 258366, "url": "http://117.209.85.106:51996/bin.sh", "discovery": "2024-10-03 14:21:58", "added": "2024-10-03 14:21:58", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "e1586b8052b54ce6bca052fb879f82be"}
