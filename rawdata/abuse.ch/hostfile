@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-10-04 09:19:46 UTC                        #
+# Last updated: 2024-10-04 13:17:24 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	babygift-abbe.wp1.site
 127.0.0.1	ansss2608.duckdns.org
 127.0.0.1	02oct.duckdns.org
 127.0.0.1	randomized.sytes.net
@@ -9046,13 +9047,4 @@
 127.0.0.1	njpantalla.4cloud.click
 127.0.0.1	oraclecloudsig.com
 127.0.0.1	lesserafimeasy.site
-127.0.0.1	nt-stealer.com
-127.0.0.1	nt-stealer.online
-127.0.0.1	bbystealer.com.tr
-127.0.0.1	nt-stealer.xyz
-127.0.0.1	bbystealer.online
-127.0.0.1	bbystealer.com
-127.0.0.1	bbystealer.xyz
-127.0.0.1	ipv6.beijing-qax.top
-127.0.0.1	canarapay-f5agf9ccgteqbpg2.z03.azurefd.net
-# Number of entries: 9049
+# Number of entries: 9041
