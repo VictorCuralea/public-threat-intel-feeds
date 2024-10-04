@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-03 23:00:01 UTC
+# UPDATE: 2024-10-04 00:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+259286, 2024-10-03 23:36:11, 2024-10-03 23:36:11, phishing, f5b5ea5416e6b4b90547ef68bd25f65a, http://photon-pxrpptest.pages.dev
 259285, 2024-10-03 22:44:10, 2024-10-03 22:44:10, phishing, d2c6f68553d2d0fb544578193cfd0b5b, https://semanticservices.ciamlogin.com/d500c40a-3174-4206-bdb5-4b27519b8862/oauth2/v2.0/authorize?client_id=bd01faee-d675-4a29-ae8a-76ec3b3deccb&redirect_uri=https%3A%2F%2Fportal.semanticservices.de%2Fsignin-oidc&response_type=code&scope=openid%20profile%20offline_access&code_challenge=vsIc6LwZcRYsNDPm0q70fGE17TiS4Jw8OtFckZJ-gMw&code_challenge_method=S256&response_mode=form_post&nonce=638635921246038414.ZWEyMDAzZjUtNWYzMi00ZjgyLWI4NGEtZjk3MWI2MjM4MDQ0NjIzYWY3ZGMtNTNhYy00MmEzLTljNTItZjBhYTkwZGU0NmM2&client_info=1&x-client-brkrver=IDWeb.2.15.3.0&state=CfDJ8Dzu9weDSUhLjL4TvDyZGU1a4Ze0epSJEqCksTvy_S4-ql4DM9edDOZ8LqvY5liLczybO32CFSczUsvejkIwSNd79lDTuzbYuQ8KHVve9TBd-vXS_8aL-ULKbJQIo6U8_TGX_shWiDCRWYRkR-60LkpvyhI98pUJFTDtjHbCz1EI6-4mOfEa2hnr_o4xaHHElU3x0scP8Q37w37X7hvsnVNGm-6FBtNF2jlLb4wD5To9D7oLrBaZZfd8EAOsg8LuFETYiOM9NuXwLCPxczSZPl1pjDyqBaU8XLKIhaJ8RhZci1FF3HW_1e40HuVVqpfhBe_jWDVDtHHmkaLxN5Et-E1TfHxkSdZHg6vOMEVca69SLF0UaShChhkJQLhYJhpDZg&x-client-SKU=ID_NET6_0&x-client-ver=6.33.0.0
 259284, 2024-10-03 22:42:11, 2024-10-03 22:42:11, phishing, 8dcbd9d0860fcd0331e2e165771473f6, http://portal.semanticservices.de
 259283, 2024-10-03 22:41:00, 2024-10-03 22:36:14, phishing, b6c76bf83d946f8110e8524e6d23e63f, https://ee-mta-tagasimakse.web.app/Autentimine
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 258128, 2024-10-03 06:24:28, 2024-10-03 06:24:28, malware, f92653cc3e4d4e3ea691973423cc0001, http://222.140.182.131:40605/bin.sh
 258127, 2024-10-03 06:24:25, 2024-10-03 06:24:25, malware, 227d296a96f74f9eab61c04924dba939, http://222.138.21.240:33412/bin.sh
 258126, 2024-10-03 06:24:24, 2024-10-03 06:24:24, malware, 5bc2cf71a9f94fe6a610c22ad18e29b8, http://222.136.143.197:56876/
-258125, 2024-10-03 06:24:21, 2024-10-03 06:24:21, malware, ace70b273a8747c0b96c276617659ab7, http://221.15.78.4:54450/Mozi.m
