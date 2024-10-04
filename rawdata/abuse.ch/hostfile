@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-10-04 13:17:24 UTC                        #
+# Last updated: 2024-10-04 14:42:12 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	winddows.duckdns.org
 127.0.0.1	babygift-abbe.wp1.site
 127.0.0.1	ansss2608.duckdns.org
 127.0.0.1	02oct.duckdns.org
@@ -9047,4 +9048,4 @@
 127.0.0.1	njpantalla.4cloud.click
 127.0.0.1	oraclecloudsig.com
 127.0.0.1	lesserafimeasy.site
-# Number of entries: 9041
+# Number of entries: 9042
