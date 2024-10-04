@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-04 01:00:01 UTC
+# UPDATE: 2024-10-04 02:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+259333, 2024-10-04 01:24:15, 2024-10-04 01:24:15, phishing, 8323d28136d08de751e6448c49c4a573, http://matmo-ccapp.pages.dev
+259332, 2024-10-04 01:02:19, 2024-10-04 01:02:19, phishing, 671ded7f13a89ce46d3128bd78c3ac4b, https://telegram.dog/AnyDLBot
 259331, 2024-10-04 00:26:44, 2024-10-04 00:26:44, malware, 75b936bcbf8545fd9c6c5ba5e6e9df6e, http://61.53.119.26:41927/i
 259330, 2024-10-04 00:26:42, 2024-10-04 00:26:42, malware, f42513461c5f4a1ca18bcb6d9bf99262, http://61.3.139.84:38143/bin.sh
 259329, 2024-10-04 00:26:32, 2024-10-04 00:26:32, malware, 46d9bca54e20436dbe1c0ed094c03ab8, http://59.99.129.152:43702/bin.sh
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 258175, 2024-10-03 08:20:20, 2024-10-03 08:20:20, malware, fe9c9ba2293140b0b8c0ecf41593777c, http://115.55.182.184:33433/i
 258174, 2024-10-03 08:20:18, 2024-10-03 08:20:18, malware, c58c3760e65f40d79673c51c100bcd07, http://115.51.103.164:49555/i
 258173, 2024-10-03 08:20:16, 2024-10-03 08:20:16, malware, e30ce951bf0e400b95b733ee491f5613, http://115.50.217.184:40447/
-258172, 2024-10-03 08:20:14, 2024-10-03 08:20:14, malware, 6ba9bcb42fee42ddb869d32ac066fb6b, http://113.24.131.0:59659/
-258171, 2024-10-03 08:20:09, 2024-10-03 08:20:09, malware, d24b63d5e0b54938b7c6fe906f2d96b8, http://112.242.148.110:35978/i
