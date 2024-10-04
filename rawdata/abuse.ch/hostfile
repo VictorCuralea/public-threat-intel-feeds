@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-10-04 19:49:25 UTC                        #
+# Last updated: 2024-10-04 20:47:00 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ekcdn.top
+127.0.0.1	obobobo.com
+127.0.0.1	pobegskichi.com
+127.0.0.1	sosachwaffen.com
+127.0.0.1	cortanava.duckdns.org
 127.0.0.1	hit-check.com
 127.0.0.1	winddows.duckdns.org
 127.0.0.1	babygift-abbe.wp1.site
@@ -9048,4 +9053,4 @@
 127.0.0.1	kingjoker420.ddnsking.com
 127.0.0.1	njpantalla.4cloud.click
 127.0.0.1	oraclecloudsig.com
-# Number of entries: 9042
+# Number of entries: 9047
