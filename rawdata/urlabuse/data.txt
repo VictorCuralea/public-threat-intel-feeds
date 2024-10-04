@@ -6,8 +6,12 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-04 15:00:02 UTC
+# UPDATE: 2024-10-04 16:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 260143, "url": "https://testdevmyteam.sviluppo.host/ext/login.html", "discovery": "2024-10-04 15:48:15", "added": "2024-10-04 15:48:15", "target": "CSS", "reporter": "urlabuse", "AbuseType": "phishing", "UUID": "ce618a812d8c671f77f9505d84c6f297"}
+{"id": 260142, "url": "https://deltasigma.it/wp/", "discovery": "2024-10-04 15:14:14", "added": "2024-10-04 15:48:05", "target": "CSS", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "74740c18eaeda7017a2851c3965efd4f"}
+{"id": 260141, "url": "https://zd-eiam-admin-ch.com/chlogin/66fda21670150", "discovery": "2024-10-04 15:00:26", "added": "2024-10-04 15:47:39", "target": "CH-GOV", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "c0350e0e3909b41772aba0fbd790af00"}
+{"id": 260140, "url": "https://dapp-webpro.pages.dev/$", "discovery": "2024-10-04 15:47:22", "added": "2024-10-04 15:47:22", "target": "Crypto", "reporter": "urlabuse", "AbuseType": "phishing", "UUID": "f990fe6338e93a5db4e0fca844d3448f"}
 {"id": 260125, "url": "https://swisstax-verification.com/", "discovery": "2024-10-04 14:48:12", "added": "2024-10-04 14:48:12", "target": "CH-GOV", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "5e57489f054684adec865942df0aaf9b"}
 {"id": 260124, "url": "http://61.3.23.91:44656/i", "discovery": "2024-10-04 14:27:47", "added": "2024-10-04 14:27:47", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "e706807407a4408fb624ac2c443eae62"}
 {"id": 260123, "url": "http://61.2.29.214:52270/Mozi.m", "discovery": "2024-10-04 14:27:35", "added": "2024-10-04 14:27:35", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "a3dddf9f2cc94e0fa305d6b6a64e2698"}
@@ -504,7 +508,3 @@
 {"id": 259130, "url": "http://115.54.163.165:57602/i", "discovery": "2024-10-03 18:20:30", "added": "2024-10-03 18:20:30", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "8fe1f932a7274f589d7a4cef9a473996"}
 {"id": 259129, "url": "http://113.64.250.2:43451/i", "discovery": "2024-10-03 18:20:19", "added": "2024-10-03 18:20:19", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "c853c3b7b67747bb89ba6a2b13c6801d"}
 {"id": 259128, "url": "http://113.26.235.148:45620/bin.sh", "discovery": "2024-10-03 18:20:17", "added": "2024-10-03 18:20:17", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "e2282edc8156429fb798e915793af0e9"}
-{"id": 259127, "url": "https://docs.google.com/presentation/d/e/2PACX-1vT5U7talc5_DflV-2ZEE8bARXN4sfAcOhH0Mhr-ZTA1ZJRip8GaM_PT_Otrqn-PY8rSGmPOSjKgfuPg/pub?start=false", "discovery": "2024-10-03 17:56:16", "added": "2024-10-03 17:56:16", "target": "Other", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "2ed9888170714c975b282ba14cdf3d9a"}
-{"id": 259126, "url": "http://sac.andradedeveloper.net", "discovery": "2024-10-03 17:38:15", "added": "2024-10-03 17:38:15", "target": "Whatsapp", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "b9a996d51734b162e4225d7a33d4c21e"}
-{"id": 259089, "url": "http://nur-miranda-free-content.private-live.web.id", "discovery": "2024-10-03 17:16:14", "added": "2024-10-03 17:16:14", "target": "Telegram", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "f14d60313d47e657dc43a84a824aeb16"}
-{"id": 259087, "url": "http://telegromb.com", "discovery": "2024-10-03 17:14:32", "added": "2024-10-03 17:14:32", "target": "Telegram", "reporter": "lruray", "AbuseType": "phishing", "UUID": "9e1e4eeb2757e68ff65e730e48ed581e"}
