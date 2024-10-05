@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-04 23:00:02 UTC
+# UPDATE: 2024-10-05 00:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+260332, 2024-10-04 23:06:23, 2024-10-04 23:06:23, phishing, e6906c51376805fea50c9fcc5b713650, http://livemigraznesvtwo.pages.dev
+260331, 2024-10-04 23:06:15, 2024-10-04 23:06:15, phishing, 604035c86f6d9252c1292f7fb6837905, http://livemigraznesvtwo.pages.dev
 260330, 2024-10-04 22:50:11, 2024-10-04 22:50:11, phishing, 32250da71ab1d887b5181edd642a58ea, http://mainnetdebug.pages.dev
 260329, 2024-10-04 22:24:48, 2024-10-04 22:24:48, malware, 93fa99b896b44b4cae4dbc7ef68f50f0, http://jask.powerforxes.shop/ldms/a43486128347.exe
 260328, 2024-10-04 22:24:46, 2024-10-04 22:24:46, malware, 388cb0b0a91a4322b83804c0e0dcddc5, http://hans.uniformeslaamistad.com/yuop/66e5ac6b74d82_Pink_0x000872A650EA3FB.exe
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 259317, 2024-10-04 00:23:47, 2024-10-04 00:23:47, malware, 61da87026c0542a7b14ba9d56f7f46f8, http://222.136.139.112:52325/i
 259316, 2024-10-04 00:23:45, 2024-10-04 00:23:45, malware, 28bb303c82714035a8fcc92581b7aed0, http://222.136.139.112:52325/bin.sh
 259315, 2024-10-04 00:23:43, 2024-10-04 00:23:43, malware, d79d04872a2c403590980973cd162add, http://221.15.225.123:53807/Mozi.m
-259314, 2024-10-04 00:23:41, 2024-10-04 00:23:41, malware, 2c89041513c5466a812470ad98ee33c2, http://221.15.162.146:42713/Mozi.m
-259313, 2024-10-04 00:23:36, 2024-10-04 00:23:36, malware, 2c80aca9a9f2453183b516b3c974eab6, http://219.157.28.146:48190/i
