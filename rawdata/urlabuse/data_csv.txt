@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-05 09:00:01 UTC
+# UPDATE: 2024-10-05 10:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+260540, 2024-10-05 09:00:19, 2024-10-05 09:00:19, phishing, 5e85009d6e6d895dbdfc404f93a3a0b4, http://tw-whatssapp.com
+260539, 2024-10-05 09:00:15, 2024-10-05 09:00:15, phishing, f86f44e290b1377cf7869aa4c9bb4bf2, http://recmainnets.pages.dev
 260538, 2024-10-05 08:58:07, 2024-10-05 08:28:04, phishing, e6704e43d903bfca8e6cf33dcf408cc1, https://flerdond.tech/
 260537, 2024-10-05 08:56:19, 2024-10-05 08:56:19, phishing, 20371537cd3d20f50b1c41ff67724a25, http://whaatsapp-twd.com
 260536, 2024-10-05 08:55:38, 2024-10-05 08:26:14, phishing, 7c9c43f4ba38a46879246d2fa584899e, https://bt-107754.weeblysite.com/
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 259941, 2024-10-04 10:33:44, 2024-10-04 10:33:44, phishing, 68f2daaafe0a4d8d02b49d9d3ff5be01, https://track.adform.net/C/?bn=35405429;cpdir=https%3A%2F%2Fsdbios.com.br/image/?va=
 259940, 2024-10-04 10:31:40, 2024-10-04 10:31:40, phishing, 8f8677230d941b4c8b705432b4e74c5e, http://docsh29394.s3-website.us-east-2.amazonaws.com/P97P0Z/JHD4LY/2RCGJT/
 259939, 2024-10-04 10:25:00, 2024-10-04 10:25:00, malware, 66df848b9b234f14a6ef492fc63f64de, http://59.88.10.79:52733/bin.sh
-259938, 2024-10-04 10:24:22, 2024-10-04 10:24:22, malware, 5b3cc8d51da040cebdfdb5c92a677ebd, http://59.183.102.226:52615/Mozi.m
-259937, 2024-10-04 10:24:02, 2024-10-04 10:24:02, malware, 5de00ac706014157941000491f8562a0, http://42.239.75.24:41469/i
