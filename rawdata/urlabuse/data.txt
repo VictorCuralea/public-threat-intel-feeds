@@ -6,8 +6,12 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-05 19:00:01 UTC
+# UPDATE: 2024-10-05 20:00:02 UTC
 ############### END COMMENTS ###############
+{"id": 260919, "url": "http://www.smgases.com/off/indexnew.html", "discovery": "2024-10-05 19:02:53", "added": "2024-10-05 19:02:53", "target": "Microsoft", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "33ee6d41cad67975e185aa90346b271d"}
+{"id": 260918, "url": "http://sfo3.digitaloceanspaces.com/spacefridaypay/attach.html", "discovery": "2024-10-05 19:02:53", "added": "2024-10-05 19:02:53", "target": "Microsoft", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "2b23ef1c04440522bc3e7bb06dad5c7b"}
+{"id": 260917, "url": "https://teiegrom-vf.com/", "discovery": "2024-10-05 19:02:19", "added": "2024-10-05 19:02:19", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "c8788dfa0cc49b6e5e44e051c1b840b3"}
+{"id": 260916, "url": "https://telegram.dog/XTZ_HerokuBot", "discovery": "2024-10-05 19:02:19", "added": "2024-10-05 19:02:19", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "05a57c8155c0d56fa3a814d135d59886"}
 {"id": 260915, "url": "http://59.95.82.174:51440/bin.sh", "discovery": "2024-10-05 18:25:55", "added": "2024-10-05 18:25:55", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "c36f2403031a4462964fb8b4fc420bed"}
 {"id": 260914, "url": "http://59.88.225.215:37671/bin.sh", "discovery": "2024-10-05 18:25:52", "added": "2024-10-05 18:25:52", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "a909fe4126784f2d80609d27a9dfa06c"}
 {"id": 260913, "url": "http://42.235.86.190:60616/bin.sh", "discovery": "2024-10-05 18:25:27", "added": "2024-10-05 18:25:27", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "419beb9c77cf470d8221f3be0d893b4d"}
@@ -504,7 +508,3 @@
 {"id": 260254, "url": "http://115.52.17.169:38089/Mozi.m", "discovery": "2024-10-04 20:20:10", "added": "2024-10-04 20:20:10", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "fc003d3a53554111a5aa1f86dd4f4a79"}
 {"id": 260253, "url": "http://112.239.100.240:60002/bin.sh", "discovery": "2024-10-04 20:20:08", "added": "2024-10-04 20:20:08", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "3626debcdfc0468c8381528a85b25034"}
 {"id": 260252, "url": "http://112.238.15.187:35558/bin.sh", "discovery": "2024-10-04 20:20:06", "added": "2024-10-04 20:20:06", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "a26ba31de51f41e3bf132da2984b0fa1"}
-{"id": 260250, "url": "http://minings-revshares.pages.dev", "discovery": "2024-10-04 19:44:14", "added": "2024-10-04 19:44:14", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "5cebec0360a35cf39cad564bfee05b41"}
-{"id": 260249, "url": "https://jsonstore.sbs/data/6913647369/payment/4dWaVTce/Mellat.php", "discovery": "2024-10-04 19:02:51", "added": "2024-10-04 19:02:51", "target": "Shaparak", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "435f2ae9d466bb8b78ddead86a0cfc34"}
-{"id": 260248, "url": "https://sojbre.freehost.io/SexiGam/payment/index.php", "discovery": "2024-10-04 19:02:49", "added": "2024-10-04 19:02:49", "target": "Shaparak", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "efa3eaa1b90f0c4ee9f9256af4ea50f2"}
-{"id": 260247, "url": "https://gray255692.studio.site/", "discovery": "2024-10-04 17:06:14", "added": "2024-10-04 18:59:12", "target": "BT", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "71c212bffb8fb9ee01c148a4ce43178b"}

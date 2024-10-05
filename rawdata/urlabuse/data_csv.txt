@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-05 19:00:01 UTC
+# UPDATE: 2024-10-05 20:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+260919, 2024-10-05 19:02:53, 2024-10-05 19:02:53, phishing, 33ee6d41cad67975e185aa90346b271d, http://www.smgases.com/off/indexnew.html
+260918, 2024-10-05 19:02:53, 2024-10-05 19:02:53, phishing, 2b23ef1c04440522bc3e7bb06dad5c7b, http://sfo3.digitaloceanspaces.com/spacefridaypay/attach.html
+260917, 2024-10-05 19:02:19, 2024-10-05 19:02:19, phishing, c8788dfa0cc49b6e5e44e051c1b840b3, https://teiegrom-vf.com/
+260916, 2024-10-05 19:02:19, 2024-10-05 19:02:19, phishing, 05a57c8155c0d56fa3a814d135d59886, https://telegram.dog/XTZ_HerokuBot
 260915, 2024-10-05 18:25:55, 2024-10-05 18:25:55, malware, c36f2403031a4462964fb8b4fc420bed, http://59.95.82.174:51440/bin.sh
 260914, 2024-10-05 18:25:52, 2024-10-05 18:25:52, malware, a909fe4126784f2d80609d27a9dfa06c, http://59.88.225.215:37671/bin.sh
 260913, 2024-10-05 18:25:27, 2024-10-05 18:25:27, malware, 419beb9c77cf470d8221f3be0d893b4d, http://42.235.86.190:60616/bin.sh
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 260254, 2024-10-04 20:20:10, 2024-10-04 20:20:10, malware, fc003d3a53554111a5aa1f86dd4f4a79, http://115.52.17.169:38089/Mozi.m
 260253, 2024-10-04 20:20:08, 2024-10-04 20:20:08, malware, 3626debcdfc0468c8381528a85b25034, http://112.239.100.240:60002/bin.sh
 260252, 2024-10-04 20:20:06, 2024-10-04 20:20:06, malware, a26ba31de51f41e3bf132da2984b0fa1, http://112.238.15.187:35558/bin.sh
-260250, 2024-10-04 19:44:14, 2024-10-04 19:44:14, phishing, 5cebec0360a35cf39cad564bfee05b41, http://minings-revshares.pages.dev
-260249, 2024-10-04 19:02:51, 2024-10-04 19:02:51, phishing, 435f2ae9d466bb8b78ddead86a0cfc34, https://jsonstore.sbs/data/6913647369/payment/4dWaVTce/Mellat.php
-260248, 2024-10-04 19:02:49, 2024-10-04 19:02:49, phishing, efa3eaa1b90f0c4ee9f9256af4ea50f2, https://sojbre.freehost.io/SexiGam/payment/index.php
-260247, 2024-10-04 18:59:12, 2024-10-04 17:06:14, phishing, 71c212bffb8fb9ee01c148a4ce43178b, https://gray255692.studio.site/
