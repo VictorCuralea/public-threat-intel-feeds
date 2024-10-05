@@ -6,8 +6,10 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-05 21:00:02 UTC
+# UPDATE: 2024-10-05 22:00:02 UTC
 ############### END COMMENTS ###############
+{"id": 260939, "url": "http://yakafinance-xpubdebugtool.pages.dev", "discovery": "2024-10-05 21:42:11", "added": "2024-10-05 21:42:11", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "9e25d750b97d31b36f99a21ad01a8971"}
+{"id": 260938, "url": "http://tokuo.im", "discovery": "2024-10-05 21:24:17", "added": "2024-10-05 21:24:17", "target": "imToken", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "ce0459f2f8d5701fb0739b705f0fd8b1"}
 {"id": 260937, "url": "http://revshare-reward.pages.dev", "discovery": "2024-10-05 20:54:15", "added": "2024-10-05 20:54:15", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "443e85caa9d0574a7d8bd8c1b8bae8f2"}
 {"id": 260936, "url": "https://login.idenityprotect.sbs/common/oauth2/v2.0/authorize?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&redirect_uri=https%3A%2F%2Fwww.office.com%2Flandingv2&response_type=code%20id_token&scope=openid%20profile%20https%3A%2F%2Fwww.office.com%2Fv2%2FOfficeHome.All&response_mode=form_post&nonce=638637579710954350.ZjMzZjJmN2QtNGNhNS00NzRmLTk4ZGEtY2QwZTFhMDI0MjM3ZjhhMWE4OGItOTdhNC00ZDVmLTg0ZjItNzM4ZmUxYjE2NjI1&ui_locales=en-US&mkt=en-US&client-request-id=09fb02e8-e097-49a4-ade0-2a880dc6629c&state=W0PuYszQNVk96Apbt9m36ObmMVg6H-Up2sVJ94iyE1cWxjkQbMOjKnOaZaylRXn5N2HWQxmsCQJO-gMZK99Owq4I-WSJ58AxwOZAM7Klyc1pyChblY15tnCPakZumZ184hFecFrHbpBTk1AMtQh2Hy9P1vlkTw5yzPov0nX1-BgOEvwnafw8wVi0vUcfNS05rt59CuBeBb7pmj2UDei6Fd_pcIIVCvhW0yh3VsQ_awEx8JXk0t3AuyGEFvx2fVtY-yxRioroKiaRVPbTZQdFdA&x-client-SKU=ID_NET8_0&x-client-ver=7.5.1.0", "discovery": "2024-10-05 20:48:16", "added": "2024-10-05 20:48:16", "target": "Microsoft", "reporter": "lrucbotd", "AbuseType": "phishing", "UUID": "854540b26332437c51889be49a139430"}
 {"id": 260935, "url": "http://idenityprotect.sbs", "discovery": "2024-10-05 20:46:20", "added": "2024-10-05 20:46:20", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "3c2c1a49151b712b25737b90cef0d09c"}
@@ -506,5 +508,3 @@
 {"id": 260273, "url": "http://141.98.7.86/i-5.8-6.Sakura", "discovery": "2024-10-04 20:23:30", "added": "2024-10-04 20:23:30", "target": "#ELF64", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "7cb9dd112039477e8589ed24873474d4"}
 {"id": 260272, "url": "http://141.98.7.86/a-r.m-7.Sakura", "discovery": "2024-10-04 20:23:30", "added": "2024-10-04 20:23:30", "target": "#ELF32CISCO", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "2cdfd35cd7fc4b3aaec90f74ea546c8b"}
 {"id": 260271, "url": "http://125.40.152.252:35250/i", "discovery": "2024-10-04 20:23:30", "added": "2024-10-04 20:23:30", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "cfb4d16d45ee4826a4d14d7c11616e90"}
-{"id": 260270, "url": "http://123.5.168.235:35794/i", "discovery": "2024-10-04 20:23:19", "added": "2024-10-04 20:23:19", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "8d3332da8ca14e8098cbd8049c64a6f7"}
-{"id": 260269, "url": "http://123.4.73.13:36729/bin.sh", "discovery": "2024-10-04 20:23:17", "added": "2024-10-04 20:23:17", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "bf300a84f8b24a3fa94214afaf175739"}

@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-05 21:00:02 UTC
+# UPDATE: 2024-10-05 22:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+260939, 2024-10-05 21:42:11, 2024-10-05 21:42:11, phishing, 9e25d750b97d31b36f99a21ad01a8971, http://yakafinance-xpubdebugtool.pages.dev
+260938, 2024-10-05 21:24:17, 2024-10-05 21:24:17, phishing, ce0459f2f8d5701fb0739b705f0fd8b1, http://tokuo.im
 260937, 2024-10-05 20:54:15, 2024-10-05 20:54:15, phishing, 443e85caa9d0574a7d8bd8c1b8bae8f2, http://revshare-reward.pages.dev
 260936, 2024-10-05 20:48:16, 2024-10-05 20:48:16, phishing, 854540b26332437c51889be49a139430, https://login.idenityprotect.sbs/common/oauth2/v2.0/authorize?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&redirect_uri=https%3A%2F%2Fwww.office.com%2Flandingv2&response_type=code%20id_token&scope=openid%20profile%20https%3A%2F%2Fwww.office.com%2Fv2%2FOfficeHome.All&response_mode=form_post&nonce=638637579710954350.ZjMzZjJmN2QtNGNhNS00NzRmLTk4ZGEtY2QwZTFhMDI0MjM3ZjhhMWE4OGItOTdhNC00ZDVmLTg0ZjItNzM4ZmUxYjE2NjI1&ui_locales=en-US&mkt=en-US&client-request-id=09fb02e8-e097-49a4-ade0-2a880dc6629c&state=W0PuYszQNVk96Apbt9m36ObmMVg6H-Up2sVJ94iyE1cWxjkQbMOjKnOaZaylRXn5N2HWQxmsCQJO-gMZK99Owq4I-WSJ58AxwOZAM7Klyc1pyChblY15tnCPakZumZ184hFecFrHbpBTk1AMtQh2Hy9P1vlkTw5yzPov0nX1-BgOEvwnafw8wVi0vUcfNS05rt59CuBeBb7pmj2UDei6Fd_pcIIVCvhW0yh3VsQ_awEx8JXk0t3AuyGEFvx2fVtY-yxRioroKiaRVPbTZQdFdA&x-client-SKU=ID_NET8_0&x-client-ver=7.5.1.0
 260935, 2024-10-05 20:46:20, 2024-10-05 20:46:20, phishing, 3c2c1a49151b712b25737b90cef0d09c, http://idenityprotect.sbs
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 260273, 2024-10-04 20:23:30, 2024-10-04 20:23:30, malware, 7cb9dd112039477e8589ed24873474d4, http://141.98.7.86/i-5.8-6.Sakura
 260272, 2024-10-04 20:23:30, 2024-10-04 20:23:30, malware, 2cdfd35cd7fc4b3aaec90f74ea546c8b, http://141.98.7.86/a-r.m-7.Sakura
 260271, 2024-10-04 20:23:30, 2024-10-04 20:23:30, malware, cfb4d16d45ee4826a4d14d7c11616e90, http://125.40.152.252:35250/i
-260270, 2024-10-04 20:23:19, 2024-10-04 20:23:19, malware, 8d3332da8ca14e8098cbd8049c64a6f7, http://123.5.168.235:35794/i
-260269, 2024-10-04 20:23:17, 2024-10-04 20:23:17, malware, bf300a84f8b24a3fa94214afaf175739, http://123.4.73.13:36729/bin.sh
