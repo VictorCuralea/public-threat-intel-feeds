@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-05 07:00:01 UTC
+# UPDATE: 2024-10-05 08:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+260492, 2024-10-05 07:20:17, 2024-10-05 07:20:17, phishing, 3b37dff6a25b3ef6c00c2f5b5c696b70, https://taller17.sistematsg.com/gr/wp-content/alf/
+260491, 2024-10-05 07:14:13, 2024-10-05 07:14:13, phishing, d8157e8690cbf9df10deefbb91796f26, http://telegramsexgroups.pages.dev
+260490, 2024-10-05 07:00:19, 2024-10-05 07:00:19, phishing, 33652af01f849224d8493085ee2d781d, http://pub-63ee9e97e9eb46d78c12a9137fdc4d90.r2.dev/invoice.htm
 260489, 2024-10-05 06:24:29, 2024-10-05 06:24:29, malware, 5a8df862ac704f4da65aad0000225102, http://61.53.132.119:43194/i
 260488, 2024-10-05 06:24:27, 2024-10-05 06:24:27, malware, abcff0afc50e4f4eaac6d104f2b758fa, http://61.53.132.119:43194/bin.sh
 260487, 2024-10-05 06:24:25, 2024-10-05 06:24:25, malware, 6ba1a9a1721b4cc7909079ea80c54f35, http://59.93.17.176:39171/bin.sh
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 259877, 2024-10-04 08:22:53, 2024-10-04 08:22:53, malware, 23e0d2803b914870ad087cb8dfcc7834, http://125.40.122.210:48081/
 259876, 2024-10-04 08:22:51, 2024-10-04 08:22:51, malware, b61d6d1cc6fa4bf292a46647be484de7, http://123.11.7.182:59272/i
 259875, 2024-10-04 08:22:49, 2024-10-04 08:22:49, malware, 5549170ddc2740feba0e8609b3459346, http://119.165.19.185:52219/bin.sh
-259874, 2024-10-04 08:22:25, 2024-10-04 08:22:25, malware, 859ee9e87e9546f08df93e94aa35884b, http://117.223.2.230:52443/bin.sh
-259873, 2024-10-04 08:21:48, 2024-10-04 08:21:48, malware, 14141e40a36a4cd295343df0faba5173, http://117.213.86.88:33865/
-259872, 2024-10-04 08:21:46, 2024-10-04 08:21:46, malware, e5df26c202094fb6a3c5f169b7ff9a69, http://117.211.230.174:57656/Mozi.m
