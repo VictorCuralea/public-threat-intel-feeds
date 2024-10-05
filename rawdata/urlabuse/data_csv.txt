@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-05 13:00:01 UTC
+# UPDATE: 2024-10-05 14:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+260790, 2024-10-05 13:02:49, 2024-10-05 13:02:49, phishing, d01f491b53d36d35c9258ec42bfee4bc, https://www.instagram.com.sg1.putrivpn1.us.kg/
 260789, 2024-10-05 12:35:45, 2024-10-05 12:24:15, phishing, 908de0431b20227beb6467cbb275379e, http://events.preprod.afcen.com/minfo02.html
 260788, 2024-10-05 12:35:12, 2024-10-05 11:16:16, phishing, 8d94892d04047620e016ec3d35acc448, https://dydx-airdops.pages.dev/
 260787, 2024-10-05 12:35:01, 2024-10-05 11:16:14, phishing, 55450e7918ea938f0e28c5ddbf4708d2, https://marinade.pages.dev/
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 260110, 2024-10-04 14:23:56, 2024-10-04 14:23:56, malware, e59b41e0c2e24ec995d403216a72829e, http://123.13.150.172:37299/bin.sh
 260109, 2024-10-04 14:23:54, 2024-10-04 14:23:54, malware, 4fee3aa44e51462ca906760fc57ef0ed, http://123.10.35.68:43493/bin.sh
 260108, 2024-10-04 14:23:52, 2024-10-04 14:23:52, malware, 6adedb1f5c154b34b872e39c5888c083, http://120.61.195.182:44034/
-260107, 2024-10-04 14:23:22, 2024-10-04 14:23:22, malware, ec47f024f9d04ce289ebf4df88aacd7a, http://117.252.236.105:33684/
