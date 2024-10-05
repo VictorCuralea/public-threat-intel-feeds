@@ -6,8 +6,9 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-05 11:00:02 UTC
+# UPDATE: 2024-10-05 12:00:02 UTC
 ############### END COMMENTS ###############
+{"id": 260735, "url": "http://support-tracking.info", "discovery": "2024-10-05 11:38:14", "added": "2024-10-05 11:38:14", "target": "FR-GOV", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "157bc5dd4957e73fc5209e2de0122571"}
 {"id": 260730, "url": "http://premiumapkuygulamalar.world", "discovery": "2024-10-05 10:52:11", "added": "2024-10-05 10:52:11", "target": "TR-GOV", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "8cb4d3636216c6b606459dde429ce784"}
 {"id": 260729, "url": "http://61.53.107.169:47221/bin.sh", "discovery": "2024-10-05 10:25:27", "added": "2024-10-05 10:25:27", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "e70f719cd58b4ec4952c98d9ac0ba52c"}
 {"id": 260728, "url": "http://61.3.30.94:52624/", "discovery": "2024-10-05 10:25:26", "added": "2024-10-05 10:25:26", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "a97bdf3ac2244e1a9e19be926d3a4662"}
@@ -507,4 +508,3 @@
 {"id": 259999, "url": "http://219.157.20.25:47659/i", "discovery": "2024-10-04 12:29:00", "added": "2024-10-04 12:29:00", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "0dd4f0ea51834effa8a712d02f93959c"}
 {"id": 259998, "url": "http://218.59.108.86:50711/i", "discovery": "2024-10-04 12:28:58", "added": "2024-10-04 12:28:58", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "23885bd3d80042a59a9019d949100eae"}
 {"id": 259997, "url": "http://218.59.108.86:50711/bin.sh", "discovery": "2024-10-04 12:28:56", "added": "2024-10-04 12:28:56", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "f69e134855e34e308ed4fa56f81cc79f"}
-{"id": 259996, "url": "http://196.190.65.105:39926/i", "discovery": "2024-10-04 12:28:53", "added": "2024-10-04 12:28:53", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "ea9cf1ad22b241fcb5ac83b56e7b7c8a"}

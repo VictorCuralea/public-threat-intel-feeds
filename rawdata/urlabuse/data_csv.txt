@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-05 11:00:02 UTC
+# UPDATE: 2024-10-05 12:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+260735, 2024-10-05 11:38:14, 2024-10-05 11:38:14, phishing, 157bc5dd4957e73fc5209e2de0122571, http://support-tracking.info
 260730, 2024-10-05 10:52:11, 2024-10-05 10:52:11, phishing, 8cb4d3636216c6b606459dde429ce784, http://premiumapkuygulamalar.world
 260729, 2024-10-05 10:25:27, 2024-10-05 10:25:27, malware, e70f719cd58b4ec4952c98d9ac0ba52c, http://61.53.107.169:47221/bin.sh
 260728, 2024-10-05 10:25:26, 2024-10-05 10:25:26, malware, a97bdf3ac2244e1a9e19be926d3a4662, http://61.3.30.94:52624/
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 259999, 2024-10-04 12:29:00, 2024-10-04 12:29:00, malware, 0dd4f0ea51834effa8a712d02f93959c, http://219.157.20.25:47659/i
 259998, 2024-10-04 12:28:58, 2024-10-04 12:28:58, malware, 23885bd3d80042a59a9019d949100eae, http://218.59.108.86:50711/i
 259997, 2024-10-04 12:28:56, 2024-10-04 12:28:56, malware, f69e134855e34e308ed4fa56f81cc79f, http://218.59.108.86:50711/bin.sh
-259996, 2024-10-04 12:28:53, 2024-10-04 12:28:53, malware, ea9cf1ad22b241fcb5ac83b56e7b7c8a, http://196.190.65.105:39926/i
