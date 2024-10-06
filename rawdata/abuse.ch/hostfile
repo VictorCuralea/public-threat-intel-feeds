@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-10-06 11:33:48 UTC                        #
+# Last updated: 2024-10-06 12:17:47 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	hduak.site
+127.0.0.1	goelites.cc
+127.0.0.1	dump.hduak.site
 127.0.0.1	sensatinwu.buzz
 127.0.0.1	eihtvh18ht.top
 127.0.0.1	eg-womens.gl.at.ply.gg
@@ -9082,6 +9085,4 @@
 127.0.0.1	sex.secure-cyber-security-rebirthltd.su
 127.0.0.1	secure-network-rebirthltd.ru
 127.0.0.1	wave-assistant.com
-127.0.0.1	altaskifer.sbs
-127.0.0.1	ezz.ust.cx
-# Number of entries: 9078
+# Number of entries: 9079
