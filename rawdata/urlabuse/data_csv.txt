@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-06 01:00:01 UTC
+# UPDATE: 2024-10-06 02:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+261042, 2024-10-06 01:26:41, 2024-10-06 00:38:14, phishing, 3df72cdddf017b3b903dd06f7af24aaa, https://post.deals-resive.xyz/261395700
+261041, 2024-10-06 01:26:16, 2024-10-06 00:38:13, phishing, a7a1f926ac40f6760ea717826846cda2, https://hoanda.biducts.info/311CH-41024/9C311
+261040, 2024-10-06 01:25:48, 2024-10-06 00:36:16, phishing, 77c735d4a89d4204e653757780e4f9ef, https://garcygas.mx/
+261039, 2024-10-06 01:02:12, 2024-10-06 01:02:12, phishing, 1ef565372a2b2a002851fede18333a4e, https://redirectsakri871.pages.dev/
 261038, 2024-10-06 00:28:20, 2024-10-06 00:28:20, malware, beab217b353c43a2b8c69d35becdfa16, http://95.133.33.187:45276/bin.sh
 261037, 2024-10-06 00:27:59, 2024-10-06 00:27:59, malware, d3b487424d0546009e2a3460cbe4628b, http://59.91.169.50:39643/Mozi.m
 261036, 2024-10-06 00:27:38, 2024-10-06 00:27:38, malware, 355f1c9ec29b4784b7359110de620ddd, http://59.183.113.90:44220/Mozi.m
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 260376, 2024-10-05 02:21:37, 2024-10-05 02:21:37, malware, 16a9f1aaf27e4623bcfd53cccd798428, http://117.220.244.126:48899/bin.sh
 260375, 2024-10-05 02:21:28, 2024-10-05 02:21:28, malware, dd583f592a314c81bb0a05302581b6c4, http://117.212.183.161:53990/
 260374, 2024-10-05 02:21:05, 2024-10-05 02:21:05, malware, 3bf2705886e84617befe187154d1c89b, http://117.209.89.149:48791/i
-260373, 2024-10-05 02:21:02, 2024-10-05 02:21:02, malware, 44803e5e376c4617ad6bd4a4ebfb1d3c, http://117.209.89.149:48791/bin.sh
-260372, 2024-10-05 02:20:58, 2024-10-05 02:20:58, malware, d6e08e4d23284103885cc9cfcb7c1be1, http://117.209.84.31:37970/i
-260371, 2024-10-05 02:20:55, 2024-10-05 02:20:55, malware, 3ff2b7a8d5a645e7b518e8cd0721b3bc, http://117.209.83.209:51516/i
-260370, 2024-10-05 02:20:43, 2024-10-05 02:20:43, malware, baf3a8b8c5324d45b0d551c31f09d0a2, http://117.209.30.71:39040/Mozi.m

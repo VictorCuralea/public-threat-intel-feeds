@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-10-06 00:03:21 UTC                        #
+# Last updated: 2024-10-06 01:12:11 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	vilodeqa.com
 127.0.0.1	crestwaybunk.com
 127.0.0.1	www.kapilapiii.com
 127.0.0.1	macabredabor.site
@@ -9081,4 +9082,4 @@
 127.0.0.1	i.xlei.cc
 127.0.0.1	asegurar1s.duckdns.org
 127.0.0.1	wasted9sss1-57718.portmap.host
-# Number of entries: 9075
+# Number of entries: 9076
