@@ -6,7 +6,7 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-06 03:00:01 UTC
+# UPDATE: 2024-10-06 04:00:01 UTC
 ############### END COMMENTS ###############
 {"id": 261082, "url": "http://lar-8.com/an_api.exe", "discovery": "2024-10-06 02:27:28", "added": "2024-10-06 02:27:28", "target": "#PE32INTEL_GUI", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "2d42bba6ab6c4fddab9ddc4ea517cbd5"}
 {"id": 261081, "url": "http://lar-8.com/185.jar", "discovery": "2024-10-06 02:27:17", "added": "2024-10-06 02:27:17", "target": "#ZIP", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "b163ba089f1445b7bfccbb299971c1e2"}
