@@ -6,9 +6,15 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-06 08:00:01 UTC
+# UPDATE: 2024-10-06 09:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+261326, 2024-10-06 08:58:11, 2024-10-06 08:58:11, phishing, f1c92a095b26ed6a4f6bb283eeb897ed, http://bitvavo.debak.nl
+261325, 2024-10-06 08:50:21, 2024-10-06 08:50:21, phishing, 159a4c6c4b73365723b34bc486413a92, https://tokenppoket.io/
+261324, 2024-10-06 08:48:16, 2024-10-06 08:48:16, phishing, 75c99f6ec186654234fec00532af252e, http://tokenpocket.io
+261315, 2024-10-06 08:30:15, 2024-10-06 08:30:15, phishing, 9b30d7c7efefe0d3cdf4418ed4b4959d, http://modulesyncs.pages.dev
+261292, 2024-10-06 08:14:17, 2024-10-06 08:14:17, phishing, 973b31bae6cc8a4a4fc626fb646a3530, http://web.teiegrann.app
+261290, 2024-10-06 08:12:20, 2024-10-06 08:12:20, phishing, dc2c1250a8c991bfe0249bfe307ff33f, http://a.teiegrann.app
 261202, 2024-10-06 07:37:06, 2024-10-06 06:58:20, phishing, 9f44aff30af90b7e4e45aaba1d936b5b, https://customs-clearance.tracking-service.clicksfast.info/index.php
 261201, 2024-10-06 07:28:14, 2024-10-06 07:28:14, phishing, b88109fd7d6369727dd6b02570bf9cba, http://rdmidwaydap.pages.dev
 261200, 2024-10-06 07:00:33, 2024-10-06 07:00:33, phishing, 46eed6f5857ebed3649f467ec3f97606, https://telegram.dog/DumpPlaylist
@@ -503,9 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 260692, 2024-10-05 10:00:46, 2024-10-05 10:00:46, phishing, 5dd77b11ae8bbec1bf32b324de7e1d34, https://telegram.jiefengbss.top/
 260691, 2024-10-05 10:00:19, 2024-10-05 10:00:19, phishing, 80d033f1734b5bcbab0d6540db89bce0, https://telegrakcze.org/
 260540, 2024-10-05 09:00:19, 2024-10-05 09:00:19, phishing, 5e85009d6e6d895dbdfc404f93a3a0b4, http://tw-whatssapp.com
-260539, 2024-10-05 09:00:15, 2024-10-05 09:00:15, phishing, f86f44e290b1377cf7869aa4c9bb4bf2, http://recmainnets.pages.dev
-260538, 2024-10-05 08:58:07, 2024-10-05 08:28:04, phishing, e6704e43d903bfca8e6cf33dcf408cc1, https://flerdond.tech/
-260537, 2024-10-05 08:56:19, 2024-10-05 08:56:19, phishing, 20371537cd3d20f50b1c41ff67724a25, http://whaatsapp-twd.com
-260536, 2024-10-05 08:55:38, 2024-10-05 08:26:14, phishing, 7c9c43f4ba38a46879246d2fa584899e, https://bt-107754.weeblysite.com/
-260535, 2024-10-05 08:55:28, 2024-10-05 08:26:14, phishing, 1fa91fb7ed99a509da826ab3794cd7ee, https://cfgherrklopsdetqdvjw.weeblysite.com/
-260534, 2024-10-05 08:28:29, 2024-10-05 08:28:29, malware, 7ac59d61acc24e3bb2e6fc3b2720ec4e, http://59.89.178.80:36496/bin.sh
