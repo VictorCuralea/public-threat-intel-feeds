@@ -1,11 +1,18 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-10-06 13:42:22 UTC                        #
+# Last updated: 2024-10-06 15:33:59 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	www.faint.sh
+127.0.0.1	www.stealer.to
+127.0.0.1	faint.sh
+127.0.0.1	webhook.my
+127.0.0.1	discord-stealer.de
+127.0.0.1	minxy-is-a-bad-dev.win
+127.0.0.1	skids.rip
 127.0.0.1	ailurophilestealer.design
 127.0.0.1	hduak.site
 127.0.0.1	goelites.cc
@@ -9086,4 +9093,4 @@
 127.0.0.1	sex.secure-cyber-security-rebirthltd.su
 127.0.0.1	secure-network-rebirthltd.ru
 127.0.0.1	wave-assistant.com
-# Number of entries: 9080
+# Number of entries: 9087
