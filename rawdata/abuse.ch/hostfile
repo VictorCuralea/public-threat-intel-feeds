@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-10-06 17:23:38 UTC                        #
+# Last updated: 2024-10-06 21:17:30 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	electrum.rostamasadi.website
+127.0.0.1	stream.rostamasadi.website
 127.0.0.1	pacotdc20.duckdns.org
 127.0.0.1	d21m87a.mom
 127.0.0.1	www.faint.sh
@@ -9095,4 +9097,4 @@
 127.0.0.1	sex.secure-cyber-security-rebirthltd.su
 127.0.0.1	secure-network-rebirthltd.ru
 127.0.0.1	wave-assistant.com
-# Number of entries: 9089
+# Number of entries: 9091

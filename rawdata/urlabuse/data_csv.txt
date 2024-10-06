@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-06 21:00:02 UTC
+# UPDATE: 2024-10-06 22:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+261953, 2024-10-06 21:20:23, 2024-10-06 21:20:23, malware, d8e28db897594162824f6a91ff211688, http://jask.powerforxes.shop/yuop/6702875225645_mSetup.exe#xin
 261952, 2024-10-06 20:48:14, 2024-10-06 20:48:14, phishing, 8c3b44ae75cebbef0a3e3486f683aadb, http://nudes-3ly.pages.dev
 261951, 2024-10-06 20:32:54, 2024-10-06 20:32:54, malware, 07cbbb3734db49169e7ec73807f83e31, http://67.214.245.59:58610/Mozi.m
 261950, 2024-10-06 20:32:44, 2024-10-06 20:32:44, malware, c76748298ceb4dce91f8548bff117d48, http://61.53.42.12:34055/
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 261419, 2024-10-06 10:22:40, 2024-10-06 10:22:40, malware, 931227a42b8747c6b5397a05f762d40d, http://182.127.30.96:49643/i
 261418, 2024-10-06 10:22:38, 2024-10-06 10:22:38, malware, 5b84b1142463476c8bef010d72a6e074, http://182.127.126.156:41262/
 261417, 2024-10-06 10:22:36, 2024-10-06 10:22:36, malware, 30dd8dd83bf048ad91d1c52d5524ae21, http://182.126.120.140:48972/
-261416, 2024-10-06 10:22:34, 2024-10-06 10:22:34, malware, 139ded043960480f8340193bf1a1d359, http://182.114.242.24:56523/Mozi.m
