@@ -6,8 +6,9 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-05 23:00:01 UTC
+# UPDATE: 2024-10-06 00:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 260997, "url": "http://concero-rpcdebugtool.pages.dev", "discovery": "2024-10-05 23:12:11", "added": "2024-10-05 23:12:11", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "4d3743c4d872d00f7df6296da40cbffb"}
 {"id": 260996, "url": "http://aldat.odmem-com.xyz", "discovery": "2024-10-05 22:42:11", "added": "2024-10-05 22:42:11", "target": "TR-GOV", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "e7274edb5e6114cf4f3192d067516a8c"}
 {"id": 260995, "url": "http://lar-8.com/s.jar", "discovery": "2024-10-05 22:29:51", "added": "2024-10-05 22:29:51", "target": "#ZIP", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "66ece43d76844bacb4fd361825500829"}
 {"id": 260994, "url": "http://lar-8.com/licarisan_api.exe", "discovery": "2024-10-05 22:26:45", "added": "2024-10-05 22:26:45", "target": "#PE32INTEL_GUI", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "1bbb07611eab491bb15fa5622128b2ca"}
@@ -507,4 +508,3 @@
 {"id": 260331, "url": "http://livemigraznesvtwo.pages.dev", "discovery": "2024-10-04 23:06:15", "added": "2024-10-04 23:06:15", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "604035c86f6d9252c1292f7fb6837905"}
 {"id": 260330, "url": "http://mainnetdebug.pages.dev", "discovery": "2024-10-04 22:50:11", "added": "2024-10-04 22:50:11", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "32250da71ab1d887b5181edd642a58ea"}
 {"id": 260329, "url": "http://jask.powerforxes.shop/ldms/a43486128347.exe", "discovery": "2024-10-04 22:24:48", "added": "2024-10-04 22:24:48", "target": "#PE32INTEL_GUI", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "93fa99b896b44b4cae4dbc7ef68f50f0"}
-{"id": 260328, "url": "http://hans.uniformeslaamistad.com/yuop/66e5ac6b74d82_Pink_0x000872A650EA3FB.exe", "discovery": "2024-10-04 22:24:46", "added": "2024-10-04 22:24:46", "target": "#PE64", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "388cb0b0a91a4322b83804c0e0dcddc5"}

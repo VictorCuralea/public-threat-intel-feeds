@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-05 23:00:01 UTC
+# UPDATE: 2024-10-06 00:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+260997, 2024-10-05 23:12:11, 2024-10-05 23:12:11, phishing, 4d3743c4d872d00f7df6296da40cbffb, http://concero-rpcdebugtool.pages.dev
 260996, 2024-10-05 22:42:11, 2024-10-05 22:42:11, phishing, e7274edb5e6114cf4f3192d067516a8c, http://aldat.odmem-com.xyz
 260995, 2024-10-05 22:29:51, 2024-10-05 22:29:51, malware, 66ece43d76844bacb4fd361825500829, http://lar-8.com/s.jar
 260994, 2024-10-05 22:26:45, 2024-10-05 22:26:45, malware, 1bbb07611eab491bb15fa5622128b2ca, http://lar-8.com/licarisan_api.exe
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 260331, 2024-10-04 23:06:15, 2024-10-04 23:06:15, phishing, 604035c86f6d9252c1292f7fb6837905, http://livemigraznesvtwo.pages.dev
 260330, 2024-10-04 22:50:11, 2024-10-04 22:50:11, phishing, 32250da71ab1d887b5181edd642a58ea, http://mainnetdebug.pages.dev
 260329, 2024-10-04 22:24:48, 2024-10-04 22:24:48, malware, 93fa99b896b44b4cae4dbc7ef68f50f0, http://jask.powerforxes.shop/ldms/a43486128347.exe
-260328, 2024-10-04 22:24:46, 2024-10-04 22:24:46, malware, 388cb0b0a91a4322b83804c0e0dcddc5, http://hans.uniformeslaamistad.com/yuop/66e5ac6b74d82_Pink_0x000872A650EA3FB.exe
