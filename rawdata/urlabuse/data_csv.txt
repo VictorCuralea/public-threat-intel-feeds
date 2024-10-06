@@ -6,9 +6,14 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-06 13:00:02 UTC
+# UPDATE: 2024-10-06 14:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+261533, 2024-10-06 13:26:17, 2024-10-06 13:26:17, phishing, 1a08b51ac20d9515b25ba648831c5881, http://multiresolvesapp.pages.dev
+261532, 2024-10-06 13:14:18, 2024-10-06 13:14:18, phishing, 69b16affc44ead032dda62457e256319, http://teiegrom-org.com
+261531, 2024-10-06 13:12:10, 2024-10-06 13:12:10, phishing, e72383a22340a67d6ad3b62db6028a33, http://mainnetsync-ejw.pages.dev
+261530, 2024-10-06 13:02:25, 2024-10-06 13:02:25, phishing, 0f5af75f16dffbe101d3e0415d99dff2, https://787007.cc/
+261529, 2024-10-06 13:00:25, 2024-10-06 13:00:25, phishing, aafd90144b7057fd5ad29540fbbe22f8, https://telegram.dog/MissRose_bot
 261528, 2024-10-06 12:46:12, 2024-10-06 12:46:12, phishing, 86294bd29795d788b4f56e4761698194, http://telegram-naughtysex19.pages.dev
 261527, 2024-10-06 12:28:04, 2024-10-06 12:28:04, malware, add256499baf4c2994c85f2252154e41, http://95.70.238.134:55591/i
 261526, 2024-10-06 12:28:03, 2024-10-06 12:28:03, malware, 59e0d30b591b497ca560e10c7836efd4, http://95.170.112.61:14898/i
@@ -504,8 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 260902, 2024-10-05 18:24:28, 2024-10-05 18:24:28, malware, f974ac85f9a34216a77e24d5530d3816, http://182.121.153.17:58496/i
 260901, 2024-10-05 18:24:26, 2024-10-05 18:24:26, malware, 1820bb5a543542869140b70ebb3bf26c, http://182.121.153.17:58496/bin.sh
 260900, 2024-10-05 18:24:24, 2024-10-05 18:24:24, malware, 5c9d7de95e2e42b8ac5035f32508aa10, http://175.169.9.64:38183/bin.sh
-260899, 2024-10-05 18:24:14, 2024-10-05 18:24:14, malware, b6fb77c920d64d90ad09f97364a316c6, http://125.47.200.48:56360/i
-260898, 2024-10-05 18:24:11, 2024-10-05 18:24:11, malware, 736d461972cf4c5994d61de03ccd0eea, http://125.43.247.144:59453/i
-260897, 2024-10-05 18:24:09, 2024-10-05 18:24:09, malware, cd254355e3ca4e5fb8269f48a8a41279, http://125.25.96.88:37672/bin.sh
-260896, 2024-10-05 18:24:06, 2024-10-05 18:24:06, malware, 60c69dc23d074ab28a2d11976cf4f483, http://123.12.228.214:39778/i
-260895, 2024-10-05 18:24:04, 2024-10-05 18:24:04, malware, 380c0e9cea684e9da2d557e9ccfe64a7, http://121.62.245.156:58947/bin.sh
