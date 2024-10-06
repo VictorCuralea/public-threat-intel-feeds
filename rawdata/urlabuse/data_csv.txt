@@ -6,9 +6,14 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-06 07:00:02 UTC
+# UPDATE: 2024-10-06 08:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+261202, 2024-10-06 07:37:06, 2024-10-06 06:58:20, phishing, 9f44aff30af90b7e4e45aaba1d936b5b, https://customs-clearance.tracking-service.clicksfast.info/index.php
+261201, 2024-10-06 07:28:14, 2024-10-06 07:28:14, phishing, b88109fd7d6369727dd6b02570bf9cba, http://rdmidwaydap.pages.dev
+261200, 2024-10-06 07:00:33, 2024-10-06 07:00:33, phishing, 46eed6f5857ebed3649f467ec3f97606, https://telegram.dog/DumpPlaylist
+261199, 2024-10-06 07:00:32, 2024-10-06 07:00:32, phishing, 48c0f3fabbaa0dbfd2d4ea3673536b86, https://telegram.dog/UseTGXBot
+261198, 2024-10-06 07:00:19, 2024-10-06 07:00:19, phishing, ac6727ef3acee6e033612fd99edfbac8, https://telegram.dog/SpEcHIDe
 261197, 2024-10-06 06:46:11, 2024-10-06 06:46:11, phishing, 35a7250cdffd884e7011d929bea888d2, http://group1.pages.dev
 261196, 2024-10-06 06:29:24, 2024-10-06 06:29:24, malware, 02ff78def15a42fca6a48ed7d72b578d, http://61.54.197.159:38341/
 261195, 2024-10-06 06:29:22, 2024-10-06 06:29:22, malware, 4c5ba9fd91ca498e8f6c351a3ea90501, http://61.53.116.240:60327/bin.sh
@@ -504,8 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 260536, 2024-10-05 08:55:38, 2024-10-05 08:26:14, phishing, 7c9c43f4ba38a46879246d2fa584899e, https://bt-107754.weeblysite.com/
 260535, 2024-10-05 08:55:28, 2024-10-05 08:26:14, phishing, 1fa91fb7ed99a509da826ab3794cd7ee, https://cfgherrklopsdetqdvjw.weeblysite.com/
 260534, 2024-10-05 08:28:29, 2024-10-05 08:28:29, malware, 7ac59d61acc24e3bb2e6fc3b2720ec4e, http://59.89.178.80:36496/bin.sh
-260533, 2024-10-05 08:27:39, 2024-10-05 08:27:39, malware, db14f7ff422a4179a242f762f14c82f2, http://59.182.241.112:41252/i
-260532, 2024-10-05 08:27:09, 2024-10-05 08:27:09, malware, 7ffb834f25a149f9a06ef16af50d1a60, http://42.235.44.183:60888/bin.sh
-260531, 2024-10-05 08:27:07, 2024-10-05 08:27:07, malware, 84ecf555f1e34eb0a8e7d07a56385b3b, http://42.235.181.153:43379/i
-260530, 2024-10-05 08:27:05, 2024-10-05 08:27:05, malware, 7b9cd8486f354de189f4362f985cb146, http://42.234.222.206:56296/bin.sh
-260529, 2024-10-05 08:27:03, 2024-10-05 08:27:03, malware, c5612e4a2e2c46c8adc379b7852c54fb, http://42.231.93.247:48342/bin.sh

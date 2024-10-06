@@ -6,8 +6,13 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-06 07:00:02 UTC
+# UPDATE: 2024-10-06 08:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 261202, "url": "https://customs-clearance.tracking-service.clicksfast.info/index.php", "discovery": "2024-10-06 06:58:20", "added": "2024-10-06 07:37:06", "target": "DHL", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "9f44aff30af90b7e4e45aaba1d936b5b"}
+{"id": 261201, "url": "http://rdmidwaydap.pages.dev", "discovery": "2024-10-06 07:28:14", "added": "2024-10-06 07:28:14", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "b88109fd7d6369727dd6b02570bf9cba"}
+{"id": 261200, "url": "https://telegram.dog/DumpPlaylist", "discovery": "2024-10-06 07:00:33", "added": "2024-10-06 07:00:33", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "46eed6f5857ebed3649f467ec3f97606"}
+{"id": 261199, "url": "https://telegram.dog/UseTGXBot", "discovery": "2024-10-06 07:00:32", "added": "2024-10-06 07:00:32", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "48c0f3fabbaa0dbfd2d4ea3673536b86"}
+{"id": 261198, "url": "https://telegram.dog/SpEcHIDe", "discovery": "2024-10-06 07:00:19", "added": "2024-10-06 07:00:19", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "ac6727ef3acee6e033612fd99edfbac8"}
 {"id": 261197, "url": "http://group1.pages.dev", "discovery": "2024-10-06 06:46:11", "added": "2024-10-06 06:46:11", "target": "Telegram", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "35a7250cdffd884e7011d929bea888d2"}
 {"id": 261196, "url": "http://61.54.197.159:38341/", "discovery": "2024-10-06 06:29:24", "added": "2024-10-06 06:29:24", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "02ff78def15a42fca6a48ed7d72b578d"}
 {"id": 261195, "url": "http://61.53.116.240:60327/bin.sh", "discovery": "2024-10-06 06:29:22", "added": "2024-10-06 06:29:22", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "4c5ba9fd91ca498e8f6c351a3ea90501"}
@@ -503,8 +508,3 @@
 {"id": 260536, "url": "https://bt-107754.weeblysite.com/", "discovery": "2024-10-05 08:26:14", "added": "2024-10-05 08:55:38", "target": "BT", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "7c9c43f4ba38a46879246d2fa584899e"}
 {"id": 260535, "url": "https://cfgherrklopsdetqdvjw.weeblysite.com/", "discovery": "2024-10-05 08:26:14", "added": "2024-10-05 08:55:28", "target": "BT", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "1fa91fb7ed99a509da826ab3794cd7ee"}
 {"id": 260534, "url": "http://59.89.178.80:36496/bin.sh", "discovery": "2024-10-05 08:28:29", "added": "2024-10-05 08:28:29", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "7ac59d61acc24e3bb2e6fc3b2720ec4e"}
-{"id": 260533, "url": "http://59.182.241.112:41252/i", "discovery": "2024-10-05 08:27:39", "added": "2024-10-05 08:27:39", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "db14f7ff422a4179a242f762f14c82f2"}
-{"id": 260532, "url": "http://42.235.44.183:60888/bin.sh", "discovery": "2024-10-05 08:27:09", "added": "2024-10-05 08:27:09", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "7ffb834f25a149f9a06ef16af50d1a60"}
-{"id": 260531, "url": "http://42.235.181.153:43379/i", "discovery": "2024-10-05 08:27:07", "added": "2024-10-05 08:27:07", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "84ecf555f1e34eb0a8e7d07a56385b3b"}
-{"id": 260530, "url": "http://42.234.222.206:56296/bin.sh", "discovery": "2024-10-05 08:27:05", "added": "2024-10-05 08:27:05", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "7b9cd8486f354de189f4362f985cb146"}
-{"id": 260529, "url": "http://42.231.93.247:48342/bin.sh", "discovery": "2024-10-05 08:27:03", "added": "2024-10-05 08:27:03", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "c5612e4a2e2c46c8adc379b7852c54fb"}
