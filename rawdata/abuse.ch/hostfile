@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-10-07 18:00:14 UTC                        #
+# Last updated: 2024-10-07 20:03:46 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	162-230-48-189.lightspeed.jcvlfl.sbcglobal.net
+127.0.0.1	musing-hermann.101-99-92-100.plesk.page
 127.0.0.1	remainyadjw.biz
 127.0.0.1	zen-space.shop
 127.0.0.1	privilegedkoq.shop
@@ -9109,7 +9111,4 @@
 127.0.0.1	api.przsc.cn
 127.0.0.1	przsc.cn
 127.0.0.1	wcjwcj.lol
-127.0.0.1	irreceiver.com
-127.0.0.1	hk.luckyu.icu
-127.0.0.1	alipan.lol
-# Number of entries: 9106
+# Number of entries: 9105
