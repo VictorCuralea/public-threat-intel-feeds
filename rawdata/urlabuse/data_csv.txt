@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-07 01:00:01 UTC
+# UPDATE: 2024-10-07 02:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+262016, 2024-10-07 01:48:41, 2024-10-07 01:35:35, phishing, c20d513a9ee91c8cbc1683669029bdf5, https://charm-good-ginger.glitch.me/#x
+262015, 2024-10-07 01:08:10, 2024-10-07 01:08:10, phishing, 31b69d3069189835757a773496a463bd, http://alisonrainergroups.pages.dev
+262014, 2024-10-07 01:03:01, 2024-10-07 01:03:01, phishing, 818aa202cdbd84f8e1a8d58d5fe982fd, https://pub-5e6b0686d1ed4b08a45463767e44da66.r2.dev/index.html
+262013, 2024-10-07 01:02:25, 2024-10-07 01:02:25, phishing, e22601cb87d05e8f7be2701cfe9eafff, https://www.instagram.com.sg2.putrivpn1.us.kg/
 262012, 2024-10-07 00:21:52, 2024-10-07 00:21:52, malware, b85a45a66d5e4089a2c94160936fd0ea, http://78.189.35.154:48724/bin.sh
 262011, 2024-10-07 00:21:49, 2024-10-07 00:21:49, malware, dbd7a52215c74b05b647feeff5766e95, http://61.53.42.12:34055/bin.sh
 262010, 2024-10-07 00:21:46, 2024-10-07 00:21:46, malware, 95b79e59b0ce42529d8b3e2ee1083d45, http://59.97.126.25:37394/bin.sh
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 261494, 2024-10-06 12:25:54, 2024-10-06 12:25:54, malware, efcbbca8e3584c9b80486a39a38e122b, http://212.225.175.56:29618/i
 261493, 2024-10-06 12:25:52, 2024-10-06 12:25:52, malware, c2a08a247087488b927d8dc97371c509, http://207.188.144.43:11602/i
 261492, 2024-10-06 12:25:50, 2024-10-06 12:25:50, malware, d3ef91391b50487ea4cb148c00650aed, http://203.83.178.90:23571/i
-261491, 2024-10-06 12:25:48, 2024-10-06 12:25:48, malware, 36374eb5b9f44189a9f0ed8aa7def86d, http://203.189.131.162:35051/i
-261490, 2024-10-06 12:25:45, 2024-10-06 12:25:45, malware, 2696ac49f09d416686d19444d9f46325, http://203.160.56.67:12929/i
-261489, 2024-10-06 12:25:42, 2024-10-06 12:25:42, malware, c160c541937146dcae42b9df6aba825b, http://203.113.103.18:43566/i
-261488, 2024-10-06 12:25:38, 2024-10-06 12:25:38, malware, 07d861cf05dd4e14880d5cd6d761de30, http://202.74.246.172:57366/i
