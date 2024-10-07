@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-07 21:00:02 UTC
+# UPDATE: 2024-10-07 22:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+262611, 2024-10-07 21:42:13, 2024-10-07 21:42:13, phishing, 7bcdf29daff461d0cc410b6a21595cd1, http://auth-1oginciientonilne.api-secure-protect.workers.dev
+262609, 2024-10-07 21:02:15, 2024-10-07 21:02:15, phishing, bc4dc3cc108a34a0fc41b89f65062f75, http://launchiw.pages.dev
 262604, 2024-10-07 20:58:10, 2024-10-07 20:58:10, phishing, fd168df59cae5ce3b89645d770dedf81, http://c1ient-1oginmsauthonilne.api-secure-protect.workers.dev
 262599, 2024-10-07 20:36:15, 2024-10-07 20:36:15, phishing, c754b15a7e88592eef8f43abe72b1c6d, http://ciient-1ndexms3dfoniine.api-secure-protect.workers.dev
 262598, 2024-10-07 20:34:13, 2024-10-07 20:34:13, phishing, 40056b2c7fb5291bac243b1edff91bb7, http://dashboardconnect.pages.dev
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 262014, 2024-10-07 01:03:01, 2024-10-07 01:03:01, phishing, 818aa202cdbd84f8e1a8d58d5fe982fd, https://pub-5e6b0686d1ed4b08a45463767e44da66.r2.dev/index.html
 262013, 2024-10-07 01:02:25, 2024-10-07 01:02:25, phishing, e22601cb87d05e8f7be2701cfe9eafff, https://www.instagram.com.sg2.putrivpn1.us.kg/
 262012, 2024-10-07 00:21:52, 2024-10-07 00:21:52, malware, b85a45a66d5e4089a2c94160936fd0ea, http://78.189.35.154:48724/bin.sh
-262011, 2024-10-07 00:21:49, 2024-10-07 00:21:49, malware, dbd7a52215c74b05b647feeff5766e95, http://61.53.42.12:34055/bin.sh
-262010, 2024-10-07 00:21:46, 2024-10-07 00:21:46, malware, 95b79e59b0ce42529d8b3e2ee1083d45, http://59.97.126.25:37394/bin.sh
