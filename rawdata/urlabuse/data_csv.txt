@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-07 05:00:01 UTC
+# UPDATE: 2024-10-07 06:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+262100, 2024-10-07 05:50:17, 2024-10-07 05:50:17, phishing, b72de33b6e858f420646c2d64a3713a4, http://metalhiveragesdemo.pages.dev
+262099, 2024-10-07 05:42:13, 2024-10-07 05:42:13, phishing, 225a9963c501f20c73b45890d0dd2695, http://phcgt5.pages.dev
 262098, 2024-10-07 04:52:16, 2024-10-07 04:52:16, phishing, 48f8e8aae75997aaa4d122d0bce94880, http://magaaprivate.pages.dev
 262097, 2024-10-07 04:32:55, 2024-10-07 04:32:55, malware, a0f2e30e8e0f40609660782b26e35b1e, https://scaleyou.com.br/chrome93.exe
 262096, 2024-10-07 04:31:28, 2024-10-07 04:31:28, malware, 9140ee18c6804684af6f60ae3b44c07a, http://91.200.103.117/bolubotnetx86_64
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 261578, 2024-10-06 14:26:59, 2024-10-06 14:26:59, malware, 35f3d3b536094668880cfac20062a74e, http://59.95.85.221:53128/bin.sh
 261577, 2024-10-06 14:26:17, 2024-10-06 14:26:17, malware, ff6e46483c534bb48ebb2f4bc60a009b, http://59.184.250.87:46815/
 261576, 2024-10-06 14:26:05, 2024-10-06 14:26:05, malware, 8dc4817c76af430e81eee9aed08be0b5, http://42.239.16.5:51980/i
-261575, 2024-10-06 14:26:03, 2024-10-06 14:26:03, malware, 4af38bcbad8440368128ff9c1ac0c463, http://42.239.16.5:51980/
-261574, 2024-10-06 14:26:00, 2024-10-06 14:26:00, malware, c6e500091d1744958442b25ba8273bb3, http://42.229.114.152:54975/i
