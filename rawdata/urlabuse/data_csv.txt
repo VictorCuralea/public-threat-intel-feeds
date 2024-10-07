@@ -6,9 +6,15 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-07 15:00:01 UTC
+# UPDATE: 2024-10-07 16:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+262419, 2024-10-07 15:56:12, 2024-10-07 15:56:12, phishing, 3764a66ccbaea30133208b1c2610e7b1, http://insta-meta.pages.dev
+262414, 2024-10-07 15:52:15, 2024-10-07 15:52:15, phishing, 2f1a7dbdce1b01b83d6815c1da46207c, http://1nstagram.pages.dev
+262382, 2024-10-07 15:46:13, 2024-10-07 15:46:13, phishing, 6fc52126a8084684ae7f37c0408df7cd, http://aitm2b.kachina14.workers.dev
+262371, 2024-10-07 15:34:45, 2024-10-07 15:31:27, phishing, a63c307edb0228af9a71ff73be1099cd, https://elevemie.top/verifying_email/bapi/composite/v1/private/message/view_bEt=eyJhbGciOiJIUzI1NiJ9.eyJjdCI6ImEiLCJiIjoiMTAwNDU1MDAyOCIsInIiOiJodHRwczovL2FwcC5iaW5hbmNlLmNvbS9lbi9teS9zZXR0aW5ncy9wcm9maWxlP19kcD1MM2RsWW5acFpYY3ZkMlZpZG1sbGR6OTBlWEJsUFdSb/FptRjFiSFFtYm1WbFpFeHZaMmx1UFdaaGJITmxKblZ5YkQxaFNGSXdZMGhOTmt4NU9UTmtNMk4xV1cxc2RWbFhOV3BhVXpWcVlqSXdkbHBYTkhaaVdHdDJZekpXTUdSSGJIVmABC/index.html?email=x
+262370, 2024-10-07 15:25:36, 2024-10-07 15:12:49, phishing, 65ae6f3f7a97a99a39f586d8f07b6b15, https://cpanell-webmaill-s7031-hnx-iqdh-hv4lode22dmb5-c-oshj-rc.vercel.app/?web=yahoo@yahoo.com
+262369, 2024-10-07 15:10:12, 2024-10-07 15:10:12, phishing, 841f4933074ef21fd78878933c92ef10, http://datinggroup-bqo.pages.dev
 262368, 2024-10-07 14:58:12, 2024-10-07 14:58:12, phishing, 38b413ff2afe63f54786504730f405a2, http://indconneoran.duckdns.org
 262367, 2024-10-07 14:30:12, 2024-10-07 14:30:12, phishing, de52ccdcd9ededa3ad9282fd5ebacc29, http://index-1oginc1iientonilne.api-avvs-qatevvay-secure.workers.dev
 262366, 2024-10-07 14:28:04, 2024-10-07 14:28:04, phishing, 9c24431e8dfb85ab637578f608b313f6, https://sowahed268.wixsite.com/my-site-1
@@ -503,9 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 261874, 2024-10-06 18:27:21, 2024-10-06 18:27:21, malware, 4c1ab23b2c1e4bb6b139c7024195ccf3, http://36.66.174.189:31049/
 261873, 2024-10-06 18:27:17, 2024-10-06 18:27:17, malware, 04da8eadc4c14a75953ac9770101834f, http://36.66.174.187:31049/
 261872, 2024-10-06 18:27:13, 2024-10-06 18:27:13, malware, 7e896b52686d44019186c686733e8c50, http://36.66.174.186:31049/
-261871, 2024-10-06 18:27:10, 2024-10-06 18:27:10, malware, cb7e1fdd689d49f6a11e1e26e43ba59f, http://31.25.133.191:14932/
-261870, 2024-10-06 18:27:03, 2024-10-06 18:27:03, malware, a468f0a199914e48acd88ea1be4e92eb, http://31.0.136.2:50867/
-261869, 2024-10-06 18:27:00, 2024-10-06 18:27:00, malware, 0f77523ba1bb4f9ba0d243ebe3384ac6, http://27.215.182.139:53740/bin.sh
-261868, 2024-10-06 18:26:58, 2024-10-06 18:26:58, malware, 373ce1e59d5345dea7659043be92ddb3, http://27.207.184.10:52365/i
-261867, 2024-10-06 18:26:32, 2024-10-06 18:26:32, malware, 7ac2d1713954485eb3877d7f6f733a92, http://222.138.79.219:36943/bin.sh
-261866, 2024-10-06 18:26:30, 2024-10-06 18:26:30, malware, 0333e67df7ee425c9ad19ac668ac4497, http://221.214.255.177:53921/bin.sh
