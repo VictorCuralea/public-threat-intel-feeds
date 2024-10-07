@@ -6,9 +6,16 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-07 03:00:01 UTC
+# UPDATE: 2024-10-07 04:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+262053, 2024-10-07 03:46:19, 2024-10-07 03:46:19, phishing, bf368e45350d9e316e2ea9e57b6407c9, http://zom-telegram.org
+262052, 2024-10-07 03:42:08, 2024-10-07 03:31:49, phishing, 5ff149d14c223303c4a906d6dfabf8a9, https://pyjpcoez.formester.com/f/111b4b60-4af1-4bcc-82ac-a816a740d5c8
+262051, 2024-10-07 03:40:15, 2024-10-07 03:40:15, phishing, 101cd51143e589345cc1991b08e94ead, http://dpd-de.pages.dev
+262050, 2024-10-07 03:39:37, 2024-10-07 02:12:15, phishing, 8b412568ba89a4274b01437f4ddf5c49, https://ipfs.io/ipfs/bafybeid26cye67nkz6wenn6zuxtviglrq7cnjd2djdub4uu2ouy5gwuj2q/trangliu231.html#x
+262049, 2024-10-07 03:39:21, 2024-10-07 03:39:21, phishing, 69be2ac9a71379f0e4d8ee59574b5e33, https://ipfs.io/ipfs/bafkreifk2pdeiqldoyzqwxaad6z7nbnnllenmhnrqffbp7zgax2q6eyesi?indexL.html#x
+262048, 2024-10-07 03:39:13, 2024-10-07 02:00:56, phishing, e5e8edb8a41bae3c02f8240452029e33, https://www.catapult-connect.com/home/engagement/NTEwLVdlYnNpdGV8OGJjYTg4MDA5YmM5NDVmZDg1ZTA3MmFmYjMzYTE3MzV8Y29uLTk3MTYxLWVufFdlYnNpdGUBX?l=https://ipfs.io/ipfs/bafkreifk2pdeiqldoyzqwxaad6z7nbnnllenmhnrqffbp7zgax2q6eyesi?indexL.html#x
+262047, 2024-10-07 03:18:14, 2024-10-07 03:18:14, phishing, ec94509e466baab496ef144240da161a, http://ms-copilot-proxy.pages.dev
 262046, 2024-10-07 02:58:14, 2024-10-07 02:58:14, phishing, 134725dc228f22bc0c053bde408bb638, http://d.winsysud.us.kg
 262045, 2024-10-07 02:26:38, 2024-10-07 02:26:38, malware, e75fc964dc0a4aedbfe2772a47386d71, http://61.52.4.73:59896/
 262044, 2024-10-07 02:26:36, 2024-10-07 02:26:36, malware, 05677021012045468ca80db6b503c2c5, http://61.0.13.101:38536/bin.sh
@@ -502,10 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 261531, 2024-10-06 13:12:10, 2024-10-06 13:12:10, phishing, e72383a22340a67d6ad3b62db6028a33, http://mainnetsync-ejw.pages.dev
 261530, 2024-10-06 13:02:25, 2024-10-06 13:02:25, phishing, 0f5af75f16dffbe101d3e0415d99dff2, https://787007.cc/
 261529, 2024-10-06 13:00:25, 2024-10-06 13:00:25, phishing, aafd90144b7057fd5ad29540fbbe22f8, https://telegram.dog/MissRose_bot
-261528, 2024-10-06 12:46:12, 2024-10-06 12:46:12, phishing, 86294bd29795d788b4f56e4761698194, http://telegram-naughtysex19.pages.dev
-261527, 2024-10-06 12:28:04, 2024-10-06 12:28:04, malware, add256499baf4c2994c85f2252154e41, http://95.70.238.134:55591/i
-261526, 2024-10-06 12:28:03, 2024-10-06 12:28:03, malware, 59e0d30b591b497ca560e10c7836efd4, http://95.170.112.61:14898/i
-261525, 2024-10-06 12:28:00, 2024-10-06 12:28:00, malware, 3bc433e84cb844149341f1332386c940, http://94.174.32.51:61370/i
-261524, 2024-10-06 12:28:00, 2024-10-06 12:28:00, malware, bfa4c925cf534382957c3b5b8db09dfd, http://93.118.112.68:58915/i
-261523, 2024-10-06 12:27:58, 2024-10-06 12:27:58, malware, 73b4f6a3d5e44140a5bdfb1707cba710, http://89.233.158.18:55398/i
-261522, 2024-10-06 12:27:56, 2024-10-06 12:27:56, malware, 22d1f3e4a57c443bb61e3b5c6d4fddab, http://88.248.23.133:43901/i
