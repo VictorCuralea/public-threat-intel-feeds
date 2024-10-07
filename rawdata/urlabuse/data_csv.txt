@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-07 07:00:02 UTC
+# UPDATE: 2024-10-07 08:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+262148, 2024-10-07 07:36:28, 2024-10-07 07:36:28, phishing, 187803b74dca04f753bd7b5786237578, https://www.swisspost-info.co/
+262147, 2024-10-07 07:34:15, 2024-10-07 07:34:15, phishing, c2fd2f1f0a976dceb13ee8cdf4438e70, https://toofansanat.com/ch/ONE/
+262146, 2024-10-07 07:34:15, 2024-10-07 07:34:15, phishing, 625074df65a15ac5df534439062416d4, https://acervomuseudofolclore.org/en/ONE/ch
 262145, 2024-10-07 06:31:40, 2024-10-07 06:31:40, malware, 3875b8062ea8467f92211a2979d8a8a1, http://cnc.merisprivate.net/.Sarm
 262144, 2024-10-07 06:29:41, 2024-10-07 06:29:41, malware, b911c0ac9ad44040a502429175657da9, http://61.53.107.169:47221/Mozi.m
 262143, 2024-10-07 06:29:19, 2024-10-07 06:29:19, malware, e1e3129cc4b14843a416b16a5dd9846c, http://59.98.193.160:51626/i
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 261645, 2024-10-06 16:20:31, 2024-10-06 16:20:31, malware, 93ca1028c062468ea53dc82e1232383d, http://103.61.103.83:2620/i
 261644, 2024-10-06 16:20:28, 2024-10-06 16:20:28, malware, 09d3b9e7d46942969b94861c082e487a, http://103.237.174.26:22399/i
 261643, 2024-10-06 16:20:26, 2024-10-06 16:20:26, malware, c86e62e4a90247cd860790d4cc8d381c, http://103.235.33.186:1662/i
-261642, 2024-10-06 16:20:23, 2024-10-06 16:20:23, malware, b5da57b8f67b470c9a881c5d067274a4, http://103.187.151.107:1500/Mozi.m
-261641, 2024-10-06 16:20:20, 2024-10-06 16:20:20, malware, 436614ac71b8417c948b7df40e8917b8, http://103.165.58.235:59082/i
-261640, 2024-10-06 16:20:18, 2024-10-06 16:20:18, malware, ada343a109d348d4a8b4f77b89df5a0e, http://103.125.8.66:64243/i
