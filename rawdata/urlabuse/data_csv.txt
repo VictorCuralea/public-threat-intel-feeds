@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-07 17:00:01 UTC
+# UPDATE: 2024-10-07 18:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+262502, 2024-10-07 17:02:14, 2024-10-07 17:02:14, phishing, 08c1e6eb9ff55f8f5792cf77467ab540, https://mbl.zkg.mybluehost.me/M/CHFINAL/7aa5d/
+262501, 2024-10-07 17:00:15, 2024-10-07 17:00:15, phishing, a601e4eafe2d812ca4045004c450981a, https://mbl.zkg.mybluehost.me/M/CHFINAL/80cba/
+262500, 2024-10-07 17:00:12, 2024-10-07 17:00:12, phishing, bde5f39ba05feb5f5a02c60f47e5214c, https://romancefavoritapi.com.br/wp-content/wp-incch.html
 262499, 2024-10-07 16:58:12, 2024-10-07 16:58:12, phishing, 2090d88b334617034b7f3c24e7238050, https://isf.vji.mybluehost.me/wp-content/CH/sunrise/sunrise/log/
 262498, 2024-10-07 16:56:20, 2024-10-07 16:56:20, phishing, 21d04f76b314d8ea4b37b9f306d087f2, https://uhue3813.s3.amazonaws.com/304fd437-e.html
 262497, 2024-10-07 16:56:15, 2024-10-07 16:56:15, phishing, c4c2f3b68b383e77d220b3dc1c9463ea, https://isf.vji.mybluehost.me/wp-content/CH/sunrise/sunrise/owa.php
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 261933, 2024-10-06 20:24:52, 2024-10-06 20:24:52, malware, 631f2f36842c4fc2864c44ef18b0907b, http://185.122.167.105/bot.mips
 261932, 2024-10-06 20:24:52, 2024-10-06 20:24:52, malware, 0186c70a211d473a88949b216e49fe35, http://185.122.167.105/bot.m68k
 261931, 2024-10-06 20:24:51, 2024-10-06 20:24:51, malware, 41d0829c641642afb4b6c9f6a0fd5736, http://185.122.167.105/bot.arm7
-261930, 2024-10-06 20:24:50, 2024-10-06 20:24:50, malware, 09b9297ebe6b4c83919a0f7c13424b5e, http://185.122.167.105/bot.arm6
-261929, 2024-10-06 20:24:49, 2024-10-06 20:24:49, malware, b8a03a71c65d4d92a2f92f1199f665df, http://185.122.167.105/bot.arm5
-261928, 2024-10-06 20:24:48, 2024-10-06 20:24:48, malware, 40124f748bcc406b919a5c27400df1ae, http://185.122.167.105/bot.arm
