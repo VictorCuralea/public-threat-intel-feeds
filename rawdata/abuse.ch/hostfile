@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-10-07 11:40:10 UTC                        #
+# Last updated: 2024-10-07 12:26:28 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	souguru.com
+127.0.0.1	*.outfit.dianamercer.com
 127.0.0.1	robotprintmoney.com
 127.0.0.1	ahmedyassin.ddns.net
 127.0.0.1	tratoragricola.com
@@ -9107,4 +9109,4 @@
 127.0.0.1	net-killer.ddns.net
 127.0.0.1	sex.secure-cyber-security-rebirthltd.su
 127.0.0.1	secure-network-rebirthltd.ru
-# Number of entries: 9101
+# Number of entries: 9103
