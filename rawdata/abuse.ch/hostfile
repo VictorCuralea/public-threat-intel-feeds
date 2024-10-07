@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-10-07 05:39:50 UTC                        #
+# Last updated: 2024-10-07 08:03:30 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	proxy.johnmccrea.com
+127.0.0.1	lade.petperfectcare.com
+127.0.0.1	outfit.dianamercer.com
 127.0.0.1	rumerog.com
 127.0.0.1	yi0key.heleh.com.vn
 127.0.0.1	balukart.com
@@ -9100,4 +9103,4 @@
 127.0.0.1	net-killer.ddns.net
 127.0.0.1	sex.secure-cyber-security-rebirthltd.su
 127.0.0.1	secure-network-rebirthltd.ru
-# Number of entries: 9094
+# Number of entries: 9097
