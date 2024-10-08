@@ -6,9 +6,28 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-08 15:00:02 UTC
+# UPDATE: 2024-10-08 16:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+263252, 2024-10-08 15:33:41, 2024-10-08 15:33:41, malware, 2231692a2fb341e8b56aa6c4d0030380, http://95.133.46.229:49247/i
+263251, 2024-10-08 15:33:37, 2024-10-08 15:33:37, malware, 84a28d442cc8488aa0ed53345a145ceb, http://95.133.46.229:49247/bin.sh
+263250, 2024-10-08 15:32:59, 2024-10-08 15:32:59, malware, e960315064e549d79dc2e8f57b2ce9c1, http://84.213.69.62:40726/Mozi.m
+263249, 2024-10-08 15:32:53, 2024-10-08 15:32:53, malware, 7daa0054b8ee449495ebf7f832a199fb, http://81.148.42.7:38617/Mozi.m
+263248, 2024-10-08 15:32:44, 2024-10-08 15:32:44, malware, dfb5ee68b35449f28e9982d797e9a8f0, http://61.53.84.237:43671/bin.sh
+263247, 2024-10-08 15:32:42, 2024-10-08 15:32:42, malware, e2895d0680754e84b45ee5f251fd6233, http://61.53.84.237:43671/
+263246, 2024-10-08 15:32:33, 2024-10-08 15:32:33, malware, 84f02433ada44ef4bb25d2ecbd58f484, http://61.53.253.72:44818/i
+263245, 2024-10-08 15:32:25, 2024-10-08 15:32:25, malware, 4ef74c9a193744debbabb577478a0361, http://61.53.253.72:44818/bin.sh
+263244, 2024-10-08 15:32:08, 2024-10-08 15:32:08, malware, 6f753deb490a4082b6385ca29cf634d5, http://61.53.119.59:33141/i
+263243, 2024-10-08 15:32:06, 2024-10-08 15:32:06, malware, 6eb6433478934b968ad84d83d926760a, http://61.3.20.83:52449/Mozi.m
+263242, 2024-10-08 15:31:50, 2024-10-08 15:31:50, malware, b55b529afb9a4c2087b987ab0fdb480f, http://61.3.17.144:36041/Mozi.m
+263241, 2024-10-08 15:30:13, 2024-10-08 15:30:13, phishing, 79e6bd0657a7caf9057c6f3dcc82bc19, http://nansenvalidatesmart.pages.dev
+263240, 2024-10-08 15:26:32, 2024-10-08 15:26:32, malware, 8c912edc376245d698c36b250986d207, http://61.0.15.75:56785/i
+263239, 2024-10-08 15:26:20, 2024-10-08 15:26:20, malware, 2c8d0f2ae4e84e2b8624d0c0d5a4397e, http://61.0.15.75:56785/bin.sh
+263238, 2024-10-08 15:26:13, 2024-10-08 15:26:13, phishing, b71942176d5c51c23890e81d5812ee4d, http://build2.kachina14.workers.dev
+263237, 2024-10-08 15:24:13, 2024-10-08 15:24:13, phishing, cbd650c49312a5b40cfd5f18d7b13510, http://e-iadekapisi.xyz
+263236, 2024-10-08 15:22:12, 2024-10-08 15:22:12, malware, e2104876629943feb0f8d9a603cb3d80, http://59.97.124.234:49559/i
+263235, 2024-10-08 15:20:45, 2024-10-08 15:20:45, malware, 7090980ea1334e83a503d6d8b0b17530, http://59.95.92.16:44710/bin.sh
+263234, 2024-10-08 15:20:08, 2024-10-08 15:20:08, malware, 5acfa23980d04859a846f8d67c05e5a4, http://59.91.173.160:56761/Mozi.m
 263233, 2024-10-08 14:46:32, 2024-10-08 14:43:37, phishing, ec48430b09080dd826c99acc6b634e64, https://ipfs.io/ipfs/bafybeiad5kpug5ykodcodad5sxmcv73gu2xgjdygdaybgo6olmlipycspi/bucvskesendingfailurenewvb.html#x
 263232, 2024-10-08 14:37:04, 2024-10-08 14:32:16, phishing, d7f727669e1da02f8d32781a02c0433c, http://url6133.firsthive.com/ls/click?upn=u001.YbCYf-2FgtzuwtPIOJl3XPkRie57kuuU-2FN3vJ-2FNNSVqfUuWmzI-2Bd3fRbTOU10ExbN2_Lgo_8PbssUzIiPbc2NNSaGgxgh1vjjzAxvXtVCd4yHCZrIhcr0tmRHk-2BiKxaSOrj7B0J9sRJ5-2FB98XllHbZNNDcQeA86vgGwAMPotQwmzot57d8h6zn0e6q1Ofnlt6ZL-2FYTvfuExxcrm01lb9ztTJHbEK6ER68XFzdYC-2BmC9LWzdM784XevoebAPp1xpHrUZ2dQqu1IvyuYwmxd1oZuclpYyCg-3D-3D
 263231, 2024-10-08 14:36:38, 2024-10-08 14:30:20, phishing, afc375db71e3aebfbe5af97517ee62c6, https://khungstandee.com/mah
@@ -490,22 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 262755, 2024-10-08 02:22:34, 2024-10-08 02:22:34, malware, 5ec5d08939474885897edc5c3bf3709e, http://117.196.164.1:42932/Mozi.m
 262754, 2024-10-08 02:22:31, 2024-10-08 02:22:31, malware, 5704bf97b8a24ad9be4a45d68e461e23, http://117.195.239.17:46828/Mozi.m
 262753, 2024-10-08 02:22:29, 2024-10-08 02:22:29, malware, 09d109e4f69f45f9ae3781f83b5f7dfb, http://117.195.239.17:46828/bin.sh
-262752, 2024-10-08 02:22:03, 2024-10-08 02:22:03, malware, 22f5639a244543a6ab90edf8158d9dd5, http://115.58.135.43:47882/bin.sh
-262751, 2024-10-08 02:21:49, 2024-10-08 02:21:49, malware, 2fb67aebd1ed4deba466074525945620, http://115.55.32.201:45075/bin.sh
-262750, 2024-10-08 02:21:34, 2024-10-08 02:21:34, malware, b0ea384f20b543478012361de2807738, http://115.50.182.23:59865/i
-262749, 2024-10-08 02:21:30, 2024-10-08 02:21:30, malware, 15ed028d9b69426eababd120c76b0071, http://115.48.149.214:43565/i
-262748, 2024-10-08 02:21:26, 2024-10-08 02:21:26, malware, b49d86e5538c487da07151c0ee27d9bd, http://115.48.128.177:35826/i
-262747, 2024-10-08 02:20:30, 2024-10-08 02:20:30, malware, 961e7847c47b4ce0b77c93095aa69f49, http://111.38.123.165:58703/i
-262746, 2024-10-08 02:20:06, 2024-10-08 02:20:06, malware, a4f5c59f8d0c4f73b1686e4edb249dac, http://1.10.146.175:51404/Mozi.m
-262745, 2024-10-08 01:12:11, 2024-10-08 01:12:11, phishing, cb9dcdeb6f3f5f9d4ca664e2746da929, http://bnbchain-rpcdebugtool.pages.dev
-262744, 2024-10-08 01:02:31, 2024-10-08 01:02:31, phishing, e706cbce0ff803ccbc7ac216cbd684cd, http://pub-3a990174a61a4a9d958ead87ab445bf3.r2.dev/wmail.html
-262743, 2024-10-08 01:02:26, 2024-10-08 01:02:26, phishing, 073e39e73c9bc1eec2b248d56821b19f, http://pub-3f2a693b47c5443abaf3cfd354fcdc14.r2.dev/emailconfirmation.html
-262742, 2024-10-08 01:02:19, 2024-10-08 01:02:19, phishing, 36ab80a7fe209c72113956604ebec7fa, http://pub-6151cbb4115d47dda1a50e6b3f392453.r2.dev/index.html
-262741, 2024-10-08 01:00:40, 2024-10-08 01:00:40, phishing, fd9679cda951195b2c831743f7635fb0, https://rayanmachoch.com/
-262740, 2024-10-08 01:00:39, 2024-10-08 01:00:39, phishing, 3b4456aa78ce88b00325dcd9252cbe48, https://api.decrypt.company/verification/?tgWebAppStartParam=eyJEcmFpbmVySUQiOjY1MjE2MDQwOTcsIkRyYWluZXJDaGFubmVsSUQiOi0xMDAyNDY1MjI4NzIxfQ%3d%3d
-262739, 2024-10-08 01:00:21, 2024-10-08 01:00:21, phishing, b45d599d20cc3ab3d3fe8a5f5122c125, https://telegram.dog/Robots
-262738, 2024-10-08 00:56:10, 2024-10-08 00:56:10, phishing, 37e52a5b0e93a7120b98d2d6a099e872, http://shoayuywgsajnvxlzkowiuytazuhdgve03.pages.dev
-262737, 2024-10-08 00:30:29, 2024-10-08 00:30:29, malware, a1381f076baf41378998f155c9cc7321, http://nsdm.cumpar-auto-orice-tip.ro/ldms/f2e7fcb20146.exe#sp_sl
-262736, 2024-10-08 00:30:27, 2024-10-08 00:30:27, malware, 872c88d4da3d40af8ff3096822c73af4, http://nsdm.cumpar-auto-orice-tip.ro/ldms/956d73b7f041.exe#default15st
-262735, 2024-10-08 00:30:26, 2024-10-08 00:30:26, malware, 7cd2a5fc5d1c4a20bee0a71de7894931, http://nsdm.cumpar-auto-orice-tip.ro/ldms/7f3c2473d1e6.exe#sp_vid
-262734, 2024-10-08 00:30:20, 2024-10-08 00:30:20, malware, f403bc0fb3af4273b73d9f2aea5f5513, http://61.53.91.239:60210/bin.sh
