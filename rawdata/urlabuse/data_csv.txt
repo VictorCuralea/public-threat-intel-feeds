@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-07 23:00:01 UTC
+# UPDATE: 2024-10-08 00:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+262681, 2024-10-07 23:02:11, 2024-10-07 23:02:11, phishing, 7745684d6ab5fd6400bd3def01f8f1ea, http://concero-rpcdebugtools.pages.dev
 262680, 2024-10-07 22:30:12, 2024-10-07 22:30:12, phishing, 6703b3801eeca67a7bbd8f94e2dc408c, http://connecttodapp.pages.dev
 262679, 2024-10-07 22:29:35, 2024-10-07 22:29:35, malware, f35faa1412434659a8822e2b4f41a5bc, http://95.132.255.44:54023/i
 262678, 2024-10-07 22:29:34, 2024-10-07 22:29:34, malware, bac9df56b6d94e9ea096c1b173f6c485, http://91.208.197.238/dao/standspecificpro.zip
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 262084, 2024-10-07 04:29:07, 2024-10-07 04:29:07, malware, 4e32ae1f28734fddad73471bb3e6bc59, http://222.137.214.175:59317/i
 262083, 2024-10-07 04:29:05, 2024-10-07 04:29:05, malware, 90e66955963c4344bc7dadd4405dd273, http://222.137.214.175:59317/bin.sh
 262082, 2024-10-07 04:29:04, 2024-10-07 04:29:04, malware, 0ae5354839fa46b2ba4cfa2a6cca39d5, http://221.14.52.190:38057/Mozi.m
-262081, 2024-10-07 04:29:01, 2024-10-07 04:29:01, malware, 661bfd0350c948b8814bb07e9c7db49a, http://219.157.212.125:34391/Mozi.m
