@@ -6,9 +6,14 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-08 07:00:02 UTC
+# UPDATE: 2024-10-08 08:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+262983, 2024-10-08 07:21:16, 2024-10-08 07:21:16, malware, ef100e1c4d3449b8b819ec2cfb686f7b, http://61.3.137.127:41087/i
+262982, 2024-10-08 07:20:16, 2024-10-08 07:20:16, malware, ad4edd23a02d4b08a8e11f5c86d7c79b, http://59.97.120.14:35743/i
+262981, 2024-10-08 07:01:24, 2024-10-08 07:01:24, phishing, ea9f843ca1f2aa2549320d1f5660af82, https://pub-a9f004331b624cbd94d7e25b5c0fcfeb.r2.dev/fridy.html
+262980, 2024-10-08 07:00:40, 2024-10-08 07:00:40, phishing, 77f7b4f362f2df190d40a63bf45d0586, https://telegramsex-dft.pages.dev/
+262979, 2024-10-08 07:00:23, 2024-10-08 07:00:23, phishing, f2c038f97d22b7d481febaee9999b4bf, https://telegram18-datinggroup.netlify.app/
 262978, 2024-10-08 06:40:18, 2024-10-08 06:40:18, phishing, d3b0a06c68f97ca2934f640bc576f2ec, https://7149187733896.hostingkunde.de/ap/MitID/
 262977, 2024-10-08 06:33:53, 2024-10-08 06:33:53, malware, 399cf2fc86d54ec496a9ff6b41235a3b, http://59.183.119.61:54419/bin.sh
 262976, 2024-10-08 06:33:09, 2024-10-08 06:33:09, malware, ba8c1808eb9340889a28e3e0f36fc614, http://59.182.148.99:41386/i
@@ -504,8 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 262455, 2024-10-07 16:12:15, 2024-10-07 16:12:15, phishing, 2e8259006380faf5724d5c4a64c35ba4, http://livemigrasnvtwo.pages.dev
 262440, 2024-10-07 16:05:01, 2024-10-07 16:05:01, phishing, 18c06867f7cebcc36e3e94fa4d1b1d63, http://rmfwwf88swc-1324839608.cos.ap-beijing-fsi.myqcloud.com/rmfwwf88swc.html
 262435, 2024-10-07 16:04:15, 2024-10-07 16:04:15, phishing, aaa57c355340d5d0fe1766fa6333a37f, http://1ndex-ciient1ndexmsoniilne.web-api-verify-online.workers.dev
-262434, 2024-10-07 16:03:19, 2024-10-07 16:03:19, phishing, 6c7efbd0b63165cfda6a69a666e10300, http://long-fog-c301.sandstorm234.workers.dev/
-262433, 2024-10-07 16:03:11, 2024-10-07 16:03:11, phishing, 9cbd9fa6fe5a19faa7991d406e2c4da2, http://telegrsam.cc/
-262432, 2024-10-07 16:03:07, 2024-10-07 16:03:07, phishing, 7b0a343efdb03c8eb8dec333ed11b3ee, http://www.zom-telegram.org/
-262431, 2024-10-07 16:02:26, 2024-10-07 16:02:26, hacked, 46b7c850cf173e86a00350fbe8167d05, http://depenet.com
-262430, 2024-10-07 16:02:26, 2024-10-07 16:02:26, hacked, a0c990b78689776e894414dc52c9f5d5, http://mount.sa

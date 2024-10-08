@@ -6,8 +6,13 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-08 07:00:02 UTC
+# UPDATE: 2024-10-08 08:00:02 UTC
 ############### END COMMENTS ###############
+{"id": 262983, "url": "http://61.3.137.127:41087/i", "discovery": "2024-10-08 07:21:16", "added": "2024-10-08 07:21:16", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "ef100e1c4d3449b8b819ec2cfb686f7b"}
+{"id": 262982, "url": "http://59.97.120.14:35743/i", "discovery": "2024-10-08 07:20:16", "added": "2024-10-08 07:20:16", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "ad4edd23a02d4b08a8e11f5c86d7c79b"}
+{"id": 262981, "url": "https://pub-a9f004331b624cbd94d7e25b5c0fcfeb.r2.dev/fridy.html", "discovery": "2024-10-08 07:01:24", "added": "2024-10-08 07:01:24", "target": "Microsoft", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "ea9f843ca1f2aa2549320d1f5660af82"}
+{"id": 262980, "url": "https://telegramsex-dft.pages.dev/", "discovery": "2024-10-08 07:00:40", "added": "2024-10-08 07:00:40", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "77f7b4f362f2df190d40a63bf45d0586"}
+{"id": 262979, "url": "https://telegram18-datinggroup.netlify.app/", "discovery": "2024-10-08 07:00:23", "added": "2024-10-08 07:00:23", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "f2c038f97d22b7d481febaee9999b4bf"}
 {"id": 262978, "url": "https://7149187733896.hostingkunde.de/ap/MitID/", "discovery": "2024-10-08 06:40:18", "added": "2024-10-08 06:40:18", "target": "Spotify", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "d3b0a06c68f97ca2934f640bc576f2ec"}
 {"id": 262977, "url": "http://59.183.119.61:54419/bin.sh", "discovery": "2024-10-08 06:33:53", "added": "2024-10-08 06:33:53", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "399cf2fc86d54ec496a9ff6b41235a3b"}
 {"id": 262976, "url": "http://59.182.148.99:41386/i", "discovery": "2024-10-08 06:33:09", "added": "2024-10-08 06:33:09", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "ba8c1808eb9340889a28e3e0f36fc614"}
@@ -503,8 +508,3 @@
 {"id": 262455, "url": "http://livemigrasnvtwo.pages.dev", "discovery": "2024-10-07 16:12:15", "added": "2024-10-07 16:12:15", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "2e8259006380faf5724d5c4a64c35ba4"}
 {"id": 262440, "url": "http://rmfwwf88swc-1324839608.cos.ap-beijing-fsi.myqcloud.com/rmfwwf88swc.html", "discovery": "2024-10-07 16:05:01", "added": "2024-10-07 16:05:01", "target": "Microsoft", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "18c06867f7cebcc36e3e94fa4d1b1d63"}
 {"id": 262435, "url": "http://1ndex-ciient1ndexmsoniilne.web-api-verify-online.workers.dev", "discovery": "2024-10-07 16:04:15", "added": "2024-10-07 16:04:15", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "aaa57c355340d5d0fe1766fa6333a37f"}
-{"id": 262434, "url": "http://long-fog-c301.sandstorm234.workers.dev/", "discovery": "2024-10-07 16:03:19", "added": "2024-10-07 16:03:19", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "6c7efbd0b63165cfda6a69a666e10300"}
-{"id": 262433, "url": "http://telegrsam.cc/", "discovery": "2024-10-07 16:03:11", "added": "2024-10-07 16:03:11", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "9cbd9fa6fe5a19faa7991d406e2c4da2"}
-{"id": 262432, "url": "http://www.zom-telegram.org/", "discovery": "2024-10-07 16:03:07", "added": "2024-10-07 16:03:07", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "7b0a343efdb03c8eb8dec333ed11b3ee"}
-{"id": 262431, "url": "http://depenet.com", "discovery": "2024-10-07 16:02:26", "added": "2024-10-07 16:02:26", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "46b7c850cf173e86a00350fbe8167d05"}
-{"id": 262430, "url": "http://mount.sa", "discovery": "2024-10-07 16:02:26", "added": "2024-10-07 16:02:26", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "a0c990b78689776e894414dc52c9f5d5"}
