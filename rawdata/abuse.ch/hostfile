@@ -1,11 +1,25 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-10-08 08:53:58 UTC                        #
+# Last updated: 2024-10-08 11:54:58 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	vhsuprimentos.online
+127.0.0.1	rrcontr.online
+127.0.0.1	rhsp.online
+127.0.0.1	rhinvestimentos.online
+127.0.0.1	ivesconstrutora.online
+127.0.0.1	llfusoes.online
+127.0.0.1	comercialgoulart.site
+127.0.0.1	admjulianaduarte.online
+127.0.0.1	admhugoandrade.online
+127.0.0.1	vorlla.site
+127.0.0.1	rvlocacoes.site
+127.0.0.1	passeadv.online
+127.0.0.1	armzemcompras.online
+127.0.0.1	lojacoutinho.online
 127.0.0.1	elevenvd11pt.top
 127.0.0.1	thirtvd13pt.top
 127.0.0.1	twelvevd12pt.top
@@ -47,7 +61,6 @@
 127.0.0.1	fiftvf15vs.top
 127.0.0.1	elevenvh11vs.top
 127.0.0.1	sivh6vs.top
-127.0.0.1	emv1.thirtvf13vt.top
 127.0.0.1	thirtvf13vt.top
 127.0.0.1	forvf14vt.top
 127.0.0.1	fiftvf15vt.top
@@ -9261,4 +9274,4 @@
 127.0.0.1	api.mypowerzip.com
 127.0.0.1	defender.us.org
 127.0.0.1	taek.cp-redteam.com
-# Number of entries: 9255
+# Number of entries: 9268
