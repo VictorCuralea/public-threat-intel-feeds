@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-10-08 00:05:45 UTC                        #
+# Last updated: 2024-10-08 04:04:16 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	1login.revolut-email-enable.com
 127.0.0.1	static.230.215.75.5.clients.your-server.de
 127.0.0.1	162-230-48-189.lightspeed.jcvlfl.sbcglobal.net
 127.0.0.1	musing-hermann.101-99-92-100.plesk.page
@@ -9112,4 +9113,4 @@
 127.0.0.1	api.przsc.cn
 127.0.0.1	przsc.cn
 127.0.0.1	wcjwcj.lol
-# Number of entries: 9106
+# Number of entries: 9107
