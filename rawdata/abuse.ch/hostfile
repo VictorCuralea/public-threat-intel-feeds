@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-10-09 04:03:18 UTC                        #
+# Last updated: 2024-10-09 05:54:12 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	th-ina.co.id
+127.0.0.1	ole.cloudns.ph
 127.0.0.1	45-66-228-64.emome-ip.hinet.net
 127.0.0.1	net-5-89-242-58.cust.vodafonedsl.it
 127.0.0.1	c-cdns.top
@@ -9247,6 +9249,4 @@
 127.0.0.1	tzitziklishop4.ddns.net
 127.0.0.1	shgoini.com
 127.0.0.1	psolver827.ddns.net
-127.0.0.1	appdiscordgg.duckdns.org
-127.0.0.1	firmes777.duckdns.org
 # Number of entries: 9243
