@@ -1,11 +1,17 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-10-09 08:33:17 UTC                        #
+# Last updated: 2024-10-09 10:49:38 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	hit-kick.com
+127.0.0.1	key-needs.com
+127.0.0.1	last-blink.com
+127.0.0.1	faillymoodkywko.shop
+127.0.0.1	shelfedpriveowp.shop
+127.0.0.1	aarsallc.duckdns.org
 127.0.0.1	onevr1vt.top
 127.0.0.1	threvr3vt.top
 127.0.0.1	sevenvr7vt.top
@@ -9254,4 +9260,4 @@
 127.0.0.1	newintento777.duckdns.org
 127.0.0.1	tzitziklishop4.ddns.net
 127.0.0.1	shgoini.com
-# Number of entries: 9248
+# Number of entries: 9254
