@@ -6,9 +6,17 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-09 21:00:02 UTC
+# UPDATE: 2024-10-09 22:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+264287, 2024-10-09 21:32:55, 2024-10-09 21:32:55, malware, c31b3283c84c4799b0eb939e82f73679, http://lide.omernisar.com/prog/66b4b10e9ef0b_stealc_default.exe
+264286, 2024-10-09 21:32:00, 2024-10-09 21:32:00, malware, b5876eecbaba4573832769c4d24ae5a5, http://lide.omernisar.com/prog/66b45c742e0a1_123p.exe
+264285, 2024-10-09 21:30:02, 2024-10-09 21:30:02, malware, 23a2da2258864cfc80a5504407aed757, http://lide.omernisar.com/prog/66b38609432fa_sosusion.exe
+264284, 2024-10-09 21:28:37, 2024-10-09 21:28:37, malware, 91fdd120de1b4247b685eb39cb8ad826, http://lide.omernisar.com/prog/66b331646d2cd_123p.exe
+264283, 2024-10-09 21:23:46, 2024-10-09 21:23:46, malware, 452c1c96eefc44aeb618d492e05516c6, http://lide.omernisar.com/prog/66af31c75d213_123p.exe
+264282, 2024-10-09 21:22:03, 2024-10-09 21:22:03, malware, 24f778bf462f44c6bd847eb917f7af92, http://lide.omernisar.com/prog/66ae9cc050ded_file0308.exe
+264281, 2024-10-09 21:21:57, 2024-10-09 21:21:57, malware, ef7e4c95305b4a078a116e2ba235abc2, http://lide.omernisar.com/prog/66ae1dd27873e_file.exe
+264280, 2024-10-09 21:21:43, 2024-10-09 21:21:43, malware, 3c20cd49d2ac472a9bc3dbed4339b067, http://lide.omernisar.com/lopsa/67057ae45a898_swe_received.exe
 264279, 2024-10-09 20:33:35, 2024-10-09 20:33:35, malware, 2a171a51695c4dd0bc2b3d96f609140b, http://lide.omernisar.com/lopsa/66ab1b27ae40b_BotClient.exe
 264278, 2024-10-09 20:33:32, 2024-10-09 20:33:32, malware, 3325a945b6b64f4cab339fecddeb5857, http://eficienciaeningenieria.com.mx/nwaplv/nggeejan22.exe
 264277, 2024-10-09 20:33:24, 2024-10-09 20:33:24, malware, 822c6193401448df9ffc5ae0a4e6e143, http://eficienciaeningenieria.com.mx/ngqwpl/ngown.exe
@@ -501,11 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 263691, 2024-10-09 04:23:13, 2024-10-09 04:23:13, malware, 2606183f151f402580b960df24602f16, http://117.208.221.184:46705/bin.sh
 263690, 2024-10-09 04:22:03, 2024-10-09 04:22:03, malware, 4988fae7af0f48639baae64122dcc54b, http://115.55.128.167:36993/i
 263689, 2024-10-09 04:21:53, 2024-10-09 04:21:53, malware, c7e7d50acd3449fd8d21ebeb7706c900, http://115.51.28.156:41265/bin.sh
-263688, 2024-10-09 04:21:02, 2024-10-09 04:21:02, malware, e68bcf618ef64c44b2a5f75b85e4a08a, http://114.228.0.215:39322/i
-263687, 2024-10-09 04:20:39, 2024-10-09 04:20:39, malware, cf4c6d8f4a444f53a60b6300e5e54311, http://112.248.142.105:58534/i
-263686, 2024-10-09 04:20:19, 2024-10-09 04:20:19, malware, 665cc9eba4c2410d956f956cb8896b8c, http://110.182.98.224:43028/bin.sh
-263685, 2024-10-09 04:14:16, 2024-10-09 04:14:16, phishing, 2512c472c44866307504dce7385d74f5, http://smartordiversatile.pages.dev
-263684, 2024-10-09 04:08:52, 2024-10-09 04:08:52, phishing, 2733d12d85c07093af8d9193711473cd, https://www.telegrann.com/
-263683, 2024-10-09 04:06:21, 2024-10-09 04:06:21, phishing, 4a64494a7b9c78460f2152831aa05f88, https://www.telegrambcn.com/
-263682, 2024-10-09 04:05:42, 2024-10-09 04:05:42, phishing, 37d3bd8896185b7e3df6487d53180999, http://pub-722720be67154192a1102b2cf085d306.r2.dev/askm.html
-263681, 2024-10-09 04:05:37, 2024-10-09 04:05:37, phishing, 5e799126e620cc82f2b6d3245d8be59f, https://login.microsoftonline.com.office.prod.lwcc.myshn.net/common/oauth2/v2.0/authorize?client_id=5e3ce6c0-2b1f-4285-8d4b-75ee78787346&scope=openId%20profile%20openid%20offline_access&redirect_uri=https%3A%2F%2Fteams.microsoft.com.office.prod.lwcc.myshn.net%2Fv2&client-request-id=01926c60-6ad6-724f-822d-350dcba7336b&response_mode=fragment&response_type=code&x-client-SKU=msal.js.browser&x-client-VER=3.18.0&client_info=1&code_challenge=i78FFtStYunDYFSsBYAc457eQlDtxuhtB_DpyIjVGFQ&code_challenge_method=S256&nonce=01926c60-6ad6-7a6d-b8db-e07d89961c5b&state=eyJpZCI6IjAxOTI2YzYwLTZhZDYtNzU2ZC05NTVhLWFhY2IyZWM4YzZkYiIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoicmVkaXJlY3QifX0%3D
