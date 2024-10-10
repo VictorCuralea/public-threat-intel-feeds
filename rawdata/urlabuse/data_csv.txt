@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-10 11:00:01 UTC
+# UPDATE: 2024-10-10 12:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+264866, 2024-10-10 11:52:15, 2024-10-10 11:52:15, phishing, 72a9d58ddcbb18276dc0203da7e15157, http://down.080404.xyz
+264845, 2024-10-10 11:40:15, 2024-10-10 11:40:15, phishing, fa08fe6f92e1176e19875aa35296bd6b, http://ygg-japanpresale.pages.dev
+264824, 2024-10-10 11:14:15, 2024-10-10 11:14:15, phishing, 9c8cee18a813efb86820005041147578, http://gay-community.kopc19.biz.id
+264823, 2024-10-10 11:06:15, 2024-10-10 11:06:15, phishing, bb91e487db9cf6f1db15430400b3e00f, https://jayambeinfotech.in/indexo/swisscom/login.html
 264822, 2024-10-10 10:36:15, 2024-10-10 10:36:15, phishing, 5b9ef51c6ff145c59b98bb60f444061b, https://track-it-fast.com/app/
 264820, 2024-10-10 10:30:22, 2024-10-10 10:30:22, malware, 7dbbdb682c364a429d0c587eb7be37e4, http://95.132.255.59:55537/i
 264819, 2024-10-10 10:30:11, 2024-10-10 10:30:11, malware, b90f6a0dd2b1402686c13769f1f13c48, http://87.15.114.204:52049/i
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 264223, 2024-10-09 19:02:27, 2024-10-09 19:02:27, phishing, 6e13a18ab7ebb9669e22b4e0cb5fc902, https://telegram.dog/UploaditBot
 264222, 2024-10-09 19:02:13, 2024-10-09 19:02:13, phishing, ed222c8bcf15df6af29dce9fc1944209, https://madebybmr.bond/k/?tgWebAppStartParam=7289769816
 264221, 2024-10-09 18:50:15, 2024-10-09 18:50:15, phishing, 77f804ee9235bb0d3897fb7cf150877c, http://speedcoin.pages.dev
-264220, 2024-10-09 18:34:04, 2024-10-09 18:34:04, malware, af0e2ddb8ae549c6ad7346eaf0e0e214, http://59.88.2.138:41087/i
-264219, 2024-10-09 18:33:13, 2024-10-09 18:33:13, malware, 22f9b564cdcd42809ca6e55d986bca7c, http://59.183.98.206:52941/Mozi.m
-264218, 2024-10-09 18:33:10, 2024-10-09 18:33:10, malware, ea89ade3ac514f3083125ffb0ae46038, http://59.183.143.56:34559/bin.sh
-264217, 2024-10-09 18:32:39, 2024-10-09 18:32:39, malware, 40557d904f1b460ba1b86020c0b59cca, http://59.183.122.197:54700/Mozi.m
