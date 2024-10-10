@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-10 21:00:01 UTC
+# UPDATE: 2024-10-10 22:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+265177, 2024-10-10 21:58:12, 2024-10-10 21:58:12, phishing, 9a901e29d382d25c7f816e660f310c5d, http://indexoranfme.duckdns.org
 265176, 2024-10-10 20:46:11, 2024-10-10 20:46:11, phishing, f373d77378931899284af58e405b3e9d, http://depugdapps.pages.dev
 265175, 2024-10-10 20:26:52, 2024-10-10 20:26:52, malware, b95f7e1d7dde41d2bc363b3c9e2d2fe6, http://61.54.59.45:59865/Mozi.m
 265174, 2024-10-10 20:26:08, 2024-10-10 20:26:08, malware, b108c28a659f4e86a27b5aeebcc94939, http://59.88.14.163:42272/Mozi.m
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 264519, 2024-10-10 04:25:28, 2024-10-10 04:25:28, malware, a05f91bd462e434d9c93d3066c38ac2e, http://221.1.226.189:32835/i
 264518, 2024-10-10 04:25:26, 2024-10-10 04:25:26, malware, 9d211056ffed4b759ab691eac5d1fb2a, http://221.1.226.189:32835/bin.sh
 264517, 2024-10-10 04:25:24, 2024-10-10 04:25:24, malware, 031667fac66441698ff084f19eba0553, http://182.240.226.72:58517/Mozi.m
-264516, 2024-10-10 04:25:20, 2024-10-10 04:25:20, malware, 7891fdf83bca48218a8ec83bc07f821f, http://182.127.218.178:48090/bin.sh
