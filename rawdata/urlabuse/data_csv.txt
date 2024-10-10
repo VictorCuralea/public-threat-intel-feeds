@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-10 17:00:01 UTC
+# UPDATE: 2024-10-10 18:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+265100, 2024-10-10 17:46:13, 2024-10-10 17:46:13, phishing, 6f60992e829913aa16694ffef481c0e2, https://www.tibesti.net/
+265099, 2024-10-10 17:12:15, 2024-10-10 17:12:15, phishing, 137fb95f552830d5eab8745ca7768b78, http://terraguidance.pages.dev
+265098, 2024-10-10 17:06:13, 2024-10-10 17:06:13, phishing, 455d7c426fad133f3df54931292a656a, http://c1ient-index1oginauthonilne.fwlink-docs-secure.workers.dev
 265097, 2024-10-10 16:54:56, 2024-10-10 16:06:38, phishing, f0bea2575288a9eac30799588d3429d9, https://tibiuero.me/
 265096, 2024-10-10 16:44:04, 2024-10-10 16:44:04, malware, 244d8e2e6e8d4f23a6d1d6493deca29e, https://qaribe.sbs/data/7737293249/payment/Z7cdV03b/maeishati/download.php
 265095, 2024-10-10 16:43:10, 2024-10-10 16:05:28, phishing, fc0c1e92937034101f9f1eafd7f32a49, https://qaribe.sbs/data/7737293249/payment/Z7cdV03b/maeishati/dashbord/
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 264442, 2024-10-10 02:24:00, 2024-10-10 02:24:00, malware, f76a3dab37594f898b145c9b18915027, http://221.15.7.172:44272/i
 264441, 2024-10-10 02:23:58, 2024-10-10 02:23:58, malware, 86a8d374180149138ae296a2aceaf21f, http://220.172.209.144:33728/i
 264440, 2024-10-10 02:23:55, 2024-10-10 02:23:55, malware, ead0b89727c143eba090e1699950c06f, http://219.155.238.110:52642/bin.sh
-264439, 2024-10-10 02:23:53, 2024-10-10 02:23:53, malware, b104a10541424300a952f12e34dcc04e, http://182.127.3.93:40249/i
-264438, 2024-10-10 02:23:51, 2024-10-10 02:23:51, malware, 1f791e50c624490a857d92cff4b48921, http://182.127.3.93:40249/bin.sh
-264437, 2024-10-10 02:23:49, 2024-10-10 02:23:49, malware, ca96d159803043fab9872544862f37bd, http://182.121.85.107:33474/i
