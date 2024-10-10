@@ -6,9 +6,21 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-10 07:00:01 UTC
+# UPDATE: 2024-10-10 08:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+264618, 2024-10-10 07:47:01, 2024-10-10 07:40:15, phishing, e07e352ac5dff5bddb5ee144b06db5a7, https://blank-template-6-35951.getresponsesite.com/
+264617, 2024-10-10 07:46:49, 2024-10-10 07:40:13, phishing, 779ffc5e176b5a575cfec8cb7580644d, https://app.qpointsurvey.com/s/vjmotsuhuve7al3c
+264616, 2024-10-10 07:44:11, 2024-10-10 07:38:15, phishing, b7b2befa6770c66918433a7bcc1bc3cd, https://brianmwhitehead-my-cheetah-website-1.site.builderall.net/
+264615, 2024-10-10 07:43:59, 2024-10-10 07:22:19, phishing, fe6f531eaf2a30cd2d71119833e8219d, https://yuhlogin-kundenhilfe.cfolks.pl/auth/login/
+264614, 2024-10-10 07:43:13, 2024-10-10 05:42:15, phishing, d3cf5e5d825f6c31be0c81656e9470eb, https://groupit-glspacco.stormkit.dev/
+264613, 2024-10-10 07:40:45, 2024-10-10 05:36:17, phishing, 930475ad14803eabcef04f7e882728a0, https://antai-gouv.otefisa.com/amendes/fr/redirect.php
+264612, 2024-10-10 07:40:33, 2024-10-10 07:40:33, phishing, bde5f73cd842bebf309e80599f32b195, https://antai-gouv.otefisa.com/amendes/fr/embed?url=aHR0cHM6Ly9hbnRhaS1nb3V2Lm90ZWZpc2EuY29tL2FtZW5kZXMvZnIvL2NhY2hlL1hSQXlsa3l2ZGN4ZHZ6a2g/
+264611, 2024-10-10 07:40:21, 2024-10-10 05:36:17, phishing, 855f7c7dcd13332f5b76663db494194f, https://lsbcomc.lpages.co/hkshrt-hyshvb-ty-page/?email_type=034671217
+264610, 2024-10-10 07:22:12, 2024-10-10 07:22:12, phishing, f45f115b8d943c8b5110bd35fc126ba7, https://mcqsprep.com/js/swisscom1/
+264609, 2024-10-10 07:08:15, 2024-10-10 07:08:15, phishing, c944782d9ab7840f678de162083898c6, http://portal-sso.kdg.mediabeam.com
+264608, 2024-10-10 07:03:01, 2024-10-10 07:03:01, phishing, 106e153a21c2c66012dc9f47536a08c9, http://fenato.ru/
+264607, 2024-10-10 07:02:45, 2024-10-10 07:02:45, phishing, a3b5462fad66388fcb207d9e46c19c20, https://teiegran.org/
 264606, 2024-10-10 06:29:41, 2024-10-10 06:29:41, malware, 8cc6e743b3c049ff982816f96985db73, http://eficienciaeningenieria.com.mx/vnkl/ng5th.exe
 264605, 2024-10-10 06:29:35, 2024-10-10 06:29:35, malware, 764a63edef2f4d4ca5037871d2bc111d, http://61.3.72.43:55369/i
 264604, 2024-10-10 06:28:59, 2024-10-10 06:28:59, malware, 3a377486d4764d2e9180af69a23c81c9, http://60.212.66.103:35558/bin.sh
@@ -497,15 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 264121, 2024-10-09 16:02:38, 2024-10-09 16:02:38, phishing, f7395b0d2b34c487b5d6233abb7bb9fd, https://sg-massage-sharing.colloky.cl/phone
 264120, 2024-10-09 16:02:31, 2024-10-09 16:02:31, phishing, efebc9da508218fcbde3acdb95210dc8, https://sexyboobsme.pages.dev/link-1
 264119, 2024-10-09 16:02:19, 2024-10-09 16:02:19, phishing, b0cb6357cb7fb1d2d5e28cb07acec6c4, http://molina-c2f.pages.dev/
-264118, 2024-10-09 15:44:52, 2024-10-09 14:10:58, phishing, 8feb3728739bc61e47dad62491689422, https://peygiri-web.ir/data/6338574255/payment/2dc18a7V/Mellat.php
-264117, 2024-10-09 15:43:00, 2024-10-09 14:58:14, phishing, 1abdd825dc705eb72e399fcb56baca4e, https://chequeenergie2024.fr/
-264116, 2024-10-09 15:33:52, 2024-10-09 15:33:52, malware, 7921924994cc4daaa0fa580c5a93889c, http://182.127.211.42:56019/bin.sh
-264115, 2024-10-09 15:33:13, 2024-10-09 15:33:13, malware, dd30ef8a29114f41b1c0c44e8e60938e, http://182.126.117.202:41674/bin.sh
-264114, 2024-10-09 15:33:11, 2024-10-09 15:33:11, malware, d0a955cace2841a69dc855428288b01b, http://182.126.117.202:41674/
-264113, 2024-10-09 15:33:00, 2024-10-09 15:33:00, malware, e0301738aea14b79b87496cf81027de9, http://182.123.211.226:38496/i
-264112, 2024-10-09 15:32:49, 2024-10-09 15:32:49, malware, f0b266c33f6b4fd5ad8216372df1b357, http://182.121.71.43:57192/bin.sh
-264111, 2024-10-09 15:32:37, 2024-10-09 15:32:37, malware, 0078b6ad591a45829233d65414a516f3, http://182.121.249.208:42550/i
-264110, 2024-10-09 15:32:32, 2024-10-09 15:32:32, malware, c6ab619c6b4946f7af0003dc52810106, http://182.121.15.240:35794/bin.sh
-264109, 2024-10-09 15:31:39, 2024-10-09 15:31:39, malware, 774d3cc468fc4f55aae33f9782ab5796, http://182.116.88.156:47201/Mozi.m
-264108, 2024-10-09 15:31:27, 2024-10-09 15:31:27, malware, 47c8d175b3b5443fa3a1a951a9bdde62, http://182.116.123.128:51336/i
-264107, 2024-10-09 15:31:14, 2024-10-09 15:31:14, malware, c6258c32f936487998f5c0b38bd0cd99, http://182.116.123.128:51336/bin.sh
