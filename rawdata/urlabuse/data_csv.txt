@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-10 15:00:02 UTC
+# UPDATE: 2024-10-10 16:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+265004, 2024-10-10 15:58:13, 2024-10-10 15:58:13, phishing, 39b7a636d8e8a1403523208a6e51d276, https://smz.uvk.mybluehost.me/wp-content/CH/SuissePass/api/aa/d/sign.php
+265003, 2024-10-10 15:48:13, 2024-10-10 15:48:13, phishing, 9c616b73f4a77b66270dc6b264f3a255, http://180healthnow.pages.dev
+265002, 2024-10-10 15:24:17, 2024-10-10 15:24:17, phishing, 1b921ace54cc5836694dd2881aa85df7, http://swiftbloxperps.pages.dev
 265001, 2024-10-10 14:46:13, 2024-10-10 14:46:13, phishing, 3904de03b33d7a2b3307f8e7c9fc50ea, http://testimoni1.aciazta.biz.id
 265000, 2024-10-10 14:42:10, 2024-10-10 14:42:10, phishing, b7c3adbe9601e771f7a27e2294e3f597, http://ciient-1ndexauthmsonilne.aws-aws-secure.workers.dev
 264999, 2024-10-10 14:32:34, 2024-10-10 14:32:34, malware, c2d70130ba6e4a7490c9d9028575b6a8, http://61.52.39.180:60372/
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 264346, 2024-10-09 22:25:40, 2024-10-09 22:25:40, malware, ef154a458b3e4f299e1a34a30930263b, http://93.123.85.144/hiddenbin/boatnet.ppc
 264345, 2024-10-09 22:25:39, 2024-10-09 22:25:39, malware, cc21c367b13f43d99c5107a4fd98a28d, http://93.123.85.144/hiddenbin/boatnet.mpsl
 264344, 2024-10-09 22:25:39, 2024-10-09 22:25:39, malware, 80a1becbbd9f4095bf293ebdd2b051b3, http://93.123.85.144/hiddenbin/boatnet.mips
-264343, 2024-10-09 22:25:39, 2024-10-09 22:25:39, malware, a14ff36532194670b99606d6cf49ea8b, http://93.123.85.144/hiddenbin/boatnet.m68k
-264342, 2024-10-09 22:25:38, 2024-10-09 22:25:38, malware, df39bcc4829e4b7a92880bdaba7cc4c2, http://93.123.85.144/hiddenbin/boatnet.arm7
-264341, 2024-10-09 22:25:38, 2024-10-09 22:25:38, malware, d679857bb9e04ae79d97736d2ca092df, http://93.123.85.144/hiddenbin/boatnet.arm6

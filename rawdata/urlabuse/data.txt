@@ -6,8 +6,11 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-10 15:00:02 UTC
+# UPDATE: 2024-10-10 16:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 265004, "url": "https://smz.uvk.mybluehost.me/wp-content/CH/SuissePass/api/aa/d/sign.php", "discovery": "2024-10-10 15:58:13", "added": "2024-10-10 15:58:13", "target": "SwissPass", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "39b7a636d8e8a1403523208a6e51d276"}
+{"id": 265003, "url": "http://180healthnow.pages.dev", "discovery": "2024-10-10 15:48:13", "added": "2024-10-10 15:48:13", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "9c616b73f4a77b66270dc6b264f3a255"}
+{"id": 265002, "url": "http://swiftbloxperps.pages.dev", "discovery": "2024-10-10 15:24:17", "added": "2024-10-10 15:24:17", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "1b921ace54cc5836694dd2881aa85df7"}
 {"id": 265001, "url": "http://testimoni1.aciazta.biz.id", "discovery": "2024-10-10 14:46:13", "added": "2024-10-10 14:46:13", "target": "Whatsapp", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "3904de03b33d7a2b3307f8e7c9fc50ea"}
 {"id": 265000, "url": "http://ciient-1ndexauthmsonilne.aws-aws-secure.workers.dev", "discovery": "2024-10-10 14:42:10", "added": "2024-10-10 14:42:10", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "b7c3adbe9601e771f7a27e2294e3f597"}
 {"id": 264999, "url": "http://61.52.39.180:60372/", "discovery": "2024-10-10 14:32:34", "added": "2024-10-10 14:32:34", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "c2d70130ba6e4a7490c9d9028575b6a8"}
@@ -505,6 +508,3 @@
 {"id": 264346, "url": "http://93.123.85.144/hiddenbin/boatnet.ppc", "discovery": "2024-10-09 22:25:40", "added": "2024-10-09 22:25:40", "target": "#ELF32CISCO", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "ef154a458b3e4f299e1a34a30930263b"}
 {"id": 264345, "url": "http://93.123.85.144/hiddenbin/boatnet.mpsl", "discovery": "2024-10-09 22:25:39", "added": "2024-10-09 22:25:39", "target": "#ELF32_MIPSv1", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "cc21c367b13f43d99c5107a4fd98a28d"}
 {"id": 264344, "url": "http://93.123.85.144/hiddenbin/boatnet.mips", "discovery": "2024-10-09 22:25:39", "added": "2024-10-09 22:25:39", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "80a1becbbd9f4095bf293ebdd2b051b3"}
-{"id": 264343, "url": "http://93.123.85.144/hiddenbin/boatnet.m68k", "discovery": "2024-10-09 22:25:39", "added": "2024-10-09 22:25:39", "target": "#ELF32MOTOROLA", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "a14ff36532194670b99606d6cf49ea8b"}
-{"id": 264342, "url": "http://93.123.85.144/hiddenbin/boatnet.arm7", "discovery": "2024-10-09 22:25:38", "added": "2024-10-09 22:25:38", "target": "#ELF32ARM_EABI4v1", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "df39bcc4829e4b7a92880bdaba7cc4c2"}
-{"id": 264341, "url": "http://93.123.85.144/hiddenbin/boatnet.arm6", "discovery": "2024-10-09 22:25:38", "added": "2024-10-09 22:25:38", "target": "#ELF32ARM_EABI4v1", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "d679857bb9e04ae79d97736d2ca092df"}
