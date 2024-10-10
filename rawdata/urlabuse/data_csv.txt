@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-10 09:00:02 UTC
+# UPDATE: 2024-10-10 10:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+264665, 2024-10-10 09:30:16, 2024-10-10 09:30:16, phishing, 659bbd8512829a19cda060a70961d233, https://authorplatformrocket.com/wp-content/uploads/PAY/Dhl_Junia/billing.php
+264660, 2024-10-10 09:26:12, 2024-10-10 09:26:12, phishing, dd419f61b78295da7176e13e6cbd5817, https://swisspass.help/
 264656, 2024-10-10 08:36:15, 2024-10-10 08:36:15, phishing, 742648562246f4af973af93db18c79df, http://custumrhelp.business-manange.com
 264655, 2024-10-10 08:32:14, 2024-10-10 08:32:14, phishing, dcee17038779a7557c3d45895bf6269c, http://mail.custumrhelp.business-manange.com
 264654, 2024-10-10 08:29:43, 2024-10-10 08:29:43, malware, c54a2ab8efcc4fb6b2f38064d240f0a5, http://67.214.245.59:58610/bin.sh
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 264161, 2024-10-09 16:31:55, 2024-10-09 16:31:55, malware, 0efd7c69fc6744cfa816b21caba09ece, http://222.142.245.39:49043/i
 264160, 2024-10-09 16:31:46, 2024-10-09 16:31:46, malware, 32ae0ffa3d6e43e790c246502cfe2a77, http://222.142.245.39:49043/bin.sh
 264159, 2024-10-09 16:31:39, 2024-10-09 16:31:39, malware, 0beea6924c7a4b54aa76c9343c791836, http://222.141.235.60:59256/i
-264158, 2024-10-09 16:31:31, 2024-10-09 16:31:31, malware, 7480f4b1f9c8443d95c3e7690abd7163, http://222.141.235.60:59256/bin.sh
-264157, 2024-10-09 16:31:22, 2024-10-09 16:31:22, malware, a9568e7bca8a4700b74d612e46abca5f, http://222.140.184.50:37626/i
