@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-10 01:00:01 UTC
+# UPDATE: 2024-10-10 02:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+264414, 2024-10-10 01:42:18, 2024-10-10 01:42:18, phishing, 1f7df7e7ae6cdb9b9ab2bdc19171d52b, http://gay-community.wiki.gd
+264413, 2024-10-10 01:20:13, 2024-10-10 01:20:13, phishing, 236203a93bc58e40c282a0c97b52899a, http://telegramgroupxxxxxxxxxx.pages.dev
 264412, 2024-10-10 00:27:05, 2024-10-10 00:27:05, malware, d96bf4c7bf6246d69fe64cd364fe6c96, http://mkas.rizwanmano.com/lopsa/67057a2256a25_SwiftKey.exe
 264411, 2024-10-10 00:26:38, 2024-10-10 00:26:38, malware, 414919d5e8394a96893269b0467cfe84, http://71.89.182.39:35860/bin.sh
 264410, 2024-10-10 00:26:36, 2024-10-10 00:26:36, malware, ba58128b0b414bcc831c5bf78aba8685, http://69.117.23.50:40707/Mozi.m
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 263879, 2024-10-09 08:25:44, 2024-10-09 08:25:44, malware, cbde8838d16346c385c1b70cb97adc7d, http://113.26.80.103:38301/bin.sh
 263878, 2024-10-09 08:25:30, 2024-10-09 08:25:30, malware, 2d8047b7e7654dbc98af16cbfee14e1b, http://113.26.59.101:43555/Mozi.a
 263877, 2024-10-09 08:25:27, 2024-10-09 08:25:27, malware, 057e632e4fe54d6689d9448fd9d3c641, http://113.24.165.105:33107/i
-263876, 2024-10-09 08:24:04, 2024-10-09 08:24:04, malware, c95c518c5faa4f949db50f672e532b75, http://113.205.166.201:54874/i
-263875, 2024-10-09 08:23:56, 2024-10-09 08:23:56, malware, 1d3fbf6de333402c9c1dc2b951beebff, http://113.205.166.201:54874/bin.sh
