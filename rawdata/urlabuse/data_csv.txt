@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-10 03:00:01 UTC
+# UPDATE: 2024-10-10 04:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+264456, 2024-10-10 03:54:15, 2024-10-10 03:54:15, phishing, f8d832624a120bfc125c48022561df6c, http://imtokem.info
+264455, 2024-10-10 03:26:16, 2024-10-10 03:26:16, phishing, 7f4975abc5cbc6a958beddac7af00c4f, http://ouiasdjkzx.cyou
 264454, 2024-10-10 02:24:54, 2024-10-10 02:24:54, malware, a99b4291a8434b989c484bd7479228c4, http://61.0.213.235:46678/Mozi.m
 264453, 2024-10-10 02:24:52, 2024-10-10 02:24:52, malware, e47774204bb24203b75cb660d6fc33e7, http://61.0.179.96:34908/i
 264452, 2024-10-10 02:24:42, 2024-10-10 02:24:42, malware, 2b4736f3c32a449bac35ba7e4cc7b0e3, http://59.96.163.216:58699/i
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 263922, 2024-10-09 10:20:21, 2024-10-09 10:20:21, malware, 97fb331874d047d184320b073ad0a492, http://110.182.71.91:58793/bin.sh
 263921, 2024-10-09 10:20:15, 2024-10-09 10:20:15, phishing, a98e944e43928708dca66a0d8fd9eeac, http://resolutions-dapp.pages.dev
 263920, 2024-10-09 10:05:35, 2024-10-09 10:05:35, phishing, c2ce57cc9677059c87cb26c60aded3c4, http://allctr.org.previewc38.carrierzone.com/sharepoint/
-263919, 2024-10-09 10:05:26, 2024-10-09 10:05:26, phishing, bb5c23d972225d1d7bf388942be0327a, https://pub-7f16473a6a0c4196aa4e05271d2e99eb.r2.dev/MicrosoftOutlook3.html
-263918, 2024-10-09 10:04:03, 2024-10-09 10:04:03, phishing, 27eb821fac8ed1cf51d4e44255efeed4, https://joinfreee.sg-host.com/
