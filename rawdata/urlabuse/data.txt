@@ -6,8 +6,12 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-09 23:00:02 UTC
+# UPDATE: 2024-10-10 00:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 264357, "url": "http://lide.omernisar.com/yuop/66b7a4a075311_AsianAsp.exe", "discovery": "2024-10-09 23:35:02", "added": "2024-10-09 23:35:02", "target": "#PE32INTEL_GUI", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "fcff43467a7842b69624d8a0d1f149d3"}
+{"id": 264356, "url": "http://lide.omernisar.com/yuop/66b11f4cc8fbf_MarriageWriters.exe", "discovery": "2024-10-09 23:24:12", "added": "2024-10-09 23:24:12", "target": "#PE32INTEL_GUI", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "31e2e2fa32644027b19e1a7c27352f7d"}
+{"id": 264355, "url": "http://lide.omernisar.com/yuop/66b09d7d34310_DefragManager.exe", "discovery": "2024-10-09 23:23:11", "added": "2024-10-09 23:23:11", "target": "#PE32INTEL_GUI", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "2f8efc50fafc402b81d8f6044f211d25"}
+{"id": 264354, "url": "http://resolution-dapps.pages.dev", "discovery": "2024-10-09 23:06:15", "added": "2024-10-09 23:06:15", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "e1b1df841f7e79e7ab1d006e51135bc8"}
 {"id": 264353, "url": "http://lide.omernisar.com/revada/66b2871b47a8b_uhigdbf.exe", "discovery": "2024-10-09 22:34:47", "added": "2024-10-09 22:34:47", "target": "#PE64", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "bb097e9577494fb88139f8e69b065aee"}
 {"id": 264352, "url": "http://lide.omernisar.com/revada/66b211924622f_LummaC2.exe", "discovery": "2024-10-09 22:34:22", "added": "2024-10-09 22:34:22", "target": "#PE32INTEL_GUI", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "ab5db1340ffc480e929379c94a4bb57a"}
 {"id": 264351, "url": "http://lide.omernisar.com/revada/66af9bdbf0f60_Team.exe", "discovery": "2024-10-09 22:34:20", "added": "2024-10-09 22:34:20", "target": "#PE64", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "588d7a59d3de42b79589bd418e748d35"}
@@ -504,7 +508,3 @@
 {"id": 263761, "url": "http://117.248.19.240:54229/i", "discovery": "2024-10-09 07:20:07", "added": "2024-10-09 07:20:07", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "354fc84fd76b49d4b9d9dee8a707d59d"}
 {"id": 263760, "url": "http://pub-a171e54c218a403881c7837e2114520c.r2.dev/index.html", "discovery": "2024-10-09 07:02:52", "added": "2024-10-09 07:02:52", "target": "Microsoft", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "7fbf707433ee238d7b8ea0b5e5227f5c"}
 {"id": 263759, "url": "https://uhhdfxcbvjkjdfhui0gruhdjklrd.smile-dx6.pages.dev/", "discovery": "2024-10-09 07:02:12", "added": "2024-10-09 07:02:12", "target": "Microsoft", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "eac1672c4d3001128e91e578067383dd"}
-{"id": 263758, "url": "http://telegram-vip-new.netlify.app/", "discovery": "2024-10-09 07:00:43", "added": "2024-10-09 07:00:43", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "9827923502c5f7382b13d5696e22c56c"}
-{"id": 263757, "url": "http://join-telesex-free.pages.dev/", "discovery": "2024-10-09 07:00:40", "added": "2024-10-09 07:00:40", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "2b542cb9416c3858539cbbd2ff551564"}
-{"id": 263756, "url": "http://lender-abang.pages.dev/", "discovery": "2024-10-09 07:00:25", "added": "2024-10-09 07:00:25", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "d5ef497b97e0799aa109e98dde4d7dfb"}
-{"id": 263755, "url": "http://tele-hots.vercel.app/", "discovery": "2024-10-09 07:00:19", "added": "2024-10-09 07:00:19", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "52a49188b89fcd1f0d063cd9d0510aa9"}

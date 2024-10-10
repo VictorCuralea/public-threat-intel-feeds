@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-09 23:00:02 UTC
+# UPDATE: 2024-10-10 00:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+264357, 2024-10-09 23:35:02, 2024-10-09 23:35:02, malware, fcff43467a7842b69624d8a0d1f149d3, http://lide.omernisar.com/yuop/66b7a4a075311_AsianAsp.exe
+264356, 2024-10-09 23:24:12, 2024-10-09 23:24:12, malware, 31e2e2fa32644027b19e1a7c27352f7d, http://lide.omernisar.com/yuop/66b11f4cc8fbf_MarriageWriters.exe
+264355, 2024-10-09 23:23:11, 2024-10-09 23:23:11, malware, 2f8efc50fafc402b81d8f6044f211d25, http://lide.omernisar.com/yuop/66b09d7d34310_DefragManager.exe
+264354, 2024-10-09 23:06:15, 2024-10-09 23:06:15, phishing, e1b1df841f7e79e7ab1d006e51135bc8, http://resolution-dapps.pages.dev
 264353, 2024-10-09 22:34:47, 2024-10-09 22:34:47, malware, bb097e9577494fb88139f8e69b065aee, http://lide.omernisar.com/revada/66b2871b47a8b_uhigdbf.exe
 264352, 2024-10-09 22:34:22, 2024-10-09 22:34:22, malware, ab5db1340ffc480e929379c94a4bb57a, http://lide.omernisar.com/revada/66b211924622f_LummaC2.exe
 264351, 2024-10-09 22:34:20, 2024-10-09 22:34:20, malware, 588d7a59d3de42b79589bd418e748d35, http://lide.omernisar.com/revada/66af9bdbf0f60_Team.exe
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 263761, 2024-10-09 07:20:07, 2024-10-09 07:20:07, malware, 354fc84fd76b49d4b9d9dee8a707d59d, http://117.248.19.240:54229/i
 263760, 2024-10-09 07:02:52, 2024-10-09 07:02:52, phishing, 7fbf707433ee238d7b8ea0b5e5227f5c, http://pub-a171e54c218a403881c7837e2114520c.r2.dev/index.html
 263759, 2024-10-09 07:02:12, 2024-10-09 07:02:12, phishing, eac1672c4d3001128e91e578067383dd, https://uhhdfxcbvjkjdfhui0gruhdjklrd.smile-dx6.pages.dev/
-263758, 2024-10-09 07:00:43, 2024-10-09 07:00:43, phishing, 9827923502c5f7382b13d5696e22c56c, http://telegram-vip-new.netlify.app/
-263757, 2024-10-09 07:00:40, 2024-10-09 07:00:40, phishing, 2b542cb9416c3858539cbbd2ff551564, http://join-telesex-free.pages.dev/
-263756, 2024-10-09 07:00:25, 2024-10-09 07:00:25, phishing, d5ef497b97e0799aa109e98dde4d7dfb, http://lender-abang.pages.dev/
-263755, 2024-10-09 07:00:19, 2024-10-09 07:00:19, phishing, 52a49188b89fcd1f0d063cd9d0510aa9, http://tele-hots.vercel.app/
