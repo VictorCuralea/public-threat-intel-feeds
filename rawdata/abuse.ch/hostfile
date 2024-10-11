@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-10-10 20:03:51 UTC                        #
+# Last updated: 2024-10-11 00:04:05 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	net-5-88-104-52.cust.vodafonedsl.it
 127.0.0.1	outlook.revolut-disable-email.com
 127.0.0.1	login.revolut-disable-email.com
 127.0.0.1	poczta.revolut-disabled-email.net
@@ -9296,4 +9297,4 @@
 127.0.0.1	ssh-client.co
 127.0.0.1	putty-ssh.com
 127.0.0.1	parahoyestsidio.duckdns.org
-# Number of entries: 9290
+# Number of entries: 9291
