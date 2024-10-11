@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-11 11:00:02 UTC
+# UPDATE: 2024-10-11 12:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+265593, 2024-10-11 11:38:19, 2024-10-11 11:38:19, phishing, 1d6a733fb2064c3560e97d87ac5d8bcf, https://kabirdentalclinic.online/img/swisscom/login.html
+265592, 2024-10-11 11:38:14, 2024-10-11 11:38:14, phishing, 3078ef8cf6a9651fd611afe7c14fa040, https://knpgaymrhb.cfolks.pl/cgi-bin/auth/index/
 265591, 2024-10-11 10:31:55, 2024-10-11 10:31:55, malware, ff020ab85eef497f8a8ef9a615328d6d, https://annoyingfiler.com/requested/kbsn5.zip
 265590, 2024-10-11 10:31:27, 2024-10-11 10:31:27, malware, 882e411400cd48fda4f727a4ede5c6e5, https://annoyingfiler.com/requested/kbsn4.zip
 265589, 2024-10-11 10:31:18, 2024-10-11 10:31:18, malware, 50dd0478312d47ef88dcf4084b9d9111, https://annoyingfiler.com/requested/kbsn1.zip
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 265096, 2024-10-10 16:44:04, 2024-10-10 16:44:04, malware, 244d8e2e6e8d4f23a6d1d6493deca29e, https://qaribe.sbs/data/7737293249/payment/Z7cdV03b/maeishati/download.php
 265095, 2024-10-10 16:43:10, 2024-10-10 16:05:28, phishing, fc0c1e92937034101f9f1eafd7f32a49, https://qaribe.sbs/data/7737293249/payment/Z7cdV03b/maeishati/dashbord/
 265094, 2024-10-10 16:32:33, 2024-10-10 16:32:33, malware, 39b6d11fa9dc4b69bbf94afc2a7ce3b6, http://95.135.156.46:58405/i
-265093, 2024-10-10 16:32:32, 2024-10-10 16:32:32, malware, cb6fc259a98449adb38aa64625781a99, http://95.135.156.46:58405/bin.sh
-265092, 2024-10-10 16:32:13, 2024-10-10 16:32:13, malware, c5a62845a0be4aabb62b325b76ae1130, http://61.54.59.45:59865/bin.sh

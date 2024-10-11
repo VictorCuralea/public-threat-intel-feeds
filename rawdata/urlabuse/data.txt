@@ -6,8 +6,10 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-11 11:00:02 UTC
+# UPDATE: 2024-10-11 12:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 265593, "url": "https://kabirdentalclinic.online/img/swisscom/login.html", "discovery": "2024-10-11 11:38:19", "added": "2024-10-11 11:38:19", "target": "Swisscom", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "1d6a733fb2064c3560e97d87ac5d8bcf"}
+{"id": 265592, "url": "https://knpgaymrhb.cfolks.pl/cgi-bin/auth/index/", "discovery": "2024-10-11 11:38:14", "added": "2024-10-11 11:38:14", "target": "SwissPass", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "3078ef8cf6a9651fd611afe7c14fa040"}
 {"id": 265591, "url": "https://annoyingfiler.com/requested/kbsn5.zip", "discovery": "2024-10-11 10:31:55", "added": "2024-10-11 10:31:55", "target": "#ZIP", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "ff020ab85eef497f8a8ef9a615328d6d"}
 {"id": 265590, "url": "https://annoyingfiler.com/requested/kbsn4.zip", "discovery": "2024-10-11 10:31:27", "added": "2024-10-11 10:31:27", "target": "#ZIP", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "882e411400cd48fda4f727a4ede5c6e5"}
 {"id": 265589, "url": "https://annoyingfiler.com/requested/kbsn1.zip", "discovery": "2024-10-11 10:31:18", "added": "2024-10-11 10:31:18", "target": "#ZIP", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "50dd0478312d47ef88dcf4084b9d9111"}
@@ -506,5 +508,3 @@
 {"id": 265096, "url": "https://qaribe.sbs/data/7737293249/payment/Z7cdV03b/maeishati/download.php", "discovery": "2024-10-10 16:44:04", "added": "2024-10-10 16:44:04", "target": "#IRATA", "reporter": "urlabuse", "AbuseType": "malware", "UUID": "244d8e2e6e8d4f23a6d1d6493deca29e"}
 {"id": 265095, "url": "https://qaribe.sbs/data/7737293249/payment/Z7cdV03b/maeishati/dashbord/", "discovery": "2024-10-10 16:05:28", "added": "2024-10-10 16:43:10", "target": "Saham Edalat", "reporter": "Sh", "AbuseType": "phishing", "UUID": "fc0c1e92937034101f9f1eafd7f32a49"}
 {"id": 265094, "url": "http://95.135.156.46:58405/i", "discovery": "2024-10-10 16:32:33", "added": "2024-10-10 16:32:33", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "39b6d11fa9dc4b69bbf94afc2a7ce3b6"}
-{"id": 265093, "url": "http://95.135.156.46:58405/bin.sh", "discovery": "2024-10-10 16:32:32", "added": "2024-10-10 16:32:32", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "cb6fc259a98449adb38aa64625781a99"}
-{"id": 265092, "url": "http://61.54.59.45:59865/bin.sh", "discovery": "2024-10-10 16:32:13", "added": "2024-10-10 16:32:13", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "c5a62845a0be4aabb62b325b76ae1130"}
