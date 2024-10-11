@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-10-11 08:04:07 UTC                        #
+# Last updated: 2024-10-11 19:00:23 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	suiatcarew.biz
 127.0.0.1	files.bitcube.ca
 127.0.0.1	www.redcap.work
 127.0.0.1	60l.ndfl.shop
@@ -9317,4 +9318,4 @@
 127.0.0.1	yourserenahelpcustom.uk
 127.0.0.1	nebraska-lawyers.com
 127.0.0.1	antfinancial.tech
-# Number of entries: 9311
+# Number of entries: 9312
