@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-11 17:00:01 UTC
+# UPDATE: 2024-10-11 18:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+265808, 2024-10-11 17:54:14, 2024-10-11 17:54:14, phishing, 977823bdad87fd455fbf906c6658a05e, https://trvolilcr.me/%f0%9d%90%9c%e2%80%8c%e2%80%8c/
+265807, 2024-10-11 17:53:56, 2024-10-11 17:24:59, phishing, a0c3dd23f3bf87e77eb18d48548d6081, https://trvolilcr.me/
+265806, 2024-10-11 17:52:57, 2024-10-11 17:24:22, phishing, 848e0cf6dc5b920be1e316c3fb811423, https://esnwoe.com/%F0%9D%90%9C%E2%80%8C%E2%80%8C/
 265805, 2024-10-11 16:32:33, 2024-10-11 15:46:13, phishing, 863e9ed1a82cc253ecfa5b1b9c8d18c5, https://bt-jikdfjkdfk.weeblysite.com/
 265804, 2024-10-11 16:32:15, 2024-10-11 16:32:15, phishing, 8650727b0a07520cd5fc12caf03f31e9, https://my-site-101210-106453.weeblysite.com
 265803, 2024-10-11 16:31:51, 2024-10-11 15:46:13, phishing, b42bb9769c618a7d1a1147f13fb76510, https://free-5614593.webadorsite.com/
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 265311, 2024-10-11 02:24:37, 2024-10-11 02:24:37, malware, d6ef44a5c71d49fe9e1fac02eaea9078, http://125.41.80.205:51567/Mozi.m
 265310, 2024-10-11 02:24:35, 2024-10-11 02:24:35, malware, dd2097946fc548458c79f05c69b1ca36, http://123.14.48.64:35607/i
 265309, 2024-10-11 02:24:33, 2024-10-11 02:24:33, malware, 6643030626d545f188f4df169be0d13e, http://123.129.130.65:39787/bin.sh
-265308, 2024-10-11 02:24:31, 2024-10-11 02:24:31, malware, 3f3079b847114900808d27c629ac3b64, http://123.12.231.21:47104/i
-265307, 2024-10-11 02:24:29, 2024-10-11 02:24:29, malware, b6925aafe336490281d31f26a7706040, http://121.231.177.126:58170/bin.sh
-265306, 2024-10-11 02:24:22, 2024-10-11 02:24:22, malware, 0dce467eaced4fbf8f197f6552330e97, http://120.61.203.115:47868/Mozi.m
