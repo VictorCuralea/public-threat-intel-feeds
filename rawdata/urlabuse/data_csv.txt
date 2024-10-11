@@ -6,9 +6,17 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-11 09:00:01 UTC
+# UPDATE: 2024-10-11 10:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+265560, 2024-10-11 09:11:10, 2024-10-11 08:34:13, phishing, c36c5292a3b7beaff89aaf9965859192, https://dmcaactionenforcement.vercel.app/page
+265559, 2024-10-11 09:10:55, 2024-10-11 09:10:55, phishing, f2f71dc2243d392b30a3f3fff642ab92, https://btbroadbandpage.weebly.com/
+265558, 2024-10-11 09:10:45, 2024-10-11 07:50:16, phishing, 377922c289a424903718e1625931a0d5, https://mylinks.ai/btbroadbandpage
+265557, 2024-10-11 09:10:27, 2024-10-11 07:46:27, phishing, e01a1cbb5eca22da25ce562979f9c2cb, https://rslexpress.com.br/3456789/index.php?i=i&keyid=x
+265556, 2024-10-11 09:08:44, 2024-10-11 07:44:15, phishing, 025da6561e2c8a890548115160818ce8, http://meta-io.mypets.ws/
+265555, 2024-10-11 09:08:19, 2024-10-11 07:42:13, phishing, 01d9716fc530e52e3523d235d40d0485, https://drabb100.serv00.net/metamask-id/
+265554, 2024-10-11 09:07:56, 2024-10-11 05:49:02, phishing, cb117f43d2012dd6ffa46a30af4bfab8, https://bafkreibpwiazj4zv4usqssfpiige2fltl3abkjtcjrkrhtoindg5d7oc2i.ipfs.flk-ipfs.xyz/#x
+265553, 2024-10-11 09:02:13, 2024-10-11 09:02:13, phishing, c0d6736988c2d4fb41a22b57b2188513, http://concero-xpubdebugtool.pages.dev
 265552, 2024-10-11 08:38:11, 2024-10-11 08:38:11, phishing, f158d85be80cbf0d17d61c4216d5e758, http://concero-rpcdebug.pages.dev
 265551, 2024-10-11 08:35:07, 2024-10-11 08:35:07, malware, 3939ec8087824413aaeeb8217e24aba4, http://95.132.254.105:54576/i
 265550, 2024-10-11 08:35:06, 2024-10-11 08:35:06, malware, b51f2aeca8ae4d1daa084c208ddf9904, http://92.26.84.52:46545/Mozi.m
@@ -501,11 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 265063, 2024-10-10 16:28:39, 2024-10-10 16:28:39, malware, 29c3c25208be45808647a60faef22e69, http://219.155.209.209:36395/i
 265062, 2024-10-10 16:28:37, 2024-10-10 16:28:37, malware, f04306456b7548e2929b693f38a2aaad, http://196.191.231.12:39307/Mozi.m
 265061, 2024-10-10 16:27:35, 2024-10-10 16:27:35, malware, efa39e92cafa45cd8abc0395c1706bd6, http://182.240.226.72:58517/bin.sh
-265060, 2024-10-10 16:27:31, 2024-10-10 16:27:31, malware, 046b5b17217f41e6bf23af3866e722e5, http://182.127.128.123:60086/i
-265059, 2024-10-10 16:27:29, 2024-10-10 16:27:29, malware, ff837ba27229471fa49522e2e1d77dcf, http://182.127.128.123:60086/bin.sh
-265058, 2024-10-10 16:27:27, 2024-10-10 16:27:27, malware, dad721d624e74a55a48354ba36adff1e, http://182.126.96.52:56069/Mozi.m
-265057, 2024-10-10 16:27:25, 2024-10-10 16:27:25, malware, 5e22ac240429469f8ef1cf37ac14bf39, http://182.122.194.125:44755/i
-265056, 2024-10-10 16:27:23, 2024-10-10 16:27:23, malware, b6f69d3603774ab3bbb5f0376a11c397, http://182.121.131.220:49835/i
-265055, 2024-10-10 16:27:21, 2024-10-10 16:27:21, malware, 11cf1542bd8d44179607912e4d0f9d5a, http://125.45.24.27:34330/i
-265054, 2024-10-10 16:27:18, 2024-10-10 16:27:18, malware, 8fd919f3a31449c1af5911951b872adf, http://125.45.24.27:34330/bin.sh
-265053, 2024-10-10 16:26:46, 2024-10-10 16:26:46, malware, 35b39dfb8267432e963effccaa1d681d, http://125.41.228.7:51156/bin.sh
