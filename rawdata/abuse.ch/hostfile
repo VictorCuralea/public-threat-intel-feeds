@@ -1,11 +1,40 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-10-11 00:04:05 UTC                        #
+# Last updated: 2024-10-11 06:48:40 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	srv1.pty.su
+127.0.0.1	srv2.pty.su
+127.0.0.1	srv3.pty.su
+127.0.0.1	srv4.pty.su
+127.0.0.1	srv5.pty.su
+127.0.0.1	srv6.pty.su
+127.0.0.1	srv7.pty.su
+127.0.0.1	srv8.pty.su
+127.0.0.1	srv9.pty.su
+127.0.0.1	srv10.pty.su
+127.0.0.1	pushcg.com
+127.0.0.1	cnc.loctajima.website
+127.0.0.1	wickedneatr.sbs
+127.0.0.1	lameuotgiwo.store
+127.0.0.1	invinjurhey.sbs
+127.0.0.1	laddyirekyi.sbs
+127.0.0.1	exilepolsiy.sbs
+127.0.0.1	bemuzzeki.sbs
+127.0.0.1	exemplarou.sbs
+127.0.0.1	isoplethui.sbs
+127.0.0.1	basizuw.buzz
+127.0.0.1	drawwyobstacw.sbs
+127.0.0.1	condifendteu.sbs
+127.0.0.1	ehticsprocw.sbs
+127.0.0.1	vennurviot.sbs
+127.0.0.1	resinedyw.sbs
+127.0.0.1	enlargkiw.sbs
+127.0.0.1	allocatinow.sbs
+127.0.0.1	mathcucom.sbs
 127.0.0.1	net-5-88-104-52.cust.vodafonedsl.it
 127.0.0.1	outlook.revolut-disable-email.com
 127.0.0.1	login.revolut-disable-email.com
@@ -9285,5 +9314,4 @@
 127.0.0.1	wpseed.com
 127.0.0.1	estesidiosplat.duckdns.org
 127.0.0.1	liverpool777.duckdns.org
-127.0.0.1	wassonite.com
-# Number of entries: 9280
+# Number of entries: 9308
