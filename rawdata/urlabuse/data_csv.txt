@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-11 15:00:02 UTC
+# UPDATE: 2024-10-11 16:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+265729, 2024-10-11 15:58:13, 2024-10-11 15:58:13, phishing, 3e1c1372124e4f1710ca37f5cedea093, http://180healthnow-adobe.pages.dev
+265728, 2024-10-11 15:00:15, 2024-10-11 15:00:15, phishing, 19d16dda6ea9adb04d646009c7da6192, http://telgam.online
 265727, 2024-10-11 14:57:51, 2024-10-11 14:56:27, phishing, ae157d1f2c620945c09c159636666b68, https://ivory105280.studio.site/
 265726, 2024-10-11 14:56:53, 2024-10-11 14:56:53, phishing, a0e3f23f989fd835e30f3bb2582e2a16, https://fsdsdsrdhsusjas.weebly.com/
 265725, 2024-10-11 14:56:41, 2024-10-11 14:36:14, phishing, 5716794be3da5cb7ceb8f332eee2c2f1, https://heyflow.id/btbroadbandsdss
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 265232, 2024-10-11 00:20:48, 2024-10-11 00:20:48, malware, b16f5ae8f96a45e1acce5ddccdc582b0, http://115.63.190.147:51070/Mozi.m
 265231, 2024-10-11 00:20:46, 2024-10-11 00:20:46, malware, 1b4c6e24f0d840879687cd22ab781d3a, http://115.59.17.133:42946/i
 265230, 2024-10-11 00:20:35, 2024-10-11 00:20:35, malware, 174f99c3f3ce424ea7d3ba408296bb93, http://113.235.112.209:38545/Mozi.m
-265229, 2024-10-11 00:20:31, 2024-10-11 00:20:31, malware, 63a61635404d4efa9b1f03f0edf468fc, http://112.31.82.160:34355/Mozi.a
-265228, 2024-10-11 00:20:28, 2024-10-11 00:20:28, malware, e7e81e662aa94eaf8ecc60e617059c4a, http://112.248.187.50:54250/i

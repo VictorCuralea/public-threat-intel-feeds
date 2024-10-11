@@ -6,8 +6,10 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-11 15:00:02 UTC
+# UPDATE: 2024-10-11 16:00:02 UTC
 ############### END COMMENTS ###############
+{"id": 265729, "url": "http://180healthnow-adobe.pages.dev", "discovery": "2024-10-11 15:58:13", "added": "2024-10-11 15:58:13", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "3e1c1372124e4f1710ca37f5cedea093"}
+{"id": 265728, "url": "http://telgam.online", "discovery": "2024-10-11 15:00:15", "added": "2024-10-11 15:00:15", "target": "Telegram", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "19d16dda6ea9adb04d646009c7da6192"}
 {"id": 265727, "url": "https://ivory105280.studio.site/", "discovery": "2024-10-11 14:56:27", "added": "2024-10-11 14:57:51", "target": "BT", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "ae157d1f2c620945c09c159636666b68"}
 {"id": 265726, "url": "https://fsdsdsrdhsusjas.weebly.com/", "discovery": "2024-10-11 14:56:53", "added": "2024-10-11 14:56:53", "target": "BT", "reporter": "urlabuse", "AbuseType": "phishing", "UUID": "a0e3f23f989fd835e30f3bb2582e2a16"}
 {"id": 265725, "url": "https://heyflow.id/btbroadbandsdss", "discovery": "2024-10-11 14:36:14", "added": "2024-10-11 14:56:41", "target": "BT", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "5716794be3da5cb7ceb8f332eee2c2f1"}
@@ -506,5 +508,3 @@
 {"id": 265232, "url": "http://115.63.190.147:51070/Mozi.m", "discovery": "2024-10-11 00:20:48", "added": "2024-10-11 00:20:48", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "b16f5ae8f96a45e1acce5ddccdc582b0"}
 {"id": 265231, "url": "http://115.59.17.133:42946/i", "discovery": "2024-10-11 00:20:46", "added": "2024-10-11 00:20:46", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "1b4c6e24f0d840879687cd22ab781d3a"}
 {"id": 265230, "url": "http://113.235.112.209:38545/Mozi.m", "discovery": "2024-10-11 00:20:35", "added": "2024-10-11 00:20:35", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "174f99c3f3ce424ea7d3ba408296bb93"}
-{"id": 265229, "url": "http://112.31.82.160:34355/Mozi.a", "discovery": "2024-10-11 00:20:31", "added": "2024-10-11 00:20:31", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "63a61635404d4efa9b1f03f0edf468fc"}
-{"id": 265228, "url": "http://112.248.187.50:54250/i", "discovery": "2024-10-11 00:20:28", "added": "2024-10-11 00:20:28", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "e7e81e662aa94eaf8ecc60e617059c4a"}
