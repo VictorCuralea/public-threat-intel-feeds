@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-11 05:00:01 UTC
+# UPDATE: 2024-10-11 06:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+265401, 2024-10-11 05:58:12, 2024-10-11 05:58:12, phishing, 4df69b0984af4613c5a53f885927aeec, http://stablejack-xpubdebug.pages.dev
+265400, 2024-10-11 05:12:13, 2024-10-11 05:12:13, phishing, 24ce671830b3bb36bfa9792776432444, http://tweb.namecheapd.xyz
 265399, 2024-10-11 04:46:17, 2024-10-11 04:46:17, phishing, 0751456b285e954f7afc3bb6c3cbf6a9, http://ervro.pages.dev
 265398, 2024-10-11 04:34:18, 2024-10-11 04:34:18, phishing, 2f2ea847981b93635d8947de1222f47e, http://revenue-rewards.pages.dev
 265397, 2024-10-11 04:31:30, 2024-10-11 04:31:30, malware, 8998d8574d6449d29ce99726f79f7d3a, http://62.204.41.176/db293a2c1b1c70c4/sqlite3.dll
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 264902, 2024-10-10 12:29:07, 2024-10-10 12:29:07, malware, fc02304b2dcf43099a7d04cdb0762120, http://182.119.184.253:39476/i
 264901, 2024-10-10 12:29:04, 2024-10-10 12:29:04, malware, 9338eb46ec4d4a2aa50b0c7e2d79272a, http://182.119.184.253:39476/bin.sh
 264900, 2024-10-10 12:28:44, 2024-10-10 12:28:44, malware, 2ffd1fb5eb714f86a003b9c974bf873d, http://182.112.63.196:38442/bin.sh
-264899, 2024-10-10 12:28:42, 2024-10-10 12:28:42, malware, 75622b32781045008488b922e0b8f8da, http://175.31.170.212:35620/i
-264898, 2024-10-10 12:28:27, 2024-10-10 12:28:27, malware, 0114d7f5c2624080984db6424a9c8fd6, http://175.30.110.55:60343/i
