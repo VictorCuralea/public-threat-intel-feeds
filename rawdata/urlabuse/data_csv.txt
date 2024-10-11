@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-10 23:00:01 UTC
+# UPDATE: 2024-10-11 00:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+265222, 2024-10-10 23:28:16, 2024-10-10 23:28:16, phishing, dbeaafdca2d9d5845037d9ba0e34e3c3, http://s-anpassung.com
 265221, 2024-10-10 22:44:13, 2024-10-10 22:44:13, phishing, 6d59e855c3b81ceefcd404433c4d684e, http://rojdingserijridhsjbalsisgser2.pages.dev
 265220, 2024-10-10 22:24:58, 2024-10-10 22:24:58, malware, 3f89eb6fc10c444a9c4a0aefc673e526, http://96.245.233.135:34003/bin.sh
 265219, 2024-10-10 22:24:56, 2024-10-10 22:24:56, malware, 679307a08cd145a3a50c1b14e694a07b, http://61.3.30.118:59726/
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 264564, 2024-10-10 06:21:28, 2024-10-10 06:21:28, malware, 8d77a45d79264c7f99c56aaa258ff343, http://115.48.144.133:33542/i
 264563, 2024-10-10 06:21:26, 2024-10-10 06:21:26, malware, 2e9ef83fcf4a4d5e83d6228cbfaaf137, http://115.48.144.133:33542/bin.sh
 264562, 2024-10-10 06:21:04, 2024-10-10 06:21:04, malware, f8f1951be1474bacadf4e8241920125d, http://112.248.188.42:60374/i
-264561, 2024-10-10 06:21:02, 2024-10-10 06:21:02, malware, 6304324456c242e4b31a4074de233c31, http://111.121.213.68:57000/i
