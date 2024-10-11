@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-11 03:00:01 UTC
+# UPDATE: 2024-10-11 04:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+265351, 2024-10-11 03:44:11, 2024-10-11 03:44:11, phishing, e78c9c62fe0f229acaae70a1b91cfaa4, http://suiet-cloud.pages.dev
+265350, 2024-10-11 03:44:10, 2024-10-11 03:44:10, phishing, f4e09718b9f8af25414a8459f17215ab, http://suiet-cloud.pages.dev
+265349, 2024-10-11 03:16:11, 2024-10-11 03:16:11, phishing, 72f63962708124303bb22f58f302e5ab, http://reglementation-antai.com
+265348, 2024-10-11 03:04:10, 2024-10-11 03:04:10, phishing, 47eb6e55430ee556b49dc6aa5bec5d3b, http://chakrachain-xpub.pages.dev
 265347, 2024-10-11 02:38:12, 2024-10-11 02:38:12, phishing, babb99aacc644543032799222032604f, http://supercorenodedapp.pages.dev
 265346, 2024-10-11 02:34:15, 2024-10-11 02:34:15, phishing, 5c9720eb63f1ebe978fb2e55c016ccd8, http://indo-viral.guied57.biz.id
 265345, 2024-10-11 02:27:47, 2024-10-11 02:27:47, malware, 0c0afd9cf08545d0af13b2de208ec1aa, http://61.3.217.206:35483/Mozi.m
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 264798, 2024-10-10 10:26:41, 2024-10-10 10:26:41, malware, aec1bfcbeb574205a32fda0e5a3384e0, http://182.243.152.20:52181/bin.sh
 264797, 2024-10-10 10:26:28, 2024-10-10 10:26:28, malware, ed614bff67f14ec7b55666f336ee18de, http://182.119.249.144:52397/i
 264796, 2024-10-10 10:25:49, 2024-10-10 10:25:49, malware, 3338294569e949b18259c89509ae065d, http://125.47.197.128:56360/i
-264795, 2024-10-10 10:25:45, 2024-10-10 10:25:45, malware, e4b8add56cd44890a10e7800e9dc5c4b, http://125.47.197.128:56360/bin.sh
-264794, 2024-10-10 10:25:31, 2024-10-10 10:25:31, malware, 468e7d9e892649e29d04d5c539764f18, http://125.41.231.170:37486/i
-264793, 2024-10-10 10:25:28, 2024-10-10 10:25:28, malware, 254d2a7e22184f7db624ffc4def2f2df, http://123.9.84.232:45914/i
-264792, 2024-10-10 10:25:26, 2024-10-10 10:25:26, malware, e297b0e309d947c3bdb90840506f0bbf, http://123.10.56.8:52922/i
