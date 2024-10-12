@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-11 23:00:01 UTC
+# UPDATE: 2024-10-12 00:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+265989, 2024-10-11 23:42:12, 2024-10-11 23:42:12, phishing, 6d3cacc77b7e8ed423d34dc1f4457e22, http://dappsmainnets.pages.dev
+265988, 2024-10-11 23:18:11, 2024-10-11 23:18:11, phishing, 2c161d757a89fcf4efaefbf30b498043, http://e-baglanti.info
 265987, 2024-10-11 22:25:54, 2024-10-11 22:25:54, malware, 3b239a9a267742d093496a5e7ca3d7a9, http://77.81.87.111:36526/Mozi.m
 265986, 2024-10-11 22:25:53, 2024-10-11 22:25:53, malware, c2f0f49a32e8422db18190ab06e6ac1d, http://73.171.230.140:48103/Mozi.m
 265985, 2024-10-11 22:25:49, 2024-10-11 22:25:49, malware, 8018bc37a9fd401997ea4797230f0699, http://73.171.230.140:48103/Mozi.a
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 265492, 2024-10-11 08:22:09, 2024-10-11 08:22:09, malware, 5b05b73441bd40bfb55f16e168ed0c24, http://115.61.18.50:48599/i
 265491, 2024-10-11 08:22:07, 2024-10-11 08:22:07, malware, f6aa533ec73d4c3e8a633406ede462fe, http://115.61.118.231:43565/bin.sh
 265490, 2024-10-11 08:22:05, 2024-10-11 08:22:05, malware, a6c4b2ecc6b6439d96ec41e02ce16edd, http://115.56.44.42:57729/Mozi.m
-265489, 2024-10-11 08:22:03, 2024-10-11 08:22:03, malware, f9500a672991481a800368e7eac7309f, http://115.56.44.42:57729/i
-265488, 2024-10-11 08:22:01, 2024-10-11 08:22:01, malware, 48a920b3bc6646c899451f6e69284818, http://115.56.44.42:57729/
