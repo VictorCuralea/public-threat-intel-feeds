@@ -6,9 +6,16 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-12 01:00:01 UTC
+# UPDATE: 2024-10-12 02:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+266053, 2024-10-12 01:58:19, 2024-10-12 01:58:19, phishing, 75603414f6f3b0b86ddbb5b1071b852a, http://webmail.tnn.tec.br
+266052, 2024-10-12 01:04:25, 2024-10-12 01:04:25, phishing, 1262721f76fe02ec66680be6fb072aa4, https://telemqio-gmvs.top/zz/
+266051, 2024-10-12 01:04:23, 2024-10-12 01:04:23, phishing, 362e089f77ea9d366298f49113f997b5, https://telemqio-iyzu.top/zz/
+266050, 2024-10-12 01:04:11, 2024-10-12 01:04:11, phishing, b8307c05c9d8ba3c697913ccdfb9e6d4, https://telegram.space/
+266049, 2024-10-12 01:04:11, 2024-10-12 01:04:11, phishing, 613ff0794a8ae40c142a8f579c252d74, https://telemqio-qrxg.top/zz/
+266048, 2024-10-12 01:03:51, 2024-10-12 01:03:51, phishing, 1993d86c59e3c4f37a8d935e99f6af14, http://www.telegram.space//
+266047, 2024-10-12 01:02:16, 2024-10-12 01:02:16, phishing, 3fab645b09bbc4e7ab8a2cbb3a06464a, https://telemlp-ixno.top/zz/
 266046, 2024-10-12 00:27:23, 2024-10-12 00:27:23, malware, ed87950df9e747d4b749e39f9ce5e93d, http://88.250.184.107:55527/bin.sh
 266045, 2024-10-12 00:27:17, 2024-10-12 00:27:17, malware, 2b89ee6ce025434ab0f662aa2ec76e38, http://85.252.76.126:49808/Mozi.m
 266044, 2024-10-12 00:27:16, 2024-10-12 00:27:16, malware, 3b091eef48734cd59a3faa082c998a3d, http://61.53.119.178:46225/Mozi.m
@@ -502,10 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 265556, 2024-10-11 09:08:44, 2024-10-11 07:44:15, phishing, 025da6561e2c8a890548115160818ce8, http://meta-io.mypets.ws/
 265555, 2024-10-11 09:08:19, 2024-10-11 07:42:13, phishing, 01d9716fc530e52e3523d235d40d0485, https://drabb100.serv00.net/metamask-id/
 265554, 2024-10-11 09:07:56, 2024-10-11 05:49:02, phishing, cb117f43d2012dd6ffa46a30af4bfab8, https://bafkreibpwiazj4zv4usqssfpiige2fltl3abkjtcjrkrhtoindg5d7oc2i.ipfs.flk-ipfs.xyz/#x
-265553, 2024-10-11 09:02:13, 2024-10-11 09:02:13, phishing, c0d6736988c2d4fb41a22b57b2188513, http://concero-xpubdebugtool.pages.dev
-265552, 2024-10-11 08:38:11, 2024-10-11 08:38:11, phishing, f158d85be80cbf0d17d61c4216d5e758, http://concero-rpcdebug.pages.dev
-265551, 2024-10-11 08:35:07, 2024-10-11 08:35:07, malware, 3939ec8087824413aaeeb8217e24aba4, http://95.132.254.105:54576/i
-265550, 2024-10-11 08:35:06, 2024-10-11 08:35:06, malware, b51f2aeca8ae4d1daa084c208ddf9904, http://92.26.84.52:46545/Mozi.m
-265549, 2024-10-11 08:35:04, 2024-10-11 08:35:04, malware, 1d4a3374ca3747858c04c9dcd6b80b2a, http://92.26.84.52:46545/bin.sh
-265548, 2024-10-11 08:34:44, 2024-10-11 08:34:44, malware, f3d0f3a5a8f4482fb892f69f819c5b40, http://62.204.41.176/db293a2c1b1c70c4/vcruntime140.dll
-265547, 2024-10-11 08:34:43, 2024-10-11 08:34:43, malware, 4d8a5c06a71c433f987c75d7d288df00, http://61.52.198.5:46077/
