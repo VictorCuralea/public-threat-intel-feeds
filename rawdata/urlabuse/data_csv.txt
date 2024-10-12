@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-12 07:00:01 UTC
+# UPDATE: 2024-10-12 08:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+266203, 2024-10-12 07:00:53, 2024-10-12 07:00:53, phishing, f8bca3735436248412ccda6007ac3d23, http://pub-ea4b6b7b0080414c9f11a85c8e98f34b.r2.dev/scan.html
+266202, 2024-10-12 07:00:27, 2024-10-12 07:00:27, phishing, 62b714c67cc4c803cef7979777a37f26, https://user5.hehdinn.us.kg/
 266201, 2024-10-12 06:35:22, 2024-10-12 06:35:22, malware, 7ef6ac38770a40369ed7131a9fac88ed, http://app.cumpar-auto-orice-tip.ro/downloads/67065227a0640_rrrrrrrr.exe
 266200, 2024-10-12 06:33:11, 2024-10-12 06:33:11, malware, 6e5bc3207bb04b6b8e4141d10b7d4fc7, http://61.54.234.255:33486/bin.sh
 266199, 2024-10-12 06:33:00, 2024-10-12 06:33:00, malware, d7585a8480c14556b8ee1d1284edd8f2, http://61.53.119.178:46225/i
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 265706, 2024-10-11 14:22:00, 2024-10-11 14:22:00, malware, 3cce0eaed522443fa1deedee9b828140, http://117.219.47.18:55649/i
 265705, 2024-10-11 14:21:27, 2024-10-11 14:21:27, malware, 2e8daf53ff2845fe9f5eb3eabaf5673e, http://117.211.211.140:39372/Mozi.m
 265704, 2024-10-11 14:21:24, 2024-10-11 14:21:24, malware, 11bc5bdefc0a45efb4ab66adfe3591ac, http://117.209.92.53:48442/bin.sh
-265703, 2024-10-11 14:21:15, 2024-10-11 14:21:15, malware, 92f0c11ffb9a4b158c85defad08d6731, http://117.209.46.188:55915/Mozi.m
-265702, 2024-10-11 14:20:12, 2024-10-11 14:20:12, malware, b1af5e0dca0149aa8c45ef5c4ee5117a, http://112.242.162.145:48385/bin.sh
