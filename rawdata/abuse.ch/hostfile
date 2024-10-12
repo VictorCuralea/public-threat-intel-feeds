@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-10-12 00:03:02 UTC                        #
+# Last updated: 2024-10-12 09:10:33 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	proxy.inidgo.site
 127.0.0.1	windowsoctarem.duckdns.org
 127.0.0.1	www.rnyhbarwallet.com
 127.0.0.1	fiftvv15ht.top
@@ -9335,4 +9336,4 @@
 127.0.0.1	yourserenahelpcustom.uk
 127.0.0.1	nebraska-lawyers.com
 127.0.0.1	antfinancial.tech
-# Number of entries: 9329
+# Number of entries: 9330
