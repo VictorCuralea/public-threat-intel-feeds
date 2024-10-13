@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-13 21:00:01 UTC
+# UPDATE: 2024-10-13 22:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+267421, 2024-10-13 21:30:12, 2024-10-13 21:30:12, phishing, 23ef4eec2453c60fe8cdb5647964df9a, https://bbseercbb.serv00.net/swissss-login/bill/
+267420, 2024-10-13 21:08:11, 2024-10-13 21:08:11, phishing, f8db63386d0a1f53b8ed35bfcb990161, http://40rt3am5.pages.dev
 267419, 2024-10-13 20:31:13, 2024-10-13 20:31:13, malware, aaa42de2cbc445899c41abb50e3c03b8, https://cdn.discordapp.com/attachments/1294600908545593397/1294921148399882301/rbx.exe?ex=670cc4cc&is=670b734c&hm=3c647bebfcf01e0dd93e67e212054aa02bc3b2b54a7738168d98490d5192ee3c&
 267418, 2024-10-13 20:30:56, 2024-10-13 20:30:56, malware, c8a3dfcc7bd248d686d8961cc915daa2, http://83.219.1.198:45287/
 267417, 2024-10-13 20:30:45, 2024-10-13 20:30:45, malware, f82ee494146b445c96a152fa8a54601c, http://61.53.81.135:51336/
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 266924, 2024-10-13 04:27:50, 2024-10-13 04:27:50, malware, e1759c449d1746de8bc627845ad6e032, http://58.47.18.168:37819/Mozi.m
 266923, 2024-10-13 04:27:47, 2024-10-13 04:27:47, malware, d0ea2db3f6104abab243f5985869e2ed, http://58.47.122.79:57808/bin.sh
 266922, 2024-10-13 04:27:38, 2024-10-13 04:27:38, malware, e390747feae84efb9deb1391521039bb, http://42.239.255.87:49601/bin.sh
-266921, 2024-10-13 04:27:36, 2024-10-13 04:27:36, malware, df01b4047b9d410ea0c4805fe88eb096, http://42.231.66.196:33509/bin.sh
-266920, 2024-10-13 04:27:34, 2024-10-13 04:27:34, malware, f1eeccc010c14ff196fa27f0a94fd2f7, http://42.229.217.155:47671/
