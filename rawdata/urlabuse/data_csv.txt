@@ -6,9 +6,12 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-13 07:00:01 UTC
+# UPDATE: 2024-10-13 08:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+266982, 2024-10-13 07:52:17, 2024-10-13 07:52:17, phishing, ad53b01019619fc2553a3b6b29381ed0, http://starfeaturesvera.pages.dev
+266981, 2024-10-13 07:10:13, 2024-10-13 07:10:13, phishing, a365395a730a64d4b2ae6fb8e9f28368, http://wa-groupbebe.pages.dev
+266980, 2024-10-13 07:00:25, 2024-10-13 07:00:25, phishing, 84b30661ba16a1ab1e06aebe2c3615cf, https://user7.hehdinn.us.kg/
 266979, 2024-10-13 06:25:47, 2024-10-13 06:25:47, malware, f1719d5a2f584406a63ac22ec29feb7c, http://net.igxhost.ru/main_x86_64
 266978, 2024-10-13 06:25:45, 2024-10-13 06:25:45, malware, 21fdc160fcbd4ab5a0f0fa4d1028c622, http://net.igxhost.ru/main_x86
 266977, 2024-10-13 06:25:43, 2024-10-13 06:25:43, malware, 241952796fcd4778927f10855cef21a4, http://net.igxhost.ru/main_sh4
@@ -506,6 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 266484, 2024-10-12 12:21:54, 2024-10-12 12:21:54, malware, 53f94b1a4f2f40e99bb4c4d4335db427, http://113.26.91.35:42748/Mozi.a
 266483, 2024-10-12 12:21:51, 2024-10-12 12:21:51, malware, c2460a784291435a92d4174c11b936a3, http://113.221.73.241:55514/bin.sh
 266482, 2024-10-12 12:20:39, 2024-10-12 12:20:39, malware, 042306c0c4f747dfac274abfdf0e82e7, http://112.113.206.79:48384/bin.sh
-266481, 2024-10-12 12:20:33, 2024-10-12 12:20:33, malware, ab59410b90d94d839d0959722b7ea1a9, http://110.182.244.50:48789/i
-266480, 2024-10-12 12:20:12, 2024-10-12 12:20:12, malware, 739dabf792b74d0aa71a173bf74c1e67, http://110.182.117.244:50198/Mozi.m
-266479, 2024-10-12 12:20:07, 2024-10-12 12:20:07, malware, 286d18a2467c4f7ea822b2d3669be367, http://1.70.162.18:42667/bin.sh
