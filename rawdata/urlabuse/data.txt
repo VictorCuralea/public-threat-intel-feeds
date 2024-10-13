@@ -6,7 +6,7 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-13 15:00:01 UTC
+# UPDATE: 2024-10-13 16:00:01 UTC
 ############### END COMMENTS ###############
 {"id": 267226, "url": "http://lisfeissounfairisdhjakhfjdakfhdjafyieukjlwkfjksyfdeiwuiphp.pages.dev", "discovery": "2024-10-13 14:38:11", "added": "2024-10-13 14:38:11", "target": "Generic Email", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "cd79b131ba01276bfc90297cc272a3d5"}
 {"id": 267225, "url": "http://net.tiktoka.cc/x86_64", "discovery": "2024-10-13 14:30:19", "added": "2024-10-13 14:30:19", "target": "#ELF64", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "96b1c7c212d44b439dfc60907eababe8"}
