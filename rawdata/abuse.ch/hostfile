@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-10-13 13:18:10 UTC                        #
+# Last updated: 2024-10-13 14:04:47 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	citedgrinyn.biz
 127.0.0.1	exitlife.xyz
 127.0.0.1	net.tiktoka.cc
 127.0.0.1	tiktoka.cc
@@ -9342,4 +9343,4 @@
 127.0.0.1	tispy.me
 127.0.0.1	brb.3dtuts.by
 127.0.0.1	3dtuts.by
-# Number of entries: 9336
+# Number of entries: 9337
