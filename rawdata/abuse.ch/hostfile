@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-10-12 21:34:36 UTC                        #
+# Last updated: 2024-10-13 02:54:35 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	kentscaffolders.com
 127.0.0.1	thirtvu13sb.top
 127.0.0.1	neinvb9sb.top
 127.0.0.1	tenvu10sb.top
@@ -9340,4 +9341,4 @@
 127.0.0.1	mcnodes.zapto.org
 127.0.0.1	samsunguniverse.com
 127.0.0.1	auyametemplanza.duckdns.org
-# Number of entries: 9334
+# Number of entries: 9335
