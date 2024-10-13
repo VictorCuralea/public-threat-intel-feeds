@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-13 17:00:01 UTC
+# UPDATE: 2024-10-13 18:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+267302, 2024-10-13 17:40:13, 2024-10-13 17:40:13, phishing, 46c3e972312ec581f31b974c72c6c7db, http://sss-mmm-yyy.ru
 267301, 2024-10-13 16:33:32, 2024-10-13 16:33:32, malware, a4b4c18cc2df4621b6b0556e71c3e17d, http://cache.ussc.org/player/670a8ccf0c6f9_LofiseNose.exe
 267300, 2024-10-13 16:33:22, 2024-10-13 16:33:22, malware, d3217aba05e94a0cab29fa4a66e10f21, http://84.213.69.62:53847/i
 267299, 2024-10-13 16:32:59, 2024-10-13 16:32:59, malware, b1b7f9adda474c1286895f5965ab3be8, http://61.53.138.234:48561/Mozi.m
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 266805, 2024-10-13 00:27:26, 2024-10-13 00:27:26, malware, 0e205d482a644a0ba08c12efa769ba45, http://42.224.215.46:45688/
 266804, 2024-10-13 00:27:24, 2024-10-13 00:27:24, malware, 3c95e4fb139746dfa451140bf711bf67, http://39.72.60.39:57285/Mozi.m
 266803, 2024-10-13 00:26:10, 2024-10-13 00:26:10, malware, d85a028b47dc441d80e494bf12b500d2, http://189.85.33.83:59747/i
-266802, 2024-10-13 00:25:47, 2024-10-13 00:25:47, malware, e54ef87fef164e34ae101548d37b7422, http://182.126.103.233:51326/i
