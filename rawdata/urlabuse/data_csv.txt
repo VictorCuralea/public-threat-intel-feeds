@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-13 03:00:01 UTC
+# UPDATE: 2024-10-13 04:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+266880, 2024-10-13 03:20:13, 2024-10-13 03:20:13, phishing, ba5d8a0f6cf8f7b86156702733f2878e, http://mail.business.live-metasupport.com
+266879, 2024-10-13 03:20:13, 2024-10-13 03:20:13, phishing, 19602764b849d2b851f354caf005c5fa, http://business.live-metasupport.com
 266878, 2024-10-13 02:32:11, 2024-10-13 02:32:11, phishing, 3922f5c9c1b97daa8020483efd5af662, http://domainvalidationauthenticationresgistration.pages.dev
 266877, 2024-10-13 02:26:32, 2024-10-13 02:26:32, malware, 8e2d7768b02243c2a2d214f4c4aad815, http://61.3.15.0:33319/Mozi.a
 266876, 2024-10-13 02:26:27, 2024-10-13 02:26:27, malware, e701e36c237a41c389368b057908448c, http://61.3.101.197:39782/i
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 266255, 2024-10-12 08:33:19, 2024-10-12 08:33:19, malware, 36520498a46c4ad8aae7ed42fcf6f75c, http://59.184.246.185:45523/bin.sh
 266254, 2024-10-12 08:33:11, 2024-10-12 08:33:11, malware, 451e6e65c33745c2afdc2dff8a52d249, http://59.184.245.10:42642/bin.sh
 266253, 2024-10-12 08:32:48, 2024-10-12 08:32:48, malware, 11881dc53e244f9986f2b9da678f423c, http://59.183.121.245:49711/bin.sh
-266252, 2024-10-12 08:32:22, 2024-10-12 08:32:22, malware, 5709720e949f45a19e3e2840b2e613c9, http://59.178.247.70:53659/bin.sh
-266251, 2024-10-12 08:31:39, 2024-10-12 08:31:39, malware, 72ec3a1b937b458fa05bb60c823831f9, http://42.232.227.45:51955/Mozi.m
