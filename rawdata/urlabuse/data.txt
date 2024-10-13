@@ -6,8 +6,9 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-13 11:00:01 UTC
+# UPDATE: 2024-10-13 12:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 267079, "url": "http://decentralizespace.byteloc.com", "discovery": "2024-10-13 11:22:21", "added": "2024-10-13 11:22:21", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "4e65b859a63e8d086539afaa4cde8824"}
 {"id": 267078, "url": "https://smuid.ir/403254", "discovery": "2024-10-13 09:13:43", "added": "2024-10-13 10:31:26", "target": "IR-GOV", "reporter": "Sh", "AbuseType": "phishing", "UUID": "cfbac6ac29f2667fff34a57c7b0f9ee8"}
 {"id": 267077, "url": "https://qebjdmwjkdn.weeblysite.com/", "discovery": "2024-10-13 08:48:15", "added": "2024-10-13 10:31:12", "target": "BT", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "a11835970bc61f6cfe6bac558ff9b869"}
 {"id": 267076, "url": "https://oxlioxoxe.weeblysite.com/", "discovery": "2024-10-13 08:42:20", "added": "2024-10-13 10:30:52", "target": "BT", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "49aa3ee5637f1fdcc5c93db58965f9bd"}
@@ -507,4 +508,3 @@
 {"id": 266582, "url": "https://www.skylimit.hr/a/d/", "discovery": "2024-10-12 15:58:12", "added": "2024-10-12 16:09:29", "target": "Netflix", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "0a298f27250f735878f03ab8705e2e6d"}
 {"id": 266581, "url": "http://web.tklegam.top", "discovery": "2024-10-12 16:08:15", "added": "2024-10-12 16:08:15", "target": "Telegram", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "2c74d77afb51cc37bec618f1fc142190"}
 {"id": 266580, "url": "http://telegrrem.xyz/", "discovery": "2024-10-12 16:04:17", "added": "2024-10-12 16:04:17", "target": "Telegram", "reporter": "lruray", "AbuseType": "phishing", "UUID": "00b75b35bc6ac6031d266997f3c0c80f"}
-{"id": 266579, "url": "https://retardi.lol/a/", "discovery": "2024-10-12 16:02:32", "added": "2024-10-12 16:02:32", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "e65f7bb8a9e4efdd16021a9a054c9d9d"}
