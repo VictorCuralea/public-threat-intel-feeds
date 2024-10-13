@@ -6,8 +6,9 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-12 23:00:01 UTC
+# UPDATE: 2024-10-13 00:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 266786, "url": "http://brokedegensadmouse.com", "discovery": "2024-10-12 23:38:16", "added": "2024-10-12 23:38:16", "target": "Telegram", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "0a13acb2f4329bcc88eaa69567346102"}
 {"id": 266785, "url": "http://defyluhe.pages.dev", "discovery": "2024-10-12 22:46:14", "added": "2024-10-12 22:46:14", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "3b8a7af3e656788020bd3968236173b5"}
 {"id": 266784, "url": "http://94.50.190.242:45165/i", "discovery": "2024-10-12 22:25:03", "added": "2024-10-12 22:25:03", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "72be26be84314e90b8aea22b1d0abedc"}
 {"id": 266783, "url": "http://88.248.204.94:16957/.i", "discovery": "2024-10-12 22:25:02", "added": "2024-10-12 22:25:02", "target": "#ELF32ARM_EABI5", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "d89a4294397244bc8d657c93eae05a79"}
@@ -507,4 +508,3 @@
 {"id": 266161, "url": "http://117.253.161.11:35061/i", "discovery": "2024-10-12 06:25:54", "added": "2024-10-12 06:25:54", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "1eb6f2f159e3432d9a42abaadbd2c79d"}
 {"id": 266160, "url": "http://117.235.110.111:57031/bin.sh", "discovery": "2024-10-12 06:25:30", "added": "2024-10-12 06:25:30", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "e6152ffc2cae4040986b0ae28bdc509d"}
 {"id": 266159, "url": "http://117.223.4.37:44590/Mozi.m", "discovery": "2024-10-12 06:25:28", "added": "2024-10-12 06:25:28", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "c78aa534047048b79909ff7ae7066602"}
-{"id": 266158, "url": "http://117.222.192.126:48860/Mozi.m", "discovery": "2024-10-12 06:25:10", "added": "2024-10-12 06:25:10", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "bcf9be5585794edfb78441b1aa3e2420"}
