@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-13 09:00:01 UTC
+# UPDATE: 2024-10-13 10:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+267030, 2024-10-13 09:46:11, 2024-10-13 09:46:11, phishing, ecbeab7e83d37fe74e4fbda3917419ad, http://xcetus-rpcdebugtool.pages.dev
+267029, 2024-10-13 09:16:17, 2024-10-13 09:16:17, phishing, 8ae2dbe6406f8b1f65d104fd3d3121f8, http://supercoretrade.pages.dev
 267028, 2024-10-13 08:27:02, 2024-10-13 08:27:02, malware, 5e01c0f1d21446c5bbc7dec994f6c18c, http://95.32.243.26:36963/i
 267027, 2024-10-13 08:27:01, 2024-10-13 08:27:01, malware, ca350d3e03a54e2eac7772f014e91fcf, http://95.217.125.57/557b2ce3c387a13c/vcruntime140.dll
 267026, 2024-10-13 08:27:00, 2024-10-13 08:27:00, malware, a7e01cee530541338d7fae72816be6c9, http://95.217.125.57/557b2ce3c387a13c/sqlite3.dll
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 266533, 2024-10-12 14:23:39, 2024-10-12 14:23:39, malware, eb0d2c22feee473981449a5c50b3de5a, http://221.15.244.123:39905/
 266532, 2024-10-12 14:23:27, 2024-10-12 14:23:27, malware, 42940475f28c42f0b466962cd7b545aa, http://182.127.208.115:57045/i
 266531, 2024-10-12 14:23:24, 2024-10-12 14:23:24, malware, ba0b0f8c93c745e48c8259df26350560, http://182.127.114.207:58703/bin.sh
-266530, 2024-10-12 14:23:22, 2024-10-12 14:23:22, malware, 4386850beb134045926708810e85b77f, http://182.124.56.127:59807/bin.sh
-266529, 2024-10-12 14:23:10, 2024-10-12 14:23:10, malware, 53c25cb2a7dc4184a0f63931a7b939c4, http://182.116.21.74:39113/bin.sh
