@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-14 21:00:01 UTC
+# UPDATE: 2024-10-14 22:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+268161, 2024-10-14 21:56:11, 2024-10-14 21:56:11, phishing, 4bcfd511b97bc2d5222f9a71ace431e8, http://uncruise-file.pages.dev
+268160, 2024-10-14 21:10:14, 2024-10-14 21:10:14, phishing, beccc64b192567b294f791f7dea92742, https://osero.mx/js/swisscom/login.html
 268159, 2024-10-14 20:24:36, 2024-10-14 20:24:36, malware, feb67c62b06b427a802f218f3db34ea9, http://61.52.157.25:42688/Mozi.m
 268158, 2024-10-14 20:24:25, 2024-10-14 20:24:25, malware, 0a6df672fa644502ac2ec12d8f334c41, http://61.3.132.31:53559/Mozi.m
 268157, 2024-10-14 20:24:22, 2024-10-14 20:24:22, malware, f8e9ad0ded2c4b20b857dcfb699266e9, http://61.0.177.236:37186/Mozi.m
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 267664, 2024-10-14 07:10:20, 2024-10-14 06:56:21, phishing, 2f87ebcdf321a35eaba9f104fe1d96b2, https://90c8f55277.nxcli.io/pub/recall/?token=
 267663, 2024-10-14 07:08:28, 2024-10-14 04:27:10, phishing, 74ca92e0ecb6bc2a72e6552812ba61fe, https://login.najrnatuae.com/mod110/?top=
 267662, 2024-10-14 07:08:02, 2024-10-14 07:08:02, phishing, 4e393430f9114b54a27a1a6746b063e8, https://login.najrnatuae.com/mod110/mod.jsp?top=bryan.jen@fametech.com.tw
-267661, 2024-10-14 07:07:50, 2024-10-14 04:25:14, phishing, 2f8268098948385680a8e9235b624f41, https://u47461844.ct.sendgrid.net/ls/click?upn=u001.LshPFA55khbY2SNVn-2FD9ahhJfof3TNtGyEFxupVmNsbtXuQxXYhbpuNXfAphVYGRN03x1m3AI077yYMwFteld69N82ASEO8cbbiINHaubWE-3Dzl0k_WF5a-2BtOgYYRCMxDJt5mBRZ99uMkwBBFQrRFrHFHTul8erPuD5Cu-2B8E0wOBEwOMFPb1bPlRzx7ozfJzluYiWnVz1OoBqj7EJtu-2F0Br4QYcPP7o75KAjt4kUkIlAFxpHtLd1LIn2-2BMyjPCYCODJMBdGNVKf66hTCKMgaZPUPnvMebIyQ6VpOm5emSfbnLA9EPfKLAyxGvg3x-2BSdwB6KLHTBTsyHYgS5h9-2BRv9mVRoBj8tj-2FtM-2FcJ3sSlGkpoRk4UjbhsnsnvLUXgnzd27iulPOocrAKvgRWTaZSWs8sHf70QPfsV3G1Kg-2FpzIvDxPDi4g-2FD-2BHR8wp4UsllsbePnxB0Erc35O6c1RfjIVq4eqkHeutuyqTFNEv4pI3RB-2FbGIqBvB4zkrfpDmM6Kl9Mw4xHpu-2FB82r9-2FNgzayLPDkXgHR6Vvgi-2BY4-2FAeBe22ifmP4WKXxO6JSzvCJEAENdvZ-2F487AlN3-2FPsZAGs8zYky-2F7UxV9sR3hgS4v5dnLqG0D9ZPFv0x3O-2F7OVal-2Fp7PbSmDihIk0Hrva5fAmcgq-2B3D4Hzk3-2BAg7rdE6RGNTDinjXgflZWcCjpIwDyHc-2FcI56s-2FeuhjbFfIHPjbWc6JZw74EpujvyZG9QVRd-2FrsUq4yog5PQr3JBwdA4xFfpHdR3qvOM2rInFB-2BJtmQGCwbSxWii20HIPCgfAzS3c7faZt9uWUIgWimRGh7g2ZQyDra2FgbQOOKwYHAiIATPtNxCms9XysyYsm9xM1RSzGdTfPqaCsFMjUhxV-2FYQAo3fUJdsoTHHz82qhDTgV7HJSn5NutvQ63axyImvPd-2FfDrBvJhrUtsk6PnDe8GCS13-2BUIBJIwPh3eX6Kyd9HLxvj1LsfWALMdbJScFXrXYVmdYBRKCMsrLV6W-2BPxA8EPjP2dyHQKf7-2FUtcBHg-3D-3D
-267660, 2024-10-14 07:07:40, 2024-10-14 04:03:52, phishing, c2944224726ed9a182d20c119f83d027, https://ferdin-datenschieber.de/tmp/module/trc.html#x
