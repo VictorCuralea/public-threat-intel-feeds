@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-10-14 04:03:19 UTC                        #
+# Last updated: 2024-10-14 05:37:58 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	factorglaro.biz
+127.0.0.1	firedaggeriu.biz
+127.0.0.1	zza5topk1or1.skin
 127.0.0.1	ip-11.net-82-216-163.suresnes3.rev.numericable.fr
 127.0.0.1	fc.frenchart.shop
 127.0.0.1	enginenek.buzz
@@ -9345,4 +9348,4 @@
 127.0.0.1	unotree.ru
 127.0.0.1	tcp.eu.ngrok.io
 127.0.0.1	rsx.nextoneup.shop
-# Number of entries: 9339
+# Number of entries: 9342

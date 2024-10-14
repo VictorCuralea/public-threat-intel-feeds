@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-14 05:00:01 UTC
+# UPDATE: 2024-10-14 06:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+267612, 2024-10-14 05:10:15, 2024-10-14 05:10:15, phishing, f61351f1a060dc5cc654f38559739926, http://kfsjkjhgfnskjaljsdhfhdbbjabvhdadjskjdhfdjakankfjkfdhankphp.pages.dev
 267611, 2024-10-14 04:50:21, 2024-10-14 04:50:21, phishing, 3a6c82b45de01932f2ebd071e8f8a218, http://zslidu.com
 267610, 2024-10-14 04:28:14, 2024-10-14 04:28:14, phishing, 8f29f1874b60c3a6b73b9de7215073fc, http://launchpadsprotocol.pages.dev
 267609, 2024-10-14 04:25:37, 2024-10-14 04:25:37, malware, c0759e677f794899b310b0b8678eb9ab, http://61.53.80.105:56744/i
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 267115, 2024-10-13 12:26:01, 2024-10-13 12:26:01, malware, 55e30c059f714809a3e04b5ce1d38420, http://182.116.123.63:56089/Mozi.m
 267114, 2024-10-13 12:25:59, 2024-10-13 12:25:59, malware, 91322f1f9ea341e892525343e7d13805, http://182.113.53.84:55725/bin.sh
 267113, 2024-10-13 12:25:57, 2024-10-13 12:25:57, malware, 04d01aa9d9f54392998ba64760fa4a4c, http://180.117.252.226:34598/i
-267112, 2024-10-13 12:25:55, 2024-10-13 12:25:55, malware, 3f4c56eefb09485c973eed6f6230fb63, http://180.116.65.142:42254/i
