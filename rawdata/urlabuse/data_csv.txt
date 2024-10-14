@@ -6,9 +6,19 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-14 09:00:01 UTC
+# UPDATE: 2024-10-14 10:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+267748, 2024-10-14 09:58:15, 2024-10-14 09:58:15, phishing, 7aa0774e616aacb400c8387822dd1b04, http://qvi-telegram.org
+267747, 2024-10-14 09:48:31, 2024-10-14 09:42:13, phishing, 87e8830a7a913a05b4fa1c0561812e38, https://9cf7f6-97.myshopify.com/_t/c/A1020004-17FE480068F9D52E-5BE631B2?amp
+267746, 2024-10-14 09:48:20, 2024-10-14 09:38:19, phishing, 1e02077b8914a7f3cf2ff41903366f1b, https://9f286ec0da.nxcli.net/new/
+267745, 2024-10-14 09:47:58, 2024-10-14 09:36:24, phishing, 855692924b9ee61ab9c1c82edcc2ef15, https://7fb08b-9d.myshopify.com/200
+267744, 2024-10-14 09:47:23, 2024-10-14 08:46:17, phishing, 4e8606ab065aa148d4027ebb18a23f0d, https://auth.optimizationhp.mx/93013/
+267743, 2024-10-14 09:42:11, 2024-10-14 09:42:11, phishing, 69698a1f29c20dcd0ea529d01c8a217e, https://zimbra.ametiqconnect.com/#loadremote
+267742, 2024-10-14 09:36:20, 2024-10-14 09:36:20, phishing, 7af2aff342a2d3a616cb6c16c557f2bb, https://yoshe02.serv00.net/css/js/swpass/bba4d/
+267741, 2024-10-14 09:36:14, 2024-10-14 09:36:14, phishing, cceb261c075499acaedf6491e7452475, https://netbsi-toripyong.savviihq.com/aspx/accountx/MitID/
+267740, 2024-10-14 09:20:16, 2024-10-14 09:20:16, phishing, 85da9a6215be2c5f9d32bbbd8d04031f, http://aktualisierung-spk-hier.com
+267739, 2024-10-14 09:14:17, 2024-10-14 09:14:17, phishing, cb6b34072c5330f02a6e27da2ed0f428, http://morezerodurablefi.pages.dev
 267738, 2024-10-14 08:56:12, 2024-10-14 08:56:12, phishing, 82095c5e9b12896c464dcef06f078d4b, http://free-wa-sex.pages.dev
 267737, 2024-10-14 08:50:16, 2024-10-14 08:50:16, phishing, 71587229bf70d09e0c62fcc8c6ed7942, http://oranconnexindexo.duckdns.org
 267736, 2024-10-14 08:28:44, 2024-10-14 08:28:44, malware, f3696506a86041b3bb44c7e2afd12577, http://85.252.76.126:49808/i
@@ -499,13 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 267251, 2024-10-13 16:23:24, 2024-10-13 16:23:24, malware, e0bf5b2804544159855a261c1765b1d7, http://117.209.22.242:41427/bin.sh
 267250, 2024-10-13 16:22:49, 2024-10-13 16:22:49, malware, 271ed612ceba46c2bcf78a31ae6c7fce, http://117.206.22.117:43095/bin.sh
 267249, 2024-10-13 16:21:46, 2024-10-13 16:21:46, malware, 8060c8a58cde4f059b2d2babf54938d1, http://115.58.158.91:43584/bin.sh
-267248, 2024-10-13 16:21:44, 2024-10-13 16:21:44, malware, 48d955ca9ada4fda9d2db5b66f40dcc0, http://115.57.25.79:55591/bin.sh
-267247, 2024-10-13 16:21:42, 2024-10-13 16:21:42, malware, 96720044aac04a17891dcc7c5f6d71fb, http://115.55.10.8:33302/i
-267246, 2024-10-13 16:21:40, 2024-10-13 16:21:40, malware, d3351af4311c4b18a1e3c7b79f10906d, http://115.55.10.8:33302/bin.sh
-267245, 2024-10-13 16:21:38, 2024-10-13 16:21:38, malware, b703b2e042d14f50a01bb698e463394f, http://115.54.130.244:36308/bin.sh
-267244, 2024-10-13 16:21:36, 2024-10-13 16:21:36, malware, 7aea8c8f1c46454a977eb01aa68cd21a, http://115.53.42.160:37032/i
-267243, 2024-10-13 16:21:33, 2024-10-13 16:21:33, malware, 748db85962224236abb98584225e269a, http://115.48.151.42:50786/i
-267242, 2024-10-13 16:21:31, 2024-10-13 16:21:31, malware, b71baa88f3564af4bece85ccc17a33b7, http://115.48.151.42:50786/bin.sh
-267241, 2024-10-13 16:21:28, 2024-10-13 16:21:28, malware, a290c7d4938940c79ec3c20c24bb31f7, http://113.27.81.101:57320/i
-267240, 2024-10-13 16:21:24, 2024-10-13 16:21:24, malware, 929a6eb689d140ac92ff3a21d655195e, http://113.26.84.111:60103/i
-267239, 2024-10-13 16:21:04, 2024-10-13 16:21:04, malware, c765017554e640f09830c34838307d9d, http://112.27.199.101:57137/bin.sh
