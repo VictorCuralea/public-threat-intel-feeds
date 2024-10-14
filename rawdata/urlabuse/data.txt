@@ -6,8 +6,10 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-14 15:00:01 UTC
+# UPDATE: 2024-10-14 16:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 267964, "url": "http://toperbee.pages.dev", "discovery": "2024-10-14 15:52:11", "added": "2024-10-14 15:52:11", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "babbfbbf5ca6a8840c41952e258374ad"}
+{"id": 267963, "url": "http://primes-carburant.com", "discovery": "2024-10-14 15:02:15", "added": "2024-10-14 15:02:15", "target": "FR-GOV", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "e725654a17ebef8b4cfcfa33e5139459"}
 {"id": 267962, "url": "http://copilot.shenoah.us.kg", "discovery": "2024-10-14 14:44:16", "added": "2024-10-14 14:44:16", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "53bd33c44da823d4b4089805a246ae33"}
 {"id": 267961, "url": "https://www.dropbox.com/scl/fi/omcsw43bg76u8l929pctg/BTBROADBAND.paper?dl=0", "discovery": "2024-10-14 14:30:16", "added": "2024-10-14 14:37:37", "target": "BT", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "3b1cbac3b20ce354ddae400ac8ab87a1"}
 {"id": 267960, "url": "http://91.239.77.159:34410/bin.sh", "discovery": "2024-10-14 14:30:57", "added": "2024-10-14 14:30:57", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "6ec0a0f52ad94dcdbb26eda374bb7d87"}
@@ -506,5 +508,3 @@
 {"id": 267467, "url": "http://93.123.85.167/roze.sparc", "discovery": "2024-10-13 22:23:51", "added": "2024-10-13 22:23:51", "target": "#ELF32SPARC", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "3630ef5525c94ab68a72300a1aa9a660"}
 {"id": 267466, "url": "http://93.123.85.167/roze.sh4", "discovery": "2024-10-13 22:23:50", "added": "2024-10-13 22:23:50", "target": "#ELF32SH", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "f01cf0f176874a5baffbbc1dbd530c99"}
 {"id": 267465, "url": "http://93.123.85.167/roze.ppc", "discovery": "2024-10-13 22:23:49", "added": "2024-10-13 22:23:49", "target": "#ELF32CISCO", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "fc3424a0db564ee49ef4f182e5b1e318"}
-{"id": 267464, "url": "http://93.123.85.167/roze.mipsel", "discovery": "2024-10-13 22:23:47", "added": "2024-10-13 22:23:47", "target": "#ELF32_MIPSv1", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "ae55567bcfc643a2a1a795a0ab8d8211"}
-{"id": 267463, "url": "http://93.123.85.167/roze.mips", "discovery": "2024-10-13 22:23:46", "added": "2024-10-13 22:23:46", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "a37fe0881526478fac5fbd2d4cb9c403"}

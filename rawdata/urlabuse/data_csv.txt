@@ -6,9 +6,11 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-14 15:00:01 UTC
+# UPDATE: 2024-10-14 16:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+267964, 2024-10-14 15:52:11, 2024-10-14 15:52:11, phishing, babbfbbf5ca6a8840c41952e258374ad, http://toperbee.pages.dev
+267963, 2024-10-14 15:02:15, 2024-10-14 15:02:15, phishing, e725654a17ebef8b4cfcfa33e5139459, http://primes-carburant.com
 267962, 2024-10-14 14:44:16, 2024-10-14 14:44:16, phishing, 53bd33c44da823d4b4089805a246ae33, http://copilot.shenoah.us.kg
 267961, 2024-10-14 14:37:37, 2024-10-14 14:30:16, phishing, 3b1cbac3b20ce354ddae400ac8ab87a1, https://www.dropbox.com/scl/fi/omcsw43bg76u8l929pctg/BTBROADBAND.paper?dl=0
 267960, 2024-10-14 14:30:57, 2024-10-14 14:30:57, malware, 6ec0a0f52ad94dcdbb26eda374bb7d87, http://91.239.77.159:34410/bin.sh
@@ -507,5 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 267467, 2024-10-13 22:23:51, 2024-10-13 22:23:51, malware, 3630ef5525c94ab68a72300a1aa9a660, http://93.123.85.167/roze.sparc
 267466, 2024-10-13 22:23:50, 2024-10-13 22:23:50, malware, f01cf0f176874a5baffbbc1dbd530c99, http://93.123.85.167/roze.sh4
 267465, 2024-10-13 22:23:49, 2024-10-13 22:23:49, malware, fc3424a0db564ee49ef4f182e5b1e318, http://93.123.85.167/roze.ppc
-267464, 2024-10-13 22:23:47, 2024-10-13 22:23:47, malware, ae55567bcfc643a2a1a795a0ab8d8211, http://93.123.85.167/roze.mipsel
-267463, 2024-10-13 22:23:46, 2024-10-13 22:23:46, malware, a37fe0881526478fac5fbd2d4cb9c403, http://93.123.85.167/roze.mips
