@@ -6,9 +6,19 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-14 11:00:02 UTC
+# UPDATE: 2024-10-14 12:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+267795, 2024-10-14 11:46:14, 2024-10-14 11:46:14, phishing, c4a3e6755b2f89acdd154c9fdf209963, http://re-arstroid.pages.dev
+267794, 2024-10-14 11:41:07, 2024-10-14 11:24:14, phishing, 58c1446a0426c71b7678b105573b6b3f, https://sensible-circumstances-580829.framer.app/
+267793, 2024-10-14 11:40:59, 2024-10-14 11:40:59, phishing, 2407ce7b320bf33fcda180946114de07, https://bt-mail-109952.weeblysite.com/
+267792, 2024-10-14 11:40:47, 2024-10-14 11:12:13, phishing, 348e6f0705e1d2ca1b39a7f4b47d6f35, https://simple.bio/btmail
+267791, 2024-10-14 11:40:39, 2024-10-14 11:40:39, phishing, 916781f77a54fb075e0cc74328745049, https://millerg81.wixsite.com/my-site-1
+267790, 2024-10-14 11:40:27, 2024-10-14 10:42:14, phishing, 5f17291b6d45a80a410e7ed6dede49c6, https://www.canva.com/design/DAGTXDjtCB0/N9YbyKuyUew08JluDynGpA/view?utm_content=DAGTXDjtCB0
+267789, 2024-10-14 11:40:16, 2024-10-14 11:40:16, phishing, 734679a0bfb5de22f523246f920132c3, https://my-site-109615-101600.weeblysite.com/
+267788, 2024-10-14 11:40:04, 2024-10-14 10:38:13, phishing, 8d5378406419649d563bf284eb443887, https://free-5636312.webadorsite.com/
+267787, 2024-10-14 11:24:18, 2024-10-14 11:24:18, phishing, 9d11e82ff2c291da357ec83e4f15008e, https://7af6c61098.nxcli.io/pub/swissii/
+267786, 2024-10-14 11:22:16, 2024-10-14 11:22:16, phishing, 84bfe76a04b608e5b86094a370d8baf2, https://piri-schleiferei.de/ID-SBB0267/index/
 267785, 2024-10-14 10:56:17, 2024-10-14 10:56:17, phishing, cda6f2e7d70f474d2a0aff411e28c349, http://dualdapps.pages.dev
 267784, 2024-10-14 10:48:14, 2024-10-14 10:48:14, phishing, 49348c959d67fe06c2ebca783a659f85, http://fix-datarace.pages.dev
 267783, 2024-10-14 10:32:39, 2024-10-14 10:32:39, phishing, 27835801f6eeef8497dd0bfe0ad51308, https://rrtrt.weeblysite.com/
@@ -499,13 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 267298, 2024-10-13 16:32:57, 2024-10-13 16:32:57, malware, 5d4be1ad140d4257915acb4768ba887e, http://61.52.159.20:42688/bin.sh
 267297, 2024-10-13 16:32:05, 2024-10-13 16:32:05, malware, c5728c96670940b08d49449f6c5af72e, http://59.99.45.151:52416/Mozi.m
 267296, 2024-10-13 16:30:36, 2024-10-13 16:30:36, malware, fb47de61347b41e7be7f75b84f690457, http://59.183.115.161:53665/bin.sh
-267295, 2024-10-13 16:29:28, 2024-10-13 16:29:28, malware, 7a634d71942140218b4542ed8f64dccb, http://42.238.251.8:34330/bin.sh
-267294, 2024-10-13 16:29:26, 2024-10-13 16:29:26, malware, 24945f67197e4a85835b39d340d21b31, http://42.235.65.63:43609/i
-267293, 2024-10-13 16:29:23, 2024-10-13 16:29:23, malware, 5d4ce9ee5585409a8eaf865b853fb27e, http://42.233.106.230:38872/Mozi.m
-267292, 2024-10-13 16:29:10, 2024-10-13 16:29:10, malware, c219f473efc246828031977fd5a338bc, http://42.226.73.150:60583/bin.sh
-267291, 2024-10-13 16:29:08, 2024-10-13 16:29:08, malware, fa42f17d8e4b4fd18b11ed6dab6b39aa, http://42.224.215.46:45688/bin.sh
-267290, 2024-10-13 16:28:57, 2024-10-13 16:28:57, malware, 5d5953ed8f234e57b8d07e02fb0e74f1, http://39.77.52.41:48635/Mozi.m
-267289, 2024-10-13 16:28:55, 2024-10-13 16:28:55, malware, ce65253ba97b46508ad3fbabd33f4685, http://39.77.52.41:48635/i
-267288, 2024-10-13 16:28:52, 2024-10-13 16:28:52, malware, 19196aa1f465438295537ed52e74a47a, http://39.77.52.41:48635/bin.sh
-267287, 2024-10-13 16:28:51, 2024-10-13 16:28:51, malware, bac468df966f4af597061941b7a312a4, http://39.74.24.146:56512/Mozi.m
-267286, 2024-10-13 16:28:48, 2024-10-13 16:28:48, malware, 2cbef13e972b49d48e10ac6d320090f0, http://39.71.19.185:48425/Mozi.m
