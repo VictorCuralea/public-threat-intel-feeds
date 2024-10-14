@@ -6,9 +6,13 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-14 13:00:02 UTC
+# UPDATE: 2024-10-14 14:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+267836, 2024-10-14 13:58:40, 2024-10-14 13:58:40, phishing, b0ac6ebb0cd543ff941b89aa4bdca804, https://cpenel-webmaii-glowing-octo-barnacle.vercel.app/m
+267835, 2024-10-14 13:58:10, 2024-10-14 13:44:17, phishing, 562a6da3ce9f9bc250f18df455fb78cd, https://cpenel-webmaii-glowing-octo-barnacle.vercel.app/?web=info@pss-schweiz.ch
+267834, 2024-10-14 13:06:12, 2024-10-14 13:06:12, phishing, f5026a3ea379286b1a0ac165afb2183f, http://notcoin-tokenx.pages.dev
+267833, 2024-10-14 13:02:46, 2024-10-14 13:02:46, phishing, 87a3ba9c66946ff2018c8bcf913089d8, https://telegroom-mgkk.top/zz/
 267832, 2024-10-14 12:58:15, 2024-10-14 12:58:15, phishing, 68587e41ef0a6fd58180eaf953aafabd, http://coinsolution01.pages.dev
 267831, 2024-10-14 12:42:15, 2024-10-14 12:42:15, phishing, e6cfb51d0cce15adcc0435941a4f42b2, https://alianca-rs.com.br/admins/
 267830, 2024-10-14 12:42:13, 2024-10-14 12:42:13, phishing, 539812e1d8c8364b9e60471060efcd74, https://id-swisspass.com/
@@ -505,7 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 267339, 2024-10-13 18:23:15, 2024-10-13 18:23:15, malware, 4995e2825fa5493390abb122dfccf668, http://222.138.232.89:45977/
 267338, 2024-10-13 18:23:13, 2024-10-13 18:23:13, malware, dcba5ff9b3364ddd891517d0a954a7e6, http://222.137.86.8:53999/Mozi.m
 267337, 2024-10-13 18:23:11, 2024-10-13 18:23:11, malware, 360040ef37854434a4953d804303e103, http://219.156.84.226:49170/i
-267336, 2024-10-13 18:23:09, 2024-10-13 18:23:09, malware, 06fbf3689af14b66a681dd5c183cc76e, http://219.155.208.99:60624/bin.sh
-267335, 2024-10-13 18:23:07, 2024-10-13 18:23:07, malware, fff6120fe8414a6d98af28b827ca1c37, http://201.211.40.90:37512/Mozi.m
-267334, 2024-10-13 18:23:00, 2024-10-13 18:23:00, malware, e9394e6db26541789f517d431903cdb3, http://192.162.49.16:19327/
-267333, 2024-10-13 18:22:58, 2024-10-13 18:22:58, malware, 7b9d74f6d5bd4ec0bb072ef58f54b663, http://185.248.12.179:39208/bin.sh
