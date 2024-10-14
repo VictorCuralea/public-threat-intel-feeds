@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-10-14 05:37:58 UTC                        #
+# Last updated: 2024-10-14 08:44:20 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	blacktds.codes
+127.0.0.1	rooms.fierceatfifty.com
 127.0.0.1	factorglaro.biz
 127.0.0.1	firedaggeriu.biz
 127.0.0.1	zza5topk1or1.skin
@@ -9345,4 +9347,4 @@
 127.0.0.1	stupefied-germain.45-141-215-173.plesk.page
 127.0.0.1	www.elated-black.45-141-215-173.plesk.page
 127.0.0.1	www.infallible-lichterman.45-141-215-173.plesk.page
-# Number of entries: 9339
+# Number of entries: 9341
