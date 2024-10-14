@@ -6,8 +6,13 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-14 19:00:02 UTC
+# UPDATE: 2024-10-14 20:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 268124, "url": "https://lceletrica.com.br/secexcl/WEBMAIL-index.html", "discovery": "2024-10-14 18:32:17", "added": "2024-10-14 19:56:23", "target": "Generic Email", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "c2d9303df76e1a1c0e4a499abc0169c0"}
+{"id": 268123, "url": "https://ee-unlock-home.web.app/", "discovery": "2024-10-14 19:16:12", "added": "2024-10-14 19:55:57", "target": "EE", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "49af1b5de4b0792a97b8007700e9ef6b"}
+{"id": 268122, "url": "https://havanews.com/data/7970880002/payment/57aZeY49/new-eb", "discovery": "2024-10-14 19:05:41", "added": "2024-10-14 19:55:47", "target": "IR-GOV", "reporter": "Sh", "AbuseType": "phishing", "UUID": "5e842cb3032a75c41974d85dd2abaaad"}
+{"id": 268121, "url": "https://quickcaptcha.tel/a/?type=safeguard", "discovery": "2024-10-14 19:02:57", "added": "2024-10-14 19:02:57", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "1e41a1a2e3451c5681e26c9c25692290"}
+{"id": 268120, "url": "https://telagcam.te-en.icu/", "discovery": "2024-10-14 19:02:13", "added": "2024-10-14 19:02:13", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "50b029da07ccd5f172e16f6010d22ac5"}
 {"id": 268119, "url": "https://ny-selvbetjeningslosning.greenhomeless.org/hilfe.und.Kontakt/hilfe.und.Kontakt1/hilfe.und.Kontakt/Ruckerstattungen.Entschadigung/Ruckerstattungen-Entschadigungs/login.php", "discovery": "2024-10-14 18:36:16", "added": "2024-10-14 18:36:16", "target": "SwissPass", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "d11bed31a1f38c6d5a1db1126080ce87"}
 {"id": 268118, "url": "https://rechnung-fx.serv00.net/BLUE/in.php", "discovery": "2024-10-14 18:36:15", "added": "2024-10-14 18:36:15", "target": "Swisscom", "reporter": "VERIFROMd", "AbuseType": "phishing", "UUID": "b1aea71e722c6d47c15d984c5ed4ff9b"}
 {"id": 268117, "url": "https://gmsmix.in/loadi", "discovery": "2024-10-14 18:34:17", "added": "2024-10-14 18:34:17", "target": "Swisscom", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "0ec45b4dd3f289ce9e0f6399e2200d94"}
@@ -503,8 +508,3 @@
 {"id": 267627, "url": "http://117.195.251.124:41568/bin.sh", "discovery": "2024-10-14 06:20:54", "added": "2024-10-14 06:20:54", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "c2f12b80ca3442d4afe51a1167d47338"}
 {"id": 267626, "url": "http://117.195.173.251:40698/bin.sh", "discovery": "2024-10-14 06:20:52", "added": "2024-10-14 06:20:52", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "69c80c22131e4e95a45274a533de3f7c"}
 {"id": 267625, "url": "http://115.51.97.127:60661/bin.sh", "discovery": "2024-10-14 06:20:47", "added": "2024-10-14 06:20:47", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "6024da34f1f34b3e965f5a8a2a8fd011"}
-{"id": 267624, "url": "http://114.228.71.91:36620/Mozi.m", "discovery": "2024-10-14 06:20:45", "added": "2024-10-14 06:20:45", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "7c0d47ad18104b2aab6187596d166ee0"}
-{"id": 267623, "url": "http://114.219.168.225:37639/bin.sh", "discovery": "2024-10-14 06:20:41", "added": "2024-10-14 06:20:41", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "2648b5e198544d98bf0e48c9c7122877"}
-{"id": 267622, "url": "http://112.248.187.250:47311/i", "discovery": "2024-10-14 06:20:29", "added": "2024-10-14 06:20:29", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "3626b9c96efd4dd79bdc9ddec330d5f7"}
-{"id": 267621, "url": "http://112.239.98.187:53117/bin.sh", "discovery": "2024-10-14 06:20:27", "added": "2024-10-14 06:20:27", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "2af938464a014d14bb7b5f5a578aaba0"}
-{"id": 267620, "url": "http://112.113.130.253:52067/i", "discovery": "2024-10-14 06:20:25", "added": "2024-10-14 06:20:25", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "d1083f25abc440f2a986567ce7834c07"}

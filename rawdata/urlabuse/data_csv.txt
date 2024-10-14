@@ -6,9 +6,14 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-14 19:00:02 UTC
+# UPDATE: 2024-10-14 20:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+268124, 2024-10-14 19:56:23, 2024-10-14 18:32:17, phishing, c2d9303df76e1a1c0e4a499abc0169c0, https://lceletrica.com.br/secexcl/WEBMAIL-index.html
+268123, 2024-10-14 19:55:57, 2024-10-14 19:16:12, phishing, 49af1b5de4b0792a97b8007700e9ef6b, https://ee-unlock-home.web.app/
+268122, 2024-10-14 19:55:47, 2024-10-14 19:05:41, phishing, 5e842cb3032a75c41974d85dd2abaaad, https://havanews.com/data/7970880002/payment/57aZeY49/new-eb
+268121, 2024-10-14 19:02:57, 2024-10-14 19:02:57, phishing, 1e41a1a2e3451c5681e26c9c25692290, https://quickcaptcha.tel/a/?type=safeguard
+268120, 2024-10-14 19:02:13, 2024-10-14 19:02:13, phishing, 50b029da07ccd5f172e16f6010d22ac5, https://telagcam.te-en.icu/
 268119, 2024-10-14 18:36:16, 2024-10-14 18:36:16, phishing, d11bed31a1f38c6d5a1db1126080ce87, https://ny-selvbetjeningslosning.greenhomeless.org/hilfe.und.Kontakt/hilfe.und.Kontakt1/hilfe.und.Kontakt/Ruckerstattungen.Entschadigung/Ruckerstattungen-Entschadigungs/login.php
 268118, 2024-10-14 18:36:15, 2024-10-14 18:36:15, phishing, b1aea71e722c6d47c15d984c5ed4ff9b, https://rechnung-fx.serv00.net/BLUE/in.php
 268117, 2024-10-14 18:34:17, 2024-10-14 18:34:17, phishing, 0ec45b4dd3f289ce9e0f6399e2200d94, https://gmsmix.in/loadi
@@ -504,8 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 267627, 2024-10-14 06:20:54, 2024-10-14 06:20:54, malware, c2f12b80ca3442d4afe51a1167d47338, http://117.195.251.124:41568/bin.sh
 267626, 2024-10-14 06:20:52, 2024-10-14 06:20:52, malware, 69c80c22131e4e95a45274a533de3f7c, http://117.195.173.251:40698/bin.sh
 267625, 2024-10-14 06:20:47, 2024-10-14 06:20:47, malware, 6024da34f1f34b3e965f5a8a2a8fd011, http://115.51.97.127:60661/bin.sh
-267624, 2024-10-14 06:20:45, 2024-10-14 06:20:45, malware, 7c0d47ad18104b2aab6187596d166ee0, http://114.228.71.91:36620/Mozi.m
-267623, 2024-10-14 06:20:41, 2024-10-14 06:20:41, malware, 2648b5e198544d98bf0e48c9c7122877, http://114.219.168.225:37639/bin.sh
-267622, 2024-10-14 06:20:29, 2024-10-14 06:20:29, malware, 3626b9c96efd4dd79bdc9ddec330d5f7, http://112.248.187.250:47311/i
-267621, 2024-10-14 06:20:27, 2024-10-14 06:20:27, malware, 2af938464a014d14bb7b5f5a578aaba0, http://112.239.98.187:53117/bin.sh
-267620, 2024-10-14 06:20:25, 2024-10-14 06:20:25, malware, d1083f25abc440f2a986567ce7834c07, http://112.113.130.253:52067/i
