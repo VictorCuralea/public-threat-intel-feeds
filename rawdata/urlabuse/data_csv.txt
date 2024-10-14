@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-13 23:00:02 UTC
+# UPDATE: 2024-10-14 00:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+267470, 2024-10-13 23:18:13, 2024-10-13 23:18:13, phishing, 4e0078d4008a4307e05007723ec450e9, http://chat.aliaharian.ir
 267469, 2024-10-13 22:46:14, 2024-10-13 22:46:14, phishing, 29169a2c945e1c4c69bf8810ad603c79, http://re-accesspro.pages.dev
 267468, 2024-10-13 22:23:52, 2024-10-13 22:23:52, malware, 8a19a10dd84942079c5c18025fb694f0, http://93.123.85.167/roze.x86
 267467, 2024-10-13 22:23:51, 2024-10-13 22:23:51, malware, 3630ef5525c94ab68a72300a1aa9a660, http://93.123.85.167/roze.sparc
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 266973, 2024-10-13 06:25:33, 2024-10-13 06:25:33, malware, 09f3ffd39049442186ad39c1cc33a960, http://net.igxhost.ru/main_m68k
 266972, 2024-10-13 06:25:33, 2024-10-13 06:25:33, malware, e33c8c60d88c46dda6c9000bc76f5b9b, http://net.igxhost.ru/main_arm7
 266971, 2024-10-13 06:25:32, 2024-10-13 06:25:32, malware, 5cd79893fc7d4741acefce6a25a654e3, http://net.igxhost.ru/main_arm6
-266970, 2024-10-13 06:25:28, 2024-10-13 06:25:28, malware, c59d3d1b5e694834b917bbc058c43a54, http://net.igxhost.ru/main_arm5
