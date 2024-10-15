@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-15 09:00:01 UTC
+# UPDATE: 2024-10-15 10:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+268465, 2024-10-15 09:22:15, 2024-10-15 09:22:15, phishing, 733c5ff9ca5c7424b3ae9a48f4772d50, http://forge-finance.pages.dev
 268464, 2024-10-15 08:50:12, 2024-10-15 08:50:12, phishing, b11127c8f77e33b0e6d253c108ac7dc6, http://mananamamama.hopto.org
 268463, 2024-10-15 08:44:13, 2024-10-15 08:44:13, phishing, 2b4d77d150ce4ee097a974cf6be9b9bd, http://layerzero-finance.pages.dev
 268462, 2024-10-15 08:35:29, 2024-10-15 08:35:29, phishing, be54a5a32c13e74447ac9ad2c79fde85, https://suspended-acc.com/netflix_hoo/auth/dV9oBz/login.php?id=20613486
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 267968, 2024-10-14 16:00:39, 2024-10-14 16:00:39, phishing, 3724625299ab3ae495295b6b495ee128, http://erin-viral-video-bugis.t-mee.com/
 267967, 2024-10-14 16:00:37, 2024-10-14 16:00:37, phishing, 42f7f354e4fcebf57e17bdaf2f2d6a60, https://xelato.ru/
 267966, 2024-10-14 16:00:33, 2024-10-14 16:00:33, phishing, 696289b28a181071b3c1c5a9c93d601c, http://englishtest-stage-7.duolingo.com.sg1.putrivpn1.us.kg/
-267965, 2024-10-14 16:00:29, 2024-10-14 16:00:29, phishing, 8c2406a2e42dd22e9f8d8e2187d210c1, https://quelletita.contact/

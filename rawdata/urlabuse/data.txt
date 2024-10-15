@@ -6,8 +6,9 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-15 09:00:01 UTC
+# UPDATE: 2024-10-15 10:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 268465, "url": "http://forge-finance.pages.dev", "discovery": "2024-10-15 09:22:15", "added": "2024-10-15 09:22:15", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "733c5ff9ca5c7424b3ae9a48f4772d50"}
 {"id": 268464, "url": "http://mananamamama.hopto.org", "discovery": "2024-10-15 08:50:12", "added": "2024-10-15 08:50:12", "target": "TR-GOV", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "b11127c8f77e33b0e6d253c108ac7dc6"}
 {"id": 268463, "url": "http://layerzero-finance.pages.dev", "discovery": "2024-10-15 08:44:13", "added": "2024-10-15 08:44:13", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "2b4d77d150ce4ee097a974cf6be9b9bd"}
 {"id": 268462, "url": "https://suspended-acc.com/netflix_hoo/auth/dV9oBz/login.php?id=20613486", "discovery": "2024-10-15 08:35:29", "added": "2024-10-15 08:35:29", "target": "Netflix", "reporter": "anonymous", "AbuseType": "phishing", "UUID": "be54a5a32c13e74447ac9ad2c79fde85"}
@@ -507,4 +508,3 @@
 {"id": 267968, "url": "http://erin-viral-video-bugis.t-mee.com/", "discovery": "2024-10-14 16:00:39", "added": "2024-10-14 16:00:39", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "3724625299ab3ae495295b6b495ee128"}
 {"id": 267967, "url": "https://xelato.ru/", "discovery": "2024-10-14 16:00:37", "added": "2024-10-14 16:00:37", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "42f7f354e4fcebf57e17bdaf2f2d6a60"}
 {"id": 267966, "url": "http://englishtest-stage-7.duolingo.com.sg1.putrivpn1.us.kg/", "discovery": "2024-10-14 16:00:33", "added": "2024-10-14 16:00:33", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "696289b28a181071b3c1c5a9c93d601c"}
-{"id": 267965, "url": "https://quelletita.contact/", "discovery": "2024-10-14 16:00:29", "added": "2024-10-14 16:00:29", "target": "Telegram", "reporter": "lruubot", "AbuseType": "phishing", "UUID": "8c2406a2e42dd22e9f8d8e2187d210c1"}
