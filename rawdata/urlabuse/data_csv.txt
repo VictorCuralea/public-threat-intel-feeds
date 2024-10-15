@@ -6,9 +6,16 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-15 15:00:01 UTC
+# UPDATE: 2024-10-15 16:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+268588, 2024-10-15 15:54:53, 2024-10-15 15:38:15, phishing, 1d5165a1b7cba178e92657be75d03859, https://equiddojuke-3653.vercel.app/mixcc.html/
+268587, 2024-10-15 15:53:51, 2024-10-15 15:28:13, phishing, 5c22b0c936a1e92344f3fa1f2ddf27fd, https://wixexpertss.com/login.html
+268586, 2024-10-15 15:51:45, 2024-10-15 14:36:13, phishing, 8ea47468f59a0111c503b0291d8b22ee, https://heyflow.id/pagesbt#gender
+268585, 2024-10-15 15:48:15, 2024-10-15 15:48:15, phishing, 22ceda743942d1f4afd6ce255b843fb6, http://supercorezillnode.pages.dev
+268584, 2024-10-15 15:38:11, 2024-10-15 15:38:11, phishing, bbd68535dde41631dd00f9d87acecd2b, http://1ndex-ciient1oginathonilne.web-active-docs.workers.dev
+268583, 2024-10-15 15:36:13, 2024-10-15 15:36:13, phishing, ad85c42bab0be3442efa249175b1e9ac, https://id-swisspass.info/
+268582, 2024-10-15 15:28:13, 2024-10-15 15:28:13, phishing, 99bf1e5a50aeb487b049366120f85cda, https://sbb-suspended--schweiz.codeanyapp.com/manage-SBB/ManageSign/B9E5XLLUFF/Portal/Login_OPTXWD58C8/main/d2a04d71301a8915217dd5faf81d12cffd6cd958/
 268581, 2024-10-15 14:38:15, 2024-10-15 14:38:15, phishing, ae654e95effa68ae9cb5b5bafead5b65, http://leniscoipolecure.pages.dev
 268580, 2024-10-15 14:38:13, 2024-10-15 14:38:13, phishing, ea59a45b7dadf08f224441782206e7cf, http://c1ient-index1oginauthonilne.verify-docs-online.workers.dev
 268579, 2024-10-15 14:22:41, 2024-10-15 14:22:41, malware, c4a37dcf73df447587ddc0bcc9bbfe5c, http://61.53.89.58:54230/Mozi.m
@@ -502,10 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 268091, 2024-10-14 18:24:07, 2024-10-14 18:24:07, malware, f79b95b17fdf4d20b0448816e067563b, http://180.116.242.89:35813/Mozi.m
 268090, 2024-10-14 18:24:04, 2024-10-14 18:24:04, malware, 2e840cbe7cb74a97ab0378e5947ec213, http://130.61.181.50/ransomware/persistance.exe
 268089, 2024-10-14 18:23:50, 2024-10-14 18:23:50, malware, f91d41de37fa4c95ba99315217b4dab6, http://130.61.181.50/ransomware/payload.exe
-268088, 2024-10-14 18:23:49, 2024-10-14 18:23:49, malware, 7dfb8facb9d94201b210de4b3052f15a, http://125.25.96.125:45397/
-268087, 2024-10-14 18:23:46, 2024-10-14 18:23:46, malware, 1fe91cd5442b42419400c2cbc9b213f0, http://123.5.170.225:60167/bin.sh
-268086, 2024-10-14 18:23:44, 2024-10-14 18:23:44, malware, 3553f30044f1423cba389056ae69b473, http://123.12.240.210:39113/i
-268085, 2024-10-14 18:23:33, 2024-10-14 18:23:33, malware, 9d2c6c90c4754df6b194fce900c3546a, http://117.63.0.129:39322/bin.sh
-268084, 2024-10-14 18:22:39, 2024-10-14 18:22:39, malware, 039f49eb933f405a8f28f1e1add34aae, http://117.235.96.2:34649/i
-268083, 2024-10-14 18:22:37, 2024-10-14 18:22:37, malware, 6400b38dee7f4b728b81331767c356c2, http://117.235.96.2:34649/bin.sh
-268082, 2024-10-14 18:22:34, 2024-10-14 18:22:34, malware, ce0a5af3110f412dbb96fd831dbd1946, http://117.235.76.148:58066/Mozi.m
