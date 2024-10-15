@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-15 05:00:02 UTC
+# UPDATE: 2024-10-15 06:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+268329, 2024-10-15 05:44:16, 2024-10-15 05:44:16, phishing, 3104f4fce849f89feb28b932c15dd2cc, http://telegrakczej.org
 268328, 2024-10-15 04:50:12, 2024-10-15 04:50:12, phishing, fc8eae5e70770edde4d3473a21c1d615, http://room-gay.vip11.my.id
 268327, 2024-10-15 04:23:46, 2024-10-15 04:23:46, malware, b7c80f5c63114dfe96eb6a34cfe8cbd0, http://66.222.155.39:52448/i
 268326, 2024-10-15 04:23:43, 2024-10-15 04:23:43, malware, b5a07bf179e941819c8efff7ea997c4a, http://61.3.83.126:38978/Mozi.m
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 267832, 2024-10-14 12:58:15, 2024-10-14 12:58:15, phishing, 68587e41ef0a6fd58180eaf953aafabd, http://coinsolution01.pages.dev
 267831, 2024-10-14 12:42:15, 2024-10-14 12:42:15, phishing, e6cfb51d0cce15adcc0435941a4f42b2, https://alianca-rs.com.br/admins/
 267830, 2024-10-14 12:42:13, 2024-10-14 12:42:13, phishing, 539812e1d8c8364b9e60471060efcd74, https://id-swisspass.com/
-267829, 2024-10-14 12:24:41, 2024-10-14 12:24:41, malware, 7023e7d5b9504a75a2f100a2e0192a26, http://95.169.203.171/FBI.x86_64
