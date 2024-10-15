@@ -6,9 +6,15 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-15 01:00:01 UTC
+# UPDATE: 2024-10-15 02:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+268268, 2024-10-15 01:58:13, 2024-10-15 01:58:13, phishing, fbe70263cb91ca640ab45edc2e2f51da, http://sexviral.oficial.asia
+268267, 2024-10-15 01:03:36, 2024-10-15 01:03:36, phishing, 36e038c24af03e40ae23d004b4623dc2, https://mikekepley.github.io/validate.github.io/
+268266, 2024-10-15 01:02:46, 2024-10-15 01:02:46, phishing, d3e654c8dddbbe5ea04f2960bdc15846, https://zhukov.github.io/webogram/#/login
+268265, 2024-10-15 01:02:32, 2024-10-15 01:02:32, phishing, b7bb86afd8d7c0b9dabe6a6ad6fa7a72, https://user6.hehdinn.us.kg/
+268264, 2024-10-15 01:02:13, 2024-10-15 01:02:13, phishing, 82c94be41023950541f494aef6f9e5b6, https://telaglam.fi-ik.xyz/
+268263, 2024-10-15 01:02:13, 2024-10-15 01:02:13, phishing, 1d8a903278e1ba915c560fa256cb873f, https://help.telegarams.net/
 268262, 2024-10-15 00:28:02, 2024-10-15 00:28:02, malware, 1adab77082a14778b93e1adbb3682593, http://94.103.125.119/l.exe
 268261, 2024-10-15 00:28:00, 2024-10-15 00:28:00, malware, 23473ea25f684815ae87d619f8e56869, http://84.213.69.62:53847/Mozi.a
 268260, 2024-10-15 00:27:58, 2024-10-15 00:27:58, malware, 3fe7687b8fa2453dbf9175bb3353e223, http://66.222.155.39:52448/
@@ -503,9 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 267771, 2024-10-14 10:26:38, 2024-10-14 10:26:38, malware, 045b29c76c3a4687b3d36fea5e7184c0, http://222.142.252.80:51336/i
 267770, 2024-10-14 10:26:36, 2024-10-14 10:26:36, malware, 6210bad225b84e9a98fb30caa66b7277, http://222.142.252.80:51336/bin.sh
 267769, 2024-10-14 10:26:34, 2024-10-14 10:26:34, malware, 3d65887d745441c188d80e5ea1b3c11d, http://222.141.42.124:36977/i
-267768, 2024-10-14 10:26:32, 2024-10-14 10:26:32, malware, 332d99f66a2042ea805003cd9755122b, http://221.15.6.228:41734/
-267767, 2024-10-14 10:26:20, 2024-10-14 10:26:20, malware, 2637ba58cd3743b3a620c2c5aeef30ad, http://219.155.203.226:46827/i
-267766, 2024-10-14 10:25:30, 2024-10-14 10:25:30, malware, 424d5abf65454dac8d3ea427cea36279, http://182.60.11.102:60768/i
-267765, 2024-10-14 10:25:09, 2024-10-14 10:25:09, malware, 03943a021f84473ba3421617d6b4cd86, http://182.120.54.38:39639/
-267764, 2024-10-14 10:25:07, 2024-10-14 10:25:07, malware, e1894d614eb04db9ae8386228fdf9f08, http://182.116.119.15:55128/i
-267763, 2024-10-14 10:25:05, 2024-10-14 10:25:05, malware, 5e555bb5f7e04bda83467bdd817807ca, http://125.45.9.102:37360/bin.sh
