@@ -6,8 +6,13 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-15 03:00:01 UTC
+# UPDATE: 2024-10-15 04:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 268298, "url": "http://flexspincoin.pages.dev", "discovery": "2024-10-15 03:44:17", "added": "2024-10-15 03:44:17", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "afa0f173cf4de112dfd9e1fbed4b76e4"}
+{"id": 268297, "url": "http://solutiontotask.pages.dev", "discovery": "2024-10-15 03:36:15", "added": "2024-10-15 03:36:15", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "b1fd2d0761b74261dd38ff2fb0758023"}
+{"id": 268296, "url": "http://assurancemaladie-sante.com", "discovery": "2024-10-15 03:24:18", "added": "2024-10-15 03:24:18", "target": "FR-GOV", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "5c090b552d62fc04656d397b6d265649"}
+{"id": 268295, "url": "https://doc.hr-desk-department.com/mo4/mod.jsp?top=x", "discovery": "2024-10-15 01:56:14", "added": "2024-10-15 03:05:48", "target": "Generic Email", "reporter": "anonymous", "AbuseType": "phishing", "UUID": "8cce3d68229834c6c091b73f8add73ac"}
+{"id": 268294, "url": "https://dev.biocaracol.pt/aa/?email=x", "discovery": "2024-10-15 01:33:18", "added": "2024-10-15 03:05:35", "target": "Generic Phishing", "reporter": "anonymous", "AbuseType": "phishing", "UUID": "ce0a90b955cae62389166dcd6cb28f39"}
 {"id": 268293, "url": "http://59.183.122.232:59401/Mozi.m", "discovery": "2024-10-15 02:23:15", "added": "2024-10-15 02:23:15", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "48736f51089f4d3abdf8d9ccc9aa8b4b"}
 {"id": 268292, "url": "http://59.182.114.44:48249/", "discovery": "2024-10-15 02:23:09", "added": "2024-10-15 02:23:09", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "39875bd5f68f470e8ac5ff33f4f6bc53"}
 {"id": 268291, "url": "http://42.242.189.33:56606/bin.sh", "discovery": "2024-10-15 02:22:41", "added": "2024-10-15 02:22:41", "target": "#ELF32ARM_EABI4", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "fab80c36500f4d3399d9324235c3bf76"}
@@ -503,8 +508,3 @@
 {"id": 267801, "url": "http://123.5.151.121:56214/", "discovery": "2024-10-14 12:23:09", "added": "2024-10-14 12:23:09", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "b835e05120ae4d9bb1f83d39700f6fba"}
 {"id": 267800, "url": "http://117.209.90.124:54879/i", "discovery": "2024-10-14 12:21:04", "added": "2024-10-14 12:21:04", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "0a813b439d744c04a0f13bceb45f45e2"}
 {"id": 267799, "url": "http://117.209.83.237:59629/i", "discovery": "2024-10-14 12:20:51", "added": "2024-10-14 12:20:51", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "00d3edc7c452432fa1c05d25b40b86f1"}
-{"id": 267798, "url": "http://117.209.25.235:57942/i", "discovery": "2024-10-14 12:20:39", "added": "2024-10-14 12:20:39", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "8587968b9aa94762979f560790380c74"}
-{"id": 267797, "url": "http://115.63.48.80:43218/Mozi.m", "discovery": "2024-10-14 12:20:09", "added": "2024-10-14 12:20:09", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "c0afaefb69cb412388e46523a81890ea"}
-{"id": 267796, "url": "http://115.58.133.75:56629/i", "discovery": "2024-10-14 12:20:06", "added": "2024-10-14 12:20:06", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "78c1317894dd4ad1a4705cc9b373064f"}
-{"id": 267795, "url": "http://re-arstroid.pages.dev", "discovery": "2024-10-14 11:46:14", "added": "2024-10-14 11:46:14", "target": "Crypto", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "c4a3e6755b2f89acdd154c9fdf209963"}
-{"id": 267794, "url": "https://sensible-circumstances-580829.framer.app/", "discovery": "2024-10-14 11:24:14", "added": "2024-10-14 11:41:07", "target": "Sunrise", "reporter": "VERIFROM", "AbuseType": "phishing", "UUID": "58c1446a0426c71b7678b105573b6b3f"}
