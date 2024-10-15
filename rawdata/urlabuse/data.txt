@@ -6,8 +6,9 @@
 # 'target' field is only valid for AbuseType 'phishing'
 # This file has the latest 500 entry of the database.
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-15 17:00:02 UTC
+# UPDATE: 2024-10-15 18:00:01 UTC
 ############### END COMMENTS ###############
+{"id": 268666, "url": "http://ciient-1ndexauth1oginoniine.fwlink-docusign-verify.workers.dev", "discovery": "2024-10-15 17:42:11", "added": "2024-10-15 17:42:11", "target": "Microsoft", "reporter": "lrucbot", "AbuseType": "phishing", "UUID": "928f4a467733e5528d9ff9bb1a3b5529"}
 {"id": 268665, "url": "http://96.245.232.11:34003/i", "discovery": "2024-10-15 16:30:19", "added": "2024-10-15 16:30:19", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "1cbc5fd78b5b42f7a22223333f534fce"}
 {"id": 268664, "url": "http://87.120.84.230/bins.sh", "discovery": "2024-10-15 16:30:12", "added": "2024-10-15 16:30:12", "target": "#BASHSHELL", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "254ed73646ef45bda1207be388a469fe"}
 {"id": 268663, "url": "http://61.52.157.25:42688/bin.sh", "discovery": "2024-10-15 16:30:09", "added": "2024-10-15 16:30:09", "target": "#ELF32MIPS", "reporter": "lrumbot", "AbuseType": "malware", "UUID": "31080a4fab60451a99601494b59dc834"}
@@ -507,4 +508,3 @@
 {"id": 268169, "url": "https://cajevi.lijeciprirodno.info/", "discovery": "2024-10-14 22:02:21", "added": "2024-10-14 22:02:21", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "6222521a9204e4478dcf99c7759fc271"}
 {"id": 268168, "url": "https://lijeciprirodno.website/", "discovery": "2024-10-14 22:02:21", "added": "2024-10-14 22:02:21", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "215263cf16aef341dbae331b6ede3d21"}
 {"id": 268167, "url": "https://lijeci-prirodno.info/", "discovery": "2024-10-14 22:02:21", "added": "2024-10-14 22:02:21", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "c3e558a14696956c7b90ed6248455f40"}
-{"id": 268166, "url": "https://zdravlje3.lijeciprirodno.info/", "discovery": "2024-10-14 22:02:21", "added": "2024-10-14 22:02:21", "target": "#ATTACK", "reporter": "lruhbot", "AbuseType": "hacked", "UUID": "86ce5470eb15ca43f8b06042a9afe037"}

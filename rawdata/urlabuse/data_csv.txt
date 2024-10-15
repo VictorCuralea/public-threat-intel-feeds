@@ -6,9 +6,10 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-10-15 17:00:02 UTC
+# UPDATE: 2024-10-15 18:00:01 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+268666, 2024-10-15 17:42:11, 2024-10-15 17:42:11, phishing, 928f4a467733e5528d9ff9bb1a3b5529, http://ciient-1ndexauth1oginoniine.fwlink-docusign-verify.workers.dev
 268665, 2024-10-15 16:30:19, 2024-10-15 16:30:19, malware, 1cbc5fd78b5b42f7a22223333f534fce, http://96.245.232.11:34003/i
 268664, 2024-10-15 16:30:12, 2024-10-15 16:30:12, malware, 254ed73646ef45bda1207be388a469fe, http://87.120.84.230/bins.sh
 268663, 2024-10-15 16:30:09, 2024-10-15 16:30:09, malware, 31080a4fab60451a99601494b59dc834, http://61.52.157.25:42688/bin.sh
@@ -508,4 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 268169, 2024-10-14 22:02:21, 2024-10-14 22:02:21, hacked, 6222521a9204e4478dcf99c7759fc271, https://cajevi.lijeciprirodno.info/
 268168, 2024-10-14 22:02:21, 2024-10-14 22:02:21, hacked, 215263cf16aef341dbae331b6ede3d21, https://lijeciprirodno.website/
 268167, 2024-10-14 22:02:21, 2024-10-14 22:02:21, hacked, c3e558a14696956c7b90ed6248455f40, https://lijeci-prirodno.info/
-268166, 2024-10-14 22:02:21, 2024-10-14 22:02:21, hacked, 86ce5470eb15ca43f8b06042a9afe037, https://zdravlje3.lijeciprirodno.info/
