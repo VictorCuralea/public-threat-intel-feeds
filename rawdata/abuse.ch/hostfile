@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-10-17 11:36:18 UTC                        #
+# Last updated: 2024-10-17 17:22:59 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	wshsoft.company
+127.0.0.1	mail.lust-auf-erfolg.com
+127.0.0.1	niggakid.duckdns.org
+127.0.0.1	a.mx.pqpw.com
 127.0.0.1	thelocaltribe.com
 127.0.0.1	volisc.biz
 127.0.0.1	tnc-corp.ru
@@ -9623,11 +9627,4 @@
 127.0.0.1	european.pornvideo.mynetav.org
 127.0.0.1	dzn.ddns.net
 127.0.0.1	service-o62eztd3-1259321672.bj.tencentapigw.com.cn
-127.0.0.1	cncboatnetonlvu.apimomo.pro
-127.0.0.1	npcodaas.xyz
-127.0.0.1	botnettajima.ddns.net
-127.0.0.1	net-killer.verminteam.link
-127.0.0.1	legendsworld.in
-127.0.0.1	nextoneup.shop
-127.0.0.1	afterksmelipandmahdiimadss.ddns.net
-# Number of entries: 9624
+# Number of entries: 9621
