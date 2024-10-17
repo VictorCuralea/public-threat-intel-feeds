@@ -1,11 +1,19 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-10-17 05:53:39 UTC                        #
+# Last updated: 2024-10-17 11:36:18 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	thelocaltribe.com
+127.0.0.1	volisc.biz
+127.0.0.1	tnc-corp.ru
+127.0.0.1	liverds.at
+127.0.0.1	livbev.online
+127.0.0.1	soccoc.africa
+127.0.0.1	deltaso.com
+127.0.0.1	berzzuzz.com
 127.0.0.1	10086623.top
 127.0.0.1	tqshoes.shop
 127.0.0.1	www.cachorrosquentesdeliciosos.com
@@ -9622,14 +9630,4 @@
 127.0.0.1	legendsworld.in
 127.0.0.1	nextoneup.shop
 127.0.0.1	afterksmelipandmahdiimadss.ddns.net
-127.0.0.1	mark1234567.ddns.net
-127.0.0.1	xiaokkk.02maill.com
-127.0.0.1	ss.02maill.com
-127.0.0.1	cve.02maill.com
-127.0.0.1	utilityreport.azureedge.net
-127.0.0.1	require-spa.gl.at.ply.gg
-127.0.0.1	4-hitler.publicvm.com
-127.0.0.1	net-killer.ddns.net
-127.0.0.1	emv1.ib-comm-gateway.com
-127.0.0.1	spotslfy.com
-# Number of entries: 9626
+# Number of entries: 9624
