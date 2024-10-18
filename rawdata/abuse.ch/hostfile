@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-10-17 17:22:59 UTC                        #
+# Last updated: 2024-10-17 20:14:44 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	lum-fun.fun
+127.0.0.1	lummc2.fun
 127.0.0.1	wshsoft.company
 127.0.0.1	mail.lust-auf-erfolg.com
 127.0.0.1	niggakid.duckdns.org
@@ -9624,7 +9626,4 @@
 127.0.0.1	graph.vani.ovh
 127.0.0.1	mirai.vani.ovh
 127.0.0.1	kovey.mezo-api.xyz
-127.0.0.1	european.pornvideo.mynetav.org
-127.0.0.1	dzn.ddns.net
-127.0.0.1	service-o62eztd3-1259321672.bj.tencentapigw.com.cn
-# Number of entries: 9621
+# Number of entries: 9620
