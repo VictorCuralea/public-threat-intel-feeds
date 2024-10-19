@@ -1,11 +1,120 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-10-18 17:05:00 UTC                        #
+# Last updated: 2024-10-18 22:12:56 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	poisonx.net
+127.0.0.1	cdn-gravitiumgame.xyz
+127.0.0.1	gw84.nanosystems.it
+127.0.0.1	gw85.nanosystems.it
+127.0.0.1	gw86.nanosystems.it
+127.0.0.1	gw87.nanosystems.it
+127.0.0.1	gw88.nanosystems.it
+127.0.0.1	gw89.nanosystems.it
+127.0.0.1	gw90.nanosystems.it
+127.0.0.1	gw92.nanosystems.it
+127.0.0.1	gw93.nanosystems.it
+127.0.0.1	gw94.nanosystems.it
+127.0.0.1	gw95.nanosystems.it
+127.0.0.1	gw96.nanosystems.it
+127.0.0.1	gw97.nanosystems.it
+127.0.0.1	vpn351082533.softether.net
+127.0.0.1	www.greustekolle.eu
+127.0.0.1	gw703.nanosystems.it
+127.0.0.1	gw704.nanosystems.it
+127.0.0.1	gw705.nanosystems.it
+127.0.0.1	gw714.nanosystems.it
+127.0.0.1	gw728.nanosystems.it
+127.0.0.1	gw732.nanosystems.it
+127.0.0.1	gw733.nanosystems.it
+127.0.0.1	gw750.nanosystems.it
+127.0.0.1	gw751.nanosystems.it
+127.0.0.1	gw752.nanosystems.it
+127.0.0.1	gw753.nanosystems.it
+127.0.0.1	gw755.nanosystems.it
+127.0.0.1	gw756.nanosystems.it
+127.0.0.1	gw757.nanosystems.it
+127.0.0.1	gw758.nanosystems.it
+127.0.0.1	gw762.nanosystems.it
+127.0.0.1	gw77.nanosystems.it
+127.0.0.1	gw778.nanosystems.it
+127.0.0.1	gw785.nanosystems.it
+127.0.0.1	gw786.nanosystems.it
+127.0.0.1	gw793.nanosystems.it
+127.0.0.1	gw83.nanosystems.it
+127.0.0.1	gw569.nanosystems.it
+127.0.0.1	gw570.nanosystems.it
+127.0.0.1	gw572.nanosystems.it
+127.0.0.1	gw573.nanosystems.it
+127.0.0.1	gw574.nanosystems.it
+127.0.0.1	gw62.nanosystems.it
+127.0.0.1	gw63.nanosystems.it
+127.0.0.1	gw65.nanosystems.it
+127.0.0.1	gw666.nanosystems.it
+127.0.0.1	gw668.nanosystems.it
+127.0.0.1	gw669.nanosystems.it
+127.0.0.1	gw670.nanosystems.it
+127.0.0.1	gw671.nanosystems.it
+127.0.0.1	gw674.nanosystems.it
+127.0.0.1	gw675.nanosystems.it
+127.0.0.1	gw676.nanosystems.it
+127.0.0.1	gw677.nanosystems.it
+127.0.0.1	gw678.nanosystems.it
+127.0.0.1	gw680.nanosystems.it
+127.0.0.1	gw700.nanosystems.it
+127.0.0.1	gw701.nanosystems.it
+127.0.0.1	gw702.nanosystems.it
+127.0.0.1	gw4.nanosystems.it
+127.0.0.1	gw40.nanosystems.it
+127.0.0.1	gw44.nanosystems.it
+127.0.0.1	gw45.nanosystems.it
+127.0.0.1	gw46.nanosystems.it
+127.0.0.1	gw48.nanosystems.it
+127.0.0.1	gw54.nanosystems.it
+127.0.0.1	gw540.nanosystems.it
+127.0.0.1	gw541.nanosystems.it
+127.0.0.1	gw542.nanosystems.it
+127.0.0.1	gw543.nanosystems.it
+127.0.0.1	gw544.nanosystems.it
+127.0.0.1	gw545.nanosystems.it
+127.0.0.1	gw560.nanosystems.it
+127.0.0.1	gw561.nanosystems.it
+127.0.0.1	gw562.nanosystems.it
+127.0.0.1	gw563.nanosystems.it
+127.0.0.1	gw564.nanosystems.it
+127.0.0.1	gw565.nanosystems.it
+127.0.0.1	gw566.nanosystems.it
+127.0.0.1	gw567.nanosystems.it
+127.0.0.1	gw568.nanosystems.it
+127.0.0.1	kcxeibd.cn
+127.0.0.1	jyoxgpp.cn
+127.0.0.1	bssn-gov.id
+127.0.0.1	greustekolle.eu
+127.0.0.1	gw15.nanosystems.it
+127.0.0.1	gw16.nanosystems.it
+127.0.0.1	gw20.nanosystems.it
+127.0.0.1	gw29.nanosystems.it
+127.0.0.1	gw30.nanosystems.it
+127.0.0.1	gw31.nanosystems.it
+127.0.0.1	gw343.nanosystems.it
+127.0.0.1	gw344.nanosystems.it
+127.0.0.1	gw345.nanosystems.it
+127.0.0.1	gw346.nanosystems.it
+127.0.0.1	gw347.nanosystems.it
+127.0.0.1	gw348.nanosystems.it
+127.0.0.1	gw349.nanosystems.it
+127.0.0.1	gw353.nanosystems.it
+127.0.0.1	gw38.nanosystems.it
+127.0.0.1	geo.revolut-verify-yahoo.com
+127.0.0.1	s.revolut-verify-yahoo.com
+127.0.0.1	3p-geo.revolut-verify-yahoo.com
+127.0.0.1	consent-cmp.revolut-verify-yahoo.com
+127.0.0.1	opus-analytics.revolut-verify-yahoo.com
+127.0.0.1	lumsecret.fun
+127.0.0.1	apic2.fun
 127.0.0.1	parex-bank.ru
 127.0.0.1	kavkaz.ru
 127.0.0.1	trojan.ru
@@ -9646,4 +9755,4 @@
 127.0.0.1	aomacamada.ddns.net
 127.0.0.1	rootme.xyz
 127.0.0.1	rooty.shop
-# Number of entries: 9640
+# Number of entries: 9749
