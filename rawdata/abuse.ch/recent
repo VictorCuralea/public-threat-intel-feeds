@@ -7,6 +7,4 @@
 ################################################################
 #
 # "first_seen_utc","ioc_id","ioc_value","ioc_type","threat_type","fk_malware","malware_alias","malware_printable","last_seen_utc","confidence_level","reference","tags","anonymous","reporter"
-"2024-10-17 17:21:59", "1337248", "d2886d86ef67a3550a4aadcf623aa785fddcd3af754b3035229647f186005b1c", "sha256_hash", "payload", "win.amadey", "None", "Amadey", "", "100", "", "None", "0", "Riordz"
-"2024-10-17 17:21:59", "1337249", "bc6724e7899a39694a2723c1c407ddf08ccf25113e78607f3327a988ff515a26", "sha256_hash", "payload", "win.amadey", "None", "Amadey", "", "100", "", "None", "0", "Riordz"
-# Number of entries: 2
+# Number of entries: 0
