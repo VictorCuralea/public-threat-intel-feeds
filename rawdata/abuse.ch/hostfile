@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-10-19 20:01:49 UTC                        #
+# Last updated: 2024-10-20 04:01:56 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	10.53.154.104.bc.googleusercontent.com
+127.0.0.1	systemcoreupdate.com
+127.0.0.1	www.arvitop.com
 127.0.0.1	beatverse.shop
 127.0.0.1	domainc2.xyz
 127.0.0.1	tenvd10vt.top
@@ -9809,4 +9812,4 @@
 127.0.0.1	blueberry-breeze.com
 127.0.0.1	go8et.lol
 127.0.0.1	uf.tispy.me
-# Number of entries: 9803
+# Number of entries: 9806
