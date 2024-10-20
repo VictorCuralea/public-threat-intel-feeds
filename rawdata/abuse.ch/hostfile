@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-10-20 04:01:56 UTC                        #
+# Last updated: 2024-10-20 13:09:20 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	pro-fundraising.gl.at.ply.gg
 127.0.0.1	10.53.154.104.bc.googleusercontent.com
 127.0.0.1	systemcoreupdate.com
 127.0.0.1	www.arvitop.com
@@ -9796,5 +9797,4 @@
 127.0.0.1	quotes-nl.gl.at.ply.gg
 127.0.0.1	other-tours.gl.at.ply.gg
 127.0.0.1	basic-values.gl.at.ply.gg
-127.0.0.1	public-ftp.com
 # Number of entries: 9791
