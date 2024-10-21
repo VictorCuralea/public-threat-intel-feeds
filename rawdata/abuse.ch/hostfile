@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-10-20 13:09:20 UTC                        #
+# Last updated: 2024-10-21 04:02:25 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	vmi1471627.contaboserver.net
+127.0.0.1	gifted-lewin.111-90-140-34.plesk.page
 127.0.0.1	pro-fundraising.gl.at.ply.gg
 127.0.0.1	10.53.154.104.bc.googleusercontent.com
 127.0.0.1	systemcoreupdate.com
@@ -9797,4 +9799,4 @@
 127.0.0.1	quotes-nl.gl.at.ply.gg
 127.0.0.1	other-tours.gl.at.ply.gg
 127.0.0.1	basic-values.gl.at.ply.gg
-# Number of entries: 9791
+# Number of entries: 9793
