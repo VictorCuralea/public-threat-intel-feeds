@@ -1,11 +1,23 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-10-21 08:14:21 UTC                        #
+# Last updated: 2024-10-21 16:45:57 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	services.giftapi.net
+127.0.0.1	giftapi.net
+127.0.0.1	rpc.aceyn.top
+127.0.0.1	aceyn.top
+127.0.0.1	smartupdatecenter.com
+127.0.0.1	cloudexperiencehost.com
+127.0.0.1	ebaltrahal.eu
+127.0.0.1	ebaltrahal.com
+127.0.0.1	bot.avesta.uno
+127.0.0.1	avesta.uno
+127.0.0.1	ctdl1-windowsupdate.com
+127.0.0.1	dddotx.site
 127.0.0.1	recessionmar.cfd
 127.0.0.1	chewcaferw.cfd
 127.0.0.1	legislatiu.cfd
@@ -9822,11 +9834,4 @@
 127.0.0.1	2762da3f.sjys6.top
 127.0.0.1	cecilioisbetter.dyn
 127.0.0.1	thisisnotabotnet.pirate
-127.0.0.1	sonicglyder.com
-127.0.0.1	illitluckygirl.com
-127.0.0.1	under-wars.com
-127.0.0.1	ecurs.ro
-127.0.0.1	stylejason.com
-127.0.0.1	service-hcy5bcw8-1317301829.gz.tencentapigw.com.cn
-127.0.0.1	b.citriix.org
-# Number of entries: 9823
+# Number of entries: 9828
