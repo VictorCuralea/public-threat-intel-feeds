@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-10-21 16:45:57 UTC                        #
+# Last updated: 2024-10-22 05:51:27 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	cheappyholk.store
+127.0.0.1	clammygrumnj.store
+127.0.0.1	forbb14sb.top
 127.0.0.1	services.giftapi.net
 127.0.0.1	giftapi.net
 127.0.0.1	rpc.aceyn.top
@@ -9834,4 +9837,4 @@
 127.0.0.1	2762da3f.sjys6.top
 127.0.0.1	cecilioisbetter.dyn
 127.0.0.1	thisisnotabotnet.pirate
-# Number of entries: 9828
+# Number of entries: 9831
