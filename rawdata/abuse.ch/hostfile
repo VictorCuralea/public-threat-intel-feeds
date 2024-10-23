@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-10-22 09:58:33 UTC                        #
+# Last updated: 2024-10-23 05:27:21 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	franklinida.com
+127.0.0.1	deltaldcenter.com
+127.0.0.1	mta1.pqpw.com
+127.0.0.1	home.pqpw.com
 127.0.0.1	cooperatedmw.cfd
 127.0.0.1	bodyridegw.cfd
 127.0.0.1	newsystuff.cfd
@@ -9844,5 +9848,4 @@
 127.0.0.1	eralaunch.xyz
 127.0.0.1	soka101.xyz
 127.0.0.1	tenens.xyz
-127.0.0.1	wscript.ddns.net
-# Number of entries: 9839
+# Number of entries: 9842
