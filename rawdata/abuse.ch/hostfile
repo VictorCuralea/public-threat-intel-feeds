@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-10-24 21:16:48 UTC                        #
+# Last updated: 2024-10-25 04:02:02 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	www.kmsupdateservice.com.br
+127.0.0.1	salah2.webredirect.org
+127.0.0.1	diplomatgroup.org
 127.0.0.1	fashionablei.sbs
 127.0.0.1	pilethroneb.cyou
 127.0.0.1	forjh4ht.top
@@ -10030,4 +10033,4 @@
 127.0.0.1	secure-core-rebirthltd.su
 127.0.0.1	security.secure-core-rebirthltd.su
 127.0.0.1	fuck-niggers.xyz
-# Number of entries: 10024
+# Number of entries: 10027
