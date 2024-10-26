@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-10-25 17:28:05 UTC                        #
+# Last updated: 2024-10-26 05:39:09 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	js.liveya.org
+127.0.0.1	explorationmsn.store
+127.0.0.1	cemeteryun.cyou
 127.0.0.1	arubapalmrealtor.com
 127.0.0.1	roadsterrhetoricaw.shop
 127.0.0.1	stckeringdkzpx.shop
@@ -10016,4 +10019,4 @@
 127.0.0.1	mail.metadate.services
 127.0.0.1	service-qyygkf1k-1307679590.gz.tencentapigw.com.cn
 127.0.0.1	craftedfollowing.duckdns.org
-# Number of entries: 10010
+# Number of entries: 10013
