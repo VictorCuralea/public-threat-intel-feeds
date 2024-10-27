@@ -1,11 +1,17 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-10-26 20:03:02 UTC                        #
+# Last updated: 2024-10-27 04:03:49 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	stats.search-st1.com
+127.0.0.1	111-90-140-34.cprapid.com
+127.0.0.1	search-gld.com
+127.0.0.1	search-spd.com
+127.0.0.1	search-slv.com
+127.0.0.1	www.185-150-24-68.cprapid.com
 127.0.0.1	bmzbaumaschinen.com
 127.0.0.1	timeless-tales.shop
 127.0.0.1	dns.cdn-serveri68n-googleapis.org
@@ -10002,4 +10008,4 @@
 127.0.0.1	service-e22kp8jz-1259321672.bj.tencentapigw.com.cn
 127.0.0.1	canarapay-f5hghmdjd7eddbb4.z02.azurefd.net
 127.0.0.1	logist.cct-logistics.com
-# Number of entries: 9996
+# Number of entries: 10002
