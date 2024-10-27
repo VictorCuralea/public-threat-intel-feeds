@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-10-27 08:07:02 UTC                        #
+# Last updated: 2024-10-27 12:38:21 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	yellowchink.pirate
+127.0.0.1	cpcontacts.spainparkvillas.com
+127.0.0.1	mail.111-90-140-34.cprapid.com
 127.0.0.1	race-frequent.gl.at.ply.gg
 127.0.0.1	mail.webpanel777.pl
 127.0.0.1	stats.search-st1.com
@@ -10003,5 +10006,4 @@
 127.0.0.1	vbdsg.duckdns.org
 127.0.0.1	nmds.duckdns.org
 127.0.0.1	greatnessappreviews.com
-127.0.0.1	www.chinamobile.live
-# Number of entries: 9998
+# Number of entries: 10000
