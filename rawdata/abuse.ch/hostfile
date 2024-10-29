@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-10-28 15:20:50 UTC                        #
+# Last updated: 2024-10-29 00:04:13 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	85.171.46.34.bc.googleusercontent.com
+127.0.0.1	wonderful-wilson.93-177-102-47.plesk.page
 127.0.0.1	bot.hiv.icu
 127.0.0.1	hiv.icu
 127.0.0.1	egetfile.top
@@ -10042,4 +10044,4 @@
 127.0.0.1	retardedclassmate.dyn
 127.0.0.1	whitepeopleonly.dyn
 127.0.0.1	servernoworky.geek
-# Number of entries: 10036
+# Number of entries: 10038
