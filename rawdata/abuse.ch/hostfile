@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-10-31 21:27:42 UTC                        #
+# Last updated: 2024-11-01 00:05:13 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	monycam.freeddns.org
 127.0.0.1	tenjo10ht.top
 127.0.0.1	sivjo6ht.top
 127.0.0.1	tenjo10sr.top
@@ -10101,4 +10102,4 @@
 127.0.0.1	service-8lop3tot-1321953982.sh.tencentapigw.com
 127.0.0.1	update.micromain.cfd
 127.0.0.1	justloki.com
-# Number of entries: 10095
+# Number of entries: 10096
