@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-11-02 04:02:00 UTC                        #
+# Last updated: 2024-11-02 08:02:04 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	releases.gotraffic.fr
+127.0.0.1	www.izoa.netsons.org
+127.0.0.1	orchestratb.cyou
+127.0.0.1	mundiprep.com
 127.0.0.1	mx5.deitie.asia
 127.0.0.1	teebro1800.dynamic-dns.net
 127.0.0.1	loader.ssag00v-0ffical.com
@@ -10108,8 +10112,4 @@
 127.0.0.1	138.124.183.79.sslip.io
 127.0.0.1	nandos.hopto.org
 127.0.0.1	aawwn.azureedge.net
-127.0.0.1	www.dahuatec.xyz
-127.0.0.1	service-inqt462u-1314366639.hk.tencentapigw.cn
-127.0.0.1	fbmarket-place.info
-127.0.0.1	www.fbmarket-place.info
 # Number of entries: 10106
