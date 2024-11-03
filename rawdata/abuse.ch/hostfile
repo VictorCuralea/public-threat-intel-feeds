@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-11-03 10:04:09 UTC                        #
+# Last updated: 2024-11-03 17:24:03 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	tme-grams.top
+127.0.0.1	um0re.xyz
+127.0.0.1	mirailover.ddns.net
 127.0.0.1	tweljo12vs.top
 127.0.0.1	test.alcokz.net
 127.0.0.1	vmi2233876.contaboserver.net
@@ -10035,5 +10038,4 @@
 127.0.0.1	these-accommodation.gl.at.ply.gg
 127.0.0.1	brownselocalsz.duckdns.org
 127.0.0.1	klikkancontrolsx.ddnsfree.com
-127.0.0.1	support.popuiarenlinea.com
-# Number of entries: 10030
+# Number of entries: 10032
