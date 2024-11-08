@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-11-07 19:20:54 UTC                        #
+# Last updated: 2024-11-08 04:01:55 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	sookshumlabs.com
 127.0.0.1	sixjp16vt.top
 127.0.0.1	eightjp8sr.top
 127.0.0.1	fivetjp15vt.top
@@ -10338,4 +10339,4 @@
 127.0.0.1	itemsdostawa.com
 127.0.0.1	masterokrwh.duckdns.org
 127.0.0.1	valentinedaycard.com
-# Number of entries: 10332
+# Number of entries: 10333
