@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-11-08 19:55:29 UTC                        #
+# Last updated: 2024-11-09 00:03:52 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	117.54.129.180.unknown.m1.com.sg.prodejdilu.cz
+127.0.0.1	184.88.78.218.dial.xw.sh.dynamic.163data.com.cn.prodejdilu.cz
 127.0.0.1	americajobmail.site
 127.0.0.1	390698.ru
 127.0.0.1	49246.sx
@@ -10371,5 +10373,4 @@
 127.0.0.1	www.hathawaya.xyz
 127.0.0.1	www.dq.sched.vip-dk.tdnsvod1.cn
 127.0.0.1	consultantinsurance.net
-127.0.0.1	minuoddos.top
-# Number of entries: 10366
+# Number of entries: 10367
