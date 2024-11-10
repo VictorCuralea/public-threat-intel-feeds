@@ -1,12 +1,14 @@
 ################################################################
 # ThreatFox IOCs: recent SHA256 hashes - CSV format            #
-# Last updated: 2024-11-09 08:26:28 UTC                        #
+# Last updated: 2024-11-10 15:28:51 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
 # "first_seen_utc","ioc_id","ioc_value","ioc_type","threat_type","fk_malware","malware_alias","malware_printable","last_seen_utc","confidence_level","reference","tags","anonymous","reporter"
+"2024-11-10 15:28:51", "1343990", "cb974d42183c1b779dd9b15f5014893e4ccd7bcb1c56c62416f028de759ce607", "sha256_hash", "payload", "unknown", "None", "Unknown malware", "", "50", "", "None", "0", "juroots"
+"2024-11-10 15:28:50", "1343989", "bd3b1910de0908ebf93905730c594ab28058103110ab459ce3e4920b4d193933", "sha256_hash", "payload", "win.asyncrat", "None", "AsyncRAT", "", "100", "", "asyncrat,vbs", "0", "juroots"
 "2024-11-09 08:26:28", "1343660", "03853C56BCFDF87D71BA4E17C4F6B55F989EDB29FC1DB2C82DE3D50BE99D7311", "sha256_hash", "payload", "win.strelastealer", "None", "StrelaStealer", "", "50", "https://cyble.com/blog/strela-stealer-targets-europe-stealthily-via-webdav/", "cyble,strela", "0", "juroots"
 "2024-11-09 08:26:28", "1343661", "12CD832EFCD3E3A6938CA5D445F572731B64866AFC0129219D8110030AA22242", "sha256_hash", "payload", "win.strelastealer", "None", "StrelaStealer", "", "50", "https://cyble.com/blog/strela-stealer-targets-europe-stealthily-via-webdav/", "cyble,strela", "0", "juroots"
 "2024-11-09 08:26:28", "1343662", "150F490AE97098342E192A6722872E86D468CBD2FD8B3D6C46F4601ACDEA85D1", "sha256_hash", "payload", "win.strelastealer", "None", "StrelaStealer", "", "50", "https://cyble.com/blog/strela-stealer-targets-europe-stealthily-via-webdav/", "cyble,strela", "0", "juroots"
@@ -169,4 +171,4 @@
 "2024-11-08 19:55:33", "1343354", "B1AC26DAC205973CD1288A38265835EDA9B9FF2EDC6BD7C6CB9DEE4891C9B449", "sha256_hash", "payload", "win.play", "PlayCrypt", "PLAY", "", "75", "https://community.riskiq.com/article/393b61a9/indicators", "None", "0", "juroots"
 "2024-11-08 19:55:33", "1343355", "B4F5D37732272F18206242CCD00F6CAD9FBFC12FAE9173BB69F53FFFEBA5553F", "sha256_hash", "payload", "win.play", "PlayCrypt", "PLAY", "", "75", "https://community.riskiq.com/article/393b61a9/indicators", "None", "0", "juroots"
 "2024-11-08 19:55:32", "1343356", "F64DAB23C50E3D131ABCC1BDBB35CE9D68A34920DD77677730568C24A84411C5", "sha256_hash", "payload", "win.play", "PlayCrypt", "PLAY", "", "75", "https://community.riskiq.com/article/393b61a9/indicators", "None", "0", "juroots"
-# Number of entries: 162
+# Number of entries: 164
