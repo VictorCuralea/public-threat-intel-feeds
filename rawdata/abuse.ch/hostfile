@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-11-12 09:32:13 UTC                        #
+# Last updated: 2024-11-12 15:06:09 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	tolefarma.com
+127.0.0.1	porelinofigoventa.com
+127.0.0.1	fencingfriends.com
 127.0.0.1	filemanage.micrsofts-file.com
 127.0.0.1	yesno33727323123yyy.oss-cn-beijing.aliyuncs.com
 127.0.0.1	yjwj2024.oss-cn-shanghai.aliyuncs.com
@@ -10554,7 +10557,4 @@
 127.0.0.1	frdk.xyz
 127.0.0.1	frfk.xyz
 127.0.0.1	homebrew.cx
-127.0.0.1	kindupdates.com
-127.0.0.1	js.mitigize.com
-127.0.0.1	www.chiante1ecom.com
 # Number of entries: 10551

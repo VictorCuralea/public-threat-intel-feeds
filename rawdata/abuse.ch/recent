@@ -7,6 +7,4 @@
 ################################################################
 #
 # "first_seen_utc","ioc_id","ioc_value","ioc_type","threat_type","fk_malware","malware_alias","malware_printable","last_seen_utc","confidence_level","reference","tags","anonymous","reporter"
-"2024-11-10 15:28:51", "1343990", "cb974d42183c1b779dd9b15f5014893e4ccd7bcb1c56c62416f028de759ce607", "sha256_hash", "payload", "unknown", "None", "Unknown malware", "", "50", "", "None", "0", "juroots"
-"2024-11-10 15:28:50", "1343989", "bd3b1910de0908ebf93905730c594ab28058103110ab459ce3e4920b4d193933", "sha256_hash", "payload", "win.asyncrat", "None", "AsyncRAT", "", "100", "", "asyncrat,vbs", "0", "juroots"
-# Number of entries: 2
+# Number of entries: 0
