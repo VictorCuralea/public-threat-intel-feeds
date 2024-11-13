@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-11-12 18:04:07 UTC                        #
+# Last updated: 2024-11-13 00:48:02 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	harpmanxd.com
 127.0.0.1	ksdjwi.eye-network.ru
 127.0.0.1	tolefarma.com
 127.0.0.1	porelinofigoventa.com
@@ -10557,4 +10558,4 @@
 127.0.0.1	frck.xyz
 127.0.0.1	frdk.xyz
 127.0.0.1	frfk.xyz
-# Number of entries: 10551
+# Number of entries: 10552
