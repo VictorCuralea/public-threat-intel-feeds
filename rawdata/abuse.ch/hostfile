@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-11-13 17:22:39 UTC                        #
+# Last updated: 2024-11-13 17:59:17 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	bestmarsgood.com
+127.0.0.1	cerwintifed.com
 127.0.0.1	burjog.com
 127.0.0.1	samomol.com
 127.0.0.1	leehoi02.ddns.net
@@ -10562,4 +10564,4 @@
 127.0.0.1	o.tpc.ngrok.io
 127.0.0.1	capty.nut.cc
 127.0.0.1	vacation-nails.gl.at.ply.gg
-# Number of entries: 10556
+# Number of entries: 10558
