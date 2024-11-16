@@ -7,10 +7,4 @@
 ################################################################
 #
 # "first_seen_utc","ioc_id","ioc_value","ioc_type","threat_type","fk_malware","malware_alias","malware_printable","last_seen_utc","confidence_level","reference","tags","anonymous","reporter"
-"2024-11-14 10:12:07", "1344774", "24A4EBF1DE71F332F38DE69BAF2DA3019A87D45129411AD4F7D3EA48F506119D", "sha256_hash", "payload", "win.remcos", "RemcosRAT,Remvio,Socmer", "Remcos", "", "50", "https://www.fortinet.com/blog/threat-research/new-campaign-uses-remcos-rat-to-exploit-victims", "remcosrat", "0", "juroots"
-"2024-11-14 10:12:05", "1344775", "4A670E3D4B8481CED88C74458FEC448A0FE40064AB2B1B00A289AB504015E944", "sha256_hash", "payload", "win.remcos", "RemcosRAT,Remvio,Socmer", "Remcos", "", "50", "https://www.fortinet.com/blog/threat-research/new-campaign-uses-remcos-rat-to-exploit-victims", "remcosrat", "0", "juroots"
-"2024-11-14 10:12:05", "1344776", "9124D7696D2B94E7959933C3F7A8F68E61A5CE29CD5934A4D0379C2193B126BE", "sha256_hash", "payload", "win.remcos", "RemcosRAT,Remvio,Socmer", "Remcos", "", "50", "https://www.fortinet.com/blog/threat-research/new-campaign-uses-remcos-rat-to-exploit-victims", "remcosrat", "0", "juroots"
-"2024-11-14 10:12:04", "1344777", "D4D98FDBE306D61986BED62340744554E0A288C5A804ED5C924F66885CBF3514", "sha256_hash", "payload", "win.remcos", "RemcosRAT,Remvio,Socmer", "Remcos", "", "50", "https://www.fortinet.com/blog/threat-research/new-campaign-uses-remcos-rat-to-exploit-victims", "remcosrat", "0", "juroots"
-"2024-11-14 10:12:04", "1344778", "F99757C98007DA241258AE12EC0FD5083F0475A993CA6309811263AAD17D4661", "sha256_hash", "payload", "win.remcos", "RemcosRAT,Remvio,Socmer", "Remcos", "", "50", "https://www.fortinet.com/blog/threat-research/new-campaign-uses-remcos-rat-to-exploit-victims", "remcosrat", "0", "juroots"
-"2024-11-14 10:12:04", "1344779", "F9B744D0223EFE3C01C94D526881A95523C2F5E457F03774DD1D661944E60852", "sha256_hash", "payload", "win.remcos", "RemcosRAT,Remvio,Socmer", "Remcos", "", "50", "https://www.fortinet.com/blog/threat-research/new-campaign-uses-remcos-rat-to-exploit-victims", "remcosrat", "0", "juroots"
-# Number of entries: 6
+# Number of entries: 0
