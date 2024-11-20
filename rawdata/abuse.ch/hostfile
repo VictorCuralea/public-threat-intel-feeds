@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-11-19 21:57:12 UTC                        #
+# Last updated: 2024-11-20 05:51:02 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	xboxapicenter.com
+127.0.0.1	azurestorage.world
+127.0.0.1	fwaax.life
 127.0.0.1	yebmhucezgghpzwvgqi5y2djfufgtrwcbbta547oaxw5kzi6sa2hopad.onion
 127.0.0.1	kvlrfiowwiwft7od7mlbdcxouuozm56dqv4uyhfcdbabqydv3htolvid.onion
 127.0.0.1	l234audkv4np4z7ifp2apoven7hzbyjrfvteoh6fvjarc6cd6vxfe4ad.onion
@@ -10654,7 +10657,4 @@
 127.0.0.1	stayherefata4l.org
 127.0.0.1	masduh38sjdai.org
 127.0.0.1	omfghellobrosjda38.org
-127.0.0.1	nikt0x.duckdns.org
-127.0.0.1	wae54.duckdns.org
-127.0.0.1	wave54.duckdns.org
 # Number of entries: 10651
