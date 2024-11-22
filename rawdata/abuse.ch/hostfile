@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-11-21 15:41:37 UTC                        #
+# Last updated: 2024-11-21 19:37:23 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	sbft.ru
 127.0.0.1	rnyhbarwallet.com
 127.0.0.1	kingstonwikkerink.dyn
 127.0.0.1	modernkeys.org
@@ -10940,7 +10941,4 @@
 127.0.0.1	infres.in
 127.0.0.1	alliancebbs.com
 127.0.0.1	production-reservation.gl.at.ply.gg
-127.0.0.1	aiphiex9ae.ptsupport.tech
-127.0.0.1	jelelaiyegba.duckdns.org
-127.0.0.1	service-i50ggjoo-1253504731.gz.tencentapigw.com.cn
-# Number of entries: 10937
+# Number of entries: 10935
