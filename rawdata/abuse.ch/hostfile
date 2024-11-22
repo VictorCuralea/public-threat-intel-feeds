@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-11-22 11:16:13 UTC                        #
+# Last updated: 2024-11-22 16:18:32 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	16october-etmdeposit329.top
+127.0.0.1	oyo.work.gd
 127.0.0.1	eleja11vt.top
 127.0.0.1	elejj11ht.top
 127.0.0.1	neinjj9ht.top
@@ -10980,7 +10982,4 @@
 127.0.0.1	spygate.myftp.biz
 127.0.0.1	www.bitdefenders.shop
 127.0.0.1	womendonotdothat.com
-127.0.0.1	bipto.org
-127.0.0.1	jobresurs.ru
-127.0.0.1	tonybabb.com
-# Number of entries: 10977
+# Number of entries: 10976
