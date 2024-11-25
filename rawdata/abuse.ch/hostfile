@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-11-25 09:13:04 UTC                        #
+# Last updated: 2024-11-25 15:35:28 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	source.scriptsafedata.com
+127.0.0.1	reviewtypes.com
+127.0.0.1	modandcrackedapk.com
+127.0.0.1	opporeno8.com
 127.0.0.1	ilsotto.com
 127.0.0.1	esaleerugs.com
 127.0.0.1	lessons.southsidechurchofchristla.org
@@ -11138,7 +11142,4 @@
 127.0.0.1	botusesr472.duckdns.org
 127.0.0.1	pt-security.ru
 127.0.0.1	updates.sublimetext.workers.dev
-127.0.0.1	catseven.top
-127.0.0.1	ghs.lidajun.lol
-127.0.0.1	certificatecenter.info
-# Number of entries: 11135
+# Number of entries: 11136
