@@ -1,10 +1,12 @@
 ################################################################
 # ThreatFox IOCs: recent SHA256 hashes - CSV format            #
-# Last updated: 2024-11-16 14:51:15 UTC                        #
+# Last updated: 2024-11-26 06:32:21 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
 # "first_seen_utc","ioc_id","ioc_value","ioc_type","threat_type","fk_malware","malware_alias","malware_printable","last_seen_utc","confidence_level","reference","tags","anonymous","reporter"
-# Number of entries: 0
+"2024-11-26 06:32:21", "1347209", "220c13ed547eefe13afc446bbd84f5fe8790dd9d109905f583f5ffb97520a872", "sha256_hash", "payload", "unknown", "None", "Unknown malware", "", "100", "", "cryptostealer,infostealer,stealer", "0", "ninjacatcher"
+"2024-11-26 06:32:21", "1347210", "2d36c1e2dbd05433e3fadb7bd6dca2e01e0ba895e161f07218197d9712d35648", "sha256_hash", "payload", "unknown", "None", "Unknown malware", "", "100", "", "cryptostealer,infostealer,stealer", "0", "ninjacatcher"
+# Number of entries: 2
