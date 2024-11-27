@@ -1,11 +1,33 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-11-27 07:23:01 UTC                        #
+# Last updated: 2024-11-27 16:17:38 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	pivko.sbs
+127.0.0.1	electrum-sol.org
+127.0.0.1	electrum-doge.org
+127.0.0.1	electrum-dash.org
+127.0.0.1	xmr-electrum.com
+127.0.0.1	minisoftupdate.app
+127.0.0.1	electrum-xrp.net
+127.0.0.1	eth-electrum.org
+127.0.0.1	electrum-bch.net
+127.0.0.1	softupdate.app
+127.0.0.1	electrum-usdt.com
+127.0.0.1	electrum-eth.org
+127.0.0.1	electrum-dgb.org
+127.0.0.1	electrum-bch.org
+127.0.0.1	erickakingpr.com
+127.0.0.1	viking-liife.com
+127.0.0.1	studioclic53.com
+127.0.0.1	moneroapi.info
+127.0.0.1	dncoding.com
+127.0.0.1	pweobmxdlboi.com
+127.0.0.1	premiosdosul.com
+127.0.0.1	hydroquebec-client.info
 127.0.0.1	weeatsome.com
 127.0.0.1	z-v2-071924.kailib.com
 127.0.0.1	vidar.cc
@@ -11120,9 +11142,4 @@
 127.0.0.1	mofamail.shop
 127.0.0.1	apcorp.homes
 127.0.0.1	10xshares.com
-127.0.0.1	bookmycooks.com
-127.0.0.1	main.cloudfronts.net
-127.0.0.1	dash.cloudflare.ovh
-127.0.0.1	control-road.gl.at.ply.gg
-127.0.0.1	www.dnacharting.com
-# Number of entries: 11119
+# Number of entries: 11136
