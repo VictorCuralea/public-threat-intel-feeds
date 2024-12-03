@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-12-03 11:14:24 UTC                        #
+# Last updated: 2024-12-03 14:28:20 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	q8ds.net
+127.0.0.1	www.oleonidas.gr
 127.0.0.1	cities-constraints.gl.at.ply.gg
 127.0.0.1	rechnungsportal.sbs
 127.0.0.1	ggstor.shop
@@ -11548,9 +11550,4 @@
 127.0.0.1	wear626.com
 127.0.0.1	win32.duckdns.org
 127.0.0.1	so-taxi.gl.at.ply.gg
-127.0.0.1	update.mirrorss.top
-127.0.0.1	upgrade.mirrorss.top
-127.0.0.1	theonelartist.com
-127.0.0.1	load.memoryloader.com
-127.0.0.1	memoryloader.com
-# Number of entries: 11547
+# Number of entries: 11544
