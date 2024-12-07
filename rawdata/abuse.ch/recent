@@ -1,10 +1,11 @@
 ################################################################
 # ThreatFox IOCs: recent SHA256 hashes - CSV format            #
-# Last updated: 2024-11-27 15:36:21 UTC                        #
+# Last updated: 2024-12-07 05:32:55 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
 # "first_seen_utc","ioc_id","ioc_value","ioc_type","threat_type","fk_malware","malware_alias","malware_printable","last_seen_utc","confidence_level","reference","tags","anonymous","reporter"
-# Number of entries: 0
+"2024-12-07 05:32:55", "1353016", "6b8848b38b3e239a0df83efc456ad22bf5e59e7145b59d1f8e154881ebb9f8e3", "sha256_hash", "payload", "win.orcus_rat", "Schnorchel", "Orcus RAT", "", "100", "", "None", "0", "HuntYethHounds"
+# Number of entries: 1
