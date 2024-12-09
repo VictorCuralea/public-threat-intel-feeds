@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-12-09 05:23:53 UTC                        #
+# Last updated: 2024-12-09 06:01:48 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	windows-cam.casacam.net
 127.0.0.1	yhgger.top
 127.0.0.1	bacai.xyz
 127.0.0.1	mythic.0xharshsec.tech
@@ -10668,14 +10669,4 @@
 127.0.0.1	elvesofiax.com
 127.0.0.1	download.netuse1.eu.org
 127.0.0.1	rsmbscm.wikilogistics.wiki
-127.0.0.1	activecode.work
-127.0.0.1	blacktds.black
-127.0.0.1	blacktds.cloud
-127.0.0.1	service-79k3uwa0-1317712796.gz.tencentapigw.com.cn
-127.0.0.1	lebohdc.com
-127.0.0.1	pinaylizzie.com
-127.0.0.1	somlwebtactics.com
-127.0.0.1	cloudsafeuae.com
-127.0.0.1	coffeecrumbs.com
-127.0.0.1	experience-apart.gl.at.ply.gg
-# Number of entries: 10672
+# Number of entries: 10663
