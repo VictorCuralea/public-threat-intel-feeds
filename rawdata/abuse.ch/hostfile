@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-12-09 06:01:48 UTC                        #
+# Last updated: 2024-12-09 14:06:36 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	jitcom.info
+127.0.0.1	habfan.com
+127.0.0.1	material.amstillroofing.com
 127.0.0.1	windows-cam.casacam.net
 127.0.0.1	yhgger.top
 127.0.0.1	bacai.xyz
@@ -10667,6 +10670,4 @@
 127.0.0.1	nafiskaran.com
 127.0.0.1	ddbc.xyz
 127.0.0.1	elvesofiax.com
-127.0.0.1	download.netuse1.eu.org
-127.0.0.1	rsmbscm.wikilogistics.wiki
-# Number of entries: 10663
+# Number of entries: 10664
