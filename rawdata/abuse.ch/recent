@@ -7,7 +7,7 @@
 ################################################################
 #
 # "first_seen_utc","ioc_id","ioc_value","ioc_type","threat_type","fk_malware","malware_alias","malware_printable","last_seen_utc","confidence_level","reference","tags","anonymous","reporter"
-"2024-12-10 20:37:19", "1354877", "5d503fbbf80912949a777bcaf5becbac587a81483ac4081b2a653ca2c936e39a", "sha256_hash", "payload", "win.valley_rat", "None", "ValleyRAT", "", "100", "https://urlhaus.abuse.ch/url/3344275/", "ValleyRAT", "0", "NDA0E"
+"2024-12-10 20:37:19", "1354877", "5d503fbbf80912949a777bcaf5becbac587a81483ac4081b2a653ca2c936e39a", "sha256_hash", "payload", "win.valley_rat", "Winos", "ValleyRAT", "", "100", "https://urlhaus.abuse.ch/url/3344275/", "ValleyRAT", "0", "NDA0E"
 "2024-12-10 17:27:44", "1354766", "b1d767d8df9be64ed6887ac8af94e547d6b9abfde770931fef036fe2a5a2d921", "sha256_hash", "payload", "unknown", "None", "Unknown malware", "", "100", "https://x.com/TLP_R3D/status/1866044562608959577", "Gamaredon", "0", "abuse_ch"
 "2024-12-10 17:27:44", "1354765", "b5d59bb932843ca58c29971e73edfe642731701f29133eb1cfb8841e198d567f", "sha256_hash", "payload", "unknown", "None", "Unknown malware", "", "100", "https://x.com/TLP_R3D/status/1866044562608959577", "Gamaredon", "0", "abuse_ch"
 "2024-12-10 16:38:33", "1354695", "ce9a61e88d4194a823fa545bcd4884e2d53c9abb8def0c24a8d5c5c28dcab846", "sha256_hash", "payload", "win.lumma", "LummaC2 Stealer", "Lumma Stealer", "", "100", "", "Lumma,LummaStealer", "1", "davideciacciolo"
