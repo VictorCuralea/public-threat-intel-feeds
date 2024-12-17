@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-12-16 20:01:50 UTC                        #
+# Last updated: 2024-12-17 04:01:58 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	www.chat.edureel.ai
+127.0.0.1	www.elastic-merkle.194-26-192-207.plesk.page
+127.0.0.1	62.133.63.114.sslip.io
 127.0.0.1	156.65.16.34.bc.googleusercontent.com
 127.0.0.1	f1063431.xsph.ru
 127.0.0.1	hafiznor3374.duckdns.org
@@ -11074,4 +11077,4 @@
 127.0.0.1	www.thaiticketmajor.com
 127.0.0.1	arcf-sj.org
 127.0.0.1	feeldog.xyz
-# Number of entries: 11068
+# Number of entries: 11071
