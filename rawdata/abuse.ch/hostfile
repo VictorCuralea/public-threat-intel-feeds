@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-12-16 16:22:41 UTC                        #
+# Last updated: 2024-12-16 20:01:50 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	156.65.16.34.bc.googleusercontent.com
+127.0.0.1	f1063431.xsph.ru
 127.0.0.1	hafiznor3374.duckdns.org
 127.0.0.1	servers.vlrt-gap.com
 127.0.0.1	abrasigehs.my
@@ -11072,5 +11074,4 @@
 127.0.0.1	www.thaiticketmajor.com
 127.0.0.1	arcf-sj.org
 127.0.0.1	feeldog.xyz
-127.0.0.1	homeimageidea.com
-# Number of entries: 11067
+# Number of entries: 11068
