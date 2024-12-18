@@ -7,6 +7,4 @@
 ################################################################
 #
 # "first_seen_utc","ioc_id","ioc_value","ioc_type","threat_type","fk_malware","malware_alias","malware_printable","last_seen_utc","confidence_level","reference","tags","anonymous","reporter"
-"2024-12-16 17:18:33", "1357404", "5bad559d96e10e6fd3ae45c16de8cc88c160231cf4300651aafbbd9dff313817", "sha256_hash", "payload", "unknown", "None", "Unknown malware", "", "100", "https://app.any.run/tasks/961f1487-cd03-4c25-a625-32a8c55b094f", "exe,java,trojan,zip", "0", "ninjacatcher"
-"2024-12-16 17:18:32", "1357405", "b558f0b1444be5df69027315f7aad563c54a3f791cebbb96a56fce7e5176f8f5", "sha256_hash", "payload", "unknown", "None", "Unknown malware", "", "100", "https://app.any.run/tasks/961f1487-cd03-4c25-a625-32a8c55b094f", "exe,java,trojan,zip", "0", "ninjacatcher"
-# Number of entries: 2
+# Number of entries: 0
