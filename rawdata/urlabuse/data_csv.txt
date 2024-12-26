@@ -6,9 +6,42 @@
 # This file has the latest 500 entry of the database.
 # for more information like target of the attack, use the JSON file
 # You can fetch the file every 5 minutes.
-# UPDATE: 2024-12-25 18:00:01 UTC
+# UPDATE: 2024-12-26 00:00:02 UTC
 ############### END COMMENTS ###############
 id, date_added, date_discovery, type, UUID, url
+322391, 2024-12-25 23:20:25, 2024-12-25 23:20:25, malware, 591c2c9fbdf44c2ebdb7de00e6900577, http://223.10.32.115:52685/i
+322390, 2024-12-25 23:20:23, 2024-12-25 23:20:23, malware, 1ee598488e7b48acad47cccd3c57f9b4, http://222.134.172.27:56647/i
+322389, 2024-12-25 23:20:21, 2024-12-25 23:20:21, malware, 4e16a8c7425343df9db94ecf6420249a, http://164.163.25.146:47870/bin.sh
+322388, 2024-12-25 23:20:19, 2024-12-25 23:20:19, malware, b1b979da79414d758b4359b69d9f7c54, http://117.248.21.197:49420/bin.sh
+322387, 2024-12-25 23:03:37, 2024-12-25 23:03:37, phishing, 7d6cd7069a29d0aae65eef75e25d9b4c, https://telegram.muhyo.uz/
+322386, 2024-12-25 23:03:25, 2024-12-25 23:03:25, phishing, 2c00bc22501916436390d3b3d2f7b637, https://chat.aliaharian.ir/
+322385, 2024-12-25 22:20:15, 2024-12-25 22:20:15, phishing, 213802bc1c04b47b38cc7bae85c8ef81, http://pixelverse-web.pages.dev
+322384, 2024-12-25 21:54:14, 2024-12-25 21:54:14, phishing, b0ae8ec2d8e6135f475495b2ecdcc82b, http://avecardpal.pages.dev
+322383, 2024-12-25 21:54:01, 2024-12-25 21:54:01, phishing, f629970cc101476b86d00768ea64fdf9, http://auspostic.top
+322382, 2024-12-25 21:38:16, 2024-12-25 21:38:16, phishing, 725d894c5532e6053796576ee90a3d12, http://sovrndappchain.pages.dev
+322381, 2024-12-25 21:20:26, 2024-12-25 21:20:26, malware, 247f5b2ac25e41ea978febdb57c95817, http://27.195.41.51:53127/bin.sh
+322380, 2024-12-25 21:20:13, 2024-12-25 21:20:13, malware, 4046a06d43f34d08a1a8956ede146ee4, http://125.106.254.66:50145/bin.sh
+322379, 2024-12-25 21:20:10, 2024-12-25 21:20:10, malware, 8e0a7db93ee749a2adace1700980cc85, http://117.209.80.123:38814/i
+322378, 2024-12-25 21:20:07, 2024-12-25 21:20:07, malware, a04c50212af84f29aabd2ca9b413c6a4, http://110.182.103.154:55452/Mozi.m
+322377, 2024-12-25 20:51:25, 2024-12-25 18:30:09, phishing, 5ac6da2326ab8037860f4039201e191a, https://serviceinc.myguidedog.com
+322376, 2024-12-25 20:51:13, 2024-12-25 18:30:08, phishing, 6dca017b6ac1cfd5d088c9561674e7ea, https://qontoserviz.serv00.net/a/suissepass/CHFINAL/CHFINALE/
+322375, 2024-12-25 20:51:01, 2024-12-25 18:30:08, phishing, 8ccafea0eeac720e0485468ed85ad2f4, https://gmaile0a49.s3.amazonaws.com/1ff.html
+322374, 2024-12-25 20:50:49, 2024-12-25 18:30:08, phishing, 88490eda67425fb99417d3195ace4ad7, https://pay.buckaroo.nl/454859492761551095
+322373, 2024-12-25 20:36:30, 2024-12-25 20:36:30, phishing, 866fb96e2618e20bd90449542583c7cc, http://fidt0155.top
+322372, 2024-12-25 20:34:24, 2024-12-25 20:34:24, phishing, f7302975c85ea66eb9a1ccdf4678d467, http://fidt0175.top
+322371, 2024-12-25 20:00:35, 2024-12-25 20:00:35, phishing, 872f00ec61e069d9148b8ba22a889928, https://notpixel.today/
+322370, 2024-12-25 20:00:27, 2024-12-25 20:00:27, phishing, b15a8b919efe54bb85a9e2291e458193, http://370363.cc/ZHFuBmLm8H5
+322369, 2024-12-25 20:00:19, 2024-12-25 20:00:19, phishing, 5088bb376454d7788b0e76e5dd3e130a, http://741230.cc/LwIgWxQ4gj3URy
+322368, 2024-12-25 19:24:02, 2024-12-25 19:24:02, phishing, b16babeef42d474b9f6396274c53cf81, http://estaeadfeta.cc
+322367, 2024-12-25 19:20:18, 2024-12-25 19:20:18, malware, ff1ebcf315d64c34bee1075e8e4d041b, http://165.3.86.135/x86_64
+322366, 2024-12-25 19:20:17, 2024-12-25 19:20:17, malware, f0284dd9abed48149e291aa144ec2529, http://117.222.248.133:56370/i
+322365, 2024-12-25 19:20:05, 2024-12-25 19:20:05, malware, ba97b973bd6e41d1b07a7b2e9d55c6fc, http://112.239.97.9:57763/i
+322364, 2024-12-25 19:12:01, 2024-12-25 19:12:01, phishing, 4f33f4ac3e92408b86a5e7b5a434a763, http://aremox.live
+322363, 2024-12-25 18:54:01, 2024-12-25 18:54:01, phishing, ee61dfe727364b80af262faa7aab2f56, http://aremov.live
+322362, 2024-12-25 18:44:15, 2024-12-25 18:44:15, phishing, 2c7d53ea841b3d33465ee7554556f136, http://mail.cepe.business-minagne.com
+322361, 2024-12-25 18:42:16, 2024-12-25 18:42:16, phishing, d58930e8ab4820809954723244467d27, http://sweet-dew-9e8b.bg51i4tu.workers.dev
+322360, 2024-12-25 18:22:13, 2024-12-25 18:22:13, phishing, fa327ab357235ae4b53021a689fdb7ae, http://worker-dark-haze-1803.lover.workers.dev
+322359, 2024-12-25 18:00:14, 2024-12-25 18:00:14, phishing, 27288d662c90425a70e4a6bf1a0ee5a2, http://cepe.business-minagne.com
 322358, 2024-12-25 17:46:18, 2024-12-25 17:46:18, phishing, 2a3ba7dbcec33fcaa36fbc5322d59aa2, http://renouvellementameli2025.com
 322357, 2024-12-25 17:20:45, 2024-12-25 17:20:45, malware, fedaf8b95d5e437f9e85f98ec0753f1d, http://60.212.134.63:43740/bin.sh
 322356, 2024-12-25 17:20:32, 2024-12-25 17:20:32, malware, 6436da4114154eba8f7762602e4df057, http://218.91.26.67:59404/Mozi.a
@@ -476,36 +509,3 @@ id, date_added, date_discovery, type, UUID, url
 321893, 2024-12-24 19:12:02, 2024-12-24 19:12:02, phishing, 1dc10caee39d4bd5bb05654e993ab19d, http://usps.com-trackafk.top
 321892, 2024-12-24 19:12:02, 2024-12-24 19:12:02, phishing, 285ff396354d4fadab20519aa3e81915, http://usps.com-trackhsz.top
 321891, 2024-12-24 19:12:02, 2024-12-24 19:12:02, phishing, 4b0fdd85a8c04f22af4bf370b689729e, http://usps.com-trackqqs.top
-321890, 2024-12-24 19:12:01, 2024-12-24 19:12:01, phishing, 23b0a6c317e1405fa33273fdebda1225, http://usps.com-tracklvi.top
-321889, 2024-12-24 19:12:01, 2024-12-24 19:12:01, phishing, 6ca5cd4925bb4013ac3bd0247040dfee, http://usps.com-trackqsu.top
-321888, 2024-12-24 18:54:13, 2024-12-24 18:54:13, phishing, 0e74fc42f979dbac9a1474d699b86b06, http://workers-playground-dawn-hat-9dee.fsrooferiinc.workers.dev
-321887, 2024-12-24 18:36:03, 2024-12-24 18:36:03, phishing, 39686794ebd24e5aa118fe0e1e26cc82, http://usps.com-tracksfj.top
-321886, 2024-12-24 18:36:02, 2024-12-24 18:36:02, phishing, 42da876129ff44adbdf5f02aa971ff3a, http://usps.com-trackqed.top
-321885, 2024-12-24 18:36:02, 2024-12-24 18:36:02, phishing, 14a0c6a95cff49dd8e955fa9bdcbea85, http://usps.com-tracknoh.top
-321884, 2024-12-24 18:36:02, 2024-12-24 18:36:02, phishing, d83c254abf6943f9bbdd02043781beff, http://usps.com-tracklpz.top
-321883, 2024-12-24 18:36:02, 2024-12-24 18:36:02, phishing, 4974f9a0b0524a4a99f610d49458d5fb, http://usps.com-trackuzp.top
-321882, 2024-12-24 18:36:02, 2024-12-24 18:36:02, phishing, 745c17aaeb1448f0977496cf16b1c6a7, http://usps.com-trackovo.top
-321881, 2024-12-24 18:36:02, 2024-12-24 18:36:02, phishing, 65c4604edf30432d96cbec4d76bc1e82, http://usps.com-trackykf.top
-321880, 2024-12-24 18:36:02, 2024-12-24 18:36:02, phishing, ad717fcfb51547f9b6ee3a8242900b50, http://usps.com-tracksle.top
-321879, 2024-12-24 18:36:01, 2024-12-24 18:36:01, phishing, 040820303b4c425aa3f3687574604790, http://usps.com-trackyqx.top
-321878, 2024-12-24 18:30:03, 2024-12-24 18:30:03, phishing, 874e805b02cb4c8fae52355171e8252d, http://usps.com-trackccp.top
-321877, 2024-12-24 18:30:03, 2024-12-24 18:30:03, phishing, d4c73bdbe1604e558fee39379349736e, http://usps.com-trackajv.top
-321876, 2024-12-24 18:30:03, 2024-12-24 18:30:03, phishing, fa08c5232d6e486db0464c0ae9ef1b68, http://usps.com-trackfxy.top
-321875, 2024-12-24 18:30:02, 2024-12-24 18:30:02, phishing, ce6b1b50618c4471b8d55b90d677c963, http://usps.com-trackhqh.top
-321874, 2024-12-24 18:30:02, 2024-12-24 18:30:02, phishing, 612761f547274262be65e727d338f29c, http://usps.com-tracklnh.top
-321873, 2024-12-24 18:30:02, 2024-12-24 18:30:02, phishing, 915834fcd7b140169d01d2b812013f3a, http://usps.com-trackgyb.top
-321872, 2024-12-24 18:30:02, 2024-12-24 18:30:02, phishing, 9e46fa2a33d84eb9a771165de16d7e08, http://usps.com-trackjtk.top
-321871, 2024-12-24 18:30:02, 2024-12-24 18:30:02, phishing, 7c0e756817ed45a6874b797c224cad05, http://usps.com-tracklrt.top
-321870, 2024-12-24 18:30:02, 2024-12-24 18:30:02, phishing, 907ff1282e16480fb6cbfcd7c6bd17fa, http://usps.com-trackkzs.top
-321869, 2024-12-24 18:30:02, 2024-12-24 18:30:02, phishing, 3e064ba108b14280be49aa6f9dcc126e, http://usps.com-trackloq.top
-321868, 2024-12-24 18:28:12, 2024-12-24 18:28:12, phishing, 57832076d51978d71482ee5a0f21aa5a, http://autnethicationservicesdomainhostinghosstingservices2.pages.dev
-321867, 2024-12-24 18:12:02, 2024-12-24 18:12:02, phishing, f37bb43ed66d49e7a9fed0fc9d0c50dd, http://aremav.live
-321866, 2024-12-24 17:48:01, 2024-12-24 17:48:01, phishing, 1beee88cb31a47af81c7ad1d828956fa, http://aremeg.live
-321865, 2024-12-24 17:48:01, 2024-12-24 17:48:01, phishing, 9febe727781948dbb2f81919903f23c2, http://aremao.live
-321864, 2024-12-24 17:20:33, 2024-12-24 17:20:33, malware, 5f01c2ace84340fbb5e65a8edd48ab2b, http://177.92.240.168:50913/Mozi.m
-321863, 2024-12-24 17:20:06, 2024-12-24 17:20:06, malware, ac92dd5d18ae445f9567bda90ef33608, http://102.221.44.55:42482/bin.sh
-321862, 2024-12-24 17:03:56, 2024-12-24 17:03:56, phishing, 14c867f6a9075a39ae44d020a434f7d1, https://at8dw-telegram.org/login/index.html
-321861, 2024-12-24 17:03:15, 2024-12-24 17:03:15, phishing, 27553afc08ac287b97c65aec46a32516, http://roakrjp3ww.cyou/MFIjWNbsBvq
-321860, 2024-12-24 17:02:37, 2024-12-24 17:02:37, phishing, 67230ef0bf2a4f827b349d1e19e08739, http://md-nahid-khan.github.io/fbfish
-321859, 2024-12-24 17:01:42, 2024-12-24 17:01:42, phishing, 3e2daee33d8d9adebebaeaa088a6bf32, https://tekegram.top/TW/
-321858, 2024-12-24 17:01:26, 2024-12-24 17:01:26, phishing, eea19c56e9d6ba504f76424a2c7aa585, http://roakrjp3ww.cyou/oGhZFdzQqbJ5VTep
