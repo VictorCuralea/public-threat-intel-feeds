@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-12-28 17:28:20 UTC                        #
+# Last updated: 2024-12-28 20:02:26 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	security.cecbank.online
+127.0.0.1	cmaster-57540.portmap.io
+127.0.0.1	edge.microcoft.co
 127.0.0.1	harlemsupport.com
 127.0.0.1	twentyth20ht.top
 127.0.0.1	home.fiveth5sb.top
@@ -10944,7 +10947,4 @@
 127.0.0.1	poseidon.cool
 127.0.0.1	osheafarm.com
 127.0.0.1	lascolinasresortdalas.com
-127.0.0.1	service-iktxibt6-1305682303.gz.tencentapigw.com.cn
-127.0.0.1	net.icdns.online
-127.0.0.1	botnetddos.zapto.org
 # Number of entries: 10941
