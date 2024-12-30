@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-12-29 20:03:31 UTC                        #
+# Last updated: 2024-12-30 04:04:10 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	kurama.ltd
+127.0.0.1	hstdb234.xyz
+127.0.0.1	usps-online-safe.com
 127.0.0.1	ksmshop.fr
 127.0.0.1	25php.duckdns.org
 127.0.0.1	www.api.edureel.ai
@@ -10983,5 +10986,4 @@
 127.0.0.1	penetratedpoopp.xyz
 127.0.0.1	swellfrrgwwos.xyz
 127.0.0.1	towerxxuytwi.xyz
-127.0.0.1	ghostghostcom.000webhostapp.com
-# Number of entries: 10978
+# Number of entries: 10980
