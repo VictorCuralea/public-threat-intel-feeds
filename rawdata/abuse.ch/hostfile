@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-12-29 16:03:12 UTC                        #
+# Last updated: 2024-12-29 20:03:31 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ksmshop.fr
+127.0.0.1	25php.duckdns.org
 127.0.0.1	www.api.edureel.ai
 127.0.0.1	mail.kapilapiii.com
 127.0.0.1	www.miner.2025ca.site
@@ -10982,5 +10984,4 @@
 127.0.0.1	swellfrrgwwos.xyz
 127.0.0.1	towerxxuytwi.xyz
 127.0.0.1	ghostghostcom.000webhostapp.com
-127.0.0.1	baidenyes.net
-# Number of entries: 10977
+# Number of entries: 10978
