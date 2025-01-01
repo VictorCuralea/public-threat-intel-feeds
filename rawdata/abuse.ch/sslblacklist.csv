@@ -1,12 +1,17 @@
 ################################################################
 # abuse.ch SSLBL SSL Certificate Blacklist (SHA1 Fingerprints) #
-# Last updated: 2024-12-31 08:24:50 UTC                        #
+# Last updated: 2025-01-01 08:07:28 UTC                        #
 #                                                              #
 # Terms Of Use: https://sslbl.abuse.ch/blacklist/              #
 # For questions please contact sslbl [at] abuse.ch             #
 ################################################################
 #
 # Listingdate,SHA1,Listingreason
+2025-01-01 08:07:28,d913a1185d775432542caf200a4252049b71c11a,QuasarRAT C&C
+2025-01-01 08:07:26,88d5d2e6c33089786488a381589cc2587b1b6759,QuasarRAT C&C
+2025-01-01 08:07:20,4e83162da67cae78279fa23fa4f3fa368b681d58,Rhadamanthys C&C
+2025-01-01 08:06:48,ac0c8edabdc3b5d18a0d03f06c18b31a9e40faff,AsyncRAT C&C
+2025-01-01 08:05:31,253672d96600ef2231c46ed5d69eb70c4cf64544,Vidar C&C
 2024-12-31 08:24:50,352cc309ca58bf7aa7f65ce5a8f52c7e12875397,Vidar C&C
 2024-12-31 08:24:17,4b097f3245723f8d02da5a3b285c0290001d76fd,DCRat C&C
 2024-12-30 15:03:30,2cab90fc1044fa9ec7706e41a418b0c427002beb,Vidar C&C
@@ -6074,4 +6079,4 @@
 2014-05-04 08:10:31,86d6aade4ba1414a91b1e7fb3cdd7d503692f410,Shylock C&C
 2014-05-04 08:10:26,5afc236d1dd00c9c45457b75226b501b815a59c7,Shylock C&C
 2014-05-04 08:09:56,b08a4939fb88f375a2757eaddc47b1fb8b554439,Shylock C&C
-# END (6067) entries
+# END (6072) entries
