@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-01-01 16:03:03 UTC                        #
+# Last updated: 2025-01-01 20:03:49 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	chatapi.edureel.ai
+127.0.0.1	usps-mypackage.com
 127.0.0.1	usps-mydeliver.com
 127.0.0.1	sordid-snaked.cyou
 127.0.0.1	wisdom-echoes.shop
@@ -17919,13 +17921,4 @@
 127.0.0.1	fortnite.cryptoinvest.black
 127.0.0.1	mistasktrin.space
 127.0.0.1	ci-wiki.cn
-127.0.0.1	heart-direct.online
-127.0.0.1	brithcaymo.com
-127.0.0.1	ernofilosta.com
-127.0.0.1	lofirenqveg.com
-127.0.0.1	manclinoste.website
-127.0.0.1	prodetanoes.com
-127.0.0.1	prufkespotr.com
-127.0.0.1	shopboksret.com
-127.0.0.1	trymeakafr.com
-# Number of entries: 17922
+# Number of entries: 17915
