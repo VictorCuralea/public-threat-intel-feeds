@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-01-01 20:03:49 UTC                        #
+# Last updated: 2025-01-02 04:03:39 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ntsteallers.com
+127.0.0.1	bot.lingfengfs.com
+127.0.0.1	account.fortinet.app
 127.0.0.1	chatapi.edureel.ai
 127.0.0.1	usps-mypackage.com
 127.0.0.1	usps-mydeliver.com
@@ -17918,7 +17921,4 @@
 127.0.0.1	ads-creep.xyz
 127.0.0.1	jswebcloud.net
 127.0.0.1	pcvvf.xyz
-127.0.0.1	fortnite.cryptoinvest.black
-127.0.0.1	mistasktrin.space
-127.0.0.1	ci-wiki.cn
 # Number of entries: 17915
