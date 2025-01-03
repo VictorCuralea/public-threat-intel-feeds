@@ -1,11 +1,23 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-01-03 04:02:18 UTC                        #
+# Last updated: 2025-01-03 11:14:23 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	solve.jrqr.org
+127.0.0.1	maguagency.site
+127.0.0.1	webdisk.p2.194-59-31-47.cprapid.com
+127.0.0.1	cdn.withrental.com
+127.0.0.1	patbunn.co
+127.0.0.1	mikhail-lermontov.com
+127.0.0.1	goaccredited.biz
+127.0.0.1	readytostartsomething.com
+127.0.0.1	usps-mypackage.com
+127.0.0.1	mypost-usps.com
+127.0.0.1	traversecityspringbreak.com
+127.0.0.1	incomputersolutions.com
 127.0.0.1	pentester03.gleeze.com
 127.0.0.1	tenth10vs.top
 127.0.0.1	thirtth13vs.top
@@ -17891,7 +17903,4 @@
 127.0.0.1	wnaz.shop
 127.0.0.1	adobefallshomes.com
 127.0.0.1	1307777787-7caouzfrdq-bj.scf.tencentcs.com
-127.0.0.1	downloaddining.com
-127.0.0.1	qianxinnbplus.xyz
-127.0.0.1	abc.nbch1na.com
-# Number of entries: 17888
+# Number of entries: 17897
