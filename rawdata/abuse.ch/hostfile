@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-01-02 22:06:51 UTC                        #
+# Last updated: 2025-01-03 04:02:18 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	pentester03.gleeze.com
 127.0.0.1	tenth10vs.top
 127.0.0.1	thirtth13vs.top
 127.0.0.1	twentyth20vs.top
@@ -17893,5 +17894,4 @@
 127.0.0.1	downloaddining.com
 127.0.0.1	qianxinnbplus.xyz
 127.0.0.1	abc.nbch1na.com
-127.0.0.1	www.unionpaying.top
 # Number of entries: 17888
