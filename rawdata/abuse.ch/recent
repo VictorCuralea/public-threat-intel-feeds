@@ -1,10 +1,21 @@
 ################################################################
 # ThreatFox IOCs: recent SHA256 hashes - CSV format            #
-# Last updated: 2024-12-16 17:18:33 UTC                        #
+# Last updated: 2025-01-03 13:28:01 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
 # "first_seen_utc","ioc_id","ioc_value","ioc_type","threat_type","fk_malware","malware_alias","malware_printable","last_seen_utc","confidence_level","reference","tags","anonymous","reporter"
-# Number of entries: 0
+"2025-01-03 13:28:01", "1377594", "fdefedd8f02446dd47723f4b1829f685f64e76b9d29002545dd4c5d5257eae29", "sha256_hash", "payload", "win.asyncrat", "None", "AsyncRAT", "", "100", "https://www.virustotal.com/gui/file/fdefedd8f02446dd47723f4b1829f685f64e76b9d29002545dd4c5d5257eae29", "None", "0", "Joker"
+"2025-01-03 12:57:54", "1377584", "3625fddc2687c086d6d4a4300b03d4a2492acf8e843697f57830bb40956f495a", "sha256_hash", "payload", "win.cobalt_strike", "Agentemis,BEACON,CobaltStrike,cobeacon", "Cobalt Strike", "", "100", "", "None", "0", "Joker"
+"2025-01-03 12:57:54", "1377585", "899c529454c4286185a9d3c039277ce28957590e7ed3e586ccf1487317159c22", "sha256_hash", "payload", "win.cobalt_strike", "Agentemis,BEACON,CobaltStrike,cobeacon", "Cobalt Strike", "", "100", "", "None", "0", "Joker"
+"2025-01-03 12:57:53", "1377586", "4a3341b1a681826f08bc9ec90ca24459826bb28f909030ba522d5ae2c92467d7", "sha256_hash", "payload", "win.cobalt_strike", "Agentemis,BEACON,CobaltStrike,cobeacon", "Cobalt Strike", "", "100", "", "None", "0", "Joker"
+"2025-01-03 12:57:52", "1377587", "d49c2451497109ae9f2646d06aa6dcf51b0f6af825d07f516b8dd59c03602401", "sha256_hash", "payload", "win.cobalt_strike", "Agentemis,BEACON,CobaltStrike,cobeacon", "Cobalt Strike", "", "100", "", "None", "0", "Joker"
+"2025-01-03 12:57:52", "1377588", "e1b6bd9876ca534e99b28403661e09b7a1ab7dac706df3962a0c975ba5b9e8ec", "sha256_hash", "payload", "win.cobalt_strike", "Agentemis,BEACON,CobaltStrike,cobeacon", "Cobalt Strike", "", "100", "", "None", "0", "Joker"
+"2025-01-03 12:57:52", "1377589", "ef1967d9e33cbed9f12a504bdc642c9c12cfbac79a4421617f32e1aa2dc82c6f", "sha256_hash", "payload", "win.cobalt_strike", "Agentemis,BEACON,CobaltStrike,cobeacon", "Cobalt Strike", "", "100", "", "None", "0", "Joker"
+"2025-01-03 12:57:51", "1377590", "1bcdd9648584644da843486719f16b20250d3ca1015a6996085b43135d67615b", "sha256_hash", "payload", "win.cobalt_strike", "Agentemis,BEACON,CobaltStrike,cobeacon", "Cobalt Strike", "", "100", "", "None", "0", "Joker"
+"2025-01-03 12:57:51", "1377591", "af9a6206a5f41bcdf8567adee799d8c5141da48776508c3c73617b2c140d84cb", "sha256_hash", "payload", "win.remcos", "RemcosRAT,Remvio,Socmer", "Remcos", "", "100", "https://bazaar.abuse.ch/sample/af9a6206a5f41bcdf8567adee799d8c5141da48776508c3c73617b2c140d84cb/", "None", "0", "Joker"
+"2025-01-03 12:57:50", "1377592", "03254e6240c35f7d787ca5175ffc36818185e62bdfc4d88d5b342451a747156d", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "100", "", "None", "0", "Joker"
+"2025-01-03 12:57:50", "1377593", "35ff79dd456fe3054a60fe0a16f38bf5fc3928e1e8439ca4d945573f8c48c0b8", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "100", "", "None", "0", "Joker"
+# Number of entries: 11
