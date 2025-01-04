@@ -1,12 +1,20 @@
 ################################################################
 # abuse.ch SSLBL SSL Certificate Blacklist (SHA1 Fingerprints) #
-# Last updated: 2025-01-02 12:51:55 UTC                        #
+# Last updated: 2025-01-03 19:29:08 UTC                        #
 #                                                              #
 # Terms Of Use: https://sslbl.abuse.ch/blacklist/              #
 # For questions please contact sslbl [at] abuse.ch             #
 ################################################################
 #
 # Listingdate,SHA1,Listingreason
+2025-01-03 19:29:08,b4896b41bb72fcb4c7b5f5c0e421d29ca8dfd76f,LummaStealer C&C
+2025-01-03 19:28:40,d7810d16bd774b12302ab605b87ed3552928e6eb,Vidar C&C
+2025-01-03 19:28:32,2c1d67701f6b6d6e7310a01691077a553a75e051,CobaltStrike C&C
+2025-01-03 19:28:15,9c5c629714f979b8da0b751e84e31355d1cd82f1,LummaStealer C&C
+2025-01-03 19:27:37,2166feacd877196b18a84de8436eaa112079fb3d,LummaStealer C&C
+2025-01-03 19:25:51,be2b0b270e4db19caa5c42e9d2ebf64645a2d055,QuasarRAT C&C
+2025-01-03 19:25:45,05e7628dbd03640b9874ffdab4362544f08c5420,Malware C&C
+2025-01-03 19:25:10,8970ff8591283c38311008ce4f135e4ac3b12542,AsyncRAT C&C
 2025-01-02 12:51:55,f834c36c57659f59a9044d51c1736836b847ca65,AsyncRAT C&C
 2025-01-01 08:07:28,d913a1185d775432542caf200a4252049b71c11a,QuasarRAT C&C
 2025-01-01 08:07:26,88d5d2e6c33089786488a381589cc2587b1b6759,QuasarRAT C&C
@@ -6080,4 +6088,4 @@
 2014-05-04 08:10:31,86d6aade4ba1414a91b1e7fb3cdd7d503692f410,Shylock C&C
 2014-05-04 08:10:26,5afc236d1dd00c9c45457b75226b501b815a59c7,Shylock C&C
 2014-05-04 08:09:56,b08a4939fb88f375a2757eaddc47b1fb8b554439,Shylock C&C
-# END (6073) entries
+# END (6081) entries
