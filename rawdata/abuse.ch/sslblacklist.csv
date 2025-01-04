@@ -1,12 +1,25 @@
 ################################################################
 # abuse.ch SSLBL SSL Certificate Blacklist (SHA1 Fingerprints) #
-# Last updated: 2025-01-03 19:29:08 UTC                        #
+# Last updated: 2025-01-04 14:33:25 UTC                        #
 #                                                              #
 # Terms Of Use: https://sslbl.abuse.ch/blacklist/              #
 # For questions please contact sslbl [at] abuse.ch             #
 ################################################################
 #
 # Listingdate,SHA1,Listingreason
+2025-01-04 14:33:25,d2644e539503369e03b6de6784c6dd035e1d22a3,LummaStealer C&C
+2025-01-04 14:18:23,d6b2ec0775b2b53d46ba959a30b0b4df6de8ce93,LummaStealer C&C
+2025-01-04 14:18:22,e819b88b9dc16742b8ee7fdf955671e75a98d3ac,LummaStealer C&C
+2025-01-04 14:18:21,ce405c3e378e1518b5f36e9796bb6e4e01e462bd,LummaStealer C&C
+2025-01-04 14:18:20,66c86f487aa8d60701f3c67534bafb45fafedd36,LummaStealer C&C
+2025-01-04 14:18:19,b3ab97227ceee8f266b51fe161d8f410c801a5a9,LummaStealer C&C
+2025-01-04 14:18:18,64f12863c80aae2c95210e79a6fc78aab0c37ed8,LummaStealer C&C
+2025-01-04 14:18:09,a7b34e7c7faeae3a4caac337daa60d8d039d3c44,LummaStealer C&C
+2025-01-04 14:17:27,599f2aa0faa861d0ba6f6a742d198389eee49be9,LummaStealer C&C
+2025-01-04 14:17:27,4ced8190a27ec9d5e80acb853fbe985708fbd795,LummaStealer C&C
+2025-01-04 14:16:55,016e890d35fdb6999bb7c9c21c663cb3e6193693,Rhadamanthys C&C
+2025-01-04 13:12:13,fd129d226e1f8c0ae50ad8cd822b452b313c97fe,AsyncRAT C&C
+2025-01-04 13:12:01,d57f986b0dee4fff26a7e257f6beadb353345823,AsyncRAT C&C
 2025-01-03 19:29:08,b4896b41bb72fcb4c7b5f5c0e421d29ca8dfd76f,LummaStealer C&C
 2025-01-03 19:28:40,d7810d16bd774b12302ab605b87ed3552928e6eb,Vidar C&C
 2025-01-03 19:28:32,2c1d67701f6b6d6e7310a01691077a553a75e051,CobaltStrike C&C
@@ -6088,4 +6101,4 @@
 2014-05-04 08:10:31,86d6aade4ba1414a91b1e7fb3cdd7d503692f410,Shylock C&C
 2014-05-04 08:10:26,5afc236d1dd00c9c45457b75226b501b815a59c7,Shylock C&C
 2014-05-04 08:09:56,b08a4939fb88f375a2757eaddc47b1fb8b554439,Shylock C&C
-# END (6081) entries
+# END (6094) entries
