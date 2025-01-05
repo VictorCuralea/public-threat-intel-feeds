@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-01-04 14:55:11 UTC                        #
+# Last updated: 2025-01-04 20:03:27 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	events.api.upgrade1.zip
+127.0.0.1	sso.microsoft-onedrive.upgrade1.zip
+127.0.0.1	pixelize.cloud
+127.0.0.1	between-youth.gl.at.ply.gg
 127.0.0.1	broworker5s.com
 127.0.0.1	browork2er.cc
 127.0.0.1	lemonsmp.work.gd
@@ -17975,4 +17979,4 @@
 127.0.0.1	publicitttyps.shop
 127.0.0.1	benchillppwo.shop
 127.0.0.1	five-sequences.gl.at.ply.gg
-# Number of entries: 17969
+# Number of entries: 17973
