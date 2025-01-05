@@ -1,11 +1,19 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-01-04 20:03:27 UTC                        #
+# Last updated: 2025-01-05 09:45:09 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	both-foundations.gl.at.ply.gg
+127.0.0.1	quils.shop
+127.0.0.1	login.microsoft-onedrive.trunetkings.xyz.trunetkings.xyz
+127.0.0.1	vm4.deneb.it
+127.0.0.1	cpcalendars.sumup.live
+127.0.0.1	img6.mllcrosoft.com
+127.0.0.1	gui.microsoft.upgrade1.zip
+127.0.0.1	reporting.microsoft.upgrade1.zip
 127.0.0.1	events.api.upgrade1.zip
 127.0.0.1	sso.microsoft-onedrive.upgrade1.zip
 127.0.0.1	pixelize.cloud
@@ -17967,5 +17975,4 @@
 127.0.0.1	osgnhr9zv.top
 127.0.0.1	tempesolarcompany.com
 127.0.0.1	s1mpl3.simple-url.com
-127.0.0.1	extorteauhhwigw.shop
-# Number of entries: 17962
+# Number of entries: 17969
