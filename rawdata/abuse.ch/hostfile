@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-01-05 17:44:40 UTC                        #
+# Last updated: 2025-01-05 22:38:07 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	212a947ce8a77f478fc25a920d4cf6e0.com
+127.0.0.1	infomsghub.com
+127.0.0.1	myfilebuilders.com
 127.0.0.1	kcehmenjdibnmni.top
 127.0.0.1	gop.mllcrosoft.com
 127.0.0.1	img1.upgrade1.zip
@@ -18119,4 +18122,4 @@
 127.0.0.1	osgnhr9zv.top
 127.0.0.1	tempesolarcompany.com
 127.0.0.1	s1mpl3.simple-url.com
-# Number of entries: 18113
+# Number of entries: 18116
