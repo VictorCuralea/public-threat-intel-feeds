@@ -1,11 +1,33 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-01-05 22:38:07 UTC                        #
+# Last updated: 2025-01-06 09:31:54 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	zone.ebuilderssource.com
+127.0.0.1	lanhub.dreamhack-leipzig.de
+127.0.0.1	ilyasautotech.com.au
+127.0.0.1	cfffee.sbs
+127.0.0.1	www.laboursupplychains-za.org
+127.0.0.1	mypajnel.x24hr.com
+127.0.0.1	gate.0xbot.cc
+127.0.0.1	64.176.65.49.sslip.io
+127.0.0.1	64-176-59-232.ipv4.staticdns3.io
+127.0.0.1	vmi2262496.contaboserver.net
+127.0.0.1	webdisk.sumup.live
+127.0.0.1	nice-raman.154-216-18-93.plesk.page
+127.0.0.1	ssl.upgrade1.zip
+127.0.0.1	reporting.microsoft-onedrive.upgrade1.zip
+127.0.0.1	res.microsoft.upgrade1.zip
+127.0.0.1	csp.upgrade1.zip
+127.0.0.1	g.mllcrosoft.com
+127.0.0.1	device.login.microsoft-onedrive.upgrade1.zip
+127.0.0.1	ssl.microsoft.upgrade1.zip
+127.0.0.1	www.mllcrosoft.com
+127.0.0.1	microsoft.upgrade1.zip
+127.0.0.1	reporting.upgrade1.zip
 127.0.0.1	212a947ce8a77f478fc25a920d4cf6e0.com
 127.0.0.1	infomsghub.com
 127.0.0.1	myfilebuilders.com
@@ -18114,7 +18136,4 @@
 127.0.0.1	paul.sportlearningcenters.info
 127.0.0.1	dollarman101.hopto.org
 127.0.0.1	civilizzzationo.shop
-127.0.0.1	113.125.179.13
-127.0.0.1	itechnetworkbd.com
-127.0.0.1	rejgroups.com
-# Number of entries: 18111
+# Number of entries: 18130

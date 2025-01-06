@@ -1,12 +1,22 @@
 ################################################################
 # abuse.ch SSLBL SSL Certificate Blacklist (SHA1 Fingerprints) #
-# Last updated: 2025-01-05 07:46:26 UTC                        #
+# Last updated: 2025-01-06 07:03:48 UTC                        #
 #                                                              #
 # Terms Of Use: https://sslbl.abuse.ch/blacklist/              #
 # For questions please contact sslbl [at] abuse.ch             #
 ################################################################
 #
 # Listingdate,SHA1,Listingreason
+2025-01-06 07:03:48,3da78e14fc41ad913620c8634a3667433d1fd26d,LummaStealer C&C
+2025-01-06 06:46:42,65940f11374651c87e8131c4328e542aefe6f05d,QuasarRAT C&C
+2025-01-06 06:46:02,4a883d3fc8f269324acdcf0e4b7ffeca042cd47d,QuasarRAT C&C
+2025-01-06 06:45:49,180ea3c7065b772f9c53812b4c9843bbeaa5a09c,VenomRAT C&C
+2025-01-06 06:45:42,1085b1e8fab914ed251eb49abcc8a00d0b9d7527,LummaStealer C&C
+2025-01-06 06:45:18,722f3f079043ecbf7ecc786c110d45c1efcb5141,StormKitty C&C
+2025-01-06 06:43:42,b48ac915df2769f16e7e8f40bc48bce7b922c7d0,LummaStealer C&C
+2025-01-06 06:43:29,059ce16bf26592b479afa18ae8d9b0ba6de959e0,LummaStealer C&C
+2025-01-06 06:43:27,56b9a8ff73c4d5cc8bfad4b6bbc80fbd11a1658d,LummaStealer C&C
+2025-01-06 06:42:28,33edf2cb873507fbeaa3a00de7679724b599d602,LummaStealer C&C
 2025-01-05 07:46:26,a9af2acb67bcce3a71778a8d28264c433a104c78,CobaltStrike C&C
 2025-01-05 07:37:31,2e8e5edb7124b180a305eae18da067deb963fc1d,LummaStealer C&C
 2025-01-05 07:37:17,aec008d7c1fa2dedfc9b3a62533f4e5b3f51debf,LummaStealer C&C
@@ -6104,4 +6114,4 @@
 2014-05-04 08:10:31,86d6aade4ba1414a91b1e7fb3cdd7d503692f410,Shylock C&C
 2014-05-04 08:10:26,5afc236d1dd00c9c45457b75226b501b815a59c7,Shylock C&C
 2014-05-04 08:09:56,b08a4939fb88f375a2757eaddc47b1fb8b554439,Shylock C&C
-# END (6097) entries
+# END (6107) entries
