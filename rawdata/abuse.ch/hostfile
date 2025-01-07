@@ -1,11 +1,29 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-01-06 21:19:59 UTC                        #
+# Last updated: 2025-01-07 04:03:15 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	www.ultimatesocial.shop
+127.0.0.1	acc.microsoft-onedrive.upgrade1.zip
+127.0.0.1	gui.upgrade1.zip
+127.0.0.1	g.sst.microsoft-onedrive.upgrade1.zip
+127.0.0.1	login.microsoft.upgrade1.zip
+127.0.0.1	stattscheck.com
+127.0.0.1	185.103.102.219.sslip.io
+127.0.0.1	webdisk.apri.194-59-31-25.cprapid.com
+127.0.0.1	webdisk.vedi.194-59-31-25.cprapid.com
+127.0.0.1	events.api.microsoft-onedrive.upgrade1.zip
+127.0.0.1	csp.microsoft.upgrade1.zip
+127.0.0.1	d1.persiatm.com
+127.0.0.1	sso.mllcrosoft.com
+127.0.0.1	ghostopbr2-31034.portmap.host
+127.0.0.1	www.2ajeeps.info
+127.0.0.1	brabuk.info
+127.0.0.1	autodiscover.sumup.live
+127.0.0.1	www.nftgamewatch.info
 127.0.0.1	fivt15vs.top
 127.0.0.1	motion-treesz.sbs
 127.0.0.1	disobey-curly.sbs
@@ -18239,4 +18257,4 @@
 127.0.0.1	136.169.29.34.bc.googleusercontent.com
 127.0.0.1	paul.sportlearningcenters.info
 127.0.0.1	dollarman101.hopto.org
-# Number of entries: 18233
+# Number of entries: 18251
