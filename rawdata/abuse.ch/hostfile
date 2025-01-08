@@ -1,11 +1,19 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-01-08 08:15:25 UTC                        #
+# Last updated: 2025-01-08 16:15:49 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	municipioalcidiadechicamocha.ddnsgeek.com
+127.0.0.1	tlabs-za.com
+127.0.0.1	tracking-usps.com
+127.0.0.1	img1.mllcrosoft.com
+127.0.0.1	login.mllcrosoft.com
+127.0.0.1	raysre.com
+127.0.0.1	forttj14vs.top
+127.0.0.1	five5vt.top
 127.0.0.1	bxikebdyxv.com
 127.0.0.1	ssl.mllcrosoft.com
 127.0.0.1	www.phantom-security.com
@@ -18265,6 +18273,4 @@
 127.0.0.1	wrld-proxy.ru
 127.0.0.1	hpr-rtlernt.com
 127.0.0.1	mint-stealer.top
-127.0.0.1	jiumi.eu.org
-127.0.0.1	upshare.wimscp.net
-# Number of entries: 18261
+# Number of entries: 18267

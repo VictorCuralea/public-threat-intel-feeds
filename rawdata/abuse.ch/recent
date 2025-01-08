@@ -1,14 +1,16 @@
 ################################################################
 # ThreatFox IOCs: recent SHA256 hashes - CSV format            #
-# Last updated: 2025-01-07 18:23:23 UTC                        #
+# Last updated: 2025-01-08 16:15:48 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
 # "first_seen_utc","ioc_id","ioc_value","ioc_type","threat_type","fk_malware","malware_alias","malware_printable","last_seen_utc","confidence_level","reference","tags","anonymous","reporter"
+"2025-01-08 16:15:48", "1379658", "558fe8c705bbd035f886cc02acee3fdfa50398e74795f62d182e01225d58e2e2", "sha256_hash", "payload", "win.lumma", "LummaC2 Stealer", "Lumma Stealer", "", "100", "", "LummaStealer", "0", "Joker"
+"2025-01-08 16:15:48", "1379659", "586b3a854631ed30c8aefbde7edcf3a725d7c40a4a56c8ebc17aeb64979ea442", "sha256_hash", "payload", "win.lumma", "LummaC2 Stealer", "Lumma Stealer", "", "100", "", "LummaStealer", "0", "Joker"
 "2025-01-07 18:23:23", "1379383", "6d890c662047b30e7e5003daa3b6db782c40671b98a046a03828e61382f5c73e", "sha256_hash", "payload", "win.meterpreter", "None", "Meterpreter", "", "100", "", "backdoor,meterpreter", "0", "Joker"
 "2025-01-07 13:41:20", "1379364", "fc1595c71b570027b6712c70cafcc075686e14b5702a5a0910f642eb739ac01f", "sha256_hash", "payload", "win.lumma", "LummaC2 Stealer", "Lumma Stealer", "", "50", "https://bazaar.abuse.ch/sample/fc1595c71b570027b6712c70cafcc075686e14b5702a5a0910f642eb739ac01f/", "lumma", "0", "Joker"
 "2025-01-07 12:45:53", "1379359", "066dc9a1134b1db77c1574a52002f53b28cc29d0a3769bd5156d1e0e0a51a91a", "sha256_hash", "payload", "win.coinminer", "None", "Coinminer", "", "100", "https://www.virustotal.com/gui/file/066dc9a1134b1db77c1574a52002f53b28cc29d0a3769bd5156d1e0e0a51a91a", "None", "0", "Joker"
 "2025-01-07 09:33:14", "1379327", "c8eb0669034325370fb6e66aabdf0848b884f58d89cc44655d612bd315754e59", "sha256_hash", "payload", "win.remcos", "RemcosRAT,Remvio,Socmer", "Remcos", "", "100", "", "None", "0", "Joker"
-# Number of entries: 4
+# Number of entries: 6
