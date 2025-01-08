@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-01-07 21:03:21 UTC                        #
+# Last updated: 2025-01-08 04:03:07 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	accounts.app-cloud.link
+127.0.0.1	2ajeeps.info
+127.0.0.1	outlook.offfec.me
+127.0.0.1	www.sumup.live
 127.0.0.1	dalsksafksdlgskgdkhdfkfhdflhkdkkdrt.rodeo
 127.0.0.1	okta.microsoft-onedrive.upgrade1.zip
 127.0.0.1	jdcdn.life
@@ -18261,5 +18265,4 @@
 127.0.0.1	webaxt.com
 127.0.0.1	websext.com
 127.0.0.1	websixt.com
-127.0.0.1	sx.adminer.eu.org
-# Number of entries: 18256
+# Number of entries: 18259
