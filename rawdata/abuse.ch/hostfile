@@ -1,11 +1,17 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-01-08 18:22:48 UTC                        #
+# Last updated: 2025-01-09 04:03:23 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	res.upgrade1.zip
+127.0.0.1	www.brabuk.info
+127.0.0.1	acc.microsoft.upgrade1.zip
+127.0.0.1	ok.microsoft.upgrade1.zip
+127.0.0.1	events.api.microsoft.upgrade1.zip
+127.0.0.1	myaccount.app-cloud.link
 127.0.0.1	guidemytax.com
 127.0.0.1	solve.bogx.org
 127.0.0.1	blojanpal.ultrassomterapico.sbs
@@ -18341,4 +18347,4 @@
 127.0.0.1	kinltd.top
 127.0.0.1	wrld-proxy.ru
 127.0.0.1	hpr-rtlernt.com
-# Number of entries: 18335
+# Number of entries: 18341
