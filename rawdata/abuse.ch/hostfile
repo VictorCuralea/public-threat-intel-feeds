@@ -1,11 +1,20 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-01-11 09:14:48 UTC                        #
+# Last updated: 2025-01-11 16:03:17 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	img1.microsoft.upgrade1.zip
+127.0.0.1	account.microsoft-onedrive.upgrade1.zip
+127.0.0.1	upgrade1.zip
+127.0.0.1	bapalal.com
+127.0.0.1	sputnik-1985.com
+127.0.0.1	solve.porw.org
+127.0.0.1	shop.linzlin.top
+127.0.0.1	jpa1.zync.us.kg
+127.0.0.1	aadcdn.upgrade1.zip
 127.0.0.1	remalarm.ddns.net
 127.0.0.1	out.microsoft-onedrive.upgrade1.zip
 127.0.0.1	secure002.com
@@ -18680,5 +18689,4 @@
 127.0.0.1	spikeliftall.com
 127.0.0.1	stripplasst.com
 127.0.0.1	worlpquano.com
-127.0.0.1	pgfabrics.com
-# Number of entries: 18675
+# Number of entries: 18683
