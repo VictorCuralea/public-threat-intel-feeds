@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-01-10 20:54:51 UTC                        #
+# Last updated: 2025-01-11 04:02:35 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ledgerdiagnostics.com
 127.0.0.1	proxyapi.modemfirewall.ru
 127.0.0.1	api.modemfirewall.ru
 127.0.0.1	apm.vpce.gdw55e.microsoft-onedrive.upgrade1.zip
@@ -18685,4 +18686,4 @@
 127.0.0.1	temporary.fail
 127.0.0.1	umarguzardijye.com
 127.0.0.1	jswebcloud.com
-# Number of entries: 18679
+# Number of entries: 18680
