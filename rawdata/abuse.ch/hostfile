@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-01-12 00:03:16 UTC                        #
+# Last updated: 2025-01-12 08:10:00 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	leechon.hackcrack.io
+127.0.0.1	zcbcpapp.com
+127.0.0.1	ecs-121-36-222-101.compute.hwclouds-dns.com
+127.0.0.1	vscodeapp.com
+127.0.0.1	corepatchcraft.com
 127.0.0.1	www.g.mllcrosoft.com
 127.0.0.1	lunarproducts.net
 127.0.0.1	nebulabot.net
@@ -18715,23 +18720,4 @@
 127.0.0.1	daslkjfhi2.homes
 127.0.0.1	daslkjfhi2.pics
 127.0.0.1	dtolnhd.info
-127.0.0.1	domaplc.top
-127.0.0.1	credit-ecommerce.gl.at.ply.gg
-127.0.0.1	daslkjfhi2.lol
-127.0.0.1	kooktaripa.com
-127.0.0.1	astopertat.com
-127.0.0.1	carflotyup.com
-127.0.0.1	garipaupsa.com
-127.0.0.1	grazafnulp.com
-127.0.0.1	asloyganza.com
-127.0.0.1	aytoplesit.com
-127.0.0.1	architrata.com
-127.0.0.1	asiporata.com
-127.0.0.1	21.ip.gl.ply.gg
-127.0.0.1	jinolearwe.com
-127.0.0.1	nitraderasolo.com
-127.0.0.1	paskalpinster.com
-127.0.0.1	spikeliftall.com
-127.0.0.1	stripplasst.com
-127.0.0.1	worlpquano.com
-# Number of entries: 18728
+# Number of entries: 18714
