@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-01-12 20:57:46 UTC                        #
+# Last updated: 2025-01-13 04:04:08 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	wings.pokemulti.fr
+127.0.0.1	info.royalreturns.org
+127.0.0.1	g.sst.upgrade1.zip
+127.0.0.1	cpcontacts.sumup.live
+127.0.0.1	res.mllcrosoft.com
 127.0.0.1	blhwlxzgy.localto.net
 127.0.0.1	adilfgilitter-22453.portmap.host
 127.0.0.1	reset-github.com
@@ -19061,4 +19066,4 @@
 127.0.0.1	le-pencil.gl.at.ply.gg
 127.0.0.1	areaseguras.con-ip.com
 127.0.0.1	rtc-moostas.com
-# Number of entries: 19055
+# Number of entries: 19060
