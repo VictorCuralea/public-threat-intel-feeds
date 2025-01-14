@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-01-13 21:39:15 UTC                        #
+# Last updated: 2025-01-14 04:03:34 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	live.microsoft.upgrade1.zip
 127.0.0.1	thretenb13vs.top
 127.0.0.1	elevenb11vs.top
 127.0.0.1	neinb9pt.top
@@ -19278,4 +19279,4 @@
 127.0.0.1	hild.shop
 127.0.0.1	wordmover.shop
 127.0.0.1	nazi.igboat.com
-# Number of entries: 19272
+# Number of entries: 19273
