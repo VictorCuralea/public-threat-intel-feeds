@@ -1,11 +1,21 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-01-18 23:45:39 UTC                        #
+# Last updated: 2025-01-19 05:45:38 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	cf.r8.lc
+127.0.0.1	cf.r8.lc
+127.0.0.1	account.microsoft.upgrade1.zip
+127.0.0.1	cf.r8.lc
+127.0.0.1	cf.r8.lc
+127.0.0.1	cf.r8.lc
+127.0.0.1	cf.r8.lc
+127.0.0.1	git.deneb.it
+127.0.0.1	outlook.upgrade1.zip
+127.0.0.1	annulation-mabanquebnp.com
 127.0.0.1	cf.r8.lc
 127.0.0.1	cf.r8.lc
 127.0.0.1	cf.r8.lc
@@ -19333,4 +19343,4 @@
 127.0.0.1	ndm2398asdlw.lol
 127.0.0.1	ndm2398asdlw.homes
 127.0.0.1	ndm2398asdlw.mom
-# Number of entries: 19327
+# Number of entries: 19337
