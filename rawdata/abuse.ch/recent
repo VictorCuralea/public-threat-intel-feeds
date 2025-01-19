@@ -1,19 +1,27 @@
 ################################################################
 # ThreatFox IOCs: recent SHA256 hashes - CSV format            #
-# Last updated: 2025-01-19 09:32:15 UTC                        #
+# Last updated: 2025-01-19 12:18:06 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
 # "first_seen_utc","ioc_id","ioc_value","ioc_type","threat_type","fk_malware","malware_alias","malware_printable","last_seen_utc","confidence_level","reference","tags","anonymous","reporter"
-"2025-01-19 09:32:15", "1387907", "dee450c1654e768ba58402bebd7834c2f36a321284d736917d76934578992bca", "sha256_hash", "payload", "win.lockbit", "ABCD Ransomware", "LockBit", "", "50", "", "lockbit", "0", "juroots"
-"2025-01-19 09:32:15", "1387908", "6cf0cfd51b09634194d679fb2c3d8706548e02125346be33ac62deb68f6f0190", "sha256_hash", "payload", "win.lockbit", "ABCD Ransomware", "LockBit", "", "50", "", "lockbit", "0", "juroots"
-"2025-01-19 09:32:15", "1387909", "13d72d8ee7cdd0d2e343b6dc08b957c9796d411062c6be9d864bded9d7e4c9e1", "sha256_hash", "payload", "win.lockbit", "ABCD Ransomware", "LockBit", "", "50", "", "lockbit", "0", "juroots"
-"2025-01-19 09:32:15", "1387910", "6e8a174a9bcf36890ed5b6b3666400b2393a45eb21ffe826067e3124f1377c21", "sha256_hash", "payload", "win.lockbit", "ABCD Ransomware", "LockBit", "", "50", "", "lockbit", "0", "juroots"
-"2025-01-19 09:32:15", "1387911", "b9844b013059f5378d1906fd756b41ae402ed4f47a70f1b679da0b5b74346236", "sha256_hash", "payload", "win.lockbit", "ABCD Ransomware", "LockBit", "", "50", "", "lockbit", "0", "juroots"
-"2025-01-19 09:32:15", "1387912", "d93858aef7e77a3e740e328a2c50b645ee5cd9e8424d56fe41a622816adb4fac", "sha256_hash", "payload", "win.lockbit", "ABCD Ransomware", "LockBit", "", "50", "", "lockbit", "0", "juroots"
-"2025-01-19 09:32:15", "1387913", "e4354736e9ff09bcc51f7cc29e1423a656806031c661098254f26f7d317d0e04", "sha256_hash", "payload", "win.lockbit", "ABCD Ransomware", "LockBit", "", "50", "", "lockbit", "0", "juroots"
+"2025-01-19 12:18:06", "1388046", "0874d307fc45886d2751cd9e6816513dc3e1604e514ef1b291bbe7b1a887cd96", "sha256_hash", "payload", "js.gootloader", "SLOWPOUR", "GootLoader", "", "50", "https://github.com/sophoslabs/IoCs/blob/master/IOC-sheet_gootloader2025.csv", "gootloader", "0", "juroots"
+"2025-01-19 12:18:06", "1388045", "89672c08916dd38d9d4b7f5bbf7f39f919adcaebc7f8bb1ed053cb701005499a", "sha256_hash", "payload", "js.gootloader", "SLOWPOUR", "GootLoader", "", "50", "https://github.com/sophoslabs/IoCs/blob/master/IOC-sheet_gootloader2025.csv", "gootloader", "0", "juroots"
+"2025-01-19 12:18:06", "1388044", "af50c735173326b2af2e2d2b4717590e813c67a65ba664104880dc5d6a58a029", "sha256_hash", "payload", "js.gootloader", "SLOWPOUR", "GootLoader", "", "50", "https://github.com/sophoslabs/IoCs/blob/master/IOC-sheet_gootloader2025.csv", "gootloader", "0", "juroots"
+"2025-01-19 12:18:06", "1388043", "7bcffa722687055359c600e7a9abf5d57c9758dccf65b288ba2e6f174b43ac57", "sha256_hash", "payload", "js.gootloader", "SLOWPOUR", "GootLoader", "", "50", "https://github.com/sophoslabs/IoCs/blob/master/IOC-sheet_gootloader2025.csv", "gootloader", "0", "juroots"
+"2025-01-19 12:18:06", "1388042", "5d50a7cf15561f35ed54a2e442c3dfdac1d660dc18375f7e4105f50eec443f27", "sha256_hash", "payload", "js.gootloader", "SLOWPOUR", "GootLoader", "", "50", "https://github.com/sophoslabs/IoCs/blob/master/IOC-sheet_gootloader2025.csv", "gootloader", "0", "juroots"
+"2025-01-19 12:18:06", "1388041", "258cb1d60a000e8e0bb6dc751b3dc14152628d9dd96454a3137d124a132a4e69", "sha256_hash", "payload", "js.gootloader", "SLOWPOUR", "GootLoader", "", "50", "https://github.com/sophoslabs/IoCs/blob/master/IOC-sheet_gootloader2025.csv", "gootloader", "0", "juroots"
+"2025-01-19 12:18:06", "1388040", "1fcc418bdd7d2d40e7f70b9d636735ab760e1044bb76f8c2232bd189e2fd8be7", "sha256_hash", "payload", "js.gootloader", "SLOWPOUR", "GootLoader", "", "50", "https://github.com/sophoslabs/IoCs/blob/master/IOC-sheet_gootloader2025.csv", "gootloader", "0", "juroots"
+"2025-01-19 12:18:06", "1388039", "03a46ad7873ddb6663377282640d45e38697e0fdc1512692bcaee3cbba1aa016", "sha256_hash", "payload", "js.gootloader", "SLOWPOUR", "GootLoader", "", "50", "https://github.com/sophoslabs/IoCs/blob/master/IOC-sheet_gootloader2025.csv", "gootloader", "0", "juroots"
 "2025-01-19 09:32:15", "1387914", "6f3d87f3dcfd248e64d26cf338a19f41a6f93affdde5fab071a631ff38637757", "sha256_hash", "payload", "win.lockbit", "ABCD Ransomware", "LockBit", "", "50", "", "lockbit", "0", "juroots"
+"2025-01-19 09:32:15", "1387913", "e4354736e9ff09bcc51f7cc29e1423a656806031c661098254f26f7d317d0e04", "sha256_hash", "payload", "win.lockbit", "ABCD Ransomware", "LockBit", "", "50", "", "lockbit", "0", "juroots"
+"2025-01-19 09:32:15", "1387912", "d93858aef7e77a3e740e328a2c50b645ee5cd9e8424d56fe41a622816adb4fac", "sha256_hash", "payload", "win.lockbit", "ABCD Ransomware", "LockBit", "", "50", "", "lockbit", "0", "juroots"
+"2025-01-19 09:32:15", "1387911", "b9844b013059f5378d1906fd756b41ae402ed4f47a70f1b679da0b5b74346236", "sha256_hash", "payload", "win.lockbit", "ABCD Ransomware", "LockBit", "", "50", "", "lockbit", "0", "juroots"
+"2025-01-19 09:32:15", "1387910", "6e8a174a9bcf36890ed5b6b3666400b2393a45eb21ffe826067e3124f1377c21", "sha256_hash", "payload", "win.lockbit", "ABCD Ransomware", "LockBit", "", "50", "", "lockbit", "0", "juroots"
+"2025-01-19 09:32:15", "1387909", "13d72d8ee7cdd0d2e343b6dc08b957c9796d411062c6be9d864bded9d7e4c9e1", "sha256_hash", "payload", "win.lockbit", "ABCD Ransomware", "LockBit", "", "50", "", "lockbit", "0", "juroots"
+"2025-01-19 09:32:15", "1387908", "6cf0cfd51b09634194d679fb2c3d8706548e02125346be33ac62deb68f6f0190", "sha256_hash", "payload", "win.lockbit", "ABCD Ransomware", "LockBit", "", "50", "", "lockbit", "0", "juroots"
+"2025-01-19 09:32:15", "1387907", "dee450c1654e768ba58402bebd7834c2f36a321284d736917d76934578992bca", "sha256_hash", "payload", "win.lockbit", "ABCD Ransomware", "LockBit", "", "50", "", "lockbit", "0", "juroots"
 "2025-01-19 09:28:40", "1387906", "4c53a8e41c934a3a9abef822a69a7372884978dfcc296b8ec9eab4d6a0fddbc5", "sha256_hash", "payload", "win.lockbit", "ABCD Ransomware", "LockBit", "", "50", "", "lockbit", "0", "juroots"
-# Number of entries: 9
+# Number of entries: 17
